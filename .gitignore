@@ -1,0 +1,15 @@
+# Môi trường ảo
+.venv/
+
+# Vector DB (tạo lại được bằng cách chạy rag_demo.py)
+chroma_db/
+
+# API key
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
