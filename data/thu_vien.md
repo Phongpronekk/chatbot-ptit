@@ -5,7 +5,8 @@ topic_group: Thư viện
 campus: Chung (Trung tâm Thông tin - Thư viện Học viện)
 owner: Person C (Phong)
 legal_basis: Quyết định số 817/QĐ-TTTV ngày 14/10/2009 của Giám đốc Học viện
-note: Văn bản ban hành năm 2009, cần đối chiếu xem có văn bản cập nhật hơn không (ví dụ liên quan hệ thống mượn sách online slink.ptit.edu.vn/thu-vien/muon-tra-sach). Giờ mở cửa hiện tại trên website: Sáng 8h00-11h30, Chiều 13h30-19h.
+note: >
+  Văn bản ban hành năm 2009, cần đối chiếu xem có văn bản cập nhật hơn không (ví dụ liên quan hệ thống mượn sách online slink.ptit.edu.vn/thu-vien/muon-tra-sach). Giờ mở cửa hiện tại trên website: Sáng 8h00-11h30, Chiều 13h30-19h.
 ---
 
 # Nội quy thư viện PTIT

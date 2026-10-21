@@ -1,5 +1,6 @@
 # Môi trường ảo
 .venv/
+BE/storage/
 
 # Vector DB (tạo lại được bằng cách chạy rag_demo.py)
 chroma_db/
