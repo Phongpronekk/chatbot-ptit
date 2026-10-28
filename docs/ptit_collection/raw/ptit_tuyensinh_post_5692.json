@@ -1,0 +1,125 @@
+{
+  "id": 5692,
+  "date": "2026-06-11T08:39:54",
+  "date_gmt": "2026-06-11T01:39:54",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5692"
+  },
+  "modified": "2026-06-11T08:39:54",
+  "modified_gmt": "2026-06-11T01:39:54",
+  "slug": "thong-bao-ket-qua-danh-gia-phan-loai-ho-so-va-dinh-huong-nghien-cuu-cua-ung-vien-du-tuyen-nghien-cuu-sinh-dot-1-nam-2026-2",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-ket-qua-danh-gia-phan-loai-ho-so-va-dinh-huong-nghien-cuu-cua-ung-vien-du-tuyen-nghien-cuu-sinh-dot-1-nam-2026-2/",
+  "title": {
+    "rendered": "Thông báo kết quả đánh giá phân loại hồ sơ và định hướng nghiên cứu của ứng viên dự tuyển Nghiên cứu sinh đợt 1 năm 2026"
+  },
+  "content": {
+    "rendered": "<p>Thông báo kết quả đánh giá phân loại hồ sơ và định hướng nghiên cứu của ứng viên dự tuyển Nghiên cứu sinh đợt 1 năm 2026</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.06.09.-TB922-ket-qua-danh-gia-NCS-d1.2026.pdf\">2026.06.09. TB922 ket qua danh gia NCS d1.2026</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thông báo kết quả đánh giá phân loại hồ sơ và định hướng nghiên cứu của ứng viên dự tuyển Nghiên cứu sinh đợt 1 năm 2026 2026.06.09. TB922 ket qua danh gia NCS d1.2026</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5694,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5692",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5692",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5692"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5692/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5695,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5692/revisions/5695"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5694"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5692"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5692"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5692"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

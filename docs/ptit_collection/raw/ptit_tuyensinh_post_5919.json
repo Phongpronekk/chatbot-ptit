@@ -1,0 +1,127 @@
+{
+  "id": 5919,
+  "date": "2026-10-21T10:50:41",
+  "date_gmt": "2026-10-21T03:50:41",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5919"
+  },
+  "modified": "2026-10-21T10:50:41",
+  "modified_gmt": "2026-10-21T03:50:41",
+  "slug": "thong-bao-diem-chuan-trung-tuyen-trinh-do-thac-si-dot-2-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-diem-chuan-trung-tuyen-trinh-do-thac-si-dot-2-nam-2026/",
+  "title": {
+    "rendered": "Thông báo điểm chuẩn trúng tuyển trình độ thạc sĩ đợt 2 năm 2026"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Thông tư số 53/2021/TT-BGDĐT ngày 30/06/2026 của Bộ trưởng Bộ Giáo dục và  Đào tạo về việc ban hành Quy chế đào tạo trình độ thạc sĩ;</p>\n<p>Căn cứ Quyết định số 550/QĐ-HV ngày 21/04/2022 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc ban hành Quy định tuyển sinh và đào tạo trình độ thạc sĩ;</p>\n<p>Căn cứ biên bản họp ngày 09/10/2026 của Hội đồng tuyển sinh trình độ thạc sĩ đợt 2 năm 2026;</p>\n<p>Học viện Công nghệ Bưu chính Viễn thông trân trọng thông báo Điểm chuẩn trúng tuyển trình độ thạc sĩ đợt 2 năm 2026 của Học viện như sau:</p>\n<p><strong>Tổng điểm 2 môn Cơ sở ngành và Chuyên ngành từ 11.0 điểm trở lên.</strong></p>\n<p>Học viện sẽ gửi Giấy báo nhập học và Kế hoạch nhập học cho thí sinh trúng tuyển theo địa chỉ ghi trên hồ sơ dự thi.</p>\n<p><strong><em>Thí sinh chuẩn bị bộ hồ sơ nhập học theo Giấy báo nhập học.</em></strong></p>\n<p>Trân trọng thông báo!</p>\n<p>Quyết định trúng tuyển và danh sách thí sinh trúng tuyển trong file đính kèm: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/10/3538qd.pdf\">3538qd</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Thông tư số 53/2021/TT-BGDĐT ngày 30/06/2026 của Bộ trưởng Bộ Giáo dục và  Đào tạo về việc ban hành Quy chế đào tạo trình độ thạc sĩ; Căn cứ Quyết định số 550/QĐ-HV ngày 21/04/2022 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc ban hành Quy định tuyển [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 5600,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25,
+    67
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5919",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc",
+    "category-site_tuyen_sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5919",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5919"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5919/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5921,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5919/revisions/5921"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5600"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5919"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5919"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5919"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+### Trang 1
+
+HỌC VIỆN CÔNG NGHỆ 
+ BƯU CHÍNH VIỄN THÔNG 
+PHÒNG CHÍNH TRỊ & CTSV   
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập – Tự do – Hạnh phúc 
+Số:  178 /TB-CT&CTSV  Hà Nội, ngày 08 tháng 9 năm 2026 
+ 
+THÔNG BÁO 
+Về việc làm bài kiểm tra thu hoạch sau Tuần sinh hoạt công dân đầu khóa 2026 
+ 
+Thực hiện kế hoạch tổ chức Tuần sinh hoạt công dân đầu khóa cho khóa, năm học 2026–
+2027 (khóa 2026), Phòng Chính trị và Công tác sinh viên thông báo về việc tổ chức thực hiện 
+bài kiểm tra thu hoạch như sau: 
+1. Đối tượng 
+Sinh viên khóa 2026 đã tham gia các buổi học trực tiếp, trực tuyến và hoàn thành tối thiểu 
+50% nội dung bài giảng trên hệ thống LMS của Học viện. 
+2. Thời gian kiểm tra 
+- Từ ngày 12/9/2026 đến hết ngày 13/9/2026 theo lịch của từng sinh viên. 
+- Lịch kiểm tra cụ thể của từng được cập nhật trên Hệ thống QLĐT tại 
+https://qldt.ptit.edu.vn (mục Xem lịch thi → Học kỳ 1 năm học 2026-2027). Sinh viên chủ động 
+kiểm tra và làm bài đúng lịch. 
+3. Hình thức kiểm tra 
+- Hình thức: Trắc nghiệm trực tuyến, thời gian: 30 phút. 
+- Hệ thống làm bài: https://code.ptit.edu.vn. 
+- Nội dung: Các thông tin về Học viện, chương trình đào tạo, quy chế đào tạo, công tác 
+sinh viên và các nội dung liên quan trong Sổ tay sinh viên, bài giảng trên hệ thống LMS. 
+4. Yêu cầu đối với sinh viên 
+- Kiểm tra lịch thi, tài khoản, thiết bị và đường truyền internet trước khi làm bài. 
+- Thực hiện bài kiểm tra nghiêm túc, đúng thời gian, đúng hướng dẫn; không gian lận hoặc 
+nhờ người khác làm bài thay. 
+- Đọc kỹ Hướng dẫn làm bài kiểm tra thu hoạch gửi kèm. 
+- Nếu gặp sự cố, sinh viên chụp màn hình, lưu thông tin liên quan và liên hệ email : 
+ctsv@ptit.edu.vn hoặc quét mã Zalo kèm theo để được hỗ trợ. 
+- Kết quả kiểm tra là căn cứ đánh giá việc hoàn thành Tuần sinh hoạt công dân đầu khóa 
+của sinh viên. 
+Phòng Chính trị và Công tác sinh viên thông báo và đề nghị các sinh viên nghiêm túc triển 
+khai thực hiện./. 
+ 
+Nơi nhận: 
+- SV khóa D26;  
+- Ban GĐHV (b/c);  
+- Các Khoa/Viện, ĐTN (p/h); 
+- Các phòng: GV; TCKT; 
+- Lưu: CT&CTSV. 
+  TRƯỞNG PHÒNG  
+ 
+ 
+ 
+Nguyễn Chí Thành 
+ (đã ký) 
+
+### Trang 2
+
+2 
+ 
+
+
+### Trang 3
+
+3 
+ 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG   
+HỆ THỐNG THI DLAB 
+ 
+Hướng dẫn sinh viên làm bài kiểm tra thu hoạch trắc nghiệm 
+ 
+Tài liệu hướng dẫn sinh viên làm bài kiểm tra thu hoạch dạng trắc nghiệm trực tuyến 
+trong đợt “Tuần lễ sinh hoạt công dân”. 
+Đối tượng: Sinh viên 
+Hình thức: Trắc nghiệm trên trình duyệt 
+Truy cập: https://code.ptit.edu.vn 
+
+### Trang 4
+
+4 
+ 
+ 
+Mục lục 
+Mục lục....................................................................................................................... 4 
+Các bước làm bài........................................................................................................ 5 
+Bảng màu trạng thái câu hỏi ...................................................................................... 8 
+Sự cố thường gặp ....................................................................................................... 8 
+Hỗ trợ trong giờ thi .................................................................................................... 8 
+ 
+
+### Trang 5
+
+5 
+ 
+ 
+I. Các bước làm bài 
+Làm theo thứ tự dưới đây. Bài làm được tự lưu liên tục, nên nếu lỡ mất mạng hay tải lại 
+trang, các đáp án đã chọn vẫn còn. 
+ 
+Sơ đồ tổng quát quy trình làm bài của sinh viên. 
+1. Chuẩn bị thiết bị 
+Dùng máy tính (khuyến nghị) hoặc điện thoại có trình duyệt hiện đại (Chrome, Edge, 
+Cốc Cốc, Safari bản mới) và mạng ổn định. Đóng các ứng dụng không cần thiết. Nếu 
+ca thi yêu cầu điểm danh khuôn mặt, cần bật webcam (BTC thông báo trước). 
+2. Đăng nhập 
+Mở địa chỉ hệ thống do BTC cung cấp, nhập Tài khoản và Mật khẩu được cấp rồi 
+bấm Đăng nhập. Nếu trường bật đăng nhập Office 365, có thể bấm nút đăng nhập 
+bằng email nhà trường. 
+Mẹo: nên đăng nhập thử trước ngày thi. Quên mật khẩu → dùng liên kết “Quên mật 
+khẩu” hoặc liên hệ BTC. 
+ 
+Màn hình đăng nhập (ảnh chụp thực tế): nhập Tài khoản và Mật khẩu rồi bấm Đăng 
+nhập. 
+3. Vào ca kiểm tra 
+Sau khi đăng nhập, mục Ca thi / Kỳ thi hiển thị các ca đang mở phòng chờ hoặc đang 
+diễn ra. Bấm Vào ở đúng ca “Kiểm tra thu hoạch” của lớp/đợt mình. Chưa tới giờ thì 
+ở phòng chờ cùng đồng hồ đếm tới giờ bắt đầu. 
+
+### Trang 6
+
+6 
+ 
+ 
+Danh sách ca của sinh viên (ảnh chụp thực tế): ca đang mở hiển thị trạng thái “Đang 
+diễn ra” — bấm “Tiếp tục/Vào” để làm bài. 
+4. Bắt đầu làm bài 
+Đến giờ, đề bài hiện ra. Bấm mục “Trắc nghiệm” ở thanh bên trái để vào danh sách 
+câu hỏi. Góc trên có đồng hồ đếm ngược thời gian còn lại. 
+5. Trả lời từng câu 
+Tuỳ đề, câu hỏi có các dạng: một đáp án đúng (chọn 1 ô tròn); nhiều đáp án đúng 
+(tích các ô vuông); điền chỗ trống (gõ nội dung); sắp xếp (kéo các mục về đúng thứ 
+tự). 
+Đáp án được tự động lưu ngay sau khi chọn — không có nút “lưu” riêng từng câu. 
+6. Theo dõi tiến độ & đánh dấu phân vân 
+Bảng ô số thứ tự câu cho biết câu nào đã làm, chưa làm hay đang phân vân (xem 
+bảng màu bên dưới). Câu chưa chắc, bật “Phân vân” để quay lại sau — không ảnh 
+hưởng điểm. 
+7. Nộp bài 
+Làm xong, bấm Nộp bài. Hệ thống hỏi lại “Nộp bài trắc nghiệm?” — chọn Nộp bài 
+để chốt, hoặc Tiếp tục làm để quay lại. 
+QUAN TRỌNG: sau khi nộp không thể làm lại. Chỉ bấm Nộp khi đã rà soát 
+xong. 
+8. Hết giờ 
+Khi hết thời gian, hệ thống tự nộp phần đã làm và đưa về trang chủ (có thể tự đăng 
+xuất). Vì bài đã tự lưu liên tục, phần đã trả lời vẫn được ghi nhận. 
+9. Xem lại (nếu được mở) 
+
+### Trang 7
+
+7 
+ 
+Nếu BTC bật “Cho xem lại bài sau thi”, sau khi ca kết thúc bạn mở lại ca để xem câu 
+nào đúng/sai và đáp án đúng. Không thấy tùy chọn này nghĩa là ca không cho xem 
+lại. 
+ 
+Màn hình làm bài trắc nghiệm (ảnh chụp thực tế): thanh trái là mục “Trắc nghiệm” và 
+đồng hồ; khu giữa là các câu hỏi và phương án; khung phải “Tổng quan” có lưới câu 
+(đã làm/chưa làm/phân vân) và nút Nộp bài. 
+Trong lúc làm bài: không rời trang, không mở tab khác nếu ca có giám sát. Thao tác sao 
+chép nội dung đề có thể bị chặn. Mọi hành vi rời màn hình có thể được ghi nhận cho 
+giám thị. 
+
+### Trang 8
+
+8 
+ 
+II. Bảng màu trạng thái câu hỏi 
+Màu / Trạng thái Ý nghĩa 
+Xám — Chưa làm Câu chưa chọn đáp án nào. 
+Xanh — Đã làm Đã chọn/điền đáp án. 
+Cam — Phân vân Bạn đã đánh dấu để quay lại — ưu tiên hiển thị hơn “đã làm”. 
+Ở chế độ xem lại sau thi, màu chuyển thành: xanh = trả lời đúng, đỏ = sai. 
+ 
+III. Sự cố thường gặp 
+Tình huống Xử lý 
+Mất mạng / lỡ tải lại trang Đăng nhập lại và vào lại ca — các đáp án đã chọn vẫn 
+còn (đã tự lưu). Đồng hồ vẫn chạy theo giờ ca. 
+Đăng nhập không được Kiểm tra đúng tài khoản/mật khẩu; thử “Quên mật 
+khẩu”; nếu vẫn lỗi, báo BTC cấp lại. 
+Không thấy ca thi Chưa tới giờ mở phòng chờ, hoặc tài khoản chưa được 
+thêm vào ca — báo BTC kiểm tra danh sách. 
+Bị khoá khỏi ca Hệ thống hiện lý do — liên hệ giám thị/BTC để mở lại 
+nếu do nhầm lẫn. 
+Máy chậm / treo gần hết giờ Báo giám thị ngay để được gia hạn giờ nếu là sự cố kỹ 
+thuật. 
+ 
+IV. Hỗ trợ trong giờ thi 
+Đang làm bài, sinh viên dùng nút Hỗ trợ để gửi yêu cầu theo đúng ca đang thi; giám 
+thị/BTC theo dõi và phản hồi. Sự cố khẩn liên hệ trực tiếp cán bộ theo thông báo của 
+Học viện. 
+Thao tác và nhãn hiển thị có thể thay đổi đôi chút theo cấu hình từng đợt; khi có khác 
+biệt, ưu tiên hướng dẫn trực tiếp của ban tổ chức. 
+ 

@@ -1,0 +1,120 @@
+{
+  "id": 32990,
+  "date": "2025-04-19T15:39:26",
+  "date_gmt": "2025-04-19T08:39:26",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32990"
+  },
+  "modified": "2025-11-05T15:54:46",
+  "modified_gmt": "2025-11-05T08:54:46",
+  "slug": "khung-ke-hoach-dao-tao-nam-hoc-2025-2026-cua-hoc-vien",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/khung-ke-hoach-dao-tao-nam-hoc-2025-2026-cua-hoc-vien/",
+  "title": {
+    "rendered": "Khung kế hoạch đào tạo năm học 2025-2026 của Học viện"
+  },
+  "content": {
+    "rendered": "<p>Ngày 18/04/2025 Giám đốc Học viện đã ký Quyết định số 420/QĐ-HV ban hành Kế hoạch đào tạo năm học 2025-2026 của Học viện.</p>\n<p>Phòng Giáo vụ thông báo Khung kế hoạch đào tạo năm học 2025-2026 để sinh viên tiện theo dõi, thực hiện.</p>\n<p>Một số mốc chính trong năm học 2025-2026 đối với hệ Đại học chính quy:</p>\n<p>+ Học kỳ 1: Giảng dạy – học tập từ 11/08-07/12/2025 (17 tuần), thi từ 9/12/2025-04/01/2026 (04 tuần).</p>\n<p>+ Học kỳ 2: Giảng dạy – học tập từ 12/01-24/05/2026 (17 tuần), thi từ 25/05-21/06/2026 (04 tuần).</p>\n<p>+ Nghỉ tết Nguyên đán 2 tuần: 9/02-22/02/2026.</p>\n<p>+ Học kỳ phụ: Từ 29/06-09/08/2026 (06 tuần).</p>\n<p>+ Khóa 2025 nhập học dự kiến đầu tháng 09/2024.</p>\n<p>+ Khóa 2022 khối kỹ thuật thực tập tốt nghiệp: 22/06 &#8211; 09/08/2026.</p>\n<p>+ Khóa 2022 khối kinh tế thực tập tốt nghiệp: 12/01 &#8211; 08/03/2026.</p>\n<p>Trân trọng ./.</p>\n<p><em><strong>Tải về:</strong></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/11/4_Bieudo_KHDT_2025_2026_chinhthuc_gui_Phuong.xlsx\">Bieudo_KHDT_2025_2026_chinhthuc</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 18/04/2025 Giám đốc Học viện đã ký Quyết định số 420/QĐ-HV ban hành Kế hoạch đào tạo năm học 2025-2026 của Học viện. Phòng Giáo vụ thông báo Khung kế hoạch đào tạo năm học 2025-2026 để sinh viên tiện theo dõi, thực hiện. Một số mốc chính trong năm học 2025-2026 đối với [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    9,
+    25,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32990",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-ke-hoach-dao-tao",
+    "category-ke-hoach-dao-tao-nam-hoc-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32990",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32990"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32990/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32990"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32990"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32990"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

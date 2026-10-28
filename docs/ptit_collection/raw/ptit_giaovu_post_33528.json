@@ -1,0 +1,129 @@
+{
+  "id": 33528,
+  "date": "2026-08-21T09:19:30",
+  "date_gmt": "2026-08-21T02:19:30",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33528"
+  },
+  "modified": "2026-08-21T09:23:15",
+  "modified_gmt": "2026-08-21T02:23:15",
+  "slug": "cap-lai-the-sinh-vien-hoc-ky-i-nam-hoc-2026-2027",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/cap-lai-the-sinh-vien-hoc-ky-i-nam-hoc-2026-2027/",
+  "title": {
+    "rendered": "Cấp lại thẻ sinh viên học kỳ I năm học 2026 &#8211; 2027"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Quy định về quản lý, cấp phát thẻ sinh viên của Học viện, Phòng Giáo vụ thông báo về việc cấp lại thẻ sinh viên (thẻ cứng plastic) học kỳ I năm học 2026-2027 như sau:</p>\n<ol>\n<li><strong>Đối tượng:</strong> Sinh viên các lớp hệ Đại học chính quy đang trong thời gian học tập tại cơ sở Hà Nội đã bị mất, hỏng thẻ sinh viên và có nhu cầu làm lại, cấp lại.</li>\n<li><strong>Thủ tục, thời gian thực hiện: </strong></li>\n</ol>\n<p>&#8211; Sinh viên thực hiện đăng ký trên ứng dụng PTIT S-Link: Sinh viên <strong>cập nhật bản mới nhất của ứng dụng</strong> sau đó đăng nhập và vào mục <strong><em>Dịch vụ một cửa -&gt; Giáo vụ -&gt; Đơn đề nghị cấp lại, đổi thẻ sinh viên</em></strong>, điền đầy đủ thông tin, gửi kèm ảnh thẻ 3&#215;4, ảnh chụp CMTND/CCCD, thực hiện thanh toán dịch vụ và nộp đơn theo hướng dẫn trên ứng dụng.</p>\n<p>&#8211; Thời gian đăng ký: Từ 20/08/2026 đến hết 10/09/2026.</p>\n<p>&#8211; Thời gian trả thẻ: Dự kiến tháng 10/2026. Phòng Giáo vụ sẽ có thông báo cụ thể sau.</p>\n<p><strong>Lưu ý: </strong>Phòng Giáo vụ từ chối tiếp nhận các trường hợp không đầy đủ thông tin hồ sơ; thiếu ảnh thẻ, bản chụp CMTND/CCCD hoặc chưa nộp lệ phí.</p>\n<p>Phòng Giáo vụ thông báo và đề nghị các sinh viên thuộc các đối tượng nêu trên biết và triển khai thực hiện.</p>\n<p><strong>Trân trọng thông báo! </strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Quy định về quản lý, cấp phát thẻ sinh viên của Học viện, Phòng Giáo vụ thông báo về việc cấp lại thẻ sinh viên (thẻ cứng plastic) học kỳ I năm học 2026-2027 như sau: Đối tượng: Sinh viên các lớp hệ Đại học chính quy đang trong thời gian học tập [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 98,
+  "featured_media": 32451,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33528",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33528",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/98"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33528"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33528/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33529,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33528/revisions/33529"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32451"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33528"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33528"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33528"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

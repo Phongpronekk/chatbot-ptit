@@ -1,0 +1,314 @@
+### Trang 1
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH HỆ THỐNG THÔNG TIN - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B1 (3 TC)
+Các hệ thống IoT hiện 
+đại (3TC)
+Kiến trúc hệ thống 
+thông tin (3TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Dữ liệu lớn (3TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B4 (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Điện toán đám mây 
+(3TC) A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Nhận dạng mẫu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Thiết kế và tối ưu mạng (3TC);
+2. An toàn hệ thống thông tin (3TC);
+3. Mô hình hóa và mô phỏng các hệ thống 
+phức tạp (3TC);
+4. Kiểm thử các hệ thống thông tin (3TC);
+5. Quản trị mạng (3TC);
+6. Hệ thống thông tin doanh nghiệp (3TC);
+7. Tối ưu và vận hành hệ thống thông tin 
+(3TC);
+8. Blockchain trong hệ thống thông tin 
+(3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH HỆ THỐNG THÔNG TIN - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B1 (3 TC)
+Các hệ thống IoT hiện 
+đại (3TC)
+Kiến trúc hệ thống 
+thông tin (3TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Dữ liệu lớn (3TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B4 (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Điện toán đám mây 
+(3TC) A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Nhận dạng mẫu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Thiết kế và tối ưu mạng (3TC);
+2. An toàn hệ thống thông tin (3TC);
+3. Mô hình hóa và mô phỏng các hệ thống 
+phức tạp (3TC);
+4. Kiểm thử các hệ thống thông tin (3TC);
+5. Quản trị mạng (3TC);
+6. Hệ thống thông tin doanh nghiệp (3TC);
+7. Tối ưu và vận hành hệ thống thông tin 
+(3TC);
+8. Blockchain trong hệ thống thông tin 
+(3TC).
+
+### Trang 2
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH HỆ THỐNG THÔNG TIN - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Chuyên đề Hệ thống 
+thông tin 2 (6 TC)
+Các hệ thống IoT hiện 
+đại (3TC)
+Kiến trúc hệ thống 
+thông tin (3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề Hệ thống 
+thông tin 1 (6TC)
+Dữ liệu lớn (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Điện toán đám mây 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Nhận dạng mẫu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Trí tuệ nhân tạo trong hệ thống thông tin 
+(3TC);
+2. Hệ thống thông tin tác tử (3TC);
+3. Khai phá tri thức và phân tích dữ liệu 
+(3TC);
+4. Quản trị nghiệp vụ thông minh nâng cao 
+(3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH HỆ THỐNG THÔNG TIN - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Chuyên đề Hệ thống 
+thông tin 2 (6 TC)
+Các hệ thống IoT hiện 
+đại (3TC)
+Kiến trúc hệ thống 
+thông tin (3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề Hệ thống 
+thông tin 1 (6TC)
+Dữ liệu lớn (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Điện toán đám mây 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Nhận dạng mẫu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Trí tuệ nhân tạo trong hệ thống thông tin 
+(3TC);
+2. Hệ thống thông tin tác tử (3TC);
+3. Khai phá tri thức và phân tích dữ liệu 
+(3TC);
+4. Quản trị nghiệp vụ thông minh nâng cao 
+(3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH HỆ THỐNG THÔNG TIN - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Chuyên đề Hệ thống 
+thông tin 2 (6 TC)
+Các hệ thống IoT hiện 
+đại (3TC)
+Kiến trúc hệ thống 
+thông tin (3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề Hệ thống 
+thông tin 1 (6TC)
+Dữ liệu lớn (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Điện toán đám mây 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Nhận dạng mẫu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Trí tuệ nhân tạo trong hệ thống thông tin 
+(3TC);
+2. Hệ thống thông tin tác tử (3TC);
+3. Khai phá tri thức và phân tích dữ liệu 
+(3TC);
+4. Quản trị nghiệp vụ thông minh nâng cao 
+(3TC).

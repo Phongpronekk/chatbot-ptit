@@ -1,0 +1,118 @@
+{
+  "id": 5446,
+  "date": "2026-08-24T16:21:44",
+  "date_gmt": "2026-08-24T09:21:44",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5446"
+  },
+  "modified": "2026-08-24T16:21:44",
+  "modified_gmt": "2026-08-24T09:21:44",
+  "slug": "thong-bao-cong-nhan-va-cap-bang-tot-nghiep-thang-t8-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/thong-bao-cong-nhan-va-cap-bang-tot-nghiep-thang-t8-2026/",
+  "title": {
+    "rendered": "Thông báo công nhận và cấp bằng tốt nghiệp tháng T8.2026"
+  },
+  "content": {
+    "rendered": "<p>Công nhận tốt nghiệp Đại học T8.2026</p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2650-QD.pdf\">2650 QD- </a><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf\">HV Công nhận tốt nghiệp ĐHCQ D22- HCM</a></p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf\">2651 QĐ-HV Công nhận tốt nghiệp ĐHCQ trả nợ- HCM</a></p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2652-qd.pdf\">2652 </a><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf\">QĐ-HV Công nhận tốt nghiệp ĐHTX trả nợ- HCM</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Công nhận tốt nghiệp Đại học T8.2026 2650 QD- HV Công nhận tốt nghiệp ĐHCQ D22- HCM 2651 QĐ-HV Công nhận tốt nghiệp ĐHCQ trả nợ- HCM 2652 QĐ-HV Công nhận tốt nghiệp ĐHTX trả nợ- HCM</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5446",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5446",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5446"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5446/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5450,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5446/revisions/5450"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5446"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5446"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5446"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

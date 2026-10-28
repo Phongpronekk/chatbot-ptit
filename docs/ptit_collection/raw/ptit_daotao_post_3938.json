@@ -1,0 +1,121 @@
+{
+  "id": 3938,
+  "date": "2026-01-12T11:03:21",
+  "date_gmt": "2026-01-12T04:03:21",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=3938"
+  },
+  "modified": "2026-01-12T11:04:18",
+  "modified_gmt": "2026-01-12T04:04:18",
+  "slug": "cong-nhan-hoc-vi-va-cap-bang-tien-si",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/cong-nhan-hoc-vi-va-cap-bang-tien-si/",
+  "title": {
+    "rendered": "Công nhận học vị và cấp bằng Tiến sĩ Nguyễn Thị Huệ"
+  },
+  "content": {
+    "rendered": "<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/01/32.T1.-Cong-nhan-TS-Hue.pdf\">32.T1. Cong nhan TS Hue</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>32.T1. Cong nhan TS Hue</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 3770,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13953,
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-3938",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-page-dao-tao",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3938",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=3938"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3938/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3770"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=3938"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=3938"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=3938"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

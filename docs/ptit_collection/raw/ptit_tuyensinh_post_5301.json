@@ -1,0 +1,119 @@
+{
+  "id": 5301,
+  "date": "2026-04-13T16:09:03",
+  "date_gmt": "2026-04-13T09:09:03",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5301"
+  },
+  "modified": "2026-04-13T16:09:03",
+  "modified_gmt": "2026-04-13T09:09:03",
+  "slug": "thiet-ke-va-phat-trien-game",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thiet-ke-va-phat-trien-game/",
+  "title": {
+    "rendered": "Thiết kế và phát triển Game"
+  },
+  "content": {
+    "rendered": "<p>Mùa tuyển sinh đang tới gần, chắc hẳn các bạn lớp 12 đang có những dự định riêng khi chọn ngành, chọn trường, bên cạnh đó cũng có những bạn đang phân vân không biết chọn ngành nghề phù hợp cũng như môi trường học tập tốt để theo đuổi ngành nghề của mình. Do đó, chương trình Trà chiều cùng trường P sẽ giải đáp thắc mắc cho những bạn nào còn phân vân không biết chọn ngành nghề gì cho phù hợp cũng như giới thiệu qua các ngành nghề tại Học viện Công nghệ Bưu chính Viễn thông.</p>\n<p><iframe title=\"Tổng quan về ngành Thiết kế và Phát triển Game PTIT - Trà chiều cùng trường P\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/5Z9dNUgi9dw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tổng quan về Chương trình Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5302,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    7
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5301",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_dinh_huong"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5301",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5301"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5301/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5302"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5301"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5301"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5301"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

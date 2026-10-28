@@ -1,0 +1,116 @@
+{
+  "id": 32916,
+  "date": "2025-09-30T17:17:42",
+  "date_gmt": "2025-09-30T10:17:42",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32916"
+  },
+  "modified": "2025-10-05T11:42:24",
+  "modified_gmt": "2025-10-05T04:42:24",
+  "slug": "thong-bao-ke-hoach-giang-day-ngay-01-10-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/thong-bao-ke-hoach-giang-day-ngay-01-10-2025/",
+  "title": {
+    "rendered": "Thông báo kế hoạch giảng dạy ngày 01/10/2025"
+  },
+  "content": {
+    "rendered": "<p><span class=\"text\">Kính gửi: Các lớp Sinh viên Cơ sở đào tạo phía Bắc </span></p>\n<p><span class=\"text\">Trước tình hình thời tiết sẽ tiếp tục có mưa lớn trong ngày mai, sẽ có nhiều khu vực bị ngập và lụt, Phòng Giáo vụ thông báo: </span></p>\n<p><span class=\"text\">Các lớp trong ngày mai thứ tư 01/10/2025 sẽ học theo hình thức trực tuyến qua MSTeams/Meet/Trans hoặc các Thầy/Cô cho lớp nghỉ để học bù sau. Đối với từng lớp cụ thể, Giảng viên sẽ có thông báo và thống nhất hình thức học với lớp. </span></p>\n<p><span class=\"text\">Trân trọng!</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Các lớp Sinh viên Cơ sở đào tạo phía Bắc Trước tình hình thời tiết sẽ tiếp tục có mưa lớn trong ngày mai, sẽ có nhiều khu vực bị ngập và lụt, Phòng Giáo vụ thông báo: Các lớp trong ngày mai thứ tư 01/10/2025 sẽ học theo hình thức trực tuyến [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32916",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32916",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32916"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32916/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32916"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32916"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32916"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

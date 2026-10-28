@@ -1,0 +1,33 @@
+
+
+          Các bước hướng dẫn tạo tài khoản ứng dụng VssID
+Bước 1: Tải và cài đặt ứng dụng VssID
+Truy cập CH Play (Android) hoặc App Store (iOS).
+Tìm từ khóa “VssID” → chọn Cài đặt.
+
+Mở Chplay hoặc App Store sẽ dễ dàng tìm và tải app VssID
+Bước 2: Mở ứng dụng và chọn “Đăng ký tài khoản”
+Sau khi cài đặt, mở ứng dụng.
+Tại màn hình chính, nhấn “Đăng ký tài khoản”.
+Tại giao diện ứng dụng hãy chọn “Đăng ký tài khoản”.
+Bước 3: Nhập thông tin cá nhân
+Điền đầy đủ các mục: Mã số BHXH, Họ tên, số CCCD, địa chỉ liên hệ (hiện tại chỉ cần chọn tỉnh và xã), nhập địa chỉ Tổ, số nhà, thôn, ấp, số điện thoại.
+Kiểm tra kỹ thông tin để tránh sai sót, cuối cùng chọn “Tiếp tục”.
+
+Nhập thông tin cá nhân để đăng ký VssID.
+Tiếp theo chọn ảnh đại diện cho tài khoản VssID. Người dùng có thể chọn từ thư viện của điện thoại hoặc chụp ảnh mới.
+
+Bước 4: Chọn cơ quan gửi hồ sơ, xác thực và gửi hồ sơ
+Chọn cơ quan BHXH nơi bạn muốn gửi hồ sơ và quan trọng là nhập địa chỉ mail để nhận mã xác thực OTP. (sv có thể chọn cơ quan bảo hiểm gần nơi ở hoặc gần Trường sinh viên có thể chọn Bảo hiểm xã hội thành phố Hà Nội)
+
+Nếu nhập đầy đủ thông tin một cửa sổ nhỏ sẽ hiện lên yêu cầu người dùng nhập mã xác thực.
+
+
+
+Người dùng hãy vào địa chỉ mail vừa nhập để nhận mã xác thực.
+
+Cuối cùng người dùng sẽ nhận được thông báo là hồ sơ đã được tiếp nhận. Người dùng có thể xem và tải tờ khai để ký và gửi cơ quan BHXH phê duyệt tài khoản.
+
+Bước 5: Nhận tài khoản và mật khẩu
+Sau khi xác thực, cơ quan BHXH sẽ phê duyệt tài khoản và mật khẩu sẽ được gửi tự động qua email. Sinh viên không phải đến cơ quan BHXH trừ trường hợp 1 vài ngày mật khẩu không được gửi tự động qua email sinh viên mới phải qua cơ quan BHXH
+Bạn dùng thông tin này để đăng nhập VssID để xem thông tin về BHXH, BHYT, BHTN của mình

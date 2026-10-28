@@ -1,0 +1,1493 @@
+### sheet1.xml
+A1: Đại đội | B1: MSV | C1: Họ và tên | D1: Giới tính | E1: Mã Lớp | F1: Tên ngành học
+A2: 1 | B2: B25DCDT181 | C2: Bùi Trần Quang Sáng | D2: Nam | E2: D25CQDT01-B | F2: Điện- Điện tử
+A3: 1 | B3: B25DCDT185 | C3: Phạm Kỳ Thanh | D3: Nam | E3: D25CQDT01-B | F3: Điện- Điện tử
+A4: 1 | B4: B25DCDT189 | C4: Mai Ngọc Thoáng | D4: Nam | E4: D25CQDT01-B | F4: Điện- Điện tử
+A5: 1 | B5: B25DCDT193 | C5: Lưu Minh Thành | D5: Nam | E5: D25CQDT01-B | F5: Điện- Điện tử
+A6: 1 | B6: B25DCDT197 | C6: Phạm Văn Thái | D6: Nam | E6: D25CQDT01-B | F6: Điện- Điện tử
+A7: 1 | B7: B25DCDT201 | C7: Nguyễn Hữu Thắng | D7: Nam | E7: D25CQDT01-B | F7: Điện- Điện tử
+A8: 1 | B8: B25DCDT205 | C8: Phan Duy Tiến | D8: Nam | E8: D25CQDT01-B | F8: Điện- Điện tử
+A9: 1 | B9: B25DCDT209 | C9: Phan Quốc Trung | D9: Nam | E9: D25CQDT01-B | F9: Điện- Điện tử
+A10: 1 | B10: B25DCDT213 | C10: Vũ Đình Trưởng | D10: Nam | E10: D25CQDT01-B | F10: Điện- Điện tử
+A11: 1 | B11: B25DCDT217 | C11: Ngô Anh Tuấn | D11: Nam | E11: D25CQDT01-B | F11: Điện- Điện tử
+A12: 1 | B12: B25DCDT225 | C12: Nguyễn Bá Tú | D12: Nam | E12: D25CQDT01-B | F12: Điện- Điện tử
+A13: 1 | B13: B25DCDT229 | C13: Đỗ Đăng Vinh | D13: Nam | E13: D25CQDT01-B | F13: Điện- Điện tử
+A14: 1 | B14: B25DCDT233 | C14: Nguyễn Trung Minh Vũ | D14: Nam | E14: D25CQDT01-B | F14: Điện- Điện tử
+A15: 1 | B15: B25DCDT237 | C15: Lương Đức Đoàn | D15: Nam | E15: D25CQDT01-B | F15: Điện- Điện tử
+A16: 1 | B16: B25DCDT241 | C16: Hoàng Hải Đăng | D16: Nam | E16: D25CQDT01-B | F16: Điện- Điện tử
+A17: 1 | B17: B25DCDT245 | C17: Vũ Hải Đăng | D17: Nam | E17: D25CQDT01-B | F17: Điện- Điện tử
+A18: 1 | B18: B25DCDT249 | C18: Nguyễn Hoàng Đức | D18: Nam | E18: D25CQDT01-B | F18: Điện- Điện tử
+A19: 1 | B19: B25DCDT002 | C19: Lương Văn An | D19: Nam | E19: D25CQDT02-B | F19: Điện- Điện tử
+A20: 1 | B20: B25DCDT006 | C20: Nguyễn Ngọc Tuấn Anh | D20: Nam | E20: D25CQDT02-B | F20: Điện- Điện tử
+A21: 1 | B21: B25DCDT010 | C21: Phùng Tuấn Anh | D21: Nam | E21: D25CQDT02-B | F21: Điện- Điện tử
+A22: 1 | B22: B25DCDT014 | C22: Vũ Duy Tài Anh | D22: Nam | E22: D25CQDT02-B | F22: Điện- Điện tử
+A23: 1 | B23: B25DCDT018 | C23: Đỗ Quang Anh | D23: Nam | E23: D25CQDT02-B | F23: Điện- Điện tử
+A24: 1 | B24: B25DCDT022 | C24: Vũ Quốc Bảo | D24: Nam | E24: D25CQDT02-B | F24: Điện- Điện tử
+A25: 1 | B25: B25DCDT026 | C25: Đinh Dương Chính | D25: Nam | E25: D25CQDT02-B | F25: Điện- Điện tử
+A26: 1 | B26: B25DCDT030 | C26: Mai Việt Cường | D26: Nam | E26: D25CQDT02-B | F26: Điện- Điện tử
+A27: 1 | B27: B25DCDT034 | C27: Trần Đức Duy | D27: Nam | E27: D25CQDT02-B | F27: Điện- Điện tử
+A28: 1 | B28: B25DCDT038 | C28: Nguyễn Trung Dũng | D28: Nam | E28: D25CQDT02-B | F28: Điện- Điện tử
+A29: 1 | B29: B25DCDT042 | C29: Nguyễn Đăng Dương | D29: Nam | E29: D25CQDT02-B | F29: Điện- Điện tử
+A30: 1 | B30: B25DCDT046 | C30: Hoa Trọng Hiếu | D30: Nam | E30: D25CQDT02-B | F30: Điện- Điện tử
+A31: 1 | B31: B25DCDT050 | C31: Nguyễn Minh Hiếu | D31: Nam | E31: D25CQDT02-B | F31: Điện- Điện tử
+A32: 1 | B32: B25DCDT054 | C32: Vũ Ngọc Hiếu | D32: Nam | E32: D25CQDT02-B | F32: Điện- Điện tử
+A33: 1 | B33: B25DCDT058 | C33: Hoàng Duy Hiển | D33: Nam | E33: D25CQDT02-B | F33: Điện- Điện tử
+A34: 1 | B34: B25DCDT062 | C34: Bùi Ngọc Hoàng | D34: Nam | E34: D25CQDT02-B | F34: Điện- Điện tử
+A35: 1 | B35: B25DCDT066 | C35: Nguyễn Việt Hoàng | D35: Nam | E35: D25CQDT02-B | F35: Điện- Điện tử
+A36: 1 | B36: B25DCDT070 | C36: Lại Quốc Huy | D36: Nam | E36: D25CQDT02-B | F36: Điện- Điện tử
+A37: 1 | B37: B25DCDT074 | C37: Đặng Quốc Huy | D37: Nam | E37: D25CQDT02-B | F37: Điện- Điện tử
+A38: 1 | B38: B25DCDT078 | C38: Hoàng Khắc Hùng | D38: Nam | E38: D25CQDT02-B | F38: Điện- Điện tử
+A39: 1 | B39: B25DCDT082 | C39: Phan Công Hùng | D39: Nam | E39: D25CQDT02-B | F39: Điện- Điện tử
+A40: 1 | B40: B25DCDT086 | C40: Doãn Gia Hưng | D40: Nam | E40: D25CQDT02-B | F40: Điện- Điện tử
+A41: 1 | B41: B25DCDT090 | C41: Đinh Văn Gia Hưng | D41: Nam | E41: D25CQDT02-B | F41: Điện- Điện tử
+A42: 1 | B42: B25DCDT094 | C42: Phạm Đình Hải | D42: Nam | E42: D25CQDT02-B | F42: Điện- Điện tử
+A43: 1 | B43: B25DCDT098 | C43: Phạm Ngọc Hội | D43: Nam | E43: D25CQDT02-B | F43: Điện- Điện tử
+A44: 1 | B44: B25DCDT102 | C44: Doãn Gia Khánh | D44: Nam | E44: D25CQDT02-B | F44: Điện- Điện tử
+A45: 1 | B45: B25DCDT106 | C45: Vũ Nam Khánh | D45: Nam | E45: D25CQDT02-B | F45: Điện- Điện tử
+A46: 1 | B46: B25DCDT110 | C46: Lê Vũ Trung Kiên | D46: Nam | E46: D25CQDT02-B | F46: Điện- Điện tử
+A47: 1 | B47: B25DCDT114 | C47: Nguyễn Kim Long | D47: Nam | E47: D25CQDT02-B | F47: Điện- Điện tử
+A48: 1 | B48: B25DCDT118 | C48: Đào Duy Long | D48: Nam | E48: D25CQDT02-B | F48: Điện- Điện tử
+A49: 1 | B49: B25DCDT122 | C49: Tô Quang Lý | D49: Nam | E49: D25CQDT02-B | F49: Điện- Điện tử
+A50: 1 | B50: B25DCDT126 | C50: Vũ Hữu Mai | D50: Nam | E50: D25CQDT02-B | F50: Điện- Điện tử
+A51: 1 | B51: B25DCDT130 | C51: Nguyễn Văn Minh | D51: Nam | E51: D25CQDT02-B | F51: Điện- Điện tử
+A52: 1 | B52: B25DCDT134 | C52: Quách Nhật Minh | D52: Nam | E52: D25CQDT02-B | F52: Điện- Điện tử
+A53: 1 | B53: B25DCDT138 | C53: Đoàn Quý Lê Minh | D53: Nam | E53: D25CQDT02-B | F53: Điện- Điện tử
+A54: 1 | B54: B25DCDT142 | C54: Lê Quang Mạnh | D54: Nam | E54: D25CQDT02-B | F54: Điện- Điện tử
+A55: 1 | B55: B25DCDT146 | C55: Hoàng Đình Nam | D55: Nam | E55: D25CQDT02-B | F55: Điện- Điện tử
+A56: 1 | B56: B25DCDT150 | C56: Nguyễn Văn Nam | D56: Nam | E56: D25CQDT02-B | F56: Điện- Điện tử
+A57: 1 | B57: B25DCDT154 | C57: Vũ Tiến Khôi Nguyên | D57: Nam | E57: D25CQDT02-B | F57: Điện- Điện tử
+A58: 1 | B58: B25DCDT162 | C58: Nguyễn Hà Đức Phú | D58: Nam | E58: D25CQDT02-B | F58: Điện- Điện tử
+A59: 1 | B59: B25DCDT170 | C59: Đỗ Ngọc Phước | D59: Nam | E59: D25CQDT02-B | F59: Điện- Điện tử
+A60: 1 | B60: B25DCDT174 | C60: Trần Thanh Quyến | D60: Nam | E60: D25CQDT02-B | F60: Điện- Điện tử
+A61: 1 | B61: B25DCDT178 | C61: Cấn Đức Anh Quốc | D61: Nam | E61: D25CQDT02-B | F61: Điện- Điện tử
+A62: 1 | B62: B25DCDT186 | C62: Triệu Đức Thanh | D62: Nam | E62: D25CQDT02-B | F62: Điện- Điện tử
+A63: 1 | B63: B25DCDT190 | C63: Nguyễn Duy Thu | D63: Nam | E63: D25CQDT02-B | F63: Điện- Điện tử
+A64: 1 | B64: B25DCDT194 | C64: Nguyễn Chí Thành | D64: Nam | E64: D25CQDT02-B | F64: Điện- Điện tử
+A65: 1 | B65: B25DCDT198 | C65: Nguyễn Duy Thông | D65: Nam | E65: D25CQDT02-B | F65: Điện- Điện tử
+A66: 1 | B66: B25DCDT202 | C66: Ngô Đức Thịnh | D66: Nam | E66: D25CQDT02-B | F66: Điện- Điện tử
+A67: 1 | B67: B25DCDT210 | C67: Hà Quang Trí | D67: Nam | E67: D25CQDT02-B | F67: Điện- Điện tử
+A68: 1 | B68: B25DCDT214 | C68: Lê Quang Trọng | D68: Nam | E68: D25CQDT02-B | F68: Điện- Điện tử
+A69: 1 | B69: B25DCDT218 | C69: Trần Quốc Tuấn | D69: Nam | E69: D25CQDT02-B | F69: Điện- Điện tử
+A70: 1 | B70: B25DCDT222 | C70: Phan Huy Tùng | D70: Nam | E70: D25CQDT02-B | F70: Điện- Điện tử
+A71: 1 | B71: B25DCDT226 | C71: Lê Ngọc Tỷ | D71: Nam | E71: D25CQDT02-B | F71: Điện- Điện tử
+A72: 1 | B72: B25DCDT230 | C72: Nguyễn Ngọc Văn | D72: Nam | E72: D25CQDT02-B | F72: Điện- Điện tử
+A73: 1 | B73: B25DCDT234 | C73: Trương Đăng Quân Vũ | D73: Nam | E73: D25CQDT02-B | F73: Điện- Điện tử
+A74: 1 | B74: B25DCDT242 | C74: Lương Minh Đăng | D74: Nam | E74: D25CQDT02-B | F74: Điện- Điện tử
+A75: 1 | B75: B25DCDT246 | C75: Lê Văn Huy Đạt | D75: Nam | E75: D25CQDT02-B | F75: Điện- Điện tử
+A76: 1 | B76: B25DCDT003 | C76: Kiều Việt Anh | D76: Nam | E76: D25CQDT03-B | F76: Điện- Điện tử
+A77: 1 | B77: B25DCDT007 | C77: Nguyễn Việt Anh | D77: Nam | E77: D25CQDT03-B | F77: Điện- Điện tử
+A78: 1 | B78: B25DCDT011 | C78: Trần Nhật Anh | D78: Nam | E78: D25CQDT03-B | F78: Điện- Điện tử
+A79: 1 | B79: B25DCDT015 | C79: Vũ Hoàng Anh | D79: Nam | E79: D25CQDT03-B | F79: Điện- Điện tử
+A80: 1 | B80: B25DCDT019 | C80: Trử Quang Bách | D80: Nam | E80: D25CQDT03-B | F80: Điện- Điện tử
+A81: 1 | B81: B25DCDT023 | C81: Nguyễn Đình Bằng | D81: Nam | E81: D25CQDT03-B | F81: Điện- Điện tử
+A82: 1 | B82: B25DCDT027 | C82: Phạm Văn Chức | D82: Nam | E82: D25CQDT03-B | F82: Điện- Điện tử
+A83: 1 | B83: B25DCDT031 | C83: Nguyễn Văn Bảo Danh | D83: Nam | E83: D25CQDT03-B | F83: Điện- Điện tử
+A84: 1 | B84: B25DCDT035 | C84: Vũ Đức Duy | D84: Nam | E84: D25CQDT03-B | F84: Điện- Điện tử
+A85: 1 | B85: B25DCDT039 | C85: Nguyễn Trí Dũng | D85: Nam | E85: D25CQDT03-B | F85: Điện- Điện tử
+A86: 1 | B86: B25DCDT043 | C86: Nguyễn Đăng Dương | D86: Nam | E86: D25CQDT03-B | F86: Điện- Điện tử
+A87: 1 | B87: B25DCDT047 | C87: Lê Minh Hiếu | D87: Nam | E87: D25CQDT03-B | F87: Điện- Điện tử
+A88: 1 | B88: B25DCDT051 | C88: Nguyễn Minh Hiếu | D88: Nam | E88: D25CQDT03-B | F88: Điện- Điện tử
+A89: 1 | B89: B25DCDT055 | C89: Vũ Văn Hiếu | D89: Nam | E89: D25CQDT03-B | F89: Điện- Điện tử
+A90: 1 | B90: B25DCDT059 | C90: Vũ Hoàng Hiệp | D90: Nam | E90: D25CQDT03-B | F90: Điện- Điện tử
+A91: 1 | B91: B25DCDT063 | C91: Bùi Đức Hoàng | D91: Nam | E91: D25CQDT03-B | F91: Điện- Điện tử
+A92: 1 | B92: B25DCDT067 | C92: Phạm Lê Hoàng | D92: Nam | E92: D25CQDT03-B | F92: Điện- Điện tử
+A93: 1 | B93: B25DCDT071 | C93: Nguyễn Minh Huy | D93: Nam | E93: D25CQDT03-B | F93: Điện- Điện tử
+A94: 1 | B94: B25DCDT075 | C94: Đỗ Quang Huy | D94: Nam | E94: D25CQDT03-B | F94: Điện- Điện tử
+A95: 1 | B95: B25DCDT079 | C95: Hoàng Việt Hùng | D95: Nam | E95: D25CQDT03-B | F95: Điện- Điện tử
+A96: 1 | B96: B25DCDT083 | C96: Phạm Mạnh Hùng | D96: Nam | E96: D25CQDT03-B | F96: Điện- Điện tử
+A97: 1 | B97: B25DCDT087 | C97: Nguyễn Khánh Hưng | D97: Nam | E97: D25CQDT03-B | F97: Điện- Điện tử
+A98: 1 | B98: B25DCDT095 | C98: Vũ Lâm Sơn Hải | D98: Nam | E98: D25CQDT03-B | F98: Điện- Điện tử
+A99: 1 | B99: B25DCDT099 | C99: Nguyễn Văn Khang | D99: Nam | E99: D25CQDT03-B | F99: Điện- Điện tử
+A100: 1 | B100: B25DCDT103 | C100: Lê Bảo Khánh | D100: Nam | E100: D25CQDT03-B | F100: Điện- Điện tử
+A101: 1 | B101: B25DCDT107 | C101: Đoàn Huy Khánh | D101: Nam | E101: D25CQDT03-B | F101: Điện- Điện tử
+A102: 1 | B102: B25DCDT111 | C102: Lưu Ngọc Trung Kiên | D102: Nam | E102: D25CQDT03-B | F102: Điện- Điện tử
+A103: 1 | B103: B25DCDT115 | C103: Nguyễn Ngọc Long | D103: Nam | E103: D25CQDT03-B | F103: Điện- Điện tử
+A104: 1 | B104: B25DCDT119 | C104: Đậu Huy Long | D104: Nam | E104: D25CQDT03-B | F104: Điện- Điện tử
+A105: 1 | B105: B25DCDT123 | C105: Nguyễn Bá Lương | D105: Nam | E105: D25CQDT03-B | F105: Điện- Điện tử
+A106: 1 | B106: B25DCDT127 | C106: Bùi Vũ Minh | D106: Nam | E106: D25CQDT03-B | F106: Điện- Điện tử
+A107: 1 | B107: B25DCDT131 | C107: Phạm Quang Minh | D107: Nam | E107: D25CQDT03-B | F107: Điện- Điện tử
+A108: 1 | B108: B25DCDT135 | C108: Trần Công Minh | D108: Nam | E108: D25CQDT03-B | F108: Điện- Điện tử
+A109: 1 | B109: B25DCDT139 | C109: Bùi Đức Mạnh | D109: Nam | E109: D25CQDT03-B | F109: Điện- Điện tử
+A110: 1 | B110: B25DCDT143 | C110: Nguyễn Hoàng Mạnh | D110: Nam | E110: D25CQDT03-B | F110: Điện- Điện tử
+A111: 1 | B111: B25DCDT147 | C111: Lê Trung Nam | D111: Nam | E111: D25CQDT03-B | F111: Điện- Điện tử
+A112: 1 | B112: B25DCDT151 | C112: Ngô Quang Nam | D112: Nam | E112: D25CQDT03-B | F112: Điện- Điện tử
+A113: 1 | B113: B25DCDT155 | C113: Đỗ Thế Nguyên | D113: Nam | E113: D25CQDT03-B | F113: Điện- Điện tử
+A114: 1 | B114: B25DCDT159 | C114: Phạm Thế Phong | D114: Nam | E114: D25CQDT03-B | F114: Điện- Điện tử
+A115: 1 | B115: B25DCDT163 | C115: Phạm Trọng Phú | D115: Nam | E115: D25CQDT03-B | F115: Điện- Điện tử
+A116: 1 | B116: B25DCDT167 | C116: Phạm Bá Hồng Phúc | D116: Nam | E116: D25CQDT03-B | F116: Điện- Điện tử
+A117: 1 | B117: B25DCDT171 | C117: Nguyễn Duy Quang | D117: Nam | E117: D25CQDT03-B | F117: Điện- Điện tử
+A118: 1 | B118: B25DCDT175 | C118: Doãn Văn Quân | D118: Nam | E118: D25CQDT03-B | F118: Điện- Điện tử
+A119: 1 | B119: B25DCDT183 | C119: Phạm Ngọc Sơn | D119: Nam | E119: D25CQDT03-B | F119: Điện- Điện tử
+A120: 1 | B120: B25DCDT187 | C120: Nguyễn Duy Thiện | D120: Nam | E120: D25CQDT03-B | F120: Điện- Điện tử
+A121: 1 | B121: B25DCDT191 | C121: Hoàng Việt Thành | D121: Nam | E121: D25CQDT03-B | F121: Điện- Điện tử
+A122: 1 | B122: B25DCDT195 | C122: Nguyễn Tiến Thành | D122: Nam | E122: D25CQDT03-B | F122: Điện- Điện tử
+A123: 1 | B123: B25DCDT199 | C123: Chu Tiến Thăng | D123: Nam | E123: D25CQDT03-B | F123: Điện- Điện tử
+A124: 1 | B124: B25DCDT203 | C124: Vũ Trương Thức | D124: Nam | E124: D25CQDT03-B | F124: Điện- Điện tử
+A125: 1 | B125: B25DCDT207 | C125: Nguyễn Thủy Triều | D125: Nam | E125: D25CQDT03-B | F125: Điện- Điện tử
+A126: 1 | B126: B25DCDT211 | C126: Nguyễn Minh Trí | D126: Nam | E126: D25CQDT03-B | F126: Điện- Điện tử
+A127: 1 | B127: B25DCDT215 | C127: Đào Đức Trọng | D127: Nam | E127: D25CQDT03-B | F127: Điện- Điện tử
+A128: 1 | B128: B25DCDT219 | C128: Nguyễn Tấn Tài | D128: Nam | E128: D25CQDT03-B | F128: Điện- Điện tử
+A129: 1 | B129: B25DCDT223 | C129: Hà Tuấn Tú | D129: Nam | E129: D25CQDT03-B | F129: Điện- Điện tử
+A130: 1 | B130: B25DCDT227 | C130: Nguyễn Thành Vinh | D130: Nam | E130: D25CQDT03-B | F130: Điện- Điện tử
+A131: 1 | B131: B25DCDT231 | C131: Lê Minh Vũ | D131: Nam | E131: D25CQDT03-B | F131: Điện- Điện tử
+A132: 1 | B132: B25DCDT235 | C132: Trần Quốc Vũ | D132: Nam | E132: D25CQDT03-B | F132: Điện- Điện tử
+A133: 1 | B133: B25DCDT239 | C133: Vũ Ngọc Đoàn | D133: Nam | E133: D25CQDT03-B | F133: Điện- Điện tử
+A134: 1 | B134: B25DCDT247 | C134: Nguyễn Thọ Đạt | D134: Nam | E134: D25CQDT03-B | F134: Điện- Điện tử
+A135: 1 | B135: B25DCDT251 | C135: Đàm Minh Đức | D135: Nam | E135: D25CQDT03-B | F135: Điện- Điện tử
+A136: 1 | B136: B25DCDT004 | C136: Lại Việt Anh | D136: Nam | E136: D25CQDT04-B | F136: Điện- Điện tử
+A137: 1 | B137: B25DCDT008 | C137: Nguyễn Việt Anh | D137: Nam | E137: D25CQDT04-B | F137: Điện- Điện tử
+A138: 1 | B138: B25DCDT012 | C138: Trần Viết Duy Anh | D138: Nam | E138: D25CQDT04-B | F138: Điện- Điện tử
+A139: 1 | B139: B25DCDT016 | C139: Vũ Tuấn Anh | D139: Nam | E139: D25CQDT04-B | F139: Điện- Điện tử
+A140: 1 | B140: B25DCDT024 | C140: Đinh Thành Chung | D140: Nam | E140: D25CQDT04-B | F140: Điện- Điện tử
+A141: 1 | B141: B25DCDT028 | C141: Nguyễn Quang Công | D141: Nam | E141: D25CQDT04-B | F141: Điện- Điện tử
+A142: 1 | B142: B25DCDT032 | C142: Phạm Việt Duy | D142: Nam | E142: D25CQDT04-B | F142: Điện- Điện tử
+A143: 1 | B143: B25DCDT036 | C143: Đàm Tiến Duy | D143: Nam | E143: D25CQDT04-B | F143: Điện- Điện tử
+A144: 1 | B144: B25DCDT040 | C144: Nguyễn Tuấn Dũng | D144: Nam | E144: D25CQDT04-B | F144: Điện- Điện tử
+A145: 1 | B145: B25DCDT044 | C145: Vũ Viết Dưỡng | D145: Nam | E145: D25CQDT04-B | F145: Điện- Điện tử
+A146: 1 | B146: B25DCDT048 | C146: Lê Trung Hiếu | D146: Nam | E146: D25CQDT04-B | F146: Điện- Điện tử
+A147: 1 | B147: B25DCDT052 | C147: Nguyễn Trung Hiếu | D147: Nam | E147: D25CQDT04-B | F147: Điện- Điện tử
+A148: 1 | B148: B25DCDT056 | C148: Đào Quang Hiếu | D148: Nam | E148: D25CQDT04-B | F148: Điện- Điện tử
+A149: 1 | B149: B25DCDT060 | C149: Phan Hoàn | D149: Nam | E149: D25CQDT04-B | F149: Điện- Điện tử
+A150: 1 | B150: B25DCDT064 | C150: Lê Nguyên Hoàng | D150: Nam | E150: D25CQDT04-B | F150: Điện- Điện tử
+A151: 1 | B151: B25DCDT068 | C151: Hoàng Minh Huy | D151: Nam | E151: D25CQDT04-B | F151: Điện- Điện tử
+A152: 1 | B152: B25DCDT072 | C152: Vũ Quang Huy | D152: Nam | E152: D25CQDT04-B | F152: Điện- Điện tử
+A153: 1 | B153: B25DCDT080 | C153: Nguyễn Hữu Hùng | D153: Nam | E153: D25CQDT04-B | F153: Điện- Điện tử
+A154: 1 | B154: B25DCDT084 | C154: Phạm Sinh Hùng | D154: Nam | E154: D25CQDT04-B | F154: Điện- Điện tử
+A155: 1 | B155: B25DCDT088 | C155: Phạm Duy Hưng | D155: Nam | E155: D25CQDT04-B | F155: Điện- Điện tử
+A156: 1 | B156: B25DCDT092 | C156: Nguyễn Hồng Hải | D156: Nam | E156: D25CQDT04-B | F156: Điện- Điện tử
+A157: 1 | B157: B25DCDT096 | C157: Đào Đình Hải | D157: Nam | E157: D25CQDT04-B | F157: Điện- Điện tử
+A158: 1 | B158: B25DCDT100 | C158: Nguyễn Anh Khoa | D158: Nam | E158: D25CQDT04-B | F158: Điện- Điện tử
+A159: 1 | B159: B25DCDT104 | C159: Nguyễn Văn Khánh | D159: Nam | E159: D25CQDT04-B | F159: Điện- Điện tử
+A160: 1 | B160: B25DCDT108 | C160: Hà Anh Khôi | D160: Nam | E160: D25CQDT04-B | F160: Điện- Điện tử
+A161: 1 | B161: B25DCDT112 | C161: Hà Xuân Kỳ | D161: Nam | E161: D25CQDT04-B | F161: Điện- Điện tử
+A162: 1 | B162: B25DCDT116 | C162: Nguyễn Văn Long | D162: Nam | E162: D25CQDT04-B | F162: Điện- Điện tử
+A163: 1 | B163: B25DCDT120 | C163: Trần Hải Luân | D163: Nam | E163: D25CQDT04-B | F163: Điện- Điện tử
+A164: 1 | B164: B25DCDT124 | C164: Cao Huy Lộc | D164: Nam | E164: D25CQDT04-B | F164: Điện- Điện tử
+A165: 1 | B165: B25DCDT128 | C165: Hoàng Nhật Minh | D165: Nam | E165: D25CQDT04-B | F165: Điện- Điện tử
+A166: 1 | B166: B25DCDT132 | C166: Phạm Tuấn Minh | D166: Nam | E166: D25CQDT04-B | F166: Điện- Điện tử
+A167: 1 | B167: B25DCDT136 | C167: Vi Ngọc Minh | D167: Nam | E167: D25CQDT04-B | F167: Điện- Điện tử
+A168: 1 | B168: B25DCDT140 | C168: Hoàng Duy Mạnh | D168: Nam | E168: D25CQDT04-B | F168: Điện- Điện tử
+A169: 1 | B169: B25DCDT144 | C169: Trương Văn Mạnh | D169: Nam | E169: D25CQDT04-B | F169: Điện- Điện tử
+A170: 2 | B170: B25DCDT148 | C170: Ma Phương Nam | D170: Nam | E170: D25CQDT04-B | F170: Điện- Điện tử
+A171: 2 | B171: B25DCDT152 | C171: Vũ Trọng Nghĩa | D171: Nam | E171: D25CQDT04-B | F171: Điện- Điện tử
+A172: 2 | B172: B25DCDT160 | C172: Tống Ngọc Phong | D172: Nam | E172: D25CQDT04-B | F172: Điện- Điện tử
+A173: 2 | B173: B25DCDT164 | C173: Lê Duy Phúc | D173: Nam | E173: D25CQDT04-B | F173: Điện- Điện tử
+A174: 2 | B174: B25DCDT168 | C174: Đào Nguyễn Bảo Phúc | D174: Nam | E174: D25CQDT04-B | F174: Điện- Điện tử
+A175: 2 | B175: B25DCDT172 | C175: Nguyễn Văn Trần Quang | D175: Nam | E175: D25CQDT04-B | F175: Điện- Điện tử
+A176: 2 | B176: B25DCDT176 | C176: Nguyễn Hoàng Quân | D176: Nam | E176: D25CQDT04-B | F176: Điện- Điện tử
+A177: 2 | B177: B25DCDT180 | C177: Phạm Trường Sinh | D177: Nam | E177: D25CQDT04-B | F177: Điện- Điện tử
+A178: 2 | B178: B25DCDT188 | C178: Phan Quốc Thiện | D178: Nam | E178: D25CQDT04-B | F178: Điện- Điện tử
+A179: 2 | B179: B25DCDT192 | C179: Lê Đức Thành | D179: Nam | E179: D25CQDT04-B | F179: Điện- Điện tử
+A180: 2 | B180: B25DCDT196 | C180: Ngô Gia Huy Thái | D180: Nam | E180: D25CQDT04-B | F180: Điện- Điện tử
+A181: 2 | B181: B25DCDT200 | C181: Bùi Toàn Thắng | D181: Nam | E181: D25CQDT04-B | F181: Điện- Điện tử
+A182: 2 | B182: B25DCDT204 | C182: Nguyễn Huy Tiến | D182: Nam | E182: D25CQDT04-B | F182: Điện- Điện tử
+A183: 2 | B183: B25DCDT208 | C183: Nguyễn Đức Trung | D183: Nam | E183: D25CQDT04-B | F183: Điện- Điện tử
+A184: 2 | B184: B25DCDT212 | C184: Nguyễn Xuân Trường | D184: Nam | E184: D25CQDT04-B | F184: Điện- Điện tử
+A185: 2 | B185: B25DCDT216 | C185: Nguyễn Tất Quốc Tuấn | D185: Nam | E185: D25CQDT04-B | F185: Điện- Điện tử
+A186: 2 | B186: B25DCDT220 | C186: Lê Trung Tâm | D186: Nam | E186: D25CQDT04-B | F186: Điện- Điện tử
+A187: 2 | B187: B25DCDT224 | C187: Nguyễn Anh Tú | D187: Nam | E187: D25CQDT04-B | F187: Điện- Điện tử
+A188: 2 | B188: B25DCDT228 | C188: Vũ Đức Vinh | D188: Nam | E188: D25CQDT04-B | F188: Điện- Điện tử
+A189: 2 | B189: B25DCDT232 | C189: Mai Hoàng Vũ | D189: Nam | E189: D25CQDT04-B | F189: Điện- Điện tử
+A190: 2 | B190: B25DCDT236 | C190: Lê Anh Vượng | D190: Nam | E190: D25CQDT04-B | F190: Điện- Điện tử
+A191: 2 | B191: B25DCDT240 | C191: Dương Hải Đăng | D191: Nam | E191: D25CQDT04-B | F191: Điện- Điện tử
+A192: 2 | B192: B25DCDT244 | C192: Nhiêu Hải Đăng | D192: Nam | E192: D25CQDT04-B | F192: Điện- Điện tử
+A193: 2 | B193: B25DCDT248 | C193: Nguyễn Trọng Đạt | D193: Nam | E193: D25CQDT04-B | F193: Điện- Điện tử
+A194: 2 | B194: B25DCCN012 | C194: Hoàng Lê Việt Anh | D194: Nam | E194: D25CQCN01-B | F194: Công nghệ thông tin
+A195: 2 | B195: B25DCCN023 | C195: Lương Việt Anh | D195: Nam | E195: D25CQCN01-B | F195: Công nghệ thông tin
+A196: 2 | B196: B25DCCN034 | C196: Nguyễn Tài Anh | D196: Nam | E196: D25CQCN01-B | F196: Công nghệ thông tin
+A197: 2 | B197: B25DCCN045 | C197: Trần Lê Tuấn Anh | D197: Nam | E197: D25CTCN01-B | F197: Công nghệ thông tin
+A198: 2 | B198: B25DCCN056 | C198: Nguyễn Viết Hoàng Bách | D198: Nam | E198: D25CQCN01-B | F198: Công nghệ thông tin
+A199: 2 | B199: B25DCCN078 | C199: Nguyễn Kim Hoàng Chương | D199: Nam | E199: D25CQCN01-B | F199: Công nghệ thông tin
+A200: 2 | B200: B25DCCN089 | C200: Mai Tuấn Cường | D200: Nam | E200: D25CQCN01-B | F200: Công nghệ thông tin
+A201: 2 | B201: B25DCCN100 | C201: Phan Văn Doanh | D201: Nam | E201: D25CQCN01-B | F201: Công nghệ thông tin
+A202: 2 | B202: B25DCCN111 | C202: Đoàn Ngọc Duy | D202: Nam | E202: D25CQCN01-B | F202: Công nghệ thông tin
+A203: 2 | B203: B25DCCN122 | C203: Nguyễn Mạnh Dũng | D203: Nam | E203: D25CQCN01-B | F203: Công nghệ thông tin
+A204: 2 | B204: B25DCCN133 | C204: Trần Hoàng Dũng | D204: Nam | E204: D25CQCN01-B | F204: Công nghệ thông tin
+A205: 2 | B205: B25DCCN144 | C205: Trần Đại Dương | D205: Nam | E205: D25CQCN01-B | F205: Công nghệ thông tin
+A206: 2 | B206: B25DCCN166 | C206: Nguyễn Cảnh Hiệp | D206: Nam | E206: D25CQCN01-B | F206: Công nghệ thông tin
+A207: 2 | B207: B25DCCN177 | C207: Nguyễn Huy Hoàng | D207: Nam | E207: D25CQCN01-B | F207: Công nghệ thông tin
+A208: 2 | B208: B25DCCN188 | C208: Lê Văn Huy | D208: Nam | E208: D25CQCN01-B | F208: Công nghệ thông tin
+A209: 2 | B209: B25DCCN199 | C209: Đào Gia Huy | D209: Nam | E209: D25CQCN01-B | F209: Công nghệ thông tin
+A210: 2 | B210: B25DCCN210 | C210: Nguyễn Văn Hòa | D210: Nam | E210: D25CTCN01-B | F210: Công nghệ thông tin
+A211: 2 | B211: B25DCCN221 | C211: Lê Quang Hưng | D211: Nam | E211: D25CQCN01-B | F211: Công nghệ thông tin
+A212: 2 | B212: B25DCCN232 | C212: Đoàn Trung Hải | D212: Nam | E212: D25CQCN01-B | F212: Công nghệ thông tin
+A213: 2 | B213: B25DCCN243 | C213: Nguyễn Đăng Khoa | D213: Nam | E213: D25CQCN01-B | F213: Công nghệ thông tin
+A214: 2 | B214: B25DCCN254 | C214: Hoàng Thiện Khải | D214: Nam | E214: D25CQCN01-B | F214: Công nghệ thông tin
+A215: 2 | B215: B25DCCN265 | C215: Trần Hiếu Kiên | D215: Nam | E215: D25CQCN01-B | F215: Công nghệ thông tin
+A216: 2 | B216: B25DCCN276 | C216: Trương Quang Long | D216: Nam | E216: D25CTCN01-B | F216: Công nghệ thông tin
+A217: 2 | B217: B25DCCN298 | C217: Hoàng Nhật Minh | D217: Nam | E217: D25CQCN01-B | F217: Công nghệ thông tin
+A218: 2 | B218: B25DCCN309 | C218: Nguyễn Quang Minh | D218: Nam | E218: D25CQCN01-B | F218: Công nghệ thông tin
+A219: 2 | B219: B25DCCN320 | C219: Trương Thế Minh | D219: Nam | E219: D25CTCN01-B | F219: Công nghệ thông tin
+A220: 2 | B220: B25DCCN331 | C220: Lê Đức Mạnh | D220: Nam | E220: D25CQCN01-B | F220: Công nghệ thông tin
+A221: 2 | B221: B25DCCN342 | C221: Nguyễn Đức Nam | D221: Nam | E221: D25CQCN01-B | F221: Công nghệ thông tin
+A222: 2 | B222: B25DCCN375 | C222: Phùng Đình Phát | D222: Nam | E222: D25CQCN01-B | F222: Công nghệ thông tin
+A223: 2 | B223: B25DCCN386 | C223: Đỗ Quốc Phú | D223: Nam | E223: D25CTCN01-B | F223: Công nghệ thông tin
+A224: 2 | B224: B25DCCN408 | C224: Phạm Duy Quang | D224: Nam | E224: D25CQCN01-B | F224: Công nghệ thông tin
+A225: 2 | B225: B25DCCN419 | C225: Nguyễn Viết Quân | D225: Nam | E225: D25CQCN01-B | F225: Công nghệ thông tin
+A226: 2 | B226: B25DCCN430 | C226: Hoàng Đình Sơn | D226: Nam | E226: D25CQCN01-B | F226: Công nghệ thông tin
+A227: 2 | B227: B25DCCN452 | C227: Giáp Hoàng Thái | D227: Nam | E227: D25CQCN01-B | F227: Công nghệ thông tin
+A228: 2 | B228: B25DCCN463 | C228: Phạm Việt Thắng | D228: Nam | E228: D25CQCN01-B | F228: Công nghệ thông tin
+A229: 2 | B229: B25DCCN474 | C229: Mai Đức Tiến | D229: Nam | E229: D25CQCN01-B | F229: Công nghệ thông tin
+A230: 2 | B230: B25DCCN496 | C230: Mai Khánh Trình | D230: Nam | E230: D25CQCN01-B | F230: Công nghệ thông tin
+A231: 2 | B231: B25DCCN507 | C231: Lê Anh Tuấn | D231: Nam | E231: D25CQCN01-B | F231: Công nghệ thông tin
+A232: 2 | B232: B25DCCN518 | C232: Đặng Đăng Tuấn | D232: Nam | E232: D25CQCN01-B | F232: Công nghệ thông tin
+A233: 2 | B233: B25DCCN529 | C233: Nguyễn Anh Tú | D233: Nam | E233: D25CQCN01-B | F233: Công nghệ thông tin
+A234: 2 | B234: B25DCCN540 | C234: Nguyễn Huy Vinh | D234: Nam | E234: D25CQCN01-B | F234: Công nghệ thông tin
+A235: 2 | B235: B25DCCN551 | C235: Lương Như Việt | D235: Nam | E235: D25CQCN01-B | F235: Công nghệ thông tin
+A236: 2 | B236: B25DCCN562 | C236: Nguyễn Đình Vũ | D236: Nam | E236: D25CQCN01-B | F236: Công nghệ thông tin
+A237: 2 | B237: B25DCCN584 | C237: Nguyễn Thiên Đạt | D237: Nam | E237: D25CQCN01-B | F237: Công nghệ thông tin
+A238: 2 | B238: B25DCCN595 | C238: Hoàng Minh Đức | D238: Nam | E238: D25CTCN01-B | F238: Công nghệ thông tin
+A239: 2 | B239: B25DCCN606 | C239: Nguyễn Quang Đức | D239: Nam | E239: D25CQCN01-B | F239: Công nghệ thông tin
+A240: 2 | B240: N25DCCN001B | C240: Mai Thành An | D240: Nam | E240: D25CQCN01-B | F240: Công nghệ thông tin
+A241: 2 | B241: B25DCCN002 | C241: Nguyễn Duy An | D241: Nam | E241: D25CTCN01-B | F241: Công nghệ thông tin
+A242: 2 | B242: B25DCCN013 | C242: Hoàng Nhật Anh | D242: Nam | E242: D25CQCN02-B | F242: Công nghệ thông tin
+A243: 2 | B243: B25DCCN024 | C243: Nguyễn Bá Nam Anh | D243: Nam | E243: D25CQCN02-B | F243: Công nghệ thông tin
+A244: 2 | B244: B25DCCN035 | C244: Nguyễn Việt Anh | D244: Nam | E244: D25CQCN02-B | F244: Công nghệ thông tin
+A245: 2 | B245: B25DCCN046 | C245: Trần Đức Anh | D245: Nam | E245: D25CQCN02-B | F245: Công nghệ thông tin
+A246: 2 | B246: B25DCCN057 | C246: Nguyễn Thanh Bình | D246: Nam | E246: D25CQCN02-B | F246: Công nghệ thông tin
+A247: 2 | B247: B25DCCN068 | C247: Nguyễn Hữu Bắc | D247: Nam | E247: D25CQCN02-B | F247: Công nghệ thông tin
+A248: 2 | B248: B25DCCN079 | C248: Trần Huân Chương | D248: Nam | E248: D25CQCN02-B | F248: Công nghệ thông tin
+A249: 2 | B249: B25DCCN090 | C249: Trương Mạnh Cường | D249: Nam | E249: D25CQCN02-B | F249: Công nghệ thông tin
+A250: 2 | B250: B25DCCN101 | C250: Bùi Huy Du | D250: Nam | E250: D25CQCN02-B | F250: Công nghệ thông tin
+A251: 2 | B251: B25DCCN112 | C251: Đậu Bá Bảo Duy | D251: Nam | E251: D25CQCN02-B | F251: Công nghệ thông tin
+A252: 2 | B252: B25DCCN123 | C252: Nguyễn Mạnh Dũng | D252: Nam | E252: D25CQCN02-B | F252: Công nghệ thông tin
+A253: 2 | B253: B25DCCN134 | C253: Trần Đức Dũng | D253: Nam | E253: D25CQCN02-B | F253: Công nghệ thông tin
+A254: 2 | B254: B25DCCN145 | C254: Vũ Đăng Dương | D254: Nam | E254: D25CQCN02-B | F254: Công nghệ thông tin
+A255: 2 | B255: B25DCCN156 | C255: Nguyễn Đức Hiếu | D255: Nam | E255: D25CQCN02-B | F255: Công nghệ thông tin
+A256: 2 | B256: B25DCCN167 | C256: Nguyễn Minh Hiệp | D256: Nam | E256: D25CQCN02-B | F256: Công nghệ thông tin
+A257: 2 | B257: B25DCCN178 | C257: Nguyễn Lê Hoàng | D257: Nam | E257: D25CTCN01-B | F257: Công nghệ thông tin
+A258: 2 | B258: B25DCCN189 | C258: Nguyễn Quang Huy | D258: Nam | E258: D25CQCN02-B | F258: Công nghệ thông tin
+A259: 2 | B259: B25DCCN200 | C259: Đào Văn Huân | D259: Nam | E259: D25CQCN02-B | F259: Công nghệ thông tin
+A260: 2 | B260: B25DCCN211 | C260: Chu Đình Hùng | D260: Nam | E260: D25CQCN02-B | F260: Công nghệ thông tin
+A261: 2 | B261: B25DCCN222 | C261: Phan Minh Hưng | D261: Nam | E261: D25CQCN02-B | F261: Công nghệ thông tin
+A262: 2 | B262: B25DCCN244 | C262: Bùi Duy Khánh | D262: Nam | E262: D25CQCN02-B | F262: Công nghệ thông tin
+A263: 2 | B263: B25DCCN255 | C263: Nguyễn Đình Khải | D263: Nam | E263: D25CQCN02-B | F263: Công nghệ thông tin
+A264: 2 | B264: B25DCCN266 | C264: Đoàn Trung Kiên | D264: Nam | E264: D25CQCN02-B | F264: Công nghệ thông tin
+A265: 2 | B265: B25DCCN288 | C265: Đỗ Tường Lâm | D265: Nam | E265: D25CQCN02-B | F265: Công nghệ thông tin
+A266: 2 | B266: B25DCCN299 | C266: Lê Tuấn Minh | D266: Nam | E266: D25CQCN02-B | F266: Công nghệ thông tin
+A267: 2 | B267: B25DCCN310 | C267: Nguyễn Thành Minh | D267: Nam | E267: D25CQCN02-B | F267: Công nghệ thông tin
+A268: 2 | B268: B25DCCN321 | C268: Trần Hoàng Minh | D268: Nam | E268: D25CQCN02-B | F268: Công nghệ thông tin
+A269: 2 | B269: B25DCCN332 | C269: Lê Đức Mạnh | D269: Nam | E269: D25CQCN02-B | F269: Công nghệ thông tin
+A270: 2 | B270: B25DCCN343 | C270: Nguyễn Đức Hải Nam | D270: Nam | E270: D25CQCN02-B | F270: Công nghệ thông tin
+A271: 2 | B271: B25DCCN354 | C271: Nguyễn Trọng Nguyên | D271: Nam | E271: D25CQCN02-B | F271: Công nghệ thông tin
+A272: 2 | B272: B25DCCN376 | C272: Trần Duy Phát | D272: Nam | E272: D25CQCN02-B | F272: Công nghệ thông tin
+A273: 2 | B273: B25DCCN387 | C273: Bùi Đình Phúc | D273: Nam | E273: D25CQCN02-B | F273: Công nghệ thông tin
+A274: 2 | B274: B25DCCN398 | C274: Nguyễn Việt Phương | D274: Nam | E274: D25CQCN02-B | F274: Công nghệ thông tin
+A275: 2 | B275: B25DCCN409 | C275: Thạch Khắc Quang | D275: Nam | E275: D25CQCN02-B | F275: Công nghệ thông tin
+A276: 2 | B276: B25DCCN420 | C276: Phạm Anh Quân | D276: Nam | E276: D25CQCN02-B | F276: Công nghệ thông tin
+A277: 2 | B277: B25DCCN431 | C277: Nguyễn Ngọc Sơn | D277: Nam | E277: D25CQCN02-B | F277: Công nghệ thông tin
+A278: 2 | B278: B25DCCN453 | C278: Đặng Quốc Thái | D278: Nam | E278: D25CQCN02-B | F278: Công nghệ thông tin
+A279: 2 | B279: B25DCCN464 | C279: Trương Đức Thắng | D279: Nam | E279: D25CQCN02-B | F279: Công nghệ thông tin
+A280: 2 | B280: B25DCCN475 | C280: Nguyễn Sỹ Tiến | D280: Nam | E280: D25CQCN02-B | F280: Công nghệ thông tin
+A281: 2 | B281: B25DCCN497 | C281: Nguyễn Duy Trọng | D281: Nam | E281: D25CQCN02-B | F281: Công nghệ thông tin
+A282: 2 | B282: B25DCCN508 | C282: Lê Doanh Tuấn | D282: Nam | E282: D25CQCN02-B | F282: Công nghệ thông tin
+A283: 2 | B283: B25DCCN519 | C283: Trần Minh Tài | D283: Nam | E283: D25CQCN02-B | F283: Công nghệ thông tin
+A284: 2 | B284: B25DCCN530 | C284: Nguyễn Ngọc Tú | D284: Nam | E284: D25CQCN02-B | F284: Công nghệ thông tin
+A285: 2 | B285: B25DCCN541 | C285: Nguyễn Thế Vinh | D285: Nam | E285: D25CQCN02-B | F285: Công nghệ thông tin
+A286: 2 | B286: B25DCCN552 | C286: Nguyễn Duy Việt | D286: Nam | E286: D25CQCN02-B | F286: Công nghệ thông tin
+A287: 2 | B287: B25DCCN563 | C287: Phạm Mạnh Vũ | D287: Nam | E287: D25CQCN02-B | F287: Công nghệ thông tin
+A288: 2 | B288: B25DCCN574 | C288: Nguyễn Vũ Hải Đăng | D288: Nam | E288: D25CQCN02-B | F288: Công nghệ thông tin
+A289: 2 | B289: B25DCCN585 | C289: Nguyễn Thành Đạt | D289: Nam | E289: D25CQCN02-B | F289: Công nghệ thông tin
+A290: 2 | B290: B25DCCN596 | C290: Hoàng Minh Đức | D290: Nam | E290: D25CQCN02-B | F290: Công nghệ thông tin
+A291: 2 | B291: B25DCCN607 | C291: Nguyễn Văn Đức | D291: Nam | E291: D25CQCN02-B | F291: Công nghệ thông tin
+A292: 2 | B292: B25DCCN003 | C292: Nguyễn Long Trường An | D292: Nam | E292: D25CQCN03-B | F292: Công nghệ thông tin
+A293: 2 | B293: B25DCCN014 | C293: Hoàng Tuấn Anh | D293: Nam | E293: D25CQCN03-B | F293: Công nghệ thông tin
+A294: 2 | B294: B25DCCN025 | C294: Nguyễn Công Anh | D294: Nam | E294: D25CQCN03-B | F294: Công nghệ thông tin
+A295: 2 | B295: B25DCCN036 | C295: Nguyễn Xuân Trường Anh | D295: Nam | E295: D25CQCN03-B | F295: Công nghệ thông tin
+A296: 2 | B296: B25DCCN047 | C296: Vi Tuấn Anh | D296: Nam | E296: D25CTCN01-B | F296: Công nghệ thông tin
+A297: 2 | B297: B25DCCN058 | C297: Nguyễn Vũ Tiểu Bình | D297: Nam | E297: D25CQCN03-B | F297: Công nghệ thông tin
+A298: 2 | B298: B25DCCN069 | C298: Lê Hữu Bằng | D298: Nam | E298: D25CQCN03-B | F298: Công nghệ thông tin
+A299: 2 | B299: B25DCCN080 | C299: Nguyễn Văn Chức | D299: Nam | E299: D25CQCN03-B | F299: Công nghệ thông tin
+A300: 2 | B300: B25DCCN091 | C300: Trần Lê Cường | D300: Nam | E300: D25CQCN03-B | F300: Công nghệ thông tin
+A301: 2 | B301: B25DCCN102 | C301: Bùi Văn Duy | D301: Nam | E301: D25CQCN03-B | F301: Công nghệ thông tin
+A302: 2 | B302: B25DCCN113 | C302: Nguyễn Thế Duyên | D302: Nam | E302: D25CQCN03-B | F302: Công nghệ thông tin
+A303: 2 | B303: B25DCCN124 | C303: Nguyễn Mạnh Dũng | D303: Nam | E303: D25CQCN03-B | F303: Công nghệ thông tin
+A304: 2 | B304: B25DCCN135 | C304: Võ Minh Dũng | D304: Nam | E304: D25CQCN03-B | F304: Công nghệ thông tin
+A305: 2 | B305: B25DCCN146 | C305: Bùi Đức Giang | D305: Nam | E305: D25CQCN03-B | F305: Công nghệ thông tin
+A306: 2 | B306: B25DCCN157 | C306: Phạm Trung Hiếu | D306: Nam | E306: D25CQCN03-B | F306: Công nghệ thông tin
+A307: 2 | B307: B25DCCN168 | C307: Phạm Quang Hiệp | D307: Nam | E307: D25CQCN03-B | F307: Công nghệ thông tin
+A308: 2 | B308: B25DCCN179 | C308: Nguyễn Việt Hoàng | D308: Nam | E308: D25CQCN03-B | F308: Công nghệ thông tin
+A309: 2 | B309: B25DCCN190 | C309: Nguyễn Trọng Huy | D309: Nam | E309: D25CQCN03-B | F309: Công nghệ thông tin
+A310: 2 | B310: B25DCCN212 | C310: Nguyễn Duy Hùng | D310: Nam | E310: D25CQCN03-B | F310: Công nghệ thông tin
+A311: 2 | B311: B25DCCN223 | C311: Triệu Minh Hưng | D311: Nam | E311: D25CQCN03-B | F311: Công nghệ thông tin
+A312: 2 | B312: B25DCCN234 | C312: Bùi Văn Hợp | D312: Nam | E312: D25CQCN03-B | F312: Công nghệ thông tin
+A313: 2 | B313: B25DCCN245 | C313: Hoàng Xuân Khánh | D313: Nam | E313: D25CQCN03-B | F313: Công nghệ thông tin
+A314: 2 | B314: B25DCCN256 | C314: Đàm Thuận Khải | D314: Nam | E314: D25CQCN03-B | F314: Công nghệ thông tin
+A315: 2 | B315: B25DCCN267 | C315: Đặng Trung Kiên | D315: Nam | E315: D25CQCN03-B | F315: Công nghệ thông tin
+A316: 2 | B316: B25DCCN278 | C316: Đinh Vũ Long | D316: Nam | E316: D25CQCN03-B | F316: Công nghệ thông tin
+A317: 2 | B317: B25DCCN289 | C317: Trần Quý Lương | D317: Nam | E317: D25CQCN03-B | F317: Công nghệ thông tin
+A318: 2 | B318: B25DCCN300 | C318: Lê Vinh Bình Minh | D318: Nam | E318: D25CQCN03-B | F318: Công nghệ thông tin
+A319: 2 | B319: B25DCCN311 | C319: Nguyễn Thành Minh | D319: Nam | E319: D25CQCN03-B | F319: Công nghệ thông tin
+A320: 2 | B320: B25DCCN322 | C320: Trịnh Lê Nhật Minh | D320: Nam | E320: D25CQCN03-B | F320: Công nghệ thông tin
+A321: 2 | B321: B25DCCN333 | C321: Lê Đức Mạnh | D321: Nam | E321: D25CQCN03-B | F321: Công nghệ thông tin
+A322: 2 | B322: B25DCCN344 | C322: Ninh Đức Nam | D322: Nam | E322: D25CTCN01-B | F322: Công nghệ thông tin
+A323: 2 | B323: B25DCCN355 | C323: Nguyễn Trọng Hoàng Nguyên | D323: Nam | E323: D25CQCN03-B | F323: Công nghệ thông tin
+A324: 2 | B324: B25DCCN366 | C324: Bùi Phan Minh Nhật | D324: Nam | E324: D25CTCN01-B | F324: Công nghệ thông tin
+A325: 2 | B325: B25DCCN377 | C325: Bùi Đức Phú | D325: Nam | E325: D25CQCN03-B | F325: Công nghệ thông tin
+A326: 2 | B326: B25DCCN388 | C326: Hoàng Đình Phúc | D326: Nam | E326: D25CQCN03-B | F326: Công nghệ thông tin
+A327: 2 | B327: B25DCCN399 | C327: Lưu Hoàng Phước | D327: Nam | E327: D25CQCN03-B | F327: Công nghệ thông tin
+A328: 2 | B328: B25DCCN410 | C328: Đặng Minh Quang | D328: Nam | E328: D25CQCN03-B | F328: Công nghệ thông tin
+A329: 2 | B329: B25DCCN421 | C329: Trương Thanh Quân | D329: Nam | E329: D25CQCN03-B | F329: Công nghệ thông tin
+A330: 2 | B330: B25DCCN432 | C330: Nguyễn Trung Sơn | D330: Nam | E330: D25CQCN03-B | F330: Công nghệ thông tin
+A331: 2 | B331: B25DCCN443 | C331: Bùi Đức Thành | D331: Nam | E331: D25CQCN03-B | F331: Công nghệ thông tin
+A332: 2 | B332: B25DCCN465 | C332: Tạ Minh Thắng | D332: Nam | E332: D25CQCN03-B | F332: Công nghệ thông tin
+A333: 2 | B333: B25DCCN476 | C333: Trần Quang Tiến | D333: Nam | E333: D25CQCN03-B | F333: Công nghệ thông tin
+A334: 2 | B334: B25DCCN487 | C334: Trần Hữu Duy Triết | D334: Nam | E334: D25CQCN03-B | F334: Công nghệ thông tin
+A335: 2 | B335: B25DCCN498 | C335: Nguyễn Ngọc Trọng | D335: Nam | E335: D25CQCN03-B | F335: Công nghệ thông tin
+A336: 2 | B336: B25DCCN509 | C336: Nguyễn Anh Tuấn | D336: Nam | E336: D25CQCN03-B | F336: Công nghệ thông tin
+A337: 2 | B337: B25DCCN520 | C337: Võ Tấn Tài | D337: Nam | E337: D25CQCN03-B | F337: Công nghệ thông tin
+A338: 3 | B338: B25DCCN531 | C338: Nguyễn Viết Tú | D338: Nam | E338: D25CQCN03-B | F338: Công nghệ thông tin
+A339: 3 | B339: B25DCCN542 | C339: Ngô Quang Vinh | D339: Nam | E339: D25CQCN03-B | F339: Công nghệ thông tin
+A340: 3 | B340: B25DCCN553 | C340: Nguyễn Phương Việt | D340: Nam | E340: D25CQCN03-B | F340: Công nghệ thông tin
+A341: 3 | B341: B25DCCN564 | C341: Đào Trần Minh Vũ | D341: Nam | E341: D25CQCN03-B | F341: Công nghệ thông tin
+A342: 3 | B342: B25DCCN575 | C342: Ngần Hải Đăng | D342: Nam | E342: D25CQCN03-B | F342: Công nghệ thông tin
+A343: 3 | B343: B25DCCN586 | C343: Nguyễn Thành Đạt | D343: Nam | E343: D25CQCN03-B | F343: Công nghệ thông tin
+A344: 3 | B344: B25DCCN597 | C344: Hoàng Trọng Đức | D344: Nam | E344: D25CQCN03-B | F344: Công nghệ thông tin
+A345: 3 | B345: B25DCCN608 | C345: Nguyễn Văn Đức | D345: Nam | E345: D25CQCN03-B | F345: Công nghệ thông tin
+A346: 3 | B346: B25DCCN004 | C346: Phạm Bình An | D346: Nam | E346: D25CQCN04-B | F346: Công nghệ thông tin
+A347: 3 | B347: B25DCCN015 | C347: Hoàng Tuấn Anh | D347: Nam | E347: D25CQCN04-B | F347: Công nghệ thông tin
+A348: 3 | B348: B25DCCN026 | C348: Nguyễn Hoàng Anh | D348: Nam | E348: D25CQCN04-B | F348: Công nghệ thông tin
+A349: 3 | B349: B25DCCN037 | C349: Nguyễn Đình Nam Anh | D349: Nam | E349: D25CQCN04-B | F349: Công nghệ thông tin
+A350: 3 | B350: B25DCCN048 | C350: Vũ Nguyễn Hoàng Anh | D350: Nam | E350: D25CQCN04-B | F350: Công nghệ thông tin
+A351: 3 | B351: B25DCCN059 | C351: Phí Nguyên Bình | D351: Nam | E351: D25CQCN04-B | F351: Công nghệ thông tin
+A352: 3 | B352: B25DCCN070 | C352: Đặng Văn Cao | D352: Nam | E352: D25CQCN04-B | F352: Công nghệ thông tin
+A353: 3 | B353: B25DCCN081 | C353: Lê Minh Công | D353: Nam | E353: D25CTCN01-B | F353: Công nghệ thông tin
+A354: 3 | B354: B25DCCN092 | C354: Trần Đức Cường | D354: Nam | E354: D25CQCN04-B | F354: Công nghệ thông tin
+A355: 3 | B355: B25DCCN103 | C355: Hà Hồng Duy | D355: Nam | E355: D25CTCN01-B | F355: Công nghệ thông tin
+A356: 3 | B356: B25DCCN114 | C356: Phạm Văn Duẩn | D356: Nam | E356: D25CQCN04-B | F356: Công nghệ thông tin
+A357: 3 | B357: B25DCCN136 | C357: Đinh Tiến Dũng | D357: Nam | E357: D25CQCN04-B | F357: Công nghệ thông tin
+A358: 3 | B358: B25DCCN158 | C358: Trần Công Hiếu | D358: Nam | E358: D25CQCN04-B | F358: Công nghệ thông tin
+A359: 3 | B359: B25DCCN169 | C359: Đồng Quảng Hiệp | D359: Nam | E359: D25CQCN04-B | F359: Công nghệ thông tin
+A360: 3 | B360: B25DCCN180 | C360: Trần Việt Hoàng | D360: Nam | E360: D25CQCN04-B | F360: Công nghệ thông tin
+A361: 3 | B361: B25DCCN202 | C361: Lưu Nam Hà | D361: Nam | E361: D25CTCN01-B | F361: Công nghệ thông tin
+A362: 3 | B362: B25DCCN213 | C362: Nguyễn Duy Hùng | D362: Nam | E362: D25CQCN04-B | F362: Công nghệ thông tin
+A363: 3 | B363: B25DCCN224 | C363: Đinh Phú Trọng Hưng | D363: Nam | E363: D25CQCN04-B | F363: Công nghệ thông tin
+A364: 3 | B364: B25DCCN235 | C364: Phạm Kim Kha | D364: Nam | E364: D25CQCN04-B | F364: Công nghệ thông tin
+A365: 3 | B365: B25DCCN246 | C365: Nguyễn Dương Phúc Khánh | D365: Nam | E365: D25CQCN04-B | F365: Công nghệ thông tin
+A366: 3 | B366: B25DCCN257 | C366: Từ Viết Khởi | D366: Nam | E366: D25CQCN04-B | F366: Công nghệ thông tin
+A367: 3 | B367: B25DCCN268 | C367: Nguyễn Văn Kiệt | D367: Nam | E367: D25CQCN04-B | F367: Công nghệ thông tin
+A368: 3 | B368: B25DCCN290 | C368: Lê Ngọc Lộc | D368: Nam | E368: D25CQCN04-B | F368: Công nghệ thông tin
+A369: 3 | B369: B25DCCN301 | C369: Lê Đức Minh | D369: Nam | E369: D25CQCN04-B | F369: Công nghệ thông tin
+A370: 3 | B370: B25DCCN312 | C370: Nguyễn Tiến Minh | D370: Nam | E370: D25CQCN04-B | F370: Công nghệ thông tin
+A371: 3 | B371: B25DCCN323 | C371: Vũ Nhật Minh | D371: Nam | E371: D25CQCN04-B | F371: Công nghệ thông tin
+A372: 3 | B372: B25DCCN334 | C372: Mai Tiến Mạnh | D372: Nam | E372: D25CQCN04-B | F372: Công nghệ thông tin
+A373: 3 | B373: B25DCCN345 | C373: Trần Hải Nam | D373: Nam | E373: D25CQCN04-B | F373: Công nghệ thông tin
+A374: 3 | B374: B25DCCN356 | C374: Trần Đình Đăng Nguyên | D374: Nam | E374: D25CQCN04-B | F374: Công nghệ thông tin
+A375: 3 | B375: B25DCCN378 | C375: Hồ Sỹ Phú | D375: Nam | E375: D25CQCN04-B | F375: Công nghệ thông tin
+A376: 3 | B376: B25DCCN389 | C376: Lê Đình Phúc | D376: Nam | E376: D25CQCN04-B | F376: Công nghệ thông tin
+A377: 3 | B377: B25DCCN400 | C377: Nguyễn Tiến An Phước | D377: Nam | E377: D25CQCN04-B | F377: Công nghệ thông tin
+A378: 3 | B378: B25DCCN411 | C378: Đồng Minh Quang | D378: Nam | E378: D25CQCN04-B | F378: Công nghệ thông tin
+A379: 3 | B379: B25DCCN422 | C379: Trần Minh Quân | D379: Nam | E379: D25CQCN04-B | F379: Công nghệ thông tin
+A380: 3 | B380: B25DCCN433 | C380: Đỗ Thế Sơn | D380: Nam | E380: D25CQCN04-B | F380: Công nghệ thông tin
+A381: 3 | B381: B25DCCN444 | C381: Lâm Quốc Thành | D381: Nam | E381: D25CQCN04-B | F381: Công nghệ thông tin
+A382: 3 | B382: B25DCCN455 | C382: Nguyễn Tiến Thông | D382: Nam | E382: D25CQCN04-B | F382: Công nghệ thông tin
+A383: 3 | B383: B25DCCN466 | C383: Hoàng Gia Thịnh | D383: Nam | E383: D25CQCN04-B | F383: Công nghệ thông tin
+A384: 3 | B384: B25DCCN477 | C384: Vũ Duy Tiến | D384: Nam | E384: D25CQCN04-B | F384: Công nghệ thông tin
+A385: 3 | B385: B25DCCN488 | C385: Tạ Văn Triển | D385: Nam | E385: D25CQCN04-B | F385: Công nghệ thông tin
+A386: 3 | B386: B25DCCN499 | C386: Nguyễn Phú Trọng | D386: Nam | E386: D25CQCN04-B | F386: Công nghệ thông tin
+A387: 3 | B387: B25DCCN510 | C387: Nguyễn Anh Tuấn | D387: Nam | E387: D25CTCN01-B | F387: Công nghệ thông tin
+A388: 3 | B388: B25DCCN521 | C388: Đoàn Tuấn Tài | D388: Nam | E388: D25CQCN04-B | F388: Công nghệ thông tin
+A389: 3 | B389: B25DCCN532 | C389: Nguyễn Đình Tuấn Tú | D389: Nam | E389: D25CQCN04-B | F389: Công nghệ thông tin
+A390: 3 | B390: B25DCCN543 | C390: Phạm Anh Vinh | D390: Nam | E390: D25CQCN04-B | F390: Công nghệ thông tin
+A391: 3 | B391: B25DCCN554 | C391: Nguyễn Đình Duy Việt | D391: Nam | E391: D25CQCN04-B | F391: Công nghệ thông tin
+A392: 3 | B392: B25DCCN565 | C392: Nguyễn Minh Vương | D392: Nam | E392: D25CQCN04-B | F392: Công nghệ thông tin
+A393: 3 | B393: B25DCCN576 | C393: Phùng Hải Đăng | D393: Nam | E393: D25CQCN04-B | F393: Công nghệ thông tin
+A394: 3 | B394: B25DCCN587 | C394: Nguyễn Tiến Đạt | D394: Nam | E394: D25CQCN04-B | F394: Công nghệ thông tin
+A395: 3 | B395: B25DCCN598 | C395: Lê Anh Đức | D395: Nam | E395: D25CQCN04-B | F395: Công nghệ thông tin
+A396: 3 | B396: B25DCCN609 | C396: Nguyễn Văn Đức | D396: Nam | E396: D25CTCN01-B | F396: Công nghệ thông tin
+A397: 3 | B397: B25DCCN016 | C397: Hoàng Việt Anh | D397: Nam | E397: D25CQCN05-B | F397: Công nghệ thông tin
+A398: 3 | B398: B25DCCN027 | C398: Nguyễn Hoàng Anh | D398: Nam | E398: D25CQCN05-B | F398: Công nghệ thông tin
+A399: 3 | B399: B25DCCN038 | C399: Phạm Duy Anh | D399: Nam | E399: D25CQCN05-B | F399: Công nghệ thông tin
+A400: 3 | B400: B25DCCN049 | C400: Vũ Trung Anh | D400: Nam | E400: D25CQCN05-B | F400: Công nghệ thông tin
+A401: 3 | B401: B25DCCN060 | C401: Dương Thiên Bảo | D401: Nam | E401: D25CQCN05-B | F401: Công nghệ thông tin
+A402: 3 | B402: B25DCCN082 | C402: Nguyễn Hữu Công | D402: Nam | E402: D25CQCN05-B | F402: Công nghệ thông tin
+A403: 3 | B403: B25DCCN093 | C403: Đoàn Văn Cường | D403: Nam | E403: D25CQCN05-B | F403: Công nghệ thông tin
+A404: 3 | B404: B25DCCN104 | C404: Mai Đức Duy | D404: Nam | E404: D25CQCN05-B | F404: Công nghệ thông tin
+A405: 3 | B405: B25DCCN115 | C405: Bùi Tiến Dũng | D405: Nam | E405: D25CQCN05-B | F405: Công nghệ thông tin
+A406: 3 | B406: B25DCCN137 | C406: Đặng Tiến Dũng | D406: Nam | E406: D25CQCN05-B | F406: Công nghệ thông tin
+A407: 3 | B407: B25DCCN159 | C407: Trần Minh Hiếu | D407: Nam | E407: D25CQCN05-B | F407: Công nghệ thông tin
+A408: 3 | B408: B25DCCN170 | C408: Mai Quốc Hiệu | D408: Nam | E408: D25CQCN05-B | F408: Công nghệ thông tin
+A409: 3 | B409: B25DCCN181 | C409: Tô Uyên Khánh Hoàng | D409: Nam | E409: D25CQCN05-B | F409: Công nghệ thông tin
+A410: 3 | B410: B25DCCN192 | C410: Nguyễn Văn Lâm Huy | D410: Nam | E410: D25CQCN05-B | F410: Công nghệ thông tin
+A411: 3 | B411: B25DCCN203 | C411: Nguyễn Mạnh Hà | D411: Nam | E411: D25CQCN05-B | F411: Công nghệ thông tin
+A412: 3 | B412: B25DCCN214 | C412: Nguyễn Sinh Hùng | D412: Nam | E412: D25CQCN05-B | F412: Công nghệ thông tin
+A413: 3 | B413: B25DCCN225 | C413: Đoàn Hữu Hưng | D413: Nam | E413: D25CQCN05-B | F413: Công nghệ thông tin
+A414: 3 | B414: B25DCCN236 | C414: Lê Việt Khang | D414: Nam | E414: D25CQCN05-B | F414: Công nghệ thông tin
+A415: 3 | B415: B25DCCN247 | C415: Nguyễn Gia Khánh | D415: Nam | E415: D25CQCN05-B | F415: Công nghệ thông tin
+A416: 3 | B416: B25DCCN258 | C416: Bùi Chí Kiên | D416: Nam | E416: D25CQCN05-B | F416: Công nghệ thông tin
+A417: 3 | B417: B25DCCN280 | C417: Hoàng Bảo Lâm | D417: Nam | E417: D25CQCN05-B | F417: Công nghệ thông tin
+A418: 3 | B418: B25DCCN291 | C418: Phan Quốc Lộc | D418: Nam | E418: D25CTCN01-B | F418: Công nghệ thông tin
+A419: 3 | B419: B25DCCN302 | C419: Nguyễn Minh | D419: Nam | E419: D25CQCN05-B | F419: Công nghệ thông tin
+A420: 3 | B420: B25DCCN313 | C420: Nguyễn Văn Minh | D420: Nam | E420: D25CQCN05-B | F420: Công nghệ thông tin
+A421: 3 | B421: B25DCCN324 | C421: Vũ Đức Minh | D421: Nam | E421: D25CQCN05-B | F421: Công nghệ thông tin
+A422: 3 | B422: B25DCCN335 | C422: Nguyễn Đức Mạnh | D422: Nam | E422: D25CQCN05-B | F422: Công nghệ thông tin
+A423: 3 | B423: B25DCCN346 | C423: Trần Văn Nam | D423: Nam | E423: D25CQCN05-B | F423: Công nghệ thông tin
+A424: 3 | B424: B25DCCN357 | C424: Vũ Hoàng Nguyên | D424: Nam | E424: D25CQCN05-B | F424: Công nghệ thông tin
+A425: 3 | B425: B25DCCN368 | C425: Hoàng Trung Phong | D425: Nam | E425: D25CQCN05-B | F425: Công nghệ thông tin
+A426: 3 | B426: B25DCCN379 | C426: Nguyễn Khắc Phú | D426: Nam | E426: D25CQCN05-B | F426: Công nghệ thông tin
+A427: 3 | B427: B25DCCN390 | C427: Nghiêm Xuân Phúc | D427: Nam | E427: D25CQCN05-B | F427: Công nghệ thông tin
+A428: 3 | B428: B25DCCN401 | C428: Cù Như Quang | D428: Nam | E428: D25CQCN05-B | F428: Công nghệ thông tin
+A429: 3 | B429: B25DCCN412 | C429: Lê Hoàng Quy | D429: Nam | E429: D25CQCN05-B | F429: Công nghệ thông tin
+A430: 3 | B430: B25DCCN423 | C430: Trần Mạnh Quân | D430: Nam | E430: D25CQCN05-B | F430: Công nghệ thông tin
+A431: 3 | B431: B25DCCN434 | C431: Thiều Dương Đức Thanh | D431: Nam | E431: D25CQCN05-B | F431: Công nghệ thông tin
+A432: 3 | B432: B25DCCN445 | C432: Lâm Tiến Thành | D432: Nam | E432: D25CQCN05-B | F432: Công nghệ thông tin
+A433: 3 | B433: B25DCCN467 | C433: Nguyễn Huy Thịnh | D433: Nam | E433: D25CQCN05-B | F433: Công nghệ thông tin
+A434: 3 | B434: B25DCCN478 | C434: Đỗ Xuân Tiến | D434: Nam | E434: D25CQCN05-B | F434: Công nghệ thông tin
+A435: 3 | B435: B25DCCN489 | C435: Nguyễn Thành Trung | D435: Nam | E435: D25CQCN05-B | F435: Công nghệ thông tin
+A436: 3 | B436: B25DCCN500 | C436: Nguyễn Phúc Trọng | D436: Nam | E436: D25CQCN05-B | F436: Công nghệ thông tin
+A437: 3 | B437: B25DCCN511 | C437: Nguyễn Công Tuấn | D437: Nam | E437: D25CQCN05-B | F437: Công nghệ thông tin
+A438: 3 | B438: B25DCCN533 | C438: Nguyễn Đức Tú | D438: Nam | E438: D25CQCN05-B | F438: Công nghệ thông tin
+A439: 3 | B439: B25DCCN544 | C439: Phạm Thế Vinh | D439: Nam | E439: D25CQCN05-B | F439: Công nghệ thông tin
+A440: 3 | B440: B25DCCN555 | C440: Nguyễn Đình Quốc Việt | D440: Nam | E440: D25CTCN01-B | F440: Công nghệ thông tin
+A441: 3 | B441: B25DCCN566 | C441: Thào Quốc Vượng | D441: Nam | E441: D25CQCN05-B | F441: Công nghệ thông tin
+A442: 3 | B442: B25DCCN577 | C442: Phùng Hải Đăng | D442: Nam | E442: D25CQCN05-B | F442: Công nghệ thông tin
+A443: 3 | B443: B25DCCN588 | C443: Trần Mạnh Đạt | D443: Nam | E443: D25CQCN05-B | F443: Công nghệ thông tin
+A444: 3 | B444: B25DCCN599 | C444: Lê Minh Đức | D444: Nam | E444: D25CTCN01-B | F444: Công nghệ thông tin
+A445: 3 | B445: B25DCCN610 | C445: Trần Minh Đức | D445: Nam | E445: D25CQCN05-B | F445: Công nghệ thông tin
+A446: 3 | B446: B25DCCN006 | C446: Trần Quang An | D446: Nam | E446: D25CQCN06-B | F446: Công nghệ thông tin
+A447: 3 | B447: B25DCCN017 | C447: Lê Khắc Hoàng Anh | D447: Nam | E447: D25CQCN06-B | F447: Công nghệ thông tin
+A448: 3 | B448: B25DCCN028 | C448: Nguyễn Nam Anh | D448: Nam | E448: D25CQCN06-B | F448: Công nghệ thông tin
+A449: 3 | B449: B25DCCN039 | C449: Phạm Duy Anh | D449: Nam | E449: D25CQCN06-B | F449: Công nghệ thông tin
+A450: 3 | B450: B25DCCN050 | C450: Vũ Đức Anh | D450: Nam | E450: D25CQCN06-B | F450: Công nghệ thông tin
+A451: 3 | B451: B25DCCN061 | C451: Lê Quốc Bảo | D451: Nam | E451: D25CQCN06-B | F451: Công nghệ thông tin
+A452: 3 | B452: B25DCCN083 | C452: Nguyễn Xuân Công | D452: Nam | E452: D25CQCN06-B | F452: Công nghệ thông tin
+A453: 3 | B453: B25DCCN094 | C453: Đỗ Hải Cường | D453: Nam | E453: D25CQCN06-B | F453: Công nghệ thông tin
+A454: 3 | B454: B25DCCN105 | C454: Nguyễn Mậu Duy | D454: Nam | E454: D25CQCN06-B | F454: Công nghệ thông tin
+A455: 3 | B455: B25DCCN116 | C455: Bùi Đức Dũng | D455: Nam | E455: D25CQCN06-B | F455: Công nghệ thông tin
+A456: 3 | B456: B25DCCN127 | C456: Nguyễn Việt Dũng | D456: Nam | E456: D25CQCN06-B | F456: Công nghệ thông tin
+A457: 3 | B457: B25DCCN138 | C457: Đỗ Anh Dũng | D457: Nam | E457: D25CQCN06-B | F457: Công nghệ thông tin
+A458: 3 | B458: B25DCCN149 | C458: Đàm Phương Giang | D458: Nam | E458: D25CQCN06-B | F458: Công nghệ thông tin
+A459: 3 | B459: B25DCCN160 | C459: Trịnh Minh Hiếu | D459: Nam | E459: D25CQCN06-B | F459: Công nghệ thông tin
+A460: 3 | B460: B25DCCN171 | C460: Tống Văn Hiệu | D460: Nam | E460: D25CQCN06-B | F460: Công nghệ thông tin
+A461: 3 | B461: B25DCCN182 | C461: Tạ Huy Hoàng | D461: Nam | E461: D25CQCN06-B | F461: Công nghệ thông tin
+A462: 3 | B462: B25DCCN193 | C462: Phan Quốc Huy | D462: Nam | E462: D25CQCN06-B | F462: Công nghệ thông tin
+A463: 3 | B463: B25DCCN215 | C463: Nguyễn Tiến Hùng | D463: Nam | E463: D25CQCN06-B | F463: Công nghệ thông tin
+A464: 3 | B464: B25DCCN226 | C464: Đào Duy Hưng | D464: Nam | E464: D25CQCN06-B | F464: Công nghệ thông tin
+A465: 3 | B465: B25DCCN237 | C465: Nguyễn Duy Khanh | D465: Nam | E465: D25CQCN06-B | F465: Công nghệ thông tin
+A466: 3 | B466: B25DCCN259 | C466: Bùi Trung Kiên | D466: Nam | E466: D25CQCN06-B | F466: Công nghệ thông tin
+A467: 3 | B467: B25DCCN270 | C467: Trần Chí Linh | D467: Nam | E467: D25CQCN06-B | F467: Công nghệ thông tin
+A468: 3 | B468: B25DCCN281 | C468: Lê Bảo Lâm | D468: Nam | E468: D25CQCN06-B | F468: Công nghệ thông tin
+A469: 3 | B469: B25DCCN292 | C469: Trần Phạm Khánh Lợi | D469: Nam | E469: D25CQCN06-B | F469: Công nghệ thông tin
+A470: 3 | B470: B25DCCN303 | C470: Nguyễn Anh Minh | D470: Nam | E470: D25CQCN06-B | F470: Công nghệ thông tin
+A471: 3 | B471: B25DCCN314 | C471: Nguyễn Văn Thành Minh | D471: Nam | E471: D25CQCN06-B | F471: Công nghệ thông tin
+A472: 3 | B472: B25DCCN325 | C472: Đinh Hữu Nhật Minh | D472: Nam | E472: D25CQCN06-B | F472: Công nghệ thông tin
+A473: 3 | B473: B25DCCN336 | C473: Phạm Văn Mạnh | D473: Nam | E473: D25CQCN06-B | F473: Công nghệ thông tin
+A474: 3 | B474: B25DCCN347 | C474: Tạ Sơn Nam | D474: Nam | E474: D25CQCN06-B | F474: Công nghệ thông tin
+A475: 3 | B475: B25DCCN358 | C475: Vũ Minh Nguyên | D475: Nam | E475: D25CQCN06-B | F475: Công nghệ thông tin
+A476: 3 | B476: B25DCCN369 | C476: Hoàng Tuấn Phong | D476: Nam | E476: D25CTCN01-B | F476: Công nghệ thông tin
+A477: 3 | B477: B25DCCN380 | C477: Nguyễn Trọng Phú | D477: Nam | E477: D25CTCN01-B | F477: Công nghệ thông tin
+A478: 3 | B478: B25DCCN391 | C478: Nguyễn Duy Phúc | D478: Nam | E478: D25CQCN06-B | F478: Công nghệ thông tin
+A479: 3 | B479: B25DCCN402 | C479: Lê Gia Quang | D479: Nam | E479: D25CQCN06-B | F479: Công nghệ thông tin
+A480: 3 | B480: B25DCCN413 | C480: Vương Văn Quyến | D480: Nam | E480: D25CQCN06-B | F480: Công nghệ thông tin
+A481: 3 | B481: B25DCCN424 | C481: Trần Văn Quân | D481: Nam | E481: D25CQCN06-B | F481: Công nghệ thông tin
+A482: 3 | B482: B25DCCN446 | C482: Lê Minh Thành | D482: Nam | E482: D25CQCN06-B | F482: Công nghệ thông tin
+A483: 3 | B483: B25DCCN468 | C483: Nguyễn Đức Thịnh | D483: Nam | E483: D25CQCN06-B | F483: Công nghệ thông tin
+A484: 3 | B484: B25DCCN479 | C484: Vũ Xuân Tiệp | D484: Nam | E484: D25CQCN06-B | F484: Công nghệ thông tin
+A485: 3 | B485: B25DCCN490 | C485: Nguyễn Thế Trung | D485: Nam | E485: D25CQCN06-B | F485: Công nghệ thông tin
+A486: 3 | B486: B25DCCN501 | C486: Đỗ Thành Trọng | D486: Nam | E486: D25CTCN01-B | F486: Công nghệ thông tin
+A487: 3 | B487: B25DCCN512 | C487: Phan Sỹ Tuấn | D487: Nam | E487: D25CQCN06-B | F487: Công nghệ thông tin
+A488: 3 | B488: B25DCCN523 | C488: Nguyễn Hoàng Đức Tâm | D488: Nam | E488: D25CTCN01-B | F488: Công nghệ thông tin
+A489: 3 | B489: B25DCCN534 | C489: Phạm Minh Tú | D489: Nam | E489: D25CQCN06-B | F489: Công nghệ thông tin
+A490: 3 | B490: B25DCCN545 | C490: Trần Quang Vinh | D490: Nam | E490: D25CQCN06-B | F490: Công nghệ thông tin
+A491: 3 | B491: B25DCCN567 | C491: Tô Tiến Vượng | D491: Nam | E491: D25CQCN06-B | F491: Công nghệ thông tin
+A492: 3 | B492: B25DCCN578 | C492: Đỗ Hải Đăng | D492: Nam | E492: D25CQCN06-B | F492: Công nghệ thông tin
+A493: 3 | B493: B25DCCN589 | C493: Trần Mạnh Đạt | D493: Nam | E493: D25CQCN06-B | F493: Công nghệ thông tin
+A494: 3 | B494: B25DCCN600 | C494: Nguyễn Minh Đức | D494: Nam | E494: D25CQCN06-B | F494: Công nghệ thông tin
+A495: 3 | B495: B25DCCN611 | C495: Trần Nguyễn Minh Đức | D495: Nam | E495: D25CQCN06-B | F495: Công nghệ thông tin
+A496: 3 | B496: B25DCCN007 | C496: Vũ Văn An | D496: Nam | E496: D25CQCN07-B | F496: Công nghệ thông tin
+A497: 3 | B497: B25DCCN018 | C497: Lê Nguyễn Duy Anh | D497: Nam | E497: D25CQCN07-B | F497: Công nghệ thông tin
+A498: 3 | B498: B25DCCN029 | C498: Nguyễn Ngọc Anh | D498: Nam | E498: D25CQCN07-B | F498: Công nghệ thông tin
+A499: 3 | B499: B25DCCN040 | C499: Phạm Lưu Bảo Anh | D499: Nam | E499: D25CQCN07-B | F499: Công nghệ thông tin
+A500: 3 | B500: B25DCCN051 | C500: Vũ Đức Anh | D500: Nam | E500: D25CQCN07-B | F500: Công nghệ thông tin
+A501: 3 | B501: B25DCCN062 | C501: Nguyễn Hoa Bảo | D501: Nam | E501: D25CQCN07-B | F501: Công nghệ thông tin
+A502: 3 | B502: B25DCCN084 | C502: Ngô Thành Công | D502: Nam | E502: D25CQCN07-B | F502: Công nghệ thông tin
+A503: 3 | B503: B25DCCN095 | C503: Phạm Tuấn Cảnh | D503: Nam | E503: D25CQCN07-B | F503: Công nghệ thông tin
+A504: 3 | B504: B25DCCN106 | C504: Nguyễn Thành Duy | D504: Nam | E504: D25CTCN01-B | F504: Công nghệ thông tin
+A505: 3 | B505: B25DCCN117 | C505: Dương Văn Dũng | D505: Nam | E505: D25CQCN07-B | F505: Công nghệ thông tin
+A506: 4 | B506: B25DCCN128 | C506: Nguyễn Đăng Dũng | D506: Nam | E506: D25CQCN07-B | F506: Công nghệ thông tin
+A507: 4 | B507: B25DCCN139 | C507: Hoàng Thái Dương | D507: Nam | E507: D25CQCN07-B | F507: Công nghệ thông tin
+A508: 4 | B508: B25DCCN161 | C508: Vũ Minh Hiếu | D508: Nam | E508: D25CQCN07-B | F508: Công nghệ thông tin
+A509: 4 | B509: B25DCCN172 | C509: Dương Thanh Hoan | D509: Nam | E509: D25CQCN07-B | F509: Công nghệ thông tin
+A510: 4 | B510: B25DCCN183 | C510: Vũ Huy Hoàng | D510: Nam | E510: D25CQCN07-B | F510: Công nghệ thông tin
+A511: 4 | B511: B25DCCN194 | C511: Phạm Quang Huy | D511: Nam | E511: D25CQCN07-B | F511: Công nghệ thông tin
+A512: 4 | B512: B25DCCN205 | C512: Nguyễn Văn Hà | D512: Nam | E512: D25CQCN07-B | F512: Công nghệ thông tin
+A513: 4 | B513: B25DCCN216 | C513: Phạm Anh Hùng | D513: Nam | E513: D25CQCN07-B | F513: Công nghệ thông tin
+A514: 4 | B514: B25DCCN238 | C514: Trịnh Gia Khiêm | D514: Nam | E514: D25CQCN07-B | F514: Công nghệ thông tin
+A515: 4 | B515: B25DCCN249 | C515: Phạm Nam Khánh | D515: Nam | E515: D25CQCN07-B | F515: Công nghệ thông tin
+A516: 4 | B516: B25DCCN260 | C516: Mai Trung Kiên | D516: Nam | E516: D25CQCN07-B | F516: Công nghệ thông tin
+A517: 4 | B517: B25DCCN282 | C517: Nguyễn Bảo Lâm | D517: Nam | E517: D25CQCN07-B | F517: Công nghệ thông tin
+A518: 4 | B518: B25DCCN293 | C518: Trần Hợp Lực | D518: Nam | E518: D25CQCN07-B | F518: Công nghệ thông tin
+A519: 4 | B519: B25DCCN304 | C519: Nguyễn Anh Minh | D519: Nam | E519: D25CQCN07-B | F519: Công nghệ thông tin
+A520: 4 | B520: B25DCCN315 | C520: Nguyễn Đức Minh | D520: Nam | E520: D25CQCN07-B | F520: Công nghệ thông tin
+A521: 4 | B521: B25DCCN326 | C521: Đoàn Trần Quang Minh | D521: Nam | E521: D25CQCN07-B | F521: Công nghệ thông tin
+A522: 4 | B522: B25DCCN337 | C522: Đào Đức Mạnh | D522: Nam | E522: D25CQCN07-B | F522: Công nghệ thông tin
+A523: 4 | B523: B25DCCN348 | C523: Đặng Phương Nam | D523: Nam | E523: D25CQCN07-B | F523: Công nghệ thông tin
+A524: 4 | B524: B25DCCN359 | C524: Đoàn Trung Nguyên | D524: Nam | E524: D25CQCN07-B | F524: Công nghệ thông tin
+A525: 4 | B525: B25DCCN370 | C525: Lê Hồng Phong | D525: Nam | E525: D25CQCN07-B | F525: Công nghệ thông tin
+A526: 4 | B526: B25DCCN381 | C526: Nguyễn Xuân Phú | D526: Nam | E526: D25CQCN07-B | F526: Công nghệ thông tin
+A527: 4 | B527: B25DCCN392 | C527: Nguyễn Minh Phúc | D527: Nam | E527: D25CQCN07-B | F527: Công nghệ thông tin
+A528: 4 | B528: B25DCCN403 | C528: Lê Hồng Quang | D528: Nam | E528: D25CQCN07-B | F528: Công nghệ thông tin
+A529: 4 | B529: B25DCCN414 | C529: Lê Công Quyền | D529: Nam | E529: D25CQCN07-B | F529: Công nghệ thông tin
+A530: 4 | B530: B25DCCN425 | C530: Đào Minh Quân | D530: Nam | E530: D25CQCN07-B | F530: Công nghệ thông tin
+A531: 4 | B531: B25DCCN458 | C531: Giang Thành Thắng | D531: Nam | E531: D25CQCN07-B | F531: Công nghệ thông tin
+A532: 4 | B532: B25DCCN469 | C532: Nguyễn Đức Thịnh | D532: Nam | E532: D25CQCN07-B | F532: Công nghệ thông tin
+A533: 4 | B533: B25DCCN480 | C533: Nguyễn Đức Toàn | D533: Nam | E533: D25CQCN07-B | F533: Công nghệ thông tin
+A534: 4 | B534: B25DCCN491 | C534: Nguyễn Tuấn Anh Trung | D534: Nam | E534: D25CQCN07-B | F534: Công nghệ thông tin
+A535: 4 | B535: B25DCCN502 | C535: Đoàn Cảnh Tuyên | D535: Nam | E535: D25CQCN07-B | F535: Công nghệ thông tin
+A536: 4 | B536: B25DCCN513 | C536: Quách Anh Tuấn | D536: Nam | E536: D25CQCN07-B | F536: Công nghệ thông tin
+A537: 4 | B537: B25DCCN524 | C537: Nguyễn Trọng Tùng | D537: Nam | E537: D25CQCN07-B | F537: Công nghệ thông tin
+A538: 4 | B538: B25DCCN535 | C538: Tạ Anh Tú | D538: Nam | E538: D25CQCN07-B | F538: Công nghệ thông tin
+A539: 4 | B539: B25DCCN546 | C539: Tạ Thế Vinh | D539: Nam | E539: D25CTCN01-B | F539: Công nghệ thông tin
+A540: 4 | B540: B25DCCN557 | C540: Trần Quốc Việt | D540: Nam | E540: D25CQCN07-B | F540: Công nghệ thông tin
+A541: 4 | B541: B25DCCN568 | C541: Nguyễn Thanh Xuân | D541: Nam | E541: D25CQCN07-B | F541: Công nghệ thông tin
+A542: 4 | B542: B25DCCN579 | C542: Ngạn Văn Đại | D542: Nam | E542: D25CQCN07-B | F542: Công nghệ thông tin
+A543: 4 | B543: B25DCCN590 | C543: Trần Thành Đạt | D543: Nam | E543: D25CQCN07-B | F543: Công nghệ thông tin
+A544: 4 | B544: B25DCCN601 | C544: Nguyễn Minh Đức | D544: Nam | E544: D25CQCN07-B | F544: Công nghệ thông tin
+A545: 4 | B545: B25DCCN612 | C545: Trịnh Việt Đức | D545: Nam | E545: D25CQCN07-B | F545: Công nghệ thông tin
+A546: 4 | B546: B25DCCN019 | C546: Lê Ngọc Anh | D546: Nam | E546: D25CQCN08-B | F546: Công nghệ thông tin
+A547: 4 | B547: B25DCCN030 | C547: Nguyễn Quang Anh | D547: Nam | E547: D25CQCN08-B | F547: Công nghệ thông tin
+A548: 4 | B548: B25DCCN052 | C548: Đinh Nguyễn Duy Anh | D548: Nam | E548: D25CQCN08-B | F548: Công nghệ thông tin
+A549: 4 | B549: B25DCCN063 | C549: Nguyễn Hoàng Bảo | D549: Nam | E549: D25CQCN08-B | F549: Công nghệ thông tin
+A550: 4 | B550: B25DCCN085 | C550: Ngô Thành Công | D550: Nam | E550: D25CQCN08-B | F550: Công nghệ thông tin
+A551: 4 | B551: B25DCCN096 | C551: Trần Văn Cảnh | D551: Nam | E551: D25CQCN08-B | F551: Công nghệ thông tin
+A552: 4 | B552: B25DCCN107 | C552: Nguyễn Văn Anh Duy | D552: Nam | E552: D25CQCN08-B | F552: Công nghệ thông tin
+A553: 4 | B553: B25DCCN118 | C553: Lê Tiến Dũng | D553: Nam | E553: D25CQCN08-B | F553: Công nghệ thông tin
+A554: 4 | B554: B25DCCN129 | C554: Nguyễn Đức Dũng | D554: Nam | E554: D25CQCN08-B | F554: Công nghệ thông tin
+A555: 4 | B555: B25DCCN140 | C555: Lê Hải Dương | D555: Nam | E555: D25CQCN08-B | F555: Công nghệ thông tin
+A556: 4 | B556: B25DCCN151 | C556: Bùi Trung Hiếu | D556: Nam | E556: D25CQCN08-B | F556: Công nghệ thông tin
+A557: 4 | B557: B25DCCN162 | C557: Đào Trung Hiếu | D557: Nam | E557: D25CQCN08-B | F557: Công nghệ thông tin
+A558: 4 | B558: B25DCCN173 | C558: Nguyễn Bá Hoàn | D558: Nam | E558: D25CQCN08-B | F558: Công nghệ thông tin
+A559: 4 | B559: B25DCCN184 | C559: Vũ Đình Hoàng | D559: Nam | E559: D25CQCN08-B | F559: Công nghệ thông tin
+A560: 4 | B560: B25DCCN195 | C560: Trương Nhật Huy | D560: Nam | E560: D25CQCN08-B | F560: Công nghệ thông tin
+A561: 4 | B561: B25DCCN206 | C561: Phan Đình Hân | D561: Nam | E561: D25CQCN08-B | F561: Công nghệ thông tin
+A562: 4 | B562: B25DCCN217 | C562: Phạm Gia Hùng | D562: Nam | E562: D25CQCN08-B | F562: Công nghệ thông tin
+A563: 4 | B563: B25DCCN228 | C563: Bùi Thanh Hải | D563: Nam | E563: D25CQCN08-B | F563: Công nghệ thông tin
+A564: 4 | B564: B25DCCN239 | C564: Tạ Bình Khiêm | D564: Nam | E564: D25CQCN08-B | F564: Công nghệ thông tin
+A565: 4 | B565: B25DCCN250 | C565: Đinh Mạnh Khánh | D565: Nam | E565: D25CQCN08-B | F565: Công nghệ thông tin
+A566: 4 | B566: B25DCCN261 | C566: Nguyễn Hữu Hoàng Kiên | D566: Nam | E566: D25CQCN08-B | F566: Công nghệ thông tin
+A567: 4 | B567: B25DCCN283 | C567: Nguyễn Quang Lâm | D567: Nam | E567: D25CTCN01-B | F567: Công nghệ thông tin
+A568: 4 | B568: B25DCCN305 | C568: Nguyễn Khiếu Hoàng Minh | D568: Nam | E568: D25CQCN08-B | F568: Công nghệ thông tin
+A569: 4 | B569: B25DCCN316 | C569: Nguyễn Đức Minh | D569: Nam | E569: D25CQCN08-B | F569: Công nghệ thông tin
+A570: 4 | B570: B25DCCN327 | C570: Đặng Vũ Minh | D570: Nam | E570: D25CQCN08-B | F570: Công nghệ thông tin
+A571: 4 | B571: B25DCCN328 | C571: Đỗ Nguyễn Hữu Minh | D571: Nam | E571: D25CQCN08-B | F571: Công nghệ thông tin
+A572: 4 | B572: B25DCCN338 | C572: Lương Tú Mẫn | D572: Nam | E572: D25CQCN08-B | F572: Công nghệ thông tin
+A573: 4 | B573: B25DCCN360 | C573: Đỗ Công Nguyên | D573: Nam | E573: D25CQCN08-B | F573: Công nghệ thông tin
+A574: 4 | B574: B25DCCN371 | C574: Nguyễn Hoàng Thế Phong | D574: Nam | E574: D25CQCN08-B | F574: Công nghệ thông tin
+A575: 4 | B575: B25DCCN382 | C575: Nguyễn Đình Nam Phú | D575: Nam | E575: D25CQCN08-B | F575: Công nghệ thông tin
+A576: 4 | B576: B25DCCN393 | C576: Nguyễn Ngọc Thiên Phúc | D576: Nam | E576: D25CQCN08-B | F576: Công nghệ thông tin
+A577: 4 | B577: B25DCCN404 | C577: Nguyễn Minh Quang | D577: Nam | E577: D25CQCN08-B | F577: Công nghệ thông tin
+A578: 4 | B578: B25DCCN415 | C578: Lê Trung Quân | D578: Nam | E578: D25CQCN08-B | F578: Công nghệ thông tin
+A579: 4 | B579: B25DCCN426 | C579: Đỗ Hoàng Quý | D579: Nam | E579: D25CQCN08-B | F579: Công nghệ thông tin
+A580: 4 | B580: B25DCCN437 | C580: Nguyễn Xuân Thiên | D580: Nam | E580: D25CQCN08-B | F580: Công nghệ thông tin
+A581: 4 | B581: B25DCCN448 | C581: Nguyễn Công Thành | D581: Nam | E581: D25CQCN08-B | F581: Công nghệ thông tin
+A582: 4 | B582: B25DCCN459 | C582: Nguyễn Quốc Thắng | D582: Nam | E582: D25CQCN08-B | F582: Công nghệ thông tin
+A583: 4 | B583: B25DCCN481 | C583: Nguyễn Đức Toàn | D583: Nam | E583: D25CQCN08-B | F583: Công nghệ thông tin
+A584: 4 | B584: B25DCCN492 | C584: Nguyễn Đình Trung | D584: Nam | E584: D25CQCN08-B | F584: Công nghệ thông tin
+A585: 4 | B585: B25DCCN503 | C585: Bùi Công Tuyền | D585: Nam | E585: D25CQCN08-B | F585: Công nghệ thông tin
+A586: 4 | B586: B25DCCN514 | C586: Tạ Đình Tuấn | D586: Nam | E586: D25CQCN08-B | F586: Công nghệ thông tin
+A587: 4 | B587: B25DCCN525 | C587: Hoàng Anh Tú | D587: Nam | E587: D25CQCN08-B | F587: Công nghệ thông tin
+A588: 4 | B588: B25DCCN536 | C588: Vũ Tiến Tạo | D588: Nam | E588: D25CQCN08-B | F588: Công nghệ thông tin
+A589: 4 | B589: B25DCCN547 | C589: Vũ Đức Vinh | D589: Nam | E589: D25CQCN08-B | F589: Công nghệ thông tin
+A590: 4 | B590: B25DCCN558 | C590: Nghiêm Xuân Vũ | D590: Nam | E590: D25CQCN08-B | F590: Công nghệ thông tin
+A591: 4 | B591: B25DCCN580 | C591: Bùi Đỗ Tiến Đạt | D591: Nam | E591: D25CTCN01-B | F591: Công nghệ thông tin
+A592: 4 | B592: B25DCCN591 | C592: Tưởng Công Đạt | D592: Nam | E592: D25CQCN08-B | F592: Công nghệ thông tin
+A593: 4 | B593: B25DCCN602 | C593: Nguyễn Minh Đức | D593: Nam | E593: D25CQCN08-B | F593: Công nghệ thông tin
+A594: 4 | B594: B25DCCN613 | C594: Vi Anh Đức | D594: Nam | E594: D25CQCN08-B | F594: Công nghệ thông tin
+A595: 4 | B595: B25DCCN009 | C595: Bùi Việt Anh | D595: Nam | E595: D25CQCN09-B | F595: Công nghệ thông tin
+A596: 4 | B596: B25DCCN020 | C596: Lê Văn Tuấn Anh | D596: Nam | E596: D25CQCN09-B | F596: Công nghệ thông tin
+A597: 4 | B597: B25DCCN053 | C597: Đinh Vũ Duy Anh | D597: Nam | E597: D25CQCN09-B | F597: Công nghệ thông tin
+A598: 4 | B598: B25DCCN064 | C598: Nguyễn Hữu Bảo | D598: Nam | E598: D25CQCN09-B | F598: Công nghệ thông tin
+A599: 4 | B599: B25DCCN075 | C599: Lại Minh Chiến | D599: Nam | E599: D25CQCN09-B | F599: Công nghệ thông tin
+A600: 4 | B600: B25DCCN086 | C600: Trần Minh Công | D600: Nam | E600: D25CQCN09-B | F600: Công nghệ thông tin
+A601: 4 | B601: B25DCCN108 | C601: Nguyễn Đức Duy | D601: Nam | E601: D25CQCN09-B | F601: Công nghệ thông tin
+A602: 4 | B602: B25DCCN119 | C602: Lưu Tuấn Dũng | D602: Nam | E602: D25CTCN01-B | F602: Công nghệ thông tin
+A603: 4 | B603: B25DCCN130 | C603: Ngô Tiến Dũng | D603: Nam | E603: D25CQCN09-B | F603: Công nghệ thông tin
+A604: 4 | B604: B25DCCN141 | C604: Nguyễn Phi Khánh Dương | D604: Nam | E604: D25CQCN09-B | F604: Công nghệ thông tin
+A605: 4 | B605: B25DCCN152 | C605: Chu Minh Hiếu | D605: Nam | E605: D25CQCN09-B | F605: Công nghệ thông tin
+A606: 4 | B606: B25DCCN163 | C606: Mai Quang Hiền | D606: Nam | E606: D25CQCN09-B | F606: Công nghệ thông tin
+A607: 4 | B607: B25DCCN174 | C607: Nguyễn Hữu Việt Hoàn | D607: Nam | E607: D25CTCN01-B | F607: Công nghệ thông tin
+A608: 4 | B608: B25DCCN196 | C608: Trương Thanh Huy | D608: Nam | E608: D25CQCN09-B | F608: Công nghệ thông tin
+A609: 4 | B609: B25DCCN218 | C609: Trương Thanh Hùng | D609: Nam | E609: D25CQCN09-B | F609: Công nghệ thông tin
+A610: 4 | B610: B25DCCN229 | C610: Nguyễn Hoàng Hải | D610: Nam | E610: D25CQCN09-B | F610: Công nghệ thông tin
+A611: 4 | B611: B25DCCN240 | C611: Vũ Ngọc Khiêm | D611: Nam | E611: D25CQCN09-B | F611: Công nghệ thông tin
+A612: 4 | B612: B25DCCN251 | C612: Đoàn Nguyễn Khánh | D612: Nam | E612: D25CQCN09-B | F612: Công nghệ thông tin
+A613: 4 | B613: B25DCCN262 | C613: Nguyễn Trung Kiên | D613: Nam | E613: D25CQCN09-B | F613: Công nghệ thông tin
+A614: 4 | B614: B25DCCN273 | C614: Chu Văn Long | D614: Nam | E614: D25CQCN09-B | F614: Công nghệ thông tin
+A615: 4 | B615: B25DCCN284 | C615: Nguyễn Đức Lâm | D615: Nam | E615: D25CQCN09-B | F615: Công nghệ thông tin
+A616: 4 | B616: B25DCCN306 | C616: Nguyễn Lê Minh | D616: Nam | E616: D25CQCN09-B | F616: Công nghệ thông tin
+A617: 4 | B617: B25DCCN317 | C617: Ngô Duy Minh | D617: Nam | E617: D25CQCN09-B | F617: Công nghệ thông tin
+A618: 4 | B618: B25DCCN339 | C618: Hoàng Văn Nam | D618: Nam | E618: D25CTCN01-B | F618: Công nghệ thông tin
+A619: 4 | B619: B25DCCN350 | C619: Bùi Quang Nghĩa | D619: Nam | E619: D25CQCN09-B | F619: Công nghệ thông tin
+A620: 4 | B620: B25DCCN372 | C620: Nguyễn Đắc Phong | D620: Nam | E620: D25CQCN09-B | F620: Công nghệ thông tin
+A621: 4 | B621: B25DCCN383 | C621: Phan Trọng Phú | D621: Nam | E621: D25CQCN09-B | F621: Công nghệ thông tin
+A622: 4 | B622: B25DCCN394 | C622: Phạm Xuân Phúc | D622: Nam | E622: D25CQCN09-B | F622: Công nghệ thông tin
+A623: 4 | B623: B25DCCN405 | C623: Nguyễn Tiến Quang | D623: Nam | E623: D25CQCN09-B | F623: Công nghệ thông tin
+A624: 4 | B624: B25DCCN416 | C624: Nguyễn Bá Quân | D624: Nam | E624: D25CQCN09-B | F624: Công nghệ thông tin
+A625: 4 | B625: B25DCCN427 | C625: Hoàng Lê Bảo Quốc | D625: Nam | E625: D25CQCN09-B | F625: Công nghệ thông tin
+A626: 4 | B626: B25DCCN438 | C626: Nguyễn Vũ Thiện | D626: Nam | E626: D25CQCN09-B | F626: Công nghệ thông tin
+A627: 4 | B627: B25DCCN449 | C627: Nguyễn Tất Thành | D627: Nam | E627: D25CQCN09-B | F627: Công nghệ thông tin
+A628: 4 | B628: B25DCCN460 | C628: Nguyễn Văn Thắng | D628: Nam | E628: D25CQCN09-B | F628: Công nghệ thông tin
+A629: 4 | B629: B25DCCN471 | C629: Chu Minh Tiến | D629: Nam | E629: D25CQCN09-B | F629: Công nghệ thông tin
+A630: 4 | B630: B25DCCN482 | C630: Phạm Quốc Toàn | D630: Nam | E630: D25CQCN09-B | F630: Công nghệ thông tin
+A631: 4 | B631: B25DCCN493 | C631: Phạm Quang Trung | D631: Nam | E631: D25CQCN09-B | F631: Công nghệ thông tin
+A632: 4 | B632: B25DCCN504 | C632: Trần Đình Tuyển | D632: Nam | E632: D25CQCN09-B | F632: Công nghệ thông tin
+A633: 4 | B633: B25DCCN515 | C633: Đinh Huy Tuấn | D633: Nam | E633: D25CQCN09-B | F633: Công nghệ thông tin
+A634: 4 | B634: B25DCCN537 | C634: Nguyễn Bá Tấn | D634: Nam | E634: D25CQCN09-B | F634: Công nghệ thông tin
+A635: 4 | B635: B25DCCN548 | C635: Trịnh Bá Viết | D635: Nam | E635: D25CQCN09-B | F635: Công nghệ thông tin
+A636: 4 | B636: B25DCCN559 | C636: Nguyễn Anh Vũ | D636: Nam | E636: D25CTCN01-B | F636: Công nghệ thông tin
+A637: 4 | B637: B25DCCN570 | C637: Phạm Minh Đan | D637: Nam | E637: D25CQCN09-B | F637: Công nghệ thông tin
+A638: 4 | B638: B25DCCN581 | C638: Hoàng Hữu Đạt | D638: Nam | E638: D25CQCN09-B | F638: Công nghệ thông tin
+A639: 4 | B639: B25DCCN592 | C639: Đào Trọng Đạt | D639: Nam | E639: D25CQCN09-B | F639: Công nghệ thông tin
+A640: 4 | B640: B25DCCN603 | C640: Nguyễn Minh Đức | D640: Nam | E640: D25CQCN09-B | F640: Công nghệ thông tin
+A641: 4 | B641: B25DCCN614 | C641: Đặng Minh Đức | D641: Nam | E641: D25CTCN01-B | F641: Công nghệ thông tin
+A642: 4 | B642: B25DCCN021 | C642: Lưu Thế Anh | D642: Nam | E642: D25CQCN10-B | F642: Công nghệ thông tin
+A643: 4 | B643: B25DCCN043 | C643: Phạm Đức Anh | D643: Nam | E643: D25CQCN10-B | F643: Công nghệ thông tin
+A644: 4 | B644: B25DCCN054 | C644: Đào Duy Tuấn Anh | D644: Nam | E644: D25CQCN10-B | F644: Công nghệ thông tin
+A645: 4 | B645: B25DCCN065 | C645: Nguyễn Khắc Bảo | D645: Nam | E645: D25CQCN10-B | F645: Công nghệ thông tin
+A646: 4 | B646: B25DCCN076 | C646: Vũ Quang Chiến | D646: Nam | E646: D25CQCN10-B | F646: Công nghệ thông tin
+A647: 4 | B647: B25DCCN087 | C647: Hà Đức Cường | D647: Nam | E647: D25CQCN10-B | F647: Công nghệ thông tin
+A648: 4 | B648: B25DCCN109 | C648: Trần Quang Duy | D648: Nam | E648: D25CQCN10-B | F648: Công nghệ thông tin
+A649: 4 | B649: B25DCCN120 | C649: Nguyễn Anh Dũng | D649: Nam | E649: D25CQCN10-B | F649: Công nghệ thông tin
+A650: 4 | B650: B25DCCN131 | C650: Ngô Tiến Dũng | D650: Nam | E650: D25CQCN10-B | F650: Công nghệ thông tin
+A651: 4 | B651: B25DCCN142 | C651: Nguyễn Quý Dương | D651: Nam | E651: D25CQCN10-B | F651: Công nghệ thông tin
+A652: 4 | B652: B25DCCN153 | C652: Kiều Minh Hiếu | D652: Nam | E652: D25CQCN10-B | F652: Công nghệ thông tin
+A653: 4 | B653: B25DCCN164 | C653: Nguyễn Vinh Hiển | D653: Nam | E653: D25CQCN10-B | F653: Công nghệ thông tin
+A654: 4 | B654: B25DCCN175 | C654: Đỗ Đức Hoàn | D654: Nam | E654: D25CQCN10-B | F654: Công nghệ thông tin
+A655: 4 | B655: B25DCCN186 | C655: Đoàn Văn Hoàng | D655: Nam | E655: D25CQCN10-B | F655: Công nghệ thông tin
+A656: 4 | B656: B25DCCN197 | C656: Trần Dương Huy | D656: Nam | E656: D25CQCN10-B | F656: Công nghệ thông tin
+A657: 4 | B657: B25DCCN208 | C657: Bùi Duy Hòa | D657: Nam | E657: D25CQCN10-B | F657: Công nghệ thông tin
+A658: 4 | B658: B25DCCN219 | C658: Đào Xuân Hùng | D658: Nam | E658: D25CQCN10-B | F658: Công nghệ thông tin
+A659: 4 | B659: B25DCCN230 | C659: Nguyễn Viết Minh Hải | D659: Nam | E659: D25CQCN10-B | F659: Công nghệ thông tin
+A660: 4 | B660: B25DCCN241 | C660: Nguyễn Văn Đại Khoa | D660: Nam | E660: D25CQCN10-B | F660: Công nghệ thông tin
+A661: 4 | B661: B25DCCN263 | C661: Phạm Trung Kiên | D661: Nam | E661: D25CQCN10-B | F661: Công nghệ thông tin
+A662: 4 | B662: B25DCCN274 | C662: Cấn Huy Long | D662: Nam | E662: D25CQCN10-B | F662: Công nghệ thông tin
+A663: 4 | B663: B25DCCN285 | C663: Trần Đức Lâm | D663: Nam | E663: D25CQCN10-B | F663: Công nghệ thông tin
+A664: 4 | B664: B25DCCN296 | C664: Bùi Đức Minh | D664: Nam | E664: D25CQCN10-B | F664: Công nghệ thông tin
+A665: 4 | B665: B25DCCN307 | C665: Nguyễn Ngọc Minh | D665: Nam | E665: D25CQCN10-B | F665: Công nghệ thông tin
+A666: 4 | B666: B25DCCN318 | C666: Ngô Ngọc Bình Minh | D666: Nam | E666: D25CQCN10-B | F666: Công nghệ thông tin
+A667: 4 | B667: B25DCCN340 | C667: Nguyễn Chí Nam | D667: Nam | E667: D25CQCN10-B | F667: Công nghệ thông tin
+A668: 4 | B668: B25DCCN351 | C668: Đặng Tuấn Nghĩa | D668: Nam | E668: D25CQCN10-B | F668: Công nghệ thông tin
+A669: 4 | B669: B25DCCN362 | C669: Phan Hồng Bảo Ngọc | D669: Nam | E669: D25CQCN10-B | F669: Công nghệ thông tin
+A670: 4 | B670: B25DCCN373 | C670: Vũ Nam Phong | D670: Nam | E670: D25CQCN10-B | F670: Công nghệ thông tin
+A671: 4 | B671: B25DCCN384 | C671: Phạm Thanh Phú | D671: Nam | E671: D25CQCN10-B | F671: Công nghệ thông tin
+A672: 4 | B672: B25DCCN406 | C672: Nguyễn Đăng Quang | D672: Nam | E672: D25CQCN10-B | F672: Công nghệ thông tin
+A673: 4 | B673: B25DCCN417 | C673: Nguyễn Mạnh Quân | D673: Nam | E673: D25CQCN10-B | F673: Công nghệ thông tin
+A674: 5 | B674: B25DCCN428 | C674: Nguyễn Đức Minh Sáng | D674: Nam | E674: D25CQCN10-B | F674: Công nghệ thông tin
+A675: 5 | B675: B25DCCN439 | C675: Nguyễn Đình Thiện | D675: Nam | E675: D25CQCN10-B | F675: Công nghệ thông tin
+A676: 5 | B676: B25DCCN450 | C676: Nguyễn Đức Hoàn Thành | D676: Nam | E676: D25CQCN10-B | F676: Công nghệ thông tin
+A677: 5 | B677: B25DCCN461 | C677: Nguyễn Đình Quyết Thắng | D677: Nam | E677: D25CQCN10-B | F677: Công nghệ thông tin
+A678: 5 | B678: B25DCCN472 | C678: Chu Mạnh Tiến | D678: Nam | E678: D25CQCN10-B | F678: Công nghệ thông tin
+A679: 5 | B679: B25DCCN494 | C679: Đào Tiến Trung | D679: Nam | E679: D25CQCN10-B | F679: Công nghệ thông tin
+A680: 5 | B680: B25DCCN505 | C680: Bùi Huy Tuấn | D680: Nam | E680: D25CTCN01-B | F680: Công nghệ thông tin
+A681: 5 | B681: B25DCCN516 | C681: Đào Mạnh Tuấn | D681: Nam | E681: D25CQCN10-B | F681: Công nghệ thông tin
+A682: 5 | B682: B25DCCN527 | C682: Lê Hữu Tú | D682: Nam | E682: D25CQCN10-B | F682: Công nghệ thông tin
+A683: 5 | B683: B25DCCN538 | C683: Lê Khánh Vinh | D683: Nam | E683: D25CQCN10-B | F683: Công nghệ thông tin
+A684: 5 | B684: B25DCCN549 | C684: Phan Văn Viễn | D684: Nam | E684: D25CQCN10-B | F684: Công nghệ thông tin
+A685: 5 | B685: B25DCCN560 | C685: Nguyễn Hữu Vũ | D685: Nam | E685: D25CQCN10-B | F685: Công nghệ thông tin
+A686: 5 | B686: B25DCCN582 | C686: Lã Tiến Đạt | D686: Nam | E686: D25CQCN10-B | F686: Công nghệ thông tin
+A687: 5 | B687: B25DCCN593 | C687: Dương Thành Đồng | D687: Nam | E687: D25CQCN10-B | F687: Công nghệ thông tin
+A688: 5 | B688: B25DCCN011 | C688: Dương Văn Anh | D688: Nam | E688: D25CQCN11-B | F688: Công nghệ thông tin
+A689: 5 | B689: B25DCCN022 | C689: Lưu Đức Anh | D689: Nam | E689: D25CQCN11-B | F689: Công nghệ thông tin
+A690: 5 | B690: B25DCCN033 | C690: Nguyễn Tuấn Anh | D690: Nam | E690: D25CQCN11-B | F690: Công nghệ thông tin
+A691: 5 | B691: B25DCCN044 | C691: Quản Đức Anh | D691: Nam | E691: D25CQCN11-B | F691: Công nghệ thông tin
+A692: 5 | B692: B25DCCN055 | C692: Đỗ Ngọc Anh | D692: Nam | E692: D25CQCN11-B | F692: Công nghệ thông tin
+A693: 5 | B693: B25DCCN066 | C693: Nguyễn Phạm Minh Bảo | D693: Nam | E693: D25CQCN11-B | F693: Công nghệ thông tin
+A694: 5 | B694: B25DCCN077 | C694: Trịnh Đình Chung | D694: Nam | E694: D25CQCN11-B | F694: Công nghệ thông tin
+A695: 5 | B695: B25DCCN088 | C695: Lê Mạnh Cường | D695: Nam | E695: D25CQCN11-B | F695: Công nghệ thông tin
+A696: 5 | B696: B25DCCN099 | C696: Lê Xuân Doanh | D696: Nam | E696: D25CQCN11-B | F696: Công nghệ thông tin
+A697: 5 | B697: B25DCCN110 | C697: Vũ Bá Duy | D697: Nam | E697: D25CQCN11-B | F697: Công nghệ thông tin
+A698: 5 | B698: B25DCCN121 | C698: Nguyễn Anh Dũng | D698: Nam | E698: D25CQCN11-B | F698: Công nghệ thông tin
+A699: 5 | B699: B25DCCN132 | C699: Phạm Tuấn Dũng | D699: Nam | E699: D25CQCN11-B | F699: Công nghệ thông tin
+A700: 5 | B700: B25DCCN154 | C700: Nguyễn Công Hiếu | D700: Nam | E700: D25CQCN11-B | F700: Công nghệ thông tin
+A701: 5 | B701: B25DCCN165 | C701: Khiếu Quang Hiệp | D701: Nam | E701: D25CQCN11-B | F701: Công nghệ thông tin
+A702: 5 | B702: B25DCCN176 | C702: Lê Minh Hoàng | D702: Nam | E702: D25CQCN11-B | F702: Công nghệ thông tin
+A703: 5 | B703: B25DCCN187 | C703: Bùi Hữu Huy | D703: Nam | E703: D25CQCN11-B | F703: Công nghệ thông tin
+A704: 5 | B704: B25DCCN198 | C704: Vương Gia Huy | D704: Nam | E704: D25CQCN11-B | F704: Công nghệ thông tin
+A705: 5 | B705: B25DCCN209 | C705: Lương Kim Việt Hòa | D705: Nam | E705: D25CQCN11-B | F705: Công nghệ thông tin
+A706: 5 | B706: B25DCCN220 | C706: Kiều Đức Duy Hưng | D706: Nam | E706: D25CQCN11-B | F706: Công nghệ thông tin
+A707: 5 | B707: B25DCCN231 | C707: Trần Khắc Hải | D707: Nam | E707: D25CQCN11-B | F707: Công nghệ thông tin
+A708: 5 | B708: B25DCCN242 | C708: Nguyễn Đăng Khoa | D708: Nam | E708: D25CQCN11-B | F708: Công nghệ thông tin
+A709: 5 | B709: B25DCCN253 | C709: Trần Nguyên Khôi | D709: Nam | E709: D25CQCN11-B | F709: Công nghệ thông tin
+A710: 5 | B710: B25DCCN264 | C710: Phạm Trung Kiên | D710: Nam | E710: D25CQCN11-B | F710: Công nghệ thông tin
+A711: 5 | B711: B25DCCN275 | C711: Giáp Văn Long | D711: Nam | E711: D25CQCN11-B | F711: Công nghệ thông tin
+A712: 5 | B712: B25DCCN286 | C712: Trần Đức Lâm | D712: Nam | E712: D25CQCN11-B | F712: Công nghệ thông tin
+A713: 5 | B713: B25DCCN297 | C713: Hoàng Minh | D713: Nam | E713: D25CQCN11-B | F713: Công nghệ thông tin
+A714: 5 | B714: B25DCCN308 | C714: Nguyễn Nhật Minh | D714: Nam | E714: D25CQCN11-B | F714: Công nghệ thông tin
+A715: 5 | B715: B25DCCN319 | C715: Phạm Tuấn Minh | D715: Nam | E715: D25CQCN11-B | F715: Công nghệ thông tin
+A716: 5 | B716: B25DCCN341 | C716: Nguyễn Thành Nam | D716: Nam | E716: D25CTCN01-B | F716: Công nghệ thông tin
+A717: 5 | B717: B25DCCN352 | C717: Lê Thọ Nguyên | D717: Nam | E717: D25CQCN11-B | F717: Công nghệ thông tin
+A718: 5 | B718: B25DCCN363 | C718: Trần Tuấn Ngọc | D718: Nam | E718: D25CQCN11-B | F718: Công nghệ thông tin
+A719: 5 | B719: B25DCCN374 | C719: Nguyễn Hữu Phát | D719: Nam | E719: D25CQCN11-B | F719: Công nghệ thông tin
+A720: 5 | B720: B25DCCN385 | C720: Triệu Triệu Phú | D720: Nam | E720: D25CQCN11-B | F720: Công nghệ thông tin
+A721: 5 | B721: B25DCCN396 | C721: Nguyễn Nhật Phương | D721: Nam | E721: D25CQCN11-B | F721: Công nghệ thông tin
+A722: 5 | B722: B25DCCN418 | C722: Nguyễn Thế Quân | D722: Nam | E722: D25CQCN11-B | F722: Công nghệ thông tin
+A723: 5 | B723: B25DCCN429 | C723: Bùi Trí Sâm | D723: Nam | E723: D25CTCN01-B | F723: Công nghệ thông tin
+A724: 5 | B724: B25DCCN451 | C724: Đinh Minh Thành | D724: Nam | E724: D25CQCN11-B | F724: Công nghệ thông tin
+A725: 5 | B725: B25DCCN462 | C725: Ngô Xuân Thắng | D725: Nam | E725: D25CQCN11-B | F725: Công nghệ thông tin
+A726: 5 | B726: B25DCCN473 | C726: Cấn Văn Tiến | D726: Nam | E726: D25CQCN11-B | F726: Công nghệ thông tin
+A727: 5 | B727: B25DCCN506 | C727: Hồ Bá Tuấn | D727: Nam | E727: D25CQCN11-B | F727: Công nghệ thông tin
+A728: 5 | B728: B25DCCN517 | C728: Đặng Đình Tuấn | D728: Nam | E728: D25CQCN11-B | F728: Công nghệ thông tin
+A729: 5 | B729: B25DCCN528 | C729: Lê Quốc Anh Tú | D729: Nam | E729: D25CQCN11-B | F729: Công nghệ thông tin
+A730: 5 | B730: B25DCCN539 | C730: Lê Quang Vinh | D730: Nam | E730: D25CQCN11-B | F730: Công nghệ thông tin
+A731: 5 | B731: B25DCCN550 | C731: Lê Văn Ngọc Việt | D731: Nam | E731: D25CQCN11-B | F731: Công nghệ thông tin
+A732: 5 | B732: B25DCCN561 | C732: Nguyễn Long Vũ | D732: Nam | E732: D25CQCN11-B | F732: Công nghệ thông tin
+A733: 5 | B733: B25DCCN583 | C733: Nguyễn Quang Đạt | D733: Nam | E733: D25CQCN11-B | F733: Công nghệ thông tin
+A734: 5 | B734: B25DCCN605 | C734: Nguyễn Minh Đức | D734: Nam | E734: D25CQCN11-B | F734: Công nghệ thông tin
+A735: 5 | B735: B25DCVT009 | C735: Nguyễn Duy Anh | D735: Nam | E735: D25CQVT01-B | F735: Điện tử - Viễn thông
+A736: 5 | B736: B25DCVT017 | C736: Ngô Đức Anh | D736: Nam | E736: D25CQVT01-B | F736: Điện tử - Viễn thông
+A737: 5 | B737: B25DCVT025 | C737: Trần Quang Anh | D737: Nam | E737: D25CQVT01-B | F737: Điện tử - Viễn thông
+A738: 5 | B738: B25DCVT033 | C738: Nguyễn Thanh Bình | D738: Nam | E738: D25CQVT01-B | F738: Điện tử - Viễn thông
+A739: 5 | B739: B25DCVT041 | C739: Nguyễn Thế Bắc | D739: Nam | E739: D25CQVT01-B | F739: Điện tử - Viễn thông
+A740: 5 | B740: B25DCVT049 | C740: Cao Xuân Chuyên | D740: Nam | E740: D25CQVT01-B | F740: Điện tử - Viễn thông
+A741: 5 | B741: B25DCVT057 | C741: Nguyễn Trọng Cường | D741: Nam | E741: D25CQVT01-B | F741: Điện tử - Viễn thông
+A742: 5 | B742: B25DCVT065 | C742: Lê Đình Duy | D742: Nam | E742: D25CTVT01-B | F742: Điện tử - Viễn thông
+A743: 5 | B743: B25DCVT073 | C743: Lê Anh Dũng | D743: Nam | E743: D25CQVT01-B | F743: Điện tử - Viễn thông
+A744: 5 | B744: B25DCVT081 | C744: Nguyễn Minh Dương | D744: Nam | E744: D25CQVT01-B | F744: Điện tử - Viễn thông
+A745: 5 | B745: B25DCVT089 | C745: Nguyễn Chí Hiếu | D745: Nam | E745: D25CQVT01-B | F745: Điện tử - Viễn thông
+A746: 5 | B746: B25DCVT097 | C746: Triệu Nguyễn Trung Hiếu | D746: Nam | E746: D25CQVT01-B | F746: Điện tử - Viễn thông
+A747: 5 | B747: B25DCVT105 | C747: Lê Minh Hoàng | D747: Nam | E747: D25CQVT01-B | F747: Điện tử - Viễn thông
+A748: 5 | B748: B25DCVT113 | C748: Đoàn Đức Hoàng | D748: Nam | E748: D25CQVT01-B | F748: Điện tử - Viễn thông
+A749: 5 | B749: B25DCVT121 | C749: Nguyễn Quang Huy | D749: Nam | E749: D25CQVT01-B | F749: Điện tử - Viễn thông
+A750: 5 | B750: B25DCVT129 | C750: Bùi Minh Huệ | D750: Nam | E750: D25CQVT01-B | F750: Điện tử - Viễn thông
+A751: 5 | B751: B25DCVT137 | C751: Dương Tuấn Hùng | D751: Nam | E751: D25CTVT01-B | F751: Điện tử - Viễn thông
+A752: 5 | B752: B25DCVT145 | C752: Nguyễn Ngọc Hưng | D752: Nam | E752: D25CQVT01-B | F752: Điện tử - Viễn thông
+A753: 5 | B753: B25DCVT153 | C753: Vũ Hoàng Hải | D753: Nam | E753: D25CQVT01-B | F753: Điện tử - Viễn thông
+A754: 5 | B754: B25DCVT161 | C754: Phạm Minh Khang | D754: Nam | E754: D25CQVT01-B | F754: Điện tử - Viễn thông
+A755: 5 | B755: B25DCVT169 | C755: Nguyễn Thức Đăng Khoa | D755: Nam | E755: D25CQVT01-B | F755: Điện tử - Viễn thông
+A756: 5 | B756: B25DCVT177 | C756: Trần Đức Gia Khánh | D756: Nam | E756: D25CTVT01-B | F756: Điện tử - Viễn thông
+A757: 5 | B757: B25DCVT185 | C757: Nguyễn Lại Anh Kiệt | D757: Nam | E757: D25CQVT01-B | F757: Điện tử - Viễn thông
+A758: 5 | B758: B25DCVT193 | C758: Lê Phụng Long | D758: Nam | E758: D25CTVT01-B | F758: Điện tử - Viễn thông
+A759: 5 | B759: B25DCVT201 | C759: Phạm Tùng Lâm | D759: Nam | E759: D25CQVT01-B | F759: Điện tử - Viễn thông
+A760: 5 | B760: B25DCVT209 | C760: Bùi Huy Nhật Minh | D760: Nam | E760: D25CQVT01-B | F760: Điện tử - Viễn thông
+A761: 5 | B761: B25DCVT217 | C761: Lỗ Quang Minh | D761: Nam | E761: D25CTVT01-B | F761: Điện tử - Viễn thông
+A762: 5 | B762: B25DCVT225 | C762: Nguyễn Đức Minh | D762: Nam | E762: D25CQVT01-B | F762: Điện tử - Viễn thông
+A763: 5 | B763: B25DCVT233 | C763: Vũ Đức Minh | D763: Nam | E763: D25CQVT01-B | F763: Điện tử - Viễn thông
+A764: 5 | B764: B25DCVT241 | C764: Hồ Duy Nam | D764: Nam | E764: D25CQVT01-B | F764: Điện tử - Viễn thông
+A765: 5 | B765: B25DCVT249 | C765: Vương Hải Nam | D765: Nam | E765: D25CQVT01-B | F765: Điện tử - Viễn thông
+A766: 5 | B766: B25DCVT257 | C766: Võ Hải Nguyên | D766: Nam | E766: D25CQVT01-B | F766: Điện tử - Viễn thông
+A767: 5 | B767: B25DCVT265 | C767: Bùi Đức Phong | D767: Nam | E767: D25CTVT01-B | F767: Điện tử - Viễn thông
+A768: 5 | B768: B25DCVT273 | C768: Ngô Bảo Phúc | D768: Nam | E768: D25CQVT01-B | F768: Điện tử - Viễn thông
+A769: 5 | B769: B25DCVT281 | C769: Nguyễn Anh Quang | D769: Nam | E769: D25CQVT01-B | F769: Điện tử - Viễn thông
+A770: 5 | B770: B25DCVT289 | C770: Nguyễn Anh Quân | D770: Nam | E770: D25CTVT01-B | F770: Điện tử - Viễn thông
+A771: 5 | B771: B25DCVT297 | C771: Nguyễn Hoàng Quốc | D771: Nam | E771: D25CQVT01-B | F771: Điện tử - Viễn thông
+A772: 5 | B772: B25DCVT305 | C772: Vũ Hoàng Sơn | D772: Nam | E772: D25CQVT01-B | F772: Điện tử - Viễn thông
+A773: 5 | B773: B25DCVT329 | C773: Nguyễn Trường Thịnh | D773: Nam | E773: D25CQVT01-B | F773: Điện tử - Viễn thông
+A774: 5 | B774: B25DCVT337 | C774: Giang Văn Trung | D774: Nam | E774: D25CQVT01-B | F774: Điện tử - Viễn thông
+A775: 5 | B775: B25DCVT345 | C775: Nguyễn Quang Trường | D775: Nam | E775: D25CQVT01-B | F775: Điện tử - Viễn thông
+A776: 5 | B776: B25DCVT353 | C776: Nguyễn Anh Tuấn | D776: Nam | E776: D25CQVT01-B | F776: Điện tử - Viễn thông
+A777: 5 | B777: B25DCVT361 | C777: Nguyễn Tú Tài | D777: Nam | E777: D25CQVT01-B | F777: Điện tử - Viễn thông
+A778: 5 | B778: B25DCVT369 | C778: Lê Thanh Tùng | D778: Nam | E778: D25CQVT01-B | F778: Điện tử - Viễn thông
+A779: 5 | B779: B25DCVT377 | C779: Nguyễn Trọng Việt | D779: Nam | E779: D25CTVT01-B | F779: Điện tử - Viễn thông
+A780: 5 | B780: B25DCVT385 | C780: Nguyễn Thanh Xuân | D780: Nam | E780: D25CQVT01-B | F780: Điện tử - Viễn thông
+A781: 5 | B781: B25DCVT393 | C781: Nguyễn Lê Nam Đạt | D781: Nam | E781: D25CQVT01-B | F781: Điện tử - Viễn thông
+A782: 5 | B782: B25DCVT401 | C782: Phạm Tiến Đạt | D782: Nam | E782: D25CQVT01-B | F782: Điện tử - Viễn thông
+A783: 5 | B783: B25DCVT409 | C783: Đỗ Tiến Đạt | D783: Nam | E783: D25CQVT01-B | F783: Điện tử - Viễn thông
+A784: 5 | B784: B25DCVT417 | C784: Phạm Minh Đức | D784: Nam | E784: D25CQVT01-B | F784: Điện tử - Viễn thông
+A785: 5 | B785: B25DCVT425 | C785: Đỗ Duy Đức | D785: Nam | E785: D25CTVT01-B | F785: Điện tử - Viễn thông
+A786: 5 | B786: B25DCVT002 | C786: Dương Đức Anh | D786: Nam | E786: D25CTVT01-B | F786: Điện tử - Viễn thông
+A787: 5 | B787: B25DCVT010 | C787: Nguyễn Duy Tiến Anh | D787: Nam | E787: D25CQVT02-B | F787: Điện tử - Viễn thông
+A788: 5 | B788: B25DCVT018 | C788: Phan Trường Anh | D788: Nam | E788: D25CQVT02-B | F788: Điện tử - Viễn thông
+A789: 5 | B789: B25DCVT026 | C789: Trần Đức Anh | D789: Nam | E789: D25CQVT02-B | F789: Điện tử - Viễn thông
+A790: 5 | B790: B25DCVT034 | C790: Nguyễn Đức Bình | D790: Nam | E790: D25CQVT02-B | F790: Điện tử - Viễn thông
+A791: 5 | B791: B25DCVT042 | C791: Trần Đức Bắc | D791: Nam | E791: D25CQVT02-B | F791: Điện tử - Viễn thông
+A792: 5 | B792: B25DCVT058 | C792: Nguyễn Đình Mạnh Cường | D792: Nam | E792: D25CQVT02-B | F792: Điện tử - Viễn thông
+A793: 5 | B793: B25DCVT066 | C793: Nguyễn Công Khánh Duy | D793: Nam | E793: D25CQVT02-B | F793: Điện tử - Viễn thông
+A794: 5 | B794: B25DCVT074 | C794: Nguyễn Mạnh Dũng | D794: Nam | E794: D25CQVT02-B | F794: Điện tử - Viễn thông
+A795: 5 | B795: B25DCVT082 | C795: Nguyễn Đức Dương | D795: Nam | E795: D25CQVT02-B | F795: Điện tử - Viễn thông
+A796: 5 | B796: B25DCVT090 | C796: Nguyễn Minh Hiếu | D796: Nam | E796: D25CQVT02-B | F796: Điện tử - Viễn thông
+A797: 5 | B797: B25DCVT098 | C797: Đoàn Minh Hiếu | D797: Nam | E797: D25CQVT02-B | F797: Điện tử - Viễn thông
+A798: 5 | B798: B25DCVT106 | C798: Lê Đăng Hoàng | D798: Nam | E798: D25CQVT02-B | F798: Điện tử - Viễn thông
+A799: 5 | B799: B25DCVT114 | C799: Bùi Nguyễn Gia Huy | D799: Nam | E799: D25CQVT02-B | F799: Điện tử - Viễn thông
+A800: 5 | B800: B25DCVT138 | C800: Nguyễn Hữu Hùng | D800: Nam | E800: D25CQVT02-B | F800: Điện tử - Viễn thông
+A801: 5 | B801: B25DCVT146 | C801: Nguyễn Quốc Hưng | D801: Nam | E801: D25CQVT02-B | F801: Điện tử - Viễn thông
+A802: 5 | B802: B25DCVT154 | C802: Đỗ Minh Hải | D802: Nam | E802: D25CQVT02-B | F802: Điện tử - Viễn thông
+A803: 5 | B803: B25DCVT162 | C803: Nguyễn Vũ Tuấn Khanh | D803: Nam | E803: D25CQVT02-B | F803: Điện tử - Viễn thông
+A804: 5 | B804: B25DCVT170 | C804: Lê Hữu Khánh | D804: Nam | E804: D25CQVT02-B | F804: Điện tử - Viễn thông
+A805: 5 | B805: B25DCVT178 | C805: Nguyễn Hiệp Khải | D805: Nam | E805: D25CQVT02-B | F805: Điện tử - Viễn thông
+A806: 5 | B806: B25DCVT186 | C806: Nguyễn Tuấn Kiệt | D806: Nam | E806: D25CQVT02-B | F806: Điện tử - Viễn thông
+A807: 5 | B807: B25DCVT194 | C807: Lê Đức Long | D807: Nam | E807: D25CQVT02-B | F807: Điện tử - Viễn thông
+A808: 5 | B808: B25DCVT202 | C808: Vũ Thái Lâm | D808: Nam | E808: D25CTVT01-B | F808: Điện tử - Viễn thông
+A809: 5 | B809: B25DCVT210 | C809: Bùi Nhật Minh | D809: Nam | E809: D25CQVT02-B | F809: Điện tử - Viễn thông
+A810: 5 | B810: B25DCVT218 | C810: Nguyễn Hoàng Minh | D810: Nam | E810: D25CQVT02-B | F810: Điện tử - Viễn thông
+A811: 5 | B811: B25DCVT226 | C811: Phùng Nhật Minh | D811: Nam | E811: D25CQVT02-B | F811: Điện tử - Viễn thông
+A812: 5 | B812: B25DCVT234 | C812: Lê Đức Mạnh | D812: Nam | E812: D25CQVT02-B | F812: Điện tử - Viễn thông
+A813: 5 | B813: B25DCVT242 | C813: Lê Hoàng Nam | D813: Nam | E813: D25CQVT02-B | F813: Điện tử - Viễn thông
+A814: 5 | B814: B25DCVT250 | C814: Đỗ Xuân Nam | D814: Nam | E814: D25CQVT02-B | F814: Điện tử - Viễn thông
+A815: 5 | B815: B25DCVT266 | C815: Nguyễn Hải Phong | D815: Nam | E815: D25CQVT02-B | F815: Điện tử - Viễn thông
+A816: 5 | B816: B25DCVT274 | C816: Phạm Minh Phúc | D816: Nam | E816: D25CQVT02-B | F816: Điện tử - Viễn thông
+A817: 5 | B817: B25DCVT290 | C817: Nguyễn Hữu Quân | D817: Nam | E817: D25CQVT02-B | F817: Điện tử - Viễn thông
+A818: 5 | B818: B25DCVT306 | C818: Đặng Thái Sơn | D818: Nam | E818: D25CQVT02-B | F818: Điện tử - Viễn thông
+A819: 5 | B819: B25DCVT314 | C819: Nguyễn Tiến Thành | D819: Nam | E819: D25CTVT01-B | F819: Điện tử - Viễn thông
+A820: 5 | B820: B25DCVT322 | C820: Vũ Trung Thành | D820: Nam | E820: D25CQVT02-B | F820: Điện tử - Viễn thông
+A821: 5 | B821: B25DCVT330 | C821: Phạm Tuấn Thịnh | D821: Nam | E821: D25CQVT02-B | F821: Điện tử - Viễn thông
+A822: 5 | B822: B25DCVT338 | C822: Nguyễn Quang Trung | D822: Nam | E822: D25CQVT02-B | F822: Điện tử - Viễn thông
+A823: 5 | B823: B25DCVT346 | C823: Nguyễn Đức Trường | D823: Nam | E823: D25CQVT02-B | F823: Điện tử - Viễn thông
+A824: 5 | B824: B25DCVT354 | C824: Nguyễn Anh Tuấn | D824: Nam | E824: D25CQVT02-B | F824: Điện tử - Viễn thông
+A825: 5 | B825: B25DCVT362 | C825: Phạm Anh Tài | D825: Nam | E825: D25CQVT02-B | F825: Điện tử - Viễn thông
+A826: 5 | B826: B25DCVT370 | C826: Nguyễn Hữu Tùng | D826: Nam | E826: D25CQVT02-B | F826: Điện tử - Viễn thông
+A827: 5 | B827: B25DCVT378 | C827: Trần Khoa Việt | D827: Nam | E827: D25CQVT02-B | F827: Điện tử - Viễn thông
+A828: 5 | B828: B25DCVT386 | C828: Phan Ngọc Điệp | D828: Nam | E828: D25CQVT02-B | F828: Điện tử - Viễn thông
+A829: 5 | B829: B25DCVT394 | C829: Nguyễn Tiến Đạt | D829: Nam | E829: D25CQVT02-B | F829: Điện tử - Viễn thông
+A830: 5 | B830: B25DCVT402 | C830: Trương Thành Đạt | D830: Nam | E830: D25CQVT02-B | F830: Điện tử - Viễn thông
+A831: 5 | B831: B25DCVT410 | C831: Hoàng Đình Định | D831: Nam | E831: D25CQVT02-B | F831: Điện tử - Viễn thông
+A832: 5 | B832: B25DCVT418 | C832: Phạm Quang Đức | D832: Nam | E832: D25CQVT02-B | F832: Điện tử - Viễn thông
+A833: 5 | B833: B25DCVT003 | C833: Hoàng Hải Anh | D833: Nam | E833: D25CTVT01-B | F833: Điện tử - Viễn thông
+A834: 5 | B834: B25DCVT011 | C834: Nguyễn Huy Anh | D834: Nam | E834: D25CQVT03-B | F834: Điện tử - Viễn thông
+A835: 5 | B835: B25DCVT019 | C835: Phan Tuấn Anh | D835: Nam | E835: D25CQVT03-B | F835: Điện tử - Viễn thông
+A836: 5 | B836: B25DCVT035 | C836: Hoàng Gia Bảo | D836: Nam | E836: D25CQVT03-B | F836: Điện tử - Viễn thông
+A837: 5 | B837: B25DCVT051 | C837: Trần Khắc Chính | D837: Nam | E837: D25CQVT03-B | F837: Điện tử - Viễn thông
+A838: 5 | B838: B25DCVT059 | C838: Đỗ Mạnh Cường | D838: Nam | E838: D25CQVT03-B | F838: Điện tử - Viễn thông
+A839: 5 | B839: B25DCVT067 | C839: Nguyễn Văn Khánh Duy | D839: Nam | E839: D25CQVT03-B | F839: Điện tử - Viễn thông
+A840: 5 | B840: B25DCVT075 | C840: Nguyễn Tiến Dũng | D840: Nam | E840: D25CQVT03-B | F840: Điện tử - Viễn thông
+A841: 5 | B841: B25DCVT083 | C841: Đào Hoàng Dương | D841: Nam | E841: D25CQVT03-B | F841: Điện tử - Viễn thông
+A842: 6 | B842: B25DCDT125 | C842: Nguyễn Thị Ngọc Mai | D842: Nữ | E842: D25CQDT01-B | F842: Điện - Điện tử
+A843: 6 | B843: B25DCDT206 | C843: Vũ Thu Trang | D843: Nữ | E843: D25CQDT02-B | F843: Điện - Điện tử
+A844: 6 | B844: B25DCDT076 | C844: Đỗ Thị Ngọc Huyền | D844: Nữ | E844: D25CQDT04-B | F844: Điện - Điện tử
+A845: 6 | B845: B25DCDT156 | C845: Trần Bảo Ngọc | D845: Nữ | E845: D25CQDT04-B | F845: Điện - Điện tử
+A846: 6 | B846: B25DCCN001 | C846: Nguyễn Bình Phương An | D846: Nữ | E846: D25CQCN01-B | F846: Công nghệ thông tin
+A847: 6 | B847: B25DCCN364 | C847: Nguyễn Ngọc Nhi | D847: Nữ | E847: D25CQCN01-B | F847: Công nghệ thông tin
+A848: 6 | B848: B25DCCN397 | C848: Nguyễn Thị Lan Phương | D848: Nữ | E848: D25CTCN01-B | F848: Công nghệ thông tin
+A849: 6 | B849: B25DCCN485 | C849: Đoàn Thu Trang | D849: Nữ | E849: D25CQCN01-B | F849: Công nghệ thông tin
+A850: 6 | B850: B25DCCN233 | C850: Nguyễn Cẩm Hằng | D850: Nữ | E850: D25CQCN02-B | F850: Công nghệ thông tin
+A851: 6 | B851: B25DCCN365 | C851: Nguyễn Thị Thanh Nhàn | D851: Nữ | E851: D25CQCN02-B | F851: Công nghệ thông tin
+A852: 6 | B852: B25DCCN442 | C852: Vương Khánh Thy | D852: Nữ | E852: D25CQCN02-B | F852: Công nghệ thông tin
+A853: 6 | B853: B25DCCN486 | C853: Đặng Huyền Trang | D853: Nữ | E853: D25CQCN02-B | F853: Công nghệ thông tin
+A854: 6 | B854: B25DCCN201 | C854: Hoàng Lại Nhật Hà | D854: Nữ | E854: D25CQCN03-B | F854: Công nghệ thông tin
+A855: 6 | B855: B25DCCN279 | C855: Đào Anh Ly | D855: Nữ | E855: D25CQCN04-B | F855: Công nghệ thông tin
+A856: 6 | B856: B25DCCN071 | C856: Dương Quỳnh Chi | D856: Nữ | E856: D25CQCN05-B | F856: Công nghệ thông tin
+A857: 6 | B857: B25DCCN269 | C857: Phạm Thị Phương Linh | D857: Nữ | E857: D25CQCN05-B | F857: Công nghệ thông tin
+A858: 6 | B858: B25DCCN456 | C858: Nguyễn Anh Thư | D858: Nữ | E858: D25CQCN05-B | F858: Công nghệ thông tin
+A859: 6 | B859: B25DCCN522 | C859: Hoàng Thanh Tâm | D859: Nữ | E859: D25CQCN05-B | F859: Công nghệ thông tin
+A860: 6 | B860: B25DCCN072 | C860: Hoàng Kim Chi | D860: Nữ | E860: D25CQCN06-B | F860: Công nghệ thông tin
+A861: 6 | B861: B25DCCN204 | C861: Nguyễn Phạm Ngọc Hà | D861: Nữ | E861: D25CQCN06-B | F861: Công nghệ thông tin
+A862: 6 | B862: B25DCCN457 | C862: Đoàn Thị Thảo | D862: Nữ | E862: D25CQCN06-B | F862: Công nghệ thông tin
+A863: 6 | B863: B25DCCN073 | C863: Đặng Mai Chi | D863: Nữ | E863: D25CTCN01-B | F863: Công nghệ thông tin
+A864: 6 | B864: B25DCCN150 | C864: Đông Hương Giang | D864: Nữ | E864: D25CQCN07-B | F864: Công nghệ thông tin
+A865: 6 | B865: B25DCCN227 | C865: Dương Quỳnh Hương | D865: Nữ | E865: D25CQCN07-B | F865: Công nghệ thông tin
+A866: 6 | B866: B25DCCN271 | C866: Đàm Thị Hoa Linh | D866: Nữ | E866: D25CQCN07-B | F866: Công nghệ thông tin
+A867: 6 | B867: B25DCCN041 | C867: Phạm Thị Mai Anh | D867: Nữ | E867: D25CQCN08-B | F867: Công nghệ thông tin
+A868: 6 | B868: B25DCCN272 | C868: Phạm Thị Bích Liên | D868: Nữ | E868: D25CQCN08-B | F868: Công nghệ thông tin
+A869: 6 | B869: B25DCCN294 | C869: Phạm Thị Ngọc Mai | D869: Nữ | E869: D25CQCN08-B | F869: Công nghệ thông tin
+A870: 6 | B870: B25DCCN470 | C870: Lê Thị Thanh Thủy | D870: Nữ | E870: D25CQCN08-B | F870: Công nghệ thông tin
+A871: 6 | B871: B25DCCN569 | C871: Vũ Thị Ngọc Ánh | D871: Nữ | E871: D25CQCN08-B | F871: Công nghệ thông tin
+A872: 6 | B872: B25DCCN031 | C872: Nguyễn Thị Hiền Anh | D872: Nữ | E872: D25CQCN09-B | F872: Công nghệ thông tin
+A873: 6 | B873: B25DCCN042 | C873: Phạm Thị Phương Anh | D873: Nữ | E873: D25CQCN09-B | F873: Công nghệ thông tin
+A874: 6 | B874: B25DCCN097 | C874: Cao Ngọc Diễm | D874: Nữ | E874: D25CQCN09-B | F874: Công nghệ thông tin
+A875: 6 | B875: B25DCCN295 | C875: Bùi Ngọc Minh | D875: Nữ | E875: D25CQCN09-B | F875: Công nghệ thông tin
+A876: 6 | B876: B25DCCN010 | C876: Cấn Ngọc Bảo Anh | D876: Nữ | E876: D25CQCN10-B | F876: Công nghệ thông tin
+A877: 6 | B877: B25DCCN032 | C877: Nguyễn Trâm Anh | D877: Nữ | E877: D25CQCN10-B | F877: Công nghệ thông tin
+A878: 6 | B878: B25DCCN098 | C878: Đặng Ngọc Diệp | D878: Nữ | E878: D25CQCN10-B | F878: Công nghệ thông tin
+A879: 6 | B879: B25DCCN329 | C879: Đỗ Tuệ Minh | D879: Nữ | E879: D25CQCN10-B | F879: Công nghệ thông tin
+A880: 6 | B880: B25DCCN395 | C880: Nguyễn Hà Phương | D880: Nữ | E880: D25CQCN10-B | F880: Công nghệ thông tin
+A881: 6 | B881: B25DCCN483 | C881: Trần Thị Thu Trang | D881: Nữ | E881: D25CQCN10-B | F881: Công nghệ thông tin
+A882: 6 | B882: B25DCCN571 | C882: Trần Thị Linh Đan | D882: Nữ | E882: D25CQCN10-B | F882: Công nghệ thông tin
+A883: 6 | B883: B25DCCN143 | C883: Phạm Thị Thùy Dương | D883: Nữ | E883: D25CQCN11-B | F883: Công nghệ thông tin
+A884: 6 | B884: B25DCCN330 | C884: Trần Thị Trà My | D884: Nữ | E884: D25CQCN11-B | F884: Công nghệ thông tin
+A885: 6 | B885: B25DCCN484 | C885: Đinh Thị Thu Trang | D885: Nữ | E885: D25CQCN11-B | F885: Công nghệ thông tin
+A886: 6 | B886: B25DCCN495 | C886: Nguyễn Thu Trà | D886: Nữ | E886: D25CQCN11-B | F886: Công nghệ thông tin
+A887: 6 | B887: B25DCVT001 | C887: Hoàng Thị Hoài An | D887: Nữ | E887: D25CQVT01-B | F887: Điện tử - Viễn thông
+A888: 6 | B888: B25DCVT050 | C888: Nguyễn Thị Châm | D888: Nữ | E888: D25CQVT02-B | F888: Điện tử - Viễn thông
+A889: 6 | B889: B25DCVT130 | C889: Kiều Thái Hà | D889: Nữ | E889: D25CQVT02-B | F889: Điện tử - Viễn thông
+A890: 6 | B890: B25DCVT258 | C890: Nguyễn Thị Kim Ngân | D890: Nữ | E890: D25CQVT02-B | F890: Điện tử - Viễn thông
+A891: 6 | B891: B25DCVT298 | C891: Phạm Xuân Quỳnh | D891: Nữ | E891: D25CQVT02-B | F891: Điện tử - Viễn thông
+A892: 6 | B892: B25DCVT027 | C892: Vũ Thị Xuân Anh | D892: Nữ | E892: D25CTVT01-B | F892: Điện tử - Viễn thông
+A893: 6 | B893: B25DCVT131 | C893: Nguyễn Nguyên Hà | D893: Nữ | E893: D25CQVT03-B | F893: Điện tử - Viễn thông
+A894: 6 | B894: B25DCVT203 | C894: Trần Hồ Phương Lê | D894: Nữ | E894: D25CQVT03-B | F894: Điện tử - Viễn thông
+A895: 6 | B895: B25DCVT251 | C895: Nguyễn Quỳnh Nga | D895: Nữ | E895: D25CQVT03-B | F895: Điện tử - Viễn thông
+A896: 6 | B896: B25DCVT299 | C896: Đàm Ngọc Quỳnh | D896: Nữ | E896: D25CQVT03-B | F896: Điện tử - Viễn thông
+A897: 6 | B897: B25DCVT132 | C897: Nguyễn Thị Thu Hà | D897: Nữ | E897: D25CQVT04-B | F897: Điện tử - Viễn thông
+A898: 6 | B898: B25DCVT156 | C898: Kim Thu Hằng | D898: Nữ | E898: D25CQVT04-B | F898: Điện tử - Viễn thông
+A899: 6 | B899: B25DCVT005 | C899: Lê Vân Anh | D899: Nữ | E899: D25CQVT05-B | F899: Điện tử - Viễn thông
+A900: 6 | B900: B25DCVT045 | C900: Đặng Linh Chi | D900: Nữ | E900: D25CTVT01-B | F900: Điện tử - Viễn thông
+A901: 6 | B901: B25DCVT261 | C901: Nguyễn Thị Hồng Nhung | D901: Nữ | E901: D25CQVT05-B | F901: Điện tử - Viễn thông
+A902: 6 | B902: B25DCVT262 | C902: Vũ Thị Hồng Nhung | D902: Nữ | E902: D25CQVT06-B | F902: Điện tử - Viễn thông
+A903: 6 | B903: B25DCVT063 | C903: Công Thị Thùy Dung | D903: Nữ | E903: D25CQVT07-B | F903: Điện tử - Viễn thông
+A904: 6 | B904: B25DCVT191 | C904: Đỗ Hà Linh | D904: Nữ | E904: D25CTVT01-B | F904: Điện tử - Viễn thông
+A905: 6 | B905: B25DCVT311 | C905: Thân Thị Thuỷ | D905: Nữ | E905: D25CQVT07-B | F905: Điện tử - Viễn thông
+A906: 6 | B906: B25DCVT335 | C906: Phạm Bằng Trang | D906: Nữ | E906: D25CQVT07-B | F906: Điện tử - Viễn thông
+A907: 6 | B907: B25DCVT336 | C907: Đào Tú Trinh | D907: Nữ | E907: D25CQVT08-B | F907: Điện tử - Viễn thông
+A908: 6 | B908: B25DCKD003 | C908: Hoàng Thị Vân Anh | D908: Nữ | E908: D25CQKD01-B | F908: Kỹ thuật dữ liệu
+A909: 6 | B909: B25DCKD035 | C909: Vũ Thị Thu Hà | D909: Nữ | E909: D25CQKD01-B | F909: Kỹ thuật dữ liệu
+A910: 6 | B910: B25DCKD053 | C910: Nguyễn Phương Linh | D910: Nữ | E910: D25CQKD01-B | F910: Kỹ thuật dữ liệu
+A911: 6 | B911: B25DCKD057 | C911: Bùi Phương Mai | D911: Nữ | E911: D25CQKD01-B | F911: Kỹ thuật dữ liệu
+A912: 6 | B912: B25DCKD073 | C912: Lê Thị Quỳnh Nhi | D912: Nữ | E912: D25CQKD01-B | F912: Kỹ thuật dữ liệu
+A913: 6 | B913: B25DCKD093 | C913: Lê Phạm Như Quỳnh | D913: Nữ | E913: D25CQKD01-B | F913: Kỹ thuật dữ liệu
+A914: 6 | B914: B25DCKD101 | C914: Đoàn Thị Thư | D914: Nữ | E914: D25CQKD01-B | F914: Kỹ thuật dữ liệu
+A915: 6 | B915: B25DCKD115 | C915: Vũ Thị Tâm | D915: Nữ | E915: D25CQKD01-B | F915: Kỹ thuật dữ liệu
+A916: 6 | B916: B25DCKD014 | C916: Đỗ Quỳnh Chi | D916: Nữ | E916: D25CQKD02-B | F916: Kỹ thuật dữ liệu
+A917: 6 | B917: B25DCKD052 | C917: Lê Ngọc Linh | D917: Nữ | E917: D25CQKD02-B | F917: Kỹ thuật dữ liệu
+A918: 6 | B918: B25DCKD054 | C918: Trần Ngọc Linh | D918: Nữ | E918: D25CQKD02-B | F918: Kỹ thuật dữ liệu
+A919: 6 | B919: B25DCKD070 | C919: Nguyễn Hằng Hồng Ngân | D919: Nữ | E919: D25CQKD02-B | F919: Kỹ thuật dữ liệu
+A920: 6 | B920: B25DCKD072 | C920: Dương Đông Nhi | D920: Nữ | E920: D25CQKD02-B | F920: Kỹ thuật dữ liệu
+A921: 6 | B921: B25DCKD074 | C921: Trần Phương Khánh Nhi | D921: Nữ | E921: D25CQKD02-B | F921: Kỹ thuật dữ liệu
+A922: 6 | B922: B25DCKD086 | C922: Trần Thị Minh Phương | D922: Nữ | E922: D25CQKD02-B | F922: Kỹ thuật dữ liệu
+A923: 6 | B923: B25DCKD100 | C923: Trần Thị Thúy | D923: Nữ | E923: D25CQKD02-B | F923: Kỹ thuật dữ liệu
+A924: 6 | B924: B25DCTN097 | C924: Đào Thị Phượng | D924: Nữ | E924: D25CQTN01-B | F924: Trí tuệ nhân tạo
+A925: 6 | B925: B25DCTN109 | C925: Lê Thị Huyền Sương | D925: Nữ | E925: D25CQTN01-B | F925: Trí tuệ nhân tạo
+A926: 6 | B926: B25DCTN011 | C926: Trần Huyền Anh | D926: Nữ | E926: D25CTTN01-B | F926: Trí tuệ nhân tạo
+A927: 6 | B927: B25DCTN116 | C927: Lại Trần Phương Thảo | D927: Nữ | E927: D25CTTN01-B | F927: Trí tuệ nhân tạo
+A928: 6 | B928: B25DCTN119 | C928: Nguyễn Thu Thủy | D928: Nữ | E928: D25CQTN02-B | F928: Trí tuệ nhân tạo
+A929: 6 | B929: B25DCTN122 | C929: Lê Thị Huyền Trang | D929: Nữ | E929: D25CQTN02-B | F929: Trí tuệ nhân tạo
+A930: 6 | B930: B25DCTN039 | C930: Nguyễn Ngọc Hiền | D930: Nữ | E930: D25CTTN01-B | F930: Trí tuệ nhân tạo
+A931: 6 | B931: B25DCTN075 | C931: Phạm Thảo Linh | D931: Nữ | E931: D25CQTN03-B | F931: Trí tuệ nhân tạo
+A932: 6 | B932: B25DCDT001 | C932: Lê Thanh An | D932: Nam | E932: D25CQDT01-B | F932: Điện - Điện tử
+A933: 6 | B933: B25DCDT005 | C933: Nguyễn Nam Anh | D933: Nam | E933: D25CQDT01-B | F933: Điện - Điện tử
+A934: 6 | B934: B25DCDT009 | C934: Nguyễn Việt Anh | D934: Nam | E934: D25CQDT01-B | F934: Điện - Điện tử
+A935: 6 | B935: B25DCDT013 | C935: Trần Việt Anh | D935: Nam | E935: D25CQDT01-B | F935: Điện - Điện tử
+A936: 6 | B936: B25DCDT017 | C936: Vũ Việt Anh | D936: Nam | E936: D25CQDT01-B | F936: Điện - Điện tử
+A937: 6 | B937: B25DCDT025 | C937: Lê Trọng Thành Châu | D937: Nam | E937: D25CQDT01-B | F937: Điện - Điện tử
+A938: 6 | B938: B25DCDT029 | C938: Nguyễn Thành Công | D938: Nam | E938: D25CQDT01-B | F938: Điện - Điện tử
+A939: 6 | B939: B25DCDT033 | C939: Trần Anh Duy | D939: Nam | E939: D25CQDT01-B | F939: Điện - Điện tử
+A940: 6 | B940: B25DCDT037 | C940: Nguyễn Bá Dũng | D940: Nam | E940: D25CQDT01-B | F940: Điện - Điện tử
+A941: 6 | B941: B25DCDT041 | C941: Nguyễn Đức Dũng | D941: Nam | E941: D25CQDT01-B | F941: Điện - Điện tử
+A942: 6 | B942: B25DCDT045 | C942: Lý Trường Giang | D942: Nam | E942: D25CQDT01-B | F942: Điện - Điện tử
+A943: 6 | B943: B25DCDT049 | C943: Nghiêm Văn Hiếu | D943: Nam | E943: D25CQDT01-B | F943: Điện - Điện tử
+A944: 6 | B944: B25DCDT053 | C944: Nguyễn Đình Hiếu | D944: Nam | E944: D25CQDT01-B | F944: Điện - Điện tử
+A945: 6 | B945: B25DCDT057 | C945: Đỗ Trung Hiếu | D945: Nam | E945: D25CQDT01-B | F945: Điện - Điện tử
+A946: 6 | B946: B25DCDT061 | C946: Vũ Lệnh Hoàn | D946: Nam | E946: D25CQDT01-B | F946: Điện - Điện tử
+A947: 6 | B947: B25DCDT065 | C947: Lưu Đức Hoàng | D947: Nam | E947: D25CQDT01-B | F947: Điện - Điện tử
+A948: 6 | B948: B25DCDT069 | C948: Lưu Văn Huy | D948: Nam | E948: D25CQDT01-B | F948: Điện - Điện tử
+A949: 6 | B949: B25DCDT073 | C949: Vũ Đình Huy | D949: Nam | E949: D25CQDT01-B | F949: Điện - Điện tử
+A950: 6 | B950: B25DCDT077 | C950: Chu Hoàng Hà | D950: Nam | E950: D25CQDT01-B | F950: Điện - Điện tử
+A951: 6 | B951: B25DCDT081 | C951: Nguyễn Quang Hùng | D951: Nam | E951: D25CQDT01-B | F951: Điện - Điện tử
+A952: 6 | B952: B25DCDT085 | C952: Bùi Quang Hưng | D952: Nam | E952: D25CQDT01-B | F952: Điện - Điện tử
+A953: 6 | B953: B25DCDT089 | C953: Phạm Phùng Hưng | D953: Nam | E953: D25CQDT01-B | F953: Điện - Điện tử
+A954: 6 | B954: B25DCDT093 | C954: Nguyễn Quang Hải | D954: Nam | E954: D25CQDT01-B | F954: Điện - Điện tử
+A955: 6 | B955: B25DCDT097 | C955: Nguyễn Trọng Hảo | D955: Nam | E955: D25CQDT01-B | F955: Điện - Điện tử
+A956: 6 | B956: B25DCDT101 | C956: Trần Đăng Khoa | D956: Nam | E956: D25CQDT01-B | F956: Điện - Điện tử
+A957: 6 | B957: B25DCDT105 | C957: Phan Nam Khánh | D957: Nam | E957: D25CQDT01-B | F957: Điện - Điện tử
+A958: 6 | B958: B25DCDT109 | C958: Khổng Minh Khôi | D958: Nam | E958: D25CQDT01-B | F958: Điện - Điện tử
+A959: 6 | B959: B25DCDT121 | C959: Nguyễn Hải Lâm | D959: Nam | E959: D25CQDT01-B | F959: Điện - Điện tử
+A960: 6 | B960: B25DCDT133 | C960: Phạm Văn Minh | D960: Nam | E960: D25CQDT01-B | F960: Điện - Điện tử
+A961: 6 | B961: B25DCDT137 | C961: Vũ Bình Minh | D961: Nam | E961: D25CQDT01-B | F961: Điện - Điện tử
+A962: 6 | B962: B25DCDT141 | C962: Hoàng Đức Mạnh | D962: Nam | E962: D25CQDT01-B | F962: Điện - Điện tử
+A963: 6 | B963: B25DCDT145 | C963: Hoàng Hải Nam | D963: Nam | E963: D25CQDT01-B | F963: Điện - Điện tử
+A964: 6 | B964: B25DCDT149 | C964: Nguyễn Hải Nam | D964: Nam | E964: D25CQDT01-B | F964: Điện - Điện tử
+A965: 6 | B965: B25DCDT153 | C965: Nhâm Hoàng Nguyên | D965: Nam | E965: D25CQDT01-B | F965: Điện - Điện tử
+A966: 6 | B966: B25DCDT157 | C966: Nguyễn Thiện Nhân | D966: Nam | E966: D25CQDT01-B | F966: Điện - Điện tử
+A967: 6 | B967: B25DCDT161 | C967: Đặng Trần Phong | D967: Nam | E967: D25CQDT01-B | F967: Điện - Điện tử
+A968: 6 | B968: B25DCDT165 | C968: Lương Sỹ Phúc | D968: Nam | E968: D25CQDT01-B | F968: Điện - Điện tử
+A969: 6 | B969: B25DCDT169 | C969: Đỗ Văn Phúc | D969: Nam | E969: D25CQDT01-B | F969: Điện - Điện tử
+A970: 6 | B970: B25DCDT173 | C970: Nguyễn Đăng Quang | D970: Nam | E970: D25CQDT01-B | F970: Điện - Điện tử
+A971: 6 | B971: B25DCDT177 | C971: Triệu Minh Quân | D971: Nam | E971: D25CQDT01-B | F971: Điện - Điện tử
+A972: 7 | B972: B25DCVT091 | C972: Nguyễn Minh Hiếu | D972: Nam | E972: D25CQVT03-B | F972: Điện tử - Viễn thông
+A973: 7 | B973: B25DCVT099 | C973: Lê Duy Hiển | D973: Nam | E973: D25CQVT03-B | F973: Điện tử - Viễn thông
+A974: 7 | B974: B25DCVT107 | C974: Nguyễn Huy Hoàng | D974: Nam | E974: D25CQVT03-B | F974: Điện tử - Viễn thông
+A975: 7 | B975: B25DCVT115 | C975: Bùi Quang Huy | D975: Nam | E975: D25CQVT03-B | F975: Điện tử - Viễn thông
+A976: 7 | B976: B25DCVT123 | C976: Nông Đức Huy | D976: Nam | E976: D25CQVT03-B | F976: Điện tử - Viễn thông
+A977: 7 | B977: B25DCVT139 | C977: Ngô Phi Hùng | D977: Nam | E977: D25CQVT03-B | F977: Điện tử - Viễn thông
+A978: 7 | B978: B25DCVT147 | C978: Nguyễn Tuấn Hưng | D978: Nam | E978: D25CQVT03-B | F978: Điện tử - Viễn thông
+A979: 7 | B979: B25DCVT155 | C979: Đặng Trung Hậu | D979: Nam | E979: D25CQVT03-B | F979: Điện tử - Viễn thông
+A980: 7 | B980: B25DCVT163 | C980: Hoàng Gia Khiêm | D980: Nam | E980: D25CQVT03-B | F980: Điện tử - Viễn thông
+A981: 7 | B981: B25DCVT171 | C981: Lê Nam Khánh | D981: Nam | E981: D25CQVT03-B | F981: Điện tử - Viễn thông
+A982: 7 | B982: B25DCVT179 | C982: Trần Quốc Khải | D982: Nam | E982: D25CQVT03-B | F982: Điện tử - Viễn thông
+A983: 7 | B983: B25DCVT187 | C983: Tô Dương Kiệt | D983: Nam | E983: D25CQVT03-B | F983: Điện tử - Viễn thông
+A984: 7 | B984: B25DCVT195 | C984: Nguyễn Thành Long | D984: Nam | E984: D25CQVT03-B | F984: Điện tử - Viễn thông
+A985: 7 | B985: B25DCVT211 | C985: Bùi Quang Minh | D985: Nam | E985: D25CQVT03-B | F985: Điện tử - Viễn thông
+A986: 7 | B986: B25DCVT219 | C986: Nguyễn Huy Minh | D986: Nam | E986: D25CQVT03-B | F986: Điện tử - Viễn thông
+A987: 7 | B987: B25DCVT227 | C987: Phạm Nhật Minh | D987: Nam | E987: D25CQVT03-B | F987: Điện tử - Viễn thông
+A988: 7 | B988: B25DCVT235 | C988: Nguyễn Tiến Mạnh | D988: Nam | E988: D25CQVT03-B | F988: Điện tử - Viễn thông
+A989: 7 | B989: B25DCVT243 | C989: Lương Hoàng Nam | D989: Nam | E989: D25CQVT03-B | F989: Điện tử - Viễn thông
+A990: 7 | B990: B25DCVT259 | C990: Trần Văn Ngọc | D990: Nam | E990: D25CQVT03-B | F990: Điện tử - Viễn thông
+A991: 7 | B991: B25DCVT267 | C991: Nguyễn Hữu Phong | D991: Nam | E991: D25CQVT03-B | F991: Điện tử - Viễn thông
+A992: 7 | B992: B25DCVT275 | C992: Trịnh Đức Phúc | D992: Nam | E992: D25CTVT01-B | F992: Điện tử - Viễn thông
+A993: 7 | B993: B25DCVT291 | C993: Trần Anh Quân | D993: Nam | E993: D25CQVT03-B | F993: Điện tử - Viễn thông
+A994: 7 | B994: B25DCVT307 | C994: Trương Minh Thiết | D994: Nam | E994: D25CTVT01-B | F994: Điện tử - Viễn thông
+A995: 7 | B995: B25DCVT315 | C995: Nguyễn Việt Thành | D995: Nam | E995: D25CQVT03-B | F995: Điện tử - Viễn thông
+A996: 7 | B996: B25DCVT323 | C996: Vũ Đinh Thành | D996: Nam | E996: D25CQVT03-B | F996: Điện tử - Viễn thông
+A997: 7 | B997: B25DCVT331 | C997: Trương Thế Tiến | D997: Nam | E997: D25CQVT03-B | F997: Điện tử - Viễn thông
+A998: 7 | B998: B25DCVT339 | C998: Nguyễn Thành Trung | D998: Nam | E998: D25CQVT03-B | F998: Điện tử - Viễn thông
+A999: 7 | B999: B25DCVT347 | C999: Nhữ Văn Trường | D999: Nam | E999: D25CQVT03-B | F999: Điện tử - Viễn thông
+A1000: 7 | B1000: B25DCVT355 | C1000: Nguyễn Minh Tuấn | D1000: Nam | E1000: D25CQVT03-B | F1000: Điện tử - Viễn thông
+A1001: 7 | B1001: B25DCVT363 | C1001: Trịnh Anh Tài | D1001: Nam | E1001: D25CQVT03-B | F1001: Điện tử - Viễn thông
+A1002: 7 | B1002: B25DCVT371 | C1002: Nguyễn Đình Tùng | D1002: Nam | E1002: D25CQVT03-B | F1002: Điện tử - Viễn thông
+A1003: 7 | B1003: B25DCVT379 | C1003: Hoàng Minh Vũ | D1003: Nam | E1003: D25CQVT03-B | F1003: Điện tử - Viễn thông
+A1004: 7 | B1004: B25DCVT387 | C1004: Hoàng Hải Đăng | D1004: Nam | E1004: D25CQVT03-B | F1004: Điện tử - Viễn thông
+A1005: 7 | B1005: B25DCVT395 | C1005: Nguyễn Tiến Đạt | D1005: Nam | E1005: D25CQVT03-B | F1005: Điện tử - Viễn thông
+A1006: 7 | B1006: B25DCVT403 | C1006: Trần Quốc Đạt | D1006: Nam | E1006: D25CQVT03-B | F1006: Điện tử - Viễn thông
+A1007: 7 | B1007: B25DCVT411 | C1007: Trần Văn Định | D1007: Nam | E1007: D25CQVT03-B | F1007: Điện tử - Viễn thông
+A1008: 7 | B1008: B25DCVT419 | C1008: Phạm Thanh Trí Đức | D1008: Nam | E1008: D25CQVT03-B | F1008: Điện tử - Viễn thông
+A1009: 7 | B1009: B25DCVT004 | C1009: Lê Tuấn Anh | D1009: Nam | E1009: D25CQVT04-B | F1009: Điện tử - Viễn thông
+A1010: 7 | B1010: B25DCVT012 | C1010: Nguyễn Tuấn Anh | D1010: Nam | E1010: D25CQVT04-B | F1010: Điện tử - Viễn thông
+A1011: 7 | B1011: B25DCVT020 | C1011: Phan Việt Anh | D1011: Nam | E1011: D25CQVT04-B | F1011: Điện tử - Viễn thông
+A1012: 7 | B1012: B25DCVT028 | C1012: Vũ Đoàn Đức Anh | D1012: Nam | E1012: D25CQVT04-B | F1012: Điện tử - Viễn thông
+A1013: 7 | B1013: B25DCVT036 | C1013: Nguyễn Vũ Gia Bảo | D1013: Nam | E1013: D25CQVT04-B | F1013: Điện tử - Viễn thông
+A1014: 7 | B1014: B25DCVT044 | C1014: Giáp Thành Cao | D1014: Nam | E1014: D25CQVT04-B | F1014: Điện tử - Viễn thông
+A1015: 7 | B1015: B25DCVT052 | C1015: Ngô Huy Công | D1015: Nam | E1015: D25CQVT04-B | F1015: Điện tử - Viễn thông
+A1016: 7 | B1016: B25DCVT060 | C1016: Đoàn Thanh Cảnh | D1016: Nam | E1016: D25CTVT01-B | F1016: Điện tử - Viễn thông
+A1017: 7 | B1017: B25DCVT068 | C1017: Phạm Hồng Duy | D1017: Nam | E1017: D25CTVT01-B | F1017: Điện tử - Viễn thông
+A1018: 7 | B1018: B25DCVT076 | C1018: Phạm Minh Dũng | D1018: Nam | E1018: D25CQVT04-B | F1018: Điện tử - Viễn thông
+A1019: 7 | B1019: B25DCVT084 | C1019: Hoàng Trường Giang | D1019: Nam | E1019: D25CQVT04-B | F1019: Điện tử - Viễn thông
+A1020: 7 | B1020: B25DCVT092 | C1020: Nguyễn Ngọc Hiếu | D1020: Nam | E1020: D25CQVT04-B | F1020: Điện tử - Viễn thông
+A1021: 7 | B1021: B25DCVT100 | C1021: Vương Hoàng Hiển | D1021: Nam | E1021: D25CQVT04-B | F1021: Điện tử - Viễn thông
+A1022: 7 | B1022: B25DCVT108 | C1022: Nguyễn Minh Hoàng | D1022: Nam | E1022: D25CQVT04-B | F1022: Điện tử - Viễn thông
+A1023: 7 | B1023: B25DCVT116 | C1023: Lê Văn Huy | D1023: Nam | E1023: D25CQVT04-B | F1023: Điện tử - Viễn thông
+A1024: 7 | B1024: B25DCVT124 | C1024: Phó Đình Huy | D1024: Nam | E1024: D25CQVT04-B | F1024: Điện tử - Viễn thông
+A1025: 7 | B1025: B25DCVT140 | C1025: Trần Việt Hùng | D1025: Nam | E1025: D25CQVT04-B | F1025: Điện tử - Viễn thông
+A1026: 7 | B1026: B25DCVT148 | C1026: Nguyễn Văn Hưng | D1026: Nam | E1026: D25CQVT04-B | F1026: Điện tử - Viễn thông
+A1027: 7 | B1027: B25DCVT164 | C1027: Phạm Gia Khiêm | D1027: Nam | E1027: D25CQVT04-B | F1027: Điện tử - Viễn thông
+A1028: 7 | B1028: B25DCVT172 | C1028: Nguyễn Duy Khánh | D1028: Nam | E1028: D25CQVT04-B | F1028: Điện tử - Viễn thông
+A1029: 7 | B1029: B25DCVT180 | C1029: Nguyễn Như Kiên | D1029: Nam | E1029: D25CQVT04-B | F1029: Điện tử - Viễn thông
+A1030: 7 | B1030: B25DCVT188 | C1030: Đỗ Anh Kiệt | D1030: Nam | E1030: D25CQVT04-B | F1030: Điện tử - Viễn thông
+A1031: 7 | B1031: B25DCVT196 | C1031: Trương Hữu Long | D1031: Nam | E1031: D25CQVT04-B | F1031: Điện tử - Viễn thông
+A1032: 7 | B1032: B25DCVT204 | C1032: Nguyễn Trọng Lương | D1032: Nam | E1032: D25CQVT04-B | F1032: Điện tử - Viễn thông
+A1033: 7 | B1033: B25DCVT212 | C1033: Dương Quang Minh | D1033: Nam | E1033: D25CQVT04-B | F1033: Điện tử - Viễn thông
+A1034: 7 | B1034: B25DCVT220 | C1034: Nguyễn Hồng Minh | D1034: Nam | E1034: D25CQVT04-B | F1034: Điện tử - Viễn thông
+A1035: 7 | B1035: B25DCVT228 | C1035: Phạm Tiến Minh | D1035: Nam | E1035: D25CTVT01-B | F1035: Điện tử - Viễn thông
+A1036: 7 | B1036: B25DCVT236 | C1036: Nguyễn Đình Mạnh | D1036: Nam | E1036: D25CQVT04-B | F1036: Điện tử - Viễn thông
+A1037: 7 | B1037: B25DCVT244 | C1037: Nguyễn Duyên Nam | D1037: Nam | E1037: D25CQVT04-B | F1037: Điện tử - Viễn thông
+A1038: 7 | B1038: B25DCVT252 | C1038: Thái Minh Nghĩa | D1038: Nam | E1038: D25CQVT04-B | F1038: Điện tử - Viễn thông
+A1039: 7 | B1039: B25DCVT260 | C1039: Đặng Tuấn Ngọc | D1039: Nam | E1039: D25CQVT04-B | F1039: Điện tử - Viễn thông
+A1040: 7 | B1040: B25DCVT268 | C1040: Nguyễn Duy Phát | D1040: Nam | E1040: D25CQVT04-B | F1040: Điện tử - Viễn thông
+A1041: 7 | B1041: B25DCVT276 | C1041: Vũ Hồng Phúc | D1041: Nam | E1041: D25CQVT04-B | F1041: Điện tử - Viễn thông
+A1042: 7 | B1042: B25DCVT284 | C1042: Nguyễn Thái Quang | D1042: Nam | E1042: D25CQVT04-B | F1042: Điện tử - Viễn thông
+A1043: 7 | B1043: B25DCVT292 | C1043: Trần Anh Quân | D1043: Nam | E1043: D25CQVT04-B | F1043: Điện tử - Viễn thông
+A1044: 7 | B1044: B25DCVT300 | C1044: Trần Xuân Sang | D1044: Nam | E1044: D25CQVT04-B | F1044: Điện tử - Viễn thông
+A1045: 7 | B1045: B25DCVT308 | C1045: Nguyễn Quang Thiều | D1045: Nam | E1045: D25CQVT04-B | F1045: Điện tử - Viễn thông
+A1046: 7 | B1046: B25DCVT316 | C1046: Phạm Duy Thành | D1046: Nam | E1046: D25CTVT01-B | F1046: Điện tử - Viễn thông
+A1047: 7 | B1047: B25DCVT324 | C1047: Trần Minh Thông | D1047: Nam | E1047: D25CQVT04-B | F1047: Điện tử - Viễn thông
+A1048: 7 | B1048: B25DCVT332 | C1048: Trần Thế Tiến | D1048: Nam | E1048: D25CQVT04-B | F1048: Điện tử - Viễn thông
+A1049: 7 | B1049: B25DCVT340 | C1049: Nguyễn Thành Trung | D1049: Nam | E1049: D25CQVT04-B | F1049: Điện tử - Viễn thông
+A1050: 7 | B1050: B25DCVT348 | C1050: Phạm Quang Trường | D1050: Nam | E1050: D25CQVT04-B | F1050: Điện tử - Viễn thông
+A1051: 7 | B1051: B25DCVT356 | C1051: Ngô Quang Tuấn | D1051: Nam | E1051: D25CQVT04-B | F1051: Điện tử - Viễn thông
+A1052: 7 | B1052: B25DCVT364 | C1052: Nguyễn Công Tâm | D1052: Nam | E1052: D25CQVT04-B | F1052: Điện tử - Viễn thông
+A1053: 7 | B1053: B25DCVT372 | C1053: Đinh Nguyễn Lâm Tùng | D1053: Nam | E1053: D25CQVT04-B | F1053: Điện tử - Viễn thông
+A1054: 7 | B1054: B25DCVT380 | C1054: Mai Anh Vũ | D1054: Nam | E1054: D25CQVT04-B | F1054: Điện tử - Viễn thông
+A1055: 7 | B1055: B25DCVT388 | C1055: Nguyễn Hải Đăng | D1055: Nam | E1055: D25CQVT04-B | F1055: Điện tử - Viễn thông
+A1056: 7 | B1056: B25DCVT396 | C1056: Nguyễn Văn Đạt | D1056: Nam | E1056: D25CQVT04-B | F1056: Điện tử - Viễn thông
+A1057: 7 | B1057: B25DCVT404 | C1057: Trần Tiến Đạt | D1057: Nam | E1057: D25CQVT04-B | F1057: Điện tử - Viễn thông
+A1058: 7 | B1058: B25DCVT412 | C1058: Vũ Tuấn Định | D1058: Nam | E1058: D25CQVT04-B | F1058: Điện tử - Viễn thông
+A1059: 7 | B1059: B25DCVT420 | C1059: Vũ Huy Đức | D1059: Nam | E1059: D25CQVT04-B | F1059: Điện tử - Viễn thông
+A1060: 7 | B1060: B25DCVT013 | C1060: Nguyễn Tuấn Anh | D1060: Nam | E1060: D25CQVT05-B | F1060: Điện tử - Viễn thông
+A1061: 7 | B1061: B25DCVT021 | C1061: Phạm Công Nhật Anh | D1061: Nam | E1061: D25CQVT05-B | F1061: Điện tử - Viễn thông
+A1062: 7 | B1062: B25DCVT029 | C1062: Đặng Đình Hải Anh | D1062: Nam | E1062: D25CQVT05-B | F1062: Điện tử - Viễn thông
+A1063: 7 | B1063: B25DCVT053 | C1063: Hà Thành Cư | D1063: Nam | E1063: D25CQVT05-B | F1063: Điện tử - Viễn thông
+A1064: 7 | B1064: B25DCVT061 | C1064: Ngô Xuân Diệu | D1064: Nam | E1064: D25CQVT05-B | F1064: Điện tử - Viễn thông
+A1065: 7 | B1065: B25DCVT069 | C1065: Phạm Đức Duy | D1065: Nam | E1065: D25CQVT05-B | F1065: Điện tử - Viễn thông
+A1066: 7 | B1066: B25DCVT077 | C1066: Phạm Ngọc Việt Dũng | D1066: Nam | E1066: D25CQVT05-B | F1066: Điện tử - Viễn thông
+A1067: 7 | B1067: B25DCVT085 | C1067: Nguyễn An Giang | D1067: Nam | E1067: D25CQVT05-B | F1067: Điện tử - Viễn thông
+A1068: 7 | B1068: B25DCVT093 | C1068: Nguyễn Trung Hiếu | D1068: Nam | E1068: D25CQVT05-B | F1068: Điện tử - Viễn thông
+A1069: 7 | B1069: B25DCVT101 | C1069: Đỗ Minh Hiển | D1069: Nam | E1069: D25CQVT05-B | F1069: Điện tử - Viễn thông
+A1070: 7 | B1070: B25DCVT109 | C1070: Nguyễn Quang Hoàng | D1070: Nam | E1070: D25CQVT05-B | F1070: Điện tử - Viễn thông
+A1071: 7 | B1071: B25DCVT117 | C1071: Nguyễn Mạnh Huy | D1071: Nam | E1071: D25CTVT01-B | F1071: Điện tử - Viễn thông
+A1072: 7 | B1072: B25DCVT125 | C1072: Đinh Quang Huy | D1072: Nam | E1072: D25CQVT05-B | F1072: Điện tử - Viễn thông
+A1073: 7 | B1073: B25DCVT133 | C1073: Hồ Khắc Hào | D1073: Nam | E1073: D25CQVT05-B | F1073: Điện tử - Viễn thông
+A1074: 7 | B1074: B25DCVT141 | C1074: Vương Quốc Anh Hùng | D1074: Nam | E1074: D25CQVT05-B | F1074: Điện tử - Viễn thông
+A1075: 7 | B1075: B25DCVT149 | C1075: Nguyễn Xuân Hưng | D1075: Nam | E1075: D25CQVT05-B | F1075: Điện tử - Viễn thông
+A1076: 7 | B1076: B25DCVT157 | C1076: Vũ Thiên Học | D1076: Nam | E1076: D25CQVT05-B | F1076: Điện tử - Viễn thông
+A1077: 7 | B1077: B25DCVT165 | C1077: Vũ Đức Khiêm | D1077: Nam | E1077: D25CQVT05-B | F1077: Điện tử - Viễn thông
+A1078: 7 | B1078: B25DCVT173 | C1078: Nguyễn Quốc Khánh | D1078: Nam | E1078: D25CQVT05-B | F1078: Điện tử - Viễn thông
+A1079: 7 | B1079: B25DCVT181 | C1079: Phạm Gia Kiên | D1079: Nam | E1079: D25CQVT05-B | F1079: Điện tử - Viễn thông
+A1080: 7 | B1080: B25DCVT189 | C1080: Nguyễn Phương Lam | D1080: Nam | E1080: D25CQVT05-B | F1080: Điện tử - Viễn thông
+A1081: 7 | B1081: B25DCVT197 | C1081: Trần Ngọc Long | D1081: Nam | E1081: D25CTVT01-B | F1081: Điện tử - Viễn thông
+A1082: 7 | B1082: B25DCVT205 | C1082: Phan Bùi Lương | D1082: Nam | E1082: D25CQVT05-B | F1082: Điện tử - Viễn thông
+A1083: 7 | B1083: B25DCVT213 | C1083: Hoàng Quang Minh | D1083: Nam | E1083: D25CQVT05-B | F1083: Điện tử - Viễn thông
+A1084: 7 | B1084: B25DCVT221 | C1084: Nguyễn Hữu Hoàng Minh | D1084: Nam | E1084: D25CQVT05-B | F1084: Điện tử - Viễn thông
+A1085: 7 | B1085: B25DCVT237 | C1085: Ngô Trí Mạnh | D1085: Nam | E1085: D25CQVT05-B | F1085: Điện tử - Viễn thông
+A1086: 7 | B1086: B25DCVT245 | C1086: Nguyễn Hoàng Nam | D1086: Nam | E1086: D25CQVT05-B | F1086: Điện tử - Viễn thông
+A1087: 7 | B1087: B25DCVT253 | C1087: Trần Trọng Nghĩa | D1087: Nam | E1087: D25CQVT05-B | F1087: Điện tử - Viễn thông
+A1088: 7 | B1088: B25DCVT269 | C1088: Nguyễn Tuấn Phát | D1088: Nam | E1088: D25CQVT05-B | F1088: Điện tử - Viễn thông
+A1089: 7 | B1089: B25DCVT277 | C1089: Đinh Hồng Phúc | D1089: Nam | E1089: D25CQVT05-B | F1089: Điện tử - Viễn thông
+A1090: 7 | B1090: B25DCVT285 | C1090: Thái Huy Quang | D1090: Nam | E1090: D25CQVT05-B | F1090: Điện tử - Viễn thông
+A1091: 7 | B1091: B25DCVT293 | C1091: Vũ Minh Quân | D1091: Nam | E1091: D25CQVT05-B | F1091: Điện tử - Viễn thông
+A1092: 7 | B1092: B25DCVT301 | C1092: Võ Ngọc Sáng | D1092: Nam | E1092: D25CQVT05-B | F1092: Điện tử - Viễn thông
+A1093: 7 | B1093: B25DCVT309 | C1093: Hà Văn Thuấn | D1093: Nam | E1093: D25CQVT05-B | F1093: Điện tử - Viễn thông
+A1094: 7 | B1094: B25DCVT317 | C1094: Phạm Thiên Thành | D1094: Nam | E1094: D25CTVT01-B | F1094: Điện tử - Viễn thông
+A1095: 7 | B1095: B25DCVT325 | C1095: Ngô Đức Thắng | D1095: Nam | E1095: D25CQVT05-B | F1095: Điện tử - Viễn thông
+A1096: 7 | B1096: B25DCVT333 | C1096: Phạm Văn Tiền | D1096: Nam | E1096: D25CTVT01-B | F1096: Điện tử - Viễn thông
+A1097: 7 | B1097: B25DCVT341 | C1097: Trần Xuân Trình | D1097: Nam | E1097: D25CQVT05-B | F1097: Điện tử - Viễn thông
+A1098: 7 | B1098: B25DCVT349 | C1098: Nguyễn Văn Trọng | D1098: Nam | E1098: D25CQVT05-B | F1098: Điện tử - Viễn thông
+A1099: 7 | B1099: B25DCVT357 | C1099: Phạm Minh Tuấn | D1099: Nam | E1099: D25CQVT05-B | F1099: Điện tử - Viễn thông
+A1100: 7 | B1100: B25DCVT365 | C1100: Đoàn Như Tâm | D1100: Nam | E1100: D25CQVT05-B | F1100: Điện tử - Viễn thông
+A1101: 7 | B1101: B25DCVT373 | C1101: Hoàng Anh Tú | D1101: Nam | E1101: D25CQVT05-B | F1101: Điện tử - Viễn thông
+A1102: 8 | B1102: B25DCVT381 | C1102: Nguyễn Minh Vũ | D1102: Nam | E1102: D25CQVT05-B | F1102: Điện tử - Viễn thông
+A1103: 8 | B1103: B25DCVT389 | C1103: Nguyễn Minh Đăng | D1103: Nam | E1103: D25CTVT01-B | F1103: Điện tử - Viễn thông
+A1104: 8 | B1104: B25DCVT397 | C1104: Nguyễn Đình Đạt | D1104: Nam | E1104: D25CQVT05-B | F1104: Điện tử - Viễn thông
+A1105: 8 | B1105: B25DCVT405 | C1105: Tô Mạnh Đạt | D1105: Nam | E1105: D25CQVT05-B | F1105: Điện tử - Viễn thông
+A1106: 8 | B1106: B25DCVT413 | C1106: Nguyễn Minh Đức | D1106: Nam | E1106: D25CQVT05-B | F1106: Điện tử - Viễn thông
+A1107: 8 | B1107: B25DCVT421 | C1107: Vũ Đăng Đức | D1107: Nam | E1107: D25CQVT05-B | F1107: Điện tử - Viễn thông
+A1108: 8 | B1108: B25DCVT006 | C1108: Lê Vũ Tuấn Anh | D1108: Nam | E1108: D25CQVT06-B | F1108: Điện tử - Viễn thông
+A1109: 8 | B1109: B25DCVT014 | C1109: Nguyễn Việt Anh | D1109: Nam | E1109: D25CQVT06-B | F1109: Điện tử - Viễn thông
+A1110: 8 | B1110: B25DCVT022 | C1110: Phạm Lê Hải Anh | D1110: Nam | E1110: D25CQVT06-B | F1110: Điện tử - Viễn thông
+A1111: 8 | B1111: B25DCVT030 | C1111: Nguyễn Hoàng Bách | D1111: Nam | E1111: D25CQVT06-B | F1111: Điện tử - Viễn thông
+A1112: 8 | B1112: B25DCVT038 | C1112: Phan Gia Bảo | D1112: Nam | E1112: D25CTVT01-B | F1112: Điện tử - Viễn thông
+A1113: 8 | B1113: B25DCVT046 | C1113: Hà Huy Chiến | D1113: Nam | E1113: D25CQVT06-B | F1113: Điện tử - Viễn thông
+A1114: 8 | B1114: B25DCVT054 | C1114: Bùi Kim Cương | D1114: Nam | E1114: D25CQVT06-B | F1114: Điện tử - Viễn thông
+A1115: 8 | B1115: B25DCVT062 | C1115: Lê Đình Doanh | D1115: Nam | E1115: D25CQVT06-B | F1115: Điện tử - Viễn thông
+A1116: 8 | B1116: B25DCVT070 | C1116: Trần Văn Đức Duy | D1116: Nam | E1116: D25CQVT06-B | F1116: Điện tử - Viễn thông
+A1117: 8 | B1117: B25DCVT078 | C1117: Đinh Hữu Dũng | D1117: Nam | E1117: D25CQVT06-B | F1117: Điện tử - Viễn thông
+A1118: 8 | B1118: B25DCVT086 | C1118: Nguyễn Văn Hinh | D1118: Nam | E1118: D25CQVT06-B | F1118: Điện tử - Viễn thông
+A1119: 8 | B1119: B25DCVT094 | C1119: Nguyễn Đình Hiếu | D1119: Nam | E1119: D25CQVT06-B | F1119: Điện tử - Viễn thông
+A1120: 8 | B1120: B25DCVT102 | C1120: Hoàng Tuấn Hiệp | D1120: Nam | E1120: D25CQVT06-B | F1120: Điện tử - Viễn thông
+A1121: 8 | B1121: B25DCVT110 | C1121: Phạm Việt Hoàng | D1121: Nam | E1121: D25CQVT06-B | F1121: Điện tử - Viễn thông
+A1122: 8 | B1122: B25DCVT118 | C1122: Nguyễn Ngọc Huy | D1122: Nam | E1122: D25CQVT06-B | F1122: Điện tử - Viễn thông
+A1123: 8 | B1123: B25DCVT126 | C1123: Đỗ Công Huy | D1123: Nam | E1123: D25CQVT06-B | F1123: Điện tử - Viễn thông
+A1124: 8 | B1124: B25DCVT134 | C1124: Đặng Văn Hòa | D1124: Nam | E1124: D25CQVT06-B | F1124: Điện tử - Viễn thông
+A1125: 8 | B1125: B25DCVT142 | C1125: Đinh Ngọc Hùng | D1125: Nam | E1125: D25CQVT06-B | F1125: Điện tử - Viễn thông
+A1126: 8 | B1126: B25DCVT150 | C1126: Lâm Đức Hải | D1126: Nam | E1126: D25CTVT01-B | F1126: Điện tử - Viễn thông
+A1127: 8 | B1127: B25DCVT158 | C1127: Đặng Tiến Học | D1127: Nam | E1127: D25CQVT06-B | F1127: Điện tử - Viễn thông
+A1128: 8 | B1128: B25DCVT166 | C1128: Nguyễn Anh Khoa | D1128: Nam | E1128: D25CQVT06-B | F1128: Điện tử - Viễn thông
+A1129: 8 | B1129: B25DCVT174 | C1129: Nguyễn Đắc Nam Khánh | D1129: Nam | E1129: D25CQVT06-B | F1129: Điện tử - Viễn thông
+A1130: 8 | B1130: B25DCVT182 | C1130: Phạm Trung Kiên | D1130: Nam | E1130: D25CTVT01-B | F1130: Điện tử - Viễn thông
+A1131: 8 | B1131: B25DCVT190 | C1131: Phùng Hoàng Linh | D1131: Nam | E1131: D25CTVT01-B | F1131: Điện tử - Viễn thông
+A1132: 8 | B1132: B25DCVT198 | C1132: Nguyễn Thành Luân | D1132: Nam | E1132: D25CQVT06-B | F1132: Điện tử - Viễn thông
+A1133: 8 | B1133: B25DCVT206 | C1133: Phạm Đức Lương | D1133: Nam | E1133: D25CQVT06-B | F1133: Điện tử - Viễn thông
+A1134: 8 | B1134: B25DCVT214 | C1134: Khổng Nhật Minh | D1134: Nam | E1134: D25CQVT06-B | F1134: Điện tử - Viễn thông
+A1135: 8 | B1135: B25DCVT222 | C1135: Nguyễn Quang Minh | D1135: Nam | E1135: D25CQVT06-B | F1135: Điện tử - Viễn thông
+A1136: 8 | B1136: B25DCVT230 | C1136: Trần Quang Minh | D1136: Nam | E1136: D25CQVT06-B | F1136: Điện tử - Viễn thông
+A1137: 8 | B1137: B25DCVT238 | C1137: Đồng Văn Mạnh | D1137: Nam | E1137: D25CQVT06-B | F1137: Điện tử - Viễn thông
+A1138: 8 | B1138: B25DCVT246 | C1138: Nguyễn Phương Nam | D1138: Nam | E1138: D25CQVT06-B | F1138: Điện tử - Viễn thông
+A1139: 8 | B1139: B25DCVT254 | C1139: Lê Hồng Nguyên | D1139: Nam | E1139: D25CQVT06-B | F1139: Điện tử - Viễn thông
+A1140: 8 | B1140: B25DCVT270 | C1140: Phạm Duy Phát | D1140: Nam | E1140: D25CQVT06-B | F1140: Điện tử - Viễn thông
+A1141: 8 | B1141: B25DCVT278 | C1141: Trịnh Minh Phước | D1141: Nam | E1141: D25CQVT06-B | F1141: Điện tử - Viễn thông
+A1142: 8 | B1142: B25DCVT286 | C1142: Nguyễn Minh Quyến | D1142: Nam | E1142: D25CQVT06-B | F1142: Điện tử - Viễn thông
+A1143: 8 | B1143: B25DCVT294 | C1143: Đào Minh Quân | D1143: Nam | E1143: D25CTVT01-B | F1143: Điện tử - Viễn thông
+A1144: 8 | B1144: B25DCVT302 | C1144: Cao Thái Sơn | D1144: Nam | E1144: D25CQVT06-B | F1144: Điện tử - Viễn thông
+A1145: 8 | B1145: B25DCVT310 | C1145: Phạm Văn Thuần | D1145: Nam | E1145: D25CQVT06-B | F1145: Điện tử - Viễn thông
+A1146: 8 | B1146: B25DCVT318 | C1146: Trương Tiến Thành | D1146: Nam | E1146: D25CTVT01-B | F1146: Điện tử - Viễn thông
+A1147: 8 | B1147: B25DCVT326 | C1147: Đỗ Duy Thắng | D1147: Nam | E1147: D25CQVT06-B | F1147: Điện tử - Viễn thông
+A1148: 8 | B1148: B25DCVT334 | C1148: Nguyễn Quang Tiệp | D1148: Nam | E1148: D25CQVT06-B | F1148: Điện tử - Viễn thông
+A1149: 8 | B1149: B25DCVT342 | C1149: Chu Xuân Trường | D1149: Nam | E1149: D25CQVT06-B | F1149: Điện tử - Viễn thông
+A1150: 8 | B1150: B25DCVT350 | C1150: Bùi Thanh Tuấn | D1150: Nam | E1150: D25CQVT06-B | F1150: Điện tử - Viễn thông
+A1151: 8 | B1151: B25DCVT358 | C1151: Trịnh Đức Tuấn | D1151: Nam | E1151: D25CQVT06-B | F1151: Điện tử - Viễn thông
+A1152: 8 | B1152: B25DCVT374 | C1152: Ngô Quang Tú | D1152: Nam | E1152: D25CQVT06-B | F1152: Điện tử - Viễn thông
+A1153: 8 | B1153: B25DCVT382 | C1153: Nguyễn Nguyên Vũ | D1153: Nam | E1153: D25CQVT06-B | F1153: Điện tử - Viễn thông
+A1154: 8 | B1154: B25DCVT390 | C1154: Phạm Hải Đăng | D1154: Nam | E1154: D25CQVT06-B | F1154: Điện tử - Viễn thông
+A1155: 8 | B1155: B25DCVT398 | C1155: Ngô Công Đạt | D1155: Nam | E1155: D25CQVT06-B | F1155: Điện tử - Viễn thông
+A1156: 8 | B1156: B25DCVT406 | C1156: Đào Đăng Đạt | D1156: Nam | E1156: D25CTVT01-B | F1156: Điện tử - Viễn thông
+A1157: 8 | B1157: B25DCVT414 | C1157: Nguyễn Trần Anh Đức | D1157: Nam | E1157: D25CQVT06-B | F1157: Điện tử - Viễn thông
+A1158: 8 | B1158: B25DCVT015 | C1158: Nguyễn Văn Anh | D1158: Nam | E1158: D25CQVT07-B | F1158: Điện tử - Viễn thông
+A1159: 8 | B1159: B25DCVT023 | C1159: Thân Đức Anh | D1159: Nam | E1159: D25CTVT01-B | F1159: Điện tử - Viễn thông
+A1160: 8 | B1160: B25DCVT031 | C1160: Đoàn Tùng Bách | D1160: Nam | E1160: D25CQVT07-B | F1160: Điện tử - Viễn thông
+A1161: 8 | B1161: B25DCVT039 | C1161: Vũ Gia Bảo | D1161: Nam | E1161: D25CQVT07-B | F1161: Điện tử - Viễn thông
+A1162: 8 | B1162: B25DCVT047 | C1162: Bùi Kim Thành Chung | D1162: Nam | E1162: D25CQVT07-B | F1162: Điện tử - Viễn thông
+A1163: 8 | B1163: B25DCVT055 | C1163: Hà Quốc Cường | D1163: Nam | E1163: D25CQVT07-B | F1163: Điện tử - Viễn thông
+A1164: 8 | B1164: B25DCVT071 | C1164: Dương Trí Dũng | D1164: Nam | E1164: D25CQVT07-B | F1164: Điện tử - Viễn thông
+A1165: 8 | B1165: B25DCVT079 | C1165: Đỗ Mạnh Dũng | D1165: Nam | E1165: D25CQVT07-B | F1165: Điện tử - Viễn thông
+A1166: 8 | B1166: B25DCVT087 | C1166: Hà Huy Hiếu | D1166: Nam | E1166: D25CQVT07-B | F1166: Điện tử - Viễn thông
+A1167: 8 | B1167: B25DCVT095 | C1167: Phan Đức Hiếu | D1167: Nam | E1167: D25CQVT07-B | F1167: Điện tử - Viễn thông
+A1168: 8 | B1168: B25DCVT103 | C1168: Hoàng Anh Hoàng | D1168: Nam | E1168: D25CQVT07-B | F1168: Điện tử - Viễn thông
+A1169: 8 | B1169: B25DCVT111 | C1169: Trần Văn Hoàng | D1169: Nam | E1169: D25CQVT07-B | F1169: Điện tử - Viễn thông
+A1170: 8 | B1170: B25DCVT119 | C1170: Nguyễn Quang Huy | D1170: Nam | E1170: D25CQVT07-B | F1170: Điện tử - Viễn thông
+A1171: 8 | B1171: B25DCVT135 | C1171: Bùi Mạnh Hùng | D1171: Nam | E1171: D25CQVT07-B | F1171: Điện tử - Viễn thông
+A1172: 8 | B1172: B25DCVT143 | C1172: Đặng Việt Hùng | D1172: Nam | E1172: D25CQVT07-B | F1172: Điện tử - Viễn thông
+A1173: 8 | B1173: B25DCVT151 | C1173: Trần Đức Hải | D1173: Nam | E1173: D25CQVT07-B | F1173: Điện tử - Viễn thông
+A1174: 8 | B1174: B25DCVT159 | C1174: Ngô Văn Hồng | D1174: Nam | E1174: D25CQVT07-B | F1174: Điện tử - Viễn thông
+A1175: 8 | B1175: B25DCVT167 | C1175: Nguyễn Duy Khoa | D1175: Nam | E1175: D25CQVT07-B | F1175: Điện tử - Viễn thông
+A1176: 8 | B1176: B25DCVT175 | C1176: Ngô Quốc Khánh | D1176: Nam | E1176: D25CQVT07-B | F1176: Điện tử - Viễn thông
+A1177: 8 | B1177: B25DCVT183 | C1177: Trần Trung Kiên | D1177: Nam | E1177: D25CQVT07-B | F1177: Điện tử - Viễn thông
+A1178: 8 | B1178: B25DCVT199 | C1178: Lê Ngọc Tùng Lâm | D1178: Nam | E1178: D25CQVT07-B | F1178: Điện tử - Viễn thông
+A1179: 8 | B1179: B25DCVT207 | C1179: Hoàng Hữu Lập | D1179: Nam | E1179: D25CQVT07-B | F1179: Điện tử - Viễn thông
+A1180: 8 | B1180: B25DCVT215 | C1180: Lê Đức Minh | D1180: Nam | E1180: D25CTVT01-B | F1180: Điện tử - Viễn thông
+A1181: 8 | B1181: B25DCVT223 | C1181: Nguyễn Văn Minh | D1181: Nam | E1181: D25CQVT07-B | F1181: Điện tử - Viễn thông
+A1182: 8 | B1182: B25DCVT231 | C1182: Trần Tuấn Minh | D1182: Nam | E1182: D25CQVT07-B | F1182: Điện tử - Viễn thông
+A1183: 8 | B1183: B25DCVT239 | C1183: Chu Thế Nam | D1183: Nam | E1183: D25CQVT07-B | F1183: Điện tử - Viễn thông
+A1184: 8 | B1184: B25DCVT247 | C1184: Võ Hoàng Nam | D1184: Nam | E1184: D25CQVT07-B | F1184: Điện tử - Viễn thông
+A1185: 8 | B1185: B25DCVT255 | C1185: Nguyễn Bùi Bảo Nguyên | D1185: Nam | E1185: D25CQVT07-B | F1185: Điện tử - Viễn thông
+A1186: 8 | B1186: B25DCVT263 | C1186: Dương Thiện Nhân | D1186: Nam | E1186: D25CQVT07-B | F1186: Điện tử - Viễn thông
+A1187: 8 | B1187: B25DCVT271 | C1187: Vũ Tiến Phát | D1187: Nam | E1187: D25CTVT01-B | F1187: Điện tử - Viễn thông
+A1188: 8 | B1188: B25DCVT279 | C1188: Hồ Lê Quang | D1188: Nam | E1188: D25CQVT07-B | F1188: Điện tử - Viễn thông
+A1189: 8 | B1189: B25DCVT287 | C1189: Hoàng Minh Quân | D1189: Nam | E1189: D25CQVT07-B | F1189: Điện tử - Viễn thông
+A1190: 8 | B1190: B25DCVT295 | C1190: Đỗ Hồng Quân | D1190: Nam | E1190: D25CQVT07-B | F1190: Điện tử - Viễn thông
+A1191: 8 | B1191: B25DCVT303 | C1191: Lê Quốc Sơn | D1191: Nam | E1191: D25CQVT07-B | F1191: Điện tử - Viễn thông
+A1192: 8 | B1192: B25DCVT319 | C1192: Trần Nguyễn Tất Thành | D1192: Nam | E1192: D25CQVT07-B | F1192: Điện tử - Viễn thông
+A1193: 8 | B1193: B25DCVT327 | C1193: Đỗ Ngọc Thắng | D1193: Nam | E1193: D25CQVT07-B | F1193: Điện tử - Viễn thông
+A1194: 8 | B1194: B25DCVT343 | C1194: Lê Quang Trường | D1194: Nam | E1194: D25CQVT07-B | F1194: Điện tử - Viễn thông
+A1195: 8 | B1195: B25DCVT351 | C1195: Hàn Đức Tuấn | D1195: Nam | E1195: D25CQVT07-B | F1195: Điện tử - Viễn thông
+A1196: 8 | B1196: B25DCVT359 | C1196: Vũ Kim Tuấn | D1196: Nam | E1196: D25CQVT07-B | F1196: Điện tử - Viễn thông
+A1197: 8 | B1197: B25DCVT367 | C1197: Nguyễn Đức Tân | D1197: Nam | E1197: D25CQVT07-B | F1197: Điện tử - Viễn thông
+A1198: 8 | B1198: B25DCVT375 | C1198: Nguyễn Quang Vinh | D1198: Nam | E1198: D25CQVT07-B | F1198: Điện tử - Viễn thông
+A1199: 8 | B1199: B25DCVT383 | C1199: Nguyễn Văn Vũ | D1199: Nam | E1199: D25CQVT07-B | F1199: Điện tử - Viễn thông
+A1200: 8 | B1200: B25DCVT391 | C1200: Kim Tiến Đại | D1200: Nam | E1200: D25CQVT07-B | F1200: Điện tử - Viễn thông
+A1201: 8 | B1201: B25DCVT399 | C1201: Phạm Thành Đạt | D1201: Nam | E1201: D25CQVT07-B | F1201: Điện tử - Viễn thông
+A1202: 8 | B1202: B25DCVT407 | C1202: Đỗ Tiến Đạt | D1202: Nam | E1202: D25CQVT07-B | F1202: Điện tử - Viễn thông
+A1203: 8 | B1203: B25DCVT415 | C1203: Nguyễn Trọng Đức | D1203: Nam | E1203: D25CQVT07-B | F1203: Điện tử - Viễn thông
+A1204: 8 | B1204: B25DCVT423 | C1204: Đào Thanh Đức | D1204: Nam | E1204: D25CTVT01-B | F1204: Điện tử - Viễn thông
+A1205: 8 | B1205: B25DCVT008 | C1205: Mai Duy Anh | D1205: Nam | E1205: D25CQVT08-B | F1205: Điện tử - Viễn thông
+A1206: 8 | B1206: B25DCVT016 | C1206: Nguyễn Đào Tuấn Anh | D1206: Nam | E1206: D25CQVT08-B | F1206: Điện tử - Viễn thông
+A1207: 8 | B1207: B25DCVT024 | C1207: Triệu Hoàng Anh | D1207: Nam | E1207: D25CQVT08-B | F1207: Điện tử - Viễn thông
+A1208: 8 | B1208: B25DCVT032 | C1208: Nguyễn Ngọc Bình | D1208: Nam | E1208: D25CQVT08-B | F1208: Điện tử - Viễn thông
+A1209: 8 | B1209: B25DCVT040 | C1209: Đỗ Quốc Gia Bảo | D1209: Nam | E1209: D25CQVT08-B | F1209: Điện tử - Viễn thông
+A1210: 8 | B1210: B25DCVT048 | C1210: Trần Khắc Chung | D1210: Nam | E1210: D25CQVT08-B | F1210: Điện tử - Viễn thông
+A1211: 8 | B1211: B25DCVT056 | C1211: Khuất Đăng Cường | D1211: Nam | E1211: D25CQVT08-B | F1211: Điện tử - Viễn thông
+A1212: 8 | B1212: B25DCVT072 | C1212: Hà Trung Dũng | D1212: Nam | E1212: D25CQVT08-B | F1212: Điện tử - Viễn thông
+A1213: 8 | B1213: B25DCVT080 | C1213: Nguyễn Lương Dương | D1213: Nam | E1213: D25CQVT08-B | F1213: Điện tử - Viễn thông
+A1214: 8 | B1214: B25DCVT088 | C1214: Lưu Công Hiếu | D1214: Nam | E1214: D25CQVT08-B | F1214: Điện tử - Viễn thông
+A1215: 8 | B1215: B25DCVT096 | C1215: Phạm Hữu Trung Hiếu | D1215: Nam | E1215: D25CQVT08-B | F1215: Điện tử - Viễn thông
+A1216: 8 | B1216: B25DCVT104 | C1216: Lê Huy Hoàng | D1216: Nam | E1216: D25CQVT08-B | F1216: Điện tử - Viễn thông
+A1217: 8 | B1217: B25DCVT112 | C1217: Trần Đăng Việt Hoàng | D1217: Nam | E1217: D25CQVT08-B | F1217: Điện tử - Viễn thông
+A1218: 8 | B1218: B25DCVT120 | C1218: Nguyễn Quang Huy | D1218: Nam | E1218: D25CQVT08-B | F1218: Điện tử - Viễn thông
+A1219: 8 | B1219: B25DCVT128 | C1219: Phạm Quang Huấn | D1219: Nam | E1219: D25CQVT08-B | F1219: Điện tử - Viễn thông
+A1220: 8 | B1220: B25DCVT136 | C1220: Bùi Quốc Hùng | D1220: Nam | E1220: D25CQVT08-B | F1220: Điện tử - Viễn thông
+A1221: 8 | B1221: B25DCVT144 | C1221: Cao Đức Hưng | D1221: Nam | E1221: D25CQVT08-B | F1221: Điện tử - Viễn thông
+A1222: 8 | B1222: B25DCVT152 | C1222: Trịnh Văn Hải | D1222: Nam | E1222: D25CQVT08-B | F1222: Điện tử - Viễn thông
+A1223: 8 | B1223: B25DCVT160 | C1223: Lê Tiến Khang | D1223: Nam | E1223: D25CTVT01-B | F1223: Điện tử - Viễn thông
+A1224: 8 | B1224: B25DCVT168 | C1224: Nguyễn Khắc Anh Khoa | D1224: Nam | E1224: D25CQVT08-B | F1224: Điện tử - Viễn thông
+A1225: 8 | B1225: B25DCVT176 | C1225: Trần An Khánh | D1225: Nam | E1225: D25CQVT08-B | F1225: Điện tử - Viễn thông
+A1226: 8 | B1226: B25DCVT184 | C1226: Nguyễn Cảnh Anh Kiệt | D1226: Nam | E1226: D25CQVT08-B | F1226: Điện tử - Viễn thông
+A1227: 8 | B1227: B25DCVT192 | C1227: Lê Bảo Long | D1227: Nam | E1227: D25CQVT08-B | F1227: Điện tử - Viễn thông
+A1228: 8 | B1228: B25DCVT200 | C1228: Phạm Chí Lâm | D1228: Nam | E1228: D25CTVT01-B | F1228: Điện tử - Viễn thông
+A1229: 8 | B1229: B25DCVT208 | C1229: An Tấn Minh | D1229: Nam | E1229: D25CQVT08-B | F1229: Điện tử - Viễn thông
+A1230: 8 | B1230: B25DCVT216 | C1230: Lưu Nhật Minh | D1230: Nam | E1230: D25CQVT08-B | F1230: Điện tử - Viễn thông
+A1231: 8 | B1231: B25DCVT224 | C1231: Nguyễn Đăng Minh | D1231: Nam | E1231: D25CQVT08-B | F1231: Điện tử - Viễn thông
+A1232: 9 | B1232: B25DCVT232 | C1232: Trần Tuấn Minh | D1232: Nam | E1232: D25CQVT08-B | F1232: Điện tử - Viễn thông
+A1233: 9 | B1233: B25DCVT240 | C1233: Hà Hải Nam | D1233: Nam | E1233: D25CQVT08-B | F1233: Điện tử - Viễn thông
+A1234: 9 | B1234: B25DCVT248 | C1234: Vũ Khánh Nam | D1234: Nam | E1234: D25CQVT08-B | F1234: Điện tử - Viễn thông
+A1235: 9 | B1235: B25DCVT256 | C1235: Phạm Văn Nguyên | D1235: Nam | E1235: D25CQVT08-B | F1235: Điện tử - Viễn thông
+A1236: 9 | B1236: B25DCVT264 | C1236: Trần Quang Nhất | D1236: Nam | E1236: D25CQVT08-B | F1236: Điện tử - Viễn thông
+A1237: 9 | B1237: B25DCVT272 | C1237: Trương Đức Phú | D1237: Nam | E1237: D25CQVT08-B | F1237: Điện tử - Viễn thông
+A1238: 9 | B1238: B25DCVT280 | C1238: Lương Ngọc Quang | D1238: Nam | E1238: D25CTVT01-B | F1238: Điện tử - Viễn thông
+A1239: 9 | B1239: B25DCVT288 | C1239: Lê Anh Quân | D1239: Nam | E1239: D25CQVT08-B | F1239: Điện tử - Viễn thông
+A1240: 9 | B1240: B25DCVT296 | C1240: Trần Văn Quý | D1240: Nam | E1240: D25CQVT08-B | F1240: Điện tử - Viễn thông
+A1241: 9 | B1241: B25DCVT304 | C1241: Lưu Ngọc Sơn | D1241: Nam | E1241: D25CQVT08-B | F1241: Điện tử - Viễn thông
+A1242: 9 | B1242: B25DCVT312 | C1242: Bùi Như Tiến Thành | D1242: Nam | E1242: D25CQVT08-B | F1242: Điện tử - Viễn thông
+A1243: 9 | B1243: B25DCVT320 | C1243: Trần Xuân Thành | D1243: Nam | E1243: D25CQVT08-B | F1243: Điện tử - Viễn thông
+A1244: 9 | B1244: B25DCVT328 | C1244: Nguyễn Quang Thịnh | D1244: Nam | E1244: D25CQVT08-B | F1244: Điện tử - Viễn thông
+A1245: 9 | B1245: B25DCVT344 | C1245: Nguyễn Hải Trường | D1245: Nam | E1245: D25CQVT08-B | F1245: Điện tử - Viễn thông
+A1246: 9 | B1246: B25DCVT352 | C1246: Lê Văn Tuấn | D1246: Nam | E1246: D25CQVT08-B | F1246: Điện tử - Viễn thông
+A1247: 9 | B1247: B25DCVT360 | C1247: Đỗ Trung Tuấn | D1247: Nam | E1247: D25CQVT08-B | F1247: Điện tử - Viễn thông
+A1248: 9 | B1248: B25DCVT368 | C1248: Phan Nhật Tân | D1248: Nam | E1248: D25CQVT08-B | F1248: Điện tử - Viễn thông
+A1249: 9 | B1249: B25DCVT376 | C1249: Triệu Hồng Viên | D1249: Nam | E1249: D25CQVT08-B | F1249: Điện tử - Viễn thông
+A1250: 9 | B1250: B25DCVT384 | C1250: Đặng Lê Nguyên Vũ | D1250: Nam | E1250: D25CQVT08-B | F1250: Điện tử - Viễn thông
+A1251: 9 | B1251: B25DCVT392 | C1251: Lê Thế Đạt | D1251: Nam | E1251: D25CQVT08-B | F1251: Điện tử - Viễn thông
+A1252: 9 | B1252: B25DCVT400 | C1252: Phạm Thành Đạt | D1252: Nam | E1252: D25CQVT08-B | F1252: Điện tử - Viễn thông
+A1253: 9 | B1253: B25DCVT408 | C1253: Đỗ Tiến Đạt | D1253: Nam | E1253: D25CQVT08-B | F1253: Điện tử - Viễn thông
+A1254: 9 | B1254: B25DCVT416 | C1254: Phạm Bảo Đức | D1254: Nam | E1254: D25CQVT08-B | F1254: Điện tử - Viễn thông
+A1255: 9 | B1255: B25DCKD005 | C1255: Nguyễn Tuấn Anh | D1255: Nam | E1255: D25CQKD01-B | F1255: Kỹ thuật dữ liệu
+A1256: 9 | B1256: B25DCKD007 | C1256: Đỗ Đức Anh | D1256: Nam | E1256: D25CQKD01-B | F1256: Kỹ thuật dữ liệu
+A1257: 9 | B1257: B25DCKD009 | C1257: Nguyễn Trọng Báu | D1257: Nam | E1257: D25CQKD01-B | F1257: Kỹ thuật dữ liệu
+A1258: 9 | B1258: B25DCKD011 | C1258: Ngô Gia Bảo | D1258: Nam | E1258: D25CQKD01-B | F1258: Kỹ thuật dữ liệu
+A1259: 9 | B1259: B25DCKD013 | C1259: Nguyễn Ngọc Bội | D1259: Nam | E1259: D25CQKD01-B | F1259: Kỹ thuật dữ liệu
+A1260: 9 | B1260: B25DCKD015 | C1260: Chử Thành Chung | D1260: Nam | E1260: D25CQKD01-B | F1260: Kỹ thuật dữ liệu
+A1261: 9 | B1261: B25DCKD017 | C1261: Phạm Hùng Cường | D1261: Nam | E1261: D25CQKD01-B | F1261: Kỹ thuật dữ liệu
+A1262: 9 | B1262: B25DCKD019 | C1262: Mai Khương Duy | D1262: Nam | E1262: D25CQKD01-B | F1262: Kỹ thuật dữ liệu
+A1263: 9 | B1263: B25DCKD021 | C1263: Nguyễn Đức Duy | D1263: Nam | E1263: D25CQKD01-B | F1263: Kỹ thuật dữ liệu
+A1264: 9 | B1264: B25DCKD023 | C1264: Đoàn Hướng Dương | D1264: Nam | E1264: D25CQKD01-B | F1264: Kỹ thuật dữ liệu
+A1265: 9 | B1265: B25DCKD025 | C1265: Bùi Thái Giang | D1265: Nam | E1265: D25CQKD01-B | F1265: Kỹ thuật dữ liệu
+A1266: 9 | B1266: B25DCKD027 | C1266: Đoàn Minh Hiếu | D1266: Nam | E1266: D25CQKD01-B | F1266: Kỹ thuật dữ liệu
+A1267: 9 | B1267: B25DCKD029 | C1267: Lê Gia Huy | D1267: Nam | E1267: D25CQKD01-B | F1267: Kỹ thuật dữ liệu
+A1268: 9 | B1268: B25DCKD031 | C1268: Thiều Quang Huy | D1268: Nam | E1268: D25CQKD01-B | F1268: Kỹ thuật dữ liệu
+A1269: 9 | B1269: B25DCKD033 | C1269: Đỗ Anh Huy | D1269: Nam | E1269: D25CQKD01-B | F1269: Kỹ thuật dữ liệu
+A1270: 9 | B1270: B25DCKD037 | C1270: Nguyễn Tuấn Hưng | D1270: Nam | E1270: D25CQKD01-B | F1270: Kỹ thuật dữ liệu
+A1271: 9 | B1271: B25DCKD039 | C1271: Phạm Lê Hưng | D1271: Nam | E1271: D25CQKD01-B | F1271: Kỹ thuật dữ liệu
+A1272: 9 | B1272: B25DCKD041 | C1272: Trần Công Hưng | D1272: Nam | E1272: D25CQKD01-B | F1272: Kỹ thuật dữ liệu
+A1273: 9 | B1273: B25DCKD043 | C1273: Nghiêm Đức Hải | D1273: Nam | E1273: D25CQKD01-B | F1273: Kỹ thuật dữ liệu
+A1274: 9 | B1274: B25DCKD045 | C1274: Lê Văn Khoa | D1274: Nam | E1274: D25CQKD01-B | F1274: Kỹ thuật dữ liệu
+A1275: 9 | B1275: B25DCKD047 | C1275: Lâm Quốc Khánh | D1275: Nam | E1275: D25CQKD01-B | F1275: Kỹ thuật dữ liệu
+A1276: 9 | B1276: B25DCKD049 | C1276: Phạm Duy Khánh | D1276: Nam | E1276: D25CQKD01-B | F1276: Kỹ thuật dữ liệu
+A1277: 9 | B1277: B25DCKD051 | C1277: Nguyễn Tuấn Kiệt | D1277: Nam | E1277: D25CQKD01-B | F1277: Kỹ thuật dữ liệu
+A1278: 9 | B1278: B25DCKD055 | C1278: Trần Hoàng Long | D1278: Nam | E1278: D25CQKD01-B | F1278: Kỹ thuật dữ liệu
+A1279: 9 | B1279: B25DCKD059 | C1279: Nguyễn Đức Minh | D1279: Nam | E1279: D25CQKD01-B | F1279: Kỹ thuật dữ liệu
+A1280: 9 | B1280: B25DCKD061 | C1280: Phạm Đức Minh | D1280: Nam | E1280: D25CQKD01-B | F1280: Kỹ thuật dữ liệu
+A1281: 9 | B1281: B25DCKD063 | C1281: Vũ Công Hồng Minh | D1281: Nam | E1281: D25CQKD01-B | F1281: Kỹ thuật dữ liệu
+A1282: 9 | B1282: B25DCKD065 | C1282: Hoàng Đức Nam | D1282: Nam | E1282: D25CQKD01-B | F1282: Kỹ thuật dữ liệu
+A1283: 9 | B1283: B25DCKD067 | C1283: Trần Đức Gia Nam | D1283: Nam | E1283: D25CQKD01-B | F1283: Kỹ thuật dữ liệu
+A1284: 9 | B1284: B25DCKD069 | C1284: Phạm Vũ Trung Nghĩa | D1284: Nam | E1284: D25CQKD01-B | F1284: Kỹ thuật dữ liệu
+A1285: 9 | B1285: B25DCKD071 | C1285: Cao Văn Ngọc | D1285: Nam | E1285: D25CQKD01-B | F1285: Kỹ thuật dữ liệu
+A1286: 9 | B1286: B25DCKD075 | C1286: Nguyễn Thiện Nhân | D1286: Nam | E1286: D25CQKD01-B | F1286: Kỹ thuật dữ liệu
+A1287: 9 | B1287: B25DCKD077 | C1287: Vũ Hồng Nhật | D1287: Nam | E1287: D25CQKD01-B | F1287: Kỹ thuật dữ liệu
+A1288: 9 | B1288: B25DCKD079 | C1288: Nguyễn Minh Phát | D1288: Nam | E1288: D25CQKD01-B | F1288: Kỹ thuật dữ liệu
+A1289: 9 | B1289: B25DCKD081 | C1289: Nguyễn Hữu Phú | D1289: Nam | E1289: D25CQKD01-B | F1289: Kỹ thuật dữ liệu
+A1290: 9 | B1290: B25DCKD083 | C1290: Nguyễn Đình Phúc | D1290: Nam | E1290: D25CQKD01-B | F1290: Kỹ thuật dữ liệu
+A1291: 9 | B1291: B25DCKD085 | C1291: Đào Minh Phúc | D1291: Nam | E1291: D25CQKD01-B | F1291: Kỹ thuật dữ liệu
+A1292: 9 | B1292: B25DCKD087 | C1292: Vũ Trí Minh Phương | D1292: Nam | E1292: D25CQKD01-B | F1292: Kỹ thuật dữ liệu
+A1293: 9 | B1293: B25DCKD089 | C1293: Cao Khắc Phan Quyến | D1293: Nam | E1293: D25CQKD01-B | F1293: Kỹ thuật dữ liệu
+A1294: 9 | B1294: B25DCKD091 | C1294: Trần Quang Quân | D1294: Nam | E1294: D25CQKD01-B | F1294: Kỹ thuật dữ liệu
+A1295: 9 | B1295: B25DCKD095 | C1295: Nguyễn Hồng Sơn | D1295: Nam | E1295: D25CQKD01-B | F1295: Kỹ thuật dữ liệu
+A1296: 9 | B1296: B25DCKD097 | C1296: Nguyễn Vũ Lộc Thiên | D1296: Nam | E1296: D25CQKD01-B | F1296: Kỹ thuật dữ liệu
+A1297: 9 | B1297: B25DCKD099 | C1297: Đỗ Nghĩa Thành | D1297: Nam | E1297: D25CQKD01-B | F1297: Kỹ thuật dữ liệu
+A1298: 9 | B1298: B25DCKD103 | C1298: Vũ Văn Thắng | D1298: Nam | E1298: D25CQKD01-B | F1298: Kỹ thuật dữ liệu
+A1299: 9 | B1299: B25DCKD105 | C1299: Ngô Tiến Thọ | D1299: Nam | E1299: D25CQKD01-B | F1299: Kỹ thuật dữ liệu
+A1300: 9 | B1300: B25DCKD107 | C1300: Nguyễn Việt Tiến | D1300: Nam | E1300: D25CQKD01-B | F1300: Kỹ thuật dữ liệu
+A1301: 9 | B1301: B25DCKD111 | C1301: Nguyễn Duy Tuấn | D1301: Nam | E1301: D25CQKD01-B | F1301: Kỹ thuật dữ liệu
+A1302: 9 | B1302: B25DCKD113 | C1302: Vũ Hải Tuấn | D1302: Nam | E1302: D25CQKD01-B | F1302: Kỹ thuật dữ liệu
+A1303: 9 | B1303: B25DCKD117 | C1303: Phan Anh Tú | D1303: Nam | E1303: D25CQKD01-B | F1303: Kỹ thuật dữ liệu
+A1304: 9 | B1304: B25DCKD119 | C1304: Phạm Quốc Việt | D1304: Nam | E1304: D25CQKD01-B | F1304: Kỹ thuật dữ liệu
+A1305: 9 | B1305: B25DCKD121 | C1305: Lê Tấn Đạt | D1305: Nam | E1305: D25CQKD01-B | F1305: Kỹ thuật dữ liệu
+A1306: 9 | B1306: B25DCKD123 | C1306: Phạm Ngọc Đạt | D1306: Nam | E1306: D25CQKD01-B | F1306: Kỹ thuật dữ liệu
+A1307: 9 | B1307: B25DCKD125 | C1307: Bùi Minh Đức | D1307: Nam | E1307: D25CQKD01-B | F1307: Kỹ thuật dữ liệu
+A1308: 9 | B1308: B25DCKD002 | C1308: Bùi Đức Anh | D1308: Nam | E1308: D25CQKD02-B | F1308: Kỹ thuật dữ liệu
+A1309: 9 | B1309: B25DCKD004 | C1309: Lê Đức Anh | D1309: Nam | E1309: D25CQKD02-B | F1309: Kỹ thuật dữ liệu
+A1310: 9 | B1310: B25DCKD006 | C1310: Trịnh Quang Anh | D1310: Nam | E1310: D25CQKD02-B | F1310: Kỹ thuật dữ liệu
+A1311: 9 | B1311: B25DCKD008 | C1311: Nguyễn Văn Bách | D1311: Nam | E1311: D25CQKD02-B | F1311: Kỹ thuật dữ liệu
+A1312: 9 | B1312: B25DCKD010 | C1312: Phạm Đức Bình | D1312: Nam | E1312: D25CQKD02-B | F1312: Kỹ thuật dữ liệu
+A1313: 9 | B1313: B25DCKD012 | C1313: Trần Gia Bảo | D1313: Nam | E1313: D25CQKD02-B | F1313: Kỹ thuật dữ liệu
+A1314: 9 | B1314: B25DCKD016 | C1314: Dương Công Cường | D1314: Nam | E1314: D25CQKD02-B | F1314: Kỹ thuật dữ liệu
+A1315: 9 | B1315: B25DCKD018 | C1315: Lại Khương Duy | D1315: Nam | E1315: D25CQKD02-B | F1315: Kỹ thuật dữ liệu
+A1316: 9 | B1316: B25DCKD020 | C1316: Nguyễn Xuân Duy | D1316: Nam | E1316: D25CQKD02-B | F1316: Kỹ thuật dữ liệu
+A1317: 9 | B1317: B25DCKD022 | C1317: Nguyễn Hoàng Dương | D1317: Nam | E1317: D25CQKD02-B | F1317: Kỹ thuật dữ liệu
+A1318: 9 | B1318: B25DCKD024 | C1318: Đặng Đăng Dương | D1318: Nam | E1318: D25CQKD02-B | F1318: Kỹ thuật dữ liệu
+A1319: 9 | B1319: B25DCKD026 | C1319: Nguyễn Minh Hiếu | D1319: Nam | E1319: D25CQKD02-B | F1319: Kỹ thuật dữ liệu
+A1320: 9 | B1320: B25DCKD028 | C1320: Nguyễn Huy Hoàng | D1320: Nam | E1320: D25CQKD02-B | F1320: Kỹ thuật dữ liệu
+A1321: 9 | B1321: B25DCKD030 | C1321: Nguyễn Quang Huy | D1321: Nam | E1321: D25CQKD02-B | F1321: Kỹ thuật dữ liệu
+A1322: 9 | B1322: B25DCKD032 | C1322: Trần Đại Huy | D1322: Nam | E1322: D25CQKD02-B | F1322: Kỹ thuật dữ liệu
+A1323: 9 | B1323: B25DCKD034 | C1323: Đỗ Đăng Huy | D1323: Nam | E1323: D25CQKD02-B | F1323: Kỹ thuật dữ liệu
+A1324: 9 | B1324: B25DCKD036 | C1324: Nguyễn Gia Hưng | D1324: Nam | E1324: D25CQKD02-B | F1324: Kỹ thuật dữ liệu
+A1325: 9 | B1325: B25DCKD040 | C1325: Phạm Quốc Hưng | D1325: Nam | E1325: D25CQKD02-B | F1325: Kỹ thuật dữ liệu
+A1326: 9 | B1326: B25DCKD042 | C1326: Trần Hữu Hưng | D1326: Nam | E1326: D25CQKD02-B | F1326: Kỹ thuật dữ liệu
+A1327: 9 | B1327: B25DCKD044 | C1327: Nguyễn Ngọc Hoàng Hải | D1327: Nam | E1327: D25CQKD02-B | F1327: Kỹ thuật dữ liệu
+A1328: 9 | B1328: B25DCKD046 | C1328: Dương Gia Khánh | D1328: Nam | E1328: D25CQKD02-B | F1328: Kỹ thuật dữ liệu
+A1329: 9 | B1329: B25DCKD048 | C1329: Nguyễn Đình Khánh | D1329: Nam | E1329: D25CQKD02-B | F1329: Kỹ thuật dữ liệu
+A1330: 9 | B1330: B25DCKD050 | C1330: Phan Quang Khôi | D1330: Nam | E1330: D25CQKD02-B | F1330: Kỹ thuật dữ liệu
+A1331: 9 | B1331: B25DCKD056 | C1331: Nguyễn Duy Đại Lâm | D1331: Nam | E1331: D25CQKD02-B | F1331: Kỹ thuật dữ liệu
+A1332: 9 | B1332: B25DCKD058 | C1332: Dương Quang Minh | D1332: Nam | E1332: D25CQKD02-B | F1332: Kỹ thuật dữ liệu
+A1333: 9 | B1333: B25DCKD060 | C1333: Phan Đức Minh | D1333: Nam | E1333: D25CQKD02-B | F1333: Kỹ thuật dữ liệu
+A1334: 9 | B1334: B25DCKD062 | C1334: Trần Tuệ Minh | D1334: Nam | E1334: D25CQKD02-B | F1334: Kỹ thuật dữ liệu
+A1335: 9 | B1335: B25DCKD064 | C1335: Hồ Đức Mạnh | D1335: Nam | E1335: D25CQKD02-B | F1335: Kỹ thuật dữ liệu
+A1336: 9 | B1336: B25DCKD066 | C1336: Nguyễn Thành Nam | D1336: Nam | E1336: D25CQKD02-B | F1336: Kỹ thuật dữ liệu
+A1337: 9 | B1337: B25DCKD068 | C1337: Đoàn Hải Nam | D1337: Nam | E1337: D25CQKD02-B | F1337: Kỹ thuật dữ liệu
+A1338: 9 | B1338: B25DCKD076 | C1338: Nguyễn Văn Nhân | D1338: Nam | E1338: D25CQKD02-B | F1338: Kỹ thuật dữ liệu
+A1339: 9 | B1339: B25DCKD078 | C1339: Nguyễn Cao Phong | D1339: Nam | E1339: D25CQKD02-B | F1339: Kỹ thuật dữ liệu
+A1340: 9 | B1340: B25DCKD080 | C1340: Nguyễn Thành Phát | D1340: Nam | E1340: D25CQKD02-B | F1340: Kỹ thuật dữ liệu
+A1341: 9 | B1341: B25DCKD082 | C1341: Nguyễn Việt Phúc | D1341: Nam | E1341: D25CQKD02-B | F1341: Kỹ thuật dữ liệu
+A1342: 9 | B1342: B25DCKD084 | C1342: Vũ Hồng Phúc | D1342: Nam | E1342: D25CQKD02-B | F1342: Kỹ thuật dữ liệu
+A1343: 9 | B1343: B25DCKD090 | C1343: Nguyễn Hồng Quân | D1343: Nam | E1343: D25CQKD02-B | F1343: Kỹ thuật dữ liệu
+A1344: 9 | B1344: B25DCKD094 | C1344: Mai Quang Sơn | D1344: Nam | E1344: D25CQKD02-B | F1344: Kỹ thuật dữ liệu
+A1345: 9 | B1345: B25DCKD096 | C1345: Đỗ Nam Sơn | D1345: Nam | E1345: D25CQKD02-B | F1345: Kỹ thuật dữ liệu
+A1346: 9 | B1346: B25DCKD098 | C1346: Nguyễn Việt Thành | D1346: Nam | E1346: D25CQKD02-B | F1346: Kỹ thuật dữ liệu
+A1347: 9 | B1347: B25DCKD102 | C1347: Hà Tất Thắng | D1347: Nam | E1347: D25CQKD02-B | F1347: Kỹ thuật dữ liệu
+A1348: 9 | B1348: B25DCKD104 | C1348: Vũ Hồng Thịnh | D1348: Nam | E1348: D25CQKD02-B | F1348: Kỹ thuật dữ liệu
+A1349: 9 | B1349: B25DCKD106 | C1349: Đỗ Cảnh Thụy | D1349: Nam | E1349: D25CQKD02-B | F1349: Kỹ thuật dữ liệu
+A1350: 9 | B1350: B25DCKD108 | C1350: Trần Đức Tiến | D1350: Nam | E1350: D25CQKD02-B | F1350: Kỹ thuật dữ liệu
+A1351: 9 | B1351: B25DCKD110 | C1351: Nguyễn Anh Tuấn | D1351: Nam | E1351: D25CQKD02-B | F1351: Kỹ thuật dữ liệu
+A1352: 9 | B1352: B25DCKD112 | C1352: Tiêu Anh Tuấn | D1352: Nam | E1352: D25CQKD02-B | F1352: Kỹ thuật dữ liệu
+A1353: 9 | B1353: B25DCKD114 | C1353: Lê Đắc Tài | D1353: Nam | E1353: D25CQKD02-B | F1353: Kỹ thuật dữ liệu
+A1354: 9 | B1354: B25DCKD118 | C1354: Nguyễn Tiến Việt | D1354: Nam | E1354: D25CQKD02-B | F1354: Kỹ thuật dữ liệu
+A1355: 9 | B1355: B25DCKD120 | C1355: Trịnh Hải Đăng | D1355: Nam | E1355: D25CQKD02-B | F1355: Kỹ thuật dữ liệu
+A1356: 9 | B1356: B25DCKD124 | C1356: Văn Tiến Đạt | D1356: Nam | E1356: D25CQKD02-B | F1356: Kỹ thuật dữ liệu
+A1357: 9 | B1357: B25DCKD126 | C1357: Nguyễn Đình Đức | D1357: Nam | E1357: D25CQKD02-B | F1357: Kỹ thuật dữ liệu
+A1358: 9 | B1358: B25DCTN001 | C1358: Nguyễn Thái An | D1358: Nam | E1358: D25CQTN01-B | F1358: Trí tuệ nhân tạo
+A1359: 9 | B1359: B25DCTN004 | C1359: Dương Tuấn Anh | D1359: Nam | E1359: D25CQTN01-B | F1359: Trí tuệ nhân tạo
+A1360: 9 | B1360: B25DCTN007 | C1360: Nguyễn Hải Anh | D1360: Nam | E1360: D25CTTN01-B | F1360: Trí tuệ nhân tạo
+A1361: 9 | B1361: B25DCTN010 | C1361: Nguyễn Xuân Việt Anh | D1361: Nam | E1361: D25CQTN01-B | F1361: Trí tuệ nhân tạo
+A1362: 10 | B1362: B25DCTN013 | C1362: Phạm Gia Bảo | D1362: Nam | E1362: D25CQTN01-B | F1362: Trí tuệ nhân tạo
+A1363: 10 | B1363: B25DCTN016 | C1363: Phạm Đức Chinh | D1363: Nam | E1363: D25CQTN01-B | F1363: Trí tuệ nhân tạo
+A1364: 10 | B1364: B25DCTN019 | C1364: Nguyễn Hà Duy | D1364: Nam | E1364: D25CQTN01-B | F1364: Trí tuệ nhân tạo
+A1365: 10 | B1365: B25DCTN022 | C1365: Nguyễn Việt Dũng | D1365: Nam | E1365: D25CQTN01-B | F1365: Trí tuệ nhân tạo
+A1366: 10 | B1366: B25DCTN025 | C1366: Trần Tiến Dũng | D1366: Nam | E1366: D25CQTN01-B | F1366: Trí tuệ nhân tạo
+A1367: 10 | B1367: B25DCTN028 | C1367: Phan Huy Dương | D1367: Nam | E1367: D25CTTN01-B | F1367: Trí tuệ nhân tạo
+A1368: 10 | B1368: B25DCTN031 | C1368: Cao Hoàng Hiếu | D1368: Nam | E1368: D25CQTN01-B | F1368: Trí tuệ nhân tạo
+A1369: 10 | B1369: B25DCTN034 | C1369: Nguyễn Minh Hiếu | D1369: Nam | E1369: D25CQTN01-B | F1369: Trí tuệ nhân tạo
+A1370: 10 | B1370: B25DCTN037 | C1370: Vũ Duy Hiếu | D1370: Nam | E1370: D25CQTN01-B | F1370: Trí tuệ nhân tạo
+A1371: 10 | B1371: B25DCTN040 | C1371: Nguyễn Duy Hoàng | D1371: Nam | E1371: D25CTTN01-B | F1371: Trí tuệ nhân tạo
+A1372: 10 | B1372: B25DCTN043 | C1372: Phạm Việt Hoàng | D1372: Nam | E1372: D25CQTN01-B | F1372: Trí tuệ nhân tạo
+A1373: 10 | B1373: B25DCTN046 | C1373: Nguyễn Vi Huy | D1373: Nam | E1373: D25CQTN01-B | F1373: Trí tuệ nhân tạo
+A1374: 10 | B1374: B25DCTN049 | C1374: Nguyễn Mạnh Hùng | D1374: Nam | E1374: D25CQTN01-B | F1374: Trí tuệ nhân tạo
+A1375: 10 | B1375: B25DCTN052 | C1375: Hoàng Văn Hưng | D1375: Nam | E1375: D25CQTN01-B | F1375: Trí tuệ nhân tạo
+A1376: 10 | B1376: B25DCTN055 | C1376: Bùi Đình Hải | D1376: Nam | E1376: D25CQTN01-B | F1376: Trí tuệ nhân tạo
+A1377: 10 | B1377: B25DCTN058 | C1377: Vũ Trọng Hải | D1377: Nam | E1377: D25CQTN01-B | F1377: Trí tuệ nhân tạo
+A1378: 10 | B1378: B25DCTN064 | C1378: Phạm Gia Khánh | D1378: Nam | E1378: D25CTTN01-B | F1378: Trí tuệ nhân tạo
+A1379: 10 | B1379: B25DCTN067 | C1379: Nguyễn Tuấn Khôi | D1379: Nam | E1379: D25CQTN01-B | F1379: Trí tuệ nhân tạo
+A1380: 10 | B1380: B25DCTN070 | C1380: Nguyễn Trọng Kiêm | D1380: Nam | E1380: D25CQTN01-B | F1380: Trí tuệ nhân tạo
+A1381: 10 | B1381: B25DCTN073 | C1381: Trần Trung Kiên | D1381: Nam | E1381: D25CQTN01-B | F1381: Trí tuệ nhân tạo
+A1382: 10 | B1382: B25DCTN076 | C1382: Vũ Minh Long | D1382: Nam | E1382: D25CQTN01-B | F1382: Trí tuệ nhân tạo
+A1383: 10 | B1383: B25DCTN079 | C1383: Đinh Mạnh Lương | D1383: Nam | E1383: D25CQTN01-B | F1383: Trí tuệ nhân tạo
+A1384: 10 | B1384: B25DCTN085 | C1384: Hoàng Công Nam | D1384: Nam | E1384: D25CQTN01-B | F1384: Trí tuệ nhân tạo
+A1385: 10 | B1385: B25DCTN088 | C1385: Phạm Đinh Hải Nam | D1385: Nam | E1385: D25CQTN01-B | F1385: Trí tuệ nhân tạo
+A1386: 10 | B1386: B25DCTN091 | C1386: Lê Đình Nguyên | D1386: Nam | E1386: D25CQTN01-B | F1386: Trí tuệ nhân tạo
+A1387: 10 | B1387: B25DCTN094 | C1387: Đoàn Hoàng Phúc | D1387: Nam | E1387: D25CQTN01-B | F1387: Trí tuệ nhân tạo
+A1388: 10 | B1388: B25DCTN100 | C1388: Phạm Minh Quang | D1388: Nam | E1388: D25CQTN01-B | F1388: Trí tuệ nhân tạo
+A1389: 10 | B1389: B25DCTN103 | C1389: Nguyễn Lê Hồng Quân | D1389: Nam | E1389: D25CQTN01-B | F1389: Trí tuệ nhân tạo
+A1390: 10 | B1390: B25DCTN106 | C1390: Phạm Xuân Sơn | D1390: Nam | E1390: D25CQTN01-B | F1390: Trí tuệ nhân tạo
+A1391: 10 | B1391: B25DCTN112 | C1391: Đỗ Tiến Thành | D1391: Nam | E1391: D25CQTN01-B | F1391: Trí tuệ nhân tạo
+A1392: 10 | B1392: B25DCTN115 | C1392: Lê Văn Thông | D1392: Nam | E1392: D25CQTN01-B | F1392: Trí tuệ nhân tạo
+A1393: 10 | B1393: B25DCTN118 | C1393: Chu Tiến Thịnh | D1393: Nam | E1393: D25CQTN01-B | F1393: Trí tuệ nhân tạo
+A1394: 10 | B1394: B25DCTN121 | C1394: Đào Phúc Tiền | D1394: Nam | E1394: D25CTTN01-B | F1394: Trí tuệ nhân tạo
+A1395: 10 | B1395: B25DCTN124 | C1395: Nguyễn Kiên Trung | D1395: Nam | E1395: D25CQTN01-B | F1395: Trí tuệ nhân tạo
+A1396: 10 | B1396: B25DCTN127 | C1396: Hà Minh Tuân | D1396: Nam | E1396: D25CQTN01-B | F1396: Trí tuệ nhân tạo
+A1397: 10 | B1397: B25DCTN130 | C1397: Nguyễn Quang Tình | D1397: Nam | E1397: D25CQTN01-B | F1397: Trí tuệ nhân tạo
+A1398: 10 | B1398: B25DCTN133 | C1398: Trần Lê Anh Tú | D1398: Nam | E1398: D25CQTN01-B | F1398: Trí tuệ nhân tạo
+A1399: 10 | B1399: B25DCTN136 | C1399: Mạc Phúc Vinh | D1399: Nam | E1399: D25CTTN01-B | F1399: Trí tuệ nhân tạo
+A1400: 10 | B1400: B25DCTN139 | C1400: Nguyễn Nam Việt | D1400: Nam | E1400: D25CQTN01-B | F1400: Trí tuệ nhân tạo
+A1401: 10 | B1401: B25DCTN142 | C1401: Trần Anh Vũ | D1401: Nam | E1401: D25CQTN01-B | F1401: Trí tuệ nhân tạo
+A1402: 10 | B1402: B25DCTN145 | C1402: Nguyễn Thế Đăng | D1402: Nam | E1402: D25CTTN01-B | F1402: Trí tuệ nhân tạo
+A1403: 10 | B1403: B25DCTN148 | C1403: Nguyễn Văn Đức | D1403: Nam | E1403: D25CQTN01-B | F1403: Trí tuệ nhân tạo
+A1404: 10 | B1404: B25DCTN002 | C1404: Đặng Viết An | D1404: Nam | E1404: D25CQTN02-B | F1404: Trí tuệ nhân tạo
+A1405: 10 | B1405: B25DCTN005 | C1405: Lê Tuấn Anh | D1405: Nam | E1405: D25CTTN01-B | F1405: Trí tuệ nhân tạo
+A1406: 10 | B1406: B25DCTN014 | C1406: Đặng Văn Huy Bảo | D1406: Nam | E1406: D25CQTN02-B | F1406: Trí tuệ nhân tạo
+A1407: 10 | B1407: B25DCTN017 | C1407: Nguyễn Doãn Cường | D1407: Nam | E1407: D25CQTN02-B | F1407: Trí tuệ nhân tạo
+A1408: 10 | B1408: B25DCTN020 | C1408: Nguyễn Minh Duyến | D1408: Nam | E1408: D25CQTN02-B | F1408: Trí tuệ nhân tạo
+A1409: 10 | B1409: B25DCTN023 | C1409: Phạm Tiến Dũng | D1409: Nam | E1409: D25CQTN02-B | F1409: Trí tuệ nhân tạo
+A1410: 10 | B1410: B25DCTN026 | C1410: Lương Ngọc Dương | D1410: Nam | E1410: D25CQTN02-B | F1410: Trí tuệ nhân tạo
+A1411: 10 | B1411: B25DCTN029 | C1411: Phan Huy Dương | D1411: Nam | E1411: D25CQTN02-B | F1411: Trí tuệ nhân tạo
+A1412: 10 | B1412: B25DCTN032 | C1412: Lê Trung Hiếu | D1412: Nam | E1412: D25CQTN02-B | F1412: Trí tuệ nhân tạo
+A1413: 10 | B1413: B25DCTN035 | C1413: Nguyễn Trung Hiếu | D1413: Nam | E1413: D25CTTN01-B | F1413: Trí tuệ nhân tạo
+A1414: 10 | B1414: B25DCTN038 | C1414: Vũ Lê Minh Hiếu | D1414: Nam | E1414: D25CTTN01-B | F1414: Trí tuệ nhân tạo
+A1415: 10 | B1415: B25DCTN041 | C1415: Nguyễn Huy Hoàng | D1415: Nam | E1415: D25CTTN01-B | F1415: Trí tuệ nhân tạo
+A1416: 10 | B1416: B25DCTN044 | C1416: Trương Phúc Minh Hoàng | D1416: Nam | E1416: D25CQTN02-B | F1416: Trí tuệ nhân tạo
+A1417: 10 | B1417: B25DCTN047 | C1417: Trần Quang Huy | D1417: Nam | E1417: D25CQTN02-B | F1417: Trí tuệ nhân tạo
+A1418: 10 | B1418: B25DCTN050 | C1418: Nguyễn Ngọc Hùng | D1418: Nam | E1418: D25CQTN02-B | F1418: Trí tuệ nhân tạo
+A1419: 10 | B1419: B25DCTN053 | C1419: Ngô Việt Hưng | D1419: Nam | E1419: D25CQTN02-B | F1419: Trí tuệ nhân tạo
+A1420: 10 | B1420: B25DCTN056 | C1420: Nguyễn Đức Hải | D1420: Nam | E1420: D25CQTN02-B | F1420: Trí tuệ nhân tạo
+A1421: 10 | B1421: B25DCTN059 | C1421: Đỗ Hoàng Hải | D1421: Nam | E1421: D25CQTN02-B | F1421: Trí tuệ nhân tạo
+A1422: 10 | B1422: B25DCTN062 | C1422: Đỗ Anh Khoa | D1422: Nam | E1422: D25CQTN02-B | F1422: Trí tuệ nhân tạo
+A1423: 10 | B1423: B25DCTN065 | C1423: Vũ Ngọc Khánh | D1423: Nam | E1423: D25CTTN01-B | F1423: Trí tuệ nhân tạo
+A1424: 10 | B1424: B25DCTN068 | C1424: Trần Đăng Khôi | D1424: Nam | E1424: D25CQTN02-B | F1424: Trí tuệ nhân tạo
+A1425: 10 | B1425: B25DCTN071 | C1425: Nguyễn Trung Kiên | D1425: Nam | E1425: D25CQTN02-B | F1425: Trí tuệ nhân tạo
+A1426: 10 | B1426: B25DCTN074 | C1426: Lê Quang Linh | D1426: Nam | E1426: D25CQTN02-B | F1426: Trí tuệ nhân tạo
+A1427: 10 | B1427: B25DCTN077 | C1427: Đào Tiến Long | D1427: Nam | E1427: D25CQTN02-B | F1427: Trí tuệ nhân tạo
+A1428: 10 | B1428: B25DCTN080 | C1428: Nguyễn Lê Minh | D1428: Nam | E1428: D25CQTN02-B | F1428: Trí tuệ nhân tạo
+A1429: 10 | B1429: B25DCTN083 | C1429: Vi Đức Minh | D1429: Nam | E1429: D25CQTN02-B | F1429: Trí tuệ nhân tạo
+A1430: 10 | B1430: B25DCTN086 | C1430: Nguyễn Ngọc Thành Nam | D1430: Nam | E1430: D25CQTN02-B | F1430: Trí tuệ nhân tạo
+A1431: 10 | B1431: B25DCTN089 | C1431: Hoàng Đại Nghĩa | D1431: Nam | E1431: D25CQTN02-B | F1431: Trí tuệ nhân tạo
+A1432: 10 | B1432: B25DCTN092 | C1432: Đặng Thiện Nhân | D1432: Nam | E1432: D25CQTN02-B | F1432: Trí tuệ nhân tạo
+A1433: 10 | B1433: B25DCTN098 | C1433: Nguyễn Phạm Nhật Quang | D1433: Nam | E1433: D25CQTN02-B | F1433: Trí tuệ nhân tạo
+A1434: 10 | B1434: B25DCTN101 | C1434: Trần Phú Quyền | D1434: Nam | E1434: D25CQTN02-B | F1434: Trí tuệ nhân tạo
+A1435: 10 | B1435: B25DCTN104 | C1435: Nguyễn Thế Minh Quân | D1435: Nam | E1435: D25CQTN02-B | F1435: Trí tuệ nhân tạo
+A1436: 10 | B1436: B25DCTN107 | C1436: Trần Viết Sơn | D1436: Nam | E1436: D25CQTN02-B | F1436: Trí tuệ nhân tạo
+A1437: 10 | B1437: B25DCTN110 | C1437: Nguyễn Xuân Thành | D1437: Nam | E1437: D25CTTN01-B | F1437: Trí tuệ nhân tạo
+A1438: 10 | B1438: B25DCTN113 | C1438: Đào Đức Thái | D1438: Nam | E1438: D25CQTN02-B | F1438: Trí tuệ nhân tạo
+A1439: 10 | B1439: B25DCTN125 | C1439: Vũ Văn Tráng | D1439: Nam | E1439: D25CQTN02-B | F1439: Trí tuệ nhân tạo
+A1440: 10 | B1440: B25DCTN128 | C1440: Lê Anh Tuấn | D1440: Nam | E1440: D25CTTN01-B | F1440: Trí tuệ nhân tạo
+A1441: 10 | B1441: B25DCTN131 | C1441: Nguyễn Hoàng Tùng | D1441: Nam | E1441: D25CQTN02-B | F1441: Trí tuệ nhân tạo
+A1442: 10 | B1442: B25DCTN134 | C1442: Vũ Tuấn Tú | D1442: Nam | E1442: D25CTTN01-B | F1442: Trí tuệ nhân tạo
+A1443: 10 | B1443: B25DCTN137 | C1443: Nguyễn Thành Vinh | D1443: Nam | E1443: D25CQTN02-B | F1443: Trí tuệ nhân tạo
+A1444: 10 | B1444: B25DCTN140 | C1444: Nguyễn Như Việt | D1444: Nam | E1444: D25CQTN02-B | F1444: Trí tuệ nhân tạo
+A1445: 10 | B1445: B25DCTN143 | C1445: Nguyễn Nhật Ánh | D1445: Nam | E1445: D25CQTN02-B | F1445: Trí tuệ nhân tạo
+A1446: 10 | B1446: B25DCTN146 | C1446: Trần Anh Đăng | D1446: Nam | E1446: D25CTTN01-B | F1446: Trí tuệ nhân tạo
+A1447: 10 | B1447: B25DCTN149 | C1447: Trịnh Trọng Đức | D1447: Nam | E1447: D25CQTN02-B | F1447: Trí tuệ nhân tạo
+A1448: 10 | B1448: B25DCTN003 | C1448: Bùi Minh Anh | D1448: Nam | E1448: D25CQTN03-B | F1448: Trí tuệ nhân tạo
+A1449: 10 | B1449: B25DCTN006 | C1449: Nguyễn Hoàng Anh | D1449: Nam | E1449: D25CQTN03-B | F1449: Trí tuệ nhân tạo
+A1450: 10 | B1450: B25DCTN009 | C1450: Nguyễn Văn Tuấn Anh | D1450: Nam | E1450: D25CQTN03-B | F1450: Trí tuệ nhân tạo
+A1451: 10 | B1451: B25DCTN012 | C1451: Trần Đức Anh | D1451: Nam | E1451: D25CTTN01-B | F1451: Trí tuệ nhân tạo
+A1452: 10 | B1452: B25DCTN015 | C1452: Nguyễn Văn Bằng | D1452: Nam | E1452: D25CQTN03-B | F1452: Trí tuệ nhân tạo
+A1453: 10 | B1453: B25DCTN018 | C1453: Nguyễn Mạnh Cường | D1453: Nam | E1453: D25CQTN03-B | F1453: Trí tuệ nhân tạo
+A1454: 10 | B1454: B25DCTN021 | C1454: Nguyễn Trần Dũng | D1454: Nam | E1454: D25CQTN03-B | F1454: Trí tuệ nhân tạo
+A1455: 10 | B1455: B25DCTN024 | C1455: Trần Quang Dũng | D1455: Nam | E1455: D25CQTN03-B | F1455: Trí tuệ nhân tạo
+A1456: 10 | B1456: B25DCTN027 | C1456: Nguyễn Đức Dương | D1456: Nam | E1456: D25CQTN03-B | F1456: Trí tuệ nhân tạo
+A1457: 10 | B1457: B25DCTN030 | C1457: Vũ Ngọc Dương | D1457: Nam | E1457: D25CTTN01-B | F1457: Trí tuệ nhân tạo
+A1458: 10 | B1458: B25DCTN033 | C1458: Nguyễn Khắc Hiếu | D1458: Nam | E1458: D25CQTN03-B | F1458: Trí tuệ nhân tạo
+A1459: 10 | B1459: B25DCTN036 | C1459: Phạm Minh Hiếu | D1459: Nam | E1459: D25CQTN03-B | F1459: Trí tuệ nhân tạo
+A1460: 10 | B1460: B25DCTN048 | C1460: Lưu Đình Hùng | D1460: Nam | E1460: D25CQTN03-B | F1460: Trí tuệ nhân tạo
+A1461: 10 | B1461: B25DCTN051 | C1461: Phạm Mạnh Hùng | D1461: Nam | E1461: D25CQTN03-B | F1461: Trí tuệ nhân tạo
+A1462: 10 | B1462: B25DCTN054 | C1462: Phan Tấn Hưng | D1462: Nam | E1462: D25CQTN03-B | F1462: Trí tuệ nhân tạo
+A1463: 10 | B1463: B25DCTN057 | C1463: Phạm Quang Nam Hải | D1463: Nam | E1463: D25CTTN01-B | F1463: Trí tuệ nhân tạo
+A1464: 10 | B1464: B25DCTN060 | C1464: Nguyễn Quang Hữu | D1464: Nam | E1464: D25CQTN03-B | F1464: Trí tuệ nhân tạo
+A1465: 10 | B1465: B25DCTN063 | C1465: Chu Duy Khánh | D1465: Nam | E1465: D25CQTN03-B | F1465: Trí tuệ nhân tạo
+A1466: 10 | B1466: B25DCTN066 | C1466: Hoàng Hữu Khôi | D1466: Nam | E1466: D25CQTN03-B | F1466: Trí tuệ nhân tạo
+A1467: 10 | B1467: B25DCTN069 | C1467: Nguyễn Công Khải | D1467: Nam | E1467: D25CQTN03-B | F1467: Trí tuệ nhân tạo
+A1468: 10 | B1468: B25DCTN072 | C1468: Trần Danh Kiên | D1468: Nam | E1468: D25CQTN03-B | F1468: Trí tuệ nhân tạo
+A1469: 10 | B1469: B25DCTN078 | C1469: Phạm Trọng Đại Lâm | D1469: Nam | E1469: D25CQTN03-B | F1469: Trí tuệ nhân tạo
+A1470: 10 | B1470: B25DCTN081 | C1470: Trương Nguyễn Nhật Minh | D1470: Nam | E1470: D25CQTN03-B | F1470: Trí tuệ nhân tạo
+A1471: 10 | B1471: B25DCTN084 | C1471: Nguyễn Kim Mạnh | D1471: Nam | E1471: D25CQTN03-B | F1471: Trí tuệ nhân tạo
+A1472: 10 | B1472: B25DCTN087 | C1472: Phạm Hoàng Nam | D1472: Nam | E1472: D25CQTN03-B | F1472: Trí tuệ nhân tạo
+A1473: 10 | B1473: B25DCTN090 | C1473: Đặng Đức Nghĩa | D1473: Nam | E1473: D25CQTN03-B | F1473: Trí tuệ nhân tạo
+A1474: 10 | B1474: B25DCTN093 | C1474: Nguyễn Hồng Phi | D1474: Nam | E1474: D25CTTN01-B | F1474: Trí tuệ nhân tạo
+A1475: 10 | B1475: B25DCTN096 | C1475: Phan Sỹ Hoàng Phương | D1475: Nam | E1475: D25CQTN03-B | F1475: Trí tuệ nhân tạo
+A1476: 10 | B1476: B25DCTN099 | C1476: Nguyễn Trần Minh Quang | D1476: Nam | E1476: D25CQTN03-B | F1476: Trí tuệ nhân tạo
+A1477: 10 | B1477: B25DCTN102 | C1477: Bùi Đàm Quân | D1477: Nam | E1477: D25CTTN01-B | F1477: Trí tuệ nhân tạo
+A1478: 10 | B1478: B25DCTN105 | C1478: Lê Thành Quý | D1478: Nam | E1478: D25CQTN03-B | F1478: Trí tuệ nhân tạo
+A1479: 10 | B1479: B25DCTN108 | C1479: Đỗ Hoàng Sơn | D1479: Nam | E1479: D25CQTN03-B | F1479: Trí tuệ nhân tạo
+A1480: 10 | B1480: B25DCTN111 | C1480: Ninh Đức Thành | D1480: Nam | E1480: D25CTTN01-B | F1480: Trí tuệ nhân tạo
+A1481: 10 | B1481: B25DCTN114 | C1481: Dương Tiến Thông | D1481: Nam | E1481: D25CQTN03-B | F1481: Trí tuệ nhân tạo
+A1482: 10 | B1482: B25DCTN117 | C1482: Nguyễn Quang Thế | D1482: Nam | E1482: D25CQTN03-B | F1482: Trí tuệ nhân tạo
+A1483: 10 | B1483: B25DCTN120 | C1483: Lê Ngọc Tiến | D1483: Nam | E1483: D25CQTN03-B | F1483: Trí tuệ nhân tạo
+A1484: 10 | B1484: B25DCTN123 | C1484: Nguyễn Lê Phúc Triết | D1484: Nam | E1484: D25CTTN01-B | F1484: Trí tuệ nhân tạo
+A1485: 10 | B1485: B25DCTN129 | C1485: Mai Đại Tân | D1485: Nam | E1485: D25CQTN03-B | F1485: Trí tuệ nhân tạo
+A1486: 10 | B1486: B25DCTN132 | C1486: Bùi Tuấn Tú | D1486: Nam | E1486: D25CQTN03-B | F1486: Trí tuệ nhân tạo
+A1487: 10 | B1487: B25DCTN135 | C1487: Đặng Tuấn Tú | D1487: Nam | E1487: D25CQTN03-B | F1487: Trí tuệ nhân tạo
+A1488: 10 | B1488: B25DCTN138 | C1488: Lê Văn Việt | D1488: Nam | E1488: D25CTTN01-B | F1488: Trí tuệ nhân tạo
+A1489: 10 | B1489: B25DCTN141 | C1489: Trần Công Việt | D1489: Nam | E1489: D25CQTN03-B | F1489: Trí tuệ nhân tạo
+A1490: 10 | B1490: B25DCTN144 | C1490: Trần Hải Đông | D1490: Nam | E1490: D25CTTN01-B | F1490: Trí tuệ nhân tạo
+A1491: 10 | B1491: B25DCTN147 | C1491: Phạm Tuấn Đạt | D1491: Nam | E1491: D25CTTN01-B | F1491: Trí tuệ nhân tạo
+A1492: 10 | B1492: B25DCTN150 | C1492: Đỗ Minh Đức | D1492: Nam | E1492: D25CQTN03-B | F1492: Trí tuệ nhân tạo

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
-const props = defineProps<{ busy: boolean; sentVersion: number }>()
+const props = defineProps<{ busy: boolean; sentVersion: number; draftToRestore: { text: string } | null }>()
 const emit = defineEmits<{ send: [text: string] }>()
 const draft = ref('')
 function submit() {
@@ -8,6 +8,7 @@ function submit() {
   emit('send', draft.value)
 }
 watch(() => props.sentVersion, () => { draft.value = '' })
+watch(() => props.draftToRestore, value => { if (value) draft.value = value.text })
 function onKeydown(event: KeyboardEvent) {
   if (event.key === 'Enter' && !event.shiftKey && !event.isComposing) {
     event.preventDefault()

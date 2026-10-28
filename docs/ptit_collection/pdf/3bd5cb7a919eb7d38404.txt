@@ -1,0 +1,370 @@
+### Trang 1
+
+ 
+ 
+ 
+BỘ THÔNG TIN VÀ TRUYỀN THÔNG 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG  
+---------- 
+ 
+ 
+ 
+ 
+HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG 
+ĐIỂM RÈN LUYỆN  
+Hướng dẫn dành cho Sinh viên trên Web 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Hà Nội, 2024 
+
+
+### Trang 2
+
+ 
+ 
+MỤC LỤC 
+I. ĐĂNG NHẬP.............................................................................................................. 2 
+II. KHAI BÁO MINH CHỨNG ĐIỂM RÈN LUYỆN ............................................... 3 
+1. Khai báo nội – ngoại trú ......................................................................................... 3 
+1.1. Khai báo nội – ngoại trú ................................................................................... 3 
+1.2. Chỉnh sửa thông tin khai báo nội – ngoại trú ................................................... 5 
+1.3. Xóa khai báo nội – ngoại trú ............................................................................ 6 
+2. Khai báo thông tin minh chứng khác ..................................................................... 8 
+2.1. Khai báo thông tin ............................................................................................ 8 
+2.2. Chỉnh sửa thông tin khai báo ......................................................................... 10 
+2.3. Xóa khai báo................................................................................................... 11 
+III. SỰ KIỆN ĐÃ THAM GIA ................................................................................... 13 
+IV. PHIẾU ĐIỂM RÈN LUYỆN ................ ERROR! BOOKMARK NOT DEFINED. 
+ 
+ 
+
+### Trang 3
+
+ 
+ 
+ 
+ 
+2 
+  
+I. ĐĂNG NHẬP 
+Bước 1: Truy cập vào trang website slink.ptit.edu.vn 
+Bước 2: Nhập email office 365 đã được học viện cấp để thực hiện đăng nhập  
+- Sau đó click vào Tiếp theo 
+ 
+Bước 3: Nhập mật khẩu, sau đó click vào Đăng nhập. 
+ 
+
+
+### Trang 4
+
+ 
+ 
+ 
+ 
+3 
+ Đăng nhập thành công. Màn hình Trang chủ hiển thị. 
+ 
+II. KHAI BÁO MINH CHỨNG ĐIỂM RÈN LUYỆN 
+1. Khai báo nội – ngoại trú 
+1.1. Khai báo nội – ngoại trú 
+- Sinh viên chỉ có thể thực hiện khai báo nội – ngoại trú trong thời gian quy định. 
+- Mỗi sinh viên chỉ cần thực hiện khai báo nội – ngoại trú một lần cho mỗi học kỳ. 
+Bước 1:  Sinh viên ch ọn menu Điểm rèn luy ện -> ch ọn m ục Khai báo minh 
+chứng 
+ 
+Bước 2: Màn hình khai báo các loại minh chứng ĐRL hiển thị 
+- Người dùng chọn Công tác nội ngoại trú 
+
+
+### Trang 5
+
+ 
+ 
+ 
+ 
+4 
+ 
+Bước 3: Chọn thao tác Thêm mới để thực hiện khai báo thông tin 
+ 
+Bước 4: Màn hình khai báo thông tin hiển thị 
+- Người dùng chọn phân loại cư trú 
+ 
+Bước 5: Màn hình khai báo tương ứng với phân loại cư trú hiển thị 
++ Phân loại Nội trú 
+ 
+
+
+### Trang 6
+
+ 
+ 
+ 
+ 
+5 
++ Phân loại Ngoại trú 
+ 
+Bước 6: Sinh viên thực hiện điền thông tin khai báo 
+Bước 7: Sau khi th ực hi ện khai báo đ ủ các trư ờng thông tin, ngư ời dùng b ấm 
+Thêm mới 
+ Màn hình hiển thị thêm mới thông tin thành công. Thông tin khai báo của sinh 
+viên hiển thị với trạng thái mặc định là Duyệt. 
+1.2. Chỉnh sửa thông tin khai báo nội – ngoại trú 
+- Sinh viên chỉ có thể thực hiện khai báo nội – ngoại trú trong thời gian quy định. 
+- Mỗi sinh viên chỉ cần thực hiện khai báo nội – ngoại trú một lần cho mỗi học kỳ. 
+Bước 1:  Sinh viên ch ọn menu Điểm rèn luy ện -> ch ọn m ục Khai báo minh 
+chứng 
+ 
+Bước 2: Màn hình khai báo các loại minh chứng ĐRL hiển thị 
+- Người dùng chọn Công tác nội ngoại trú 
+
+
+### Trang 7
+
+ 
+ 
+ 
+ 
+6 
+ 
+Bước 3: Chọn thao tác Chỉnh sửa ở cuối hàng khai báo muốn sửa thông tin 
+Lưu ý: Chỉ chỉnh sửa được với minh chứng ở trạng thái Chờ xử lý 
+ 
+Bước 4: Màn hình chỉnh sửa thông tin khai báo thông tin hiển thị 
+Bước 5:  Sau khi thực hiện khai báo đủ các trường thông tin, người dùng bấm Lưu 
+lại để gửi để cập nhật thông tin 
+ 
+ Màn hình hiển thị lưu thành công 
+1.3. Xóa khai báo nội – ngoại trú 
+- Mỗi sinh viên chỉ cần thực hiện khai báo nội – ngoại trú một lần cho mỗi học kỳ. 
+Bước 1:  Sinh viên ch ọn menu Điểm rèn luy ện -> ch ọn m ục Khai báo minh 
+chứng 
+
+
+### Trang 8
+
+ 
+ 
+ 
+ 
+7 
+ 
+Bước 2: Màn hình khai báo các loại minh chứng ĐRL hiển thị 
+- Người dùng chọn Công tác nội ngoại trú 
+ 
+Bước 3: Chọn thao tác Xóa ở cuối hàng khai báo muốn sửa thông tin 
+Lưu ý: Chỉ xóa được với minh chứng ở trạng thái Chờ xử lý 
+ 
+Bước 4: Xác nhận Ok để thực hiện xóa 
+ 
+
+
+### Trang 9
+
+ 
+ 
+ 
+ 
+8 
+2. Khai báo thông tin minh chứng khác 
+- Sinh viên chỉ có thể thực hiện khai báo trong thời gian quy định. 
+- Mỗi sinh viên, mỗi học kỳ có thể khai báo minh chứng Thành tích đặc biệt, Tuyên 
+truyền tích cực về Trường/Khoa, Tham gia công tác xã hội nhiều lần. 
+- Điểm với mỗi loại minh chứng tương ứng khi được duyệt là: 
+o Thành tích đặc biệt: 3 điểm (Mỗi minh chứng là 3đ, tối đa mục tiêu chí là 
+3đ) 
+o Tuyên truyền tích cực về Trường/Khoa: 1 điểm (Mỗi minh chứng là 1đ, 
+tối đa mục tiêu chí này là 3đ) 
+o Tham gia công tác xã hội: 1 điểm (Mỗi minh chứng là 1đ, tối đa mục tiêu 
+chí này là 4đ) 
+- Các tiêu chí có khai báo, chỉnh sửa và xóa tương tự nhau 
+2.1. Khai báo thông tin  
+Bước 1:  Sinh viên ch ọn menu Điểm rèn luy ện -> ch ọn m ục Khai báo minh 
+chứng 
+ 
+Bước 2: Màn hình khai báo các loại minh chứng ĐRL hiển thị 
+- Người dùng chọn Loại minh chứng muốn khai báo 
+
+
+### Trang 10
+
+ 
+ 
+ 
+ 
+9 
+ 
+Bước 3: Chọn thao tác Thêm mới để thực hiện khai báo thông tin 
+ 
+Bước 4: Màn hình khai báo thông tin hiển thị 
+ 
+
+
+### Trang 11
+
+ 
+ 
+ 
+ 
+10 
+Bước 5: Sau khi th ực hi ện khai báo đ ủ các trư ờng thông tin, ngư ời dùng b ấm 
+Thêm mới để gửi thông tin tới Ban cán sự lớp, Cố vấn học tập và Phòng Chính trị 
+& Công tác Sinh viên xét duyệt 
+ Màn hình hiển thị thêm mới thông tin thành công. Trạng thái mặc định là khai 
+báo là Chờ duyệt 
+2.2. Chỉnh sửa thông tin khai báo 
+- Sinh viên chỉ có thể thực hiện khai báo trong thời gian quy định. 
+Bước 1:  Sinh viên ch ọn menu Điểm rèn luy ện -> ch ọn m ục Khai báo minh 
+chứng 
+ 
+Bước 2: Màn hình khai báo các loại minh chứng ĐRL hiển thị 
+- Người dùng chọn Loại minh chứng muốn chỉnh sửa thông tin 
+ 
+Bước 3: Chọn thao tác Chỉnh sửa ở cuối hàng khai báo muốn sửa thông tin  
+
+
+### Trang 12
+
+ 
+ 
+ 
+ 
+11 
+ 
+Bước 4: Màn hình chỉnh sửa thông tin khai báo hiển thị 
+ 
+Bước 5: Sinh viên thực hiện điền thông tin chỉnh sửa khai báo 
+Sau khi thực hiện khai báo đủ các trường thông tin, người dùng bấm Lưu lại để 
+cập nhật thông tin khai báo  
+ Màn hình hiển thị cập nhật thông tin thành công.  
+2.3. Xóa khai báo 
+- Sinh viên chỉ có thể thực hiện khai báo trong thời gian quy định. 
+Bước 1:  Sinh viên ch ọn menu Điểm rèn luy ện -> ch ọn m ục Khai báo minh 
+chứng 
+
+
+### Trang 13
+
+ 
+ 
+ 
+ 
+12 
+ 
+Bước 2: Màn hình khai báo các loại minh chứng ĐRL hiển thị 
+- Người dùng chọn Loại minh chứng muốn xóa 
+ 
+Bước 3: Chọn thao tác Xóa ở cuối hàng khai báo muốn xóa thông tin  
+ 
+Bước 4: Ấn OK để xác nhận xóa khai báo 
+ 
+ Màn hình hiển thị xóa thành công 
+
+
+### Trang 14
+
+ 
+ 
+ 
+ 
+13 
+III. SỰ KIỆN ĐÃ THAM GIA 
+- Sau khi thực hiện quét mã QR đi ểm danh tham gia s ự kiện, người dùng có th ể 
+theo dõi thông tin những sự kiện mình đã tham gia 
+Bước 1: Sinh viên chọn menu Đánh giá điểm rèn luyện -> chọn mục Sự kiện đã 
+tham gia 
+ 
+=> Danh sách các sự kiện đã tham gia hiển thị 
+ 
+IV. PHIẾU ĐIỂM RÈN LUYỆN 
+- Sinh viên có thể thực hiện đánh giá phiếu điểm rèn luyện khi đến thời gian sinh 
+viên đánh giá 
+Bước 1: Sinh viên chọn menu Điểm rèn luyện -> chọn mục Phiếu điểm rèn luyện 
+ 
+
+
+### Trang 15
+
+ 
+ 
+ 
+ 
+14 
+ Thông tin đợt chấm điểm rèn luyện, thời gian sinh viên đư ợc thực hiện chấm 
+điểm và trạng thái đánh giá hiển thị 
+ 
+Bước 2: Thông tin mẫu phiếu chấm điểm rèn luyện hiển thị  
+Lưu ý: Những ô xám màu là những ô điểm hệ thống chấm, sinh viên chỉ được 
+điền điểm vào những ô trắng trong thời gian chấm điểm.
+ 
+Bước 3: Sinh viên nhập thông tin đánh giá điểm rèn luyện của mình 
+Bước 4: Sau khi hoàn thi ện nhập đủ thông tin, sinh viên có th ể Lưu và g ửi sau 
+hoặc Gửi ngay thông tin phiếu điểm rèn luyện 
+- Lưu và gửi sau: 
+
+
+### Trang 16
+
+ 
+ 
+ 
+ 
+15 
++ Người dùng ấn Lưu và gửi sau để lưu lại thông tin phiếu đã chấm điểm 
+ 
+ Lưu phiếu điểm rèn luyện thành công. Trạng thái của phiếu điểm chuyển 
+thành Đã lưu phiếu điểm, chưa gửi 
+ 
++ Sau khi lưu phiếu, người dùng có thể vào tiếp tục chỉnh sửa phiếu chấm điểm 
+rèn luyện. 
+- Gửi 
+- Người dùng ấn Gửi để gửi thông tin phiếu đã chấm điểm 
+ 
+ Gửi phiếu đánh gía điểm rèn luyện thành công, phiếu điểm sẽ được gửi đến 
+Ban cán sự lớp đánh giá và xét duyệt. Trạng thái của phiếu chuyển thành Đã gửi 
+Lưu ý: Nếu qua thời gian chấm điểm mà sinh viên không gửi phiếu điểm, hệ 
+thống sẽ tự tính bằng 0 điểm 
+ 
+
+
+### Trang 17
+
+ 
+ 
+ 
+ 
+16 
+V. KHIẾU NẠI 
+- Sinh viên có thể thực hiện khiếu nại phiếu điểm rèn luyện trong khoảng thời gian 
+phòng Chính trị và Công tác sinh viên thông báo 
+Bước 1: Sinh viên chọn menu Điểm rèn luyện -> chọn mục Phiếu điểm rèn luyện 
+ 
+ Thông tin đợt chấm điểm rèn luyện, thời gian sinh viên đư ợc thực hiện chấm 
+điểm và trạng thái đánh giá hiển thị 
+ 
+Bước 2:  Chọn thao tác Gửi khiếu nại để thực hiện khai báo thông tin 
+=> Màn hình Gửi khiếu nại hiển thị 
+ 
+
+
+### Trang 18
+
+ 
+ 
+ 
+ 
+17 
+Bước 3: Người dùng thực hiện nhập nội dung khiếu nại, trong đó ghi rõ nội dung, 
+thông tin, lý do đổi với điểm các mục tự chấm ở tiêu chí cụ thể, minh chứng kèm 
+theo nếu có. Sau đó ấn Gửi 
+ Màn hình hiển thị gửi khiếu nại thành công 
+ 
+=> Sinh viên có thể theo dõi trạng thái xử lý khiếu nại của phòng Chính trị và Công 
+tác sinh viên tại màn phiếu điểm này. 
+ 
+ 

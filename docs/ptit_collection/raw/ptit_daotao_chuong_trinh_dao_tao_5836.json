@@ -1,0 +1,78 @@
+{
+  "id": 5836,
+  "date": "2026-10-08T14:06:16",
+  "date_gmt": "2026-10-08T07:06:16",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=5836"
+  },
+  "modified": "2026-10-08T14:33:00",
+  "modified_gmt": "2026-10-08T07:33:00",
+  "slug": "chuong-trinh-thac-si-quan-ly-khoa-hoc-va-cong-nghe",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-thac-si-quan-ly-khoa-hoc-va-cong-nghe/",
+  "title": {
+    "rendered": "Chương trình Thạc sĩ Quản lý Khoa học và Công nghệ"
+  },
+  "featured_media": 1885,
+  "template": "",
+  "he_dao_tao": [
+    14021
+  ],
+  "class_list": [
+    "post-5836",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "he_dao_tao-nhom-cac-nganh-chuong-trinh-dao-tao-sau-dai-hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/5836",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/1885"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5836"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=5836"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

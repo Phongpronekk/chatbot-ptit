@@ -1,0 +1,127 @@
+{
+  "id": 32780,
+  "date": "2025-08-28T13:09:06",
+  "date_gmt": "2025-08-28T06:09:06",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32780"
+  },
+  "modified": "2025-08-28T13:10:09",
+  "modified_gmt": "2025-08-28T06:10:09",
+  "slug": "danh-sach-sinh-vien-khoa-2021-kinh-te-tt-da-phuong-tien-du-dieu-kien-xet-tot-nghiep-dot-thang-8-2025-bo-sung",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/danh-sach-sinh-vien-khoa-2021-kinh-te-tt-da-phuong-tien-du-dieu-kien-xet-tot-nghiep-dot-thang-8-2025-bo-sung/",
+  "title": {
+    "rendered": "Danh sách sinh viên khóa 2021 kinh tế, TT Đa phương tiện đủ điều kiện xét tốt nghiệp đợt tháng 8/2025 (Bổ sung)"
+  },
+  "content": {
+    "rendered": "<p>Phòng Giáo vụ thông báo:</p>\n<p>&#8211; Sau khi hoàn thiện việc rà soát cập nhật điểm học lại, học ghép của sinh viên khóa 2021 khối ngành kinh tế, TT Đa phương tiện trong học kỳ 2 năm học 2024-2025, danh sách sinh viên đủ điều kiện tốt nghiệp bổ sung thêm 71 sinh viên (danh sách kèm theo). Các sinh viên còn thiếu hồ sơ, chưa nộp lệ phí xét chuyển đổi điểm, chuẩn đầu ra tiếng Anh đề nghị khẩn trương hoàn thành để được xét tốt nghiệp.</p>\n<p>&#8211; Sinh viên đăng ký học lại học ghép trong học kỳ hè 2024-2025 sẽ được xét tốt nghiệp vào các đợt tiếp theo.</p>\n<p>&#8211; Chi tiết điểm sinh viên xem trên hệ thống QLĐT.</p>\n<p>Trân trọng ./.</p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/08/DS-D21-Kinh-te-28.8.2025.xlsx\">DS D21 Kinh tế 28.8.2025 (cập nhật)</a></p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Phòng Giáo vụ thông báo: &#8211; Sau khi hoàn thiện việc rà soát cập nhật điểm học lại, học ghép của sinh viên khóa 2021 khối ngành kinh tế, TT Đa phương tiện trong học kỳ 2 năm học 2024-2025, danh sách sinh viên đủ điều kiện tốt nghiệp bổ sung thêm 71 sinh viên [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32449,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    15,
+    4,
+    5,
+    6,
+    11
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32780",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ket-qua-xet-tot-nghiep-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi",
+    "category-thuc-tap-tot-nghiep"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32780",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32780"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32780/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32449"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32780"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32780"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32780"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 5281,
+  "date": "2026-04-13T15:34:12",
+  "date_gmt": "2026-04-13T08:34:12",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5281"
+  },
+  "modified": "2026-04-13T15:34:12",
+  "modified_gmt": "2026-04-13T08:34:12",
+  "slug": "quan-he-cong-chung",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/quan-he-cong-chung/",
+  "title": {
+    "rendered": "Quan hệ công chúng"
+  },
+  "content": {
+    "rendered": "<p>Mùa tuyển sinh đang tới gần, chắc hẳn các bạn lớp 12 đang có những dự định riêng khi chọn ngành, chọn trường, bên cạnh đó cũng có những bạn đang phân vân không biết chọn ngành nghề phù hợp cũng như môi trường học tập tốt để theo đuổi ngành nghề của mình. Do đó, chương trình Trà chiều cùng trường P sẽ giải đáp thắc mắc cho những bạn nào còn phân vân không biết chọn ngành nghề gì cho phù hợp cũng như giới thiệu qua các ngành nghề tại Học viện Công nghệ Bưu chính Viễn thông.</p>\n<p><iframe title=\"Ngành Quan hệ Công chúng | Học viện Công nghệ Bưu chính Viễn thông\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/kxXbUg5AH6E?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n<p>Brochure giới thiệu chương trình: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Quan-he-cong-chung.pdf\">Chương trình Quan hệ công chúng</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tổng quan về chương trình Quan hệ công chúng (ngành Marketing)</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5283,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    7
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5281",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_dinh_huong"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5281",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5281"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5281/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5283"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5281"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5281"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5281"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

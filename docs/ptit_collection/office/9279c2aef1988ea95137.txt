@@ -1,0 +1,591 @@
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+-3809990HỌC VIỆN CÔNG NGHỆ
+403446204470BƯU CHÍNH VIỄN THÔNG
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+10315722266950Độc lập - Tự do - Hạnh phúc 
+
+952500203200Hà Nội, ngày        tháng     năm 2026
+
+
+CHƯƠNG TRÌNH GIÁO DỤC
+
+Tên chương trình đào tạo (tiếng Việt): Truyền thông đại chúng
+Tên chương trình đào tạo (tiếng Anh): Mass Communication   
+Tên ngành (tiếng Việt):Truyền thông đại chúng
+Tên ngành (tiếng Anh):Mass Communication 
+Trình độ đào tạo:Thạc sĩ 
+Mã ngành:8320105
+Hình thức đào tạo:Chính quy 
+(Ban hành theo Quyết định số    /QĐ-HV ngày … tháng … năm 202   của Giám đốc Học viện)
+
+1. MỤC TIÊU
+1.1 Mục tiêu chung 
+Chương trình đào tạo Thạc sĩ ngành Truyền thông đại chúng của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo người học có phẩm chất chính trị, đạo đức nghề nghiệp, trách nhiệm xã hội, tư duy phản biện và năng lực tự chủ trong hoạt động chuyên môn; có kiến thức nâng cao về lý thuyết truyền thông, công chúng và dư luận xã hội, phương pháp nghiên cứu, dữ liệu truyền thông, công nghệ số và trí tuệ nhân tạo trong bối cảnh số hóa, toàn cầu hóa và nền tảng hóa truyền thông.
+Chương trình giúp người học phát triển năng lực nghiên cứu ứng dụng, phân tích, hoạch định chiến lược, thiết kế, sản xuất, quản trị, triển khai và đánh giá các chương trình, chiến dịch, nội dung và đề ántruyền thông đa nền tảng; có khả năng vận dụng dữ liệu, công nghệ số và AI một cách phù hợp, hiệu quả và có trách nhiệm; đáp ứng yêu cầu tham mưu, quản lý, nghiên cứu, tư vấn và triển khai truyền thông trong các cơ quan, tổ chức, doanh nghiệp và cộng đồng nghề nghiệp trong nước và quốc tế.
+1.2 Mục tiêu cụ thể (Program Objectives - POs): 
+Chương trình đào tạo Thạc sĩ Truyền thông đại chúng của Học viện Công nghệ Bưu chính Viễn thông nhằm giúp người học đạt được các mục tiêu cụ thể sau:
+PO1. Có nền tảng kiến thức nâng cao về lý thuyết truyền thông, công chúng, dư luận xã hội, truyền thông toàn cầu và bối cảnh văn hóa - xã hội để phân tích, đánh giá và phản biện các vấn đề truyền thông đương đại.
+PO2. Có năng lực thiết kế và thực hiện nghiên cứu ứng dụng trong truyền thông; thu thập, xử lý, phân tích dữ liệu truyền thông, dữ liệu công chúng và social listening; khai thác insight phục vụ hoạch định, triển khai và đánh giá hoạt động truyền thông dựa trên bằng chứng.
+PO3. Có năng lực thiết kế, sản xuất, quản trị và đánh giá các chiến lược, chương trình, chiến dịch, nội dung và đề ántruyền thông đa nền tảng phù hợp với mục tiêu của tổ chức, đặc điểm công chúng và bối cảnh thực tiễn.
+PO4. Có năng lực ứng dụng công nghệ số và trí tuệ nhân tạo trong phân tích công chúng, sáng tạo nội dung, tối ưu quy trình vận hành, kiểm chứng thông tin, nhận diện rủi ro truyền thông và đề xuất giải pháp phù hợp trong môi trường truyền thông số.
+PO5. Có ý thức tuân thủ pháp luật, đạo đức nghề nghiệp và trách nhiệm xã hội; có năng lực giao tiếp chuyên môn, phối hợp liên ngành, tự đánh giá, tự chủ, học tập suốt đời và thích ứng với sự thay đổi nhanh của môi trường truyền thông.
+2. CHUẨN ĐẦU RA
+Chương trình đào tạo trình độ thạc sĩ ngành Truyền thông đại chúng gồm 05 chuẩn đầu ra (Program Learning Outcomes - PLOs) và 10 chỉ báo đánh giá (Performance Indicators - PIs), cụ thể như sau:
+PLO - Chuẩn đầu ra
+Mức độ năng lực
+PI - Chỉ báo đánh giá
+PLO1: Vận dụng kiến thức nâng cao về lý thuyết truyền thông, công chúng và dư luận xã hội, bối cảnh văn hóa - xã hội, truyền thông toàn cầu và quá trình số hóa để phân tích, đánh giá và phản biện các vấn đề, chính sách, chiến lược và thực hành truyền thông trong các bối cảnh khác nhau.
+C5
+PI 1.1: Đánh giá được mức độ phù hợp và giá trị giải thích của các khung lý thuyết, cách tiếp cận đối với hiện tượng và vấn đề truyền thông phức tạp theo các tiêu chí xác định.
+
+P4 / A4
+PI 1.2: Phối hợp thành thạo các phương pháp phân tích và bằng chứng khoa học để xây dựng và bảo vệ các lập luận phản biện, nhận định và khuyến nghị đối với chính sách, chiến lược và thực hành truyền thông
+PLO2: Phân tích và thực hiện được nghiên cứu ứng dụng trong truyền thông; thu thập, xử lý, phân tích và diễn giải dữ liệu truyền thông, dữ liệu công chúng và social listening để hình thành insight và bằng chứng phục vụ hoạch định, triển khai và đánh giá hoạt động truyền thông.
+C4 / P4
+PI 2.1: Phân tích bối cảnh và yêu cầu nghiên cứu/đánh giá để xác định vấn đề, xây dựng câu hỏi nghiên cứu; phối hợp thành thạo các phương pháp phù hợp trong xây dựng công cụ và kế hoạch thu thập dữ liệu khả thi
+
+P4 / A4
+PI 2.2: Phối hợp thành thạo các phương pháp và công cụ trong thu thập, xử lý, phân tích và diễn giải dữ liệu truyền thông; phân tích báo cáo insight và bảo vệ các khuyến nghị dựa trên bằng chứng phục vụ ra quyết định truyền thông
+PLO3: Thiết kế, tổ chức sản xuất, triển khai, điều phối và đánh giá được các chiến lược, chương trình, chiến dịch, nội dung và đề ántruyền thông đa nền tảng phù hợp với mục tiêu tổ chức, đặc điểm công chúng và bối cảnh thực tiễn.
+C6
+PI 3.1: Xây dựng được đề xuất chiến lược/chương trình/đề án truyền thông có cấu trúc logic, mục tiêu rõ ràng, thông điệp phù hợp, công chúng và nền tảng được lựa chọn có căn cứ, cùng cơ sở lập luận thuyết phục
+
+P4
+PI 3.2: Phối hợp thành thạo các khâu sản xuất, triển khai, phân bổ nguồn lực, giám sát, đánh giá và điều chỉnh hoạt động truyền thông đa nền tảng trên cơ sở dữ liệu, phản hồi công chúng và mục tiêu tổ chức.
+PLO4: Ứng dụng được công nghệ số, dữ liệu và trí tuệ nhân tạo trong nghiên cứu công chúng, sáng tạo nội dung, tối ưu chiến lược, kiểm chứng thông tin, nhận diện và quản trị rủi ro truyền thông một cách phù hợp, hiệu quả và có trách nhiệm.
+C5
+PI 4.1: Đánh giá mức độ phù hợp, độ tin cậy và hiệu quả của các nền tảng số, công cụ dữ liệu, công cụ AI và quy trình kiểm chứng thông tin để lựa chọn giải pháp hỗ trợ phân tích, sáng tạo, phân phối, tối ưu hóa và đánh giá hoạt động truyền thông.
+
+P4
+PI 4.2: Phối hợp thành thạo các công cụ, tiêu chí và quy trình chuyên môn để nhận diện, đánh giá và xây dựng biện pháp kiểm soát rủi ro liên quan đến AI, dữ liệu, quyền riêng tư, bản quyền, sai lệch thông tin và khủng hoảng truyền thông số.
+PLO5: Áp dụng các chuẩn mực pháp luật, đạo đức nghề nghiệp và nguyên tắc trách nhiệm xã hội trong hoạt động truyền thông; đồng thời thể hiện năng lực giao tiếp chuyên môn, hợp tác, phản tư, tự đánh giá và học tập suốt đời để phát triển nghề nghiệp trong môi trường truyền thông biến động nhanh.
+A4/P4
+PI 5.1: Tích hợp nhất quán các quy định pháp luật, chuẩn mực đạo đức nghề nghiệp và nguyên tắc truyền thông có trách nhiệm vào đề xuất và triển khai hoạt động truyền thông, kể cả trong tình huống có xung đột lợi ích.
+
+P4 / A4
+PI 5.2: Phối hợp hiệu quả trong môi trường chuyên môn, bảo đảm trách nhiệm, tôn trọng khác biệt và thực hiện mục tiêu chung.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+3. KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: Khối lượng kiến thức toàn khóa là 60 tín chỉ 
+4. ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO
+4.1 Đối tượng tuyển sinh:
+- Là người đã tốt nghiệp trình độ đại học các ngành phù hợp theo quy định của Học viện Công nghệ Bưu chính Viễn thông. 
+- Có năng lực tiếng Anh từ bậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương theo Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông. 
+- Các điều kiện khác theo quy định tại Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông.
+4.2 Yêu cầu đầu vào: Đã tham dự kỳ tuyển sinh thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông và đủ điều kiện xét trúng tuyển trong kỳ tuyển sinh.
+5. QUY TRÌNH ĐÀO TẠO VÀ ĐIỀU KIỆN TỐT NGHIỆP
+5.1 Quy trình đào tạo
+Chương trình đào tạo được thực hiện trong thời gian 2 năm (4 học kỳ), trong đó 3 học kỳ tích lũy kiến thức tại Học viện và 1 kỳ tốt nghiệp. Với chương trình thạc sĩ định hướng ứng dụng, kỳ tốt nghiệp bao gồm thực tập tốt nghiệp tại tổ chức doanh nghiệp và làm đề án tốt nghiệp. 
+Học viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện. 
+5.2 Công nhận tốt nghiệp
+a) Các yêu cầu chung
+- Hoàn thành chương trình đào tạo với điểm tổng kết các học phần trong chương trình đào tạo đạt 5,5 (theo thang điểm 10) trở lên trong thời gian quy định;
+- Bảo vệ thành công luận văn/đề án, đạt điểm từ 5,5 (theo thang điểm 10)10 trở lên;
+- Có trình độ tiếng Anh đạt từ bậc 4 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương theo Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông;
+- Chấp hành đúng các quy chế, quy định hiện hành của Bộ GD&ĐT và của Học viện Công nghệ Bưu chính Viễn thông.
+b) Kết thúc khóa học, học viên được công nhận tốt nghiệp và được cấp bằng Thạc sĩ Truyền thông đại chúng hệ chính quy khi đã hội tụ đủ các tiêu chuẩn theo quy chế đào tạo trình độ thạc sĩ.
+6. THANG ĐIỂM
+Thực hiện theo thang điểm tín chỉ, trong đó điểm chữ (A, B, C, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần) 
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+Không đạt
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+
+Dưới 4,0
+F
+0,0
+7. NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO 
+7.1 Cấu trúc chương trình đào tạo
+STT
+Các khối kiến thức
+Số tín chỉ
+I.
+Khối kiến thức chung
+7 tín chỉ
+II.
+Khối kiến thức cơ sở ngành
+10 tín chỉ
+III.
+Khối kiến thức chuyên ngành
+27 tín chỉ
+IV.
+Khối kiến thức tốt nghiệp
+16 tín chỉ
+
+Tổng cộng:
+60 tín chỉ
+7.2 Nội dung chương trình đào tạo 
+7.2.1. Khối kiến thức chung
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+1
+Triết học (Philosophy)
+BAS4186
+3
+x
+
+1
+
+2
+Phương pháp nghiên cứu truyền thông nâng cao (Advanced Research Methods in Communication)
+MUL4101
+2
+x
+
+1
+
+3
+Công chúng, dư luận xã hội và truyền thông số (Publics, Public Opinion and Digital Communication)
+MUL4102
+2
+x
+
+1
+
+
+Tổng:
+
+7
+
+
+
+
+7.2.2. Kiến thức cơ sở ngành
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+4
+Lý thuyết truyền thông nâng cao (Advanced Communication Theory)
+MUL4303
+3
+x
+
+1
+
+5
+Phân tích dữ liệu và insight công chúng (Data Analytics and Audience Insight)
+MUL4304
+3
+x
+
+1
+
+Các học phần tự chọn (Chọn 2/5 học phần)
+ 
+
+
+
+
+6
+Công nghiệp văn hoá và truyền thông (Cultural and Media Industries)
+MUL4305
+2
+
+x
+2
+
+7
+Kinh tế báo chí - truyền thông (Economics of Journalism and Media)
+MUL4306
+2
+
+x
+2
+
+8
+Xây dựng thương hiệu truyền thông (Media Branding)
+MUL4307
+2
+
+x
+2
+
+9
+Truyền thông cho phát triển bền vững (Communication for Sustainable Development)
+MUL4308
+2
+
+x
+2
+
+10
+Phân tích diễn ngôn truyền thông (Media Discourse Analysis)
+MUL4309
+2
+
+x
+2
+
+
+Tổng:
+
+10
+
+
+
+
+7.2.3 Kiến thức chuyên ngành 
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+11
+Quản trị khủng hoảng truyền thông trong môi trường số (Digital Communication Crisis Management)
+MUL4410
+3
+x
+
+3
+MUL4304
+12
+Quản trị chiến lược truyền thông đa nền tảng (Strategic Multi-platform Communication Management)
+MUL4411
+3
+x
+
+2
+MUL4101
+13
+Quản trị sản xuất nội dung Audio-Video số (Digital Audio-Video Production Management)
+MUL4412
+3
+x
+
+2
+
+14
+AI trong truyền thông và sản xuất nội dung (AI in Communication and Content Production)
+MUL4413
+3
+x
+
+3
+
+15
+Sáng tạo nội dung và storytelling đa nền tảng (Content Creation and Multi-platform Storytelling)
+MUL4414
+3
+x
+
+2
+
+16
+Pháp luật, đạo đức và quản trị truyền thông có trách nhiệm (Law, Ethics and Responsible Communication Governance)
+MUL4415
+3
+x
+
+2
+
+Các học phần tự chọn (Chọn 3/6 học phần)
+ 
+
+
+
+
+17
+Quản trị truyền thông chính sách (Policy Communication Management)
+MUL4416
+3
+
+x
+3
+
+18
+Quản trị sự kiện trong truyền thông đại chúng (Event Management in Mass Communication)
+MUL4417
+3
+
+x
+3
+
+19
+Kiểm chứng thông tin và nhận diện truyền thông giả mạo (Information Verification and Detection of Deceptive Media)
+MUL4418
+3
+
+x
+3
+
+20
+Truyền thông thị giác số (Digital Visual Communication)
+MUL4419
+3
+
+x
+3
+
+21
+Ứng dụng AI trong phân tích công chúng và social listening
+(AI Applications in Audience Analysis and Social Listening)
+MUL4420
+3
+
+x
+3
+
+22
+Truyền thông nội bộ và văn hóa tổ chức (Internal Communication and Organizational Culture)
+MUL4421
+3
+
+x
+3
+
+
+Tổng:
+
+27
+
+
+
+
+7.2.4 Thực tập và tốt nghiệp
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+23
+Thực tập (Internship)
+MUL4522
+7
+x
+
+4
+MUL4415
+24
+Đề án tốt nghiệp (Media Project)
+MUL4523
+9
+x
+
+4
+MUL4415
+
+Tổng:
+
+16
+
+
+
+
+8. HƯỚNG DẪN THỰC HIỆN CHƯƠNG TRÌNH
+8.1 Kế hoạch học tập chuẩn (Chi tiết kèm theo)
+8.2 Tiến trình học tập chuẩn (Chi tiết kèm theo)
+Chương trình đào tạo được thiết kế triển khai trong 04 học kỳ, tương ứng 02 năm học. Trình tự các học phần được bố trí theo logic phát triển năng lực từ nền tảng lý thuyết, phương pháp nghiên cứu và phân tích dữ liệu ở học kỳ 1; đến các năng lực thiết kế, sản xuất và quản trị hoạt động truyền thông ở học kỳ 2; sau đó là các học phần chuyên sâu, cập nhật công nghệ và tự chọn định hướng ở học kỳ 3; và cuối cùng là thực tập và thực hiện Đề án truyền thông ở học kỳ 4.
+Việc bố trí kế hoạch học tập theo tiến trình trên nhằm bảo đảm học viên tích lũy kiến thức và kỹ năng theo hướng từ nền tảng đến ứng dụng, từ năng lực phân tích đến năng lực triển khai, từ lý thuyết đến giải quyết vấn đề thực tiễn; đồng thời bảo đảm sự liên kết giữa chuẩn đầu ra chương trình với các học phần và với Đề án truyền thông tốt nghiệp
+9. MÔ TẢ TÓM TẮT CÁC HỌC PHẦN CHÍNH
+9.1. Khối kiến thức chung
+TRIẾT HỌC
+Mã học phần: BAS4186
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần được cấu trúc thành 4 chương: Chương 1 gồm các nội dung về đặc trưng của triết học phương Tây, triết học phương Đông (trong đó có tư tưởng triết học Việt Nam, ở mức giản lược nhất) và triết học Mác; Chương 2 gồm các nội dung nâng cao về triết học Mác-Lênin trong giai đoạn hiện nay và vai trò thế giới quan, phương pháp luận của nó; Chương 3 đi sâu hơn vào quan hệ tương hỗ giữa triết học với các khoa học, làm rõ vai trò thế giới quan và phương pháp luận của triết học đối với sự phát triển khoa học và đối với việc nhận thức, giảng dạy và nghiên cứu các đối tượng thuộc lĩnh vực khoa học tự nhiên và công nghệ; Chương 4 phân tích những vấn đề về vai trò của các khoa học đối với đời sống xã hội.
+PHƯƠNG PHÁP NGHIÊN CỨU TRUYỀN THÔNG NÂNG CAO
+Mã học phần: MUL4101
+Số tín chỉ: 2
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên kiến thức và kỹ năng thiết kế, tổ chức và thực hiện nghiên cứu ứng dụng trong lĩnh vực truyền thông đại chúng. Nội dung học phần tập trung vào xác định vấn đề và câu hỏi nghiên cứu, lựa chọn thiết kế nghiên cứu định tính, định lượng và hỗn hợp; xây dựng công cụ thu thập dữ liệu; tổ chức lấy mẫu; xử lý, phân tích và diễn giải dữ liệu; và trình bày báo cáo nghiên cứu phục vụ ra quyết định truyền thông dựa trên bằng chứng. Học phần đồng thời nhấn mạnh đạo đức nghiên cứu, trách nhiệm dữ liệu và khả năng chuyển hóa kết quả nghiên cứu thành khuyến nghị có giá trị thực tiễn.
+CÔNG CHÚNG, DƯ LUẬN XÃ HỘI VÀ TRUYỀN THÔNG SỐ
+Mã học phần: MUL4102
+Số tín chỉ: 2
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp nền tảng lý thuyết và công cụ phân tích về công chúng, dư luận xã hội và sự hình thành, lan truyền, biến đổi của ý kiến công trong môi trường truyền thông số. Nội dung học phần tập trung vào các lý thuyết về công chúng, dư luận xã hội, thiết lập nghị trình, đóng khung, ảnh hưởng xã hội, truyền thông mạng lưới và hành vi công chúng trên nền tảng số. Học viên thực hành phân tích công chúng, theo dõi dư luận, đọc dữ liệu lắng nghe mạng xã hội và đánh giá tác động của truyền thông số tới nhận thức, thái độ và hành vi xã hội.
+9.2 Khối kiến thức Cơ sở ngành
+LÝ THUYẾT TRUYỀN THÔNG NÂNG CAO
+Mã học phần: MUL4303Số tín chỉ: 3Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp cho học viên các tiếp cận lý thuyết nâng cao trong nghiên cứu và phân tích truyền thông đại chúng, từ các lý thuyết kinh điển đến các lý thuyết đương đại về công chúng, dư luận xã hội, quyền lực truyền thông, văn hóa, nền tảng số và xã hội dữ liệu. Học phần giúp học viên phát triển năng lực lựa chọn, so sánh và vận dụng các khung lý thuyết để lý giải các hiện tượng truyền thông phức tạp, đồng thời tăng cường tư duy phản biện trong phân tích chính sách, chiến lược và thực hành truyền thông trong bối cảnh số hóa và toàn cầu hóa.
+PHÂN TÍCH DỮ LIỆU VÀ INSIGHT CÔNG CHÚNG
+Mã học phần: MUL4304
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên tư duy và kỹ năng nền tảng về phân tích dữ liệu truyền thông và dữ liệu công chúng trong môi trường số. Nội dung học phần bao gồm các loại dữ liệu và nguồn dữ liệu phổ biến trong truyền thông, các chỉ số cơ bản, quy trình phân tích dữ liệu, trực quan hóa dữ liệu, phân nhóm công chúng và diễn giải kết quả phân tích để hình thành insight công chúng. Học phần giúp người học phát triển năng lực ra quyết định dựa trên bằng chứng trong hoạch định chiến lược, thiết kế nội dung, tối ưu trải nghiệm công chúng và đo lường hiệu quả hoạt động truyền thông, đồng thời nhấn mạnh trách nhiệm trong thu thập, khai thác và sử dụng dữ liệu.
+CÔNG NGHIỆP VĂN HÓA VÀ TRUYỀN THÔNG
+Mã học phần: MUL4305
+Số tín chỉ: 2
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp khung lý thuyết và công cụ phân tích về công nghiệp văn hóa và truyền thông trong bối cảnh số và toàn cầu hóa. Người học được tiếp cận các vấn đề như cấu trúc thị trường, chuỗi giá trị sáng tạo, mô hình kinh doanh, quyền sở hữu trí tuệ, nền tảng số, lao động sáng tạo, chính sách văn hóa và trách nhiệm xã hội. Thông qua bài giảng, thảo luận và phân tích tình huống, học viên phát triển năng lực đánh giá môi trường ngành, nhận diện xu hướng và đề xuất giải pháp phát triển sản phẩm, dịch vụ hoặc mô hình truyền thông phù hợp với bối cảnh Việt Nam.
+KINH TẾ BÁO CHÍ - TRUYỀN THÔNG
+Mã học phần: MUL4306
+Số tín chỉ: 2
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp cho học viên nền tảng kinh tế học ứng dụng trong lĩnh vực báo chí và truyền thông, giúp người học hiểu rõ các động lực thị trường, mô hình doanh thu - chi phí và áp lực thương mại hóa tác động đến sản xuất nội dung và ra quyết định truyền thông. Nội dung học phần tập trung vào các khái niệm như kinh tế chú ý, thị trường công chúng, thị trường quảng cáo, thị trường hai mặt, hiệu ứng mạng lưới, mô hình thuê bao, quảng cáo, tài trợ, cấp phép và dữ liệu. Học viên được rèn luyện năng lực đọc các chỉ số kinh doanh - công chúng cơ bản, đánh giá tác động của sở hữu, hội tụ và nền tảng hóa đến chất lượng thông tin và lợi ích công chúng.
+XÂY DỰNG THƯƠNG HIỆU TRUYỀN THÔNG
+Mã học phần:  MUL4307
+Số tín chỉ: 2
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên kiến thức và kỹ năng về xây dựng và quản trị thương hiệu trong lĩnh vực báo chí - truyền thông và các tổ chức sử dụng truyền thông như một công cụ chiến lược. Nội dung học phần bao gồm bản sắc thương hiệu, định vị thương hiệu, kiến trúc thương hiệu, trải nghiệm thương hiệu, quản trị danh tiếng và xây dựng câu chuyện thương hiệu. Thông qua nghiên cứu tình huống, workshop và bài tập nhóm, học viên thực hành phân tích thương hiệu, xây dựng định vị và đề xuất chiến lược thông điệp, nội dung và trải nghiệm phù hợp với mục tiêu của tổ chức.
+TRUYỀN THÔNG CHO PHÁT TRIỂN BỀN VỮNG
+Mã học phần:  MUL4308
+Số tín chỉ: 2
+Học phần tiên quyết:
+Tóm tắt nội dung: Học phần trang bị cho học viên khung lý thuyết và công cụ thực hành về truyền thông cho phát triển bền vững, tập trung vào cách truyền thông góp phần thúc đẩy thay đổi hành vi, tăng cường sự tham gia của cộng đồng và hỗ trợ vận động chính sách. Học phần giúp học viên phân tích bối cảnh, xác định các bên liên quan, lựa chọn giải pháp truyền thông phù hợp và thiết kế chiến dịch truyền thông đa nền tảng dựa trên bằng chứng, đồng thời nhận diện và kiểm soát các rủi ro như truyền thông xanh hình thức, thông tin sai lệch và xung đột lợi ích.
+PHÂN TÍCH DIỄN NGÔN TRUYỀN THÔNG
+Mã học phần: MUL4309
+Số tín chỉ: 2
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp cho học viên các tiếp cận và công cụ phân tích diễn ngôn trong truyền thông đại chúng, tập trung vào việc nhận diện cấu trúc ngôn ngữ, khung nghĩa, chiến lược biểu đạt, quyền lực biểu tượng và hệ tư tưởng trong các sản phẩm truyền thông. Học viên được rèn luyện kỹ năng phân tích ngôn ngữ, hình ảnh và ngữ cảnh truyền thông, so sánh diễn ngôn giữa các nền tảng và đánh giá ảnh hưởng của diễn ngôn đối với nhận thức công chúng, bản sắc xã hội và quá trình kiến tạo ý nghĩa trong môi trường số.
+9.3 Khối kiến thức chuyên ngành
+QUẢN TRỊ KHỦNG HOẢNG TRUYỀN THÔNG TRONG MÔI TRƯỜNG SỐ
+Mã học phần: MUL4410
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên hệ thống kiến thức và kỹ năng ứng dụng về dự báo, phát hiện sớm, lập kế hoạch và tổ chức triển khai ứng phó khủng hoảng truyền thông trong môi trường số đa nền tảng. Học viên được tiếp cận các vấn đề như lắng nghe mạng xã hội, bản đồ rủi ro và các bên liên quan, thiết kế thông điệp phản hồi, quy trình phối hợp liên bộ phận, mô phỏng khủng hoảng và xây dựng kịch bản xử lý khủng hoảng số. Học phần đồng thời nhấn mạnh các yêu cầu pháp lý, đạo đức và trách nhiệm xã hội trong xử lý thông tin, dữ liệu và truyền thông trong bối cảnh khủng hoảng.
+QUẢN TRỊ CHIẾN LƯỢC TRUYỀN THÔNG ĐA NỀN TẢNG
+Mã học phần: MUL4411
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần giúp học viên hình thành tư duy chiến lược trong thiết kế, triển khai và tối ưu các hoạt động truyền thông trên nhiều kênh và nhiều nền tảng trong cùng một hệ thống mục tiêu tích hợp. Nội dung học phần tập trung vào phân tích bối cảnh, xác định mục tiêu và công chúng, lựa chọn kiến trúc kênh, thiết kế thông điệp, lập kế hoạch nội dung, phân bổ nguồn lực, quản trị chỉ số hiệu quả và đánh giá chiến lược truyền thông đa nền tảng. Học phần chú trọng năng lực ra quyết định dựa trên dữ liệu, bảo đảm tính nhất quán của thông điệp và khả năng điều chỉnh chiến lược theo phản hồi của công chúng và yêu cầu của tổ chức.
+QUẢN TRỊ SẢN XUẤT NỘI DUNG AUDIO-VIDEO SỐ
+Mã học phần: MUL4412
+Số tín chỉ: 3
+Học phần tiên quyết:
+Tóm tắt nội dung: Học phần trang bị cho học viên tư duy và kỹ năng quản trị sản xuất nội dung âm thanh - hình ảnh trong môi trường số, tập trung vào tổ chức quy trình tiền kỳ, sản xuất, hậu kỳ và phát hành. Trên cơ sở brief và mục tiêu truyền thông, học viên thực hành phát triển ý tưởng, viết kịch bản hoặc rundown, lập kế hoạch sản xuất, quản trị ê-kíp, tiến độ, ngân sách, chất lượng, tư liệu và phiên bản nội dung. Học phần đồng thời nhấn mạnh yêu cầu pháp lý, đạo đức, chuẩn mực nghề nghiệp và tiêu chuẩn bàn giao trong sản xuất nội dung audio-video số.
+AI TRONG TRUYỀN THÔNG VÀ SẢN XUẤT NỘI DUNG
+Mã học phần:  MUL4413
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên kiến thức và kỹ năng ứng dụng trí tuệ nhân tạo trong hoạt động truyền thông và sản xuất nội dung số. Nội dung học phần tập trung vào các công cụ AI hỗ trợ nghiên cứu công chúng, phát triển ý tưởng, viết nội dung, tạo hình ảnh, âm thanh, video, tối ưu quy trình sản xuất và nâng cao hiệu quả vận hành truyền thông. Học phần đồng thời giúp học viên nhận diện các giới hạn và rủi ro của AI như thiên lệch dữ liệu, ảo giác, bản quyền, quyền riêng tư, tính minh bạch nguồn và trách nhiệm nghề nghiệp, từ đó biết sử dụng AI như công cụ hỗ trợ một cách hiệu quả và có trách nhiệm.
+SÁNG TẠO NỘI DUNG VÀ STORYTELLING ĐA NỀN TẢNG
+Mã học phần: MUL4414
+Số tín chỉ: 3
+Học phần tiên quyết:
+Tóm tắt nội dung: Học phần tập trung phát triển năng lực sáng tạo nội dung và kể chuyện đa nền tảng trong bối cảnh truyền thông số. Học viên được rèn luyện từ nghiên cứu công chúng, xác định nhu cầu và động cơ tiếp nhận thông tin, xây dựng thông điệp và ý tưởng lớn đến phát triển tuyến kể chuyện, kịch bản, storyboard, lựa chọn định dạng, tổ chức sản xuất, phân phối và tối ưu nội dung trên các nền tảng khác nhau. Học phần được triển khai theo hướng studio và workshop với các đề bài gần thực tế, yêu cầu học viên thiết kế và bảo vệ phương án nội dung, đồng thời tuân thủ pháp lý, đạo đức và chuẩn mực truyền thông có trách nhiệm.
+PHÁP LUẬT, ĐẠO ĐỨC VÀ QUẢN TRỊ TRUYỀN THÔNG CÓ TRÁCH NHIỆM
+Mã học phần: MUL4415
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên hệ thống kiến thức và năng lực thực hành về khung pháp lý, chuẩn mực đạo đức nghề nghiệp và các nguyên tắc truyền thông có trách nhiệm trong hoạt động báo chí - truyền thông và truyền thông số. Học viên được rèn luyện kỹ năng nhận diện và xử lý các tình huống phức tạp liên quan đến dữ liệu cá nhân, quyền riêng tư, sở hữu trí tuệ, quảng cáo, thông tin sai lệch, thiên lệch, xung đột lợi ích và quản trị rủi ro pháp lý - đạo đức trong tổ chức truyền thông. Học phần góp phần hình thành năng lực xây dựng quy trình kiểm soát rủi ro và thực hành truyền thông chuyên nghiệp, minh bạch và có trách nhiệm xã hội.
+QUẢN TRỊ TRUYỀN THÔNG CHÍNH SÁCH
+Mã học phần: MUL4416
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị kiến thức và kỹ năng quản trị truyền thông chính sách trong khu vực công và các tổ chức tham gia hoạch định, triển khai chính sách. Nội dung tập trung vào mối quan hệ giữa chu trình chính sách và hoạt động truyền thông; phân tích bối cảnh, công chúng và các bên liên quan; thiết kế chiến lược thông điệp dựa trên bằng chứng; lựa chọn kênh và tổ chức vận hành chiến dịch truyền thông chính sách. Học phần nhấn mạnh các yêu cầu về minh bạch, trách nhiệm giải trình, tuân thủ pháp lý, quản trị rủi ro và khả năng tạo đồng thuận xã hội.
+QUẢN TRỊ SỰ KIỆN TRONG TRUYỀN THÔNG ĐẠI CHÚNG
+Mã học phần: MUL4417
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần trang bị cho học viên nền tảng lý thuyết và kỹ năng quản trị sự kiện trong bối cảnh truyền thông đại chúng và môi trường số. Nội dung học phần tập trung vào vai trò của sự kiện như một công cụ chiến lược trong truyền thông tích hợp, quan hệ công chúng và xây dựng trải nghiệm thương hiệu; quy trình quản trị sự kiện từ hình thành mục tiêu, thiết kế concept, lập ngân sách, lập kế hoạch truyền thông, huy động nguồn lực đến vận hành hiện trường, quản trị rủi ro và đo lường hiệu quả. Học viên thực hành xây dựng hồ sơ đề án sự kiện và kế hoạch triển khai, đồng thời chú trọng yêu cầu pháp lý, đạo đức và trách nhiệm xã hội trong tổ chức sự kiện.
+KIỂM CHỨNG THÔNG TIN VÀ NHẬN DIỆN TRUYỀN THÔNG GIẢ MẠO
+Mã học phần: MUL4418
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp cho học viên kiến thức và kỹ năng kiểm chứng thông tin trong môi trường truyền thông số, tập trung vào phát hiện thông tin sai lệch, nhận diện nội dung bị thao túng, truyền thông giả mạo, deepfake, nội dung nhân tạo tổng hợp và các hình thức đánh lừa bằng hình ảnh, âm thanh, video hoặc ngữ cảnh. Học viên thực hành quy trình kiểm chứng thông tin, truy vết nguồn, kiểm tra tính xác thực của nội dung số, đánh giá rủi ro lan truyền và xây dựng khuyến nghị ứng phó trong bối cảnh tổ chức, báo chí, truyền thông chính sách và khủng hoảng truyền thông.
+TRUYỀN THÔNG THỊ GIÁC SỐ
+Mã học phần: MUL4419
+Số tín chỉ: 3
+Học phần tiên quyết:
+Tóm tắt nội dung: Học phần cung cấp nền tảng và kỹ năng nâng cao về truyền thông thị giác trong môi trường số, tập trung vào cơ chế tri giác - chú ý, ngôn ngữ thị giác, các nguyên tắc thiết kế như bố cục, màu sắc, chữ, tính nhất quán thương hiệu và khả năng tiếp cận. Trên cơ sở làm việc với brief và dữ liệu, học viên thực hành phân tích, thiết kế, kiểm thử và tối ưu hóa các sản phẩm truyền thông thị giác trên nhiều nền tảng như mạng xã hội, website, báo điện tử, infographic và video ngắn, đồng thời tuân thủ các yêu cầu pháp lý và đạo đức trong sử dụng hình ảnh và dữ liệu.
+ỨNG DỤNG AI TRONG PHÂN TÍCH CÔNG CHÚNG VÀ SOCIAL LISTENING
+Mã học phần: MUL4420
+Số tín chỉ: 3
+Học phần tiên quyết:
+Tóm tắt nội dung: Học phần được xây dựng trên nền kiến thức về dữ liệu và công chúng, tập trung vào cách ứng dụng AI trong phân tích công chúng và social listening nhằm hỗ trợ giám sát thảo luận số, nhận diện chủ đề, phát hiện xu hướng, phân tích cảm xúc - thái độ, phân cụm hội thoại và cảnh báo sớm rủi ro truyền thông. Nội dung học phần nhấn mạnh thiết kế workflow phân tích hỗ trợ bởi AI, kiểm soát chất lượng đầu ra, human-in-the-loop, đối soát kết quả, quyền riêng tư, minh bạch và trách nhiệm dữ liệu. Học phần không đi sâu vào sản xuất nội dung bằng AI và không lặp lại các nội dung nền tảng về hệ sinh thái dữ liệu, chỉ số hay dashboard đã được giới thiệu ở học phần Phân tích dữ liệu và insight công chúng
+TRUYỀN THÔNG NỘI BỘ VÀ VĂN HÓA TỔ CHỨC
+Mã học phần: MUL4421
+Số tín chỉ: 3
+Học phần tiên quyết: 
+Tóm tắt nội dung: Học phần cung cấp cho học viên khung lý thuyết và công cụ quản trị truyền thông nội bộ trong tổ chức trong bối cảnh chuyển đổi số. Nội dung tập trung vào vai trò của truyền thông nội bộ đối với gắn kết nhân viên, xây dựng niềm tin, quản trị thay đổi và nuôi dưỡng văn hóa tổ chức; các hệ thống kênh nội bộ; phân tích dữ liệu hành vi và mức độ gắn kết; thiết kế chiến lược, kế hoạch nội dung và quản trị cộng đồng nhân viên. Học viên thực hành xây dựng đề xuất truyền thông nội bộ khả thi, phù hợp với mục tiêu tổ chức và trải nghiệm của người lao động.
+9.4 Khối kiến thức tốt nghiệp
+THỰC TẬP
+Mã học phần: MUL4522
+Số tín chỉ: 7
+Học phần tiên quyết: Pháp luật, đạo đức và quản trị truyền thông có trách nhiệm
+Tóm tắt nội dung: Học phần Thực tập là học phần bắt buộc ở học kỳ cuối của chương trình Thạc sĩ Truyền thông đại chúng theo định hướng ứng dụng. Mục tiêu của học phần là tạo cơ hội để học viên vận dụng kiến thức và kỹ năng chuyên môn vào môi trường làm việc thực tế tại các cơ quan, tổ chức, doanh nghiệp hoạt động trong lĩnh vực báo chí - truyền thông, truyền thông số, thương hiệu, nội dung, truyền thông tổ chức hoặc truyền thông chính sách. Trong thời gian thực tập, học viên tham gia trực tiếp vào công việc, dự án thực tế dưới sự hướng dẫn của giảng viên và đơn vị tiếp nhận; thực hành tuân thủ pháp lý, đạo đức nghề nghiệp; phối hợp nhóm; thu thập và phân tích dữ liệu; đánh giá bối cảnh và đề xuất giải pháp truyền thông phù hợp.
+ĐỀ ÁN TỐT NGHIỆP
+Mã học phần: MUL4523
+Số tín chỉ: 9
+Học phần tiên quyết: Pháp luật, đạo đức và quản trị truyền thông có trách nhiệm
+Tóm tắt nội dung: Học phần Đề án truyền thông là học phần tổng hợp ở học kỳ cuối, yêu cầu học viên vận dụng kiến thức, kỹ năng và năng lực nghề nghiệp đã tích lũy để giải quyết một vấn đề thực tiễn phức hợp trong lĩnh vực truyền thông đại chúng. Học viên có thể thực hiện đề án theo hướng thiết kế chiến lược, chương trình, chiến dịch, mô hình truyền thông, giải pháp nội dung hoặc giải pháp ứng dụng công nghệ trong truyền thông; trên cơ sở phân tích bối cảnh, công chúng, dữ liệu và các điều kiện triển khai thực tế. Kết quả đầu ra của học phần bao gồm một đề án truyền thông hoàn chỉnh kèm báo cáo chi tiết, trong đó thể hiện rõ cơ sở lý luận, phương pháp tiếp cận, quy trình triển khai, kết quả, chỉ số đánh giá, hiệu quả thực tiễn, yêu cầu pháp lý - đạo đức và khả năng bảo vệ giải pháp trước hội đồng.
+
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+
+
+
+
+PGS.TS Trần Quang Anh

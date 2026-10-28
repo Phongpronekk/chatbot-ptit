@@ -1,0 +1,120 @@
+{
+  "id": 32980,
+  "date": "2025-10-22T16:37:59",
+  "date_gmt": "2025-10-22T09:37:59",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32980"
+  },
+  "modified": "2025-10-22T16:38:41",
+  "modified_gmt": "2025-10-22T09:38:41",
+  "slug": "huy-cac-lop-hoc-phan-dot-hoc-lop-rieng-hoc-ky-1-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/huy-cac-lop-hoc-phan-dot-hoc-lop-rieng-hoc-ky-1-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Hủy các lớp học phần đợt học lớp riêng, học kỳ 1 năm học 2025-2026"
+  },
+  "content": {
+    "rendered": "<p><strong><em><u>Kính gửi:</u></em></strong><strong>    Các lớp sinh viên Đại học chính quy cơ sở đào tạo Hà Nội</strong></p>\n<p>Căn cứ vào kết quả đăng ký học thực tế của sinh viên sau thời hạn đăng ký thời khóa biểu các học phần, phòng Giáo vụ thông báo hủy một số lớp học phần của đợt học lớp riêng, học kỳ 1 năm học 2025-2026, cụ thể như sau:</p>\n<ol>\n<li><strong>Hủy </strong><strong>10 </strong><strong>lớp học phần </strong>do số lượng sinh viên đăng ký thời khóa biểu không đủ điều kiện mở lớp:</li>\n</ol>\n<table width=\"595\">\n<tbody>\n<tr>\n<td width=\"74\"><strong>Số TT</strong></td>\n<td width=\"143\"><strong>Mã môn học</strong></td>\n<td width=\"378\"><strong>Tên môn học</strong></td>\n</tr>\n<tr>\n<td width=\"74\">1</td>\n<td width=\"143\">BSA1310</td>\n<td width=\"378\">Kinh tế vi mô 1</td>\n</tr>\n<tr>\n<td width=\"74\">2</td>\n<td width=\"143\">ELE13100</td>\n<td width=\"378\">Cấu kiện điện tử</td>\n</tr>\n<tr>\n<td width=\"74\">3</td>\n<td width=\"143\">ELE14103</td>\n<td width=\"378\">Chuyên đề xử lý tín hiệu và truyền thông</td>\n</tr>\n<tr>\n<td width=\"74\">4</td>\n<td width=\"143\">ELE1432</td>\n<td width=\"378\">Xử lý tiếng nói</td>\n</tr>\n<tr>\n<td width=\"74\">5</td>\n<td width=\"143\">INT13111</td>\n<td width=\"378\">Kỹ thuật đồ họa</td>\n</tr>\n<tr>\n<td width=\"74\">6</td>\n<td width=\"143\">INT1336</td>\n<td width=\"378\">Mạng máy tính</td>\n</tr>\n<tr>\n<td width=\"74\">7</td>\n<td width=\"143\">INT14149</td>\n<td width=\"378\">IoT và ứng dụng</td>\n</tr>\n<tr>\n<td width=\"74\">8</td>\n<td width=\"143\">TEL1450</td>\n<td width=\"378\">SDN &amp; NFV</td>\n</tr>\n<tr>\n<td width=\"74\">9</td>\n<td width=\"143\">TEL1470</td>\n<td width=\"378\">Hệ thống và mạng thông tin vô tuyến tiên tiến</td>\n</tr>\n<tr>\n<td width=\"74\">10</td>\n<td width=\"143\">TEL1471</td>\n<td width=\"378\">Phát triển hệ thống và ứng dụng IoT</td>\n</tr>\n</tbody>\n</table>\n<ol start=\"2\">\n<li><strong>Đối với các sinh viên đã đăng ký thời khóa biểu các lớp học phần hủy ở trên: </strong>Phòng Giáo vụ sẽ thực hiện việc hủy kết quả đăng ký của sinh viên trên hệ thống, sinh viên không cần phải thực hiện thao tác hủy học phần trên hệ thống qldt cũng như không cần phải làm Đơn đề nghị hủy.</li>\n</ol>\n<p><em>Trân trọng.<u>/.</u></em></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi:    Các lớp sinh viên Đại học chính quy cơ sở đào tạo Hà Nội Căn cứ vào kết quả đăng ký học thực tế của sinh viên sau thời hạn đăng ký thời khóa biểu các học phần, phòng Giáo vụ thông báo hủy một số lớp học phần của đợt học lớp [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    10,
+    9,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32980",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-dang-ky-hoc-phan-vi",
+    "category-ke-hoach-dao-tao",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32980",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32980"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32980/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32980"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32980"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32980"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

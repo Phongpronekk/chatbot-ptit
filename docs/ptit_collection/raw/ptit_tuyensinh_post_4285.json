@@ -1,0 +1,119 @@
+{
+  "id": 4285,
+  "date": "2025-05-18T06:05:09",
+  "date_gmt": "2025-05-17T23:05:09",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4285"
+  },
+  "modified": "2025-09-11T21:57:45",
+  "modified_gmt": "2025-09-11T14:57:45",
+  "slug": "bao-cao-ket-qua-thuc-hien-chi-tieu-nam-2024-va-xac-dinh-chi-tieu-tuyen-sinh-nam-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/bao-cao-ket-qua-thuc-hien-chi-tieu-nam-2024-va-xac-dinh-chi-tieu-tuyen-sinh-nam-2025/",
+  "title": {
+    "rendered": "Báo cáo kết quả thực hiện chỉ tiêu năm 2024 và xác định chỉ tiêu tuyển sinh năm 2025"
+  },
+  "content": {
+    "rendered": "<p>1. Cơ sở đào tạo Hà Nội (mã BVH)</p>\n<ul>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-1.pdf\">Báo cáo xác định chỉ tiêu</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-2-.pdf\">Thông tin kiểm định</a></li>\n</ul>\n<p>2. Cơ sở đào tạo tại thành phố Hồ Chí Minh (mã BVS)</p>\n<ul>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-3.pdf\">Báo cáo xác định chỉ tiêu</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-4.pdf\">Thông tin kiểm định</a></li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>1. Cơ sở đào tạo Hà Nội (mã BVH) Báo cáo xác định chỉ tiêu Thông tin kiểm định 2. Cơ sở đào tạo tại thành phố Hồ Chí Minh (mã BVS) Báo cáo xác định chỉ tiêu Thông tin kiểm định</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 4144,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    5
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4285",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_tuyen_sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4285",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4285"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4285/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4144"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4285"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4285"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4285"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

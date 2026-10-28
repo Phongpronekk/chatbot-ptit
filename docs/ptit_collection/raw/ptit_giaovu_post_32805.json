@@ -1,0 +1,123 @@
+{
+  "id": 32805,
+  "date": "2025-09-05T10:00:17",
+  "date_gmt": "2025-09-05T03:00:17",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32805"
+  },
+  "modified": "2025-09-05T10:00:17",
+  "modified_gmt": "2025-09-05T03:00:17",
+  "slug": "danh-sach-sinh-vien-du-dieu-kien-duoc-tiep-nhan-vao-o-noi-tru-tai-ky-tuc-xa-b2-co-so-dao-tao-ha-dong-khoa-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/danh-sach-sinh-vien-du-dieu-kien-duoc-tiep-nhan-vao-o-noi-tru-tai-ky-tuc-xa-b2-co-so-dao-tao-ha-dong-khoa-2025/",
+  "title": {
+    "rendered": "Danh sách sinh viên đủ điều kiện được tiếp nhận vào ở nội trú tại ký túc xá B2, Cơ sở Đào tạo Hà Đông (khóa 2025)"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ đơn xin vào ở nội trú của sinh viên khóa 2025 trong các ngày nhập học 03 và 04/9/2025</p>\n<p>Học viện đã xem xét và phê duyệt danh sách sinh viên đủ điều kiện được tiếp nhận vào ở nội trú tại ký túc xá B2, Cơ sở Đào tạo Hà Đông (Chi tiết tại file đính kèm).</p>\n<p>Đề nghị những sinh viên có tên trong danh sách liên hệ với Trung tâm Dịch vụ <em>(Anh Nguyễn Quang Khải, số điện thoại 0914186266)</em> để làm các thủ nhận phòng ở tại ký túc xá B2.</p>\n<p>Trân trọng ./.</p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/Danh-sach-SV-khoa-2025-o-noi-tru-khong-thuoc-doi-tuong-uu-tien.xlsx\">Danh sách SV khoa 2025 ở nội trú (không thuộc doi tuong uu tien)</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ đơn xin vào ở nội trú của sinh viên khóa 2025 trong các ngày nhập học 03 và 04/9/2025 Học viện đã xem xét và phê duyệt danh sách sinh viên đủ điều kiện được tiếp nhận vào ở nội trú tại ký túc xá B2, Cơ sở Đào tạo Hà Đông (Chi [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32454,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32805",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32805",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32805"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32805/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32454"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32805"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32805"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32805"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

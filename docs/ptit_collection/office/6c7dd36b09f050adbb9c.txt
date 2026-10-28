@@ -1,0 +1,27 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ - NGÀNH MARKETING
+A4: NĂM HỌC THỨ NHẤT | G4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học | C6: 3 | D6: HK1 | F6: 1 | G6: Quản trị thương hiệu trong môi trường số | H6: 3 | I6: HK3
+A7: 2 | B7: Phương pháp nghiên cứu khoa học | C7: 2 | D7: HK1 | F7: 2 | G7: Chuyên đề thạc sĩ về marketing đương đại | H7: 3 | I7: HK3
+A8: 3 | B8: Công cụ toán cho kinh doanh và quản lý | C8: 2 | D8: HK1 | F8: 3 | G8: Chọn 3 trong các học phần tự chọn (**) | H8: 9 | I8: HK3
+A9: 4 | B9: Quản trị marketing chiến lược | C9: 3 | D9: HK1
+A10: 5 | B10: Kinh tế học quản trị | C10: 3 | D10: HK1
+C12: 13 | H12: 15
+A14: 6 | B14: Phân tích marketing và dự báo | C14: 3 | D14: HK2 | F14: 4 | G14: Thực tập | H14: 8 | I14: HK4
+A15: 7 | B15: Hành vi người tiêu dùng trong môi trường số  | C15: 3 | D15: HK2 | F15: 5 | G15: Đề án thạc sĩ marketing | H15: 9 | I15: HK4
+A16: 8 | B16: Chiến lược marketing số  | C16: 3 | D16: HK2
+A17: 9 | B17: Tổ hợp học phần tự chọn (*) | C17: 6 | D17: HK2
+C19: 15 | H19: 17
+G21: Tổng số tín chỉ | H21: 60
+B23: Tổ hợp học phần tự chọn (*): | G23: Các học phần tự chọn chuyên ngành (**):
+B24: Tổ hợp 1: | F24: 1 | G24: Marketing bền vững | H24: 3
+A25: 1 | B25: Quản trị sự thay đổi trong kỷ nguyên số | C25: 3 | F25: 2 | G25: Truyền thông marketing quốc tế  | H25: 3
+A26: 2 | B26: Quản trị marketing toàn cầu  | C26: 3 | F26: 3 | G26: Ứng dụng trí tuệ nhân tạo trong marketing  | H26: 3
+B27: Tổ hợp 2: | F27: 4 | G27: Chiến lược marketing dịch vụ  | H27: 3
+A28: 1 | B28: Quản trị dự án marketing  | C28: 3 | F28: 5 | G28: Đo lường thành tích marketing số | H28: 3
+A29: 2 | B29: Quản trị tài chính chiến lược | C29: 3 | F29: 6 | G29: Đạo đức marketing trong môi trường số | H29: 3
+B30: Tổ hợp 3:
+A31: 1 | B31: Quản trị trải nghiệm khách hàng | C31: 3
+A32: 2 | B32: Đổi mới sản phẩm và dịch vụ | C32: 3

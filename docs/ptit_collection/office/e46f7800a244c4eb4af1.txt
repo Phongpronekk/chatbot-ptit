@@ -1,0 +1,227 @@
+
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+============
+
+
+
+
+
+
+
+
+
+
+
+
+TÀI LIỆU HƯỚNG DẪN 
+SỬ DỤNG CỔNG THÔNG TIN ĐIỆN TỬ QUẢN LÝ ĐÀO TẠO CHO SINH VIÊN
+
+
+
+
+
+
+
+
+
+
+
+I. THÔNG TIN CHUNG
+- Địa chỉ website “Cổng thông tin điện tử quản lý đào tạo”: https://qldt.ptit.edu.vn
+- Các thông tin cung cấp tại website:
+TT
+Tên trang
+Nội dung
+Ghi chú
+1
+Trang chủ
+Cung cấp các thông tin chung
+
+2
+Thông báo từ ban quản trị
+Cung cấp các thông tin, thông báo từ ban quản trị đến sinh viên
+
+3
+Xem chương trình đào tạo
+Cung cấp thông tin về chương trình đào tạo cho sinh viên
+
+4
+Xem môn học tiên quyết
+Cung cấp thông tin về các môn học tiên quyết/học trước/song hành cho sinh viên
+
+5
+Đăng ký môn học
+- Trang cung cấp thông tin cho sinh viên lựa chọn đăng ký môn học trực tuyến.
+- Cung cấp công cụ cho sinh viên Đăng ký môn học trực tuyến
+- Cung cấp kết quả đăng ký môn học của sinh viên
+
+
+6
+Xem học phí
+Cung cấp thông tin về học phí của sinh viên
+
+7
+Xem thời khóa biểu tuần
+Cung cấp thời khóa biểu cho sinh viên dạng từng tuần
+
+8
+Xem thời khóa biểu học kỳ
+Cung cấp thời khóa biểu cho sinh viên dạng toàn học kỳ
+
+9
+Xem lịch thi
+Cung cấp thông tin về lịch thi học kỳ cho sinh viên
+
+10
+Xem điểm
+Cung cấp kết quả học tập của các kỳ học cho sinh viên
+
+11
+Gởi ý kiến ban quản lý
+Đóng góp ý kiến với bộ phận quản lý
+
+
+
+II. ĐĂNG NHẬP HỆ THỐNG
+2.1. Đăng nhập hệ thống
+- Đầu tiên, sinh viên cần đăng nhập vào Cổng thông tin điện tử quản lý đào tạo (https://qldt.ptit.edu.vn) với tài khoản cá nhân của sinh viên như sau:
+- Tên đăng nhập là: mã sinh viên, ví dụ: B20ABCD003
+- Mật khẩu (nếu là đăng nhập lần đầu) là: HV sẽ thông báo riêng cho sinh viên khóa mới
+- Sinh viên phải thay đổi mật khẩu ngay lần đầu tiên đăng nhập để bảo mật.
+- SV có thể đăng nhập bằng tài khoản Office 365 do Học viện cấp.
+
+
+- Nếu sinh viên quên mật khẩu tài khoản: Sinh viên click vào  “Quên mật khẩu” nhập mã sinh viên và email được Học viện cấp để reset mật khẩu:
+
+
+
+2.2. Trang chủ
+- Sau khi đăng nhập thành công sinh viên sẽ thấy trên trang chủ có các nội dung chính như sau:
+
+
+
+
+Trang chủ hiển thị danh mục các loại thông tin của Học viện cần thông báo đến người dùng, phân loại thông tin bao gồm:
+Cung cấp cho sinh viên các thông tin: chương trình đào tạo, môn học tiên quyết, đăng ký môn học, đăng ký môn nguyện vọng, xem học phí, xem hoá đơn điện tử, thời khoá biểu dạng tuần/học kỳ, xem lịch thi, xem điểm
+Thông báo: Cung cấp các thông báo của Học viện đối với sinh viên trong quá trình tổ chức đào tạo.
+Thông tin từ Học viện: Các thông tin cung cấp từ Học viện.
+Tin tức & Sự kiện: Các thông tin và sự kiện liên quan đến giáo dục đào tạo, liên quan đến Học viện…
+Liên kết: danh sách trang web hữu ích mà Học viện giới thiệu đến sinh viên
+
+III. ĐĂNG KÝ MÔN HỌC 
+3.1. Các nội dung trong trang:
+- Trong đợt đăng ký môn học theo kế hoạch đào tạo học kỳ: sinh viên chỉ đăng ký được các môn học theo đúng chương trình đào tạo (CTĐT) kế hoạch mở trong kỳ. Để chuẩn bị cho việc đăng ký môn học học kỳ mới, sinh viên xem “Chương trình đào tạo” để biết danh sách các môn học mở:
+
+- Trong đợt đăng ký học lại, học ghép, học cải thiện, học kỳ phụ (hè): Hệ thống sẽ mở chức năng tìm kiếm môn học để sinh viên đăng ký các nhóm môn học có tổ chức trong học kỳ.
+-  Sinh viên chọn “ĐĂNG KÝ MÔN HỌC” đề tiến hành đăng ký môn học:
+
+Trang đăng ký gồm 3 phần: 
+Phần lọc để hiện thị các môn cần đăng ký theo từng điều kiện.
+Phần hiển thị danh sách các nhóm môn học theo điều kiện lọc.
+Phần hiển thị danh sách các nhóm môn học đã đăng ký thành công.
+3.2. Mô tả chi tiết
+Phần lọc:
+
+Điều kiện lọc: Tùy từng điều kiện hệ thống sẽ hiện thị danh sách các nhóm môn học có tổ chức trong học kỳ cho sinh viên:
+- Môn học mở theo lớp sinh viên: dành cho các lớp đặc thù ACCA, Chất lượng cao, CNTT Việt-Nhật, Thiết kế game… (theo kế hoạch đăng ý của Học viện)
+- Môn học trong chương trình đào tạo kế hoạch: Tất cả môn học thuộc CTĐT
+- Môn chưa học trong CTĐT kế hoạch (mặc định trong đợt đăng ký theo kế hoạch đào tạo học kỳ): Các môn sinh viên chưa học thuộc CTĐT, đúng tiến trình học kỳ.
+- Môn sinh viên cần học lại: Các môn học sinh viên học lại.
+- Lọc theo khoa: Các môn học thuộc Khoa quản lý
+- Lọc theo lớp: Các môn học theo lớp
+- Lọc theo môn học (sẽ được mở khi đăng ký học lại, học cải thiện, học ghép): Bằng cách nhập mã môn hoặc tên môn vào ô text sau đó bấm nút lọc phần hiển thị sẽ hiển thị đúng môn học sinh viên đã nhập, có thể tìm theo điều kiện chính xác hoặc tương đối (nghĩa là nhập gần đúng bằng các từ gợi ý). Sinh viên phải đăng ký môn học đúng mã học phần thuộc CTĐT hoặc đúng mã môn học thay thế đã được phê duyệt.
+
+b. Phần hiển thị danh sách các nhóm môn học: Sau khi chọn điều kiện lọc (theo CTĐT, theo lớp, theo môn học…) chương trình sẽ hiển thị danh sách nhóm học tổ chức trong học kỳ:
+
+- Thông tin được hiển thị gồm:
+ĐK:Ô chọn lựa đăng ký
+Mã MH:Mã môn học
+Tên môn học:Tên môn học
+Nhóm: Nhóm môn học
+Tổ: Tổ thực hành
+Số TC: Số tín chỉ của môn học
+Lớp:Lớp đại diện mở nhóm môn học
+Số lượng: Số lượng đăng ký tối đa cho phép của nhóm
+Còn lại: Số lượng còn lại cho phép đăng ký
+Thời khóa biểu:     Thông tin thời khóa biểu của nhóm gồm thời gian học/phòng         học/giảng viên giảng dạy
+- Hệ thống hiển thị rất nhiều nhóm môn học (các nhóm môn học của tất cả các môn học theo điều kiện lọc) vì vậy nếu muốn hiển thị riêng các nhóm môn học theo từng môn học SV “Nhập mã môn học trong CTĐT để lọc”.
+- Sau khi xem thông tin các nhóm môn học, sinh viên có thể lựa chọn nhóm với điều kiện sinh viên cho là thích hợp nhất, muốn đăng ký nhóm môn học nào thì check vào ô vuông trong cột đầu tiên (cột ĐK) của nhóm tương ứng.
+- Khi chọn nhóm hệ thống sẽ tự động kiểm tra các điều kiện ràng buộc của môn học, nếu không hợp lệ sẽ xuất các thông báo tương ứng. Ví dụ : 
+
+
+
+- Các ràng buộc khi chọn một nhóm môn học:
+ Kiểm tra môn học sinh viên đăng ký có thuộc ngành của sinh viên: Sinh viên phải nắm được chương trình đào tạo của Học viện quy định theo chương trình đào tạo hệ/ngành.
+ Kiểm tra môn học sinh viên đăng ký có thuộc khối lớp của sinh viên: Hiện Học viện bố trí sinh viên có thể đăng ký theo hệ đào tạo Cao đẳng hoặc Đại học.
+ Kiểm tra ngày sinh viên đăng ký có nằm trong ngày quy định hoặc ngày đăng ký tự do.
+ Kiểm tra giờ sinh viên đăng ký có hợp lệ: Theo thông báo của Học viện, hiện có, trong đó quy định giới hạn đăng ký theo giờ/ngày.
+ Xét số tín chỉ min: không cho chọn khi thấp hơn số tín chỉ tối thiểu.
+ Xét số tín chỉ max: không cho chọn khi vượt số tín chỉ tối đa.
+ Xét trùng môn học: chương trình tự bỏ nhóm môn học cũ và chọn nhóm môn học mới
+ Xét tiên quyết (tiên quyết là bắt buộc phải học và đạt  một môn trước khi muốn đăng ký một môn được quy định trước): không cho chọn khi vi phạm tiên quyết
+ Xét trước (học trước là bắt buộc phải học một môn trước khi đăng ký một môn được quy định trước): không cho chọn khi vi phạm học trước
+Xét song hành (song hành là quy định muốn học một môn phải đăng ký song hành một môn)
+- Nếu đăng ký thành công, môn học sẽ được hiển thị trong phần hiển thị danh sách các môn học đã đăng ký, môn học đó sẽ có dấu check.
+
+- Phần hiển thị các môn đã đăng ký thành công
+
+- Các môn được click chọn ở trên sẽ được hiển thị ở phần này với các thông tin ngắn gọn. 
+- Sinh viên click vào “X” để xóa môn học nếu thay đổi ý định.
+- Tùy theo đợt đăng ký sẽ có thông báo cụ thể cho sinh viên như sau: Không cho phép học lại, học cải thiện…
+
+- Trong trường hợp sinh viên không thể check chọn những môn trong “Danh sách đã đăng ký” đã đăng ký trước đó để xóa => thì nên biết đó là chính sách của trường: chỉ cho đăng ký mới không cho xóa.
+Trong trường hợp sinh viên thấy danh sách môn học phía trên còn chổ đăng ký ( số lượng còn lại >0) + nằm trong ngày cho phép đăng ký + có thể xóa từ danh sách phía dưới => chính sách của Học viện là cho xóa không cho chọn đăng ký mới.
+
+IV.  XEM THỜI KHÓA BIỂU 
+Hiện Học viện chỉ cho phép người dùng xem thời khóa biểu khi đã đăng nhập. 
+- Thời khóa biểu tuần:
+
+- Thời khóa biểu học kỳ cá nhân:
+
+- Danh mục hiển thị bao gồm:
+ Mã MH: Mã môn học
+ Tên môn học: Tên đầy đủ của môn học
+ Nhóm tổ: Nhóm môn học (và tổ thực hành nếu có)
+ Số tín chỉ: Số tín chỉ của môn học
+ Lớp: Lớp đại diện mở nhóm môn học
+ Thứ: Thứ học môn học
+ Tiết bắt đầu: Tiết bắt đầu môn học
+ Số tiết : Số tiết phải học
+ Phòng : Mã phòng học
+ Thời gian học: Thời gian bắt đầu và kết thúc của môn học  
+
+V. XEM LỊCH THI
+Chọn “XEM LỊCH THI” đề xem lịch thi của sinh viên:
+
+
+
+
+VI. XEM HỌC PHÍ
+Căn cứ đăng ký môn học của sinh viên, sinh viên có thể xem mức học phí phải đóng bằng cách click vào phần “XEM HỌC PHÍ”
+
+
+
+
+VII. XEM ĐIỂM
+- Chọn “XEM ĐIỂM” đề tiến hành xem điểm thi, điểm kết thúc môn học của các học kỳ. 
+
+
+- Để xem chi tiết điểm thành phần từng môn:
+
+
+VIII. XEM CTĐT
+Sinh viên xem chương trình đào tạo của ngành mình học để lên kế hoạch học tập cho bản thân trong các kỳ học:
+
+
+
+IX. XEM MÔN HỌC TIÊN QUYẾT/ TRƯỚC SAU/ SONG HÀNH
+Sinh viên xem danh mục môn học tiên quyết, trước sau, song hành để biết mình có đủ điều kiện đăng ký các môn học:
+
+
+X. THÔNG BÁO TỪ BAN QUẢN TRỊ
+Học viện sẽ gửi thông báo trên cổng thông tin điện tử đến các sinh viên, khi biểu tượng số màu đỏ trên chức năng “Thông báo từ ban quản trị”, sinh viên click vào để biết và thực hiện các nội dung liên quan:
+
+
+
+HẾT!

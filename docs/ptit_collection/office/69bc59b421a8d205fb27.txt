@@ -1,0 +1,21 @@
+### sheet1.xml
+A1: STT | B1: Mã SV | C1: Họ tên | E1: Lớp | F1: Chứng chỉ | G1: Điểm | H1: Ngày cấp | I1: Ngày hết hạn | J1: Chuyển đổi điểm | M1: Điểm đã học
+J2: BAS1162_CLC | K2: BAS1163_CLC | L2: BAS1164_CLC | M2: BAS1162_CLC | N2: BAS1163_CLC | O2: BAS1164_CLC
+A3: 1 | B3: B20DCCN208 | C3: Phạm Trường  | D3: Giang | E3: E20CQCN01-B | F3: APTIS | G3: B2 | H3: 25/04/2026 | I3: 46868 | J3: 10 | K3: 10 | L3: 10 | M3: 7.6 | N3: 4.4000000000000004 | O3: 6.3
+A4: 2 | B4: B21DCAT216 | C4: Đoàn Nguyễn Thanh  | D4: Tùng | E4: E21CNPM04 | F4: APTIS | G4: C1 | H4: 04/03/2026 | I4: 46816 | J4: 10 | K4: 10 | L4: 10 | M4: 8.4 | N4: 7.6 | O4: 7.3
+A5: 3 | B5: B21DCDT104 | C5: Nguyễn Mạnh  | D5: Hùng | E5: E22CNPM01 | F5: APTIS | G5: B2 | H5: 12/04/2026 | I5: 46855 | J5: 10 | K5: 10 | L5: 10 | M5: 6.3 | N5: 0 | O5: 0
+A6: 4 | B6: B21DCDT160 | C6: Sỹ Đức  | D6: Nguyên | E6: E21CNPM04 | F6: APTIS | G6: B2 | H6: 07/02/2026 | I6: 46790 | J6: 10 | K6: 10 | L6: 10 | M6: 7.4 | N6: 7.1 | O6: 7.2
+A7: 5 | B7: B21DCDT199 | C7: Nguyễn Đức  | D7: Tài | E7: E21CNPM03 | F7: APTIS | G7: B2 | H7: 13/07/2025 | I7: 46581 | J7: - | K7: - | L7: 10 | M7: - | N7: - | O7: 5.6
+A8: 6 | B8: B21DCDT206 | C8: Nguyễn Văn  | D8: Thắng | E8: E21CNPM03 | F8: APTIS | G8: B2 | H8: 28/07/2025 | I8: 46596 | J8: - | K8: - | L8: 10 | M8: - | N8: - | O8: 5.8
+A9: 7 | B9: B21DCDT233 | C9: Nguyễn Đức  | D9: Tuấn | E9: E21TTNT | F9: APTIS | G9: B2 | H9: 16/09/2025 | I9: 46646 | J9: - | K9: - | L9: 10 | M9: - | N9: - | O9: 6.9
+A10: 8 | B10: B21DCVT050 | C10: Nguyễn Đăng  | D10: An | E10: E21TTNT | F10: APTIS | G10: B2 | H10: 02/05/2026 | I10: 46875 | J10: 10 | K10: 10 | L10: 10 | M10: 7.1 | N10: 6 | O10: 6.8
+A11: 9 | B11: B22DCAT192 | C11: Phạm Anh  | D11: Minh | E11: E22HTTT | F11: APTIS | G11: B2 | H11: 12/04/2026 | I11: 46855 | J11: 10 | K11: 10 | L11: 10 | M11: 5.8 | N11: 4.9000000000000004 | O11: 6.1
+A12: 10 | B12: B22DCAT279 | C12: Nguyễn Đức  | D12: Thái | E12: E22CNPM03 | F12: IELTS | G12: 7.0 | H12: 26/04/2026 | I12: 46869 | J12: 10 | K12: - | L12: - | M12: 7.1 | N12: - | O12: -
+A13: 11 | B13: B22DCVT043 | C13: Phạm Việt  | D13: Bách | E13: E22HTTT | F13: APTIS | G13: B1 | H13: 19/04/2026 | I13: 46862 | J13: 8 | K13: 7 | L13: 6 | M13: 4.5 | N13: 4.8 | O13: 0
+B14: B22DCVT450 | C14: Phùng Đức  | D14: Tài | E14: E22CNPM02 | F14: APTIS | G14: B2 | H14: 29/03/2026 | I14: 46841 | J14: ĐÃ XÉT MHMT | M14: X | N14: X | O14: X
+A15: 12 | B15: B23DCVT322 | C15: Nguyễn Thị  | D15: Nhung | E15: D23CQCE04-B | F15: APTIS | G15: B2 | H15: 07/12/2025 | I15: 46728 | J15: - | K15: 10 | L15: - | M15: - | N15: 6.3 | O15: -
+A16: 13 | B16: B24DCCE040 | C16: Nguyễn Văn  | D16: Đạo | E16: D24CQCE05-B | F16: APTIS | G16: B2 | H16: 28/09/2025 | I16: 46658 | J16: - | K16: - | L16: 10 | M16: - | N16: - | O16: 5.9
+A17: 14 | B17: B24DCME103 | C17: Tạ Thị  | D17: Trang | E17: D24CQME01-B | F17: APTIS | G17: B2 | H17: 23/03/2025 | I17: 46469 | J17: - | K17: 10 | L17: - | M17: - | N17: 5.9 | O17: -
+A18: 15 | B18: B25DCAE073 | C18: Nguyễn Ngọc Phương  | D18: Nam | E18: D25CQAE01-B | F18: APTIS | G18: B2 | H18: 14/12/2025 | I18: 46735 | J18: 10 | K18: - | L18: - | M18: 6.6 | N18: - | O18: -
+A19: 16 | B19: B25DCCE141 | C19: Cao Ngọc  | D19: Lam | E19: D25CQCE01-B | F19: APTIS | G19: B1 | H19: 19/12/2025 | I19: 46740 | J19: 8 | K19: 7 | L19: 6 | M19: 5.6 | N19: - | O19: -
+### sheet2.xml

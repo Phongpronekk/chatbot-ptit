@@ -1,0 +1,112 @@
+{
+  "id": 4485,
+  "date": "2025-06-07T11:00:25",
+  "date_gmt": "2025-06-07T04:00:25",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4485"
+  },
+  "modified": "2025-06-07T11:00:25",
+  "modified_gmt": "2025-06-07T04:00:25",
+  "slug": "cong-khai-bao-cao-thuong-nien-2023",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/cong-khai-bao-cao-thuong-nien-2023/",
+  "title": {
+    "rendered": "Công khai báo cáo thường niên 2023"
+  },
+  "content": {
+    "rendered": "<p>Thực hiện Thông tư số 09/2024/TT-BGDĐT ngày 03/06/2024  của Bộ Đào tạo và Đào tạo về việc ban hành Quy định về công khai trong hoạt động của các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân, Học viện Công nghệ Bưu chính Viễn thông công khai báo cáo thường niên về kết quả hoạt động của Học viện Công nghệ Bưu chính Viễn thông năm học 2023-2024.</p>\n<p>(<em>Chi tiết kèm theo</em>)<a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/11/Bao-cao-thuong-nien-2023-1.pdf\">Bao cao thuong nien 2023</a></p>\n<p>Học viện Công nghệ Bưu chính Viễn thông xin trân trọng thông báo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thực hiện Thông tư số 09/2024/TT-BGDĐT ngày 03/06/2024  của Bộ Đào tạo và Đào tạo về việc ban hành Quy định về công khai trong hoạt động của các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân, Học viện Công nghệ Bưu chính Viễn thông công khai báo cáo thường niên về [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    78
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4485",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-ba-cong-khai"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4485",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4485"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4485/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4485"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4485"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4485"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

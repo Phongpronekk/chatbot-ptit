@@ -1,0 +1,127 @@
+{
+  "id": 33048,
+  "date": "2025-11-26T15:08:15",
+  "date_gmt": "2025-11-26T08:08:15",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33048"
+  },
+  "modified": "2025-11-26T15:08:15",
+  "modified_gmt": "2025-11-26T08:08:15",
+  "slug": "dieu-chinh-lich-tap-trung-pho-bien-dang-ky-mon-hoc-hoc-ky-ii-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/dieu-chinh-lich-tap-trung-pho-bien-dang-ky-mon-hoc-hoc-ky-ii-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Điều chỉnh lịch tập trung phổ biến đăng ký môn học Học kỳ II năm học 2025-2026"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ kế hoạch sử dụng phòng học hội trường nhà A2 của Học viện có sự thay đổi, phòng Giáo vụ thông báo tới các lớp sinh viên hệ đại học chính quy khoá 2022 (khối ngành kỹ thuật), 2023, 2024, và 2025 về việc điều chỉnh lịch tập trung Ban cán sự các lớp (khoá 2022, 2023, 2024) và toàn bộ các sinh viên khoá 2025 tại hội trường nhà A2, cụ thể như sau:</p>\n<p>&#8211; BCS lớp khoá 2022 (khối ngành kỹ thuật), 2023, 2024: 11h30-12h30 thứ 3 ngày 02/12/2025</p>\n<p>&#8211; Toàn thể các sinh viên các lớp khoá 2025 tập trung tập huấn vào thứ 2 (01/12/2025), thứ 3 (02/12/2025) thời gian chi tiết từng lớp theo file kèm.</p>\n<p>Phòng Giáo vụ thông báo và đề nghị các lớp sinh viên nghiêm túc thực hiện, tham gia tập huấn đầy đủ, đúng thời gian quy định.</p>\n<p><strong>Trân trọng!</strong></p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/11/Lich-tap-trung-2025-A2-1.xlsx\">Lịch tập trung từng lớp khoá 2025 (cập nhật 26/11/2025</a></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/tap-trung-pho-bien-ke-hoach-dang-ky-mon-hoc-ky-ii-nam-hoc-2025-2026/\">Toàn văn thông báo, khung thời gian đăng ký, chương trình đào tạo/</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ kế hoạch sử dụng phòng học hội trường nhà A2 của Học viện có sự thay đổi, phòng Giáo vụ thông báo tới các lớp sinh viên hệ đại học chính quy khoá 2022 (khối ngành kỹ thuật), 2023, 2024, và 2025 về việc điều chỉnh lịch tập trung Ban cán sự các [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32450,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    10,
+    9,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33048",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dang-ky-hoc-phan-vi",
+    "category-ke-hoach-dao-tao",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33048",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33048"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33048/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32450"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33048"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33048"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33048"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

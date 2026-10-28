@@ -1,0 +1,42 @@
+{
+  "data_unchanged": true,
+  "no_llm_calls": true,
+  "cases": [
+    {
+      "query": "bao hiem  y te",
+      "canonical": "bảo hiểm y tế",
+      "sources": 4,
+      "top_url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+    },
+    {
+      "query": "bảo hiểm y tế",
+      "canonical": "bảo hiểm y tế",
+      "sources": 4,
+      "top_url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+    },
+    {
+      "query": "bhyt",
+      "canonical": "bảo hiểm y tế",
+      "sources": 4,
+      "top_url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+    },
+    {
+      "query": "ky tuc xa",
+      "canonical": "ký túc xá",
+      "sources": 4,
+      "top_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+    },
+    {
+      "query": "ktx",
+      "canonical": "ký túc xá",
+      "sources": 4,
+      "top_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+    },
+    {
+      "query": "cach lam banh pizza",
+      "canonical": "cach lam banh pizza",
+      "sources": 0,
+      "top_url": null
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 5813,
+  "date": "2026-10-08T13:44:54",
+  "date_gmt": "2026-10-08T06:44:54",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=5813"
+  },
+  "modified": "2026-10-08T14:33:19",
+  "modified_gmt": "2026-10-08T07:33:19",
+  "slug": "chuong-trinh-thac-si-marketing",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-thac-si-marketing/",
+  "title": {
+    "rendered": "Chương trình Thạc sĩ Marketing"
+  },
+  "featured_media": 1877,
+  "template": "",
+  "he_dao_tao": [
+    14021
+  ],
+  "class_list": [
+    "post-5813",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "he_dao_tao-nhom-cac-nganh-chuong-trinh-dao-tao-sau-dai-hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/5813",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/1877"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5813"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=5813"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT (RÚT GỌN) CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+THẠC SĨ TÀI NĂNG NGÀNH AN TOÀN THÔNG TIN - ĐỊNH HƯỚNG NGHIÊN CỨU
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO1 | D4: PLO2 | E4: PLO3 | F4: PLO4 | G4: PLO5 | H4: PLO6
+A5: Phần kiến thức trình độ đại học
+A6: Kiến thức chung 
+A7: 1 | B7: Triết học Mác-Lênin | E7: I(Y)
+A8: 2 | B8: Kinh tế chính trị Mác- Lênin | E8: I(Y)
+A9: 3 | B9: Chủ nghĩa xã hội khoa học | E9: I(Y)
+A10: 4 | B10: Tư tưởng Hồ chí Minh | E10: I(Y)
+A11: 5 | B11: Lịch sử Đảng cộng sản Việt Nam | E11: I(Y)
+A12: 6 | B12: Tiếng Anh Course 1 | D12: I(Y)
+A13: 7 | B13: Tiếng Anh Course 2 | D13: I(Y)
+A14: 8 | B14: Tiếng Anh Course 3 | D14: I(Y)
+A15: 9 | B15: Tiếng Anh Course 3 Plus | D15: R(Y)
+A16: 10 | B16: Nhập môn Công nghệ số và Ứng dụng AI | C16: I(Y)
+A17: Kiến thức khoa học tự nhiên và xã hội
+A18: 11 | B18: Giải tích 1 | C18: I(Y)
+A19: 12 | B19: Giải tích 2 | C19: I(Y)
+A20: 13 | B20: Đại số | C20: I(Y)
+A21: 14 | B21: Vật lý ứng dụng | C21: I(Y)
+A22: 15 | B22: Xác suất thống kê | C22: I(Y)
+A23: 16 | B23: Pháp luật và Sở hữu trí tuệ | E23: R(Y)
+A24: Kiến thức cơ sở ngành
+A25: 17 | B25: Nhập môn lập trình và an toàn thông tin | C25: I(X) | E25: I(X)
+A26: 18 | B26: Toán rời rạc 1 | C26: I(Y)
+A27: 19 | B27: Cấu trúc dữ liệu và giải thuật | C27: I(Y)
+A28: 20 | B28: Cơ sở dữ liệu | C28: R(Y)
+A29: 21 | B29: Kiến trúc máy tính và hệ điều hành | C29: I(Y)
+A30: 22 | B30: Python cho An toàn thông tin | C30: R(X, A) | G30: I(X, A) | H30: I(X, A)
+A31: 23 | B31: Hợp ngữ và dịch ngược | C31: R(X, A) | D31: I(X, A) | F31: I(X, A) | G31: R(X, A)
+A32: 24 | B32: Mạng máy tính | C32: I(X)
+A33: 25 | B33: Lập trình Web | C33: R(Y)
+A34: 26 | B34: Nhập môn trí tuệ nhân tạo | C34: R(Y)
+A35: 27 | B35: Cơ sở an toàn thông tin | C35: I(X, A) | E35: I(X, A) | G35: I(X, A)
+A36: 28 | B36: Hệ điều hành Windows và Linux/Unix | C36: R(X) | F36: I(X) | G36: I(X)
+A37: 29 | B37: Mật mã học cơ sở | C37: R(X, A) | D37: I(X, A) | F37: I(X, A) | G37: R(X, A)
+A38: 30 | B38: Thực tập cơ sở | C38: E(X, A) | D38: E(X, A) | E38: E(X, A) | G38: E(X, A)
+A39: Kiến thức chuyên ngành 
+A40: 31 | B40: Kiểm thử xâm nhập | D40: R(X, A) | E40: R(X, A) | H40: R(X, A)
+A41: 32 | B41: Quản lý và đánh giá an toàn thông tin | D41: R(X, A) | E41: R(X, A) | G41: R(Y)
+A42: 33 | B42: An toàn ứng dụng web và cơ sở dữ liệu | D42: R(Y) | F42: R(X, A) | G42: R(X, A)
+A43: 34 | B43: Phân tích mã độc | D43: R(X, A) | E43: R(X, A) | G43: R(Y)
+A44: 35 | B44: Ứng dụng AI trong ATTT | D44: R(X, A) | F44: R(X, A) | H44: R(X, A)
+A45: 36 | B45: Giám sát an toàn mạng | D45: R(Y) | F45: R(X, A) | H45: R(X, A)
+A46: 37 | B46: Nhập môn DevOps | F46: R(X, A) | G46: R(X, A) | H46: R(X, A)
+A47: Các học phần tự chọn 1.1
+A48: 38 | B48: Phát triển phần mềm an toàn | D48: R(Y) | F48: R(Y) | G48: R(Y)
+A49: 39 | B49: An toàn hệ điều hành | D49: R(Y) | F49: R(Y) | G49: R(Y)
+A50: 40 | B50: Các kỹ thuật giấu tin | D50: R(Y) | F50: R(Y) | G50: R(Y)
+A51: Các học phần tự chọn 1.2
+A52: 41 | B52: An toàn mạng nâng cao | D52: R(Y) | F52: R(Y) | G52: R(Y)
+A53: 42 | B53: Phân tích dữ liệu lớn cho ATTT | D53: R(Y) | F53: R(Y) | G53: R(Y)
+A54: 43 | B54: Quản trị an toàn hệ thống | D54: R(Y) | F54: R(Y) | G54: R(Y)
+A55: 44 | B55: Thực tập tốt nghiệp | C55: E(X, A) | D55: E(X, A) | E55: E(X, A) | G55: E(X, A) | H55: E(X, A)
+A56: Phần kiến thức trình độ thạc sĩ
+A57: Kiến thức cơ sở ngành
+A58: 45 | B58: Phương pháp nghiên cứu khoa học | C58: I(Y)
+A59: 46 | B59: Công cụ toán cho công nghệ thông tin | C59: R(Y)
+A60: 47 | B60: Công nghệ Blockchain | F60: R(X, A) | H60: R(X, A)
+A61: 48 | B61: Chuyên đề thạc sĩ 1 | F61: E(X, A) | G61: E(X, A)
+A62: 49 | B62: Chuyên đề thạc sĩ 2 | F62: E(X, A) | G62: E(X, A)
+A63: Kiến thức chuyên ngành 
+A64: 50 | B64: Phân tích mã độc nâng cao | E64: R(Y) | G64: E(X, A)
+A65: 51 | B65: Kiểm thử xâm nhập nâng cao | E65: E(X, A) | H65: E(X, A)
+A66: 52 | B66: Giám sát an toàn mạng nâng cao | D66: E(X, A) | H66: E(X, A)
+A67: 53 | B67: Điều tra số | E67: E(X, A) | G67: E(X, A)
+A68: 54 | B68: Chuyên đề thạc sĩ 3 | F68: E(X, A) | H68: E(X, A)
+A69: 55 | B69: Chuyên đề thạc sĩ 4 | F69: E(X, A) | H69: E(X, A)
+A70: Các học phần tự chọn 2.1
+A71: 56 | B71: An toàn điện toán đám mây | D71: R(Y) | G71: R(Y)
+A72: 57 | B72: An toàn cho IoT | D72: R(Y) | G72: R(Y)
+A73: 58 | B73: Hạ tầng khoá công khai | D73: R(Y) | G73: R(Y)
+A74: 59 | B74: Các giao thức an toàn và bảo mật | D74: R(Y) | G74: R(Y)
+A75: 60 | B75: Tấn công và phòng thủ mạng | D75: R(Y) | G75: R(Y)
+A76: 61 | B76: Ứng phó và xử lý sự cố bảo mật | D76: R(Y) | G76: R(Y)
+A77: 62 | B77: Các chủ đề hiện đại trong ATTT | D77: R(Y) | G77: R(Y)
+A78: 63 | B78: DevOps và DevSecOps | D78: R(Y) | G78: R(Y)
+A79: Các học phần tự chọn 2.2
+A80: 64 | B80: Đảm bảo an toàn cho AI | D80: R(Y) | G80: R(Y)
+A81: 65 | B81: An toàn web nâng cao | D81: R(Y) | G81: R(Y)
+A82: 66 | B82: An toàn cơ sở dữ liệu nâng cao | D82: R(Y) | G82: R(Y)
+A83: 67 | B83: Mật mã hậu lượng tử | D83: R(Y) | G83: R(Y)
+A84: 68 | B84: Quản trị mạng | D84: R(Y) | G84: R(Y)
+A85: Kiến thức tốt nghiệp 
+A86: 69 | B86: Luận văn tốt nghiệp (định hướng nghiên cứu) | C86: E(X, A) | D86: E(X, A) | E86: E(X, A) | F86: E(X, A) | G86: E(X, A) | H86: E(X, A)
+A88: Kỹ năng mềm
+A89: 1 | B89: Kỹ năng thuyết trình | D89: I(Y)
+A90: 2 | B90: Kỹ năng làm việc nhóm | F90: I(Y)
+A91: 3 | B91: Kỹ năng tạo lập văn bản tiếng Việt | D91: I(Y)
+A92: 4 | B92: Kỹ năng lập kế hoạch và tổ chức thực hiện công việc  | C92: I(Y) | G92: I(Y)
+A93: 5 | B93: Kỹ năng giao tiếp | D93: I(Y)
+A94: 6 | B94: Kỹ năng tư duy sáng tạo | C94: I(Y) | H94: I(Y)
+A95: 7 | B95: Kỹ năng đổi mới sáng tạo | C95: I(Y) | H95: I(Y)
+A96: Ghi chú: 
+B97: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B98: X: đóng góp trực tiếp
+B99: Y: đóng góp gián tiếp
+B100: A: dùng để đo lường đóng góp vào PLO
+### sheet2.xml
+A1: MA TRẬN LIÊN KẾT (RÚT GỌN) CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+THẠC SĨ TÀI NĂNG NGÀNH AN TOÀN THÔNG TIN - ĐỊNH HƯỚNG ỨNG DỤNG
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO1 | D4: PLO2 | E4: PLO3 | F4: PLO4 | G4: PLO5 | H4: PLO6
+A5: Phần kiến thức trình độ đại học
+A6: Kiến thức chung 
+A7: 1 | B7: Triết học Mác-Lênin | E7: I(Y)
+A8: 2 | B8: Kinh tế chính trị Mác- Lênin | E8: I(Y)
+A9: 3 | B9: Chủ nghĩa xã hội khoa học | E9: I(Y)
+A10: 4 | B10: Tư tưởng Hồ chí Minh | E10: I(Y)
+A11: 5 | B11: Lịch sử Đảng cộng sản Việt Nam | E11: I(Y)
+A12: 6 | B12: Tiếng Anh Course 1 | D12: I(Y)
+A13: 7 | B13: Tiếng Anh Course 2 | D13: I(Y)
+A14: 8 | B14: Tiếng Anh Course 3 | D14: I(Y)
+A15: 9 | B15: Tiếng Anh Course 3 Plus | D15: R(Y)
+A16: 10 | B16: Nhập môn Công nghệ số và Ứng dụng AI | C16: I(Y)
+A17: Kiến thức khoa học tự nhiên và xã hội
+A18: 11 | B18: Giải tích 1 | C18: I(Y)
+A19: 12 | B19: Giải tích 2 | C19: I(Y)
+A20: 13 | B20: Đại số | C20: I(Y)
+A21: 14 | B21: Vật lý ứng dụng | C21: I(Y)
+A22: 15 | B22: Xác suất thống kê | C22: I(Y)
+A23: 16 | B23: Pháp luật và Sở hữu trí tuệ | E23: R(Y)
+A24: Kiến thức cơ sở ngành
+A25: 17 | B25: Nhập môn lập trình và an toàn thông tin | C25: I(X) | E25: I(X)
+A26: 18 | B26: Toán rời rạc 1 | C26: I(Y)
+A27: 19 | B27: Cấu trúc dữ liệu và giải thuật | C27: I(Y)
+A28: 20 | B28: Cơ sở dữ liệu | C28: R(Y)
+A29: 21 | B29: Kiến trúc máy tính và hệ điều hành | C29: I(Y)
+A30: 22 | B30: Python cho An toàn thông tin | C30: R(X, A) | G30: I(X, A) | H30: I(X, A)
+A31: 23 | B31: Hợp ngữ và dịch ngược | C31: R(X, A) | D31: I(X, A) | F31: I(X, A) | G31: R(X, A)
+A32: 24 | B32: Mạng máy tính | C32: I(X)
+A33: 25 | B33: Lập trình Web | C33: R(Y)
+A34: 26 | B34: Nhập môn trí tuệ nhân tạo | C34: R(Y)
+A35: 27 | B35: Cơ sở an toàn thông tin | C35: I(X, A) | E35: I(X, A) | G35: I(X, A)
+A36: 28 | B36: Hệ điều hành Windows và Linux/Unix | C36: R(X) | F36: I(X) | G36: I(X)
+A37: 29 | B37: Mật mã học cơ sở | C37: R(X, A) | D37: I(X, A) | F37: I(X, A) | G37: R(X, A)
+A38: 30 | B38: Thực tập cơ sở | C38: E(X, A) | D38: E(X, A) | E38: E(X, A) | G38: E(X, A)
+A39: Kiến thức chuyên ngành 
+A40: 31 | B40: Kiểm thử xâm nhập | D40: R(X, A) | E40: R(X, A) | H40: R(X, A)
+A41: 32 | B41: Quản lý và đánh giá an toàn thông tin | D41: R(X, A) | E41: R(X, A) | G41: R(Y)
+A42: 33 | B42: An toàn ứng dụng web và cơ sở dữ liệu | D42: R(Y) | F42: R(X, A) | G42: R(X, A)
+A43: 34 | B43: Phân tích mã độc | D43: R(X, A) | E43: R(X, A) | G43: R(Y)
+A44: 35 | B44: Ứng dụng AI trong ATTT | D44: R(X, A) | F44: R(X, A) | H44: R(X, A)
+A45: 36 | B45: Giám sát an toàn mạng | D45: R(Y) | F45: R(X, A) | H45: R(X, A)
+A46: 37 | B46: Nhập môn DevOps | F46: R(X, A) | G46: R(X, A) | H46: R(X, A)
+A47: Các học phần tự chọn 1.1
+A48: 38 | B48: Phát triển phần mềm an toàn | D48: R(Y) | F48: R(Y) | G48: R(Y)
+A49: 39 | B49: An toàn hệ điều hành | D49: R(Y) | F49: R(Y) | G49: R(Y)
+A50: 40 | B50: Các kỹ thuật giấu tin | D50: R(Y) | F50: R(Y) | G50: R(Y)
+A51: Các học phần tự chọn 1.2
+A52: 41 | B52: An toàn mạng nâng cao | D52: R(Y) | F52: R(Y) | G52: R(Y)
+A53: 42 | B53: Phân tích dữ liệu lớn cho ATTT | D53: R(Y) | F53: R(Y) | G53: R(Y)
+A54: 43 | B54: Quản trị an toàn hệ thống | D54: R(Y) | F54: R(Y) | G54: R(Y)
+A55: 44 | B55: Thực tập tốt nghiệp | C55: E(X, A) | D55: E(X, A) | E55: E(X, A) | G55: E(X, A) | H55: E(X, A)
+A56: Phần kiến thức trình độ thạc sĩ
+A57: Kiến thức cơ sở ngành
+A58: 45 | B58: Phương pháp nghiên cứu khoa học | C58: I(Y)
+A59: 46 | B59: Công cụ toán cho công nghệ thông tin | C59: R(Y)
+A60: 47 | B60: Công nghệ Blockchain | F60: R(X, A) | H60: R(X, A)
+A61: 48 | B61: An toàn điện toán đám mây | F61: E(X, A) | G61: E(X, A)
+A62: 49 | B62: An toàn cho IoT | F62: E(X, A) | G62: E(X, A)
+A63: Kiến thức chuyên ngành 
+A64: 50 | B64: Phân tích mã độc nâng cao | E64: R(Y) | G64: E(X, A)
+A65: 51 | B65: Kiểm thử xâm nhập nâng cao | E65: E(X, A) | H65: E(X, A)
+A66: 52 | B66: Giám sát an toàn mạng nâng cao | D66: E(X, A) | H66: E(X, A)
+A67: 53 | B67: Các chủ đề hiện đại trong ATTT | F67: E(X, A) | H67: E(X, A)
+A68: 54 | B68: Điều tra số | E68: E(X, A) | G68: E(X, A)
+A69: 55 | B69: Tấn công và phòng thủ mạng | E69: R(Y) | H69: R(Y)
+A70: 56 | B70: Đảm bảo an toàn cho AI | F70: E(X, A) | H70: E(X, A)
+A71: 57 | B71: An toàn web nâng cao | D71: R(Y) | G71: R(Y)
+A72: Các học phần tự chọn 2.1
+A73: 58 | B73: An toàn hệ thống thông tin | D73: R(Y) | G73: R(Y)
+A74: 59 | B74: Quản lý, pháp luật và chính sách ATTT | D74: R(Y) | G74: R(Y)
+A75: 60 | B75: Hạ tầng khoá công khai | D75: R(Y) | G75: R(Y)
+A76: 61 | B76: Các giao thức an toàn và bảo mật | D76: R(Y) | G76: R(Y)
+A77: 62 | B77: Ứng phó và xử lý sự cố bảo mật | D77: R(Y) | G77: R(Y)
+A78: 63 | B78: DevOps và DevSecOps | D78: R(Y) | G78: R(Y)
+A79: 64 | B79: Chuyên đề thạc sĩ 1 | D79: R(Y) | G79: R(Y)
+A80: 65 | B80: Chuyên đề thạc sĩ 2 | D80: R(Y) | G80: R(Y)
+A81: Các học phần tự chọn 2.2
+A82: 66 | B82: Hệ điều hành mạng | D82: R(Y) | G82: R(Y)
+A83: 67 | B83: Dữ liệu lớn | D83: R(Y) | G83: R(Y)
+A84: 68 | B84: An toàn cơ sở dữ liệu nâng cao | D84: R(Y) | G84: R(Y)
+A85: 69 | B85: Mật mã hậu lượng tử | D85: R(Y) | G85: R(Y)
+A86: 70 | B86: Quản trị mạng | D86: R(Y) | G86: R(Y)
+A87: Kiến thức tốt nghiệp 
+A88: 71 | B88: Đề án tốt nghiệp (định hướng ứng dụng) | C88: E(X, A) | D88: E(X, A) | E88: E(X, A) | F88: E(X, A) | G88: E(X, A) | H88: E(X, A)
+A90: Kỹ năng mềm
+A91: 1 | B91: Kỹ năng thuyết trình | D91: I(Y)
+A92: 2 | B92: Kỹ năng làm việc nhóm | F92: I(Y)
+A93: 3 | B93: Kỹ năng tạo lập văn bản tiếng Việt | D93: I(Y)
+A94: 4 | B94: Kỹ năng lập kế hoạch và tổ chức thực hiện công việc  | C94: I(Y) | G94: I(Y)
+A95: 5 | B95: Kỹ năng giao tiếp | D95: I(Y)
+A96: 6 | B96: Kỹ năng tư duy sáng tạo | C96: I(Y) | H96: I(Y)
+A97: 7 | B97: Kỹ năng đổi mới sáng tạo | C97: I(Y) | H97: I(Y)
+A98: Ghi chú: 
+B99: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B100: X: đóng góp trực tiếp
+B101: Y: đóng góp gián tiếp
+B102: A: dùng để đo lường đóng góp vào PLO

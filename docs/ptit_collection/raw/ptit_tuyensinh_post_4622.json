@@ -1,0 +1,119 @@
+{
+  "id": 4622,
+  "date": "2025-06-27T08:00:10",
+  "date_gmt": "2025-06-27T01:00:10",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4622"
+  },
+  "modified": "2026-04-10T09:34:22",
+  "modified_gmt": "2026-04-10T02:34:22",
+  "slug": "hoc-bong-ban-phan",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/hoc-bong-ban-phan/",
+  "title": {
+    "rendered": "HỌC BỔNG BÁN PHẦN"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: justify\"><span style=\"color: #000000\">Năm 2026, Học viện Công nghệ Bưu chính Viễn thông cấp tối đa <strong>50 suất học bổng bán phần</strong> với giá trị học bổng tới <strong>100 triệu đồng</strong> <em>(</em><em>tối đa bằng 100% học phí hai năm học đầu tiên của chương trình chất lượng cao)</em> cho các thí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia các môn Toán, Vật lí và Tin học; thí sinh đoạt giải Nhất, Nhì trong kỳ thi học sinh giỏi cấp Tỉnh/Thành phố trực thuộc TW các môn Toán, Vật lí và Tin học; thí sinh có điểm thi tốt nghiệp THPT từ 28,0 điểm trở lên (không bao gồm điểm cộng và điểm ưu tiên nếu có). <em>Người được nhận học bổng bán phần phải đảm bảo điểm trung bình chung tích lũy năm học liên tục đạt từ loại Giỏi trở lên trong thời gian học tập</em>.</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Năm 2026, Học viện Công nghệ Bưu chính Viễn thông cấp tối đa 50 suất học bổng bán phần với giá trị học bổng tới 100 triệu đồng (tối đa bằng 100% học phí hai năm học đầu tiên của chương trình chất lượng cao) cho các thí sinh đoạt giải Khuyến khích trong kỳ [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5165,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    29
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4622",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_chuong-trinh-hoc-bong"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4622",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4622"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4622/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5165"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4622"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4622"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4622"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+### Trang 1
+
+0 
+ 
+ 
+BỘ THÔNG TIN VÀ TRUYỀN THÔNG 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG  
+---------- 
+ 
+ 
+ 
+ 
+HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG 
+ĐIỂM RÈN LUYỆN  
+Hướng dẫn dành cho Cố vấn học tập Web 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Hà Nội, 2024 
+
+
+### Trang 2
+
+1 
+ 
+MỤC LỤC 
+I. ĐĂNG NHẬP.............................................................................................................. 2 
+II. HỌP LỚP .................................................................................................................. 3 
+1. Thêm mới buổi họp ................................................................................................ 3 
+2. Chỉnh sửa thông tin buổi họp ................................................................................. 6 
+3. Xóa buổi họp lớp .................................................................................................... 7 
+III. MINH CHỨNG ĐIỂM RÈN LUYỆN................................................................... 8 
+1. Xem danh sách minh chứng ................................................................................... 8 
+2. Thêm mới minh chứng ........................................................................................... 9 
+3. Chỉnh sửa minh chứng ......................................................................................... 11 
+4. Xoá minh chứng ................................................................................................... 12 
+5. Duyệt minh chứng ................................................................................................ 13 
+6. Khôi phục trạng thái duyệt minh chứng .............................................................. 14 
+IV. PHIẾU ĐIỂM RÈN LUYỆN ................................................................................ 15 
+1. Phiếu điểm rèn luyện ........................................................................................... 15 
+2. Phiếu tổng hợp kết quả ......................................................................................... 18 
+3. Biên bản cuộc họp ................................................................................................ 19 
+ 
+  
+
+### Trang 3
+
+ 
+ 
+2 
+ 
+I. ĐĂNG NHẬP 
+Bước 1: Truy cập vào trang website https://canbo.ptit.edu.vn/ 
+Bước 2: Nhập email office 365 đã được học viện cấp để thực hiện đăng nhập  
+Sau đó click vào Tiếp theo 
+ 
+Bước 3: Nhập mật khẩu, sau đó click vào Đăng nhập. 
+ 
+
+
+### Trang 4
+
+ 
+ 
+3 
+ 
+ Đăng nhập thành công. Màn hình Trang chủ hiển thị. 
+ 
+II. HỌP LỚP 
+1. Thêm mới buổi họp 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Họp lớp 
+ 
+
+
+### Trang 5
+
+ 
+ 
+4 
+ 
+Bước 3: Người dùng chọn thao tác Thêm mới để thực hiện khai báo thông tin 
+buổi họp 
+ 
+Bước 4: Màn hình khai báo thông tin đợt xét điểm rèn luyện hiển thị. Cố vấn học 
+tập thực hiện khai báo thông tin: 
++ Loại họp lớp/sinh hoạt: Đầu kỳ học, giữa kỳ học và cuối kỳ học; 
++ Thời gian bắt đầu: Là thời gian bắt đầu buổi họp; 
++ Thời gian kết thúc: Là thời gian kết thúc buổi họp; 
++ Địa điểm: Địa điểm họp; 
++ Ghi chú: Người dùng ghi chú thông tin về buổi họp (nếu có). 
+ 
+
+
+### Trang 6
+
+ 
+ 
+5 
+ 
+Bước 5: Sau khi thực hiện khai báo đủ các trường thông tin, người dùng bấm 
+Thêm mới 
+ 
+ Màn hình hiển thị thêm mới thông tin thành công. 
+Bước 5: Thêm mới sự kiện thành công, hệ thống sinh ra mã QR sự kiện. Người 
+dùng ấn vào Link tham gia 
+ 
+Bước 6: Mã QR điểm danh hiển thị, sinh viên có thể quét mã QR để xác nhận 
+tham gia sự kiện họp lớp 
+ 
+
+
+### Trang 7
+
+ 
+ 
+6 
+ 
+2. Chỉnh sửa thông tin buổi họp 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Họp lớp 
+ 
+Bước 3: Người dùng chọn thao tác Chỉnh sửa để thực hiện sửa thông tin buổi 
+họp 
+ 
+Bước 4: Màn chỉnh sửa buổi họp lớp hiển thị. Người dùng thực hiện chỉnh sửa 
+thông tin và ấn vào nút Lưu lại 
+
+
+### Trang 8
+
+ 
+ 
+7 
+ 
+ 
+ Hệ thống thông báo cập nhật thông tin thành công. 
+3. Xóa buổi họp lớp 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Họp lớp 
+ 
+
+
+### Trang 9
+
+ 
+ 
+8 
+ 
+Bước 3: Người dùng chọn thao tác Xóa để thực hiện xóa buổi họp lớp 
+ 
+Bước 4: Người dùng xác nhận OK để thực hiện xóa 
+ 
+ Hệ thống thông báo xóa thành công. 
+III. MINH CHỨNG ĐIỂM RÈN LUYỆN 
+1. Xem danh sách minh chứng 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Điểm rèn luyện -> Minh chứng 
+
+
+### Trang 10
+
+ 
+ 
+9 
+ 
+ 
+ Hệ thống hiển thị danh sách minh chứng sinh viên đã gửi về với 4 tiêu chí 
++ Công tác nội ngoaị trú; 
++ Tham gia công tác xã hội; 
++ Tuyên truyền tích cực về Trường/Khoa; 
++ Thành tích đặc biệt. 
+2. Thêm mới minh chứng 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Điểm rèn luyện -> Minh chứng 
+
+
+### Trang 11
+
+ 
+ 
+10 
+ 
+ 
+Bước 3: Người dùng chọn thao tác Thêm mới để thêm mới minh chứng cho sinh 
+viên 
+ 
+Bước 4: Màn khai báo minh chứng hiển thị, người dùng thực hiện khai báo thông 
+tin. Sau đó chọn thao tác Thêm mới  
+ 
+
+
+### Trang 12
+
+ 
+ 
+11 
+ 
+ Thêm mới minh chứng thành công. Trạng thái mặc định của minh chứng là 
+Đã duyệt 
+3. Chỉnh sửa minh chứng 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Điểm rèn luyện -> Minh chứng 
+ 
+Bước 3: Người dùng chọn thao tác Chỉnh sửa để sửa thông tin minh chứng cho 
+sinh viên 
+- Lưu ý: chỉ chỉnh sửa được bản ghi ở trạng thái Chờ xử lý 
+ 
+
+
+### Trang 13
+
+ 
+ 
+12 
+ 
+Bước 4: Hệ thống hiển thị màn chỉnh sửa thông tin minh chứng, người dùng thực 
+hiện chỉnh sửa thông tin, sau đó ấn vào nút Lưu lại 
+ 
+ Hệ thống thông báo Lưu thành công, người dùng cập nhật thành công thông 
+tin minh chứng 
+4. Xoá minh chứng 
+Bước 1: Người dùng ấn vào button  ở cột Thao tác bản ghi minh chứng 
+- Lưu ý: chỉ xóa được minh chứng ở trạng thái Chờ xử lý 
+ 
+
+
+### Trang 14
+
+ 
+ 
+13 
+ 
+- Bước 2: Hệ thống hiển thị thông báo với nội dung “Bạn có chắc chắn muốn xoá 
+minh chứng này?”. Người dùng chọn OK để xác nhận xoá 
+ 
+ Hệ thống thông báo xoá thành công. Minh chứng được xoá khỏi danh sách. 
+5. Duyệt minh chứng 
+- Bước 1: Người dùng click vào button Duyệt hoặc Từ chối ở cột Thao tác 
+ 
+- Bước 2: Hệ thống hiển thị thông báo với nội dung “Bạn có chắc chắn muốn 
+duyệt minh chứng này?”. Người dùng chọn OK để xác nhận duyệt minh chứng 
+ 
+ Hệ thống thông báo cập nhật thành công, trạng thái của minh chứng được 
+chuyển thành Đã duyệt/Không duyệt 
+
+
+### Trang 15
+
+ 
+ 
+14 
+ 
+6. Khôi phục trạng thái duyệt minh chứng 
+- Sau khi thực hiện duyệt minh chứng, người dùng có thể khôi phục trạng thái xét 
+duyệt minh chứng. 
+Bước 1: Người dùng click vào Thao tác minh chứng đã duyệt, sau đó ấn vào 
+button Chuyển về chờ xử lý ở cột Thao tác 
+ 
+- Bước 2: Hệ thống hiển thị thông báo với nội dung “Bạn có chắc chắn muốn 
+khôi phục trạng thái minh chứng này?”. Người dùng chọn OK để xác nhận duyệt minh 
+chứng 
+ 
+ Hệ thống thông báo cập nhật thành công, trạng thái của minh chứng được 
+chuyển thành Chờ xử lý 
+
+
+### Trang 16
+
+ 
+ 
+15 
+ 
+ 
+IV. PHIẾU ĐIỂM RÈN LUYỆN 
+1. Phiếu điểm rèn luyện 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Điểm rèn luyện -> Phiếu điểm 
+ 
+ Thông tin tổng hợp phiếu điểm của sinh viên trong lớp kèm trạng thái hiển thị 
+Bước 3: Cố vấn chọn 1 phiếu đánh giá điểm rèn luyện của sinh viên  
+
+
+### Trang 17
+
+ 
+ 
+16 
+ 
+- Cố vấn chỉ được đánh giá phi ếu điểm của SV có tr ạng thái Cố vấn học tập là 
+Chưa gửi; Đã lưu phiếu điểm, chưa gửi. 
+- Lưu ý: với phiếu Sinh viên chưa gửi, cố vấn học tập không thể chấm điểm được. 
+ 
+Bước 4: Thông tin phiếu chấm điểm rèn luyện hiển thị bao gồm thông tin SV t ự 
+chấm điểm và tập thể lớp lớp chấm điểm 
+ 
+Bước 5: Nhập thông tin đánh giá điểm rèn luyện của sinh viên 
+Lưu ý: Những ô xám màu là những ô điểm hệ thống chấm, người dùng chỉ được 
+điền điểm vào những ô trắng trong thời gian chấm điểm 
+
+
+### Trang 18
+
+ 
+ 
+17 
+ 
+ 
+Bước 6: Sau khi hoàn thiện nhập đủ thông tin, cố vấn có thể Lưu và gửi sau hoặc 
+Gửi ngay thông tin phiếu điểm rèn luyện 
+- Lưu và gửi sau 
++ Người dùng ấn Lưu và gửi sau để lưu lại thông tin phiếu đã chấm điểm 
+ 
+ Lưu phiếu điểm rèn luyện thành công. Sau khi lưu phiếu, người dùng có thể 
+vào tiếp tục chỉnh sửa phiếu chấm điểm rèn luyện. q 
+- Gửi 
++ Người dùng ấn Gửi để gửi thông tin xác nhận phiếu điểm của sinh viên 
+
+
+### Trang 19
+
+ 
+ 
+18 
+ 
+ 
+ Gửi phiếu điểm rèn luyện thành công. Trạng thái của phiếu điểm là CVHT đã 
+nộp 
+2. Phiếu tổng hợp kết quả 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Điểm rèn luyện -> Phiếu tổng hợp kết quả 
+
+
+### Trang 20
+
+ 
+ 
+19 
+ 
+ 
+ Thông tin tổng hợp phiếu điểm của sinh viên trong lớp hiển thị 
+3. Biên bản cuộc họp 
+Bước 1: Cố vấn học tập chọn menu Cố vấn học tập -> Lớp hành chính  
+ Hệ thống hiển thị danh sách lớp hành chính, chọn lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, cố vấn học tập chọn vào tab 
+Điểm rèn luyện -> Biên bản họp 
+
+
+### Trang 21
+
+ 
+ 
+20 
+ 
+ 
+Bước 3: Nhập thông tin biên bản cuộc họp 
+Bước 4: Ấn Lưu để thực hiện lưu thông tin biên bản cuộc họp 
+Bước 5: Ấn Kết thúc cu ộc họp để hoàn thiện biên b ản khi thông tin đã chu ẩn 
+không thay đổi gì nữa 
+Bước 6: Sau khi thực hiện chấm điểm xong cho tất cả sinh viên và kết thúc cuộc 
+họp. Cố vấn học tập ấn Gửi phòng CTSV  để gửi phiếu điểm và biên b ản cho 
+Phòng Chính trị và công tác sinh viên. 
+ 

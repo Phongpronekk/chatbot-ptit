@@ -1,0 +1,123 @@
+{
+  "id": 32969,
+  "date": "2025-10-16T16:22:56",
+  "date_gmt": "2025-10-16T09:22:56",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32969"
+  },
+  "modified": "2025-10-16T16:23:59",
+  "modified_gmt": "2025-10-16T09:23:59",
+  "slug": "dieu-chinh-ke-hoach-hoc-giao-duc-quoc-phong-an-ninh-doi-voi-khoa-2025-he-dai-hoc-chinh-quy-co-so-dao-tao-ha-noi",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/dieu-chinh-ke-hoach-hoc-giao-duc-quoc-phong-an-ninh-doi-voi-khoa-2025-he-dai-hoc-chinh-quy-co-so-dao-tao-ha-noi/",
+  "title": {
+    "rendered": "Điều chỉnh kế hoạch học Giáo dục quốc phòng &#8211; An ninh đối với khóa 2025 hệ Đại học chính quy – Cơ sở đào tạo Hà Nội"
+  },
+  "content": {
+    "rendered": "<p>Ngày 01/10/2025, Bộ trưởng Bộ Quốc phòng đã ban hành Quyết định số 4887/QĐ-BQP về việc điều chỉnh, bổ sung danh sách liên kết đào tạo môn học giáo dục quốc phòng và an ninh (GDQP-AN). Theo đó, Học viện được phân công, bố trí liên kết đào tạo với Trung tâm GDQP-AN (Trung tâm) thuộc Trường Quân sự Bộ tư lệnh Thủ đô Hà Nội.</p>\n<p>Căn cứ kết quả buổi làm việc giữa Học viện và Trung tâm ngày 16/10/2025 về kế hoạch liên kết đào tạo môn học GDQP-AN. Phòng Giáo vụ thông báo về việc điều chỉnh kế hoạch học GDQP-AN đối với khóa 2025 hệ Đại học chính quy của Cơ sở đào tạo Hà Nội như sau:</p>\n<p>&#8211; Thời gian học tập dự kiến: Tháng 4-7/2026 theo từng đợt, từng ngành.</p>\n<p>&#8211; Nội dung học tập: theo chương trình GDQP-AN của Bộ GD&amp;ĐT.</p>\n<p>&#8211; Địa điểm học tập: Trung tâm GDQP-AN thuộc Trường Quân sự Bộ tư lệnh Thủ đô Hà Nội. Địa chỉ: Phường Tùng Thiện &#8211; TP Hà Nội (Xã Xuân Sơn, TX Sơn Tây, TP Hà Nội trước đây).</p>\n<p>Phòng Giáo vụ sẽ có thông báo cụ thể kế hoạch học tập môn học GDQP-AN của từng đợt, từng ngành trong học kỳ 2 năm học 2025-2026.</p>\n<p>Trân trọng!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 01/10/2025, Bộ trưởng Bộ Quốc phòng đã ban hành Quyết định số 4887/QĐ-BQP về việc điều chỉnh, bổ sung danh sách liên kết đào tạo môn học giáo dục quốc phòng và an ninh (GDQP-AN). Theo đó, Học viện được phân công, bố trí liên kết đào tạo với Trung tâm GDQP-AN (Trung tâm) [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32449,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32969",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32969",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32969"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32969/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32449"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32969"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32969"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32969"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,1071 @@
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+HỌC VIỆN CÔNG NGHỆ
+849061190367BƯU CHÍNH VIỄN THÔNG
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+737736195988Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày     tháng     năm 2025
+
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình (tiếng Việt):
+Trí tuệ nhân tạo vạn vật
+Tên chương trình (tiếng Anh):
+Artificial Intelligence of Things (AIoT) 
+Tên ngành (tiếng Việt):
+Kỹ thuật điện tử viễn thông
+Tên ngành (tiếng Anh):
+Electronic Telecommunication Engineering
+Trình độ đại học:
+Đại học
+Mã số:
+7520207
+Hình thức đào tạo:
+Chính quy
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng     năm 2025 của Giám đốc Học viện)
+1. MỤC TIÊU
+1.1. Mục tiêu chung
+Mục tiêu của chương trình nhằm cung ứng nguồn nhân lực trình độ đại học trong lĩnh vực Trí tuệ nhân tạo vạn vật có bản lĩnh chính trị vững vàng, đạo đức nghề nghiệp; có kiến thức, kỹ năng sáng tạo và năng lực kỹ thuật số làm chủ công nghệ, phát triển mô hình AI trên nền tảng IoT trong bối cảnh công nghệ số liên tục thay đổi. Có khả năng khám phá lý thuyết nền tảng và thực hành chuyên sâu trong lĩnh vực Kỹ thuật điện tử viễn thông; có năng lực phân tích, thiết kế hệ thống, linh kiện và quy trình kỹ thuật trong lĩnh vực điện tử viễn thông, kết hợp kiến thức liên ngành về trí tuệ nhân tạo (AI) và Internet vạn vật (IoT); có năng lực tiến hành thí nghiệm, thu thập dữ liệu từ thiết bị IoT, phân tích và đánh giá hiệu quả của các giải pháp kỹ thuật thông qua phương pháp ứng dụng AI vào xử lý dữ liệu; có năng lực kĩ thuật số để chủ động làm việc với công nghệ và khả năng học tập, bám sát những thay đổi của công nghệ. 
+Thông qua chương trình đào tạo, sinh viên sẽ khám phá cơ sở lý thuyết về lĩnh vực Internet vạn vật, trí tuệ nhân tạo, có kĩ năng cơ sở về khai phá dữ liệu và xử lý dữ liệu IoT và phát triển các mô hình trí tuệ nhân tạo ứng dụng trên các thiết bị IoT. 
+1.2. Mục tiêu cụ thể (Program Objectives – POs)
+PO1: Áp dụng kiến thức và kỹ năng để đạt được thành công trong sự nghiệp và/hoặc học tập lên bậc sau đại học để lấy được bằng cấp cao hơn.
+PO2: Hành xử có đạo đức và trách nhiệm, đóng góp tích cực cho lĩnh vực chuyên môn và xã hội.
+PO3: Giải quyết các vấn đề một cách sáng tạo, có khả năng làm việc độc lập cũng như làm việc nhóm trong nhiều môi trường một cách hiệu quả
+PO4: Áp dụng các kiến thức và kỹ năng làm việc chuyên nghiệp trong một số lĩnh vực: phân tích dữ liệu, xây dựng và thiết kế phần cứng, phần mềm ứng dụng trí tuệ nhân tạo trên các thiết bị IoT 
+1.3. Vị trí việc làm sau tốt nghiệp
+AIoT là sự kết hợp giữa Trí tuệ nhân tạo (AI) và Internet vạn vật (IoT), hướng đến việc tích hợp khả năng xử lý thông minh trực tiếp vào các thiết bị IoT. Khác với mô hình truyền thống phụ thuộc vào điện toán đám mây, AIoT tập trung vào xử lý dữ liệu tại biên (edge), cho phép thiết bị tự phân tích và đưa ra quyết định ngay tại nguồn phát sinh dữ liệu. Điều này giảm thiểu độ trễ, tiết kiệm băng thông và nâng cao tính bảo mật bằng cách hạn chế truyền tải dữ liệu nhạy cảm lên đám mây.
+Với những kiến thức nền tảng toàn diện, hiện đại và thực tiễn liên quan đến trí tuệ nhân tạo vạn vật của Học viện, sau khi tốt nghiệp, sinh viên sẽ có nhiều cơ hội việc làm hấp dẫn tại các doanh nghiệp trong nước và nước ngoài. 
+Sinh viên tốt nghiệp Chương trình đào tạo Trí tuệ nhân tạo vạn vật tại PTIT có thể làm việc tại các vị trí như:
+- Kiến trúc sư hệ thống AIoT: Thiết kế hệ thống tích hợp AI vào thiết bị IoT, tối ưu hóa xử lý dữ liệu , với kiến thức và kỹ năng về AI/ML, IoT protocols (MQTT, CoAP), Cloud (AWS/Azure/GCP), Edge Computing;
+- Kỹ sư xử lý dữ liệu AIoT: Xây dựng hệ thống xử lý dữ liệu từ thiết bị IoT, phát triển mô hình AI, với kiến thức và kỹ năng về Python, Deep learning, Big Data, IoT Platforms;
+- Kỹ sư an toàn thông tin AIoT: Đảm bảo an ninh, an toàn thông tin cho hệ thống AIoT, chống tấn công mạng và rò rỉ dữ liệu, xây dựng giải pháp phòng thủ, kiểm thử xâm nhập…;
+- Kỹ sư phát triển sản phẩm AIoT: Nghiên cứu, thiết kế và phát triển thiết bị thông minh, ứng dụng AI chạy trên thiết bị thông minh.
+Bên cạnh đó, với nền tảng kiến thức lý thuyết và thực tiễn vững chắc, sau khi tốt nghiệp, sinh viên cũng có thể tự tạo lập doanh nghiệp, trở thành cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các Viện, Trung tâm nghiên cứu và các Cơ sở đào tạo; Sinh viên cũng có thể tiếp tục học tiếp lên trình độ Sau đại học ở trong nước và nước
+2. CHUẨN ĐẦU RA (Learning Outcomes – LOs)
+Các chuẩn đầu ra (Learning Outcomes – LOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo:
+Chuẩn đầu ra (LOs)
+Chỉ báo (PIs)
+LO1. Tuân theo trách nhiệm đạo đức và nghề nghiệp của mình, nhận biết được tác động của các giải pháp kỹ thuật đối với xã hội, kinh tế và môi trường
+PI1.1: Hiểu và tuân theo các quy định pháp luật nói chung và các quy định đặc thù với nghề nghiệp của mình
+PI 1.2: Phân tích được tác động của giải pháp kỹ thuật đối với xã hội, kinh tế và môi trường
+LO2. Truyền đạt, trao đổi thông tin, trình bày ý tưởng một cách hiệu quả thông qua báo cáo hoặc thuyết trình trước đồng nghiệp, đối tác hoặc các đối tượng phi chuyên môn
+PI2.1: Sự dụng thành thạo các công cụ tin học hỗ trợ để soạn thảo văn bản hoặc tạo các nội dung đa phương tiện
+PI 2.2: Xây dựng và trình bày được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định.
+PI 2.3: Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ.
+LO3: Làm việc hiệu quả trong các nhóm đa ngành, biết cách hợp tác, trao đổi thông tin hiệu quả để hoàn thành các dự án kỹ thuật phức tạp
+PI3.1: Phối hợp, chia sẻ công việc trong một nhóm
+PI 3.2: Khả năng thích ứng và cam kết hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm
+PI 3.3: Xác định mục tiêu và thời hạn, lập kế hoạch công việc, tổ chức và điều phối các hoạt động nhóm hiệu quả
+LO4. Phân tích vấn đề, và áp dụng kiến thức toán học, vật lý và các nguyên lý kỹ thuật để giải quyết các vấn đề trong lĩnh vực điện tử viễn thông
+PI4.1: Phân loại được bài toán cần giải quyết, chỉ ra các tham số chính cần xác định
+PI 4.2: Phân tích giải pháp cho một vấn đề thuộc lĩnh vực điện tử viễn thông
+LO5. Phân tích, thiết kế các hệ thống, linh kiện hoặc quy trình kỹ thuật trong lĩnh vực điện tử viễn thông
+
+PI5.1: Trình bày hoạt động, chức năng của các hệ thống điện tử viễn thông, thiết bị IoT, các phương pháp thu thập, lưu trữ và phân tích dữ liệu 
+PI 5.2: Phân tích và xác định được tham số hoạt động của các phần tử, mạch thành phần trong hệ thống thiết bị điện tử viễn thông, thiết bị IoT, phần mềm ứng dụng trí tuệ nhân tạo trên các thiết bị IoT 
+PI 5.3: Thiết kế, phân tích quy trình kỹ thuật trong hệ thống điện tử viễn thông, thiết bị IoT và phần mềm ứng dụng trí tuệ nhân tạo trên các thiết bị IoT
+LO6: Tiến hành thí nghiệm, thu thập dữ liệu và phân tích kết quả nhằm đánh giá hiệu quả của các giải pháp kỹ thuật thuộc lĩnh vực kỹ thuật điện tử viễn thông
+PI 6.1: Nhớ được, Tuân thủ và thực hiện đúng quy trình thí nghiệm
+PI 6.2: Sử dụng và thao tác vận hành các thiết bị thí nghiệm tương ứng với nội dung kiến thức thuộc ngành kỹ thuật điện tử viễn thông, trí tuệ nhân tạo trên các thiết bị IoT 
+PI 6.3: Phân tích, Đánh giá được dữ liệu thu thập trong quá trình thí nghiệm
+LO7: Thiết kế giải pháp cho các vấn đề kỹ thuật phức tạp trong lĩnh vực điện tử viễn thông thông qua việc áp dụng các kỹ thuật và công cụ hiện đại. Nhận thức được tầm quan trọng của việc học tập liên tục để phát triển bản thân, nâng cao chuyên môn để thích ứng với sự phát triển của ngành kỹ thuật.
+PI 7.1: Sử dụng được các công cụ kỹ thuật chuyên ngành trong lĩnh vực điện tử viễn thông, thiết bị IoT, trí tuệ nhân tạo 
+PI 7.2: Phân tích vấn đề, thiết kế giải pháp và áp dụng các kỹ thuật, công cụ để giải quyết vấn đề phức tạp trong lĩnh vực điện tử viễn thông, thiết bị IoT và trí tuệ nhân tạo 
+PI 7.3: Đọc hiểu, phân tích và tự tổng hợp các kiến thức mới trong lĩnh vực điện tử viễn thông
+3. KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: 151 tín chỉ (không bao gồm cả Giáo dục thể chất, Giáo dục quốc phòng và các môn Kỹ năng mềm)
+4. ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO: 
+Là người đã tốt nghiệp THPT hoặc tương đương, tham dự và trúng tuyển (đạt các yêu cầu đầu vào) trong kỳ tuyển sinh đại học hệ chính quy với tổ hợp xét tuyển: Toán, Lý, Hóa (A00 – khối A0); hoặc Toán, Lý, Anh văn (A01 – khối A1) hoặc các phương thức xét tuyển riêng khác của Học viện Công nghệ Bưu chính Viễn thông.
+5. QUY TRÌNH ĐÀO TẠO
+5.1. Quy trình đào tạo
+Chương trình đào tạo chuẩn được tổ chức thực hiện trong 4,5 năm với 09 học kỳ (chuẩn), trong đó 08 học kỳ tích lũy kiến thức tại Học viện và 01 kỳ thực tập chuyên sâu, thực tập thực tế tại doanh nghiệp. Trong 08 học kỳ tích lũy kiến thức, sinh viên có khoảng 30% thời lượng học tập được giảng dạy, hướng dẫn, cố vấn bởi các chuyên gia đến từ doanh nghiệp; thực hành và tham gia các dự án thực tế tại Doanh nghiệp. Cuối khóa, sinh viên làm khoá luận tốt nghiệp thông qua các dự án thực tế của Doanh nghiệp. 
+Chương trình đào tạo ưu tiên và khuyến khích sinh viên chủ động xây dựng kế hoạch học tập cá nhân theo hướng rút ngắn thời gian đào tạo của cá nhân xuống còn 4 năm.
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục và Đào tạo và của Học viện Công nghệ Bưu chính Viễn thông.
+5.2. Công nhận tốt nghiệp
+Kết thúc khoa học, sinh viên được công nhận tốt nghiệp và cấp bằng Kỹ sư Kỹ thuật Điện tử Viễn thông (định hướng Trí tuệ nhân tạo vạn vật) trình độ đại học hệ chính quy khi đã hội tụ đủ các tiêu chuẩn theo Quy chế đào tạo đại học theo hệ thống tín chỉ.
+6. THANG ĐIỂM
+Việc đánh giá kết quả học tập sẽ được đánh giá theo thang điểm tín chỉ. Cụ thể: Điểm chữ (A, B, C, D, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các môn học/học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+
+Từ 5,0 đến 5,5
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+Không đạt
+Dưới 4,0
+F
+0,0
+Loại đạt không phân mức (áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập): Từ 5,0 điểm trở lên; điểm chữ là P
+7. NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO
+7.1 Cấu trúc chương trình đào tạo
+STT
+Khối kiến thức
+Số lượng tín chỉ
+1
+Kiến thức giáo dục đại cương
+46
+1.1
+Khối kiến thức chung
+25
+1.1.1
+Lý luận chính trị
+11
+1.1.2
+Tiếng Anh
+14
+1.2
+Khối kiến thức khoa học tự nhiên và xã hội
+21
+2
+Kiến thức giáo dục chuyên nghiệp
+93
+2.1
+Khối kiến thức cơ sở (nhóm ngành và ngành)
+54
+2.2
+Khối kiến thức chuyên ngành
+39
+3
+Thực tập và tốt nghiệp
+12
+CỘNG:
+151
+7.2. Nội dung chương trình đào tạo
+7.2.1. Khối kiến thức chung
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Lên lớp (tiết)
+Thí nghiệm/
+thực hành (tiết)
+Mã số học phần 
+học tiên quyết
+
+Ghi chú
+
+
+
+
+Lý thuyết
+Bài tập/thảo luận
+
+
+
+1
+Triết học Mác-Lênin
+BAS1150
+3
+
+
+
+
+
+2
+Kinh tế chính trị Mác-Lênin
+BAS1151
+2
+
+
+
+
+
+3
+Chủ nghĩa xã hội khoa học
+BAS1152
+2
+
+
+
+BAS1151
+
+4
+Tư tưởng Hồ chí Minh
+BAS1122
+2
+
+
+
+BAS1152
+
+5
+Lịch sử Đảng cộng sản Việt Nam
+BAS1153
+2
+
+
+
+BAS1122
+
+6
+Tiếng Anh Course 1
+BAS1157
+4
+
+
+
+
+
+7
+Tiếng Anh Course 2
+BAS1158
+4
+
+
+
+BAS1157
+
+8
+Tiếng Anh Course 3
+BAS1159
+4
+
+
+
+BAS1158
+
+9
+Tiếng Anh Course 3 Plus
+BAS1160
+2
+
+
+
+BAS1159
+
+
+Tổng:
+
+25
+
+
+
+
+
+
+Giáo dục thể chất và Giáo dục quốc phòng
+1
+Giáo dục thể chất 1
+BAS1106
+2
+4
+
+26
+
+
+2
+Giáo dục thể chất 2
+BAS1107
+2
+4
+
+26
+BAS1106
+
+3
+Giáo dục Quốc phòng
+BAS1105
+7,5
+
+
+
+
+
+
+Kiến thức phát triển kỹ năng
+1
+Kỹ năng tạo lập văn bản TV
+SKD1103
+1
+7
+8
+
+
+
+2
+Kỹ năng thuyết trình 
+SKD1101
+1
+7
+8
+
+
+
+3
+Kỹ năng làm việc nhóm 
+SKD1102
+1
+7
+8
+
+
+
+(*): Điều kiện để đăng ký học phần tiếng Anh Course 1 trong chương trình là sinh phải đạt trình độ tiếng Anh từ 225 điểm theo bài bài thi TOEIC Placement test trở lên; các thí sinh chưa đạt mức điểm trên sẽ phải hoàn thành học phần tiếng Anh bổ trợ Course 0 (mã BAS1156)
+7.2.2. Khối kiến thức Khoa học tự nhiên và xã hội
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Lên lớp (tiết)
+Thí nghiệm/
+thực hành (tiết)
+Mã số học phần 
+học tiên quyết
+
+
+
+
+Lý thuyết
+Bài tập/thảo luận
+
+
+11
+Đại số
+BAS1201
+3
+37
+8
+
+
+10
+Giải tích 1
+BAS1203
+3
+37
+8
+
+
+11
+Giải tích 2
+BAS1204
+3
+37
+8
+
+BAS1203
+12
+Vật lý 1 và thí nghiệm
+BAS1224
+4
+46
+6
+8
+
+13
+Vật lý 2 và thí nghiệm
+BAS 1225
+4
+46
+6
+8
+BAS1224
+14
+Xác suất thống kê
+BAS1226
+2
+24
+6
+
+
+15
+Pháp luật đại cương
+BSA1221
+2
+24
+6
+
+
+
+Tổng
+
+21
+
+
+
+
+7.2.3. Kiến thức giáo dục chuyên nghiệp
+7.2.3.1. Khối kiến thức cơ sở ngành
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Lên lớp (tiết)
+Thí nghiệm/
+thực hành (tiết)
+Mã số học phần học tiên quyết
+
+
+
+
+Lý thuyết
+Bài tập/thảo luận
+
+
+16
+Nhập môn lập trình với Python
+RIPT1301
+3
+27
+10
+8
+
+17
+Lập trình Web
+RIPT1306
+3
+31
+8
+6
+
+18
+Tín hiệu và hệ thống
+TEL1368
+3
+35
+10
+
+
+19
+Kiến trúc máy tính
+TEL1338
+2
+26
+4
+  
+
+20
+Linh kiện và mạch điện tử
+ELE13105
+3
+31
+8
+6
+
+21
+Điện tử số
+ELE1309
+3
+33
+8
+4
+
+22
+Xử lý tín hiệu số
+ELE13101
+3
+31
+14
+
+
+23
+Nhập môn học máy
+AI1309
+3
+31
+8
+6
+
+24
+Nhập môn trí tuệ nhân tạo vạn vật
+RIPT1320
+2
+18
+12
+
+
+25
+Toán rời rạc
+TEL1337
+3
+39
+6
+ 
+
+26
+Cơ sở an toàn thông tin
+INT1472
+3
+31
+8
+6
+
+27
+Hệ điều hành
+TEL1339
+2
+26
+4
+ 
+
+28
+Nhập môn công nghệ phần mềm
+INT1340
+3
+37
+8
+
+
+29
+Kỹ thuật mạng truyền thông
+TEL1405
+3
+33
+8
+4
+
+30
+Kiến trúc và giao thức IoT
+TEL1452
+2
+26
+4
+  
+
+31
+Hệ quản trị cơ sở dữ liệu và ứng dụng
+RIPT1321
+3
+30
+5
+10
+
+32
+Nhập môn DevOps
+RIPT1416
+3
+33
+2
+10
+
+33
+Mạng cảm biến thông minh
+RIPT1322
+3
+24
+21
+
+
+34
+Thực tập cơ sở
+RIPT1331
+2
+
+
+30
+
+35
+Nhập môn phân tích dữ liệu
+RIPT1323
+2
+18
+12
+
+
+
+Tổng
+
+54
+
+
+
+
+7.2.3.2. Khối kiến thức chuyên ngành
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Lên lớp (tiết)
+Thí nghiệm/
+thực hành (tiết)
+Mã số học phần học trước
+
+
+
+
+Lý thuyết
+Bài tập/thảo luận
+
+
+37
+Phát triển ứng dụng trí tuệ nhân tạo 
+AI1415
+3
+35
+6
+4
+
+38
+Học sâu và ứng dụng trong IoT
+RIPT1424
+3
+21
+12
+12
+
+39
+Quản trị cơ sở dữ liệu nâng cao
+RIPT1414
+3
+33
+2
+10
+
+40
+Phát triển ứng dụng IoT
+RIPT1425
+3
+17
+
+28
+
+41
+An toàn Internet of Things
+RIPT1426
+3
+27
+12
+6
+
+42
+Đổi mới sáng tạo và Khởi nghiệp
+RIPT1427
+3
+17
+28
+ 
+
+43
+Điện toán đám mây
+RIPT1415
+3
+9
+36
+ 
+
+44
+Mô hình ngôn ngữ lớn
+AI1411
+3
+37
+8  
+
+
+45
+Công nghệ phân tích dữ liệu lớn
+RIPT1428
+3
+37
+8
+ 
+
+
+Tổng
+
+27
+
+
+
+
+
+Học phần tự chọn (Chọn 4 trong 9 học phần)
+46
+Nhập môn Robotics
+AI1416
+3
+35
+6
+4
+
+47
+Hệ thống nhúng IoT
+TEL1457
+3
+33
+6
+6
+
+48
+Cấu trúc dữ liệu và giải thuật
+TEL1342
+3
+33
+8
+4
+
+49
+Phân tích dữ liệu chuỗi thời gian 
+INT14168
+3
+33
+12
+
+
+50
+Mô hình tạo sinh
+AI1417
+3
+35
+6
+4
+
+51
+Lập trình song song
+AI1420
+3
+35
+6
+4
+
+52
+Trí tuệ nhân tạo cho tính toán biên
+AI1419
+3
+35
+6
+4
+
+53
+Thông tin di động
+TEL1415
+3
+33
+8
+4
+
+54
+Hệ trợ giúp quyết định
+INT1421
+3
+37
+8
+
+
+
+7.2.4. Thực tập tốt nghiệp (6 TC – RIPT1529) và Khoá luận tốt nghiệp (6 TC- RIPT1530): 12 tín chỉ
+8. HƯỚNG DẪN THỰC HIỆN CHƯƠNG TRÌNH
+8.1. Kế hoạch học tập chuẩn (Chi tiết kèm theo)
+8.2. Tiến trình học tập chuẩn (Chi tiết kèm theo)
+8.3. Danh sách các môn học tiên quyết, trước sau hoặc song hành (Chi tiết kèm theo)
+9. MÔ TẢ TÓM TẮT CÁC MÔN HỌC CỐT LÕI
+Nhập môn lập trình với Python
+Mã môn học: RIPT1301
+Số tín chỉ: 03
+Môn học tiên quyết/học trước:
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn doanh nghiệp tại PTIT
+Tóm tắt nội dung:
+Môn học này cung cấp cho sinh viên những kiến thức cơ bản và làm quen với lập trình như các khái niệm lập trình cơ bản: biến và cấu trúc dữ liệu (danh sách, từ điển…), hàm cơ bản; cấu trúc lệnh: cấu trúc lệnh chọn lựa, cấu trúc lệnh vòng lặp; lớp đối tượng: tạo lớp với các chức năng cơ bản, tái sử dụng lớp với import và một số thư viện phổ biến khi lập trình với lớp; xử lý tệp tin và ngoại lệ: xử lý vào ra với tập tin, các ngoại lệ, và cách thức xử lý các lỗi cơ bản trong khi lập trình với python. Bên cạnh đó, dựa trên những kiến thức cơ bản về lập trình, sinh viên được tiếp cận một số dự án học tập: cho phép người học ứng dụng các kiến thức đã học để triển khai một số dự án mang tính thực tế quy mô nhỏ.
+Lập trình web
+Mã môn học: RIPT1306
+Số tín chỉ: 03
+Môn học tiên quyết/học trước:
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn doanh nghiệp tại PTIT
+Tóm tắt nội dung:
+Học phần này cung cấp kiến thức căn bản trong việc phát triển ứng dụng web trên nền tảng Javascript, các kiến thức cơ bản về các kỹ thuật lập trình web phía Client với HTML, CSS, JS, AJAX. Tiếp đó, học phần sẽ cung cấp các kiến thức về lập trình web kết nối với máy chủ thông qua API và các thư viện hỗ trợ. Sinh viên được cung cấp kiến thức tổng quan của các thư viện hỗ trợ triển khai các dự án Web phổ biến trên thế giới như Strapi, AntDesign, VueJS, ReactJS… 
+Tín hiệu và hệ thống
+Mã môn học: TEL1368
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Nội dung môn học tập trung vào đặc trưng các tín hiệu liên tục và rời rạc về thời gian; các kỹ thuật khai triển cho việc phân tích tín hiệu và hệ thống. Sau khi học xong môn này, người học nắm được các khái niệm cơ bản về tín hiệu và hệ thống, cách phân tích và đặc trưng tín hiệu và các hệ thống khác nhau và làm cơ sở cho các môn học tiếp theo. Những phần nội dung cụ thể trong môn học bao gồm: Cơ sở toán kỹ thuật; Tín hiệu và phân loại; Đáp ứng xung và tích chập; Không gian trạng thái; Khai triển Fourier; Khai triển Laplace và khai triển z; Các kiểu hệ thống và đặc tính: Hệ thống LTI, hệ thống phi tuyến rời rạc;
+Kiến trúc máy tính
+Mã môn học: TEL1338
+Số tín chỉ: 02
+Môn học tiên quyết/học trước: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Môn học cung cấp cho sinh viên các kiến thức về Kiến trúc máy tính thông dụng bao gồm Kiến trúc máy tính tổng quát, kiến trúc CPU và các thành phần của CPU, kiến trúc tập lệnh, giới thiệu về nguyên lý hoạt động và các vấn đề của cơ chế ống lệnh; hệ thống phân cấp của bộ nhớ, các thành phần của bộ nhớ trong, bao gồm bộ nhớ ROM, RAM và bộ nhớ cache; các loại bộ nhớ ngoài và các loại hệ thống lưu trữ ngoài tiên tiến; hệ thống bus và các thiết bị vào ra; và các kỹ thuật ghép nối máy tính cơ bản.
+Linh kiện và mạch điện tử
+Mã môn học: ELE13105
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Những phần nội dung cụ thể trong môn học bao gồm: Cấu trúc và hoạt động các loại diode bán dẫn; Các mạch ứng dụng diode bán dẫn; Cấu trúc và hoạt động của transistor lưỡng cực; Mạch khuếch đại tín hiệu sử dụng BJT; Cấu trúc và hoạt động của transistor hiệu ứng trường (FET); Mạch khuếch đại tín hiệu sử dụng FET; Mạch khuếch đại thuật toán và ứng dụng; Các mạch tạo dao động và hồi tiếp; Các mạch cung cấp nguồn điện.
+Điện tử số
+Mã môn học: ELE1309
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Những phần nội dung cụ thể trong môn học bao gồm: Đại số logic và cổng logic: các hệ thống đếm, hệ đếm nhị phân, các định luật cơ bản, phương pháp biểu diễn hàm logic, các hàm cơ bản, cổng logic và các tham số; Mạch logic tổ hợp: tổng quát mạch logic tổng hợp, mạch mã hóa và giải mã, mạch ghép và phân kênh, đơn vị số học và logic ALU; Mạch logic tuần tự: tổng quát mạch logic tuần tự, phương pháp mô tả và phân tích mạch, thiết kế bộ đếm, bộ ghi dịch; Bộ chuyển đổi ADC và DAC: tổng quát về DAC và đặc tính, tổng quát về ADC và đặc tính, xây dựng hệ ghép nối ADC và DAC với máy tính; Vòng khóa pha: cấu trúc và ứng dụng của vòng khóa pha PLL, kỹ thuật tổ hợp tần số, máy phát điều khiển số; Mạch logic khả lập trình: các thiết bị logic khả lập trình và ứng dụng, mạch CPLD, FPGA.  
+Nhập môn học máy
+Mã môn học: AI1309
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Học phần “Nhập môn học máy” cung cấp các kiến thức nền tảng về các mô hình học máy cơ bản. Sinh viên sẽ được học chi tiết về nền tảng toán học của các mô hình học máy cơ bản. Học phần nhập môn học máy giúp sinh viên làm quen với các mô hình học máy truyền thống, hiểu cách ứng dụng các mô hình học máy này vào giải quyết các bài toán tính toán thực tế. Thông qua bài tập và dự án thực hành, sinh viên sẽ phát triển kỹ năng sử dụng các mô hình học máy và hiểu sự hoạt động của các mô hình học máy trong lĩnh vực trí tuệ nhân tạo.
+Nhập môn trí tuệ nhân tạo vạn vật
+Mã môn học: RIPT1320
+Số tín chỉ: 02
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Học phần “Nhập môn Trí tuệ nhân tạo vạn vật” là học phần bắt buộc thuộc kiến thức cơ sở ngành trong chương trình đào tạo đại học chính quy ngành Kỹ thuật Điện tử viễn thông.
+Nội dung của học phần gồm: giới thiệu những kiến thức cơ bản về trí tuệ nhân tạo vạn vật (AIoT) như khái niệm, đặc điểm, sự tiến hóa từ Internet vạn vật (IoT) tới trí tuệ nhân tạo vạn vật, thách thức trong các hệ thống IoT, sự cải tiến của AIoT; cách thức, vị trí và lợi ích của ứng dụng AI trong IoT; nền tảng trí tuệ nhân tạo (học giám sát, học bán giám sát, học không giám sát, học tăng cường, …); nền tảng Internet vạn vật (cảm biến và truyền động IoT và ứng dụng các loại cảm biến thông dụng (Analog, Digital) để thực hiện các chức năng điều khiển, giám sát thiết bị thông minh trong dân dụng, phân loại và cấu trúc xử lý IoT); kiến trúc trí tuệ nhân tạo vạn vật; AIoT ứng dụng trong một số lĩnh vực; quản lý dữ liệu trong AIoT; bảo mật và vấn đề riêng tư AIoT. 
+Toán rời rạc
+Mã môn học: TEL1337
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Học phần bao gồm ba phần chính: Lí thuyết tổ hợp, lí thuyết đồ thị và toán đại số logic. Phần thứ nhất cung cấp các kiến thức căn bản về lí thuyết tổ hợp với 4 bài toán căn bản bài toán đếm, bài toán tồn tại, bài toán tối ưu và bài toán liệt kê. Phần hai đề cập đến lí thuyết đồ thị, một cấu trúc rời rạc có nhiều ứng dụng trong các lĩnh vực kỹ thuật. Phần này giới thiệu các bài toán quan trọng trong thực tiễn như bài toán đường đi ngắn nhất, bài toán cây khung nhỏ nhất, bài toán luồng cực đại trên mạng, ... Phần ba liên quan đến các hàm đại số logic, là cơ sở để nắm bắt các vấn đề phức tạp trong kỹ thuật máy tính. Phần này đi sâu vào các vấn đề tối thiểu hóa hàm đại số logic và các thuật toán quan trọng khác.
+Cơ sở an toàn thông tin
+Mã môn học: INT1472
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Học phần cung cấp: Môn học cung cấp cho sinh viên các khái niệm và nguyên tắc cơ bản về đảm bảo an toàn thông tin, an toàn máy tính, an toàn hệ thống thông tin và mạng; các nguy cơ và các lỗ hổng gây mất an toàn; các dạng tấn công, xâm nhập thường gặp; các dạng phần mềm độc hại; các giải pháp, kỹ thuật và công cụ phòng chống, đảm bảo an toàn thông tin, hệ thống và mạng; vấn đề quản lý an toàn thông tin, chính sách, pháp luật và đạo đức an toàn thông tin.
+Hệ điều hành
+Mã môn học: TEL1339
+Số tín chỉ: 02
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Hệ điều hành là môn cơ sở bắt buộc, cung cấp cho sinh viên kiến thức về nguyên lý và khái niệm các hệ điều hành nói riêng và hoạt động của hệ thống máy tính nói chung. Sinh viên được cung cấp kiến thức về: cấu trúc và đặc điểm chung của hệ điều hành, vai trò hệ điều hành trong hệ thống máy tính, các kỹ thuật quản lý tiến trình, quản lý bộ nhớ bao gồm cả bộ nhớ vật lý và bộ nhớ ảo, các vấn đề liên quan tới file và hệ thống quản lý file. Mặc dù không đi sâu vào vấn đề thiết kế và xây dựng hệ điều hành, sinh viên sẽ được làm quen với chi tiết cụ thể về tổ chức bên trong một số thành phần của hệ điều hành và có thể xây dựng một số mô-đun đơn giản.
+Nhập môn công nghệ phần mềm
+Mã môn học: INT1340
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Môn học nhằm cung cấp các khái niệm và phương pháp liên quan đến tiến trình phát triển phần mềm, bắt đầu từ lấy yêu cầu, thiết kế, cài đặt, kiểm thử, triển khai và bảo trì. Giúp sinh viên nắm được các khái niệm liên quan đến đảm bảo chất lượng phần mềm, các chuẩn chất lượng cơ bản trong quy trình phát triển phần mềm. Nắm được các hoạt động, kỹ thuật đảm bảo chất lượng phần mềm, các công nghệ đánh giá & kiểm thử khác nhau trong mỗi giai đoạn của tiến trình phát triển phần mềm. Sau khi hoàn thành môn học này, sinh viên nắm được các vấn đề liên quan trong phát triển phần mềm như khía cạnh kinh tế, công nghệ và sử dụng tài nguyên nhân lực.
+Kỹ thuật mạng truyền thông
+Mã môn học: TEL1405
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Học phần cung cấp các kiến thức căn bản về nguyên lí và các kỹ thuật xây dựng mạng truyền thông; các phần tử cấu thành mạng và phương pháp kết nối chúng dựa trên mô hình phân lớp mạng; các quá trình và thủ tục diễn ra tại các lớp mạng; các đặc tả, chuẩn công nghệ và giao thức đảm bảo cho hoạt động truyền thông dữ liệu qua mạng. Song song với việc được trang bị các kiến thức nền tảng về kỹ thuật mạng, sinh viên sẽ được dành một phần lớn hàm lượng thời gian lí thuyết và thực hành để đi sâu vào nghiên cứu, tìm hiểu các kỹ thuật và giao thức cơ bản của mạng dựa trên mô hình TCP/IP; xu hướng phát triển và đặc điểm của các công nghệ mạng trên nền IP; các giải pháp kỹ thuật để triển khai mạng IP với những qui mô và đặc thù khác nhau cũng như là cách thức cài đặt, cấu hình các thiết bị mạng IP.
+Cấu trúc dữ liệu và giải thuật
+Mã môn học: TEL1342
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Học phần Cấu trúc dữ liệu và giải thuật trang bị cho sinh viên những kiến thức cơ sở quan trọng để sinh viên học tập tốt các môn học chuyên ngành tiếp theo. Bên cạnh đó, môn học cũng tập trung trang bị cho sinh viên các thuật toán trên các kiểu dữ liệu cơ bản, cung cấp cho sinh viên phương pháp biểu diễn ngăn xếp, hàng đợi và danh sách liên kết cùng các thuật toán trên các cấu trúc dữ liệu này, các phương pháp biểu diễn cây nhị phân cùng các thuật toán trên cây nhị phân. Môn học cũng hướng đến trang bị cho sinh viên phương pháp biểu diễn đồ thị cùng các thuật toán trên đồ thị cũng như các thuật toán sắp xếp và tìm kiếm cùng với ứng dụng của nó trong khoa học máy tính.
+Hệ thống nhúng IoT
+Mã môn học: TEL1457
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, thực hành
+Tóm tắt nội dung:
+Môn học cung cấp cho người học những kiến thức trong thiết kế các Hệ thống nhúng IoT bao gồm cả các kiến trúc phần cứng và phần mềm. Nội dung môn học sẽ tập trung vào các thành phần và nền tảng phần cứng nhúng, giao tiếp với các môi trường ngoài sử dụng các cảm biến và cơ cấu chấp hành, tổ chức phần mềm nhúng bao gồm cả các Cơ sở hệ điều hành thời gian thực, tổng quan về liên lạc không dây công suất thấp và các miền ứng dụng khác nhau đang nổi lên như IoT. Giới thiệu cơ bản về Hệ thống nhúng IoT: xu hướng, ứng dụng, luồng thiết kế; Nền tảng phần cứng nhúng và các thiết bị ngoại vi; Tổ chức phần mềm nhúng; Truyền thông không dây trong các Hệ thống nhúng IoT; Triển khai và ứng dụng.
+Kiến trúc và giao thức IoT
+Mã môn học: TEL1452
+Số tín chỉ: 02
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Nội dung môn học tập trung vào kiến trúc IoT và các thành phần, hệ thống cơ bản của IoT, cơ chế hoạt động và các giao thức IoT chính. Sinh viên cũng được cung cấp các kiến thức về công nghệ và kỹ thuật nền tảng về phần cứng và phần mềm trong các hệ thống IoT cùng các vấn đề liên quan đến bảo mật và an ninh trong IoT.
+Thực tập cơ sở
+Mã môn học: RIPT1331
+Số tín chỉ: 02
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: tại môi trường doanh nghiệp hoặc phòng thí nghiệm, thực hành tại PTIT
+Tóm tắt nội dung:
+Thực tập cơ sở là môn học cơ sở ngành quan trọng cho sinh viên ngành Công nghệ Internet Vạn vật (IoT). Trong môn học này, sinh viên được trang bị các kiến thức về phân tích, chọn phương án thiết kế một mạch điện tử, mạch cảm biến hoàn chỉnh hoặc/và lập trình trên các bộ vi xử lý Arduino để điều khiển thiết bị trong hệ thống IoT. Bên cạnh đó, môn học còn giúp sinh viên tích lũy các kỹ năng chuyên môn như đọc được các mạch điện cơ bản, sử dụng thành thạo các phần mềm 1 thiết kế và các thiết bị điện tử cơ bản như: đồng hồ vạn năng, mỏ hàn, máy tạo sóng, máy hiện sóng,... 
+Hệ quản trị cơ sở dữ liệu và ứng dụng
+Mã môn học: RIPT1321
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Học phần “Hệ quản trị cơ sở dữ liệu và ứng dụng” cung cấp các kiến thức về: Khái niệm chung về cơ sở dữ liệu, hệ quản trị cơ sở dữ liệu; Mô hình quan hệ và ngôn ngữ truy vấn; Phân tích và thiết kế cơ sở dữ liệu; Vai trò, chức năng và thành phần của hệ quản trị cơ sở dữ liệu; các cơ chế quản lý truy xuất đồng thời với những vấn đề về lịch thao tác, quản lý tương tranh, các nguyên lý lưu trữ và quản lý dữ liệu trên đĩa và file, cấu trúc chỉ mục, phục hồi sau sự cố; NoSQL và dữ liệu lớn; Giới thiệu một số ứng dụng của Cơ sở dữ liệu. Thông qua các bài tập và dự án thực hành, sinh viên sẽ phát triển kỹ năng giải quyết vấn đề trong các lĩnh vực liên quan đến cơ sở dữ liệu, hệ quản trị cơ sở dữ liệu và ứng dụng. 
+Nhập môn Robotics
+Mã môn học: AI1416
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Môn học cung cấp cho sinh viên kiến thức nền tảng về robot học (robotics), bao gồm các thành phần chính của hệ thống robot, cách hoạt động, và các ứng dụng thực tế. Qua môn học này, sinh viên sẽ nắm vững những khái niệm cơ bản về robot, kỹ năng lập trình và điều khiển robot, đồng thời làm quen với việc thiết kế các hệ thống robot cho các ứng dụng cụ thể trong công nghiệp và đời sống. Nội dung chi tiết: Chương 1: Giới thiệu về Robotics với các nội dung như lịch sử phát triển, phân loại robot, cấu trúc và các thành phần cơ bản của robot; Chương 2: Mô tả về động học và động lực học của robot, bao gồm giới thiệu về động học robot, phân tích động học và động lực học của robot, cơ cấu tay máy, hệ thống cảm biến và bộ truyền động; Chương 3: Đưa ra các thuật toán điều khiển robot, bao gồm điều khiển robot cơ bản, điều khiển chuyển động và quỹ đạo, thuật toán điều khiển phản hồi và ứng dụng TTNT trong điều khiển robot, tối ưu hoá và điều khiển hệ thống đa robot; Chương 4: Ứng dụng và phát triển hệ thống robot, bao gồm các nội dung về thiết kế và mô phỏng hệ thống robot, nghiên cứu về ứng dụng chuyên sâu của robot trong các lĩnh vực như vận tải, sản xuất.
+Phân tích dữ liệu chuỗi thời gian
+Mã môn học: INT14168
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, thực hành
+Tóm tắt nội dung:
+Môn học trang bị cho sinh viên những kiến thức trong lĩnh vực phân tích dữ liệu chuỗi thời gian, bao gồm: các khái niệm cơ bản về dữ liệu chuỗi thời gian; một số kỹ thuật xử lý dữ liệu chuỗi thời gian; mô hình thống kế phân tích dữ liệu chuỗi thời gian; trích chọn đặc trưng dữ liệu chuỗi thời gian; mô hình học máy cho phân tích dữ liệu chuỗi thời gian; mô hình học sâu cho phân tích dữ liệu chuỗi thời gian và một số ứng dụng
+Nhập môn DevOps 
+Mã môn học: RIPT1416
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Giới thiệu tổng quan về DevOps, các thành phần cơ bản của DevOps. Các kiến thức cơ bản về triển khai hạ tầng công nghệ thông tin dưới dạng mã (Infrastructure as Code - IaC). Cung cấp khả năng quản lý cấu hình hệ thống (Configuration Management) với các công cụ phổ biến. Trình bày về quy trình phát triển phần mềm hiện đại với những nội dung chính như quy trình tích hợp liên tục (Continuous Integration), phân phối liên tục (Continuous Delivery), trình triển khai liên tục (Continuous Deployment). 
+Mạng cảm biến thông minh
+Mã môn học: RIPT1322
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Học phần Mạng Cảm Biến Thông Minh cung cấp các khái niệm cảm biến thông minh, bao gồm các đặc điểm, kiến trúc, tầng phần mềm và ứng dụng thực tế. Học phần cung cấp hiểu biết toàn diện về mạng cảm biến không dây (WSN), bao gồm các chủ đề quan trọng như giao thức truyền thông, thu thập và xử lý dữ liệu, tối ưu hóa năng lượng, bảo mật, độ tin cậy và khả năng chịu lỗi.
+Ngoài ra, học phần cũng sẽ được tiếp cận với các tiêu chuẩn, nền tảng và công cụ phổ biến trong lĩnh vực mạng cảm biến, từ đó có khả năng đánh giá, lựa chọn các loại cảm biến thông minh phù hợp cho từng ứng dụng cụ thể. Cuối cùng, học phần trang bị kỹ năng thiết kế và triển khai mạng cảm biến, giúp sinh viên có thể áp dụng kiến thức để xây dựng các giải pháp thực tế
+Nhập môn phân tích dữ liệu 
+Mã môn học: RIPT1323
+Số tín chỉ: 02
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Học phần “Nhập môn phân tích dữ liệu” là học phần bắt buộc thuộc kiến thức cơ sở ngành trong chương trình đào tạo đại học chính quy ngành Kỹ thuật Điện tử viễn thông.
+Nội dung của học phần gồm: (1) Giới thiệu các khái niệm, các quy trình, các bộ dữ liệu liên quan trong quá trình phân tích dữ liệu. (2) Nhập, xuất, sắp xếp, tiền xử lý bộ dữ liệu. (3) Phương pháp thăm dò dữ liệu. (4) Phát triển các mô hình phân tích dữ liệu, cách chọn mô hình phân tích dữ liệu sao cho thích hợp hiệu quả với nguồn dữ liệu, cung cấp các kiến thức nâng cao để người học có thể tự thiết kế phát triển các mô hình nghiên cứu trong phân tích dữ liệu. (5) Đánh giá mô hình phân tích dữ liệu. (6) Các kiến thức toán cơ bản thống kê trong phân tích dữ liệu. (7) Các công cụ và phương pháp trực quan hóa dữ liệu trong quá trình phân tích. Trong môn học này, Python đóng vai trò chính hỗ trợ phân tích dữ liệu, chủ yếu tập trung vào các thư viện hỗ trợ sau: Pandas, NumPy, Scipy, MatlotLib, Seaborn, Scikit-learn, Statsmodels… 
+Học sâu và ứng dụng trong IoT
+Mã môn học: RIPT1424
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Học phần "Học sâu và ứng dụng cho IoT" trang bị cho sinh viên kiến thức và kỹ năng cần thiết để áp dụng các kỹ thuật học sâu tiên tiến vào việc giải quyết các bài toán trong lĩnh vực Internet vạn vật (IoT). Học phần này tập trung vào việc: (1) Giới thiệu các khái niệm cơ bản về học sâu: Bao gồm các mô hình mạng nơ-ron sâu, các thuật toán huấn luyện và tối ưu hóa; (2) Khám phá các ứng dụng của học sâu trong IoT: Bao gồm xử lý dữ liệu cảm biến, nhận dạng mẫu, dự đoán và điều khiển thông minh; (3) Thực hành xây dựng và triển khai các mô hình học sâu: Sử dụng các công cụ và thư viện phổ biến như TensorFlow và PyTorch; (4) Nghiên cứu các bài toán thực tế trong IoT: Như giám sát môi trường, bảo trì dự đoán, và tự động hóa nhà thông minh. 
+Sau khi hoàn thành học phần này, sinh viên sẽ có khả năng phân tích và xử lý dữ liệu IoT bằng các kỹ thuật học sâu, xây dựng và huấn luyện các mô hình học sâu cho các ứng dụng IoT cụ thể, triển khai các giải pháp IoT thông minh và hiệu quả, nắm bắt các xu hướng nghiên cứu mới nhất trong lĩnh vực học sâu và IoT.
+Quản trị cơ sở dữ liệu nâng cao
+Mã môn học:  RIPT1414
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: INT1313
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn 
+Yêu cầu đối với giảng viên: 
+Tóm tắt nội dung:
+Học phần này trang bị cho sinh viên một số kiến thức cơ bản về nguyên lý các hệ cơ sở dữ liệu (CSDL), tập trung chủ yếu vào mô hình dữ liệu và xây dựng hệ cơ sở dữ liệu đáp ứng tốt yêu cầu nghiệp vụ của một bài toán quản lý trong thực tiễn. Trong quá trình học, sinh viên được cung cấp khái niệm về sự phụ thuộc dữ liệu, việc lưu trữ dữ liệu lớn phục vụ các nghiệp vụ trong hệ thống thông tin. Trong học phần này cũng giới thiệu về kỹ năng, kỹ thuật quản trị các hệ quản trị SQL, T-SQL phổ biến
+Xử lý âm thanh và hình ảnh
+Mã môn học: TEL1422
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Môn học cung cấp cho sinh viên Tổng quan về công nghệ đa phương tiện; Kỹ thuật xử lý âm thanh bao gồm các vấn đề cơ bản về âm thanh, kỹ thuật mã hóa và nén âm thanh, kỹ thuật lọc và tổng hợp âm thanh; Kỹ thuật xử lý hình ảnh bao gồm các vấn đề cơ bản về ảnh số, kỹ thuật mã hóa và nén ảnh số, kỹ thuật lọc và tách đặc trưng ảnh; Kỹ thuật xử lý video bao gồm các định dạng video, kỹ thuật mã hóa và nén video
+Mô hình tạo sinh
+Mã môn học: AI1417
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành 
+Tóm tắt nội dung:
+Các mô hình tạo sinh sản ngày càng được sử dụng rộng rãi trong nhiều lĩnh vực trong đời sống xã hội. Những tiến bộ gần đây trong việc tham số hóa các mô hình bằng mạng nơ-ron sâu, kết hợp với sự tiến bộ trong các phương pháp tối ưu hóa ngẫu nhiên, đã cho phép mô hình hóa có thể mở rộng với dữ liệu phức tạp, đa chiều bao gồm hình ảnh, văn bản và giọng nói. Trong học phần này, sinh viên sẽ được trang bị kiến thức nền tảng xác suất và thuật toán học máy cho các mô hình tạo sinh, bao gồm Bộ mã hóa tự động biến thiên (VAE), Mạng đối nghịch tạo sinh (GAN), mô hình tự hồi quy (autoregressive), luồng chuẩn hóa (flow normalization) và mô hình khuếch tán (diffusion). Khóa học cũng sẽ thảo luận về khả năng ứng dụng các mô hình tạo sinh trong những lĩnh vực thị giác máy tính, xử lý giọng nói và ngôn ngữ tự nhiên, khám phá đồ thị và học tăng cường. 
+An toàn Internet of Things 
+Mã môn học: RIPT1426
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Nội dung học phần bao gồm: các phương pháp thăm dò và thu thập thông tin trong hệ thống IoT; an toàn webserver và bảo mật ứng dụng web; các nguyên tắc và biện pháp bảo mật mạng không dây; bảo mật thông tin trên nền tảng mạng di động, bao gồm các hệ điều hành như Android, iOS, BlackBerry; bảo mật hệ thống mạng IoT, bao gồm kỹ thuật đảm bảo an toàn hệ thống, bảo mật khi truyền thông, nhận diện lỗ hổng và đề xuất các giải pháp bảo mật cho thiết bị và mạng IoT.
+Học phần giúp sinh viên nắm vững các công nghệ, công cụ, kỹ thuật tấn công và phòng thủ trên hệ thống IoT, từ đó nâng cao kỹ năng thực hành và ứng dụng vào thực tế trong việc bảo vệ hệ thống thông tin IoT.
+Phát triển ứng dụng trí tuệ nhân tạo
+Mã môn học: AI1415
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn doanh nghiệp tại PTIT
+Tóm tắt nội dung:
+Môn học cung cấp cho sinh viên cách ứng dụng học máy để tạo ra các ứng dụng AI giải quyết các vấn đề thực tiễn. Khóa học áp dụng cách tiếp cận toàn diện, bao quát toàn bộ vòng đời của ứng dụng AI. Học viên sẽ học cách chuyển đổi các vấn đề cụ thể thành các bài toán học máy, các kỹ thuật xử lý dữ liệu như chọn lựa đặc trưng (feature selection), chuẩn hóa (scaling), rời rạc hóa (discretization), và mã hóa (encoding). Khóa học tiếp tục với việc tìm hiểu cách lựa chọn mô hình phù hợp, đánh giá các sự đánh đổi (trade-offs), và huấn luyện mô hình. Sinh viên sẽ được tìm hiểu các chiến lược triển khai, giám sát các mô hình đã triển khai để phát hiện suy giảm hiệu suất (performance decay) và xử lý các vấn đề phát sinh trong khi vận hành. Bên cạnh đó, các vấn đề về đạo đức AI cũng sẽ được đề cập tới trong toàn bộ quá trình phát triển ứng dụng AI.
+Điện toán đám mây
+Mã môn học: RIPT1415
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành
+Tóm tắt nội dung:
+Học phần này nhằm cung cấp cho sinh viên các kiến thức thực tiễn và kỹ năng thực hành về các chủ đề căn bản liên quan đến điện toán đám mây, đồng thời giúp sinh viên hiểu và vận dụng được các tính năng của điện toán đám mây trên 4 mô hình dịch vụ đám mây khác nhau: Infrastracture as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), Business Process as a Service (BPaaS)
+Chủ đề IaaS: Tìm hiểu sự tiến triển của các cách tiếp cận chuyển dịch nền tảng (infrastructure migration) từ các mô hình máy ảo VMWare/Xen/KVM tới máy ảo thích nghi (adaptive virtualization) và điện toán đám mây, cung cấp tài nguyên theo yêu cầu. Một số giải pháp điển hình cho việc cung cấp dịch vụ hạ tầng cũng sẽ được giới thiệu trong phần này. Chủ đề PaaS: Giới thiệu một số Cloud platforms như AWS, Google App Engine, Microsoft Azure, Eucalyptus, OpenStack. Giới thiệu sinh viên một số dịch vụ đám mây như: dịch vụ lưu trữ (Google Storage), Amazon S3, Amazon Dynamo, dịch vụ quản lý tài nguyên, dịch vụ giám sát (monitoring). Phần SaaS và PaaS: Tập trung giới thiệu cho sinh viên cách sử dụng một số ứng dụng trên Cloud
+Đổi mới sáng tạo và Khởi nghiệp
+Mã môn học: RIPT1427
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành hoặc tại doanh nghiệp
+Tóm tắt nội dung:
+Học phần “Đổi mới sáng tạo và khởi nghiệp” là học phần bắt buộc thuộc kiến thức chuyên ngành trong chương trình đào tạo đại học chính quy ngành Kỹ thuật Điện tử viễn thông.
+Nội dung của học phần gồm: trình bày kiến thức tổng quan về sáng tạo, đổi mới và hình thành ý tưởng khởi nghiệp, lựa chọn loại hình sở hữu doanh nghiệp, và một số vấn đề liên quan đến việc vận hành doanh nghiệp. Thêm vào đó sinh viên còn được cung cấp kiến thức và kỹ năng cơ bản về thị trường như đánh giá thế mạnh, cơ hội, đe dọa, rủi ro thương mại hóa sản phẩm từ ý tưởng kinh doanh. Bên cạnh đó, sinh viên có cơ hội được thực hành xây dựng kế hoạch kinh doanh giả định, tham dự các hoạt động chia sẻ kinh nghiệm từ các doanh nhân thành đạt và/hoặc và/hoặc tiếp cận các hoạt động thúc đẩy tinh thần khởi nghiệp từ nhà trường.
+Mô hình ngôn ngữ lớn
+Mã môn học: AI1411
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn doanh nghiệp tại PTIT
+Tóm tắt nội dung:
+Học phần “Mô hình ngôn ngữ lớn” (LLM) cung cấp các kiến thức về: một số kiến trúc Transformer cho mô hình ngôn ngữ, các phương pháp truy vấn LLM, một số kỹ thuật ứng dụng LLM hiệu quả (LoRA, VeRA), kỹ thuật tinh chỉnh tham số và căn chỉnh LLM (fine-tuning and aligment), sinh tăng cường truy xuất (RAG) và một số chủ đề nâng cao như Multimodal LLM. Sinh viên sẽ được trang bị các kỹ thuật truy vấn như Chain-of-Though, Tree-of-Though v.v…; cùng với một số kỹ thuật cải tiến hiệu năng LLM như Low-rank Adaptation, Vector based Random Matrix Adaptation, Human Feedback Reinforcement Learning (HFRL) và Direct Preference Optimization (DPO). Học phần cũng giới thiệu một số ứng dụng của LLM trong thực tế và nâng cao. Thông qua các bài tập và dự án thực hành, sinh viên sẽ phát triển kỹ năng giải quyết vấn đề trong các lĩnh vực liên quan đến xử lý ngôn ngữ tự nhiên, LLM và ứng dụng.
+Phát triển ứng dụng IoT
+Mã môn học: RIPT1425
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học: 
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn doanh nghiệp tại PTIT
+Tóm tắt nội dung:
+Học phần “Phát triển ứng dụng IoT” là học phần bắt buộc thuộc kiến thức cơ sở ngành trong chương trình đào tạo đại học chính quy ngành Kỹ thuật Điện tử viễn thông.
+Nội dung của học phần gồm: cung cấp kỹ năng thực hành và kiến ​​thức tổng quan về điện tử cơ bản và nền tảng IoT, nhận dạng và khắc phục sự cố các thành phần điện tử; hiểu biết và nắm vững cách vận hành các thiết bị đo lường và lắp ráp mạch bằng bảng mạch thử nghiệm và bảng mạch điện tử; giới thiệu về bộ vi xử lý và bộ vi điều khiển, tập trung vào nền tảng Arduino và lập trình C nhúng để giao diện cảm biến và bộ truyền động; giới thiệu về IoT không dây với NodeMCU, mô hình hóa TCP/IP, các nguyên tắc cơ bản của nền tảng đám mây và triển khai các trường hợp sử dụng IoT dựa trên đám mây; hướng dẫn sinh viên áp dụng kiến thức, sử dụng Raspberry Pi làm nền tảng IoT, học lập trình Python, giao diện cảm biến và bộ truyền động, và phát triển các ứng dụng IoT, qua đó có được các kỹ năng để tạo và giám sát các hệ thống IoT bằng nhiều công nghệ và nền tảng khác nhau.
+Công nghệ phân tích dữ liệu lớn
+Mã môn học: RIPT1428
+Số tín chỉ: 03
+Môn học tiên quyết/học trước: 
+Yêu cầu đối với môn học:
+Địa điểm học: Phòng học lý thuyết, Phòng máy thực hành theo tiêu chuẩn doanh nghiệp tại PTIT
+Tóm tắt nội dung:
+Môn học cung cấp khái niệm về dữ liệu lớn bao gồm 5 đặc điểm được viết tắt là 5V và các công cụ, kỹ thuật để lưu trữ và phân tích dữ liệu lớn như HDFS, MapReduce, Apache Spark, hệ cơ sở dữ liệu NoSQL. Môn học còn giới thiệu cách dùng ngôn ngữ Python, Java để phân tích dữ liệu lớn. Cuối cùng, môn học giới thiệu vài ứng dụng của Big Data trong thực tiễn.
+
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+
+
+
+
+PGS.TS Trần Quang Anh
+
+

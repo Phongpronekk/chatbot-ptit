@@ -1,0 +1,1128 @@
+### Trang 1
+
+1 
+ 
+BỘ KHOA HỌC VÀ CÔNG NGHỆ 
+HỌC VIỆN CÔNG NGHỆ  
+BƯU CHÍNH VIỄN THÔNG 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập – Tự do – Hạnh phúc 
+ 
+ 
+Hà Nội, ngày     tháng     năm 2025  
+ 
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC 
+ 
+- Tên ngành (tiếng Việt):   Trí tuệ nhân tạo 
+- Tên ngành (tiếng Anh):   Artificial Intelligence 
+- Tên chương trình (tiếng Việt): Trí tuệ nhân tạo  
+- Tên chương trình (tiếng Anh): Artificial Intelligence 
+- Trình độ đào tạo:    Đại học 
+- Mã ngành:     7480107 
+- Thời gian đào tạo (chuẩn): 4.5 năm 
+- Tên văn bằng:   Kỹ sư Trí tuệ nhân tạo 
+- Hình thức đào tạo:    Chính quy 
+(Kèm theo Quyết định số        /QĐ-HV ngày      tháng      năm 2025 của Giám đốc Học viện) 
+ 
+1. MỤC TIÊU ĐÀO TẠO 
+1.1 Mục tiêu chung (Goals) 
+Chương trình đào tạo ngành Trí tuệ nhân tạo (TTNT) của Học viện Công nghệ Bưu 
+chính Viễn thông được thiết kế nhằm đào tạo nhân lực trình độ Đại học (Kỹ sư) ngành Trí 
+tuệ nhân tạo trong bối cảnh hội nhập quốc tế và chuyển đổi số. Sinh viên tốt nghiệp được 
+trang bị các kỹ năng nghề nghiệp trong tương lai về Trí tuệ nhân tạo và Khoa học máy tính 
+bao gồm cả chuyên môn, phẩm chất chính trị, đạo đức nghề nghiệp, và kỹ năng mềm. Nội 
+dung đào tạo kết hợp giữa lý thuyết và thực tiễn, nhằm giúp học viên ứng dụng hiệu quả 
+các kiến thức về Trí tuệ nhân tạo  vào giải quyết các bài toán  thực tế. Đồng thời, chương 
+trình đào tạo ngành Trí tuệ nhân tạo nằm trong chiến lược phát triển của Học viện với triết 
+lý giáo dục  “Tri thức – Sáng tạo – Đạo đức - Trách nhiệm” hướng tới mục tiêu đào tạo 
+nguồn nhân lực “vừa có tài vừa có đức” để đóng góp cho sự phát triển chung của đất nước 
+và nhân loại. 
+1.2 Mục tiêu cụ thể (Program Objectives - POs)   
+1.2.1 Mục tiêu đào tạo 
+PO1: Sinh viên tốt nghiệp có khả năng áp dụng kiến thức và kỹ năng của mình để thành 
+công trong sự nghiệp và/hoặc lấy được bằng cấp cao hơn. 
+PO2: Sinh viên tốt nghiệp sẽ cư xử có đạo đức và có trách nhiệm, đồng thời sẽ luôn được 
+cập nhật thông tin, tham gia đầy đủ vào nghề nghiệp và xã hội của họ. 
+
+### Trang 2
+
+2 
+ 
+PO3: Sinh viên tốt nghiệp sẽ giao tiếp hiệu quả và hoạt động thành công trong các nhóm 
+đa ngành. 
+PO4: Sinh viên tốt nghiệp sẽ làm việc chuyên nghiệp trong một số lĩnh vực: xử lý ngôn 
+ngữ tự nhiên, thị giác máy tính, phân tích dữ liệu, nghiên cứu trí tuệ nhân tạo, xây dựng 
+và thiết kế phần mềm ứng dụng trí tuệ nhân tạo. 
+1.2.2 Vị trí làm việc sau tốt nghiệp: 
+Sinh viên sau khi tốt nghiệp ngành  Trí tuệ nhân tạo và nắm vững các kĩ năng từ cơ 
+bản đến chuyên ngành thì có thể làm việc ở một trong các vị trí việc làm sau: 
+− Kỹ sư xử lý ngôn ngữ tự nhiên (NLP Engineer): Phát triển và triển khai các mô 
+hình, thuật toán, kỹ thuật về NLP đặc biệt là các mô hình ngôn ngữ lớn (LLMs)  
+và Mô hình tạo sinh (GenAI), huấn luyện và tinh chỉnh các mô hình ngôn ngữ. 
+− Kỹ sư Thị giác máy tính (CV Engineer): Phát triển và triển khai các mô hình học 
+máy/học sâu để xử lý hình ảnh và video cho các bài toán thị giác máy tính. Phân 
+tích và tiền xử lý dữ liệu hình ảnh/video, cải thiện chất lượng đầu vào cho các mô 
+hình. Tích hợp các thuật toán thị giác máy tính vào các ứng dụng thực tế.  
+− Chuyên viên phân tích dữ liệu (Data Analyst): phân tích các dữ liệu lớn của văn 
+bản hoặc hình ảnh để đưa ra các thống kê hữu ích cho doanh nghiệp, trực quan 
+hóa dữ liệu để từ đó đưa ra các quyết định quan trọng mang tính chiến lược, xây 
+dựng các mô hình dự đoán dựa trên nguồn dữ liệu thực tế. 
+− Chuyên gia nghiên cứu về Trí tuệ nhân tạo (AI Research Scientist): làm việc trong 
+bộ phận Research and Development (R&D) của các tổ chức để nghiên cứu về  các 
+mô hình, thuật toán, công nghệ mới nhằm giải quyết bài toán thực tiễn. Đây là vị 
+trí yêu cầu nắm vững các kiến thức nền tảng của học máy, học sâu. 
+− Chuyên viên phát triển phần mềm Trí tuệ nhân tạo (AI Software Developer): tích 
+hợp các mô hình Trí tuệ nhân tạo vào các ứng dụng, nâng cao hiệu quả hoạt động 
+của các hệ thống phần mềm và phần cứng . Đây là vị trí yêu cầu nắm vững các 
+công đoạn xây dựng một mô hình hoàn chỉnh từ chuẩn bị dữ liệu, xây dựng mô 
+hình, triển khai, sử dụng thành thạo các công cụ và nền tảng phát triển ứng dụng 
+Trí tuệ nhân tạo. 
+2. CHUẨN ĐẦU RA VÀ CHỈ BÁO CHẤT LƯỢNG (Learning Outcomes – LOs and 
+Performance Indicators – PIs) 
+Chuẩn đầu ra (LOs) Chỉ báo (PIs) 
+LO1: Nhận diện được vấn 
+đề và các giải pháp có thể để 
+giải quyết vấn đề liên quan 
+đến trí tuệ nhân tạo. 
+PI 1.1: Hiểu bài toán và các yêu cầu  
+PI 1.2: Đề xuất và phân tích giải pháp tính toán giải quyết 
+bài toán 
+PI 1.3: Xác định giải pháp phù hợp dựa trên các nguyên 
+lý tính toán để giải quyết bài toán. 
+
+### Trang 3
+
+3 
+ 
+Chuẩn đầu ra (LOs) Chỉ báo (PIs) 
+LO2: Giao tiếp hiệu quả 
+trong nhiều bối cảnh chuyên 
+nghiệp khác nhau. 
+PI 2.1: Xây dựng được các dạng tài liệu kỹ thuật và phi 
+kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định. 
+PI 2.2: Chuẩn bị và trình bày các bài thuyết trình thành 
+thạo. 
+PI 2.3: Giao tiếp và thực hiện hiệu quả các hoạt động 
+chuyên môn bằng ngoại ngữ. 
+LO3: Nhận thức được trách 
+nhiệm nghề nghiệp và đưa ra 
+những đánh giá sáng suốt 
+dựa trên các nguyên tắc pháp 
+lý và đạo đức. 
+PI 3.1: Thể hiện được hiểu biết các lý thuyết và các quy 
+định thực thi đạo đức cơ bản quan trọng trong hoạt động 
+Trí tuệ nhân tạo; Nhận thức được các kết quả về đạo đức 
+của các quyết định và các hành động trong lĩnh vực Trí 
+tuệ nhân tạo ; Đảm bảo tuân thủ các quy định pháp lý 
+trong thiết kế và cài đặt hệ thống. 
+PI 3.2: Cho thấy được tính minh bạch trong các công 
+việc liên quan đến báo cáo lỗi, các hạn chế hoặc các xung 
+đột lợi ích trong công việc về Trí tuệ nhân tạo; Chịu trách 
+nhiệm cho các quyệt định và các kết quả của các dự án 
+hoặc các nhiệm vụ. 
+LO4: Hoạt động hiệu quả 
+với tư cách là thành viên 
+hoặc lãnh đạo một nhóm 
+tham gia vào các hoạt động 
+phù hợp với chuyên môn trí 
+tuệ nhân tạo. 
+PI 4.1: Phối hợp, chia sẻ công việc trong một nhóm. 
+PI 4.2: Hoàn thành nhiệm vụ trong các vai trò khác nhau 
+của nhóm. 
+LO5: Thực hiện được một 
+công đoạn của quy trình phát 
+triển một dự án về Trí tuệ 
+nhân tạo. 
+PI 5.1: Xác định được mong muốn và yêu cầu của người 
+dùng trong việc phát triển mô hình Trí tuệ nhân tạo  
+và/hoặc phần mềm ứng dụng Trí tuệ nhân tạo. 
+PI 5.2: Có thể tham gia vào ít nhất một trong các công 
+đoạn: phân tích yêu cầu, thiết kế, cài đặt, kiểm thử và 
+triển khai mô hình Trí tuệ nhân tạo  và/hoặc phần mềm  
+ứng dụng Trí tuệ nhân tạo. 
+PI 5.3: Có thể viết tài liệu dự án phát triển mô hình Trí 
+tuệ nhân tạo  và/hoặc phần mềm  ứng dụng Trí  tuệ nhân 
+tạo. 
+
+### Trang 4
+
+4 
+ 
+3. KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: 154 tín chỉ (không bao gồm kiến thức 
+Giáo dục quốc phòng, Giáo dục thể chất và Kỹ năng mềm) 
+4. ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO: Là người đã tốt nghiệp 
+THPT hoặc tương đương, tham dự và trúng tuyển (đạt các yêu cầu đầu vào) trong kỳ tuyển 
+sinh đại học hệ chính quy với Tổ hợp xét tuyển: Toán, Lý, Hóa (A00 – khối A); hoặc Toán, 
+Lý, Anh văn (A01 – khối A1) hoặc các phương án xét tuyển riêng của Học viện Công nghệ 
+Bưu chính Viễn thông. 
+5. QUY TRÌNH ĐÀO TẠO VÀ ĐIỀU KIỆN TỐT NGHIỆP 
+5.1 Quy trình đào tạo 
+Chương trình đào tạo chuẩn được tổ chức thực hiện trong 4,5 năm gồm 09 học kỳ, 
+trong đó 08 học kỳ tích lũy kiến thức tại Học viện và 01 kỳ thực tập chuyên sâu, thực tập 
+thực tế tại cơ sở. Cuối khóa, sinh viên làm Đồ án tốt nghiệp hoặc hoàn thành các học phần 
+thay thế tốt nghiệp. 
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo 
+tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện. 
+5.2 Công nhận tốt nghiệp 
+Kết thúc khóa học, sinh viên được công nhận tốt nghiệp và cấp bằng Kỹ sư Trí tuệ 
+nhân tạo trình độ Đại học hệ chính quy khi hội đủ các tiêu chuẩn theo Quy chế đào tạo 
+đại học hệ chính quy theo học chế tín chỉ. 
+6. THANG ĐIỂM:  Theo thang điểm tín chỉ 
+Điểm chữ (A, B, C, D, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá 
+kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của 
+các môn học/học phần. 
+ Thang điểm 10 
+Thang điểm 4 
+Điểm chữ Điểm số 
+Điểm đạt 
+9,0 - 10,0 A+ 4,0 
+8,5 - 8,9 A 3,7 
+8,0 - 8,4 B+ 3,5 
+7,0 - 7,9 B 3,0 
+6,5 - 6,9 C+ 2,5 
+5,5 - 6,4 C 2,0 
+5,0 - 5,4 D+ 1,5 
+4,0 - 4,9 D 1,0 
+Không đạt Dưới 4,0 F 0,0 
+Loại đạt không ghi mức  (áp dụng cho các học phần đạt, không tính vào 
+điểm trung bình học tập): Từ 5,0 điểm trở lên, điểm chữ là P 
+
+### Trang 5
+
+5 
+ 
+7. NỘI DUNG CHƯƠNG TRÌNH 
+Dựa trên chương trình học "Computer Science Curricula 2023" của đội ngũ Association 
+for Computing Machinery (ACM), liên kết với IEEE-Computer Society (IEEE-CS) và 
+Association for the Advancement of Artificial Intelligence (AAAI), chương trình ngành 
+TTNT được xây dựng và chia thành 5 khối kiến thức chính: 
+1. Lập trình: Sinh viên sẽ nắm vững nền tảng về các khái niệm lập trình cơ bản, bao 
+gồm biến, kiểu dữ liệu, toán t ử, luồng điều khiển và hàm, t ừ đó có th ể viết các 
+chương trình đơn giản và giải quyết các vấn đề lập trình cơ bản. Sinh viên sẽ thành 
+thạo trong việc sử dụng các cấu trúc dữ liệu thiết yếu như mảng, danh sách và t ừ 
+điển, hiểu cách lựa chọn và triển khai cấu trúc phù h ợp cho từng bài toán c ụ thể. 
+Ngoài ra, sinh viên sẽ học về các thuật toán thông dụng như tìm kiếm và sắp xếp, 
+đồng thời có được sự hiểu biết cơ bản về độ phức tạp thuật toán và ảnh hưởng của 
+nó đến hiệu suất chương trình. 
+Với trọng tâm là các kỹ năng lập trình tốt, sinh viên sẽ phát triển kỹ năng kiểm thử, 
+gỡ lỗi và viết sao cho d ễ đọc, dễ bảo trì, đồng thời sử dụng các môi trư ờng phát 
+triển tích hợp (IDE) đa năng và các công cụ liên quan như công cụ phát hiện và gỡ 
+lỗi (debugger). Hơn n ữa, họ sẽ áp dụng các thu ật toán khác nhau đ ể giải quyết 
+nhiều vấn đề, đánh giá mức độ phù hợp của các phương pháp ti ếp cận khác nhau 
+dựa trên các yêu cầu và ràng buộc cụ thể. 
+2. Toán và giải thuật: Sinh viên sẽ được Trang bị kiến thức cơ bản và nâng cao về 
+thuật toán như toán rời rạc, xác suất, thống kê, đại số tuyến tính, các thuật toán và 
+chiến lược, độ phức tạp. Sinh viên sẽ học cách thiết kế các thuật toán hiệu quả bằng 
+cách sử dụng các chiến lược như chia để trị và lập trình động, đồng thời hiểu sâu 
+hơn về độ phức tạp thuật toán và giới hạn tính toán. 
+3. Khai phá và trực quan hóa d ữ liệu: Sinh viên sẽ nắm vững quy trình vòng đ ời 
+dữ liệu. Kiến thức này là rất quan trọng để quản lý quy mô và độ phức tạp của các 
+tập dữ liệu lớn, một yếu tố cốt lõi trong "khai thác dữ liệu lớn" (Big Data mining). 
+Sinh viên sẽ khám phá các hệ thống NoSQL và hiểu được những lợi ích của chúng 
+trong việc xử lý dữ liệu phi cấu trúc và dữ liệu bán cấu trúc, tìm hi ểu về các kho 
+dữ liệu dạng cặp khóa-giá trị, cơ sở dữ liệu tài liệu và cơ sở dữ liệu đồ thị. 
+Sinh viên cũng sẽ nghiên cứu các phương pháp quản lý khối lượng dữ liệu lớn, bao 
+gồm cơ sở dữ liệu phân tán và hệ thống đám mây, điều cần thiết cho việc xử lý và 
+phân tích các tập dữ liệu lớn. Các khái niệm phân tích dữ liệu sẽ được đề cập, thông 
+qua đó, sinh viên s ẽ phát triển kỹ năng quản lý và x ử lý các t ập dữ liệu lớn một 
+cách hiệu quả, lựa chọn các công cụ lưu trữ và xử lý dữ liệu phù hợp và trực quan 
+hóa dữ liệu một cách hợp lý. 
+4. Học máy: Sinh viên sẽ phát triển sự hiểu biết toàn diện về học máy bằng cách học 
+cách định nghĩa và minh họa các nhiệm vụ đa dạng như học có giám sát, học không 
+giám sát, đồng thời xác định loại phù hợp cho các vấn đề cụ thể. Sinh viên sẽ nắm 
+vững các khái niệm chính, bao gồm định lý "no free lunch", cũng như học cách áp 
+
+### Trang 6
+
+6 
+ 
+dụng hiệu quả các thuật toán học có giám sát đơn gi ản như hồi quy tuyến tính và 
+cây quyết định. 
+Sinh viên sẽ hiểu và giải quyết vấn đề quá khớp (overfitting), đồng thời thành thạo 
+trong việc đánh giá mô hình thông qua các ch ỉ số hiệu suất, ma tr ận nhầm lẫn 
+(confusion matrix) và phương pháp ki ểm định chéo (cross-validation). Phần giới 
+thiệu về mạng nơ-ron sẽ bao gồm cấu trúc, quá trình huấn luyện và ứng dụng của 
+chúng. 
+Sinh viên sẽ khám phá các vấn đề đạo đức trong học máy, chẳng hạn như thiên vị, 
+quyền riêng tư, tính công b ằng và khả năng giải thích, thông qua các nghiên c ứu 
+tình huống thực tế. Cuối cùng, họ sẽ áp dụng các kỹ thuật học máy để giải quyết 
+các vấn đề cơ bản sử dụng học máy trong y học, kinh tế. 
+5. Học sâu: cung cấp cho sinh viên nền tảng vững chắc về mạng nơron, tập trung vào 
+cấu trúc, ch ức năng và quy trình hu ấn luyện của chúng. Sinh viên s ẽ được giới 
+thiệu v ề mạng nơron sinh (generative neural networks), hi ểu v ề khả năng c ủa 
+chúng trong việc tạo ra nội dung như văn bản, hình ảnh và âm nhạc. 
+Chương trình bao gồm các kiến trúc học sâu cơ bản, chẳng hạn như mạng truyền 
+thẳng sâu (deep feed-forward networks), minh họa cách thông tin được truyền qua 
+các lớp để trích xuất các đặc trưng phức tạp, và mạng nơron tích chập (CNNs), rất 
+hiệu quả trong việc xử lý các cấu trúc d ữ liệu dạng lưới và đ ặc biệt hữu ích cho 
+nhận diện hình ảnh và thị giác máy tính. Sinh viên cũng sẽ học cách trực quan hóa 
+và giải thích các biểu diễn đặc trưng mà mạng nơron sâu đã học được, từ đó cung 
+cấp cái nhìn về cách mô hình hoạt động. 
+Từ các khối kiến thức tổng hợp được như trên, các môn trong chương trình có thể được 
+nhóm lại thành 5 nhóm kiến thức chính như sau: 
+1. Toán và kh ối kiến thức chung: Giải tích 1, Gi ải tích 2, Đ ại số tuyến tính, Xác 
+suất thống kê, Vật lý ứng dụng, Khối kiến thức chung 
+2. Cơ sở Khoa học máy tính:  Kiến trúc máy tính, M ạng máy tính, Cơ s ở dữ liệu, 
+Điện tử số, Xử lý ảnh, Các hệ thống phân tán, Cấu trúc dữ liệu và giải thuật, nhập 
+môn Công nghệ phần mềm, Toán rời rạc, Lý thuyết đồ thị 
+3. Lập trình:  Phương pháp l ập trình cơ b ản, L ập trình Python cơ b ản, L ập trình 
+hướng đối tượng, Lập trình Web, Lập trình song song 
+4. Cơ sở Trí tuệ nhân tạo: Trí tuệ nhân tạo cơ bản, Khoa học dữ liệu cơ bản, Học 
+máy, Học sâu, Khai phá dữ liệu lớn, Đạo đức và chính sách TTNT, Nền tảng phát 
+triển TTNT, Truy xuất thông tin, Thực tập cơ sở. 
+5. Chuyên ngành Trí tuệ nhân tạo: Phân tích dữ liệu chuỗi thời gian, Thị giác máy 
+tính, Xử lý ngôn ngữ tự nhiên, Trí tuệ nhân tạo cho an toàn bảo mật thông tin, Học 
+tăng cường và ứng dụng, Mô hình học máy đồ thị và ứng dụng, Hệ khuyến nghị, 
+Mô hình tạo sinh, Công cụ triển khai và vận hành ứng dụng TTNT, Phát triển ứng 
+dụng TTNT, Nhập môn robotics, IoT và ứng dụng, Mô hình ngôn ngữ lớn, TTNT 
+cho tính toán biên 
+
+### Trang 7
+
+7 
+ 
+Các nhóm kiến thức trong chương trình được ánh xạ với chuẩn đầu ra theo hình 1 dưới 
+đây. 
+ 
+Hình 1. Liên kết giữa nhóm kiến thức và chuẩn đầu ra 
+7.1. Cấu trúc chương trình đào tạo 
+ 
+STT Khối kiến thức Tín chỉ 
+1. Kiến thức giáo dục đại cương 45 
+1.1 Khối kiến thức chung 25 
+1.1.1 Lý luận chính trị 11 
+1.1.2 Tiếng Anh 14 
+1.2 Khối kiến thức khoa học tự nhiên và xã hội 20 
+2. Kiến thức giáo dục chuyên nghiệp 97 
+2.1 Khối kiến thức cơ sở ngành 61 
+2.2 Khối kiến thức chuyên ngành 36 
+3. Thực tập và tốt nghiệp 12 
+ TỔNG CỘNG 154 
+ 
+
+
+### Trang 8
+
+8 
+ 
+7.2. Nội dung chương trình đào tạo 
+7.2.1. Khối kiến thức chung 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm 
+/Thực hành (tiết) 
+Tự học 
+(tiết) Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết 
+Chữa bài tập 
+/Thảo luận  
+1 Triết học Mác - Lênin BAS1150 3           
+2 Kinh tế chính trị Mác - Lênin BAS1151 2           
+3 Chủ nghĩa xã hội khoa học BAS1152 2           
+4 Tư tưởng Hồ Chí Minh BAS1122 2           
+5 Lịch sử Đảng cộng sản Việt Nam BAS1153  2           
+6 Tiếng Anh (Course 1) (*) BAS1157 4           
+7 Tiếng Anh (Course 2) BAS1158 4           
+8 Tiếng Anh (Course 3) BAS1159 4           
+9 Tiếng Anh (Course 3 Plus) BAS1160 2           
+  Tổng:   25           
+ Giáo dục thể chất và Giáo dục quốc phòng 
+1 Giáo dục thể chất 1 BAS1106 2 2  26 2  
+2 Giáo dục thể chất 2 BAS1107 2 2  26 2  
+3 Giáo dục quốc phòng BAS1105 7,5      
+ Kiến thức các môn kỹ năng (chọn 3/7) 
+1 Kỹ năng tạo lập văn bản TV SKD1103 1 6 8  1   
+2 Kỹ năng thuyết trình  SKD1101 1 6 8  1   
+3 Kỹ năng làm việc nhóm  SKD1102 1 6 8  1   
+(*): Điều kiện để đăng ký học học phần tiếng Anh Course 1 trong chương trình là sinh viên 
+phải đạt trình độ tiếng Anh từ 225 điểm theo bài thì TOEIC Placement test trở lên; các thí 
+sinh chưa đạt mức điểm trên sẽ phải hoàn thành học phần tiếng Anh bổ trợ Course 0 (mã 
+BAS1156). 
+7.2.2 Khối kiến thức khoa học tự nhiên và xã hội 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm /Thực 
+hành (tiết) 
+Tự học 
+(tiết) Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết  
+Chữa bài tập 
+/Thảo luận  
+10 Giải tích 1 BAS1203  3 36 8   1   
+
+### Trang 9
+
+9 
+ 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm /Thực 
+hành (tiết) 
+Tự học 
+(tiết) Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết  
+Chữa bài tập 
+/Thảo luận  
+11 Giải tích 2 BAS1204 3 36 8   1   
+12 Đại số BAS1201  3 36 8   1   
+13 Vật lý ứng dụng BAS1270 4 42 6 8 4   
+14 Xác suất thống kê BAS1269  3 36 8   1    
+15 Pháp luật đại cương BSA1221 2 24 6    
+16 Phương pháp luận nghiên cứu khoa học SKD1108 2 18 6   6  
+  Tổng:   20           
+7.2.3. Khối kiến thức giáo dục chuyên nghiệp  
+7.2.3.1. Kiến thức cơ sở ngành 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm /Thực 
+hành (tiết) 
+Tự học 
+(tiết) Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết  
+Chữa bài tập 
+/Thảo luận  
+17 Toán rời rạc 1 INT1358 3 36 8  1  
+18 Lý thuyết đồ thị  AI1301 3 36 8  1 INT1358 
+19 Phương pháp lập trình cơ bản  AI1302 3 30 8 6 1  
+20 Cấu trúc dữ liệu và giải thuật INT1306 3 30 8 6 1 AI1302 
+21 Cơ sở dữ liệu INT1313 3 32 8 4 1  
+22 Kiến trúc máy tính INT13145 3 36 8  1 AI1302 
+23 Lập trình Python cơ bản AI1303 3 34 8 3   
+24 Lập trình hướng đối tượng INT1332 3 30 8 6 1 AI1302 
+25 Mạng máy tính INT1336 3 34 8 3   
+26 Nhập môn công nghệ phần mềm INT1340 3 36 8  1 INT1332 
+27 Trí tuệ nhân tạo cơ bản AI1304 3  36 8  1  
+28 Điện tử số ELE1309 3 32 8 4 1  
+29 Đạo đức và chính sách Trí tuệ nhân tạo AI1305 3 36 8  1  
+30 Khoa học dữ liệu cơ bản AI1306 3 30 8 6 1  AI1303 
+31 Trí tuệ nhân tạo cho an toàn bảo mật thông tin AI1307 3  32 10 2 1 AI1303,  AI1304 
+
+### Trang 10
+
+10 
+ 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm /Thực 
+hành (tiết) 
+Tự học 
+(tiết) Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết  
+Chữa bài tập 
+/Thảo luận  
+32 Xử lý ảnh  INT13146 3 36 8  1 AI1302 
+33 Nền tảng phát triển Trí tuệ nhân tạo  AI1308 3 36 8  1 INT1313 
+34 Lập trình Web INT1434 3 30 8 6 1 AI1302 
+35 Nhập môn Học máy AI1309 3 30 8 6 1 AI1306 
+36 Thực tập cơ sở AI1310 4      
+  Tổng:  61      
+7.2.3.2. Kiến thức chuyên ngành 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm /Thực 
+hành (tiết) 
+Tự học 
+(tiết) 
+ 
+Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết  
+Chữa bài tập 
+/Thảo luận  
+37 Mô hình ngôn ngữ lớn AI1411 3 36 8  1  
+38 Nhập môn học sâu INT14154 3  32 8 4 1  
+39 Xử lý ngôn ngữ tự nhiên INT14156 3 32 12  1 AI1303,  AI1304 
+40 Thị giác máy tính AI1412 3 34 6 4 1 AI1303,  AI1304 
+41 Công cụ triển khai và vận hành ứng dụng Trí tuệ nhân tạo AI1413 3 34 6 4 1 AI1303,  AI1304 
+42 Học tăng cường và ứng dụng AI1414 3 36 8  1 
+AI1303,  
+AI1304 
+43 Phát triển ứng dụng Trí tuệ nhân tạo AI1415 3 34 6 4 1 AI1303,  AI1304 
+44 Truy xuất thông tin INT14158 3 34 10  1 
+AI1303,  
+AI1304 
+ Học phần tự chọn (Chọn 4/10)       
+45 Nhập môn robotics AI1416 3 34 6 4 1  
+46 IoT và ứng dụng INT14149 3 30 8 6 1  
+47 Hệ khuyến nghị INT14170 3 36 8  1  
+48 Mô hình tạo sinh AI1417 3 34 6 4 1  
+49 Các hệ thống phân tán INT1405 3 36 8  1  
+50 Mô hình học máy đồ thị và ứng dụng AI1418 3 34 6 4 1  
+
+### Trang 11
+
+11 
+ 
+TT Tên môn học 
+Mã số 
+môn 
+học 
+Số  tín chỉ 
+Lên lớp 
+(tiết) 
+Thí nghiệm /Thực 
+hành (tiết) 
+Tự học 
+(tiết) 
+ 
+Mã số 
+môn 
+học tiên 
+quyết 
+Lý thuyết  
+Chữa bài tập 
+/Thảo luận  
+51 Trí tuệ nhân tạo cho tính toán biên AI1419 3 34 6 4 1  
+52 Lập trình song song AI1420 3 34 6 4 1  
+53 Phân tích dữ liệu chuỗi thời gian INT14168 3 32 12  1  
+54 Khai phá dữ liệu  INT14155 3 32 8 4 1  
+ Tổng:  36      
+7.2.4 Thực tập tốt nghiệp và đồ án tốt nghiệp:    
+7.2.4.1 Thực tập tốt nghiệp (AI1521):    06 tín chỉ 
+7.2.4.2 Đồ án tốt nghiệp (Thesis AI1522): 06 tín chỉ 
+8. HƯỚNG DẪN THỰC HIỆN CHƯƠNG TRÌNH 
+8.1 Kế hoạch học tập chuẩn (Chi tiết kèm theo) 
+8.2 Tiến trình học tập chuẩn (Chi tiết kèm theo) 
+9. MÔ TẢ TÓM TẮT CÁC MÔN HỌC CỐT LÕI 
+9.1. Khối kiến thức khoa học tự nhiên và xã hội 
+GIẢI TÍCH 1 
+- Mã môn học:  BAS1203 
+- Số tín chỉ:    3 
+- Tóm tắt nội dung 
+Cung cấp cho người học các tập số, dãy số,hàm số và phép tính vi phân của hàm số một 
+biến số, phép tính tích phân và lý thuyết chuỗi với các nội dung sau: 
+Tập số và dãy số: Tập số thực và tập số phức, dãy số và giới hạn của dãy số. 
+Phép tính vi phân của hàm số một biến số:Hàm số, giới hạn, liên tục, đạo hàm, vi phân, các 
+định lý về giá trị trung bình  và các ứng dụng. 
+Phép tính tích phân: Tích phân bất định, tích phân xác định và tích phân suy rộng, các ứng 
+dụng của tích phân.    
+Lý thuyết chuỗi: Chuỗi số, chuỗi số dương, chuỗi số có dấu bất kỳ, chuỗi hàm số, chuỗi 
+lũy thừa và chuỗi Fourier. 
+GIẢI TÍCH 2 
+- Mã môn học:  BAS 1204 
+
+### Trang 12
+
+12 
+ 
+- Số tín chỉ:    3 
+- Tóm tắt nội dung 
+Cung cấp cho người học phép tính vi phân, tích phân của hàm nhiều biến và phương trình, 
+hệ phương trình vi phân với các nội dung sau: 
+Phép tính vi phân của hàm nhiều biến: giới hạn, liên tục, đạo hàm riêng, vi phân toàn phần 
+và các ứng dụng. 
+Phép tính tích phân của hàm nhiều biến:Tích phân phụ thuộc tham số. Tích phân kép. Tích 
+phân bội. Tích phân đường, tích phân mặt và các ứng dụng. 
+Phương trình và hệ phương trình vi phân. 
+ĐẠI SỐ  
+- Mã môn học:  BAS 1201 
+- Số tín chỉ:    3 
+- Tóm tắt nội dung 
+Cung cấp cho người học cơ sở của lôgích toán nhằm giúp người học có phương pháp tư 
+duy chặt chẽ. Cung cấp các khái niệm tập hợp, ánh xạ- là ngôn ngữ của toán học hiện đại.  
+Giới thiệu sơ lược về đại số Boole là một cấu trúc được ứng dụng nhiều trong chuyên ngành 
+Điện tử-Viễn thông và Công nghệ thông tin. 
+Cung cấp công cụ đại số tuyến tính: không gian véc tơ, ma trận, định thức, hệ phương trình 
+tuyến tính, ánh xạ tuyến tính, tích vô hướng không gian véc tơ Euclide và dạng toàn 
+phương.nhằm giúp người học giải quyết các bài toán với mô hình tuyến tính của chu yên 
+ngành điện tử viễn thông và công nghệ thông tin. 
+VẬT LÝ VÀ ỨNG DỤNG 
+- Mã môn học: BAS 1270 
+- Số tín chỉ (TC): 4 
+- Tóm tắt nội dung 
+Nội dung 60 tiết lý thuyết c ung cấp các kiến thức cơ bản về Cơ, Nhiệt và Điện -Từ. Phần 
+Cơ gồm động lực học chất điểm và hệ chất điểm-vật rắn, năng lượng, trường hấp dẫn. Phần 
+Nhiệt  gồm 2 nguyên lý của  nhiệt  động  học. Phần Điện -Từ gồm: trường tĩnh điện, vật 
+dẫn, điện môi, từ trường của dòng điện không đổi, hiện tượng cảm ứng điện từ, vật liệu từ 
+và trường điện từ. 
+            Nội dung 8 tiết thí nghiệm thực hành gồm 1 bài lý thuyết sai số, 4 bài thí nghiệm 
+về Điện trường, Từ trường và Trường điện từ. 
+XÁC SUẤT THỐNG KÊ 
+- Mã môn học:  BAS 1269 
+- Số tín chỉ:    3 
+
+### Trang 13
+
+13 
+ 
+- Tóm tắt nội dung 
+Môn học có hai phần tương đối độc lập về cấu trúc nhưng gắn chặt chẽ về nội dung. 
+- Phần lý thuyết xác suất nghiên cứu tính quy luật của các hiện tượng ngẫu nhiên: Biến cố, 
+xác suất của biến cố, các quy tắc tính xác suất. Biến ngẫu nhiên, véc tơ ngẫu nhiên. Các 
+đặc trưng của biến ngẫu nhiên và véc tơ ngẫu nhiên.Luật số lớn và định lý gi ới hạn trung 
+tâm. 
+- Phần thống kê toán trình bày: Cơ sở lý thuyết mẫu; Các bài toán ước lượng và kiểm định 
+giả thiết thống kê. 
+9.2. Khối kiến thức cơ sở ngành 
+TOÁN RỜI RẠC 1 
+- Mã môn học : INT1358 
+- Số tín chỉ:   : 3  
+- Tóm tắt nội dung: 
+Môn học “Toán Rời Rạc” trang bị kiến thức nền tảng về tập hợp, quan hệ, logic toán học, 
+lý thuyết tổ hợp và tối ưu tổ hợp, giúp sinh viên phát triển tư duy toán học và kỹ năng giải 
+thuật trong khoa học máy tính và kỹ thuật. Nội dung môn học còn đề cập tớ i Đại số Bool, 
+với các phép toán cơ bản và dạng chuẩn tắc, đóng vai trò quan trọng trong thiết kế và tối 
+ưu hóa mạch logic, ứng dụng trực tiếp vào xây dựng hệ thống máy tính. Môn học cũng giới 
+thiệu các thuật toán tối ưu tổ hợp như quay lui (Backtracking),  tham lam (Greedy), nhánh 
+cận (Branch and Bound), và Genetic (GA), giúp giải quyết các bài toán thực tế như đổi 
+tiền, bài toán cái túi và người du lịch (TSP), từ đó hỗ trợ sinh viên xây dựng nền tảng vững 
+chắc trong việc phân tích và giải quyết bài toán kỹ thuật phức tạp. 
+LÝ THUYẾT ĐỒ THỊ 
+- Mã môn học : AI1301 
+- Số tín chỉ:   : 3 
+- Tóm tắt nội dung 
+Lý thuyết đồ thị là môn học cung cấp kiến thức nền tảng về các khái niệm, loại đồ thị và 
+các thuật toán quan trọng, giúp sinh viên hiểu rõ cấu trúc và tính chất của đồ thị. Nội dung 
+bao gồm các chủ đề cơ bản như đường đi, chu trình, đồ thị Euler và Hamilto n, cùng với 
+các nội dung chuyên sâu như đồ thị phẳng (ứng dụng trong thiết kế mạch điện và định 
+tuyến mạng), đồ thị hai phía (bài toán ghép cặp và hệ thống khuyến nghị), và đồ thị màu 
+(lập lịch thi và gán kênh tần số). Thông qua các thuật toán như kiểm tra  tính phẳng, kiểm 
+tra tính hai phía, Greedy, và Backtracking, sinh viên sẽ được trang bị khả năng giải quyết 
+vấn đề phức tạp. Ngoài ra, các thuật toán quan trọng như BFS, DFS, Prim, Kruskal, 
+Dijkstra, Bellman-Ford, và Floyd -Warshall sẽ được ứng dụng vào cá c lĩnh vực như lập 
+lịch, giao thông, và tối ưu hóa hệ thống. Môn học giúp sinh viên phát triển tư duy logic và 
+khả năng áp dụng lý thuyết vào khoa học máy tính và trí tuệ nhân tạo. 
+
+### Trang 14
+
+14 
+ 
+PHƯƠNG PHÁP LẬP TRÌNH CƠ BẢN 
+- Mã môn học          : AI1302 
+- Số tín chỉ:              : 3 
+- Tóm tắt nội dung 
+Môn học "Phương pháp lập trình cơ bản" giúp sinh viên nắm vững các quy tắc lập trình 
+nhằm viết mã nguồn rõ ràng, dễ đọc và bảo trì. Nội dung môn học bao gồm  các kiến thức 
+cơ bản về lập trình C++, như các câu lệnh nhập xuất dữ liệu, câu lệnh điều kiện, vòng lặp, 
+mảng, hàm, và quản lý bộ nhớ ; quy tắc đặt tên biến, hàm, lớp, và các đối tượng sao cho 
+nhất quán; cấu trúc mã nguồn hợp lý với việc chia mã thành các hàm, lớp nhỏ và sử dụng 
+chú thích rõ ràng; quy tắc về khoảng trắng và căn lề giúp mã nguồn dễ đọc hơn; cách xử 
+lý lỗi, ngoại lệ hiệu quả; và tối ưu mã nguồn để cải thiện hiệu suất và bảo trì  lâu dài. Môn 
+học trang bị nền tảng vững chắc cho sinh viên trong việc phát triển phần mềm chất lượng 
+cao, đặc biệt trong các ứng dụng công nghệ thông tin và trí tuệ nhân tạo. 
+ CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT 
+- Mã môn học          : INT 1306 
+- Số tín chỉ:              : 3 
+- Tóm tắt nội dung 
+Môn học này giới thiệu cho sinh viên những kiến thức quan trọng về thuật toán và cấu trúc 
+dữ liệu. Đối với mỗi thuật toán, người học cần làm chủ được phương pháp biểu diễn thuật 
+toán, ước lượng được độ phức tạp thuật toán, cài đặt thuật toán, phương pháp thực nghiệm 
+và ứng dụng của thuật toán. Đối với mỗi cấu trúc dữ liệu, người học cần nắm vững được 
+định nghĩa, phương pháp biểu diễn, các thao tác trên cấu trúc dữ liệu và ứng dụng của cấu 
+trúc dữ liệu. Kết thúc học phần này, người học có thể làm chủ được phương pháp biểu diễn 
+một đối tượng ở thế giới thực thành dữ liệu trong hệ thống máy tính cùng với các thao tác, 
+giải thuật trên nó. Sử dụng các kiến thức thu được trong giải quyết những vấn đề quan 
+trọng của Công nghệ thông tin. 
+ CƠ SỞ DỮ LIỆU 
+- Mã môn học: INT 1313 
+-  Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+Môn học này giới thiệu các khái niệm cơ bản cần thiết cho việc thiết kế, sử dụng và triển 
+khai các hệ thống cơ sở dữ liệu và ứng dụng cơ sở dữ liệu cho người học. Môn học nhấn 
+mạnh vào mô hình hóa và thiết kế cơ sở dữ liệu, ngôn ngữ SQL và các biểu mẫu thô ng 
+thường. Bên cạnh đó, các bài tập trong phòng thí nghiệm máy tính và đào tạo dựa trên các 
+dự án nhỏ là một phần của khóa học giúp sinh viên nâng cao kỹ năng thao tác cơ sở dữ liệu 
+trong thế giới thực. 
+ KIẾN TRÚC MÁY TÍNH 
+
+### Trang 15
+
+15 
+ 
+- Mã học phần:         INT 13145 
+- Số tín chỉ:  3 
+- Tóm tắt nội dung 
+Môn học này cung cấp cho sinh viên kiến thức cơ bản về kiến trúc và tổ chức máy tính, 
+bao gồm kiến trúc máy tính nói chung, CPU và các thành phần của CPU, tập lệnh máy tính, 
+đường dẫn CPU; hệ thống bộ nhớ và các thành phần của nó như ROM, RAM, bộ đệm, đĩa, 
+RAID, NAS và SAN; hệ thống bus máy tính và thiết bị ngoại vi; kiến trúc máy tính hiện 
+đại, chẳng hạn như đa bộ xử lý và đa lõi. 
+ NỀN TẢNG PHÁT TRIỂN TTNT  
+- Mã môn học          : AI1308 
+- Số tín chỉ:              : 3 
+- Tóm tắt nội dung 
+Học phần Nền tảng phát triển Trí tuệ Nhân tạo cung cấp kiến thức và kỹ năng thực hành 
+để sử dụng, quản lý các công cụ và nền tảng hỗ trợ phát triển AI. Sinh viên sẽ làm quen 
+với môi trường làm việc trên các hệ điều hành Windows và Linux, bao gồm quản lý tệp, 
+cài đặt thư viện và thực thi các ứng dụng AI. Ngoài ra, học phần tập trung vào việc sử dụng 
+GitHub để quản lý mã nguồn, cộng tác nhóm, và kiểm soát phiên bản trong dự án AI, cùng 
+với việc tích hợp các workflow tự động hóa (CI/CD). Sinh viên cũng được học cách triển 
+khai và vận hành các mô hình AI trên các nền tảng đám mây phổ biến như Azure AI, 
+Google Cloud AI, và AWS AI, đồng thời làm việc v ới các công cụ mạnh mẽ như Azure 
+Machine Learning Studio, Vertex AI, và SageMaker để tối ưu hóa và duy trì các giải pháp 
+AI. Học phần mang lại cơ hội trải nghiệm thực tế trong việc áp dụng các nền tảng hiện đại 
+nhằm giải quyết các bài toán phức tạp trong lĩnh vực trí tuệ nhân tạo. 
+LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG 
+- Mã môn học:                     INT 1332 
+- Số tín chỉ:              3 
+- Tóm tắt nội dung 
+Môn học này cung cấp kiến thức nền tảng về lập trình hướng đối tượng và các kỹ năng lập 
+trình nâng cao với ngôn ngữ lập trình Java. Học sinh sẽ được trang bị phương pháp hướng 
+đối tượng như xây dựng khái niệm, mô hình hóa lớp và nguyên tắc cơ bản của kỹ thuật mô 
+hình hóa đối tượng. Môn học này cũng cung cấp cho học viên những kỹ năng cơ bản đến 
+nâng cao của ngôn ngữ lập trình Java. 
+ MẠNG MÁY TÍNH 
+- Mã môn học: INT1336 
+- Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+
+### Trang 16
+
+16 
+ 
+Môn học này cung cấp kiến thức cơ bản về mạng máy tính và tập trung vào Internet. Bằng 
+cách tiếp cận từ trên xuống của kiến trúc phân lớp của Internet, khóa học cung cấp những 
+kiến thức quan trọng giúp người học hiểu được các thành phần phức tạp của Internet có thể 
+hoạt động tốt với nhau như thế nào. Nội dung môn học được kết cấu gồm 5 chương như 
+sau. Chương 1 giới thiệu các khái niệm cơ bản về mạng máy tính và Internet. Chương 2 
+trình bày kiến trúc ứng dụng mạng và một số ứng dụng phổ biến trên Internet. C hương 3 
+mô tả các dịch vụ tầng vận chuyển với 2 giao thức TCP và UDP. Chương 4 trình bày các 
+mô hình dịch vụ tầng mạng với 2 nhiệm vụ quan trọng là định tuyển và chuyển tiếp. Và 
+cuối cùng, chương 5 trình bày các dịch vụ của ỉớp liên kết và lớp vật lý, bao gồm nhiều 
+liên kết truy cập và chuyển mạch trong mạng cục bộ. Nội dung bài tập và thực hành được 
+cung cấp ở cuối mỗi chương, trong đó bao gồm các công cụ thực hành cũng như lập trình 
+một số tình huống truyền thông đơn giản trên mạng. 
+ NHẬP MÔN CÔNG NGHỆ PHẦN MỀM 
+- Mã môn học:         INT 1 3 40 
+- Số tín chỉ:              3 
+- Tóm tắt nội dung 
+Môn học này giúp người học nắm được các khái niệm và phương pháp kĩ thuật liên quan 
+đến tiến trình phát triển phần mềm, bắt đầu từ lấy yêu cầu, phân tích, thiết kế, cài đặt, kiểm 
+thử, triển khai và bảo trì. Ngoài ra còn giúp người học nắm được các vấn đề liên quan trong 
+phản triển phần mềm như khía cạnh kinh tế, công nghệ và sử dụng tài nguyên nhân lực… 
+Sau khi học môn học này, người học được trang bị khả năng áp dụng các phương pháp kĩ 
+thuật trong các pha phát triển vào phát triển một phần mềm thực tế. Có khả năng sử dụng 
+các công cụ UML để vẽ các sơ đồ, biểu đồ tương ứng với các pha phát triển. Đồng thờ i 
+đọc hiểu được tài liệu kĩ thuật phát triển phần mềm do người khác đã viết theo chuẩn UML. 
+Ngoài ra, người học còn được trang bị kĩ năng phối hợp nhóm giữa các pha và giữa các 
+phần công việc khác nhau; kĩ năng đọc hiểu tài liệu chuyên ngành công nghệ phần  mềm 
+bằng Tiếng Anh. 
+ TRÍ TUỆ NHÂN TẠO CƠ BẢN 
+- Mã môn học:  AI1304 
+- Số tín chỉ (TC):  3 
+- Tóm tắt nội dung môn học 
+Môn học hướng tới trang bị cho người học khả năng giải quyết vấn đề thông qua các kỹ 
+thuật trí tuệ nhân tạo cơ bản (AI) và tạo nền tảng cho nghiên cứu hoặc phát triển các hệ 
+thống thông minh. Nội dung môn học xoay quanh các kiến thức về trí tuệ nhân tạo, b ao 
+gồm các khái niệm cơ bản về AI, giải thuật tìm kiếm, biểu diễn tri thức, lập luận logic, học 
+máy cơ bản và ứng dụng  TTNT trong các lĩnh vực như xử lý ngôn ngữ tự nhiên, thị giác 
+máy tính, và hệ thống chuyên gia. Sinh viên sẽ được học cách tạo chuỗi hành  động phù 
+
+### Trang 17
+
+17 
+ 
+hợp một cách hiệu quả và cách tìm kiếm giữa các phương án để tìm ra giải pháp tối ưu 
+hoặc gần tối ưu. 
+LẬP TRÌNH PYTHON CƠ BẢN 
+- Mã môn học: AI1303 
+Số tín chỉ:     3 
+- Tóm tắt nội dung 
+Môn học "Lập trình Python cơ bản" nhằm trang bị cho sinh viên những kiến thức cơ bản 
+về lập trình với ngôn ngữ Python, tạo nền tảng cho những môn học sau. Nội dung môn học 
+xoay quanh các kiến thức chính như các công cụ hỗ trợ lập trình Python, câu lệnh điều 
+khiển, hàm, module, cấu trúc dữ liệu cơ bản, lập trình hướng đối tượng (OOP) và xử lý tệp 
+tin. Sinh viên sẽ học được cách viết mã Python hiệu quả, hiểu các n guyên lý cơ bản của 
+lập trình, sẵn sàng cho các môn học nâng cao và các ứng dụng chuyên sâu trong lĩnh vực 
+trí tuệ nhân tạo. 
+ TRÍ TUỆ NHÂN TẠO CHO AN TOÀN BẢO MẬT THÔNG TIN 
+- Mã môn học: AI1307 
+- Số tín chỉ (TC): 3  
+- Tóm tắt nội dung 
+Vấn đề an toàn bảo mật thông tin hiện đại gắn liền với một lượng lớn dữ liệu dưới dạng 
+tệp, file logs, packets và nhiều loại dữ liệu khác. Trong khóa học này, sinh viên sẽ được 
+tìm hiểu cách các hệ thống TTNT sử dụng dữ liệu để phát hiện và phân tích các mối đe dọa 
+như spam, phần mềm độc hại, botnet và xâm nhập mạng. Nội dung khóa học sẽ cung cấp 
+đầy đủ từng giai đoạn trong quy trình TTNT cho ứng dụng an toàn bảo mật thông tin, bao 
+gồm: chuẩn bị và trực quan hóa dữ liệu; trích xuất và lựa chọn đặc trưng; lựa chọn mô hình, 
+huấn luyện, tinh chỉnh và đánh giá. Khóa học cũng sẽ thảo luận về các vấn đề của những 
+hệ thống ML/AI và các cuộc tấn công đối kháng nhằm vào AI. Sinh viên sẽ được đánh giá 
+dựa trên các bài tập lập trình bằng ngôn ngữ Python và một bài tập lớn triển khai/phân tích 
+mô hình trí tuệ nhân tạo cho an toàn thông tin.  
+XỬ LÝ ẢNH 
+- Mã học phần:         INT13146       
+- Số tín chỉ:              3                      
+- Tóm tắt nội dung học phần 
+Trong môn học này, các lĩnh vực chính của xử lý hình ảnh được đề cập, bao gồm các 
+nguyên tắc cơ bản về hình ảnh, lọc và nâng cao hình ảnh (biến đổi cường độ và lọc không 
+gian), xử lý hình ảnh màu, hình thái học (các hoạt động xử lý hình ảnh dựa trên các hì nh 
+dạng như xói mòn, giãn nở, mở, đóng), phân đoạn, trích xuất tính năng h ình ảnh và phân 
+loại mẫu hình ảnh. Ngoài ra, các bài tập trong phòng thí nghiệm máy tính được thiết kế để 
+giới thiệu các phương pháp xử lý dữ liệu hình ảnh trong thế giới thực.. 
+
+### Trang 18
+
+18 
+ 
+KHOA HỌC DỮ LIỆU CƠ BẢN 
+- Mã học phần:  AI1306 
+- Số tín chỉ:   3   
+- Tóm tắt nội dung học phần 
+Môn học này giới thiệu cho người học những kiến thức cơ bản về khoa học dữ liệu (dữ 
+liệu, kiểu dữ liệu, giả thuyết và kiểm tra giả thuyết thống kê) và các phương pháp xử lý 
+và phân tích dữ liệu, bao gồm chuẩn bị dữ liệu (thu thập dữ liệu, làm sạch dữ liệu,  mở 
+rộng và chuẩn hóa dữ liệu, giảm thiểu và chuyển đổi dữ liệu), trực quan hóa dữ liệu và 
+các mô hình dự đoán/phân loại/phân cụm/đề xuất dữ liệu. Môn học cũng dạy cho sinh 
+viên cách đánh giá các mô hình phân tích dữ liệu. 
+THỰC TẬP CƠ SỞ 
+- Mã học phần:       AI1310  
+- Số tín chỉ:             4                    
+- Tóm tắt nội dung học phần 
+Môn học này cung cấp cho người học phương pháp vận dụng những kiến thức cơ bản đã 
+học được để làm quen với thực hiện một dự án nhỏ về phát triển ứng dụng TTNT (AI mini 
+project). Người học cần tổng hợp và vận dụng những kiến thức về thuật toán, khoa học dữ 
+liệu (làm sạch dữ liệu, tiền xử lý, trực quan hóa…), trí tuệ nhân tạo căn bản (tìm kiếm, suy 
+diễn, học máy), lập trình để phân tích các dạng dữ liệu khác nhau như văn bản, hình ảnh 
+và video, chuỗi thời gian v.v… nhằm giải quyết một số bài toán cụ thể.   
+ĐẠO ĐỨC VÀ CHÍNH SÁCH TRÍ TUỆ NHÂN TẠO 
+- Mã học phần: AI1305 
+- Số tín chỉ: 3 
+- Tóm tắt nội dung học phần: 
+Môn học "Đạo đức và chính sách Trí tuệ nhân tạo" trang bị cho sinh viên nền tảng về các 
+nguyên tắc đạo đức quan trọng như tính minh bạch, công bằng, và quyền riêng tư trong 
+việc phát triển và ứng dụng TTNT. Người học sẽ tìm hiểu cách mà TTNT có thể ảnh hưởng 
+đến các khía cạnh xã hội như việc làm, quyền tự do, và an ninh, đồng thời phân tích các 
+rủi ro tiềm tàng liên quan đến sự phát triển của công nghệ này. Môn học cung cấp kiến 
+thức về các chính sách, luật lệ và quy định pháp lý liên quan đến TTNT trên thế giới, giúp 
+người học hiểu rõ bối cảnh pháp lý và quản lý TTNT. Bên cạnh đó, người học được hướng 
+dẫn về trách nhiệm đạo đức của nhà phát triển TTNT và các chiến lược để thiết kế hệ thống 
+TTNT một cách an toàn, có trách nhiệm. Người học có thể áp dụng các khung đạo đức và 
+nguyên tắc vào thực tế, đảm bảo rằng các hệ thống TTNT được triển khai một cách có đạo 
+đức và bền vững. 
+LẬP TRÌNH WEB 
+- Mã môn học:  INT 1434 
+
+### Trang 19
+
+19 
+ 
+- Số tín chỉ:   3 
+- Tóm tắt nội dung  
+Môn học này cung cấp các kiến thức cơ bản về các kỹ thuật lập trình web phía Client với 
+HTML, CSS, JavaScript, AJAX và lập trình phía server với JSP.  Sinh viên sẽ được làm 
+quen với kỹ thuật lập trình web trong Java sử dụng các nền tảng tiên tiến như STRUT , 
+SPRING … Trang bị cho sinh viên nắm được các kỹ năng làm chủ các kỹ thuật lập trình 
+web ở cả hai phía client và server. Có khả năng sử dụng các thư viện hỗ trợ lập trình web 
+của Java.  
+9.3 Khối kiến thức chuyên ngành  
+IOT VÀ ỨNG DỤNG 
+- Mã môn học:  INT14149 
+- Số tín chỉ (TC): 3  
+- Tóm tắt nội dung 
+Học phần này cung cấp cho sinh viên những kiến thức và kỹ năng về cảm biến, thu nhận, 
+xử lý và phân tích dữ liệu dựa trên nền tảng IoT. Cụ thể, sinh viên được trang bị một số 
+kiến thức cơ bản về thiết bị IoT như giao thức kết nối MQTT; thu nhận dữ liệu bằn g cảm 
+biến IoT và tiền xử lý tín hiệu mức thô. Tiếp đến là cung cấp cho học viên các kiến thức 
+về học máy cho phân tích dữ liệu dạng chuỗi thời gian (dữ liệu điển hình của IoT) bao gồm 
+trích chọn các đặc trưng cảm biến và học các đặc trưng nhờ các mô hình học sâu. Cuối 
+cùng học phần sẽ trang bị cho sinh viên các kỹ năng và kiến thức xây dựng một số ứng 
+dụng dựa trên nền tảng IoT và học máy. 
+CÁC HỆ THỐNG PHÂN TÁN 
+- Mã môn học: INT1405 
+- Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+Môn học này cung cấp cho người học kiến thức cơ bản về hệ thống phân tán, bao gồm các 
+khái niệm cơ bản và các vấn đề cơ bản của hệ thống phân tán như quy trình, truyền thông, 
+đồng bộ hóa, tính nhất quán, khả năng chịu lỗi và bảo mật. Ngoài ra, các ứng dụng  của hệ 
+thống phân tán và các kỹ thuật và phương pháp thiết kế hệ thống phân tán cũng được giới 
+thiệu cho người học.  
+HỆ KHUYẾN NGHỊ 
+- Mã môn học: INT14170 
+- Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+Môn học này tập trung vào các kỹ thuật và thuật toán để xây dựng hệ thống khuyến nghị – 
+các hệ thống đề xuất sản phẩm, dịch vụ hoặc nội dung cho người dùng dựa trên hành vi 
+
+### Trang 20
+
+20 
+ 
+của họ. Các phương pháp chính bao gồm Collaborative Filtering (lọc cộng tác), Content -
+based Filtering (lọc dựa trên nội dung) và các phương pháp lai (hybrid methods). 
+Collaborative Filtering sử dụng dữ liệu về sự tương tác của người dùng với các mục khác 
+để tìm ra mối liên hệ giữa người dùng hoặc giữa các sản phẩm, từ đó tạo ra các đề xuất. 
+Content-based Filtering phân tích các đặc điểm của sản phẩm và so sánh chúng với sở thích 
+của người dùng. Môn học cũng thảo luận về các kỹ thuật cải tiến như khuyến nghị  theo 
+ngữ cảnh, học tăng cường trong hệ khuyến nghị, và các vấn đề thực tế như tính cá nhân 
+hóa và tính minh bạch của các hệ thống khuyến nghị. 
+KHAI PHÁ DỮ LIỆU  
+- Mã môn học: INT14155 
+- Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+Khai phá dữ liệu lớn đề cập đến các phương pháp và công cụ để xử lý, phân tích dữ liệu 
+với khối lượng lớn, thường vượt quá khả năng xử lý của các công nghệ truyền thống. Môn 
+học bao gồm các kiến thức nền tảng về các khung phân tán như Hadoop, Spark, và các kỹ 
+thuật lưu trữ dữ liệu phân tán. Các kỹ thuật khai phá dữ liệu lớn bao gồm các phương pháp 
+phân cụm (clustering), phân loại (classification), khai phá mẫu (pattern mining), và phát 
+hiện bất thường (anomaly detection) trên tập dữ liệu lớn. Môn học cũng nhấn mạnh việc 
+xử lý dữ liệu phi cấu trúc như văn bản, hình ảnh và video, cùng với các bài toán ứng dụng 
+trong thương mại điện tử, y tế và mạng xã hội. 
+NHẬP MÔN ROBOTICS 
+- Mã học phần: AI1416      
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học cung cấp cho sinh viên kiến thức nền tảng về robot học (robotics), bao gồm các 
+thành phần chính của hệ thống robot, cách hoạt động, và các ứng dụng thực tế. Qua môn 
+học này, sinh viên sẽ nắm vững những khái niệm cơ bản về robot, kỹ năng lập trình và điều 
+khiển robot, đồng thời làm quen với việc thiết kế các hệ thống robot cho các ứng dụng cụ 
+thể trong công nghiệp và đời sống. Trong đó, chương 1 giới thiệu về Robotics với các nội 
+dung như lịch sử phát triển, phân loại robot, cấu trúc và các thành phần cơ bản của robot. 
+Chương 2 mô tả về động học và động lực học của robot, bao gồm giới thiệu về động học 
+robot, phân tích động học và động lực học của robot, cơ cấu tay máy, hệ thống cảm biến 
+và bộ truyền động. Chương 3 đưa ra các thuật toán điều khiển robot, bao gồm điều khiển 
+robot cơ bản, điều khiển chuyển động và quỹ đạo, thuật toán điều khiển phản hồi và ứng 
+dụng TTNT trong điều khiển robot, tối ưu hoá và điều khiển hệ thống đa robot. Chương 
+cuối là phần ứng dụng và phát triển hệ thống robot, bao gồm các nội dung về thiết kế và 
+mô phỏng hệ thống robot, nghiên cứu về ứng dụng chuyên sâu của robot trong các lĩnh vực 
+như vận tải, sản xuất, … 
+
+### Trang 21
+
+21 
+ 
+TRUY XUẤT THÔNG TIN 
+- Mã học phần: INT14158    
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học tập trung vào các công cụ tìm kiếm (search engines) và các phương pháp xếp 
+hạng, xử lý ngôn ngữ tự nhiên (NLP) để đưa ra các kết quả truy vấn phù hợp. Môn học bắt 
+đầu với các khái niệm như tài liệu (document), truy vấn (query) và chỉ mục (index). H ệ 
+thống truy xuất thông tin xử lý các truy vấn của người dùng và trả về các tài liệu phù hợp 
+dựa trên mô hình không gian vector (Vector Space Model - VSM), mô hình Boolean, hoặc 
+mô hình xác suất như BM25. Các thuật toán xếp hạng giúp xác định thứ tự ưu tiên của các 
+kết quả. Môn học cũng đề cập đến các phương pháp xây dựng chỉ mục (indexing), giúp 
+tăng tốc độ tìm kiếm thông qua các cấu trúc dữ liệu như cây B-tree hoặc bảng băm. Ngoài 
+ra, các kỹ thuật nén dữ liệu cũng được sử dụng để tối ưu hóa kích thước chỉ  mục mà vẫn 
+duy trì hiệu quả. 
+CÔNG CỤ TRIỂN KHAI VÀ VẬN HÀNH ỨNG DỤNG TRÍ TUỆ NHÂN TẠO 
+- Mã học phần:   AI1413    
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học cung cấp cho sinh viên những kiến thức và kỹ năng cần thiết để triển khai , vận 
+hành và quản lý các mô hình học máy trong môi trường thực tế. Sinh viên sẽ học cách kết 
+hợp các nguyên lý của DevOps và học máy (MLOps), giúp tự động hóa quy trình phát 
+triển, kiểm thử, triển khai và duy trì mô hình học máy. Môn học trang bị cho sinh viên khả 
+năng xây dựng nền tảng MLOps, sử dụng các công cụ CI/CD, theo dõi và quản lý mô hình 
+sau khi triển khai, đồng thời tối ưu hóa hiệu suất và bảo mật trong môi trường s ản xuất. 
+Sinh viên cũng sẽ làm quen với các công cụ phổ biến như Kubeflow, M lflow, Jenkins và 
+GitLab. Môn học giúp sinh viên phát triển các kỹ năng thực tiễn để giải quyết các thách 
+thức trong việc triển khai và duy trì mô hình học máy, chuẩn bị cho các công việc trong 
+lĩnh vực MLOps. 
+PHÁT TRIỂN ỨNG DỤNG TRÍ TUỆ NHÂN TẠO 
+- Mã học phần:     AI1415    
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học này cũng cấp cho sinh viên cách ứng dụng học máy để tạo ra các ứng dụng TTNT 
+giải quyết các vấn đề thực tiễn. Khóa học áp dụng cách tiếp cận toàn diện, bao quát toàn 
+bộ vòng đời của ứng dụng AI. Học viên sẽ học cách chuyển đổi các vấn đề cụ thể thành 
+các bài toán học máy, các kỹ thuật xử lý dữ liệu như chọn lựa đặc trưng (feature selection), 
+chuẩn hóa (scaling), rời rạc hóa (discretization), và mã hóa (encoding). Khóa học tiếp tục 
+với việc tìm hiểu cách lựa chọn mô hình phù hợp, đánh giá các sự đánh đổi (trade-offs), và 
+huấn luyện mô hình. Sinh viên sẽ được tìm hiểu các chiến lược triển khai, giám sát các mô 
+
+### Trang 22
+
+22 
+ 
+hình đã triển khai để phát hiện suy giảm hiệu suất (performance decay) và xử lý các vấn 
+đề phát sinh trong khi vận hành. Bên cạnh đó, các vấn đề về đạo đức  TTNT cũng sẽ được 
+đề cập tới trong toàn bộ quá trình phát triển ứng dụng AI. 
+MÔ HÌNH HỌC MÁY ĐỒ THỊ VÀ ỨNG DỤNG 
+- Mã học phần:     AI1418    
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Đây là môn học cung cấp kiến thức về các mô hình học máy ứng dụng cho dữ liệu đồ thị 
+(graph data), một loại dữ liệu phức tạp thể hiện các mối quan hệ giữa các thực thể, ví dụ 
+như mạng xã hội, mạng giao thông hoặc mạng sinh học. Nội dung môn học bao gồm các 
+thuật toán phổ biến như  PageRank, thuật toán tìm đường đi ngắn nhất, và phương pháp 
+phát hiện cộng đồng trong đồ thị. Ngoài ra, các mô hình học sâu như Graph Neural 
+Networks (GNNs) cũng được giới thiệu để giải quyết các bài toán học máy trên đồ thị. Các 
+ứng dụng điển hình bao gồm hệ thống khuyến nghị, phát hiện gian lận, phân tích mạng lưới 
+xã hội, và khám phá tri thức trong sinh học. 
+NHẬP MÔN HỌC SÂU 
+- Mã môn học: INT14154 
+- Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+Môn học này cung cấp cái nhìn toàn diện về học sâu (deep learning) – một nhánh của học 
+máy dựa trên việc sử dụng các mạng nơ-ron nhiều tầng (neural networks). Các mô hình cơ 
+bản như mạng nơ-ron tích chập (Convolutional Neural Networks – CNN) và mạng nơ-ron 
+hồi quy (Recurrent Neural Networks – RNN) được giới thiệu cùng với các ứng dụng thực 
+tế như xử lý hình ảnh, nhận diện giọng nói, và xử lý ngôn ngữ tự nhiên (Natural Language 
+Processing – NLP). Môn học cũng đi sâu vào các chủ đề như tối ưu hóa gradient, 
+regularization để tránh overfitting, và các phương ph áp tiên tiến hơn như Generative 
+Adversarial Networks (GANs) và mạng nơ-ron biến đổi (Transformer). 
+LẬP TRÌNH SONG SONG 
+- Mã học phần: AI1420 
+- Số tín chỉ: 3 
+- Tóm tắt nội dung học phần 
+Môn học "Lập trình Song song" trang bị cho sinh viên kiến thức về cách tối ưu hóa hiệu 
+suất tính toán bằng việc chia nhỏ các tác vụ, đồng bộ hóa và xử lý dữ liệu đồng thời trên 
+nhiều lõi CPU và GPU. Nội dung môn học bao gồm các khái niệm cơ bản về lập trình song 
+song, các mô hình lập trình song song như OpenMP (chia sẻ bộ nhớ), MPI (truyền thông 
+điệp), lập trình trên GPU với CUDA,   cách phân chia công việc, tối ưu hóa hiệu năng. 
+Người học được hướng dẫn để áp dụng các kỹ thuật lập trình song song này vào cá c bài 
+toán TTNT thực tế, chẳng hạn như tối ưu hóa các thuật toán học máy và học sâu bằng cách 
+
+### Trang 23
+
+23 
+ 
+phân chia công việc và sử dụng tài nguyên phần cứng một cách hiệu quả, xử lý dữ liệu lớn, 
+tăng tốc quá trình huấn luyện các mô hình AI, và cải thiện hiệu suất tổng thể của các ứng 
+dụng trí tuệ nhân tạo,... 
+PHÂN TÍCH DỮ LIỆU CHUỖI THỜI GIAN 
+- Mã môn học: INT14168 
+- Số tín chỉ (TC): 3 
+- Tóm tắt nội dung môn học 
+Môn học này tập trung vào các kỹ thuật phân tích và dự báo chuỗi thời gian, một loại dữ 
+liệu có thứ tự theo thời gian như giá cổ phiếu, nhiệt độ, hoặc lưu lượng truy cập mạng. Các 
+mô hình truyền thống như ARIMA, SARIMA được giới thiệu cùng với các phương p háp 
+học sâu hiện đại như LSTM (Long Short-Term Memory) và GRU (Gated Recurrent Unit). 
+Ngoài ra, môn học cũng bao gồm các chủ đề về tính thời vụ, tính không dừng, và cách xử 
+lý dữ liệu có xu hướng hoặc chu kỳ. Các ứng dụng bao gồm dự báo kinh tế, phân tích tài 
+chính, dự báo nhu cầu và giám sát hệ thống. 
+THỊ GIÁC MÁY TÍNH 
+- Mã học phần:  AI1412    
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học Thị giác máy tính cung cấp kiến thức nền tảng và ứng dụng về cách các hệ thống 
+máy tính hiểu, xử lý và phân tích hình ảnh hoặc video từ thế giới thực. Đầu tiên, sinh viên 
+sẽ được làm quen với các khái niệm cơ bản trong thị giác máy tính như biểu diễn ảnh và 
+trích xuất đặc trưng của ảnh cùng với một số bài toán cơ bản như nhận diện đối tượng, phát 
+hiện đối tượng. Ngoài ra, sinh viên cũng sẽ được học về các thành phần và cách hoạt động 
+của các mô hình học sâu trong thị giác máy tính tiên tiến hiện nay được xây dựng từ mạng 
+tích chập (Convolutional Neural Networks) hay Transformers. Cuối cùng, sinh viên sẽ 
+được tìm hiểu các hệ thống ứng dụng thị giác máy tính trong một số lĩnh vực như y tế (phát 
+hiện bệnh từ hình ảnh y khoa) hay an ninh (nhận diện khuôn mặt). 
+XỬ LÝ NGÔN NGỮ TỰ NHIÊN  
+- Mã học phần:      INT14156 
+- Số tín chỉ:            3                  
+- Tóm tắt nội dung học phần 
+Học phần cung cấp những kiến thức cơ bản trong lĩnh vực xử lý ngôn ngữ tự nhiên bao 
+gồm các vấn đề và khái niệm cơ bản (mô hình ngôn ngữ, phân tích cú pháp, phân tích ngữ 
+nghĩa); các ứng dụng và phương pháp giải quyết bài toán trong xử lý ngôn ngữ tự nhiên 
+truyền thống như phương pháp dựa trên luật, phương pháp sử dụng học máy. Ngoài ra, 
+môn học cũng trang bị cho người học kiến thức về mô hình ngôn ngữ lớn với các kiểu kiến 
+trúc mạng (feed -forward, embedding, recurrent, attention), các kĩ thuật học sâu và tinh 
+chỉnh mô hình sử dụng trong ứng dụng xử lý ngôn ngữ tự nhiên hiện đại. 
+
+### Trang 24
+
+24 
+ 
+ HỌC TĂNG CƯỜNG VÀ ỨNG DỤNG 
+- Mã học phần:      AI1414 
+- Số tín chỉ:            3                  
+- Tóm tắt nội dung học phần 
+Môn học cung cấp cho sinh viên những kiến thức cơ bản của kĩ thuật học tăng cường và 
+đưa ra hướng tiếp cận để áp dụng trong các ứng dụng thực tế. Nội dung học phần bao gồm 
+những khái niệm cơ bản về tác nhân, môi trường, trạng thái, hành động, cơ chế thưởng  
+phạt; hạn chế và ưu điểm của kĩ thuật học tăng cường trong học máy; những thuật toán học 
+tăng cường phổ biến. Môn học cũng trang bị cho sinh viên kiến thức về học tăng cường kết 
+hợp học sâu cũng như các tiêu chí đánh giá và phân tích thuật toán học tăng c ường hiệu 
+quả. 
+MÔ HÌNH TẠO SINH 
+- Mã học phần:       AI1417  
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học này giới thiệu cho người học những kiến thức cơ bản về mô hình tạo sinh, bao 
+gồm: quá trình mô hình hóa từ phân phối xác suất dữ liệu; không gian tiềm ẩn; các độ đo 
+khoảng cách giữa hai phân phối xác suất, và quá trình sinh dữ liệu từ học biểu diễn  trong 
+mô hình tạo sinh. Đồng thời, môn học cũng cung cấp cho sinh viên những kiến thức về một 
+số mô hình học sâu tạo sinh phổ biến như Variational Autoencoders (VAE), mô hình sinh 
+đối nghịch (Generative Adversarial Networks), và mô hình khuếch tán (diffus ion). Phần 
+cuối của môn học sẽ giới thiệu tới sinh viên một số ứng dụng của các mô hình tạo sinh. 
+TRÍ TUỆ NHÂN TẠO CHO TÍNH TOÁN BIÊN 
+- Mã học phần:       AI1419  
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học "AI cho tính toán biên" tập trung vào việc phát triển và triển khai các mô hình trí 
+tuệ nhân tạo (AI) trên các thiết bị biên, như IoT, cảm biến, và thiết bị nhúng. Sinh viên sẽ 
+được giới thiệu về khái niệm tính toán biên, vai trò của nó so với tính toán đám mây, cùng 
+các công nghệ hỗ trợ như GPU, TPU, và các bộ xử lý chuyên dụng. Nội dung  bao gồm 
+việc sử dụng các công cụ và framework phổ biến như TensorFlow Lite, PyTorch Mobile, 
+ONNX để tối ưu hóa và triển khai mô hình AI, thông qua các kỹ thuật như lượng tử hóa và 
+cắt tỉa. Môn học cũng khám phá các ứng dụng TTNT tại biên trong nhận diện hình ảnh, âm 
+thanh, phân tích thời gian thực, và các lĩnh vực như thành phố thông minh, chăm sóc sức 
+khỏe. Ngoài ra, môn học đề cập đến các thách thức như hạn chế về tài nguyên, bảo mật dữ 
+liệu, và độ trễ. Phần thực hành giúp sinh viên xây dựng và triển kha i các giải pháp TTNT 
+trên thiết bị thực tế, nâng cao khả năng giải quyết các bài toán thực tiễn. Đây là nền tảng 
+quan trọng cho những TTNT muốn ứng dụng TTNT trong các hệ thống thông minh phân 
+tán. 
+
+### Trang 25
+
+25 
+ 
+MÔ HÌNH NGÔN NGỮ LỚN   
+- Mã học phần:       AI1411    
+- Số tín chỉ:             3                    
+- Tóm tắt nội dung học phần 
+Môn học Mô hình ngôn ngữ lớn trang bị cho sinh viên kiến thức và kỹ năng để hiểu và sử 
+dụng hiệu quả các mô hình ngôn ngữ lớn như GPT, BERT hay T5. Nội dung bao gồm tổng 
+quan về LLMs, cơ chế hoạt động (kiến trúc Transformer, tiền huấn luyện, tinh chỉnh), và 
+các kỹ thuật xây dựng truy vấn (prompt engineering) từ cơ bản đến nâng cao như zero -
+shot, few-shot, và chain-of-thought prompting. Sinh viên cũng sẽ học cách đánh giá hiệu 
+quả truy vấn, tối ưu hóa chi phí sử dụng và xử lý các hạn chế của mô hình như thiên lệch 
+hoặc lỗi thông tin. Ngoài ra, môn học tập trung vào ứng dụng thực tế, giúp sinh viên triển 
+khai LLMs vào các bài toán doanh nghiệp và phân tích case study cụ thể.  
+ 
+ KT. GIÁM ĐỐC 
+PHÓ GIÁM ĐỐC 
+ 
+ 
+ 
+ 
+ 
+PGS.TS Trần Quang Anh 
+ 
+ 
+ 

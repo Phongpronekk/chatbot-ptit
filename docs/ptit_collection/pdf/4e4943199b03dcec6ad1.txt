@@ -1,0 +1,269 @@
+### Trang 1
+
+0
+BỘTHÔNGTINVÀTRUYỀNTHÔNG
+HỌCVIỆNCÔNGNGHỆBƯUCHÍNHVIỄNTHÔNG
+----------
+HƯỚNGDẪNSỬDỤNGCHỨCNĂNG
+ĐIỂMRÈNLUYỆN
+HướngdẫndànhchoCốvấnhọctậpWeb
+
+### Trang 2
+
+1
+MỤCLỤC
+I.ĐĂNGNHẬP.............................................................................................................2
+II.HỌPLỚP..................................................................................................................3
+1.Thêmmớibuổihọp................................................................................................3
+2.Chỉnhsửathôngtinbuổihọp.................................................................................6
+3.Xóabuổihọplớp...................................................................................................7
+III.MINHCHỨNGĐIỂMRÈNLUYỆN..................................................................8
+1.Xemdanhsáchminhchứng...................................................................................8
+2.Thêmmớiminhchứng...........................................................................................9
+3.Chỉnhsửaminhchứng.........................................................................................11
+4.Xoáminhchứng...................................................................................................12
+5.Duyệtminhchứng...............................................................................................13
+6.Khôiphụctrạngtháiduyệtminhchứng..............................................................14
+IV.PHIẾUĐIỂMRÈNLUYỆN...............................................................................15
+1.Phiếuđiểmrènluyện...........................................................................................15
+2.Phiếutổnghợpkếtquả........................................................................................18
+3.Biênbảncuộchọp...............................................................................................19
+
+### Trang 3
+
+2
+I.ĐĂNGNHẬP
+Bước1:Truycậpvàotrangwebsite https://canbo.ptit.edu.vn/
+Bước2:Nhậpemailoffice365đãđượchọcviệncấpđểthựchiệnđăngnhập
+Sauđóclickvào Tiếptheo
+Bước3:Nhậpmậtkhẩu,sauđóclickvào Đăngnhập.
+Đăngnhậpthànhcông.MànhìnhTrangchủhiểnthị.
+
+### Trang 4
+
+3
+II.HỌPLỚP
+1.Thêmmớibuổihọp
+Bước1: Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Họplớp
+
+### Trang 5
+
+4
+Bước3: Ngườidùngchọnthaotác Thêmmới đểthựchiệnkhaibáothôngtin
+buổihọp
+Bước4: Mànhìnhkhaibáothôngtinđợtxétđiểmrènluyệnhiểnthị.Cốvấnhọc
+tậpthựchiệnkhaibáothôngtin:
+ Loạihọplớp/sinhhoạt:Đầukỳhọc,giữakỳhọcvàcuốikỳhọc;
+ Thờigianbắtđầu:Làthờigianbắtđầubuổihọp;
+ Thờigiankếtthúc:Làthờigiankếtthúcbuổihọp;
+ Địađiểm:Địađiểmhọp;
+ Ghichú:Ngườidùngghichúthôngtinvềbuổihọp(nếucó).
+Bước5: Saukhithựchiệnkhaibáođủcáctrườngthôngtin,ngườidùngbấm
+Thêmmới
+
+### Trang 6
+
+5
+Mànhìnhhiểnthịthêmmớithôngtinthànhcông.
+Bước5: Thêmmớisựkiệnthànhcông,hệthốngsinhramãQRsựkiện.Người
+dùngấnvào Linkthamgia
+Bước6: MãQRđiểmdanhhiểnthị,sinhviêncóthểquétmãQRđểxácnhận
+thamgiasựkiệnhọplớp (mãthayđổi10s/lần).
+-HọpOnline:CVHTchiasẻlink/mànhìnhđểsinhviênquét.
+-HọpTrựctiếp:Chiếumãtrựctiếptrênmànhình.
+
+### Trang 7
+
+6
+2.TrườnghợpsinhviêncóthamgiahọplớpnhưngkhôngquétđượcmãQR:
+CVHTxemdanhsáchsinhviênthamgiacuộchọpđãquétđượcmãQR , CVHT
+chọnlịchhọp,mànhìnhhiểnthị:
+Danhsáchchitiết:
+TrườnghợpmộtsốsinhviênthaotáckhôngquétđượcmãQRdolỗiS-linkhoặcđường
+truyền mạng. CVHT chọn thêm mới (màu đỏ) bổ sung thông tin sinh viên và nhấn nút
+“Thêmmới”ngaytạibuổihọp:
+
+### Trang 8
+
+7
+3.Chỉnhsửathôngtinbuổihọp
+Bước1: Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Họplớp
+
+### Trang 9
+
+8
+Bước3: Ngườidùngchọnthaotác Chỉnhsửa đểthựchiệnsửathôngtinbuổi
+họp
+Bước4: Mànchỉnhsửabuổihọplớphiểnthị.Ngườidùngthựchiệnchỉnhsửa
+thôngtinvàấnvàonút Lưulại
+ Hệthốngthôngbáocậpnhậtthôngtinthànhcông.
+4.Xóabuổihọplớp
+Bước1: Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+
+### Trang 10
+
+9
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Họplớp
+Bước3: Ngườidùngchọnthaotác Xóađểthựchiệnxóabuổihọplớp
+Bước4: Ngườidùngxácnhận OKđểthựchiệnxóa
+ Hệthốngthôngbáoxóathànhcông.
+III.MINHCHỨNGĐIỂMRÈNLUYỆN
+1.Xemdanhsáchminhchứng
+Bước1:Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+
+### Trang 11
+
+10
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Điểmrènluyện->Minhchứng
+ÞHệthốnghiểnthịdanhsáchminhchứngsinhviênđãgửivềvới4tiêuchí
+ Côngtácnộingoaịtrú;
+ Thamgiacôngtácxãhội;
+ TuyêntruyềntíchcựcvềTrường/Khoa;
+ Thànhtíchđặcbiệt.
+2.Thêmmớiminhchứng
+Bước1:Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+
+### Trang 12
+
+11
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Điểmrènluyện->Minhchứng
+Bước3: Ngườidùngchọnthaotác Thêmmới đểthêmmớiminhchứngchosinh
+viên
+Bước4: Mànkhaibáominhchứnghiểnthị,ngườidùngthựchiệnkhaibáothông
+tin.Sauđóchọnthaotác Thêmmới
+
+### Trang 13
+
+12
+ÞThêmmớiminhchứngthànhcông.Trạngtháimặcđịnhcủaminhchứnglà Đã
+duyệt
+3.Chỉnhsửaminhchứng
+Bước1:Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Điểmrènluyện->Minhchứng
+
+### Trang 14
+
+13
+Bước3: Ngườidùngchọnthaotác Chỉnhsửa đểsửathôngtinminhchứngcho
+sinhviên
+-Lưuý: chỉchỉnhsửađượcbảnghiởtrạngthái Chờxửlý
+Bước4: Hệthốnghiểnthịmànchỉnhsửathôngtinminhchứng,ngườidùngthực
+hiệnchỉnhsửathôngtin,sauđóấnvàonút Lưulại
+
+### Trang 15
+
+14
+ÞHệthốngthôngbáoLưuthànhcông,ngườidùngcậpnhậtthànhcôngthôngtin
+minhchứng
+4.Xoáminhchứng
+Bước1: Ngườidùngấnvàobutton ởcộtThaotácbảnghiminhchứng
+-Lưuý: chỉxóađượcminhchứngởtrạngthái Chờxửlý
+-Bước2:Hệthốnghiểnthịthôngbáovớinộidung“Bạncóchắcchắnmuốnxoá
+minhchứngnày?”.Ngườidùngchọn OKđểxácnhậnxoá
+
+### Trang 16
+
+15
+ÞHệthốngthôngbáoxoáthànhcông.Minhchứngđượcxoákhỏidanhsách.
+5.Duyệtminhchứng
+-Bước1:NgườidùngclickvàobuttonDuyệthoặcTừchốiởcột Thaotác
+-Bước2:Hệthốnghiểnthịthôngbáovớinộidung“Bạncóchắcchắnmuốn
+duyệtminhchứngnày?”.Ngườidùngchọn OKđểxácnhậnduyệtminhchứng
+ÞHệthốngthôngbáocậpnhậtthànhcông,trạngtháicủaminhchứngđược
+chuyểnthành Đãduyệt/Khôngduyệt
+6.Khôiphụctrạngtháiduyệtminhchứng
+-Saukhithựchiệnduyệtminhchứng,ngườidùngcóthểkhôiphụctrạngtháixét
+duyệtminhchứng.
+
+### Trang 17
+
+16
+Bước1: NgườidùngclickvàoThaotácminhchứngđãduyệt,sauđóấnvào
+buttonChuyểnvềchờxửlýởcột Thaotác
+-Bước2:Hệthốnghiểnthịthôngbáovớinộidung“Bạncóchắcchắnmuốn
+khôiphụctrạngtháiminhchứngnày?”.Ngườidùngchọn OKđểxácnhậnduyệtminh
+chứng
+ÞHệthốngthôngbáocậpnhậtthànhcông,trạngtháicủaminhchứngđược
+chuyểnthành Chờxửlý
+
+### Trang 18
+
+17
+IV.PHIẾUĐIỂMRÈNLUYỆN
+1.Phiếuđiểmrènluyện
+Bước1:Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Điểmrènluyện->Phiếuđiểm
+Thôngtintổnghợpphiếuđiểmcủasinhviêntronglớpkèmtrạngtháihiểnthị
+Bước3: Cốvấnchọn1phiếuđánhgiáđiểmrènluyệncủasinhviên
+-Cố vấn chỉ được đánh giá phiếu điểm của SV có trạng thái Cố vấn học tập là
+Chưagửi;Đãlưuphiếuđiểm,chưagửi.
+
+### Trang 19
+
+18
+-Lưuý: vớiphiếuSinhviênchưagửi,cốvấnhọctậpkhôngthểchấmđiểmđược.
+Bước4: Thông tin phiếu chấm điểm rèn luyện hiển thị bao gồm thông tin SV tự
+chấmđiểmvàtậpthểlớplớpchấmđiểm
+Bước5: Nhậpthôngtinđánhgiáđiểmrènluyệncủasinhviên
+Lưu ý: Những ô xám màu là những ô điểm hệ thống chấm, người dùng chỉ được
+điền điểm vào những ô trắng trong thời gian chấm điểm
+
+### Trang 20
+
+19
+Bước6: Sau khi hoàn thiện nhập đủ thông tin, cố vấn có thể Lưu và gửi sau hoặc
+Gửingaythôngtinphiếuđiểmrènluyện
+-Lưuvàgửisau
+ Ngườidùngấn Lưuvàgửisau đểlưulạithôngtinphiếuđãchấmđiểm
+Lưuphiếuđiểmrènluyệnthànhcông.Saukhilưuphiếu,ngườidùngcóthể
+vàotiếptụcchỉnhsửaphiếuchấmđiểmrènluyện.q
+-Gửi
+ Ngườidùngấn Gửiđểgửithôngtinxácnhậnphiếuđiểmcủasinhviên
+
+### Trang 21
+
+20
+Gửiphiếuđiểmrènluyệnthànhcông.Trạngtháicủaphiếuđiểmlà CVHTđã
+nộp
+2.Phiếutổnghợpkếtquả
+Bước1:Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Điểmrènluyện->Phiếutổnghợpkếtquả
+
+### Trang 22
+
+21
+Thôngtintổnghợpphiếuđiểmcủasinhviêntronglớphiểnthị
+3.Biênbảncuộchọp
+Bước1:Cốvấnhọctậpchọnmenu Cốvấnhọctập->Lớphànhchính
+ÞHệthốnghiểnthịdanhsáchlớphànhchính,chọnlớphànhchính
+Bước2: Hệthốnghiểnthịthôngtinlớphànhchính,cốvấnhọctậpchọnvàotab
+Điểmrènluyện->Biênbảnhọp
+
+### Trang 23
+
+22
+Bước3: Nhậpthôngtinbiênbảncuộchọp
+Bước4: ẤnLưuđểthựchiệnlưuthôngtinbiênbảncuộchọp.
+Bước5: ẤnKếtthúccuộchọp để hoàn thiện biên bản khi thông tin đã chuẩn
+khôngthayđổigìnữa.
+Bước6: Sau khi thực hiện chấm điểm xong cho tất cả sinh viên và kết thúc cuộc
+họp. Cố vấn học tập ấnGửiphòngCT&CTSV để gửi phiếu điểm và biên bản
+choPhòngChínhtrịvàcôngtácsinhviên.Hồsơmớihoànthành.

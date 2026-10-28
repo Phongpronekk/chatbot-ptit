@@ -1,0 +1,127 @@
+{
+  "id": 33401,
+  "date": "2026-08-12T09:55:22",
+  "date_gmt": "2026-08-12T09:55:22",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33401"
+  },
+  "modified": "2026-08-21T10:31:29",
+  "modified_gmt": "2026-08-21T10:31:29",
+  "slug": "ke-hoach-ve-viec-danh-gia-ket-qua-ren-luyen-cua-sinh-vien-nam-hoc-2026-2027-tren-he-thong-phan-mem-truc-tuyen-s-link",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/08/12/ke-hoach-ve-viec-danh-gia-ket-qua-ren-luyen-cua-sinh-vien-nam-hoc-2026-2027-tren-he-thong-phan-mem-truc-tuyen-s-link/",
+  "title": {
+    "rendered": "Kế hoạch về việc đánh giá kết quả rèn luyện của sinh viên năm học 2026-2027  trên hệ thống phần mềm trực tuyến S-link"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ các quy định về Công tác sinh viên trình độ đại học hình thức chính quy, Học viện Công nghệ Bưu chính Viễn thông ban hành Kế hoạch đánh giá kết quả rèn luyện sinh viên năm học 2026-2027;</p>\n<p>Đây là cơ sở để sinh viên nhìn lại quá trình học tập, rèn luyện của mình trong năm học, đồng thời là căn cứ quan trọng trong công tác xét học bổng khuyến khích học tập, khen thưởng và các nội dung liên quan.</p>\n<p>Thông tin kế hoach chi tiết: Tại file đính kèm: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/KH-danh-gia-ren-luyen-nam-hoc-2025-2026.pdf\">KH đánh giá rèn luyện năm học 2026 &#8211; 2027</a></p>\n<p>Hướng dẫn sử dụng chức năng đánh giá điểm rèn luyện cho Cố vấn học tập: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/HDSD-CVHT-WEB.pdf\">HDSD-CVHT-WEB</a></p>\n<p>Hướng dẫn sử dụng chức năng đánh giá điểm rèn luyện cho cán sự lớp: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/HDSD_DRL_Can-su-lop-Web.pdf\">HDSD_DRL_Can su lop-Web</a></p>\n<p>Hướng dẫn sử dụng chức năng đánh giá điểm rèn luyện cho sinh viên: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/HDSD-SV-WEB.pdf\">HDSD-SV-WEB</a></p>\n<p>Phiếu đánh giá kết quả rèn luyện: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/Phieu-danh-gia-RL-chi-tiet-3.pdf\">Phieu-danh-gia-RL-chi-tiet-3</a></p>\n<p>Trân trọng./.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ các quy định về Công tác sinh viên trình độ đại học hình thức chính quy, Học viện Công nghệ Bưu chính Viễn thông ban hành Kế hoạch đánh giá kết quả rèn luyện sinh viên năm học 2026-2027; Đây là cơ sở để sinh viên nhìn lại quá trình học tập, rèn [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 92,
+  "featured_media": 33405,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19,
+    17
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33401",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-tin-tuc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33401",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/92"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33401"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33401/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33420,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33401/revisions/33420"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33405"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33401"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33401"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33401"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

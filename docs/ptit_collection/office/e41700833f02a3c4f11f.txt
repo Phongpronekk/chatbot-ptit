@@ -1,0 +1,26 @@
+### sheet1.xml
+A1: TIẾN TRÌNH HỌC TẬP CHUẨN
+A2: CHƯƠNG TRÌNH ĐÀO THẠC SĨ - NGÀNH TRUYỀN THÔNG ĐẠI CHÚNG
+A4: NĂM HỌC THỨ NHẤT | G4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học | C6: 3 | D6: HK1 | F6: 1 | G6: Quản trị khủng hoảng truyền thông trong môi trường số | H6: 3 | I6: HK3
+A7: 2 | B7: Phương pháp nghiên cứu truyền thông nâng cao | C7: 2 | D7: HK1 | F7: 2 | G7: AI trong truyền thông và sản xuất nội dung | H7: 3 | I7: HK3
+A8: 3 | B8: Công chúng, dư luận xã hội và truyền thông số | C8: 2 | D8: HK1 | F8: 3 | G8: 03 học phần tự chọn chuyên ngành (**) | H8: 9 | I8: HK3
+A9: 4 | B9: Lý thuyết truyền thông nâng cao | C9: 3 | D9: HK1
+A10: 5 | B10: Phân tích dữ liệu và insight công chúng | C10: 3 | D10: HK1
+B12:   | C12: 13 | G12:   | H12: 15
+A14: 6 | B14: Quản trị sản xuất nội dung Audio-Video số | C14: 3 | D14: HK2 | F14: 4 | G14: Thực tập | H14: 7 | I14: HK4
+A15: 7 | B15: Sáng tạo nội dung và storytelling đa nền tảng | C15: 3 | D15: HK2 | F15: 5 | G15: Đề án tốt nghiệp | H15: 9 | I15: HK4
+A16: 8 | B16: Pháp luật, đạo đức và quản trị truyền thông có trách nhiệm | C16: 3 | D16: HK2
+A17: 9 | B17: Quản trị chiến lược truyền thông đa nền tảng | C17: 3 | D17: HK2
+A18: 10 | B18: 02 học phần tự chọn cơ sở ngành (*) | C18: 4 | D18: HK2
+B20:   | C20: 16 | G20:   | H20: 16
+G22:  Tổng số   | H22: 60
+B24: (*) Các học phần tự chọn cơ sở ngành | G24: (**) Các học phần tự chọn chuyên ngành
+A25: 1 | B25: Công nghiệp văn hoá và truyền thông | C25: 2 | F25: 1 | G25: Quản trị truyền thông chính sách | H25: 3
+A26: 2 | B26: Kinh tế báo chí - truyền thông | C26: 2 | F26: 2 | G26: Quản trị sự kiện trong truyền thông đại chúng | H26: 3
+A27: 3 | B27: Xây dựng thương hiệu truyền thông | C27: 2 | F27: 3 | G27: Kiểm chứng thông tin và nhận diện truyền thông giả mạo | H27: 3
+A28: 4 | B28: Truyền thông cho phát triển bền vững | C28: 2 | F28: 4 | G28: Truyền thông thị giác số | H28: 3
+A29: 5 | B29: Phân tích diễn ngôn truyền thông | C29: 2 | F29: 5 | G29: Ứng dụng AI trong phân tích công chúng và social listening
+(AI Applications in Audience Analysis and Social Listening) | H29: 3
+F30: 6 | G30: Truyền thông nội bộ và văn hóa tổ chức | H30: 3
