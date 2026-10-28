@@ -1,0 +1,119 @@
+{
+  "id": 33221,
+  "date": "2026-01-20T09:32:04",
+  "date_gmt": "2026-01-20T09:32:04",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33221"
+  },
+  "modified": "2026-01-20T09:32:04",
+  "modified_gmt": "2026-01-20T09:32:04",
+  "slug": "thong-bao-ve-viec-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2025-2031",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/01/20/thong-bao-ve-viec-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2025-2031/",
+  "title": {
+    "rendered": "Thông báo về việc bầu cử đại biểu Quốc hội khóa XVI và Đại biểu Hội đồng Nhân dân các cấp, nhiệm kỳ 2025-2031"
+  },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-33222 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/1.jpg\" alt=\"\" width=\"1240\" height=\"1600\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/1.jpg 1240w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/1-233x300.jpg 233w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/1-794x1024.jpg 794w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/1-768x991.jpg 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/1-1190x1536.jpg 1190w\" sizes=\"(max-width: 1240px) 100vw, 1240px\" /></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-33223 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/2.jpg\" alt=\"\" width=\"1240\" height=\"800\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/2.jpg 1240w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/2-300x194.jpg 300w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/2-1024x661.jpg 1024w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/2-768x495.jpg 768w\" sizes=\"(max-width: 1240px) 100vw, 1240px\" /></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-33224 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/3.jpg\" alt=\"\" width=\"1240\" height=\"1700\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/3.jpg 1240w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/3-219x300.jpg 219w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/3-747x1024.jpg 747w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/3-768x1053.jpg 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/01/3-1120x1536.jpg 1120w\" sizes=\"(max-width: 1240px) 100vw, 1240px\" /></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 32771,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33221",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33221",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33221"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33221/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32771"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33221"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33221"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33221"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

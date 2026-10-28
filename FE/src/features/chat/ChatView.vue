@@ -9,7 +9,7 @@ const messageList = ref<HTMLElement>()
 onMounted(() => { void chat.load() })
 function select(id: string) { void chat.select(id); sidebarOpen.value = false }
 function create() { void chat.newConversation(); sidebarOpen.value = false }
-watch(() => [chat.activeId, chat.active?.messages.length], async () => {
+watch(() => [chat.activeId, chat.active?.messages.length, chat.sending], async () => {
   await nextTick()
   messageList.value?.scrollTo({ top: messageList.value.scrollHeight, behavior: 'smooth' })
 })
@@ -39,21 +39,27 @@ watch(() => [chat.activeId, chat.active?.messages.length], async () => {
       <header class="chat-header">
         <button class="menu-button icon-button" aria-label="Mở lịch sử trò chuyện" aria-controls="chat-sidebar" :aria-expanded="sidebarOpen" @click="sidebarOpen = !sidebarOpen">☰</button>
         <div><h1>Trợ lý sinh viên PTIT</h1><p>Hỗ trợ thông tin học tập</p>
-          <span v-if="chat.health" class="connection-status">{{ chat.health.source_count }} nguồn dữ liệu · {{ chat.health.llm_configured ? 'Đã cấu hình LLM' : 'Chế độ tra cứu tài liệu' }}</span>
+          <span v-if="chat.health" class="connection-status">{{ chat.health.source_count }} nguồn dữ liệu · {{ chat.health.llm_configured ? `${chat.health.llm_provider === 'ollama' ? 'Ollama local' : (chat.health.llm_provider || 'LLM')} · ${chat.health.llm_model || 'Đã cấu hình'}` : 'Chế độ tra cứu tài liệu' }}</span>
+          <span v-if="chat.health?.retrieval === 'vector'" class="connection-status"> · RAG Chroma + embedding local</span>
+          <span v-if="chat.health?.retrieval_warning" class="connection-status"> · {{ chat.health.retrieval_warning }}</span>
         </div>
       </header>
       <div v-if="chat.error" class="api-error" role="alert">{{ chat.error }} <button :disabled="chat.busy" @click="chat.load">Tải lại</button></div>
       <div ref="messageList" class="message-list" role="log" aria-label="Nội dung trò chuyện" aria-live="polite" tabindex="0">
         <p v-if="chat.loading" class="chat-notice" role="status">Đang tải cuộc trò chuyện…</p>
-        <div v-else-if="!chat.active?.messages.length" class="empty-chat">
+        <div v-else-if="!chat.active?.messages.length && !chat.sending" class="empty-chat">
           <span class="ptit-mark" aria-hidden="true">P</span>
           <h2>Bắt đầu cuộc trò chuyện</h2>
           <p>Nhập câu hỏi để tra cứu thông tin từ kho dữ liệu PTIT.</p>
         </div>
         <MessageBubble v-for="message in chat.active?.messages" :key="message.id" :message="message" />
-        <p v-if="chat.sending" class="chat-notice" role="status">Đang tra cứu và xử lý câu hỏi…</p>
+        <MessageBubble v-if="chat.pendingMessage" :message="chat.pendingMessage" />
+        <article v-if="chat.sending" class="message assistant" role="status" aria-label="Chatbot đang suy nghĩ">
+          <span class="ptit-mark message-avatar" aria-hidden="true">P</span>
+          <div class="message-content"><div class="bubble"><p>Thinking...</p></div></div>
+        </article>
       </div>
-      <ChatInput :busy="chat.busy" :sent-version="chat.sentVersion" @send="chat.send" />
+      <ChatInput :busy="chat.busy" :sent-version="chat.sentVersion" :draft-to-restore="chat.draftToRestore" @send="chat.send" />
     </main>
   </div>
 </template>

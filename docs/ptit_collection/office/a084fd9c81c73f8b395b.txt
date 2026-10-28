@@ -1,0 +1,68 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG - ĐỊNH HƯỚNG ỨNG DỤNG
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | F4: TT | G4: Tên môn học/học phần | H4: Số TC | I4: Học kỳ
+A5: 1 | B5: Triết học | C5: 3 | D5: HK1 | F5: 1 | G5: Hệ thống IoT tiên tiến | H5: 3 | I5: HK3
+A6: 2 | B6: Phương pháp nghiên cứu khoa học | C6: 2 | D6: HK1 | F6: 2 | G6: Chuyên đề viễn thông hiện đại | H6: 3 | I6: HK3
+A7: 3 | B7: Công cụ toán cho điện tử - viễn thông | C7: 3 | D7: HK1 | F7: 3 | G7: Tự chọn chuyên ngành B1 | H7: 3 | I7: HK3
+A8: 4 | B8: Truyền thông số nâng cao | C8: 3 | D8: HK1 | F8: 4 | G8: Tự chọn chuyên ngành B2 | H8: 3 | I8: HK3
+A9: 5 | B9: Xử lý tín hiệu số nâng cao | C9: 3 | D9: HK1 | F9: 5 | G9: Tự chọn chuyên ngành B3 | H9: 3 | I9: HK3
+C12: 14 | H12: 15
+A14: 6 | B14: Tự chọn cơ sở ngành A1 | C14: 3 | D14: HK2 | F14: 6 | G14: Thực tập tốt nghiệp | H14: 7 | I14: HK4
+A15: 7 | B15: Tự chọn cơ sở ngành A2 | C15: 3 | D15: HK2 | F15: 7 | G15: Đề án tốt nghiệp | H15: 9 | I15: HK4
+A16: 8 | B16: Mô hình hoá và phân tích hiệu năng hệ thống | C16: 3 | D16: HK2
+A17: 9 | B17: Thông tin vô tuyến nâng cao | C17: 3 | D17: HK2
+A18: 10 | B18: Mạng truyền thông tiên tiến | C18: 3 | D18: HK2
+C20: 15 | H20: 16
+G22: TỔNG CỘNG: | H22: 60
+A24: A | B24: Các học phần tự chọn cơ sở ngành | F24: B | G24: Các học phần tự chọn chuyên ngành
+B25: A1 - Tính toán tự động và tự động hóa | G25: B1 - Mạng, nền tảng số và an toàn hệ thống
+A26: 1 | B26: Học máy ứng dụng | C26: 3 | F26: 1 | G26: Truyền thông lượng tử | H26: 3
+A27: 2 | B27: Kỹ thuật lập trình nâng cao | C27: 3 | F27: 2 | G27: An toàn hệ thống điện toán đám mây | H27: 3
+A28: 3 | B28: Tự động hóa mạng | C28: 3 | F28: 3 | G28: Kỹ nghệ Web và API | H28: 3
+B29: A2 - Mô hình hóa và tích hợp | F29: 4 | G29: Tối ưu tài nguyên mạng | H29: 3
+A30: 4 | B30: Lý thuyết hàng đợi và ứng dụng | C30: 3 | G30: B2 - Dữ liệu, AI và quản trị
+A31: 5 | B31: Truyền thông đa phương tiện nâng cao | C31: 3 | F31: 5 | G31: Phân tích dữ liệu trong viễn thông | H31: 3
+A32: 6 | B32: Hệ thống tích hợp truyền thông - cảm biến | C32: 3 | F32: 6 | G32: Trí tuệ nhân tạo nâng cao trong viễn thông | H32: 3
+F33: 7 | G33: Dữ liệu lớn nâng cao | H33: 3
+F34: 8 | G34: Quản lý dự án và đổi mới sáng tạo | H34: 3
+G35: B3- Vô tuyến
+F36: 9 | G36: Hệ thống truyền thông không gian và UAV | H36: 3
+F37: 10 | G37: Truyền thông quang không dây | H37: 3
+F38: 11 | G38: Công nghệ anten tiên tiến | H38: 3
+F39: 12 | G39: Thông tin vệ tinh nâng cao | H39: 3
+### sheet2.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG - ĐỊNH HƯỚNG NGHIÊN CỨU
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | F4: TT | G4: Tên môn học/học phần | H4: Số TC | I4: Học kỳ
+A5: 1 | B5: Triết học | C5: 3 | D5: HK1 | F5: 1 | G5: Tự chọn chuyên ngành B1 | H5: 3 | I5: HK3
+A6: 2 | B6: Phương pháp nghiên cứu khoa học | C6: 2 | D6: HK1 | F6: 2 | G6: Tự chọn chuyên ngành B2 | H6: 3 | I6: HK3
+A7: 3 | B7: Công cụ toán cho điện tử - viễn thông | C7: 3 | D7: HK1 | F7: 3 | G7: Tự chọn chuyên ngành B3 | H7: 3 | I7: HK3
+A8: 4 | B8: Truyền thông số nâng cao | C8: 3 | D8: HK1 | F8: 4 | G8: Chuyên đề thạc sĩ 4 | H8: 3 | I8: HK3
+A9: 5 | B9: Xử lý tín hiệu số nâng cao | C9: 3 | D9: HK1 | F9: 5 | G9: Chuyên đề thạc sĩ 5 | H9: 3 | I9: HK3
+C12: 14 | H12: 15
+A14: 6 | B14: Tự chọn cơ sở ngành A | C14: 3 | D14: HK2 | F14: 6 | G14: Luận văn tốt nghiệp | H14: 15 | I14: HK4
+A15: 7 | B15: Mô hình hoá và phân tích hiệu năng hệ thống | C15: 3 | D15: HK2
+A16: 8 | B16: Thông tin vô tuyến nâng cao | C16: 3 | D16: HK2
+A17: 9 | B17: Chuyên đề thạc sĩ 1 | C17: 2 | D17: HK2
+A18: 10 | B18: Chuyên đề thạc sĩ 2 | C18: 2 | D18: HK2
+A19: 11 | B19: Chuyên đề thạc sĩ 3 | C19: 3 | D19: HK2
+C21: 16 | H21: 15
+G23: TỔNG CỘNG CTĐT: | H23: 60
+A25: A | B25: Các học phần tự chọn cơ sở ngành | F25: B | G25: Các học phần tự chọn chuyên ngành
+A26: 1 | B26: Học máy ứng dụng | C26: 3 | G26: B1 - Mạng, nền tảng số và an toàn hệ thống
+A27: 2 | B27: Kỹ thuật lập trình nâng cao | C27: 3 | F27: 1 | G27: Truyền thông lượng tử | H27: 3
+A28: 3 | B28: Tự động hóa mạng | C28: 3 | F28: 2 | G28: An toàn hệ thống điện toán đám mây | H28: 3
+F29: 3 | G29: Kỹ nghệ Web và API | H29: 3
+F30: 4 | G30: Tối ưu tài nguyên mạng | H30: 3
+G31: B2 - Dữ liệu, AI và quản trị
+F32: 5 | G32: Phân tích dữ liệu trong viễn thông | H32: 3
+F33: 6 | G33: Trí tuệ nhân tạo nâng cao trong viễn thông | H33: 3
+F34: 7 | G34: Dữ liệu lớn nâng cao | H34: 3
+F35: 8 | G35: Quản lý dự án và đổi mới sáng tạo | H35: 3
+G36: B3- Vô tuyến
+F37: 9 | G37: Hệ thống truyền thông không qian và UAV | H37: 3
+F38: 10 | G38: Truyền thông quang không dây | H38: 3
+F39: 11 | G39: Công nghệ anten tiên tiến | H39: 3
+F40: 12 | G40: Thông tin vệ tinh nâng cao | H40: 3
+### sheet3.xml

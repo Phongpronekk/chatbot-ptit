@@ -1,0 +1,127 @@
+{
+  "id": 33202,
+  "date": "2026-03-21T15:02:14",
+  "date_gmt": "2026-03-21T08:02:14",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33202"
+  },
+  "modified": "2026-03-21T15:02:14",
+  "modified_gmt": "2026-03-21T08:02:14",
+  "slug": "ban-hanh-ke-hoach-thi-lan-2-hoc-ky-i-nam-hoc-2025-2026-he-dhcq",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/ban-hanh-ke-hoach-thi-lan-2-hoc-ky-i-nam-hoc-2025-2026-he-dhcq/",
+  "title": {
+    "rendered": "Ban hành Kế hoạch thi lần 2 học kỳ I năm học 2025-2026 hệ ĐHCQ"
+  },
+  "content": {
+    "rendered": "<div class=\"x_elementToProof\">Căn cứ kế hoạch đào tạo năm học 2025-2026;</div>\n<div class=\"x_elementToProof\">Căn cứ kết quả thi học kỳ I năm học 2025-2026 đã được TT Khảo thí&amp;ĐBCLGD công bố. Phòng Giáo vụ thông báo ban hành Kế hoạch thi lần 2 học kỳ I năm học 2025-2026, cụ thể:</div>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:false,&quot;unorderedStyleType&quot;:2}\">\n<li>\n<div class=\"x_elementToProof\" role=\"presentation\">Thời gian thi: từ 30/3 đến 5/4/026;</div>\n</li>\n<li>\n<div class=\"x_elementToProof\" role=\"presentation\">Đối tượng: sinh viến các lớp ĐHCQ khóa 2024 (trở về trước) đã làm thủ tục hoãn thi và sinh viên khóa 2025 thi chưa đạt các học phần trong HK I;</div>\n</li>\n<li>\n<div class=\"x_elementToProof\" role=\"presentation\">Lịch thi đã được công bố trên hệ thống QLĐT.</div>\n</li>\n</ul>\n<div class=\"x_elementToProof\">Đề nghị sinh viên truy cập vào hệ thống QLĐT (https://qldt.ptit.edu.vn) &#8211; mục &#8220;xem lịch thi&#8221; để biết và tham gia thi đầy đủ.<br />\nCác trường hợp có thắc mắc về lịch thi, điều kiện dự thi đề nghị liên hệ Trung tâm Khảo thí, phòng 115 – tầng 1 nhà A1 để được xem xét xử lý.</div>\n<div class=\"x_elementToProof\">Trân trọng./.</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ kế hoạch đào tạo năm học 2025-2026; Căn cứ kết quả thi học kỳ I năm học 2025-2026 đã được TT Khảo thí&amp;ĐBCLGD công bố. Phòng Giáo vụ thông báo ban hành Kế hoạch thi lần 2 học kỳ I năm học 2025-2026, cụ thể: Thời gian thi: từ 30/3 đến 5/4/026; Đối [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32454,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    9,
+    20,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33202",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ke-hoach-dao-tao",
+    "category-lich-thi-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33202",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33202"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33202/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32454"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33202"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33202"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33202"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

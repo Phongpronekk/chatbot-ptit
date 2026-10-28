@@ -21,6 +21,7 @@ function time(value: string) {
       <div v-if="message.sources.length" class="sources">
         <details v-for="(source, index) in message.sources" :key="`${source.source_file}-${index}`">
           <summary>[{{ index + 1 }}] {{ source.title || source.topic_group }}</summary>
+          <p v-if="source.publish_date" class="source-note">Ngày đăng: {{ source.publish_date }}</p>
           <p class="source-note">Ngày thu thập: {{ source.fetched_date }}</p>
           <p v-if="source.note" class="source-note">{{ source.note }}</p>
           <p class="source-content">{{ source.content }}</p>

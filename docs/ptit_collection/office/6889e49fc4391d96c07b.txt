@@ -1,0 +1,127 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ NGÀNH CÔNG NGHỆ THÔNG TIN ĐỊNH HƯỚNG TRÍ TUỆ NHÂN TẠO
+(Kèm theo Quyết định số    /QĐ-HV ngày   tháng   năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt): Công nghệ thông tin 
+- Tên ngành (tiếng Anh): Information Technology
+- Tên chương trình (tiếng Việt): Công nghệ thông tin định hướng Trí tuệ nhân tạo
+- Tên chương trình (tiếng Anh): Information Technology with Artificial Intelligence Orientation
+- Trình độ đào tạo: Thạc sĩ
+- Định hướng chương trình:Định hướng ứng dụng
+- Mã ngành: 8480201
+- Thời gian đào tạo: 1,5 - 2,0 năm
+- Hình thức đào tạo: Chính quy
+2. MỤC TIÊU
+2.1. Mục tiêu chung 
+Chương trình đào tạo Thạc sĩ Công nghệ thông tin định hướng Trí tuệ nhân tạo của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo người học có phẩm chất chính trị, đạo đức; có kiến thức, kỹ năng thực hành nghề nghiệp, năng lực ứng dụng kỹ thuật, công nghệ tương xứng với trình độ đào tạo bậc thạc sĩ; có khả năng học tập suốt đời; có khả năng sáng tạo và thích nghi với môi trường làm việc đa ngành; có ý thức trách nhiệm nghề nghiệp, đáp ứng yêu cầu phát triển kinh tế, xã hội và hội nhập quốc tế.
+2.2 Mục tiêu cụ thể  
+Cụ thể, chương trình đào tạo Thạc sĩ Công nghệ thông tin định hướng Trí tuệ nhân tạo của Học viện Công nghệ Bưu chính Viễn thông hướng tới các mục tiêu sau:  
+PO1: Học viên tốt nghiệp có khả năng áp dụng kiến ​​thức và kỹ năng của mình để phát triển sự nghiệp và/hoặc lấy được bằng cấp cao hơn.
+(Graduates will apply their knowledge and skills to build their careers and/or obtain an advanced degree).
+PO2: Học viên tốt nghiệp sẽ cư xử có đạo đức và có trách nhiệm, đồng thời sẽ luôn được cập nhật thông tin, tham gia đầy đủ vào nghề nghiệp và xã hội của họ.
+(Graduates will behave ethically and responsibly, and will remain informed and involved as full participants in their profession and society).
+PO3: Học viên tốt nghiệp sẽ giao tiếp hiệu quả và hoạt động thành công với tư cách là người lãnh đạo hoặc thành viên chính các nhóm đa ngành.
+(Graduates will communicate effectively, and successfully function as a leader or key member in multi-disciplinary teams).
+PO4. Học viên tốt nghiệp sẽ làm việc với tư cách là chuyên gia trong các dự án nghiên cứu hoặc ứng dụng trong các lĩnh vực Công nghệ thông tin, công nghệ phần mềm, trí tuệ nhân tạo.
+(Graduates will work professionally as an expert in research or development projects of Information Technology, Software Engineering and Artificial Intelligence).
+2.3. Vị trí việc làm sau tốt nghiệp
+Học viên sau khi tốt nghiệp thạc sĩ ngành Công nghệ thông tin có thể đảm nhận các vị trí và/hoặc công việc sau:
+Trưởng nhóm, thành viên chủ chốt trong các dự án nghiên cứu và phát triển trong lĩnh vực Công nghệ thông tin: Nghiên cứu thiết kế giải pháp cho các hệ thống/sản phẩm công nghệ thông tin, chuyển đổi số.
+Khởi nghiệp trong lĩnh vực công nghệ thông tin và các lĩnh vực liên quan.
+Cán bộ kỹ thuật, quản lý, điều hành trong các lĩnh vực công nghệ thông tin.
+Cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo.
+Học viên học tiếp lên bậc sau đại học để lấy bằng tiến sĩ, hoặc các bằng cấp khác cao hơn ở trong nước và nước ngoài.
+3. CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (PLOs)
+3.1. Chuẩn đầu ra
+Các chuẩn đầu ra (Learning Outcomes – PLOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Cụ thể, các PLO và PI của chương trình đào tạo cho như bảng sau: 
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1: Nhận diện được vấn đề và đề xuất giải pháp — bao gồm giải pháp ứng dụng công nghệ số và trí tuệ nhân tạo (AI) — để giải quyết vấn đề liên quan đến công nghệ thông tin.
+Identify problems and propose solutions — including digital- and AI-based solutions — to solve IT-related issues.
+C4
+PI1.1 Phát biểu bài toán và các yêu cầu.
+Identify the problem and its requirements.
+
+C4/P3
+PI1.2 Phân tích các giải pháp tính toán, bao gồm giải pháp ứng dụng công nghệ số và AI, để giải quyết bài toán.
+Analyze computing solutions — including digital- and AI-based solutions — to solve the problem.
+
+C4/P3
+PI1.3 Lựa chọn giải pháp phù hợp dựa trên các nguyên lý tính toán và công nghệ số/AI hiện có để giải quyết bài toán.
+Select an appropriate solution based on computing principles and current digital/AI technologies.
+PLO2: Giao tiếp hiệu quả bằng ngôn ngữ phù hợp (bao gồm cả ngoại ngữ) trong nhiều bối cảnh chuyên nghiệp khác nhau.
+Communicate effectively using appropriate languages (including a foreign language) in a variety of professional contexts.
+C3/P3
+PI2.1 Thể hiện kỹ năng giao tiếp bằng văn bản hiệu quả bằng tiếng Việt và ít nhất một ngoại ngữ theo chuẩn ngoại ngữ đầu ra của chương trình. 
+Demonstrate effective written communication skills in Vietnamese and at least one foreign language, per the program's language exit standard.
+
+C3/P3
+PI2.2 Trình bày các vấn đề một cách hiệu quả trong bài thuyết trình miệng.
+Effectively presents concepts in oral presentation.
+PLO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức.
+Recognize professional responsibilities and make informed judgments in computing based on legal and ethical principles.
+C3/P3
+PI3.1 Áp dụng các nguyên tắc pháp lý và đạo đức nghề nghiệp khi giải quyết các vấn đề có liên quan đến nghề nghiệp.
+Apply legal and ethical principles when resolving professional issues.
+
+C3/A3
+PI3.2 Thể hiện nhận thức về tầm quan trọng của quyền riêng tư, bảo mật, bản quyền và đạo đức AI, trong lĩnh vực CNTT.
+Demonstrates awareness of the significance of privacy, security, copyright, and AI ethics in computing.
+PLO4: Làm việc hiệu quả với vai trò thành viên hoặc trưởng nhóm trong các hoạt động phù hợp với lĩnh vực chuyên môn của chương trình đào tạo.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.
+A4
+PI4.1 Phối hợp và chia sẻ công việc trong nhóm chuyên môn lĩnh vực CNTT.
+Collaborate and share work in a team within the computing domain.
+
+P4
+PI4.2 Hoàn thành nhiệm vụ ở các vai trò khác nhau trong nhóm chuyên môn lĩnh vực CNTT.
+Complete tasks in various roles within a team in the computing domain.
+PLO5: Thực hiện được dự án ứng dụng độc lập hoặc theo nhóm, trong lĩnh vực Công nghệ phần mềm, Công nghệ thông tin, thể hiện khả năng tự học và thích ứng với công nghệ mới.
+Conduct an individual or team-based development project in software engineering, information technology, demonstrating self-directed learning and adaptability to new technologies.
+C6
+PI5.1 Thiết kế được giải pháp thực hiện cho dự án, trên cơ sở tự cập nhật kiến thức và công nghệ mới (bao gồm AI) phù hợp với bài toán.
+Design a solution for the project, based on self-directed updating of new knowledge and technologies (including AI) relevant to the problem.
+
+P4
+PI5.2 Cài đặt và Triển khai được giải pháp đã chọn cho dự án, thể hiện khả năng thích ứng khi công nghệ hoặc yêu cầu thay đổi trong quá trình thực hiện.
+Install and implement the selected solution for the project, demonstrating adaptability when technologies or requirements change during execution.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom_
+4. MA TRẬN CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI MỤC TIÊU ĐÀO TẠO
+TT
+             Mục tiêu (PO)
+CĐR (PLO)
+PO1
+PO2
+PO3
+PO4
+1
+PLO1
+X
+
+
+X
+2
+PLO2
+
+X
+X
+
+3
+PLO3
+
+X
+
+
+4
+PLO4
+X
+X
+X
+
+5
+PLO5
+X
+
+X
+X

@@ -1,7 +1,7 @@
 import { computed, ref } from 'vue'
 import { defineStore } from 'pinia'
 import { chatApi } from './chat.service'
-import type { Conversation, ConversationSummary, Health } from './chat.types'
+import type { Conversation, ConversationSummary, Health, Message } from './chat.types'
 
 export const useChatStore = defineStore('chat', () => {
   const conversations = ref<ConversationSummary[]>([])
@@ -11,6 +11,8 @@ export const useChatStore = defineStore('chat', () => {
   const error = ref('')
   const health = ref<Health | null>(null)
   const sentVersion = ref(0)
+  const pendingMessage = ref<Message | null>(null)
+  const draftToRestore = ref<{ text: string } | null>(null)
   const activeId = computed(() => active.value?.id ?? '')
   const busy = computed(() => loading.value || sending.value)
   let retry: { conversationId: string; text: string; requestId: string } | null = null
@@ -83,19 +85,26 @@ export const useChatStore = defineStore('chat', () => {
     if (busy.value || !text.trim()) return
     sending.value = true
     error.value = ''
+    const content = text.trim()
+    pendingMessage.value = {
+      id: crypto.randomUUID(), role: 'user', text: content,
+      created_at: new Date().toISOString(), mode: 'user', sources: [],
+    }
+    sentVersion.value++
     try {
       if (!active.value) receive(await chatApi.create())
       const conversation = active.value!
-      const content = text.trim()
       if (retry?.conversationId !== conversation.id || retry.text !== content) {
         retry = { conversationId: conversation.id, text: content, requestId: crypto.randomUUID() }
       }
       receive(await chatApi.send(conversation.id, content, retry.requestId))
       retry = null
-      sentVersion.value++
-    } catch (cause) { report(cause) }
-    finally { sending.value = false }
+    } catch (cause) {
+      report(cause)
+      draftToRestore.value = { text: content }
+    }
+    finally { pendingMessage.value = null; sending.value = false }
   }
-  return { conversations, active, activeId, groups, loading, sending, busy, error, health, sentVersion,
+  return { conversations, active, activeId, groups, loading, sending, busy, error, health, sentVersion, pendingMessage, draftToRestore,
     load, select, newConversation, remove, send }
 })

@@ -1,0 +1,5 @@
+# Optional, only when selecting BKAI / other HuggingFace sentence-transformer models.
+-r requirements.txt
+langchain-huggingface>=1,<2
+sentence-transformers>=3,<6
+pyvi>=0.1.1

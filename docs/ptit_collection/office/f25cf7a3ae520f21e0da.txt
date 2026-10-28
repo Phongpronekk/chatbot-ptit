@@ -1,0 +1,126 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ NGÀNH HỆ THỐNG THÔNG TIN
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt):Hệ thống thông tin
+- Tên ngành (tiếng Anh):Information System
+- Tên chương trình (tiếng Việt): Hệ thống thông tin
+- Tên chương trình  (tiếng Anh): Information System
+- Trình độ đào tạo: Thạc sĩ
+- Mã ngành: 8480104
+- Thời gian đào tạo: 1,5 - 2,0 năm
+- Hình thức đào tạo:Chính quy
+2. MỤC TIÊU
+2.1. Mục tiêu chung 
+Chương trình đào tạo thạc sĩ ngành Hệ thống thông tin của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo người học có phẩm chất chính trị, đạo đức; có kiến thức, kỹ năng thực hành nghề nghiệp, năng lực nghiên cứu và ứng dụng kỹ thuật, công nghệ tương xứng với trình độ đào tạo bậc thạc sĩ; có khả năng học tập suốt đời; có khả năng sáng tạo và thích nghi với môi trường làm việc đa ngành; có ý thức trách nhiệm nghề nghiệp, đáp ứng yêu cầu phát triển kinh tế, xã hội và hội nhập quốc tế.
+2.2 Mục tiêu cụ thể  
+PO1: Học viên tốt nghiệp có khả năng áp dụng kiến ​​thức và kỹ năng của mình để phát triển sự nghiệp và/hoặc lấy được bằng cấp cao hơn.
+(Graduates will apply their knowledge and skills to build their careers and/or obtain an advanced degree).
+PO2: Học viên tốt nghiệp sẽ cư xử có đạo đức và có trách nhiệm, đồng thời sẽ luôn được cập nhật thông tin, tham gia đầy đủ vào nghề nghiệp và xã hội của họ.
+(Graduates will behave ethically and responsibly, and will remain informed and involved as full participants in their profession and society).
+PO3: Học viên tốt nghiệp sẽ giao tiếp hiệu quả và hoạt động thành công với tư cách là người lãnh đạo hoặc thành viên chính các nhóm đa ngành.
+(Graduates will communicate effectively, and successfully function as a leader or key member in multi-disciplinary teams).
+PO4. Học viên tốt nghiệp sẽ làm việc với tư cách là chuyên gia trong các dự án nghiên cứu hoặc ứng dụng trong các lĩnh vực hệ thống thông tin.
+(Graduates will work professionally as an expert in research or development projects of information system).
+2.3. Vị trí việc làm sau tốt nghiệp
+Học viên sau khi tốt nghiệp thạc sĩ ngành Hệ thống thông tin có thể đảm nhận các vị trí
+và/hoặc công việc sau:
+- Trưởng nhóm, thành viên chủ chốt trong các dự án nghiên cứu và phát triển trong lĩnh vực hệ thống thông tin: Nghiên cứu thiết kế giải pháp cho các hệ thống thông tin, vận hành và khai thác hệ thống thông tin.
+- Khởi nghiệp trong lĩnh vực hệ thống thông tin, công nghệ thông tin và các lĩnh vực liên quan.
+- Cán bộ kỹ thuật, quản lý, điều hành trong các lĩnh vực hệ thống thông tin, công nghệ thông tin.
+- Cán bộ nghiên cứu, cán bộ giảng dạy về hệ thống thông tin, công nghệ thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo.
+- Học viên học tiếp lên bậc sau đại học để lấy bằng tiến sĩ, hoặc các bằng cấp khác cao hơn ở trong nước và nước ngoài.
+3. CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (LOs)
+Các chuẩn đầu ra (Learning Outcomes – LOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các LO và PI kèm theo được thiết kế theo chuẩn kiểm định quốc tế ASIIN, với mức mức kiến thức và kỹ năng tương đương bậc 7 trong Khung trình độ quốc gia Việt Nam. Cụ thể, các LO và PI của chương trình đào tạo cho như bảng sau: 
+Chuẩn đầu ra (LOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+LO1: Nhận diện được vấn đề và các giải pháp có thể để giải quyết vấn đề liên quan đến công nghệ thông tin.
+(Identify problems and posible solutions to solve IT-related issues).
+
+C4
+PI1.1 Phát biểu bài toán và các yêu cầu.
+(Identify the problem and its requirements).
+
+C4/P3
+PI1.2 Phân tích các giải pháp tính toán để giải quyết bài toán.
+(Analyze computing solutions to solve the problem).
+
+C4/P3
+PI1.3 Lựa chọn giải pháp phù hợp dựa trên các nguyên lý tính toán để giải quyết bài toán.
+(Select appropriate solution based on the principles of computing).
+LO2: Giao tiếp hiệu quả trong nhiều bối cảnh chuyên nghiệp khác nhau.
+(Communicate effectively in a variety of professional contexts).
+C3/P3
+PI2.1 Thể hiện kỹ năng giao tiếp bằng văn bản hiệu quả trong bối cảnh các chủ đề thảo luận.
+(Demonstrates effective written communication skills in the context of discussion topics).
+
+C3/P3
+PI2.2 Trình bày các vấn đề một cách hiệu quả trong bài thuyết trình miệng.
+(Effectively presents concepts in oral presentation).
+LO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức.
+(Recognize professional responsibilities and make informed judgments in computing based on legal and ethical principles).
+C3/P3
+PI3.1 Áp dụng các nguyên tắc pháp lý và đạo đức nghề nghiệp khi giải quyết các vấn đề có liên quan đến nghề nghiệp.
+(Apply legal and ethical principles when resolving professional issues).
+
+C3/A3
+PI3.2 Thể hiện nhận thức về tầm quan trọng của quyền riêng tư, bảo mật và quyền tác giả trong CNTT.
+(Demonstrates awareness of the significance of privacy, security, copyright in computing).
+LO4: Hoạt động hiệu quả với tư cách là người lãnh đạo hoặc thành viên chính một nhóm tham gia vào các hoạt động phù hợp với chuyên môn công nghệ thông tin.
+(Function effectively as a leader or key member of a team engaged in activities appropriate to the program's discipline).
+A4
+PI4.1 Phối hợp, chia sẻ công việc trong một nhóm hoạt động trong lĩnh vực CNTT.
+(Collaboration and work sharing in a team of computing domain).
+
+P4
+PI4.2 Hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm hoạt động trong lĩnh vực CNTT.
+(Working as a member of any role in a team of computing domain).
+LO5: Định hướng ứng dụng: Thực hiện được một dự án ứng dụng (cá nhân hoặc nhóm) trong lĩnh vực hệ thống thông tin.
+(Realize a research or development project in information system).
+C6
+PI5.1. Thiết kế được giải pháp thực hiện cho dự án của mình
+(Design a solution for the project).
+
+P4
+PI5.2. Thực hiện được giải pháp đã chọn cho dự án của mình
+(Realize the selected solution for the project).
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+4. MA TRẬN CHUẨN ĐẦU RA VỚI MỤC TIÊU ĐÀO TẠO
+TT
+             Mục tiêu (PO)
+CĐR (LO)
+PO1
+PO2
+PO3
+PO4
+1
+LO1
+X
+
+
+X
+2
+LO2
+
+X
+X
+
+3
+LO3
+
+X
+
+
+4
+LO4
+X
+X
+X
+
+5
+LO5
+X
+
+X
+X

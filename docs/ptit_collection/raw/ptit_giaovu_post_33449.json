@@ -1,0 +1,133 @@
+{
+  "id": 33449,
+  "date": "2026-07-20T11:32:22",
+  "date_gmt": "2026-07-20T04:32:22",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33449"
+  },
+  "modified": "2026-07-20T11:32:37",
+  "modified_gmt": "2026-07-20T04:32:37",
+  "slug": "ban-hanh-ke-hoach-thi-hoc-ky-phu-ky-he-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/ban-hanh-ke-hoach-thi-hoc-ky-phu-ky-he-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Ban hành kế hoạch thi học kỳ phụ (kỳ hè) năm học 2025-2026"
+  },
+  "content": {
+    "rendered": "<div class=\"x_elementToProof\">\n<div class=\"x_elementToProof\">Căn cứ kế hoạch giảng dạy học kỳ 2 năm học 2025-2026;</div>\n<div class=\"x_elementToProof\">Căn cứ danh mục hình thức thi các học phần của Trung tâm KT&amp;ĐBCLGD ban hành. Phòng Giáo vụ thông báo ban hành các kế hoạch thi học kỳ phụ (hè) năm học 2025-2026, cụ thể:</div>\n</div>\n<ul>\n<li class=\"x_elementToProof\"><span data-olk-copy-source=\"MessageBody\">Thời gian thi: từ 03 đến 9/8/2026;</span></li>\n<li class=\"x_elementToProof\">Toàn bộ các kế hoạch thi đã được cập nhật trên hệ thống QLĐT (qldt.ptit.edu.vn).</li>\n</ul>\n<div class=\"x_elementToProof\">Đề nghị sinh viên truy cập vào hệ thống QLĐT (https://qldt.ptit.edu.vn) – mục “xem lịch thi” để biết và tham gia thi đầy đủ.<br />\nCác trường hợp có thắc mắc về lịch thi liên hệ email: nthieu1@ptit.edu.vn (Email phải gửi từ email được Học viện cấp, ghi đầy đủ thông tin) , điều kiện dự thi đề nghị liên hệ Trung tâm Khảo thí -tầng 1 nhà A1 để được xem xét xử lý.</div>\n<div class=\"x_elementToProof\">Trân trọng./.</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ kế hoạch giảng dạy học kỳ 2 năm học 2025-2026; Căn cứ danh mục hình thức thi các học phần của Trung tâm KT&amp;ĐBCLGD ban hành. Phòng Giáo vụ thông báo ban hành các kế hoạch thi học kỳ phụ (hè) năm học 2025-2026, cụ thể: Thời gian thi: từ 03 đến 9/8/2026; [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 98,
+  "featured_media": 32450,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    9,
+    20,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33449",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ke-hoach-dao-tao",
+    "category-lich-thi-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33449",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/98"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33449"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33449/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33450,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33449/revisions/33450"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32450"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33449"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33449"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33449"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

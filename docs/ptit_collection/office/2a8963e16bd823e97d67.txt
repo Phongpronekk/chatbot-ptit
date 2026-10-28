@@ -1,0 +1,189 @@
+### sheet1.xml
+A1: DANH SÁCH CÁC MÔN HỌC TIÊN QUYẾT, HỌC TRƯỚC TRƯỚC
+A2: THẠC SĨ TÀI NĂNG,  ĐỊNH HƯỚNG NGHIÊN CỨU - NGÀNH HỆ THỐNG THÔNG TIN
+A4: TT | B4: Tên môn học/học phần | C4: Mã số môn học | D4: Số TC | E4: Năm học | O4: Môn 
+tiên quyết | P4: Môn 
+học trước
+E5: Năm 
+thứ nhất | G5: Năm 
+thứ hai | I5: Năm 
+thứ ba | K5: Năm 
+thứ tư | M5: Năm 
+thứ năm
+A6: 1 | B6: Triết học Mác Lênin | C6: BAS1150 | D6: 3 | E6: HK1
+A7: 2 | B7: Giải tích 1 | C7: BAS1203 | D7: 3 | E7: HK1
+A8: 3 | B8: Nhập môn tin học và lập trình | C8: INT11117 | D8: 3 | E8: HK1
+A9: 4 | B9: Đại số | C9: BAS1201  | D9: 3 | E9: HK1
+A10: 5 | B10: Nhập môn công nghệ số và ứng dụng AI | C10: INT11205 | D10: 2 | E10: HK1
+A11: 6 | B11: Kinh tế chính trị Mác Lênin | C11: BAS1151 | D11: 2 | F11: HK2
+A12: 7 | B12: Tiếng Anh (Course 1) | C12: BAS1157 | D12: 4 | F12: HK2
+A13: 8 | B13: Giải tích 2 | C13: BAS1204 | D13: 3 | F13: HK2 | O13: Giải tích 1 | P13: Đại số
+A14: 9 | B14: Vật lý ứng dụng | C14: BAS1270 | D14: 4 | F14: HK2
+A15: 10 | B15: Ngôn ngữ lập trình C++ | C15: INT1339 | D15: 3 | F15: HK2 | O15: Nhập môn tin học và lập trình
+A16: 11 | B16: Toán rời rạc 1 | C16: INT1358 | D16: 3 | F16: HK2 | O16: Nhập môn tin học và lập trình
+A17: 12 | B17: Chủ nghĩa xã hội khoa học | C17: BAS1152 | D17: 2 | G17: HK3
+A18: 13 | B18: Tiếng Anh (Course 2) | C18: BAS1158 | D18: 4 | G18: HK3 | P18: Tiếng Anh (Course 1)
+A19: 14 | B19: Toán rời rạc 2 | C19: INT1359 | D19: 3 | G19: HK3 | O19: Toán rời rạc 1
+A20: 15 | B20: Xác suất thống kê | C20: BAS1269  | D20: 3 | G20: HK3
+A21: 16 | B21: Kiến trúc máy tính | C21: INT13145 | D21: 3 | G21: HK3 | O21: Nhập môn tin học và lập trình
+A22: 17 | B22: Cấu trúc dữ liệu và giải thuật | C22: INT1306 | D22: 3 | G22: HK3 | O22: Nhập môn tin học và lập trình
+A23: 18 | B23: Pháp luật và sở hữu trí tuệ | C23: BSA12117 | D23: 2 | G23: HK3
+A24: 19 | B24: Tư tưởng Hồ Chí Minh | C24: BAS1122 | D24: 2 | H24: HK4
+A25: 20 | B25: Tiếng Anh (Course 3) | C25: BAS1159 | D25: 4 | H25: HK4 | P25: Tiếng Anh (Course 2)
+A26: 21 | B26: Cơ sở dữ liệu | C26: INT1313 | D26: 3 | H26: HK4 | O26: Nhập môn tin học và lập trình
+A27: 22 | B27: Hệ điều hành | C27: INT1319 | D27: 3 | H27: HK4 | O27: Nhập môn tin học và lập trình
+A28: 23 | B28: Lập trình hướng đối tượng | C28: INT1332 | D28: 3 | H28: HK4 | O28: Nhập môn tin học và lập trình
+A29: 24 | B29: Điện tử số | C29: ELE1309 | D29: 3 | H29: HK4
+A30: 25 | B30: Nhập môn trí tuệ nhân tạo | C30: INT1341 | D30: 3 | H30: HK4 | O30: Nhập môn tin học và lập trình
+A31: 26 | B31: Lịch sử Đảng cộng sản Việt Nam | C31: BAS1153  | D31: 2 | I31: HK5
+A32: 27 | B32: Nhập môn công nghệ phần mềm | C32: INT1340 | D32: 3 | I32: HK5 | O32: Nhập môn tin học và lập trình
+A33: 28 | B33: Mạng máy tính | C33: INT1336 | D33: 3 | I33: HK5 | O33: Nhập môn tin học và lập trình
+A34: 29 | B34: An toàn bảo mật HTTT | C34: INT1303 | D34: 3 | I34: HK5
+A35: 30 | B35: Lập trình web | C35: INT1434 | D35: 3 | I35: HK5 | O35: Lập trình hướng đối tượng
+A36: 31 | B36: Kho dữ liệu và khai phá dữ liệu | C36: INT1422 | D36: 3 | I36: HK5 | O36: Cơ sở dữ liệu
+A37: 32 | B37: Tiếng Anh (Course 3 Plus) | C37: BAS1160 | D37: 2 | I37: HK5 | P37: Tiếng Anh (Course 3)
+A38: 33 | B38: Phân tích và thiết kế HTTT | C38: INT1342 | D38: 3 | J38: HK6 | O38: Nhập môn công nghệ phần mềm
+A39: 34 | B39: IOT và ứng dụng | C39: INT14149 | D39: 3 | J39: HK6 | O39: Mạng máy tính
+A40: 35 | B40: Phát triển hệ thống TMĐT | C40: INT1446 | D40: 3 | J40: HK6 | O40: Nhập môn công nghệ phần mềm
+A41: 36 | B41: HP tự chọn bậc cử nhân 1 | D41: 3 | J41: HK6
+A42: 37 | B42: HP tự chọn bậc cử nhân 2 | D42: 3 | J42: HK6
+A43: 38 | B43: Thực tập cơ sở | C43: INT13147 | D43: 3 | J43: HK6 | O43: Nhập môn tin học và lập trình
+A44: 39 | B44: Thực tập tốt nghiệp (bậc đại học)
+ | C44: INT15196 | D44: 6 | K44: HK7 | O44: Thực tập cơ sở
+A45: 40 | B45: HP tự chọn bậc cử nhân 3 | D45: 3 | K45: HK7
+A46: 41 | B46: Tính toán phân tán | C46: INT4334 | D46: 3 | K46: HK7
+A47: 42 | B47: Phương pháp NCKH | C47: SKD4112 | D47: 2 | K47: HK7
+A48: 43 | B48: Công cụ toán cho CNTT | C48: INT41218 | D48: 2 | K48: HK7
+A49: 44 | B49: Thuật toán nâng cao | C49: INT4326 | D49: 2 | K49: HK7
+A50: 45 | B50: Các hệ thống CSDL | C50: INT4327 | D50: 3 | L50: HK8 | O50: Cơ sở dữ liệu
+A51: 46 | B51: Dữ liệu lớn | C51: INT4355 | D51: 3 | L51: HK8 | O51: Cơ sở dữ liệu
+A52: 47 | B52: HP tự chọn cơ sở ngành thạc sĩ 1 | D52: 3 | L52: HK8
+A53: 48 | B53: Điện toán đám mây | C53: INT4437 | D53: 3 | L53: HK8 | O53: Mạng máy tính
+A54: 49 | B54: Chuyên đề nghiên cứu HTTT 1 | C54: INT4336 | D54: 6 | L54: HK8 | O54: Phương pháp NCKH
+A55: 50 | B55: Các hệ thống IOT hiện đại | C55: INT4438 | D55: 3 | M55: HK9 | O55: Mạng máy tính
+A56: 51 | B56: Kiến trúc hệ thống thông tin | C56: INT4439 | D56: 3 | M56: HK9
+A57: 52 | B57: HP tự chọn chuyên ngành thạc sĩ 1 | D57: 3 | M57: HK9
+A58: 53 | B58: HP tự chọn chuyên ngành thạc sĩ 2 | D58: 3 | M58: HK9
+A59: 54 | B59: Chuyên đề nghiên cứu HTTT 2 | C59: INT4447 | D59: 6 | M59: HK9 | O59: Chuyên đề nghiên cứu HTTT 1
+A60: 55 | B60: Luận văn tốt nghiệp | C60: INT4554 | D60: 15 | N60: HK10 | O60: Chuyên đề nghiên cứu HTTT 2
+B61: TỔNG CỘNG | D61: 180 | E61: 14 | F61: 19 | G61: 20 | H61: 21 | I61: 19 | J61: 18 | K61: 18 | L61: 18 | M61: 18 | N61: 15
+B63: Các HP tự chọn chuyên ngành cử nhân
+A64: 1 | B64: Triển khai và vận hành hệ thống | C64: INT14211 | D64: 3 | O64: Nhập môn công nghệ phần mềm
+A65: 2 | B65: CSDL phân tán | C65: INT14148 | D65: 3 | O65: Cơ sở dữ liệu
+A66: 3 | B66: Phát triển hệ thống thông tin quản lý | C66: INT1445 | D66: 3 | O66: Nhập môn công nghệ phần mềm
+A67: 4 | B67: Phân tích và trực quan hóa dữ liệu | C67: INT14210 | D67: 3 | O67: Xác suất thống kê
+A68: 5 | B68: Phát triển UD cho các TB di động | C68: INT1449 | D68: 3 | O68: Nhập môn công nghệ phần mềm
+A69: 6 | B69: Hệ CSDL đa phương tiện | C69: INT1418 | D69: 3 | O69: Cơ sở dữ liệu
+A70: 7 | B70: Học máy | C70: INT14153 | D70: 3 | O70: Nhập môn trí tuệ nhân tạo
+A71: 8 | B71: Quản lý dự án phần mềm | C71: INT14189 | D71: 3 | O71: Nhập môn công nghệ phần mềm
+B72: Các HP tự chọn cơ sở ngành thạc sĩ
+A73: 1 | B73: Tìm kiếm và truy xuất thông tin | C73: INT4328 | D73: 3 | O73: Thuật toán nâng cao
+A74: 2 | B74: Các kỹ thuật tối ưu | C74: INT4329 | D74: 3 | O74: Công cụ toán cho CNTT
+A75: 3 | B75: Phương pháp phân tích số liệu thống kê | C75: INT4330 | D75: 3 | O75: Công cụ toán cho CNTT
+A76: 4 | B76: Nhận dạng mẫu  | C76: INT4331 | D76: 3
+A77: 5 | B77: Khai phá dữ liệu nâng cao | C77: INT4332 | D77: 3 | O77: Cơ sở dữ liệu
+A78: 6 | B78: Các mô hình lập trình tiên tiến | C78: INT4333 | D78: 3 | O78: Thuật toán nâng cao
+A79: 7 | B79: Hệ điều hành mạng | C79: INT4335 | D79: 3
+B80: Các HP tự chọn chuyên ngành thạc sĩ
+A81: 1 | B81: Trí tuệ nhân tạo trong HTTT | C81: INT4448 | D81: 3 | O81: Nhập môn trí tuệ nhân tạo
+A82: 2 | B82: Hệ thống thông tin tác tử | C82: INT4449 | D82: 3
+A83: 3 | B83: Khai phá tri thức và phân tích dữ liệu | C83: INT4450 | D83: 3 | O83: Các hệ thống CSDL
+A84: 4 | B84: Quản trị nghiệp vụ thông minh nâng cao | C84: INT4451 | D84: 3
+### sheet2.xml
+A1: DANH SÁCH CÁC MÔN HỌC TIÊN QUYẾT, HỌC TRƯỚC TRƯỚC
+A2: THẠC SĨ TÀI NĂNG,  ĐỊNH HƯỚNG ỨNG DỤNG - NGÀNH HỆ THỐNG THÔNG TIN
+A4: TT | B4: Tên môn học/học phần | C4: Mã số môn học | D4: Số TC | E4: Năm học | O4: Môn 
+tiên quyết | P4: Môn 
+học trước
+E5: Năm 
+thứ nhất | G5: Năm 
+thứ hai | I5: Năm 
+thứ ba | K5: Năm 
+thứ tư | M5: Năm 
+thứ năm
+A6: 1 | B6: Triết học Mác Lênin | C6: BAS1150 | D6: 3 | E6: HK1
+A7: 2 | B7: Giải tích 1 | C7: BAS1203 | D7: 3 | E7: HK1
+A8: 3 | B8: Nhập môn tin học và lập trình | C8: INT11117 | D8: 3 | E8: HK1
+A9: 4 | B9: Đại số | C9: BAS1201  | D9: 3 | E9: HK1
+A10: 5 | B10: Nhập môn công nghệ số và ứng dụng AI | C10: INT11205 | D10: 2 | E10: HK1
+A11: 6 | B11: Kinh tế chính trị Mác Lênin | C11: BAS1151 | D11: 2 | F11: HK2
+A12: 7 | B12: Tiếng Anh (Course 1) | C12: BAS1157 | D12: 4 | F12: HK2
+A13: 8 | B13: Giải tích 2 | C13: BAS1204 | D13: 3 | F13: HK2 | O13: Giải tích 1 | P13: Đại số
+A14: 9 | B14: Vật lý ứng dụng | C14: BAS1270 | D14: 4 | F14: HK2
+A15: 10 | B15: Ngôn ngữ lập trình C++ | C15: INT1339 | D15: 3 | F15: HK2 | O15: Nhập môn tin học và lập trình
+A16: 11 | B16: Toán rời rạc 1 | C16: INT1358 | D16: 3 | F16: HK2 | O16: Nhập môn tin học và lập trình
+A17: 12 | B17: Chủ nghĩa xã hội khoa học | C17: BAS1152 | D17: 2 | G17: HK3
+A18: 13 | B18: Tiếng Anh (Course 2) | C18: BAS1158 | D18: 4 | G18: HK3 | P18: Tiếng Anh (Course 1)
+A19: 14 | B19: Toán rời rạc 2 | C19: INT1359 | D19: 3 | G19: HK3 | O19: Toán rời rạc 1
+A20: 15 | B20: Xác suất thống kê | C20: BAS1269  | D20: 3 | G20: HK3
+A21: 16 | B21: Kiến trúc máy tính | C21: INT13145 | D21: 3 | G21: HK3 | O21: Nhập môn tin học và lập trình
+A22: 17 | B22: Cấu trúc dữ liệu và giải thuật | C22: INT1306 | D22: 3 | G22: HK3 | O22: Nhập môn tin học và lập trình
+A23: 18 | B23: Pháp luật và sở hữu trí tuệ | C23: BSA12117 | D23: 2 | G23: HK3
+A24: 19 | B24: Tư tưởng Hồ Chí Minh | C24: BAS1122 | D24: 2 | H24: HK4
+A25: 20 | B25: Tiếng Anh (Course 3) | C25: BAS1159 | D25: 4 | H25: HK4 | P25: Tiếng Anh (Course 2)
+A26: 21 | B26: Cơ sở dữ liệu | C26: INT1313 | D26: 3 | H26: HK4 | O26: Nhập môn tin học và lập trình
+A27: 22 | B27: Hệ điều hành | C27: INT1319 | D27: 3 | H27: HK4 | O27: Nhập môn tin học và lập trình
+A28: 23 | B28: Lập trình hướng đối tượng | C28: INT1332 | D28: 3 | H28: HK4 | O28: Nhập môn tin học và lập trình
+A29: 24 | B29: Điện tử số | C29: ELE1309 | D29: 3 | H29: HK4
+A30: 25 | B30: Nhập môn trí tuệ nhân tạo | C30: INT1341 | D30: 3 | H30: HK4 | O30: Nhập môn tin học và lập trình
+A31: 26 | B31: Lịch sử Đảng cộng sản Việt Nam | C31: BAS1153  | D31: 2 | I31: HK5
+A32: 27 | B32: Nhập môn công nghệ phần mềm | C32: INT1340 | D32: 3 | I32: HK5 | O32: Nhập môn tin học và lập trình
+A33: 28 | B33: Mạng máy tính | C33: INT1336 | D33: 3 | I33: HK5 | O33: Nhập môn tin học và lập trình
+A34: 29 | B34: An toàn bảo mật HTTT | C34: INT1303 | D34: 3 | I34: HK5
+A35: 30 | B35: Lập trình web | C35: INT1434 | D35: 3 | I35: HK5 | O35: Lập trình hướng đối tượng
+A36: 31 | B36: Kho dữ liệu và khai phá dữ liệu | C36: INT1422 | D36: 3 | I36: HK5 | O36: Cơ sở dữ liệu
+A37: 32 | B37: Tiếng Anh (Course 3 Plus) | C37: BAS1160 | D37: 2 | I37: HK5 | P37: Tiếng Anh (Course 3)
+A38: 33 | B38: Phân tích và thiết kế HTTT | C38: INT1342 | D38: 3 | J38: HK6 | O38: Nhập môn công nghệ phần mềm
+A39: 34 | B39: IOT và ứng dụng | C39: INT14149 | D39: 3 | J39: HK6 | O39: Mạng máy tính
+A40: 35 | B40: Phát triển hệ thống TMĐT | C40: INT1446 | D40: 3 | J40: HK6 | O40: Nhập môn công nghệ phần mềm
+A41: 36 | B41: HP tự chọn bậc cử nhân 1 | D41: 3 | J41: HK6
+A42: 37 | B42: HP tự chọn bậc cử nhân 2 | D42: 3 | J42: HK6
+A43: 38 | B43: Thực tập cơ sở | C43: INT13147 | D43: 3 | J43: HK6 | O43: Nhập môn tin học và lập trình
+A44: 39 | B44: Thực tập tốt nghiệp (bậc đại học)
+ | C44: INT15196 | D44: 6 | K44: HK7 | O44: Thực tập cơ sở 
+A45: 40 | B45: HP tự chọn bậc cử nhân 3 | D45: 3 | K45: HK7
+A46: 41 | B46: Tính toán phân tán | C46: INT4334 | D46: 3 | K46: HK7
+A47: 42 | B47: Phương pháp NCKH | C47: SKD4112 | D47: 2 | K47: HK7
+A48: 43 | B48: Công cụ toán cho CNTT | C48: INT41218 | D48: 2 | K48: HK7
+A49: 44 | B49: Thuật toán nâng cao | C49: INT4326 | D49: 2 | K49: HK7
+A50: 45 | B50: Các hệ thống CSDL | C50: INT4327 | D50: 3 | L50: HK8 | O50: Cơ sở dữ liệu
+A51: 46 | B51: Dữ liệu lớn | C51: INT4355 | D51: 3 | L51: HK8 | O51: Cơ sở dữ liệu
+A52: 47 | B52: HP tự chọn cơ sở ngành thạc sĩ 1 | D52: 3 | L52: HK8
+A53: 48 | B53: HP tự chọn cơ sở ngành thạc sĩ 2 | D53: 3 | L53: HK8
+A54: 49 | B54: HP tự chọn cơ sở ngành thạc sĩ 3 | D54: 3 | L54: HK8
+A55: 50 | B55: Điện toán đám mây | C55: INT4437 | D55: 3 | L55: HK8 | O55: Mạng máy tính
+A56: 51 | B56: Các hệ thống IOT hiện đại | C56: INT4438 | D56: 3 | M56: HK9 | O56: Mạng máy tính
+A57: 52 | B57: Kiến trúc hệ thống thông tin | C57: INT4439 | D57: 3 | M57: HK9
+A58: 53 | B58: HP tự chọn chuyên ngành thạc sĩ 1 | D58: 3 | M58: HK9
+A59: 54 | B59: HP tự chọn chuyên ngành thạc sĩ 2 | D59: 3 | M59: HK9
+A60: 55 | B60: HP tự chọn chuyên ngành thạc sĩ 3 | D60: 3 | M60: HK9
+A61: 56 | B61: HP tự chọn chuyên ngành thạc sĩ 4 | D61: 3 | M61: HK9
+A62: 57 | B62: Thực tập tốt nghiệp (Bậc thạc sĩ) | C62: INT4552 | D62: 6 | N62: HK10
+A63: 58 | B63: Đề án tốt nghiệp | C63: INT4553 | D63: 9 | N63: HK10
+B64: TỔNG CỘNG | D64: 180 | E64: 14 | F64: 19 | G64: 20 | H64: 21 | I64: 19 | J64: 18 | K64: 18 | L64: 18 | M64: 18 | N64: 15
+B66: Các HP tự chọn chuyên ngành cử nhân
+A67: 1 | B67: Triển khai và vận hành hệ thống | C67: INT14211 | D67: 3 | O67: Nhập môn công nghệ phần mềm
+A68: 2 | B68: CSDL phân tán | C68: INT14148 | D68: 3 | O68: Cơ sở dữ liệu
+A69: 3 | B69: Phát triển hệ thống thông tin quản lý | C69: INT1445 | D69: 3 | O69: Nhập môn công nghệ phần mềm
+A70: 4 | B70: Phân tích và trực quan hóa dữ liệu | C70: INT14210 | D70: 3 | O70: Xác suất thống kê
+A71: 5 | B71: Phát triển UD cho các TB di động | C71: INT1449 | D71: 3 | O71: Nhập môn công nghệ phần mềm
+A72: 6 | B72: Hệ CSDL đa phương tiện | C72: INT1418 | D72: 3 | O72: Cơ sở dữ liệu
+A73: 7 | B73: Học máy | C73: INT14153 | D73: 3 | O73: Nhập môn trí tuệ nhân tạo
+A74: 8 | B74: Quản lý dự án phần mềm | C74: INT14189 | D74: 3 | O74: Nhập môn công nghệ phần mềm
+B75: Các HP tự chọn cơ sở ngành thạc sĩ
+A76: 1 | B76: Tìm kiếm và truy xuất thông tin | C76: INT4328 | D76: 3 | O76: Thuật toán nâng cao 
+A77: 2 | B77: Các kỹ thuật tối ưu | C77: INT4329 | D77: 3 | O77: Công cụ toán cho CNTT
+A78: 3 | B78: Phương pháp phân tích số liệu thống kê | C78: INT4330 | D78: 3 | O78: Công cụ toán cho CNTT
+A79: 4 | B79: Nhận dạng mẫu  | C79: INT4331 | D79: 3
+A80: 5 | B80: Khai phá dữ liệu nâng cao | C80: INT4332 | D80: 3 | O80: Cơ sở dữ liệu
+A81: 6 | B81: Các mô hình lập trình tiên tiến | C81: INT4333 | D81: 3 | O81: Thuật toán nâng cao 
+A82: 7 | B82: Hệ điều hành mạng | C82: INT4335 | D82: 3
+B83: Các HP tự chọn chuyên ngành thạc sĩ
+A84: 1 | B84: Thiết kế và tối ưu mạng | C84: INT4440 | D84: 3 | O84: Mạng máy tính
+A85: 2 | B85: An toàn hệ thống thông tin | C85: SEC4342 | D85: 3
+A86: 3 | B86: Mô hình hóa và mô phỏng các hệ thống phức tạp | C86: INT4443 | D86: 3
+A87: 4 | B87: Kiểm thử các HTTT | C87: INT4444 | D87: 3
+A88: 5 | B88: Quản trị mạng | C88: INT4445 | D88: 3 | O88: Mạng máy tính
+A89: 6 | B89: Hệ thống thông tin doanh nghiệp | C89: INT4446 | D89: 3 | O89: Các hệ thống CSDL
+A90: 7 | B90: Tối ưu và vận hành HTTT | C90: INT4441 | D90: 3 | O90: Các hệ thống CSDL
+A91: 8 | B91: Blockchain trong HTTT | C91: INT4442 | D91: 3

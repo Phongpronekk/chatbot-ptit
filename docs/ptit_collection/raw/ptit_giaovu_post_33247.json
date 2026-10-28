@@ -1,0 +1,116 @@
+{
+  "id": 33247,
+  "date": "2026-04-10T18:30:01",
+  "date_gmt": "2026-04-10T11:30:01",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33247"
+  },
+  "modified": "2026-04-11T07:08:40",
+  "modified_gmt": "2026-04-11T00:08:40",
+  "slug": "thong-bao-nghi-le-va-dieu-chinh-hinh-thuc-giang-day",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/thong-bao-nghi-le-va-dieu-chinh-hinh-thuc-giang-day/",
+  "title": {
+    "rendered": "Thông báo nghỉ lễ và điểu chỉnh hình thức giảng dạy"
+  },
+  "content": {
+    "rendered": "<p>Học viện trân trọng thông báo tới toàn thể sinh viên về lịch nghỉ lễ và điều chỉnh hình thức giảng dạy – học tập dịp Giỗ Tổ Hùng Vương, Ngày Giải phóng miền Nam 30/4 và Quốc tế Lao động 1/5 như sau:</p>\n<p>1.Lịch nghỉ lễ:</p>\n<p>Nghỉ Giỗ Tổ Hùng Vương (10/3 âm lịch): nghỉ bù vào Thứ Hai, ngày 27/4/2026<br />\nNghỉ 30/4 và 1/5: Thứ Năm (30/4/2026) và Thứ Sáu (01/5/2026)</p>\n<p>2. Điều chỉnh hình thức giảng dạy – học tập:</p>\n<p>Các ngày 28/4, 29/4, 02/5 và 03/5/2026 sẽ chuyển sang học trực tuyến<br />\nLịch học chi tiết sẽ được cập nhật trên hệ thống QLĐT trước ngày 23/4/2026.</p>\n<p>3. Đề nghị các đơn vị, cố vấn học tập và Ban cán sự lớp thông báo tới toàn thể sinh viên và triển khai thực hiện nghiêm túc.<br />\nChúc các bạn sinh viên có một kỳ nghỉ lễ an toàn – vui vẻ – ý nghĩa!</p>\n<p>Trân trọng ./.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện trân trọng thông báo tới toàn thể sinh viên về lịch nghỉ lễ và điều chỉnh hình thức giảng dạy – học tập dịp Giỗ Tổ Hùng Vương, Ngày Giải phóng miền Nam 30/4 và Quốc tế Lao động 1/5 như sau: 1.Lịch nghỉ lễ: Nghỉ Giỗ Tổ Hùng Vương (10/3 âm lịch): [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33247",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33247",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33247"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33247/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33247"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33247"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33247"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 32593,
+  "date": "2025-02-25T05:42:46",
+  "date_gmt": "2025-02-25T05:42:46",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?post_type=ova_doc&#038;p=32593"
+  },
+  "modified": "2025-03-01T18:55:40",
+  "modified_gmt": "2025-03-01T18:55:40",
+  "slug": "bieu-mau-sinh-vien",
+  "status": "publish",
+  "type": "ova_doc",
+  "link": "https://student.ptit.edu.vn/ova_doc/bieu-mau-sinh-vien/",
+  "title": {
+    "rendered": "Biểu mẫu sinh viên"
+  },
+  "content": {
+    "rendered": "<ol>\n<li><a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/DON-DE-NGHI-DUOC-HUONG-CHINH-SACH-HO-TRO-HOC-TAP.docx\">ĐƠN ĐỀ NGHỊ ĐƯỢC HƯỞNG CHÍNH SÁCH HỖ TRỢ HỌC TẬP</a></li>\n<li><a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/DON-DE-NGHI-HO-TRO-CHI-PHI-HOC-TAP.docx\">ĐƠN ĐỀ NGHỊ HỖ TRỢ CHI PHÍ HỌC TẬP</a></li>\n<li><a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/DON-DE-NGHI-MIEN-GIAM-HOC-PHI.docx\">ĐƠN ĐỀ NGHỊ MIỄN, GIẢM HỌC PHÍ</a></li>\n<li><a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/DON-XIN-HO-TRO-HOC-PHI.docx\">ĐƠN XIN HỖ TRỢ HỌC PHÍ</a></li>\n</ol>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "cat_doc": [],
+  "class_list": [
+    "post-32593",
+    "ova_doc",
+    "type-ova_doc",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/ova_doc/32593",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/ova_doc"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/ova_doc"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=32593"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32593"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "cat_doc",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/cat_doc?post=32593"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

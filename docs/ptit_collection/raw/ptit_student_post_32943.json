@@ -1,0 +1,119 @@
+{
+  "id": 32943,
+  "date": "2025-05-28T08:14:44",
+  "date_gmt": "2025-05-28T08:14:44",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=32943"
+  },
+  "modified": "2025-05-28T08:14:44",
+  "modified_gmt": "2025-05-28T08:14:44",
+  "slug": "thong-bao-danh-sach-gia-han-the-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-cac-khoa-d2021-2022-2023-dot-bo-sung",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/05/28/thong-bao-danh-sach-gia-han-the-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-cac-khoa-d2021-2022-2023-dot-bo-sung/",
+  "title": {
+    "rendered": "Thông báo danh sách gia hạn thẻ BHYT cho sinh viên hệ đại học chính quy các khóa D2021-2022-2023 (đợt bổ sung)"
+  },
+  "content": {
+    "rendered": "<p>1. Học viện Công nghệ Bưu chính Viễn thông thông báo về việc gia hạn thẻ bảo hiểm y tế cho sinh viên khóa 2021-2022-2023 năm 2025 – đợt bổ sung (Danh sách sinh viên gia hạn thẻ chi tiết kèm theo).<br />\n2. Nơi khám chữa bệnh: Bệnh viện Tuệ Tĩnh (Hà Đông-Hà Nội)<br />\n3. Lưu ý:<br />\n– Bảo hiểm gia hạn trên hệ thống và không cấp thẻ BHYT. Học viện yêu cầu tất cả sinh viên cài phần mềm VssID – Bảo hiểm xã hội số (hướng dẫn kèm theo) để sử dụng thẻ BHYT điện tử. Việc cài đặt, sử dụng ứng dụng VssID sinh viên có thể tra cứu toàn bộ thông tin thẻ BHYT, hình ảnh thẻ BHYT, thời hạn sử dụng… thay thẻ giấy khi đi khám chữa bệnh.<br />\nSinh viên có thắc mắc liên hệ Cô Lê Thị Kim Nhung – Chuyên viên Phòng Chính trị và Công tác sinh viên, tầng 1, nhà A1. Điện thoại: 024.38547795<br />\nEmail: nhungltk@ptit.edu.vn<br />\nTrân trọng!<br />\nLink danh sách gia hạn thẻ: <a href=\"https://docs.google.com/spreadsheets/d/1Bh0EBVuutqjs7vc9fbotlcPQMfwzLyz6/edit?gid=603833375#gid=603833375\">https://docs.google.com/spreadsheets/d/1Bh0EBVuutqjs7vc9fbotlcPQMfwzLyz6/edit?gid=603833375#gid=603833375</a><br />\nLink hướng dẫn cài đặt VssID: <a href=\"https://docs.google.com/document/d/1x1ZHgi78wOWl4tcTnQ4C6cKcvKWTLxM6/edit\">https://docs.google.com/document/d/1x1ZHgi78wOWl4tcTnQ4C6cKcvKWTLxM6/edit</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>1. Học viện Công nghệ Bưu chính Viễn thông thông báo về việc gia hạn thẻ bảo hiểm y tế cho sinh viên khóa 2021-2022-2023 năm 2025 – đợt bổ sung (Danh sách sinh viên gia hạn thẻ chi tiết kèm theo). 2. Nơi khám chữa bệnh: Bệnh viện Tuệ Tĩnh (Hà Đông-Hà Nội) 3. [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 32771,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32943",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32943",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=32943"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32943/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32771"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32943"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=32943"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=32943"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 33259,
+  "date": "2026-03-11T03:30:15",
+  "date_gmt": "2026-03-11T03:30:15",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33259"
+  },
+  "modified": "2026-04-02T09:52:45",
+  "modified_gmt": "2026-04-02T09:52:45",
+  "slug": "nam-sinh-ptit-phat-hien-4-lo-hong-bao-mat-2-cve-duoc-ghi-nhan-tren-he-thong-quoc-te",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/03/11/nam-sinh-ptit-phat-hien-4-lo-hong-bao-mat-2-cve-duoc-ghi-nhan-tren-he-thong-quoc-te/",
+  "title": {
+    "rendered": "Nam sinh PTIT phát hiện 4 lỗ hổng bảo mật, 2 CVE được ghi nhận trên hệ thống quốc tế"
+  },
+  "content": {
+    "rendered": "<div class=\"article__sapo cms-desc\">\n<p>Dương Quang Hào (sinh năm 2004), sinh viên ngành An toàn thông tin tại Học viện Công nghệ Bưu chính Viễn thông (PTIT), phát hiện 4 lỗ hổng bảo mật, trong đó 2 lỗ hổng đã được ghi nhận trên hệ thống Common Vulnerabilities and Exposures. Hào từng giành giải Nhì PTIT CTF 2025, đạt chứng chỉ Burp Suite Certified Practitioner và nhiều học bổng khuyến khích học tập.</p>\n</div>\n<div class=\"article__body zce-content-body cms-body\">\n<p><b>Từ tò mò công nghệ đến những phát hiện bảo mật quốc tế</b></p>\n<p>Ngay từ những năm còn là học sinh, mình đã luôn tò mò về cách các hệ thống công nghệ vận hành và đặc biệt là cách chúng được bảo vệ trước những rủi ro trên không gian mạng. Sự tò mò ấy dần trở thành động lực để mình lựa chọn theo học ngành An toàn thông tin tại Học viện Công nghệ Bưu chính Viễn thông. Đối với mình, quyết định này không phải là một lựa chọn bộc phát, mà là kết quả của quá trình tìm hiểu, thử nghiệm và tự học trong thời gian dài. Khi xã hội ngày càng chuyển mình mạnh mẽ theo hướng số hóa, mình nhận ra dữ liệu và các hệ thống thông tin đang trở thành những tài sản vô cùng giá trị, và việc bảo vệ chúng không chỉ đơn thuần là công việc kỹ thuật mà còn là trách nhiệm đối với cộng đồng và xã hội.</p>\n<figure><img loading=\"lazy\" decoding=\"async\" id=\"6275528\" class=\"cms-photo lazyloaded\" title=\"Dương Quang Hào đang là sinh viên ngành An toàn thông tin, Học viện Công nghệ Bưu chính Viễn thông.\" src=\"https://cdn.tienphong.vn/images/0ac7e7afb2c0920c4226b09e6919659bfb4d6adc475a75e822369206cbd1ece1f27830c933166b35b136597e21e900efa4cdc2a64e61984d0c17a887c896ee29/c92f783b29c3a79dfed2.jpg\" alt=\"c92f783b29c3a79dfed2.jpg\" width=\"1390\" height=\"2339\" data-width=\"1521\" data-height=\"2560\" data-image-id=\"6275528\" data-large-src=\"https://cdn.tienphong.vn/images/9040c82c5f8031938e0b52b51e6cad2bfb4d6adc475a75e822369206cbd1ece1f27830c933166b35b136597e21e900efa4cdc2a64e61984d0c17a887c896ee29/c92f783b29c3a79dfed2.jpg\" data-src=\"https://cdn.tienphong.vn/images/0ac7e7afb2c0920c4226b09e6919659bfb4d6adc475a75e822369206cbd1ece1f27830c933166b35b136597e21e900efa4cdc2a64e61984d0c17a887c896ee29/c92f783b29c3a79dfed2.jpg\" /><figcaption>Dương Quang Hào đang là sinh viên ngành An toàn thông tin, Học viện Công nghệ Bưu chính Viễn thông.</figcaption></figure>\n<p>Trong quá trình học tập, mình luôn chủ động tìm kiếm cơ hội để thực hành và nghiên cứu sâu hơn về lĩnh vực bảo mật. Một trong những dấu mốc đáng nhớ là khi mình phát hiện và báo cáo một số lỗ hổng bảo mật, trong đó có hai lỗ hổng đã được cấp mã CVE quốc tế. Đối với một sinh viên, đây là trải nghiệm rất đặc biệt, bởi nó cho mình cảm giác rằng những kiến thức học được không chỉ dừng lại trên trang sách mà thực sự có thể đóng góp cho cộng đồng công nghệ.<br />\nBên cạnh việc học trên lớp, mình cũng dành nhiều thời gian tự nghiên cứu về bảo mật ứng dụng web, kiểm thử xâm nhập và phân tích mã nguồn. Những trải nghiệm ấy giúp mình rèn luyện tư duy logic, sự kiên nhẫn trong việc tìm kiếm và giải quyết vấn đề, đồng thời nuôi dưỡng tinh thần học hỏi không ngừng trên hành trình theo đuổi lĩnh vực an toàn thông tin.</p>\n<p><b>Trưởng thành từ những thử thách trên hành trình học tập</b></p>\n<p>Hành trình học tập của mình trong lĩnh vực an toàn thông tin chưa bao giờ là con đường bằng phẳng. Đây là một ngành học đòi hỏi nền tảng kiến thức rộng và sâu, từ lập trình, hệ điều hành, mạng máy tính cho đến tư duy phân tích và khả năng nghiên cứu độc lập. Có những giai đoạn, mình phải dành hàng giờ, thậm chí nhiều ngày để tìm hiểu một vấn đề tưởng chừng rất nhỏ. Nhưng chính những khoảng thời gian kiên trì lần tìm lời giải ấy đã giúp mình hiểu rằng học tập trong lĩnh vực công nghệ không chỉ là tiếp nhận kiến thức, mà còn là quá trình rèn luyện tư duy và bản lĩnh vượt qua giới hạn của bản thân.</p>\n<figure><img loading=\"lazy\" decoding=\"async\" id=\"6275529\" class=\"cms-photo lazyloaded\" title=\"Quang Hào với 4 phát hiện lỗ hổng bảo mật, trong đó có 2 lỗ hổng được cấp mã CVE quốc tế.\" src=\"https://cdn.tienphong.vn/images/0ac7e7afb2c0920c4226b09e6919659b50c3524ff3189f2b3abdc2584a2911352c40cce89a0d4b216f75cdb36f5e96b49f2dc8ef4bc9ed9e98d1ac7e1af6a294/2667454141019401405.jpg\" alt=\"2667454141019401405.jpg\" width=\"1390\" height=\"1853\" data-width=\"1920\" data-height=\"2560\" data-image-id=\"6275529\" data-large-src=\"https://cdn.tienphong.vn/images/9040c82c5f8031938e0b52b51e6cad2b50c3524ff3189f2b3abdc2584a2911352c40cce89a0d4b216f75cdb36f5e96b49f2dc8ef4bc9ed9e98d1ac7e1af6a294/2667454141019401405.jpg\" data-src=\"https://cdn.tienphong.vn/images/0ac7e7afb2c0920c4226b09e6919659b50c3524ff3189f2b3abdc2584a2911352c40cce89a0d4b216f75cdb36f5e96b49f2dc8ef4bc9ed9e98d1ac7e1af6a294/2667454141019401405.jpg\" /><figcaption>Quang Hào với 4 phát hiện lỗ hổng bảo mật, trong đó có 2 lỗ hổng được cấp mã CVE quốc tế.</figcaption></figure>\n<p>Khó khăn lớn nhất với mình không chỉ nằm ở khối lượng kiến thức mà còn ở việc tự học và tự định hướng. Nhiều tài liệu chuyên sâu bằng tiếng Anh, những công nghệ thay đổi từng ngày, cùng với không ít lần thử nghiệm thất bại đôi khi khiến mình cảm thấy chững lại. Tuy vậy, chính những khoảnh khắc tưởng chừng bế tắc ấy lại giúp mình học được bài học quan trọng về sự kiên trì. Mỗi lần thất bại là một lần mình nhìn lại cách tiếp cận của mình, học cách thay đổi phương pháp, chia nhỏ vấn đề và từng bước giải quyết. Nhờ vậy, những khó khăn ban đầu dần trở thành động lực để mình tiến lên và đạt được những thành quả nhỏ nhưng đầy ý nghĩa trên con đường đã chọn.</p>\n<p>Nhìn lại chặng đường sinh viên, mình luôn xem đây là quãng thời gian vô cùng quý giá. Không chỉ bởi những kiến thức chuyên môn tích lũy được, mà còn bởi sự tận tâm của thầy cô &#8211; những người đã truyền cảm hứng, định hướng và giúp chúng mình hiểu rằng việc học không chỉ để vượt qua kỳ thi, mà còn để hoàn thiện bản thân và tạo ra giá trị cho xã hội.</p>\n<p>Đối với mình, được học tập tại Học viện Công nghệ Bưu chính Viễn thông là một niềm tự hào lớn. Môi trường học tập tại đây không chỉ trang bị cho sinh viên nền tảng chuyên môn vững chắc mà còn khuyến khích tinh thần nghiên cứu, sáng tạo và chủ động khám phá công nghệ mới. Những giờ học trên lớp, những buổi trao đổi với thầy cô hay những lần cùng bạn bè miệt mài thảo luận về một bài toán kỹ thuật đã trở thành những ký ức đáng nhớ trong hành trình trưởng thành của mình. Với mình, đó không chỉ là kỷ niệm của thời sinh viên mà còn là sự tri ân sâu sắc dành cho thầy cô và mái trường, nơi đã giúp mình có nền tảng vững vàng để bước những bước đầu tiên trên con đường theo đuổi đam mê công nghệ.</p>\n<p><b>Trách nhiệm của người trẻ trong hành trình bảo vệ không gian mạng</b></p>\n<p>Theo mình, người trẻ hôm nay không chỉ cần học giỏi mà còn cần sống có trách nhiệm với cộng đồng. Mỗi người đều có thể đóng góp cho xã hội theo cách riêng của mình, đôi khi bắt đầu từ những hành động rất nhỏ nhưng mang lại giá trị lâu dài. Với mình, khi theo đuổi lĩnh vực an toàn thông tin, trách nhiệm đó càng trở nên rõ ràng hơn, bởi mỗi hệ thống được bảo vệ tốt hơn cũng đồng nghĩa với việc người dùng được an toàn hơn trong môi trường số.</p>\n<figure><img loading=\"lazy\" decoding=\"async\" id=\"6275527\" class=\"cms-photo lazyloaded\" title=\"Quang Hào cùng nhóm nhận giải Nhì tại cuộc thi PTIT CTF 2025.\" src=\"https://cdn.tienphong.vn/images/0ac7e7afb2c0920c4226b09e6919659ba312b36cd507668dd6b799015f2b7010d3c4987edbc8eb427addd4ce5ddd7b64755790f872254cf614d2b4b03e7a805a/3346446473710184701.jpg\" alt=\"3346446473710184701.jpg\" width=\"1390\" height=\"1162\" data-width=\"2518\" data-height=\"2106\" data-image-id=\"6275527\" data-large-src=\"https://cdn.tienphong.vn/images/9040c82c5f8031938e0b52b51e6cad2ba312b36cd507668dd6b799015f2b7010d3c4987edbc8eb427addd4ce5ddd7b64755790f872254cf614d2b4b03e7a805a/3346446473710184701.jpg\" data-src=\"https://cdn.tienphong.vn/images/0ac7e7afb2c0920c4226b09e6919659ba312b36cd507668dd6b799015f2b7010d3c4987edbc8eb427addd4ce5ddd7b64755790f872254cf614d2b4b03e7a805a/3346446473710184701.jpg\" /><figcaption>Quang Hào cùng nhóm nhận giải Nhì tại cuộc thi PTIT CTF 2025.</figcaption></figure>\n<p>Trong lĩnh vực này, mình tin rằng việc phát hiện và báo cáo các lỗ hổng bảo mật một cách có trách nhiệm cũng là một cách đóng góp thiết thực cho cộng đồng. Khi những lỗ hổng được phát hiện và kịp thời khắc phục, hệ thống công nghệ sẽ trở nên an toàn hơn, các rủi ro đối với người dùng cũng được giảm thiểu. Đó là công việc thầm lặng, ít khi được nhìn thấy, nhưng lại mang ý nghĩa rất lớn đối với sự phát triển bền vững của môi trường công nghệ.</p>\n<p>Bên cạnh việc học tập và nghiên cứu, mình cũng luôn cố gắng chia sẻ những kiến thức và kinh nghiệm của mình với các bạn sinh viên khác, đặc biệt là những bạn mới bắt đầu tìm hiểu về an toàn thông tin. Mình tin rằng khi một cộng đồng cùng học hỏi và hỗ trợ lẫn nhau, chúng ta sẽ tạo nên một môi trường tích cực, nơi mỗi cá nhân đều có cơ hội phát triển và tiến bộ.</p>\n<p>Châm ngôn sống mà mình luôn nhắc nhở bản thân là: “Kiên trì theo đuổi điều mình tin tưởng, và luôn học hỏi để trở thành phiên bản tốt hơn của chính mình mỗi ngày.” Với mình, mỗi người trẻ đều có thể trở thành nguồn cảm hứng cho người khác nếu dám ước mơ, dám nỗ lực và dám đóng góp cho xã hội. Những thành công hôm nay có thể còn nhỏ, nhưng nếu được nuôi dưỡng bằng đam mê và tinh thần trách nhiệm, chúng sẽ từng bước tạo nên những giá trị lớn hơn trong tương lai.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Dương Quang Hào (sinh năm 2004), sinh viên ngành An toàn thông tin tại Học viện Công nghệ Bưu chính Viễn thông (PTIT), phát hiện 4 lỗ hổng bảo mật, trong đó 2 lỗ hổng đã được ghi nhận trên hệ thống Common Vulnerabilities and Exposures. Hào từng giành giải Nhì PTIT CTF 2025, đạt [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 81,
+  "featured_media": 33260,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    17
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33259",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-tin-tuc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33259",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/81"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33259"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33259/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33260"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33259"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33259"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33259"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

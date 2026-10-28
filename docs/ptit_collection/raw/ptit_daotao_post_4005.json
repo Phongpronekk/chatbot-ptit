@@ -1,0 +1,123 @@
+{
+  "id": 4005,
+  "date": "2026-03-13T10:18:35",
+  "date_gmt": "2026-03-13T03:18:35",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=4005"
+  },
+  "modified": "2026-03-13T10:18:35",
+  "modified_gmt": "2026-03-13T03:18:35",
+  "slug": "thong-tu-ban-hanh-quy-che-tuyen-sinh-cac-nganh-dao-tao-trinh-do-dai-hoc-va-nganh-giao-duc-mam-non-trinh-do-cao-dang-cua-bo-gddt",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/thong-tu-ban-hanh-quy-che-tuyen-sinh-cac-nganh-dao-tao-trinh-do-dai-hoc-va-nganh-giao-duc-mam-non-trinh-do-cao-dang-cua-bo-gddt/",
+  "title": {
+    "rendered": "Thông tư ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng của Bộ GD&amp;ĐT"
+  },
+  "content": {
+    "rendered": "<p>Ngày 15 tháng 02 năm 2026, Bộ Giáo dục và Đào tạo ban hành Thông tư số 06/2026/TT-BGDĐT của Bộ trưởng Bộ Giáo dục và Đào tạo, ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/2026_Thong-tu-quy-che-tuyen-sinh-DH-CD-nganh-GDMN-nam-2026.pdf\">Xem chi tiết tại đây</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 15 tháng 02 năm 2026, Bộ Giáo dục và Đào tạo ban hành Thông tư số 06/2026/TT-BGDĐT của Bộ trưởng Bộ Giáo dục và Đào tạo, ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng Xem chi tiết tại [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 3297,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13953,
+    13962,
+    13960
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4005",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-page-dao-tao",
+    "category-dt_tin-tuc-quy-che-quy-dinh",
+    "category-dt_tin-tuc-tuyen-sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/4005",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=4005"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/4005/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3297"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4005"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=4005"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=4005"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

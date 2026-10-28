@@ -1,0 +1,125 @@
+{
+  "id": 5606,
+  "date": "2026-08-24T11:21:47",
+  "date_gmt": "2026-08-24T04:21:47",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5606"
+  },
+  "modified": "2026-09-05T11:23:41",
+  "modified_gmt": "2026-09-05T04:23:41",
+  "slug": "announcement-on-graduation-recognition-and-degree-issuance-in-august-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/en/announcement-on-graduation-recognition-and-degree-issuance-in-august-2026/",
+  "title": {
+    "rendered": "Announcement on graduation recognition and degree issuance in August 2026"
+  },
+  "content": {
+    "rendered": "<p>University graduation recognition in August 2026</p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf\">Decision No. 2650/QD-HV: Recognizing graduation for full-time undergraduate students of Cohort D22 &#8211; HCM Campus.</a></p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf\">Decision No. 2651/QD-HV: Recognizing graduation for full-time undergraduate students (completing outstanding subjects) &#8211; HCM Campus.</a></p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf\">Decision No. 2652/QD-HV: Recognizing graduation for distance learning undergraduate students (completing outstanding subjects) &#8211; HCM Campus.</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>University graduation recognition in August 2026 Decision No. 2650/QD-HV: Recognizing graduation for full-time undergraduate students of Cohort D22 &#8211; HCM Campus. Decision No. 2651/QD-HV: Recognizing graduation for full-time undergraduate students (completing outstanding subjects) &#8211; HCM Campus. Decision No. 2652/QD-HV: Recognizing graduation for distance learning undergraduate students (completing outstanding subjects) &#8211; HCM Campus.</p>\n",
+    "protected": false
+  },
+  "author": 99,
+  "featured_media": 4008,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14024
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5606",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-new"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5606",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/99"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5606"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5606/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5607,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5606/revisions/5607"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/4008"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5606"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5606"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5606"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

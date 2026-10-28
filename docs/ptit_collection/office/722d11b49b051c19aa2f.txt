@@ -1,0 +1,53 @@
+### sheet1.xml
+A1: KẾ HOẠCH  HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH KHOA HỌC MÁY TÍNH - ĐỊNH HƯỚNG ỨNG DỤNG
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | E4: TT | F4: Tên môn học/học phần | G4: Số TC | H4: Học kỳ
+A5: 1 | B5: Triết học | C5: 3 | D5: HK1 | E5: 1 | F5: Lý thuyết học sâu | G5: 3 | H5: HK3
+A6: 2 | B6: Công cụ toán cho công nghệ thông tin | C6: 2 | D6: HK1 | E6: 2 | F6: Tự chọn chuyên ngành B1 | G6: 3 | H6: HK3
+A7: 3 | B7: Phương pháp nghiên cứu khoa học | C7: 2 | D7: HK1 | E7: 3 | F7: Tự chọn chuyên ngành B2 | G7: 3 | H7: HK3
+A8: 4 | B8: Thuật toán nâng cao | C8: 2 | D8: HK1 | E8: 4 | F8: Tự chọn chuyên ngành B3 | G8: 3 | H8: HK3
+A9: 5 | B9: Nhận dạng mẫu | C9: 3 | D9: HK1 | E9: 5 | F9: Tự chọn chuyên ngành B4 | G9: 3 | H9: HK3
+A10: 6 | B10: Dữ liệu lớn | C10: 3 | D10: HK1
+C12: 15 | G12: 15
+A14: 7 | B14: Tự chọn cơ sở ngành A1 | C14: 3 | D14: HK2 | E14: 6 | F14: Thực tập tốt nghiệp | G14: 6 | H14: HK4
+A15: 8 | B15: Tự chọn cơ sở ngành A2 | C15: 3 | D15: HK2 | E15: 7 | F15: Đề án tốt nghiệp | G15: 9 | H15: HK4
+A16: 9 | B16: Tự chọn cơ sở ngành A3 | C16: 3 | D16: HK2
+A17: 10 | B17: Khai phá tri thức và phân tích dữ liệu | C17: 3 | D17: HK2
+A18: 11 | B18: Các mô hình ngôn ngữ lớn | C18: 3 | D18: HK2
+C20: 15 | G20: 15
+F22: TỔNG CỘNG CTĐT: | G22: 60
+A24: A | B24: Các học phần tự chọn cơ sở ngành | E24: B | F24: Các học phần tự chọn chuyên ngành
+A25: 1 | B25: Tìm kiếm và truy xuất thông tin | C25: 3 | E25: 1 | F25: Phân tích dữ liệu đa phương tiện | G25: 3
+A26: 2 | B26: Các kỹ thuật tối ưu | C26: 3 | E26: 2 | F26: Phát triển các ứng dụng AI | G26: 3
+A27: 3 | B27: Phương pháp phân tích số liệu thống kê | C27: 3 | E27: 3 | F27: Hệ thống thông tin tác tử | G27: 3
+A28: 4 | B28: Các hệ thống CSDL | C28: 3 | E28: 4 | F28: Mô hình hóa và mô phỏng các hệ thống phức tạp | G28: 3
+A29: 5 | B29: Khai phá dữ liệu nâng cao | C29: 3 | E29: 5 | F29: Các hệ thống IoT hiện đại | G29: 3
+A30: 6 | B30: Các mô hình lập trình tiên tiến | C30: 3 | E30: 6 | F30: Công nghệ phần mềm nhúng | G30: 3
+A31: 7 | B31: Tính toán phân tán | C31: 3 | E31: 7 | F31: Các hệ thống khuyến nghị nâng cao | G31: 3
+A32: 8 | B32: Hệ điều hành mạng | C32: 3 | E32: 8 | F32: Trí tuệ nhân tạo tạo sinh | G32: 3
+### sheet2.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH KHOA HỌC MÁY TÍNH - ĐỊNH HƯỚNG NGHIÊN CỨU
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | E4: TT | F4: Tên môn học/học phần | G4: Số TC | H4: Học kỳ
+A5: 1 | B5: Triết học | C5: 3 | D5: HK1 | E5: 1 | F5: Lý thuyết học sâu | G5: 3 | H5: HK3
+A6: 2 | B6: Công cụ toán cho công nghệ thông tin | C6: 2 | D6: HK1 | E6: 2 | F6: Chuyên đề  nghiên cứu KHMT 2 | G6: 6 | H6: HK3
+A7: 3 | B7: Phương pháp nghiên cứu khoa học | C7: 2 | D7: HK1 | E7: 3 | F7: Tự chọn chuyên ngành B1 | G7: 3 | H7: HK3
+A8: 4 | B8: Thuật toán nâng cao | C8: 2 | D8: HK1 | E8: 4 | F8: Tự chọn chuyên ngành B2 | G8: 3 | H8: HK3
+A9: 5 | B9: Nhận dạng mẫu | C9: 3 | D9: HK1
+A10: 6 | B10: Dữ liệu lớn | C10: 3 | D10: HK1
+C12: 15 | G12: 15
+A14: 7 | B14: Tự chọn cơ sở ngành A1 | C14: 3 | D14: HK2 | E14: 5 | F14: Luận văn tốt nghiệp | G14: 15 | H14: HK4
+A15: 8 | B15: Chuyên đề nghiên cứu KHMT 1 | C15: 6 | D15: HK2
+A16: 9 | B16: Khai phá tri thức và phân tích dữ liệu | C16: 3 | D16: HK2
+A17: 10 | B17: Các mô hình ngôn ngữ lớn | C17: 3 | D17: HK2
+C19: 15 | G19: 15
+F21: TỔNG CỘNG CTĐT: | G21: 60
+A23: A | B23: Các học phần tự chọn cơ sở ngành | E23: B | F23: Các học phần tự chọn chuyên ngành
+A24: 1 | B24: Tìm kiếm và truy xuất thông tin | C24: 3 | E24: 1 | F24: Thị giác máy tính | G24: 3
+A25: 2 | B25: Các kỹ thuật tối ưu | C25: 3 | E25: 2 | F25: Học sâu tăng cường | G25: 3
+A26: 3 | B26: Phương pháp phân tích số liệu thống kê | C26: 3 | E26: 3 | F26: Mô hình hóa và dự báo chuỗi thời gian | G26: 3
+A27: 4 | B27: Các hệ thống CSDL | C27: 3 | E27: 4 | F27: Mô hình xác suất và suy diễn | G27: 3
+A28: 5 | B28: Khai phá dữ liệu nâng cao | C28: 3
+A29: 6 | B29: Các mô hình lập trình tiên tiến | C29: 3
+A30: 7 | B30: Tính toán phân tán | C30: 3
+A31: 8 | B31: Hệ điều hành mạng | C31: 3

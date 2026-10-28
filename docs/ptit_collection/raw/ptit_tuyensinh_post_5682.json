@@ -1,0 +1,118 @@
+{
+  "id": 5682,
+  "date": "2026-06-05T08:22:23",
+  "date_gmt": "2026-06-05T01:22:23",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5682"
+  },
+  "modified": "2026-06-11T08:23:47",
+  "modified_gmt": "2026-06-11T01:23:47",
+  "slug": "chuan-giao-duc-dai-hoc",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/chuan-giao-duc-dai-hoc/",
+  "title": {
+    "rendered": "Chuẩn Giáo dục đại học"
+  },
+  "content": {
+    "rendered": "<p>Chuẩn Giáo dục đại học: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/CV886-Chuan-co-so-giao-duc-2026.pdf\">CV886 Chuan co so giao dục 2026</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Chuẩn Giáo dục đại học: CV886 Chuan co so giao dục 2026</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    5
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5682",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-ts_tin_tuc_tuyen_sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5682",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5682"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5682/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5684,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5682/revisions/5684"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5682"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5682"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5682"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

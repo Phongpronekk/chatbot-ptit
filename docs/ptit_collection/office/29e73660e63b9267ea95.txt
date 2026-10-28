@@ -1,0 +1,192 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ TÀI NĂNG (THẠC SĨ TÍCH HỢP) NGÀNH KỸ THUẬT VIỄN THÔNG
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU CHƯƠNG TRÌNH ĐÀO TẠO
+Ngành đào tạo (tiếng Việt): Kỹ thuật Viễn thông
+Ngành đào tạo (tiếng Anh): Telecommunications Engineering
+Tên chương trình: Kỹ thuật Viễn thông
+Trình độ đào tạo:Thạc sĩ (Thạc sĩ tích hợp)
+Mã ngành:8520208
+Thời gian đào tạo:05 năm
+Hình thức đào tạo:  Chính quy
+2. MỤC TIÊU  
+2.1. Mục tiêu chung 
+Chương trình Thạc sĩ tài năng ngành Kỹ thuật Viễn thông của Học viện Công nghệ Bưu chính Viễn thông hướng tới đào tạo đội ngũ tinh hoa có phẩm chất chính trị, đạo đức và sức khỏe tốt; sở hữu nền tảng kiến thức chuyên sâu, năng lực nghiên cứu độc lập và sáng tạo công nghệ ở trình độ cao, đáp ứng chuẩn chương trình đào tạo tài năng do Bộ Giáo dục và Đào tạo quy định. Người học có khả năng tham gia các đề tài/dự án R&D và bài toán đặt hàng của doanh nghiệp, công bố các công trình khoa học/đăng ký sở hữu trí tuệ/chuyển giao sản phẩm. Chương trình đề cao năng lực lãnh đạo kỹ thuật, khởi nghiệp đổi mới sáng tạo, làm việc trong môi trường quốc tế (bao gồm năng lực ngoại ngữ học thuật và kỹ năng số), học tập suốt đời và thích ứng nhanh với sự phát triển của trí tuệ nhân tạo và các công nghệ mũi nhọn, qua đó đáp ứng yêu cầu phát triển kinh tế – xã hội và hội nhập quốc tế.
+Chương trình đào tạo thạc sĩ tài năng ngành Kỹ thuật viễn thông nhằm cụ thể hóa tiêu chuẩn chung cho người tốt nghiệp trình độ cử nhân – thạc sĩ của Học viện đó là:
+ULO1 Tri thức – Sáng tạo – Khởi nghiệp (Subject Expertise – Innovation - Entrepreneurship):  Khả năng xác định, phân tích và giải quyết vấn đề trong lĩnh vực chuyên môn một cách hiệu quả trong bối cảnh nhất định bằng cách áp dụng các kiến thức và nguyên tắc liên quan, hướng tiếp cận đổi mới sáng tạo và các công nghệ tiên tiến có thể có, đồng thời xem xét các mục tiêu phát triển bền vững và cơ hội khởi nghiệp. 
+ULO2 Đạo đức – Trách nhiệm nghề nghiệp (Professional ethics - Reponsibilities): Khả năng vận dụng các nguyên tắc đạo đức và trách nhiệm nghề nghiệp trong thực hành nghề nghiệp, cũng như cân nhắc các yếu tố có ảnh hưởng ở cấp độ địa phương và toàn cầu. 
+ULO3  Giao tiếp – Hợp tác – Quản lý (Communication – Collaboration - Management): Khả năng giao tiếp và thực hiện công việc nhóm một cách hiệu quả nhằm đặt được các mục tiêu nghề nghiệp, cũng như quản lý các hoạt động chuyên môn dựa trên tư duy khởi nghiệp. 
+2.2 Mục tiêu cụ thể  
+Mục tiêu cụ thể của chương trình đào tạo thạc sĩ tài năng ngành Kỹ thuật viễn thông của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo thạc sĩ Kỹ thuật viễn thông có: 
+PO1.  Phát triển vững chắc nghề nghiệp chuyên môn: Sau khi tốt nghiệp, sinh viên có thể làm việc hiệu quả và sáng tạo trong lĩnh vực điện tử viễn thông và các ngành liên quan, áp dụng thành công các nguyên lý kỹ thuật tiên tiến trong việc thiết kế, phát triển, vận hành và quản lý hệ thống điện tử viễn thông tại các doanh nghiệp, tổ chức nghiên cứu, và các dự án công nghệ cao. Sinh viên sẽ có khả năng đảm nhận các vị trí lãnh đạo kỹ thuật, thúc đẩy đổi mới sáng tạo và dẫn dắt các dự án công nghệ trong môi trường làm việc toàn cầu.
+PO2. Phát triển khả năng làm việc nhóm, sáng tạo và có tố chất lãnh đạo: Sau khi tốt nghiệp, sinh viên sẽ có khả năng làm việc hiệu quả trong các nhóm nghiên cứu và phát triển đa ngành, đồng thời có tố chất lãnh đạo để quản lý các dự án kỹ thuật phức tạp. Sinh viên sẽ được trang bị kỹ năng phát hiện và giải quyết các vấn đề sáng tạo, đưa ra các giải pháp tiên tiến và hiệu quả trong lĩnh vực kỹ thuật điện tử viễn thông, phù hợp với yêu cầu thực tế và môi trường làm việc đa văn hóa, quốc tế.
+PO3. Phát triển chuyên môn, ý thức học tập suốt đời: Sau khi tốt nghiệp, sinh viên sẽ có khả năng tiếp tục phát triển bản thân và chuyên môn thông qua việc học hỏi suốt đời. Sinh viên được khuyến khích tham gia vào các chương trình đào tạo chuyên sâu, nghiên cứu độc lập, hoặc học tiếp ở trình độ cao hơn, đồng thời có khả năng dẫn dắt các sáng kiến nghiên cứu, đóng góp vào cộng đồng khoa học và công nghệ, theo tiêu chuẩn quốc tế. 
+PO4. Phát triển nhận thức về trách nhiệm xã hội và đạo đức nghề nghiệp: Sau khi tốt nghiệp, sinh viên sẽ hình thành ý thức mạnh mẽ về đạo đức nghề nghiệp và trách nhiệm xã hội, cam kết đóng góp vào sự phát triển bền vững của xã hội. Sinh viên sẽ nhận thức rõ ràng về vai trò của mình trong việc bảo vệ lợi ích cộng đồng, đóng góp vào việc giải quyết các vấn đề xã hội thông qua các giải pháp công nghệ, đồng thời tuân thủ các chuẩn mực đạo đức trong công việc và nghiên cứu.
+2.3 Vị trí làm việc sau tốt nghiệp
+Sinh viên tốt nghiệp Thạc sĩ tài năng ngành Kỹ thuật Viễn thông là những ứng viên tiềm năng cho các vị trí công việc chiến lược trong lĩnh vực điện tử viễn thông và công nghệ thông tin, đáp ứng nhu cầu phát triển công nghệ cao giai đoạn 2025–2035 và định hướng tới năm 2045. Các vị trí này bao gồm, nhưng không giới hạn:
+Chuyên gia tư vấn, thiết kế công nghệ trong các tổ chức, doanh nghiệp liên quan đến điện tử viễn thông, công nghệ thông tin và các lĩnh vực công nghệ cao như trí tuệ nhân tạo (AI), Internet vạn vật (IoT), mạng 5G/6G, và hệ thống truyền thông thế hệ mới. Sinh viên sẽ đảm nhận vai trò phát triển các giải pháp kỹ thuật tiên tiến, đóng góp vào quá trình đổi mới sáng tạo của doanh nghiệp và tổ chức. 
+Chuyên gia vận hành, giám sát hệ thống trong các doanh nghiệp sở hữu và khai thác hạ tầng truyền thông, với khả năng tối ưu hóa và vận hành hiệu quả các hệ thống truyền thông phức tạp, bao gồm các mạng viễn thông, hệ thống AI trong quản lý mạng, và các công nghệ viễn thông dựa trên nền tảng đám mây và AI..
+Chuyên gia phát triển ứng dụng AI trong các doanh nghiệp cung cấp dịch vụ viễn thông và Internet, các tổ chức và doanh nghiệp ứng dụng các hệ thống mạng và dịch vụ viễn thông, công nghệ thông tin, và các nền tảng thông minh (AI, machine learning) để tối ưu hóa hiệu quả và bảo mật dữ liệu, ứng dụng AI trong mạng thông minh và 5G/6G.
+Chuyên gia kỹ thuật AI trong các doanh nghiệp triển khai hệ thống ICT cho các lĩnh vực sản xuất, kinh doanh, tự động hóa công nghiệp, và các hệ thống viễn thông tiên tiến, hỗ trợ chuyển đổi số, tối ưu hóa các quy trình vận hành và cải thiện chất lượng dịch vụ thông qua công nghệ AI và IoT.
+Các vị trí lãnh đạo kỹ thuật, quản lý dự án đòi hỏi khả năng lãnh đạo sáng tạo và am hiểu sâu sắc về lĩnh vực viễn thông và công nghệ thông tin, trong các tổ chức, cơ quan nhà nước và doanh nghiệp, đặc biệt trong các dự án chuyển đổi số quốc gia và phát triển công nghệ cao. Các vị trí này yêu cầu khả năng quản lý các đội ngũ kỹ thuật, triển khai các dự án quốc gia về mạng 5G/6G, trí tuệ nhân tạo và an toàn thông tin..
+Cán bộ giảng dạy, nghiên cứu trong các viện nghiên cứu, trường đại học, các tổ chức nghiên cứu quốc tế, với khả năng lãnh đạo các nhóm nghiên cứu chuyên sâu trong các lĩnh vực viễn thông, AI, mạng thông minh, và các công nghệ mới nổi, đóng góp vào việc xây dựng và nâng cao chất lượng đào tạo thạc sĩ tài năng, góp phần vào sự phát triển của ngành công nghệ cao quốc gia..
+Các vị trí công việc này không chỉ đáp ứng các yêu cầu cao về chuyên môn, mà còn yêu cầu sinh viên có khả năng lãnh đạo, sáng tạo, và phát triển nghề nghiệp lâu dài trong môi trường quốc tế và các lĩnh vực công nghệ tiên tiến như trí tuệ nhân tạo, mạng 5G/6G, và Internet vạn vật. Chương trình đào tạo thạc sĩ tài năng ngành Kỹ thuật Viễn thông tại PTIT cam kết cung cấp nền tảng vững chắc để sinh viên có năng lực học tập suốt đời, đảm bảo kiến thức về chuyên môn và nghiệp vụ để học lên bậc Tiến sĩ thuộc các chuyên ngành thuộc lĩnh vực Điện tử viễn thông ở trong và ngoài nước và có thể vươn lên các vai trò/vị trí chiến lược, đóng góp vào sự phát triển của nền kinh tế số quốc gia và hội nhập quốc tế, ...   
+Khả năng học tập, nâng cao trình độ sau khi ra trường
+Có năng lực học tập suốt đời, đảm bảo kiến thức về chuyên môn và nghiệp vụ để học tiếp Tiến sĩ thuộc các chuyên ngành thuộc lĩnh vực Điện tử viễn thông, Công nghệ thông tin ở trong và ngoài nước.
+Có thể thực hiện được các đề tài nghiên cứu khoa học thuộc lĩnh vực Điện tử viễn thông, công nghệ thông tin ở các cấp khác nhau.
+
+3. CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (PLOs)
+Các chuẩn đầu ra (Program Learning Outcomes - PLOs) và các chỉ báo (Performance Indicator - PIs) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Cụ thể, các PLOs và PIs của chương trình đào tạo cho như bảng sau:
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1. Giải quyết vấn đề kỹ thuật phức tạp: Có khả năng xác định và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý kỹ thuật, khoa học và toán học, và ứng dụng công nghệ tiên tiến trong lĩnh vực viễn thông
+C4, P3
+PI 1.1. Phân loại được bài toán cần giải quyết, chỉ ra các tham số chính cần xác định 
+PI 1.2. Áp dụng kiến thức, mô hình và phương pháp giải quyết được vấn đề kỹ thuật phức tạp thuộc lĩnh vực điện tử viễn thông
+PLO2. Phân tích và đánh giá các hệ thống và quy trình kỹ thuật: Có khả năng phân tích các phần tử, hệ thống và các quy trình kỹ thuật trong lĩnh vực điện tử viễn thông, để tối ưu hóa hiệu suất của các hệ thống mạng, ứng dụng và dịch vụ viễn thông.
+C5
+PI 2.1. Trình bày hoạt động, chức năng của các hệ thống điện tử viễn thông 
+PI 2.2. Phân tích và xác định được tham số hoạt động của các phần tử, mạch thành phần trong hệ thống thiết bị điện tử viễn thông 
+PI 2.3. Đánh giá được quy trình kỹ thuật trong hệ thống điện tử viễn thông
+PLO3. Tiến hành thí nghiệm và phân tích dữ liệu: Có khả năng tiến hành các thí nghiệm, thu thập dữ liệu và phân tích kết quả nhằm đánh giá hiệu quả của các giải pháp kỹ thuật trong lĩnh vực điện tử viễn thông. Có kỹ năng phân tích dữ liệu lớn, sử dụng các công cụ phân tích và mô phỏng, đánh giá hiệu suất của các hệ thống mạng viễn thông tiên tiến.
+C5, P3, A2
+PI 3.1. Tuân thủ đúng quy trình thí nghiệm 
+PI 3.2. Thao tác vận hành các thiết bị thí nghiệm tương ứng với nội dung kiến thức thuộc ngành kỹ thuật điện tử viễn thông 
+PI 3.3. Đánh giá được dữ liệu thu thập trong quá trình thí nghiệm
+PLO4. Thiết kế giải pháp sáng tạo cho các vấn đề kỹ thuật tổng hợp: Có khả năng thiết kế giải pháp sáng tạo cho các vấn đề kỹ thuật tổng hợp trong lĩnh vực điện tử viễn thông, sử dụng các kỹ thuật và công cụ hiện đại, bao gồm AI, học sâu, và các công cụ mô phỏng hệ thống. Có khả năng đánh giá các yếu tố rủi ro và cơ hội khi thiết kế các giải pháp kỹ thuật, đặc biệt trong các hệ thống phức tạp và mạng thông minh, đảm bảo tính thực tiễn, khả năng thương mại, sự bền vững và khả năng mở rộng của hệ thống
+C6, P3, A4
+PI 4.1. Sử dụng được các công cụ kỹ thuật chuyên ngành trong lĩnh vực điện tử viễn thông 
+PI 4.2. Thiết kế đề xuất giải pháp, phát triển sản phẩm có xem xét đến các vấn đề về rủi ro và cơ hội, khả năng ứng dụng để giải quyết vấn đề kỹ thuật trong lĩnh vực điện tử viễn thông 
+PI 4.3. Đọc hiểu, phân tích và tự tổng hợp các kiến thức mới trong lĩnh vực điện tử viễn thông
+PLO5. Giao tiếp và trình bày hiệu quả: Có khả năng giao tiếp và trình bày ý tưởng, giải pháp kỹ thuật một cách rõ ràng và hiệu quả, có kỹ năng giao tiếp khoa học, kỹ thuật với các nhóm đa ngành, đặc biệt trong môi trường làm việc quốc tế và các dự án công nghệ cao.
+P3
+PI 5.1. Sử dụng thành thạo các công cụ tin học hỗ trợ để soạn thảo văn bản hoặc tạo các nội dung đa phương tiện 
+PI 5.2. Xây dựng và trình bày được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định. 
+PI 5.3. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ.
+LO6. Làm việc nhóm và hợp tác đa ngành: Có khả năng làm việc hiệu quả trong các nhóm đa ngành, biết cách hợp tác và trao đổi thông tin để hoàn thành các dự án kỹ thuật phức tạp, có kỹ năng lãnh đạo trong môi trường nhóm, quản lý các dự án kỹ thuật và ứng dụng công nghệ trong các dự án đổi mới sáng tạo
+P4, A4
+PI 6.1 Phối hợp, chia sẻ công việc trong một nhóm. 
+PI 6.2 Khả năng thích ứng và cam kết hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm. 
+PI 6.3 Xác định mục tiêu và thời hạn, lập kế hoạch công việc, tổ chức và điều phối các hoạt động nhóm hiệu quả
+LO7. Nhận thức và tuân thủ đạo đức nghề nghiệp: Có khả năng nhận diện và tuân thủ đạo đức nghề nghiệp, nhận thức rõ ràng về trách nhiệm trong việc xử lý các tình huống kỹ thuật, áp dụng công nghệ, đồng thời đưa ra các đánh giá có tính đến tác động của các giải pháp kỹ thuật. các công nghệ đối với xã hội, môi trường và kinh tế toàn cầu.
+C4, A3
+PI 7.1. Nhận biết trách nhiệm đạo đức, quy định pháp luật, quy định nghề nghiệp trong các tình huống kỹ thuật 
+PI 7.2. Phân tích được tác động của giải pháp kỹ thuật đối với xã hội, kinh tế và môi trường.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ. Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+4. MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI MỤC TIÊU ĐÀO TẠO 
+Chuẩn đầu ra
+Mục tiêu cụ thể của CTĐT
+
+PO1
+PO2
+PO3
+PO4
+PLO1
+H
+L
+M
+L
+PLO2
+H
+M
+M
+L
+PLO3
+H
+M
+H
+M
+PLO4
+H
+H
+H
+H
+PLO5
+M
+H
+M
+M
+PLO6
+M
+H
+M
+M
+PLO7
+L
+M
+L
+H
+Ghi chú: L (Low – thấp), M (Medium – trung bình), H (High – cao).
+5. MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI PHẨM CHẤT NGƯỜI TỐT NGHIỆP VÀ CHUẨN ĐẦU RA CỦA CƠ SỞ GIÁO DỤC
+Ma trận liên kết chuẩn đầu ra của chương trình đào tạo (LO) với phẩm chất người tốt nghiệp (GA) và chuẩn cơ sở giáo dục (ULO) được thể hiện chi tiết trong Bảng 1 kèm theo.
+6. ĐỐI SÁNH CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ TÀI NĂNG (THẠC SĨ TÍCH HỢP) CỦA  HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG VỚI CÁC CHUẨN ĐẦU RA CỦA ABET
+Các yêu cầu của chuẩn ABET với chương trình đào tạo tính toán trình độ thạc sĩ, ngành ngành Kỹ thuật Viễn thông tại địa chỉ: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2025-2026/ 
+Criterion MI3. Student Outcomes (ABET)
+Chuẩn đầu ra CTĐT Thạc sĩ tài năng của 
+Học viện Công nghệ Bưu chính Viễn thông
+
+PLO1
+PLO2
+PLO3
+PLO4
+PLO5
+PLO6
+PLO7
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+H
+H
+M
+M
+L
+L
+L
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+M
+M
+L
+H
+L
+M
+H
+3. An ability to communicate effectively with a range of audiences.
+L
+L
+M
+L
+H
+M
+L
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+L
+M
+L
+H
+L
+M
+H
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative environment, establish goals, plan tasks, and meet objectives.
+L
+L
+M
+M
+M
+H
+M
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+M
+H
+H
+M
+L
+L
+L
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+M
+M
+M
+H
+M
+L
+L
+Ghi chú: L (Low – thấp), M (Medium – trung bình), H (High – cao).

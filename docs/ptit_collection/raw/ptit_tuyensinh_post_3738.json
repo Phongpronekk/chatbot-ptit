@@ -1,0 +1,119 @@
+{
+  "id": 3738,
+  "date": "2025-01-05T04:59:15",
+  "date_gmt": "2025-01-04T21:59:15",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=3738"
+  },
+  "modified": "2025-01-05T04:59:15",
+  "modified_gmt": "2025-01-04T21:59:15",
+  "slug": "quyet-dinh-cong-nhan-hoc-vien-cao-hoc-dot-2-nam-2024",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/quyet-dinh-cong-nhan-hoc-vien-cao-hoc-dot-2-nam-2024/",
+  "title": {
+    "rendered": "Quyết định công nhận học viên Cao học đợt 2 năm 2024"
+  },
+  "content": {
+    "rendered": "<p>Học viện Thông báo quyết định công nhận học viên Cao học đợt 2 năm 2024 (chi tiết file đính kèm).</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/01/2825qd.pdf\">2825qd</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Thông báo quyết định công nhận học viên Cao học đợt 2 năm 2024 (chi tiết file đính kèm). 2825qd</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 3442,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-3738",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/3738",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=3738"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/3738/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/3442"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=3738"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=3738"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=3738"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

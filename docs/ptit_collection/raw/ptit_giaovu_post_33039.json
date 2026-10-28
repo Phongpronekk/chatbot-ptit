@@ -1,0 +1,123 @@
+{
+  "id": 33039,
+  "date": "2025-11-26T10:32:19",
+  "date_gmt": "2025-11-26T03:32:19",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33039"
+  },
+  "modified": "2025-11-26T10:34:06",
+  "modified_gmt": "2025-11-26T03:34:06",
+  "slug": "phat-the-sinh-vien-doi-voi-sinh-vien-chinh-quy-khoa-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/phat-the-sinh-vien-doi-voi-sinh-vien-chinh-quy-khoa-2025/",
+  "title": {
+    "rendered": "Phát thẻ sinh viên đối với sinh viên chính quy khóa 2025"
+  },
+  "content": {
+    "rendered": "<p>Phòng Giáo vụ thông báo cấp, phát thẻ sinh viên cho sinh viên thuộc các lớp Đại học chính quy khóa 2025 như sau:</p>\n<ol>\n<li>Thời gian: từ ngày 26/11/2025 đến ngày 02/12/2025.</li>\n<li>Thủ tục thực hiện:</li>\n</ol>\n<p>&#8211; Bước 1: Đại diện Ban cán sự các lớp sinh viên trực tiếp nhận thẻ của các sinh viên trong lớp tại ô số 5 &#8211; Văn phòng một cửa.</p>\n<p>&#8211; Bước 2: Ban cán sự lớp phát thẻ cho sinh viên trong lớp (có ký nhận theo danh sách lớp).</p>\n<p>&#8211; Bước 3: Đại diện Ban cán sự lớp nộp lại danh sách ký nhận thẻ sinh viên cho phòng Giáo vụ tại Văn phòng một cửa trước ngày 09/12/2025.</p>\n<p>Đối với các trường hợp bị sai thông tin trên thẻ yêu cầu sinh viên làm đơn đề nghị chỉnh sửa và nộp bổ sung ảnh thẻ trước ngày 09/12/2025 tại ô số 5 &#8211; Văn phòng một cửa.</p>\n<p>Trân trọng thông báo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Phòng Giáo vụ thông báo cấp, phát thẻ sinh viên cho sinh viên thuộc các lớp Đại học chính quy khóa 2025 như sau: Thời gian: từ ngày 26/11/2025 đến ngày 02/12/2025. Thủ tục thực hiện: &#8211; Bước 1: Đại diện Ban cán sự các lớp sinh viên trực tiếp nhận thẻ của các sinh [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 33040,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33039",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33039",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33039"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33039/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/33040"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33039"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33039"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33039"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

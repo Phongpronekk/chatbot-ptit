@@ -1,0 +1,125 @@
+{
+  "id": 5914,
+  "date": "2026-09-15T11:49:51",
+  "date_gmt": "2026-09-15T04:49:51",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5914"
+  },
+  "modified": "2026-09-15T13:34:25",
+  "modified_gmt": "2026-09-15T06:34:25",
+  "slug": "danh-sach-thi-sinh-trung-tuyen-duoc-cap-hoc-bong-dau-vao-dai-hoc-he-chinh-quy-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/danh-sach-thi-sinh-trung-tuyen-duoc-cap-hoc-bong-dau-vao-dai-hoc-he-chinh-quy-nam-2026/",
+  "title": {
+    "rendered": "Danh sách thí sinh trúng tuyển được cấp học bổng đầu vào  đại học hệ chính quy năm 2026"
+  },
+  "content": {
+    "rendered": "<div class=\"paragraph normal ng-star-inserted\" dir=\"auto\" data-start-index=\"273\"><span class=\"ng-star-inserted\" data-start-index=\"273\">Học viện Công nghệ Bưu chính Viễn thông đã ban hành </span><b class=\"ng-star-inserted\" data-start-index=\"325\">Quyết định số 3011/QĐ-HV</b><span class=\"ng-star-inserted\" data-start-index=\"349\"> ngày 11/09/2026 về việc phê duyệt danh sách thí sinh trúng tuyển được cấp học bổng đầu vào đại học hệ chính quy năm 2026</span><span class=\"ng-star-inserted\" data-start-index=\"470\">.</span></div>\n<p><em>Chi tiết sinh viên xem file kèm.</em></p>\n<p>Trân trọng thông báo ./.</p>\n<p>Toàn văn quyết định: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/09/qd-3011-cap-hoc-bong-dau-vao.pdf\">qd 3011 cap hoc bong dau vao</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông đã ban hành Quyết định số 3011/QĐ-HV ngày 11/09/2026 về việc phê duyệt danh sách thí sinh trúng tuyển được cấp học bổng đầu vào đại học hệ chính quy năm 2026. Chi tiết sinh viên xem file kèm. Trân trọng thông báo ./. Toàn văn quyết [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5916,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    5
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5914",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_tuyen_sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5914",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5914"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5914/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5918,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5914/revisions/5918"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5916"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5914"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5914"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5914"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

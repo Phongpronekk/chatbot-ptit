@@ -1,0 +1,249 @@
+### Trang 1
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KHOA HỌC MÁY TÍNH - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Thuật toán nâng cao 
+(2TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Nhận dạng mẫu (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B1 (3 TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Lý thuyết học sâu 
+(3TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Dữ liệu lớn (3TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B4 (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Khai phá tri thức và 
+phân tích dữ liệu 
+(3TC) A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Phân tích dữ liệu đa phương tiện (3TC);
+2. Phát triển các ứng dụng AI (3TC);
+3. Hệ thống thông tin tác tử (3TC);
+4. Mô hình hóa và mô phỏng các hệ thống 
+phức tạp (3TC);
+5. Các hệ thống IoT hiện đại (3TC);
+6. Công nghệ phần mềm nhúng (3TC);
+7. Các hệ thống khuyến nghị nâng cao 
+(3TC);
+8. Trí tuệ nhân tạo tạo sinh (3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KHOA HỌC MÁY TÍNH - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Thuật toán nâng cao 
+(2TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Nhận dạng mẫu (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B1 (3 TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Lý thuyết học sâu 
+(3TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Dữ liệu lớn (3TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B4 (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Khai phá tri thức và 
+phân tích dữ liệu 
+(3TC) A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Phân tích dữ liệu đa phương tiện (3TC);
+2. Phát triển các ứng dụng AI (3TC);
+3. Hệ thống thông tin tác tử (3TC);
+4. Mô hình hóa và mô phỏng các hệ thống 
+phức tạp (3TC);
+5. Các hệ thống IoT hiện đại (3TC);
+6. Công nghệ phần mềm nhúng (3TC);
+7. Các hệ thống khuyến nghị nâng cao 
+(3TC);
+8. Trí tuệ nhân tạo tạo sinh (3TC).
+
+### Trang 2
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KHOA HỌC MÁY TÍNH - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Thuật toán nâng cao 
+(2TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Nhận dạng mẫu (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B1 (3 TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Lý thuyết học sâu 
+(3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Dữ liệu lớn (3TC)
+Chuyên đề nghiên 
+cứu KHMT 1 (6TC)
+Chuyên đề nghiên 
+cứu KHMT 2 (6TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Khai phá tri thức và 
+phân tích dữ liệu 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Thị giác máy tính (3TC);
+2. Học sâu tăng cường (3TC);
+3. Mô hình hóa và dự báo chuỗi thời gian 
+(3TC);
+4. Mô hình xác suất và suy diễn (3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KHOA HỌC MÁY TÍNH - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (15TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (15 TC)
+Triết học
+(3TC)
+Thuật toán nâng cao 
+(2TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Nhận dạng mẫu (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B1 (3 TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Lý thuyết học sâu 
+(3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Dữ liệu lớn (3TC)
+Chuyên đề nghiên 
+cứu KHMT 1 (6TC)
+Chuyên đề nghiên 
+cứu KHMT 2 (6TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Khai phá tri thức và 
+phân tích dữ liệu 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê 
+(3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC);
+8. Hệ điều hành mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Thị giác máy tính (3TC);
+2. Học sâu tăng cường (3TC);
+3. Mô hình hóa và dự báo chuỗi thời gian 
+(3TC);
+4. Mô hình xác suất và suy diễn (3TC).

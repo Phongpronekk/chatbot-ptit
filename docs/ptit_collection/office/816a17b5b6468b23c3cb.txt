@@ -1,0 +1,592 @@
+### sheet1.xml
+A1: Đại đội | B1: Phòng/ Toà nhà | C1: MSV | D1: Họ và tên | E1: Giới tính | F1: Mã Lớp | G1: Tên ngành học | H1: Ghi chú 
+A2: Đại đội 7 | B2: Tầng 2,3 nhà TT1 các P.208 - 209 và P.306 - 309 | C2: B21DCCN818 | D2: Nguyễn Thị Lan | E2: Nữ | F2: D21CNPM5 | G2: Công nghệ thông tin | H2: Khoá trước học lại
+C3: B22DCVT300 | D3: Mưu Thị Ngọc Lan | E3: Nữ | F3: D22VTVT01-B | G3: Viễn thông | H3: Khoá trước học lại
+C4: B25DCAT001 | D4: Nguyễn Kiều An | E4: Nữ | F4: D25CTAT01-B | G4: An toàn thông tin
+C5: B25DCAT025 | D5: Nguyễn Khánh Diệu | E5: Nữ | F5: D25CQAT01-B | G5: An toàn thông tin
+C6: B25DCAT044 | D6: Hoàng Mai Hiền | E6: Nữ | F6: D25CQAT04-B | G6: An toàn thông tin
+C7: B25DCAT057 | D7: Nguyễn Thị Ngọc Hân | E7: Nữ | F7: D25CQAT01-B | G7: An toàn thông tin
+C8: B25DCAT061 | D8: Nguyễn Hồng Hạnh | E8: Nữ | F8: D25CTAT01-B | G8: An toàn thông tin
+C9: B25DCAT069 | D9: Phạm Vân Khánh | E9: Nữ | F9: D25CQAT01-B | G9: An toàn thông tin
+C10: B25DCAT078 | D10: Bùi Ngọc Linh | E10: Nữ | F10: D25CQAT02-B | G10: An toàn thông tin
+C11: B25DCAT079 | D11: Bùi Thị Linh | E11: Nữ | F11: D25CQAT03-B | G11: An toàn thông tin
+C12: B25DCAT110 | D12: Đặng Thị Hoàng Ngân | E12: Nữ | F12: D25CQAT02-B | G12: An toàn thông tin
+C13: B25DCAT142 | D13: Hoàng Thị Phương Thúy | E13: Nữ | F13: D25CTAT01-B | G13: An toàn thông tin
+C14: B25DCAT143 | D14: Nguyễn Phương Thảo | E14: Nữ | F14: D25CQAT03-B | G14: An toàn thông tin
+C15: B25DCAT172 | D15: Đặng Phương Uyên | E15: Nữ | F15: D25CQAT04-B | G15: An toàn thông tin
+C16: B25DCAT182 | D16: Nguyễn Thị Thảo Vân | E16: Nữ | F16: D25CQAT02-B | G16: An toàn thông tin
+C17: B25DCAT183 | D17: Hoàng Thị Hải Yến | E17: Nữ | F17: D25CQAT03-B | G17: An toàn thông tin
+C18: B25DCAT184 | D18: Trần Ngọc Ánh | E18: Nữ | F18: D25CQAT04-B | G18: An toàn thông tin
+C19: B25DCDK013 | D19: Mai An Bình | E19: Nữ | F19: D25CQDK01-B | G19: Kỹ thuật Điều khiển và Tự động hoá
+C20: B25DCDK074 | D20: Phan Yến Nhi | E20: Nữ | F20: D25CQDK02-B | G20: Kỹ thuật Điều khiển và Tự động hoá
+C21: B25DCKH004 | D21: Nguyễn Tú Anh | E21: Nữ | F21: D25CTKH01-B | G21: Khoa học máy tính
+C22: B25DCKH022 | D22: Nguyễn Thị Diệp | E22: Nữ | F22: D25CQKH01-B | G22: Khoa học máy tính
+C23: B25DCKH023 | D23: Nguyễn Ngọc Dung | E23: Nữ | F23: D25CQKH02-B | G23: Khoa học máy tính
+C24: B25DCKH029 | D24: Nguyễn Vân Giang | E24: Nữ | F24: D25CTKH01-B | G24: Khoa học máy tính
+C25: B25DCKH031 | D25: Trần Trà Giang | E25: Nữ | F25: D25CQKH01-B | G25: Khoa học máy tính
+C26: B25DCKH035 | D26: Đào Thu Hiền | E26: Nữ | F26: D25CQKH02-B | G26: Khoa học máy tính
+C27: B25DCKH046 | D27: Nguyễn Thu Hà | E27: Nữ | F27: D25CTKH01-B | G27: Khoa học máy tính
+C28: B25DCKH054 | D28: Nguyễn Thị Thu Hằng | E28: Nữ | F28: D25CQKH03-B | G28: Khoa học máy tính
+C29: B25DCKH071 | D29: Nguyễn Bình Ngọc Linh | E29: Nữ | F29: D25CQKH02-B | G29: Khoa học máy tính
+C30: B25DCKH089 | D30: Đào Thị Mỹ | E30: Nữ | F30: D25CTKH01-B | G30: Khoa học máy tính
+C31: B25DCKH095 | D31: Kiều Yến Nhi | E31: Nữ | F31: D25CQKH02-B | G31: Khoa học máy tính
+C32: B25DCKH103 | D32: Nguyễn Thu Phương | E32: Nữ | F32: D25CQKH01-B | G32: Khoa học máy tính
+C33: B25DCKH117 | D33: Phùng Thị Minh Thư | E33: Nữ | F33: D25CQKH03-B | G33: Khoa học máy tính
+C34: B25DCKH118 | D34: Vương Thị Phương Thảo | E34: Nữ | F34: D25CQKH01-B | G34: Khoa học máy tính
+C35: B25DCKH138 | D35: Phạm Thị Hải Yến | E35: Nữ | F35: D25CTKH01-B | G35: Khoa học máy tính
+C36: B25DCKH139 | D36: Lê Thị Ngọc Ánh | E36: Nữ | F36: D25CQKH01-B | G36: Khoa học máy tính
+C37: B25DCVM059 | D37: Nguyễn Minh Khuê | E37: Nữ | F37: D25CQVM02-B | G37: Công nghệ Vi mạch bán dẫn
+C38: B25DCVM135 | D38: Hoàng Thị Ngọc Uyên | E38: Nữ | F38: D25CTVM01-B | G38: Công nghệ Vi mạch bán dẫn
+C39: B22DCCN346 | D39: Phùng Văn Hoàng | E39: Nam | F39: D22CNPM5 | G39: Công nghệ thông tin | H39: Khoá trước học lại
+C40: B23DCCN756 | D40: Phạm Hữu Thắng | E40: Nam | F40: D23CTCN01 | G40: Công nghệ thông tin | H40: Khoá trước học lại
+C41: B25DCAE009 | D41: Lê Gia Bách | E41: Nam | F41: D25CQAE03-B | G41: An toàn thông tin (chất lượng cao)
+C42: B25DCAT002 | D42: Nguyễn Thành An | E42: Nam | F42: D25CQAT02-B | G42: An toàn thông tin
+C43: B25DCAT003 | D43: Vũ Hoàng An | E43: Nam | F43: D25CQAT03-B | G43: An toàn thông tin
+C44: B25DCAT004 | D44: Lê Nguyễn Tuấn Anh | E44: Nam | F44: D25CQAT04-B | G44: An toàn thông tin
+C45: B25DCAT006 | D45: Nguyễn Duy Anh | E45: Nam | F45: D25CTAT01-B | G45: An toàn thông tin
+C46: B25DCAT007 | D46: Nguyễn Hoàng Anh | E46: Nam | F46: D25CQAT03-B | G46: An toàn thông tin
+C47: B25DCAT008 | D47: Nguyễn Hoàng Thế Anh | E47: Nam | F47: D25CQAT04-B | G47: An toàn thông tin
+C48: B25DCAT009 | D48: Nguyễn Phúc Minh Anh | E48: Nam | F48: D25CQAT01-B | G48: An toàn thông tin
+C49: B25DCAT010 | D49: Phạm Đạt Anh | E49: Nam | F49: D25CTAT01-B | G49: An toàn thông tin
+C50: B25DCAT011 | D50: Trịnh Hoàng Anh | E50: Nam | F50: D25CQAT03-B | G50: An toàn thông tin
+C51: B25DCAT012 | D51: Vũ Đức Anh | E51: Nam | F51: D25CTAT01-B | G51: An toàn thông tin
+C52: B25DCAT013 | D52: Đỗ Đức Anh | E52: Nam | F52: D25CQAT01-B | G52: An toàn thông tin
+C53: B25DCAT014 | D53: Phương Mạnh Ba | E53: Nam | F53: D25CQAT02-B | G53: An toàn thông tin
+C54: B25DCAT015 | D54: Hoàng Đức Bình | E54: Nam | F54: D25CQAT03-B | G54: An toàn thông tin
+C55: B25DCAT016 | D55: Lê Huy Bình | E55: Nam | F55: D25CQAT04-B | G55: An toàn thông tin
+C56: B25DCAT017 | D56: Mai Đức Bình | E56: Nam | F56: D25CTAT01-B | G56: An toàn thông tin
+C57: B25DCAT018 | D57: Phan Thanh Bình | E57: Nam | F57: D25CTAT01-B | G57: An toàn thông tin
+C58: B25DCAT019 | D58: Đỗ Khắc Thanh Bình | E58: Nam | F58: D25CQAT03-B | G58: An toàn thông tin
+C59: B25DCAT020 | D59: Lê Đức Chính | E59: Nam | F59: D25CTAT01-B | G59: An toàn thông tin
+C60: B25DCAT021 | D60: Nguyễn Thành Công | E60: Nam | F60: D25CQAT01-B | G60: An toàn thông tin
+C61: B25DCAT022 | D61: Nguyễn Minh Cường | E61: Nam | F61: D25CTAT01-B | G61: An toàn thông tin
+C62: B25DCAT023 | D62: Nguyễn Mạnh Cường | E62: Nam | F62: D25CQAT03-B | G62: An toàn thông tin
+C63: B25DCAT024 | D63: Đặng Thành Danh | E63: Nam | F63: D25CTAT01-B | G63: An toàn thông tin
+C64: B25DCAT026 | D64: Đào Đức Doanh | E64: Nam | F64: D25CTAT01-B | G64: An toàn thông tin
+C65: B25DCAT027 | D65: Hoàng Ngọc Duy | E65: Nam | F65: D25CQAT03-B | G65: An toàn thông tin
+C66: B25DCAT028 | D66: Hà Thế Duy | E66: Nam | F66: D25CQAT04-B | G66: An toàn thông tin
+C67: B25DCAT029 | D67: Nguyễn Nhật Duy | E67: Nam | F67: D25CQAT01-B | G67: An toàn thông tin
+C68: B25DCAT030 | D68: Nguyễn Đức Duy | E68: Nam | F68: D25CQAT02-B | G68: An toàn thông tin
+C69: B25DCAT031 | D69: Nguyễn Đức Duy | E69: Nam | F69: D25CQAT03-B | G69: An toàn thông tin
+C70: B25DCAT032 | D70: Bùi Tiến Dũng | E70: Nam | F70: D25CQAT04-B | G70: An toàn thông tin
+C71: B25DCAT033 | D71: Phạm Anh Dũng | E71: Nam | F71: D25CQAT01-B | G71: An toàn thông tin
+C72: B25DCAT034 | D72: Vũ Ngô Dũng | E72: Nam | F72: D25CQAT02-B | G72: An toàn thông tin
+C73: B25DCAT035 | D73: Nguyễn Việt Dương | E73: Nam | F73: D25CTAT01-B | G73: An toàn thông tin
+C74: B25DCAT036 | D74: Nguyễn Hoàng Giang | E74: Nam | F74: D25CQAT04-B | G74: An toàn thông tin
+C75: B25DCAT037 | D75: Lê Minh Hiếu | E75: Nam | F75: D25CTAT01-B | G75: An toàn thông tin
+C76: B25DCAT039 | D76: Nguyễn Ngọc Hiếu | E76: Nam | F76: D25CQAT03-B | G76: An toàn thông tin
+C77: B25DCAT040 | D77: Nguyễn Trung Hiếu | E77: Nam | F77: D25CTAT01-B | G77: An toàn thông tin
+C78: B25DCAT041 | D78: Nguyễn Đình Hiếu | E78: Nam | F78: D25CTAT01-B | G78: An toàn thông tin
+C79: B25DCAT042 | D79: Ngô Trung Hiếu | E79: Nam | F79: D25CQAT02-B | G79: An toàn thông tin
+C80: B25DCAT043 | D80: Phạm Minh Hiếu | E80: Nam | F80: D25CTAT01-B | G80: An toàn thông tin
+C81: B25DCAT046 | D81: Nguyễn Văn Hiệp | E81: Nam | F81: D25CQAT02-B | G81: An toàn thông tin
+C82: B25DCAT047 | D82: Nguyễn Văn Hoan | E82: Nam | F82: D25CQAT03-B | G82: An toàn thông tin
+C83: B25DCAT048 | D83: Nguyễn Văn Hoàng | E83: Nam | F83: D25CQAT04-B | G83: An toàn thông tin
+C84: B25DCAT049 | D84: Đào Huy Hoàng | E84: Nam | F84: D25CQAT01-B | G84: An toàn thông tin
+C85: B25DCAT050 | D85: Bùi Quang Huy | E85: Nam | F85: D25CTAT01-B | G85: An toàn thông tin
+C86: B25DCAT051 | D86: Dương Mạnh Huy | E86: Nam | F86: D25CQAT03-B | G86: An toàn thông tin
+C87: B25DCAT052 | D87: Nguyễn Minh Huy | E87: Nam | F87: D25CTAT01-B | G87: An toàn thông tin
+C88: B25DCAT053 | D88: Phan Quang Huy | E88: Nam | F88: D25CQAT01-B | G88: An toàn thông tin
+C89: B25DCAT054 | D89: Tạ Công Huy | E89: Nam | F89: D25CQAT02-B | G89: An toàn thông tin
+C90: B25DCAT055 | D90: Võ Việt Hà | E90: Nam | F90: D25CQAT03-B | G90: An toàn thông tin
+C91: B25DCAT056 | D91: Nguyễn Thanh Hào | E91: Nam | F91: D25CQAT04-B | G91: An toàn thông tin
+C92: B25DCAT058 | D92: Hồ Trọng Hùng | E92: Nam | F92: D25CQAT02-B | G92: An toàn thông tin
+C93: B25DCAT059 | D93: Trương Tuấn Hùng | E93: Nam | F93: D25CTAT01-B | G93: An toàn thông tin
+C94: B25DCAT060 | D94: Đặng Duy Hưng | E94: Nam | F94: D25CQAT04-B | G94: An toàn thông tin
+C95: B25DCAT062 | D95: Lương Khắc Hải | E95: Nam | F95: D25CQAT02-B | G95: An toàn thông tin
+C96: B25DCAT063 | D96: Nguyễn Xuân Hải | E96: Nam | F96: D25CQAT03-B | G96: An toàn thông tin
+C97: B25DCAT064 | D97: Nguyễn Xuân Sơn Hải | E97: Nam | F97: D25CQAT04-B | G97: An toàn thông tin
+C98: B25DCAT065 | D98: Đỗ Hoàng Thanh Hải | E98: Nam | F98: D25CTAT01-B | G98: An toàn thông tin
+C99: B25DCAT066 | D99: Nguyễn Duy Học | E99: Nam | F99: D25CQAT02-B | G99: An toàn thông tin
+C100: B25DCAT067 | D100: Lê Gia Khoa | E100: Nam | F100: D25CQAT03-B | G100: An toàn thông tin
+C101: B25DCAT068 | D101: Phạm Gia Khánh | E101: Nam | F101: D25CQAT04-B | G101: An toàn thông tin
+C102: B25DCAT071 | D102: Hoàng Minh Khôi | E102: Nam | F102: D25CQAT03-B | G102: An toàn thông tin
+C103: B25DCAT072 | D103: Phạm Phùng Khôi | E103: Nam | F103: D25CTAT01-B | G103: An toàn thông tin
+C104: B25DCAT073 | D104: Lê Trung Kiên | E104: Nam | F104: D25CQAT01-B | G104: An toàn thông tin
+C105: B25DCAT074 | D105: Lê Đình Kiên | E105: Nam | F105: D25CQAT02-B | G105: An toàn thông tin
+C106: B25DCAT075 | D106: Ngô Trung Kiên | E106: Nam | F106: D25CQAT03-B | G106: An toàn thông tin
+C107: B25DCAT076 | D107: Vũ Mạnh Kiên | E107: Nam | F107: D25CQAT04-B | G107: An toàn thông tin
+C108: B25DCAT077 | D108: Đoàn Lê Kiên | E108: Nam | F108: D25CQAT01-B | G108: An toàn thông tin
+C109: B25DCAT080 | D109: Phạm Duy Linh | E109: Nam | F109: D25CQAT04-B | G109: An toàn thông tin
+C110: B25DCAT082 | D110: Lê Thành Long | E110: Nam | F110: D25CQAT02-B | G110: An toàn thông tin
+C111: B25DCAT083 | D111: Nông Đức Long | E111: Nam | F111: D25CTAT01-B | G111: An toàn thông tin
+C112: B25DCAT084 | D112: Trần Duy Long | E112: Nam | F112: D25CQAT04-B | G112: An toàn thông tin
+C113: B25DCAT086 | D113: Vũ Bảo Tri Lâm | E113: Nam | F113: D25CQAT02-B | G113: An toàn thông tin
+C114: B25DCAT087 | D114: Nguyễn Đức Lương | E114: Nam | F114: D25CQAT03-B | G114: An toàn thông tin
+C115: B25DCAT088 | D115: Lại Văn Lộc | E115: Nam | F115: D25CQAT04-B | G115: An toàn thông tin
+C116: B25DCAT089 | D116: Nguyễn Hữu Lộc | E116: Nam | F116: D25CQAT01-B | G116: An toàn thông tin
+C117: B25DCAT090 | D117: Hoàng Anh Minh | E117: Nam | F117: D25CQAT02-B | G117: An toàn thông tin
+C118: B25DCAT091 | D118: Hoàng Gia Minh | E118: Nam | F118: D25CQAT03-B | G118: An toàn thông tin
+C119: B25DCAT092 | D119: Hoàng Nhật Minh | E119: Nam | F119: D25CQAT04-B | G119: An toàn thông tin
+C120: B25DCAT093 | D120: Lương Nguyễn Hoàng Minh | E120: Nam | F120: D25CQAT01-B | G120: An toàn thông tin
+C121: B25DCAT094 | D121: Nguyễn Quang Minh | E121: Nam | F121: D25CQAT02-B | G121: An toàn thông tin
+C122: B25DCAT095 | D122: Nguyễn Tuấn Minh | E122: Nam | F122: D25CQAT03-B | G122: An toàn thông tin
+C123: B25DCAT096 | D123: Phí Hoàng Minh | E123: Nam | F123: D25CQAT04-B | G123: An toàn thông tin
+C124: B25DCAT097 | D124: Phạm Nguyễn Tố Minh | E124: Nam | F124: D25CQAT01-B | G124: An toàn thông tin
+C125: B25DCAT098 | D125: Trương Tuấn Minh | E125: Nam | F125: D25CQAT02-B | G125: An toàn thông tin
+C126: B25DCAT099 | D126: Trần Đức Minh | E126: Nam | F126: D25CQAT03-B | G126: An toàn thông tin
+C127: B25DCAT100 | D127: Trịnh Hữu Quang Minh | E127: Nam | F127: D25CQAT04-B | G127: An toàn thông tin
+A128: Đại đội 8 | B128: Tầng 3,4 nhà TT1 các P.301 - 305 và P.401 - 402 | C128: B25DCAT101 | D128: Đào Nhật Minh | E128: Nam | F128: D25CQAT01-B | G128: An toàn thông tin
+C129: B25DCAT102 | D129: Đoàn Văn Mạnh | E129: Nam | F129: D25CQAT02-B | G129: An toàn thông tin
+C130: B25DCAT103 | D130: Đàm Đức Mạnh | E130: Nam | F130: D25CQAT03-B | G130: An toàn thông tin
+C131: B25DCAT104 | D131: Nguyễn Đức Hải Nam | E131: Nam | F131: D25CQAT04-B | G131: An toàn thông tin
+C132: B25DCAT105 | D132: Đàm Trí Nghĩa | E132: Nam | F132: D25CQAT01-B | G132: An toàn thông tin
+C133: B25DCAT106 | D133: Hoàng Phúc Nguyên | E133: Nam | F133: D25CQAT02-B | G133: An toàn thông tin
+C134: B25DCAT107 | D134: Lưu Bình Nguyên | E134: Nam | F134: D25CQAT03-B | G134: An toàn thông tin
+C135: B25DCAT108 | D135: Vũ Hữu Nguyên | E135: Nam | F135: D25CTAT01-B | G135: An toàn thông tin
+C136: B25DCAT109 | D136: Vũ Khôi Nguyên | E136: Nam | F136: D25CQAT01-B | G136: An toàn thông tin
+C137: B25DCAT111 | D137: Nguyễn Duy Phong | E137: Nam | F137: D25CQAT03-B | G137: An toàn thông tin
+C138: B25DCAT112 | D138: Nhâm Sĩ Tuấn Phong | E138: Nam | F138: D25CQAT04-B | G138: An toàn thông tin
+C139: B25DCAT113 | D139: Phạm Công Phú | E139: Nam | F139: D25CQAT01-B | G139: An toàn thông tin
+C140: B25DCAT114 | D140: Bùi Hồng Phúc | E140: Nam | F140: D25CQAT02-B | G140: An toàn thông tin
+C141: B25DCAT116 | D141: Mai Việt Quang | E141: Nam | F141: D25CQAT04-B | G141: An toàn thông tin
+C142: B25DCAT117 | D142: Nguyễn Anh Quang | E142: Nam | F142: D25CQAT01-B | G142: An toàn thông tin
+C143: B25DCAT118 | D143: Phạm Minh Quang | E143: Nam | F143: D25CQAT02-B | G143: An toàn thông tin
+C144: B25DCAT119 | D144: Dương Minh Quân | E144: Nam | F144: D25CQAT03-B | G144: An toàn thông tin
+C145: B25DCAT120 | D145: Hồ Nhật Quân | E145: Nam | F145: D25CQAT04-B | G145: An toàn thông tin
+C146: B25DCAT121 | D146: Nguyễn Vũ Minh Quân | E146: Nam | F146: D25CQAT01-B | G146: An toàn thông tin
+C147: B25DCAT122 | D147: Phạm Đình Quân | E147: Nam | F147: D25CQAT02-B | G147: An toàn thông tin
+C148: B25DCAT123 | D148: Thái Đặng Minh Quân | E148: Nam | F148: D25CQAT03-B | G148: An toàn thông tin
+C149: B25DCAT124 | D149: Trương Minh Quân | E149: Nam | F149: D25CQAT04-B | G149: An toàn thông tin
+C150: B25DCAT125 | D150: Bùi Đình Ngọc Quý | E150: Nam | F150: D25CQAT01-B | G150: An toàn thông tin
+C151: B25DCAT126 | D151: Đặng Phú Quý | E151: Nam | F151: D25CQAT02-B | G151: An toàn thông tin
+C152: B25DCAT127 | D152: Nguyễn Đình Sơn | E152: Nam | F152: D25CQAT03-B | G152: An toàn thông tin
+C153: B25DCAT128 | D153: Nguyễn Đăng Phúc Sơn | E153: Nam | F153: D25CTAT01-B | G153: An toàn thông tin
+C154: B25DCAT129 | D154: Phùng Đăng Sơn | E154: Nam | F154: D25CTAT01-B | G154: An toàn thông tin
+C155: B25DCAT130 | D155: Vũ Hoàng Sơn | E155: Nam | F155: D25CQAT02-B | G155: An toàn thông tin
+C156: B25DCAT131 | D156: Phạm Vũ Minh Thiện | E156: Nam | F156: D25CQAT03-B | G156: An toàn thông tin
+C157: B25DCAT132 | D157: Đinh Đức Thiện | E157: Nam | F157: D25CQAT04-B | G157: An toàn thông tin
+C158: B25DCAT133 | D158: Đàm Bảo Thiện | E158: Nam | F158: D25CQAT01-B | G158: An toàn thông tin
+C159: B25DCAT134 | D159: Lê Văn Thuận | E159: Nam | F159: D25CQAT02-B | G159: An toàn thông tin
+C160: B25DCAT135 | D160: Hà Huy Thành | E160: Nam | F160: D25CTAT01-B | G160: An toàn thông tin
+C161: B25DCAT136 | D161: Lê Tiến Thành | E161: Nam | F161: D25CQAT04-B | G161: An toàn thông tin
+C162: B25DCAT137 | D162: Nguyễn Trường Thành | E162: Nam | F162: D25CTAT01-B | G162: An toàn thông tin
+C163: B25DCAT138 | D163: Nguyễn Xuân Thành | E163: Nam | F163: D25CTAT01-B | G163: An toàn thông tin
+C164: B25DCAT139 | D164: Phạm Tuấn Thành | E164: Nam | F164: D25CQAT03-B | G164: An toàn thông tin
+C165: B25DCAT140 | D165: Trần Tiến Thành | E165: Nam | F165: D25CQAT04-B | G165: An toàn thông tin
+C166: B25DCAT144 | D166: Lương Việt Thắng | E166: Nam | F166: D25CQAT04-B | G166: An toàn thông tin
+C167: B25DCAT145 | D167: Nguyễn Hữu Thắng | E167: Nam | F167: D25CTAT01-B | G167: An toàn thông tin
+C168: B25DCAT146 | D168: Đỗ Khắc Thịnh | E168: Nam | F168: D25CTAT01-B | G168: An toàn thông tin
+C169: B25DCAT148 | D169: Phạm Nhật Thức | E169: Nam | F169: D25CTAT01-B | G169: An toàn thông tin
+C170: B25DCAT149 | D170: Lê Anh Tiến | E170: Nam | F170: D25CQAT01-B | G170: An toàn thông tin
+C171: B25DCAT150 | D171: Trịnh Lê Việt Tiệp | E171: Nam | F171: D25CQAT02-B | G171: An toàn thông tin
+C172: B25DCAT151 | D172: Lê Việt Trung | E172: Nam | F172: D25CQAT03-B | G172: An toàn thông tin
+C173: B25DCAT152 | D173: Nguyễn Khắc Trung | E173: Nam | F173: D25CTAT01-B | G173: An toàn thông tin
+C174: B25DCAT153 | D174: Nguyễn Quốc Trung | E174: Nam | F174: D25CQAT01-B | G174: An toàn thông tin
+C175: B25DCAT154 | D175: Trần Văn Trung | E175: Nam | F175: D25CQAT02-B | G175: An toàn thông tin
+C176: B25DCAT156 | D176: Nguyễn Minh Tuấn | E176: Nam | F176: D25CQAT04-B | G176: An toàn thông tin
+C177: B25DCAT158 | D177: Nguyễn Trần Mạnh Tuấn | E177: Nam | F177: D25CQAT02-B | G177: An toàn thông tin
+C178: B25DCAT159 | D178: Nguyễn Sĩ Tài | E178: Nam | F178: D25CQAT03-B | G178: An toàn thông tin
+C179: B25DCAT160 | D179: Trịnh Tuấn Tài | E179: Nam | F179: D25CTAT01-B | G179: An toàn thông tin
+C180: B25DCAT161 | D180: Trần Minh Tâm | E180: Nam | F180: D25CQAT01-B | G180: An toàn thông tin
+C181: B25DCAT163 | D181: Trần Nhật Tân | E181: Nam | F181: D25CQAT03-B | G181: An toàn thông tin
+C182: B25DCAT164 | D182: Nguyễn Quý Tùng | E182: Nam | F182: D25CQAT04-B | G182: An toàn thông tin
+C183: B25DCAT165 | D183: Ngô Đức Tùng | E183: Nam | F183: D25CQAT01-B | G183: An toàn thông tin
+C184: B25DCAT166 | D184: Tạ Đăng Tùng | E184: Nam | F184: D25CQAT02-B | G184: An toàn thông tin
+C185: B25DCAT167 | D185: Vũ Đình Tùng | E185: Nam | F185: D25CQAT03-B | G185: An toàn thông tin
+C186: B25DCAT168 | D186: Nguyễn Mạnh Tú | E186: Nam | F186: D25CQAT04-B | G186: An toàn thông tin
+C187: B25DCAT169 | D187: Nguyễn Đình Tú | E187: Nam | F187: D25CQAT01-B | G187: An toàn thông tin
+C188: B25DCAT170 | D188: Đỗ Tuấn Tú | E188: Nam | F188: D25CQAT02-B | G188: An toàn thông tin
+C189: B25DCAT171 | D189: Phí Trọng Tấn | E189: Nam | F189: D25CQAT03-B | G189: An toàn thông tin
+C190: B25DCAT174 | D190: Nguyễn Quang Vinh | E190: Nam | F190: D25CQAT02-B | G190: An toàn thông tin
+C191: B25DCAT175 | D191: Phạm Quang Vinh | E191: Nam | F191: D25CQAT03-B | G191: An toàn thông tin
+C192: B25DCAT176 | D192: Đào Nguyễn Đức Vinh | E192: Nam | F192: D25CQAT04-B | G192: An toàn thông tin
+C193: B25DCAT177 | D193: Hoàng Việt | E193: Nam | F193: D25CQAT01-B | G193: An toàn thông tin
+C194: B25DCAT178 | D194: Nguyễn Anh Việt | E194: Nam | F194: D25CQAT02-B | G194: An toàn thông tin
+C195: B25DCAT179 | D195: Nguyễn Trọng Hoàng Việt | E195: Nam | F195: D25CQAT03-B | G195: An toàn thông tin
+C196: B25DCAT180 | D196: Trần Đình Việt | E196: Nam | F196: D25CQAT04-B | G196: An toàn thông tin
+C197: B25DCAT181 | D197: Vũ Đức Việt | E197: Nam | F197: D25CQAT01-B | G197: An toàn thông tin
+C198: B25DCAT185 | D198: Lưu Quý Đôn | E198: Nam | F198: D25CQAT01-B | G198: An toàn thông tin
+C199: B25DCAT186 | D199: Nguyễn Văn Đông | E199: Nam | F199: D25CQAT02-B | G199: An toàn thông tin
+C200: B25DCAT187 | D200: Nhữ Hải Đăng | E200: Nam | F200: D25CQAT03-B | G200: An toàn thông tin
+C201: B25DCAT188 | D201: Tạ Hồng Hải Đăng | E201: Nam | F201: D25CQAT04-B | G201: An toàn thông tin
+C202: B25DCAT190 | D202: Nguyễn Trọng Đạt | E202: Nam | F202: D25CTAT01-B | G202: An toàn thông tin
+C203: B25DCAT191 | D203: Phạm Minh Đạt | E203: Nam | F203: D25CQAT03-B | G203: An toàn thông tin
+C204: B25DCAT192 | D204: Phạm Thành Đạt | E204: Nam | F204: D25CQAT04-B | G204: An toàn thông tin
+C205: B25DCAT193 | D205: Phạm Tiến Đạt | E205: Nam | F205: D25CQAT01-B | G205: An toàn thông tin
+C206: B25DCAT194 | D206: Đỗ Tiến Đạt | E206: Nam | F206: D25CQAT02-B | G206: An toàn thông tin
+C207: B25DCAT195 | D207: Nguyễn Mạnh Đức | E207: Nam | F207: D25CQAT03-B | G207: An toàn thông tin
+C208: B25DCAT196 | D208: Nguyễn Như Đức | E208: Nam | F208: D25CQAT04-B | G208: An toàn thông tin
+C209: B25DCAT197 | D209: Nguyễn Trung Đức | E209: Nam | F209: D25CQAT01-B | G209: An toàn thông tin
+C210: B25DCAT198 | D210: Nguyễn Trí Đức | E210: Nam | F210: D25CTAT01-B | G210: An toàn thông tin
+C211: B25DCAT199 | D211: Phạm Minh Đức | E211: Nam | F211: D25CQAT03-B | G211: An toàn thông tin
+C212: B25DCAT200 | D212: Trương Minh Đức | E212: Nam | F212: D25CQAT04-B | G212: An toàn thông tin
+C213: B25DCAT201 | D213: Vũ Hữu Đức | E213: Nam | F213: D25CQAT01-B | G213: An toàn thông tin
+C214: B25DCCE216 | D214: Lê Minh Quân | E214: Nam | F214: D25CQCE06-B | G214: Công nghệ thông tin (chất lượng cao)
+C215: B25DCCN168 | D215: Phạm Quang Hiệp | E215: Nam | F215: D25CQCN03-B | G215: Công nghệ thông tin
+C216: B25DCCN557 | D216: Trần Quốc Việt | E216: Nam | F216: D25CQCN07-B | G216: Công nghệ thông tin
+C217: B25DCDK001 | D217: Nguyễn Khánh An | E217: Nam | F217: D25CQDK01-B | G217: Kỹ thuật Điều khiển và Tự động hoá
+C218: B25DCDK002 | D218: Bùi Đức Anh | E218: Nam | F218: D25CQDK02-B | G218: Kỹ thuật Điều khiển và Tự động hoá
+C219: B25DCDK003 | D219: Dương Tuấn Anh | E219: Nam | F219: D25CQDK01-B | G219: Kỹ thuật Điều khiển và Tự động hoá
+C220: B25DCDK004 | D220: Phan Việt Anh | E220: Nam | F220: D25CQDK02-B | G220: Kỹ thuật Điều khiển và Tự động hoá
+C221: B25DCDK005 | D221: Phạm Quang Anh | E221: Nam | F221: D25CTDK01-B | G221: Kỹ thuật Điều khiển và Tự động hoá
+C222: B25DCDK006 | D222: Thân Nhân Hải Anh | E222: Nam | F222: D25CTDK01-B | G222: Kỹ thuật Điều khiển và Tự động hoá
+C223: B25DCDK008 | D223: Vương Tuấn Anh | E223: Nam | F223: D25CQDK02-B | G223: Kỹ thuật Điều khiển và Tự động hoá
+C224: B25DCDK009 | D224: Đỗ Đức Anh | E224: Nam | F224: D25CQDK01-B | G224: Kỹ thuật Điều khiển và Tự động hoá
+C225: B25DCDK010 | D225: Nguyễn Điện Biên | E225: Nam | F225: D25CTDK01-B | G225: Kỹ thuật Điều khiển và Tự động hoá
+C226: B25DCDK011 | D226: Nguyễn Công Việt Bách | E226: Nam | F226: D25CQDK01-B | G226: Kỹ thuật Điều khiển và Tự động hoá
+C227: B25DCDK012 | D227: Lý Gia Bình | E227: Nam | F227: D25CQDK02-B | G227: Kỹ thuật Điều khiển và Tự động hoá
+C228: B25DCDK014 | D228: Dương Gia Bảo | E228: Nam | F228: D25CQDK02-B | G228: Kỹ thuật Điều khiển và Tự động hoá
+C229: B25DCDK015 | D229: Phạm Trần Quốc Bảo | E229: Nam | F229: D25CTDK01-B | G229: Kỹ thuật Điều khiển và Tự động hoá
+C230: B25DCDK016 | D230: Thịnh Văn Bằng | E230: Nam | F230: D25CTDK01-B | G230: Kỹ thuật Điều khiển và Tự động hoá
+C231: B25DCDK017 | D231: Dương Việt Cường | E231: Nam | F231: D25CTDK01-B | G231: Kỹ thuật Điều khiển và Tự động hoá
+C232: B25DCDK018 | D232: Nguyễn Tuấn Cường | E232: Nam | F232: D25CQDK02-B | G232: Kỹ thuật Điều khiển và Tự động hoá
+C233: B25DCDK019 | D233: Trần Hữu Cường | E233: Nam | F233: D25CQDK01-B | G233: Kỹ thuật Điều khiển và Tự động hoá
+C234: B25DCDK020 | D234: Trịnh Hùng Cường | E234: Nam | F234: D25CTDK01-B | G234: Kỹ thuật Điều khiển và Tự động hoá
+C235: B25DCDK021 | D235: Bùi Khánh Duy | E235: Nam | F235: D25CQDK01-B | G235: Kỹ thuật Điều khiển và Tự động hoá
+C236: B25DCDK022 | D236: Nguyễn Đức Duẩn | E236: Nam | F236: D25CQDK02-B | G236: Kỹ thuật Điều khiển và Tự động hoá
+C237: B25DCDK023 | D237: Nguyễn Tiến Dũng | E237: Nam | F237: D25CQDK01-B | G237: Kỹ thuật Điều khiển và Tự động hoá
+C238: B25DCDK024 | D238: Phạm Quang Dũng | E238: Nam | F238: D25CQDK02-B | G238: Kỹ thuật Điều khiển và Tự động hoá
+C239: B25DCDK025 | D239: Vũ Đinh Đức Dương | E239: Nam | F239: D25CTDK01-B | G239: Kỹ thuật Điều khiển và Tự động hoá
+C240: B25DCDK026 | D240: Mai Hoàng Giang | E240: Nam | F240: D25CTDK01-B | G240: Kỹ thuật Điều khiển và Tự động hoá
+C241: B25DCDK027 | D241: Hồ Minh Hiếu | E241: Nam | F241: D25CQDK01-B | G241: Kỹ thuật Điều khiển và Tự động hoá
+C242: B25DCDK028 | D242: Lại Xuân Hiếu | E242: Nam | F242: D25CQDK02-B | G242: Kỹ thuật Điều khiển và Tự động hoá
+C243: B25DCDK029 | D243: Nguyễn Minh Hiếu | E243: Nam | F243: D25CTDK01-B | G243: Kỹ thuật Điều khiển và Tự động hoá
+C244: B25DCDK030 | D244: Nguyễn Minh Hiếu | E244: Nam | F244: D25CQDK02-B | G244: Kỹ thuật Điều khiển và Tự động hoá
+C245: B25DCDK031 | D245: Nguyễn Minh Hiếu | E245: Nam | F245: D25CTDK01-B | G245: Kỹ thuật Điều khiển và Tự động hoá
+C246: B25DCDK032 | D246: Nguyễn Minh Hiếu | E246: Nam | F246: D25CQDK02-B | G246: Kỹ thuật Điều khiển và Tự động hoá
+C247: B25DCDK033 | D247: Trần Lê Hiếu | E247: Nam | F247: D25CQDK01-B | G247: Kỹ thuật Điều khiển và Tự động hoá
+C248: B25DCDK034 | D248: Đoàn Quang Hiếu | E248: Nam | F248: D25CQDK02-B | G248: Kỹ thuật Điều khiển và Tự động hoá
+C249: B25DCDK035 | D249: Trần Đức Hiệp | E249: Nam | F249: D25CQDK01-B | G249: Kỹ thuật Điều khiển và Tự động hoá
+C250: B25DCDK036 | D250: Nguyễn Công Hoan | E250: Nam | F250: D25CTDK01-B | G250: Kỹ thuật Điều khiển và Tự động hoá
+C251: B25DCDK037 | D251: Vũ Đức Hoàn | E251: Nam | F251: D25CTDK01-B | G251: Kỹ thuật Điều khiển và Tự động hoá
+C252: B25DCDK038 | D252: Phan Văn Hoàng | E252: Nam | F252: D25CQDK02-B | G252: Kỹ thuật Điều khiển và Tự động hoá
+C253: B25DCDK039 | D253: Vũ Đức Hoàng | E253: Nam | F253: D25CQDK01-B | G253: Kỹ thuật Điều khiển và Tự động hoá
+C254: B25DCDK040 | D254: Hoàng Gia Huy | E254: Nam | F254: D25CQDK02-B | G254: Kỹ thuật Điều khiển và Tự động hoá
+C255: B25DCDK041 | D255: Nguyễn Ngọc Huy | E255: Nam | F255: D25CQDK01-B | G255: Kỹ thuật Điều khiển và Tự động hoá
+C256: B25DCDK042 | D256: Nguyễn Nhất Huy | E256: Nam | F256: D25CQDK02-B | G256: Kỹ thuật Điều khiển và Tự động hoá
+C257: B25DCDK043 | D257: Nguyễn Quang Huy | E257: Nam | F257: D25CQDK01-B | G257: Kỹ thuật Điều khiển và Tự động hoá
+C258: B25DCDK044 | D258: Phạm Văn Huy | E258: Nam | F258: D25CQDK02-B | G258: Kỹ thuật Điều khiển và Tự động hoá
+C259: B25DCDK046 | D259: Lưu Duy Hòa | E259: Nam | F259: D25CQDK02-B | G259: Kỹ thuật Điều khiển và Tự động hoá
+C260: B25DCDK047 | D260: Lê Mạnh Hùng | E260: Nam | F260: D25CQDK01-B | G260: Kỹ thuật Điều khiển và Tự động hoá
+C261: B25DCDK048 | D261: Nguyễn Đức Hùng | E261: Nam | F261: D25CQDK02-B | G261: Kỹ thuật Điều khiển và Tự động hoá
+C262: B25DCDK049 | D262: Đặng Lâm Hùng | E262: Nam | F262: D25CTDK01-B | G262: Kỹ thuật Điều khiển và Tự động hoá
+C263: B25DCDK050 | D263: Hoàng Chính Hưng | E263: Nam | F263: D25CQDK02-B | G263: Kỹ thuật Điều khiển và Tự động hoá
+C264: B25DCDK051 | D264: Kiều Tuấn Hưng | E264: Nam | F264: D25CTDK01-B | G264: Kỹ thuật Điều khiển và Tự động hoá
+C265: B25DCDK052 | D265: Phạm Khánh Hưng | E265: Nam | F265: D25CQDK02-B | G265: Kỹ thuật Điều khiển và Tự động hoá
+C266: B25DCDK053 | D266: Tô Quốc Hưng | E266: Nam | F266: D25CTDK01-B | G266: Kỹ thuật Điều khiển và Tự động hoá
+C267: B25DCDK054 | D267: Trần Quốc Khánh | E267: Nam | F267: D25CQDK02-B | G267: Kỹ thuật Điều khiển và Tự động hoá
+C268: B25DCDK055 | D268: Tạ Hữu Nam Khánh | E268: Nam | F268: D25CTDK01-B | G268: Kỹ thuật Điều khiển và Tự động hoá
+C269: B25DCDK056 | D269: Nguyễn Minh Khôi | E269: Nam | F269: D25CTDK01-B | G269: Kỹ thuật Điều khiển và Tự động hoá
+C270: B25DCDK057 | D270: Trương Ngọc Khôi | E270: Nam | F270: D25CQDK01-B | G270: Kỹ thuật Điều khiển và Tự động hoá
+C271: B25DCDK058 | D271: Đoàn Hồng Khôi | E271: Nam | F271: D25CQDK02-B | G271: Kỹ thuật Điều khiển và Tự động hoá
+A272: Đại đội 9 | B272: Tầng 4,5 nhà TT1 các P.403 - 409 và P.509 | C272: B25DCDK059 | D272: Trần Chí Kiên | E272: Nam | F272: D25CTDK01-B | G272: Kỹ thuật Điều khiển và Tự động hoá
+C273: B25DCDK060 | D273: Nguyễn Thành Long | E273: Nam | F273: D25CQDK02-B | G273: Kỹ thuật Điều khiển và Tự động hoá
+C274: B25DCDK061 | D274: Nguyễn Thành Long | E274: Nam | F274: D25CQDK01-B | G274: Kỹ thuật Điều khiển và Tự động hoá
+C275: B25DCDK062 | D275: Trần Hải Long | E275: Nam | F275: D25CTDK01-B | G275: Kỹ thuật Điều khiển và Tự động hoá
+C276: B25DCDK063 | D276: Trần Nam Long | E276: Nam | F276: D25CQDK01-B | G276: Kỹ thuật Điều khiển và Tự động hoá
+C277: B25DCDK064 | D277: Phan Xuân Lương | E277: Nam | F277: D25CQDK02-B | G277: Kỹ thuật Điều khiển và Tự động hoá
+C278: B25DCDK065 | D278: Lê Văn Minh | E278: Nam | F278: D25CTDK01-B | G278: Kỹ thuật Điều khiển và Tự động hoá
+C279: B25DCDK066 | D279: Nguyễn Đức Minh | E279: Nam | F279: D25CQDK02-B | G279: Kỹ thuật Điều khiển và Tự động hoá
+C280: B25DCDK067 | D280: Phí Quang Minh | E280: Nam | F280: D25CQDK01-B | G280: Kỹ thuật Điều khiển và Tự động hoá
+C281: B25DCDK068 | D281: Phạm Nguyên Minh | E281: Nam | F281: D25CQDK02-B | G281: Kỹ thuật Điều khiển và Tự động hoá
+C282: B25DCDK069 | D282: Phạm Văn Minh | E282: Nam | F282: D25CQDK01-B | G282: Kỹ thuật Điều khiển và Tự động hoá
+C283: B25DCDK070 | D283: Phạm Nguyễn Phương Nam | E283: Nam | F283: D25CQDK02-B | G283: Kỹ thuật Điều khiển và Tự động hoá
+C284: B25DCDK071 | D284: Trần Xuân Nam | E284: Nam | F284: D25CQDK01-B | G284: Kỹ thuật Điều khiển và Tự động hoá
+C285: B25DCDK072 | D285: Nguyễn Văn Nghị | E285: Nam | F285: D25CQDK02-B | G285: Kỹ thuật Điều khiển và Tự động hoá
+C286: B25DCDK073 | D286: Trần Duy Ngọc | E286: Nam | F286: D25CQDK01-B | G286: Kỹ thuật Điều khiển và Tự động hoá
+C287: B25DCDK075 | D287: Trịnh Bá Thiện Nhân | E287: Nam | F287: D25CQDK01-B | G287: Kỹ thuật Điều khiển và Tự động hoá
+C288: B25DCDK076 | D288: Nguyễn Nam Phong | E288: Nam | F288: D25CTDK01-B | G288: Kỹ thuật Điều khiển và Tự động hoá
+C289: B25DCDK077 | D289: Trần Duy Phong | E289: Nam | F289: D25CQDK01-B | G289: Kỹ thuật Điều khiển và Tự động hoá
+C290: B25DCDK078 | D290: Nguyễn Bá Phú | E290: Nam | F290: D25CQDK02-B | G290: Kỹ thuật Điều khiển và Tự động hoá
+C291: B25DCDK079 | D291: Nguyễn Ngọc Phú | E291: Nam | F291: D25CQDK01-B | G291: Kỹ thuật Điều khiển và Tự động hoá
+C292: B25DCDK080 | D292: Lê Văn Phúc | E292: Nam | F292: D25CQDK02-B | G292: Kỹ thuật Điều khiển và Tự động hoá
+C293: B25DCDK081 | D293: Tống Văn Phương | E293: Nam | F293: D25CQDK01-B | G293: Kỹ thuật Điều khiển và Tự động hoá
+C294: B25DCDK083 | D294: Nghiêm Minh Quang | E294: Nam | F294: D25CQDK01-B | G294: Kỹ thuật Điều khiển và Tự động hoá
+C295: B25DCDK084 | D295: Trần Công Quốc | E295: Nam | F295: D25CTDK01-B | G295: Kỹ thuật Điều khiển và Tự động hoá
+C296: B25DCDK085 | D296: Vũ Tuấn Quỳnh | E296: Nam | F296: D25CQDK01-B | G296: Kỹ thuật Điều khiển và Tự động hoá
+C297: B25DCDK086 | D297: Nguyễn Hoàng Sâm | E297: Nam | F297: D25CQDK02-B | G297: Kỹ thuật Điều khiển và Tự động hoá
+C298: B25DCDK087 | D298: Hà Phúc Trường Sơn | E298: Nam | F298: D25CQDK01-B | G298: Kỹ thuật Điều khiển và Tự động hoá
+C299: B25DCDK088 | D299: Trần Thái Sơn | E299: Nam | F299: D25CQDK02-B | G299: Kỹ thuật Điều khiển và Tự động hoá
+C300: B25DCDK089 | D300: Lê Ngọc Sỹ | E300: Nam | F300: D25CQDK01-B | G300: Kỹ thuật Điều khiển và Tự động hoá
+C301: B25DCDK090 | D301: Nguyễn Phúc Thuận | E301: Nam | F301: D25CQDK02-B | G301: Kỹ thuật Điều khiển và Tự động hoá
+C302: B25DCDK091 | D302: Lê Công Thành | E302: Nam | F302: D25CQDK01-B | G302: Kỹ thuật Điều khiển và Tự động hoá
+C303: B25DCDK092 | D303: Mai Trung Thành | E303: Nam | F303: D25CQDK02-B | G303: Kỹ thuật Điều khiển và Tự động hoá
+C304: B25DCDK093 | D304: Phạm Văn Thắng | E304: Nam | F304: D25CQDK01-B | G304: Kỹ thuật Điều khiển và Tự động hoá
+C305: B25DCDK094 | D305: Đặng Hữu Thắng | E305: Nam | F305: D25CTDK01-B | G305: Kỹ thuật Điều khiển và Tự động hoá
+C306: B25DCDK095 | D306: Trần Minh Thịnh | E306: Nam | F306: D25CQDK01-B | G306: Kỹ thuật Điều khiển và Tự động hoá
+C307: B25DCDK096 | D307: Hồ Hữu Trường | E307: Nam | F307: D25CTDK01-B | G307: Kỹ thuật Điều khiển và Tự động hoá
+C308: B25DCDK097 | D308: Vũ Sơn Trường | E308: Nam | F308: D25CTDK01-B | G308: Kỹ thuật Điều khiển và Tự động hoá
+C309: B25DCDK098 | D309: Hoàng Đình Trọng | E309: Nam | F309: D25CTDK01-B | G309: Kỹ thuật Điều khiển và Tự động hoá
+C310: B25DCDK099 | D310: Nguyễn Văn Trọng | E310: Nam | F310: D25CQDK01-B | G310: Kỹ thuật Điều khiển và Tự động hoá
+C311: B25DCDK100 | D311: Đào Quang Tuyến | E311: Nam | F311: D25CQDK02-B | G311: Kỹ thuật Điều khiển và Tự động hoá
+C312: B25DCDK101 | D312: Nguyễn Hải Tuấn | E312: Nam | F312: D25CQDK01-B | G312: Kỹ thuật Điều khiển và Tự động hoá
+C313: B25DCDK102 | D313: Nguyễn Văn Tuấn | E313: Nam | F313: D25CQDK02-B | G313: Kỹ thuật Điều khiển và Tự động hoá
+C314: B25DCDK103 | D314: Nguyễn Mạnh Tùng | E314: Nam | F314: D25CQDK01-B | G314: Kỹ thuật Điều khiển và Tự động hoá
+C315: B25DCDK105 | D315: Phạm Anh Tú | E315: Nam | F315: D25CQDK01-B | G315: Kỹ thuật Điều khiển và Tự động hoá
+C316: B25DCDK106 | D316: Tô Quang Vinh | E316: Nam | F316: D25CQDK02-B | G316: Kỹ thuật Điều khiển và Tự động hoá
+C317: B25DCDK107 | D317: Nguyễn Xuân Việt | E317: Nam | F317: D25CTDK01-B | G317: Kỹ thuật Điều khiển và Tự động hoá
+C318: B25DCDK109 | D318: Phạm Bá Vương | E318: Nam | F318: D25CTDK01-B | G318: Kỹ thuật Điều khiển và Tự động hoá
+C319: B25DCDK110 | D319: Phạm Hồng Ân | E319: Nam | F319: D25CTDK01-B | G319: Kỹ thuật Điều khiển và Tự động hoá
+C320: B25DCDK111 | D320: Nguyễn Tự Hải Đăng | E320: Nam | F320: D25CQDK01-B | G320: Kỹ thuật Điều khiển và Tự động hoá
+C321: B25DCDK112 | D321: Phan Trọng Hải Đăng | E321: Nam | F321: D25CQDK02-B | G321: Kỹ thuật Điều khiển và Tự động hoá
+C322: B25DCDK113 | D322: Đặng Tiến Đạt | E322: Nam | F322: D25CQDK01-B | G322: Kỹ thuật Điều khiển và Tự động hoá
+C323: B25DCDK114 | D323: Nguyễn Văn Đức | E323: Nam | F323: D25CQDK02-B | G323: Kỹ thuật Điều khiển và Tự động hoá
+C324: B25DCDK115 | D324: Vũ Hoàng Anh Đức | E324: Nam | F324: D25CTDK01-B | G324: Kỹ thuật Điều khiển và Tự động hoá
+C325: B25DCDK116 | D325: Đinh Lệnh Tiến Đức | E325: Nam | F325: D25CTDK01-B | G325: Kỹ thuật Điều khiển và Tự động hoá
+C326: B25DCGA074 | D326: Hà Phi Hùng | E326: Nam | F326: D25CQGA02-B | G326: Thiết kế và Phát triển Game
+C327: B25DCKH001 | D327: Trần Thái An | E327: Nam | F327: D25CQKH01-B | G327: Khoa học máy tính
+C328: B25DCKH002 | D328: Dương Hoàng Tùng Anh | E328: Nam | F328: D25CQKH02-B | G328: Khoa học máy tính
+C329: B25DCKH003 | D329: Khổng Hoàng Anh | E329: Nam | F329: D25CQKH03-B | G329: Khoa học máy tính
+C330: B25DCKH005 | D330: Nguyễn Đăng Phúc Anh | E330: Nam | F330: D25CQKH02-B | G330: Khoa học máy tính
+C331: B25DCKH006 | D331: Trần Đức Anh | E331: Nam | F331: D25CQKH03-B | G331: Khoa học máy tính
+C332: B25DCKH007 | D332: Trần Đức Anh | E332: Nam | F332: D25CTKH01-B | G332: Khoa học máy tính
+C333: B25DCKH008 | D333: Trần Đức Anh | E333: Nam | F333: D25CQKH02-B | G333: Khoa học máy tính
+C334: B25DCKH009 | D334: Vũ Phan Hoàng Anh | E334: Nam | F334: D25CQKH03-B | G334: Khoa học máy tính
+C335: B25DCKH010 | D335: Vương Đức Anh | E335: Nam | F335: D25CTKH01-B | G335: Khoa học máy tính
+C336: B25DCKH011 | D336: Mai Văn Bách | E336: Nam | F336: D25CQKH02-B | G336: Khoa học máy tính
+C337: B25DCKH012 | D337: Nguyễn Việt Bách | E337: Nam | F337: D25CQKH03-B | G337: Khoa học máy tính
+C338: B25DCKH013 | D338: Nguyễn Xuân Bách | E338: Nam | F338: D25CQKH01-B | G338: Khoa học máy tính
+C339: B25DCKH014 | D339: Phùng Gia Bách | E339: Nam | F339: D25CTKH01-B | G339: Khoa học máy tính
+C340: B25DCKH015 | D340: Hoàng Thanh Bình | E340: Nam | F340: D25CTKH01-B | G340: Khoa học máy tính
+C341: B25DCKH016 | D341: Trương Công Bính | E341: Nam | F341: D25CQKH01-B | G341: Khoa học máy tính
+C342: B25DCKH017 | D342: Hoàng Gia Bảo | E342: Nam | F342: D25CQKH02-B | G342: Khoa học máy tính
+C343: B25DCKH018 | D343: Phan Thái Bảo | E343: Nam | F343: D25CQKH03-B | G343: Khoa học máy tính
+C344: B25DCKH019 | D344: Nguyễn Văn Công | E344: Nam | F344: D25CTKH01-B | G344: Khoa học máy tính
+C345: B25DCKH020 | D345: Bùi Việt Cường | E345: Nam | F345: D25CQKH02-B | G345: Khoa học máy tính
+C346: B25DCKH021 | D346: Nguyễn Quốc Cường | E346: Nam | F346: D25CQKH03-B | G346: Khoa học máy tính
+C347: B25DCKH024 | D347: Hoàng Đức Duy | E347: Nam | F347: D25CQKH03-B | G347: Khoa học máy tính
+C348: B25DCKH025 | D348: Trần Nguyễn Tấn Dũng | E348: Nam | F348: D25CTKH01-B | G348: Khoa học máy tính
+C349: B25DCKH026 | D349: Đoàn Anh Dũng | E349: Nam | F349: D25CQKH02-B | G349: Khoa học máy tính
+C350: B25DCKH027 | D350: Tạ Hữu Dương | E350: Nam | F350: D25CTKH01-B | G350: Khoa học máy tính
+C351: B25DCKH028 | D351: Zemek Filip | E351: Nam | F351: D25CQKH01-B | G351: Khoa học máy tính
+C352: B25DCKH030 | D352: Phạm Trường Giang | E352: Nam | F352: D25CQKH03-B | G352: Khoa học máy tính
+C353: B25DCKH032 | D353: Lê Hữu Hiếu | E353: Nam | F353: D25CTKH01-B | G353: Khoa học máy tính
+C354: B25DCKH033 | D354: Mai Trung Hiếu | E354: Nam | F354: D25CQKH03-B | G354: Khoa học máy tính
+C355: B25DCKH034 | D355: Trần Trung Hiếu | E355: Nam | F355: D25CQKH01-B | G355: Khoa học máy tính
+C356: B25DCKH036 | D356: Lê Minh Hiển | E356: Nam | F356: D25CQKH03-B | G356: Khoa học máy tính
+C357: B25DCKH037 | D357: Nguyễn Lê Hoà | E357: Nam | F357: D25CQKH01-B | G357: Khoa học máy tính
+C358: B25DCKH038 | D358: Lương Nguyễn Duy Hoàng | E358: Nam | F358: D25CTKH01-B | G358: Khoa học máy tính
+C359: B25DCKH039 | D359: Nguyễn Minh Hoàng | E359: Nam | F359: D25CQKH03-B | G359: Khoa học máy tính
+C360: B25DCKH041 | D360: Đỗ Việt Hoàng | E360: Nam | F360: D25CTKH01-B | G360: Khoa học máy tính
+C361: B25DCKH042 | D361: Hoàng Anh Huy | E361: Nam | F361: D25CQKH03-B | G361: Khoa học máy tính
+C362: B25DCKH043 | D362: Lê Duy Huy | E362: Nam | F362: D25CQKH01-B | G362: Khoa học máy tính
+C363: B25DCKH044 | D363: Nguyễn Gia Huy | E363: Nam | F363: D25CQKH02-B | G363: Khoa học máy tính
+C364: B25DCKH045 | D364: Nguyễn Quốc Huy | E364: Nam | F364: D25CTKH01-B | G364: Khoa học máy tính
+C365: B25DCKH048 | D365: Lương Nguyễn Hùng | E365: Nam | F365: D25CQKH03-B | G365: Khoa học máy tính
+C366: B25DCKH049 | D366: Phạm Văn Hùng | E366: Nam | F366: D25CQKH01-B | G366: Khoa học máy tính
+C367: B25DCKH050 | D367: Dương Kim Hưng | E367: Nam | F367: D25CTKH01-B | G367: Khoa học máy tính
+C368: B25DCKH051 | D368: Lê Nguyễn Minh Hưng | E368: Nam | F368: D25CQKH03-B | G368: Khoa học máy tính
+C369: B25DCKH052 | D369: Nguyễn Tuấn Hưng | E369: Nam | F369: D25CQKH01-B | G369: Khoa học máy tính
+C370: B25DCKH053 | D370: Nguyễn Vũ Hải | E370: Nam | F370: D25CQKH02-B | G370: Khoa học máy tính
+C371: B25DCKH055 | D371: Vừ Minh Khang | E371: Nam | F371: D25CQKH01-B | G371: Khoa học máy tính
+C372: B25DCKH056 | D372: Bùi Ngọc Khiêm | E372: Nam | F372: D25CQKH02-B | G372: Khoa học máy tính
+C373: B25DCKH057 | D373: Bùi Quốc Khánh | E373: Nam | F373: D25CQKH03-B | G373: Khoa học máy tính
+C374: B25DCKH058 | D374: Hoàng Nam Khánh | E374: Nam | F374: D25CQKH01-B | G374: Khoa học máy tính
+C375: B25DCKH059 | D375: Hồ Mậu Nam Khánh | E375: Nam | F375: D25CQKH02-B | G375: Khoa học máy tính
+C376: B25DCKH060 | D376: Nguyễn Sỹ Khánh | E376: Nam | F376: D25CQKH03-B | G376: Khoa học máy tính
+C377: B25DCKH061 | D377: Nguyễn Trọng Khánh | E377: Nam | F377: D25CQKH01-B | G377: Khoa học máy tính
+C378: B25DCKH062 | D378: Trần Huy Khánh | E378: Nam | F378: D25CTKH01-B | G378: Khoa học máy tính
+C379: B25DCKH063 | D379: Trần Lê Nam Khánh | E379: Nam | F379: D25CTKH01-B | G379: Khoa học máy tính
+C380: B25DCKH064 | D380: Trần Phúc Khánh | E380: Nam | F380: D25CQKH01-B | G380: Khoa học máy tính
+C381: B25DCKH065 | D381: Nguyễn Quang Khải | E381: Nam | F381: D25CQKH02-B | G381: Khoa học máy tính
+C382: B25DCKH068 | D382: Nguyễn Tùng Kiên | E382: Nam | F382: D25CQKH02-B | G382: Khoa học máy tính
+C383: B25DCKH069 | D383: Nguyễn Anh Kiệt | E383: Nam | F383: D25CQKH03-B | G383: Khoa học máy tính
+C384: B25DCKH070 | D384: Cao Hải Linh | E384: Nam | F384: D25CQKH01-B | G384: Khoa học máy tính
+C385: B25DCKH072 | D385: Hà Hoàng Long | E385: Nam | F385: D25CTKH01-B | G385: Khoa học máy tính
+C386: B25DCKH073 | D386: Hà Nguyễn Minh Long | E386: Nam | F386: D25CTKH01-B | G386: Khoa học máy tính
+C387: B25DCKH074 | D387: Trần Đức Long | E387: Nam | F387: D25CQKH02-B | G387: Khoa học máy tính
+C388: B25DCKH075 | D388: Đỗ Hồng Lâm | E388: Nam | F388: D25CQKH03-B | G388: Khoa học máy tính
+C389: B25DCKH076 | D389: Nguyễn Tấn Lộc | E389: Nam | F389: D25CQKH01-B | G389: Khoa học máy tính
+C390: B25DCKH077 | D390: Cao Hoàng Nhật Minh | E390: Nam | F390: D25CQKH02-B | G390: Khoa học máy tính
+C391: B25DCKH078 | D391: Hoàng Hữu Minh | E391: Nam | F391: D25CQKH03-B | G391: Khoa học máy tính
+C392: B25DCKH079 | D392: Hoàng Tuấn Minh | E392: Nam | F392: D25CQKH01-B | G392: Khoa học máy tính
+C393: B25DCKH080 | D393: Lê Tuấn Minh | E393: Nam | F393: D25CQKH02-B | G393: Khoa học máy tính
+C394: B25DCKH081 | D394: Nghiêm Đức Minh | E394: Nam | F394: D25CQKH03-B | G394: Khoa học máy tính
+C395: B25DCKH082 | D395: Nguyễn Quang Minh | E395: Nam | F395: D25CQKH01-B | G395: Khoa học máy tính
+C396: B25DCKH083 | D396: Nguyễn Quang Minh | E396: Nam | F396: D25CQKH02-B | G396: Khoa học máy tính
+C397: B25DCKH085 | D397: Phạm Đức Minh | E397: Nam | F397: D25CQKH01-B | G397: Khoa học máy tính
+C398: B25DCKH087 | D398: Nguyễn Đức Mạnh | E398: Nam | F398: D25CTKH01-B | G398: Khoa học máy tính
+C399: B25DCKH088 | D399: Trần Quốc Mạnh | E399: Nam | F399: D25CTKH01-B | G399: Khoa học máy tính
+C400: B25DCKH090 | D400: Nguyễn Thành Nam | E400: Nam | F400: D25CTKH01-B | G400: Khoa học máy tính
+C401: B25DCKH091 | D401: Trịnh Hoàng Nam | E401: Nam | F401: D25CQKH01-B | G401: Khoa học máy tính
+C402: B25DCKH092 | D402: Nguyễn Minh Nghĩa | E402: Nam | F402: D25CQKH02-B | G402: Khoa học máy tính
+C403: B25DCKH093 | D403: Nguyễn Trí Nghĩa | E403: Nam | F403: D25CQKH03-B | G403: Khoa học máy tính
+C404: B25DCKH096 | D404: Lê Thiện Nhân | E404: Nam | F404: D25CQKH03-B | G404: Khoa học máy tính
+C405: B25DCKH097 | D405: Trần Hữu Nhân | E405: Nam | F405: D25CQKH01-B | G405: Khoa học máy tính
+C406: B25DCKH098 | D406: Lưu Văn Nhật | E406: Nam | F406: D25CTKH01-B | G406: Khoa học máy tính
+C407: B25DCKH099 | D407: Nguyễn Ngọc Phong | E407: Nam | F407: D25CQKH03-B | G407: Khoa học máy tính
+C408: B25DCKH100 | D408: Phạm Đức Phát | E408: Nam | F408: D25CQKH01-B | G408: Khoa học máy tính
+C409: B25DCKH101 | D409: Nguyễn Hồng Phúc | E409: Nam | F409: D25CTKH01-B | G409: Khoa học máy tính
+C410: B25DCKH102 | D410: Nguyễn Vinh Phúc | E410: Nam | F410: D25CQKH03-B | G410: Khoa học máy tính
+C411: B25DCKH104 | D411: Trần Lý Quân | E411: Nam | F411: D25CTKH01-B | G411: Khoa học máy tính
+C412: B25DCKH105 | D412: Đỗ Minh Quân | E412: Nam | F412: D25CQKH03-B | G412: Khoa học máy tính
+C413: B25DCKH107 | D413: Cao Nam Vĩnh San | E413: Nam | F413: D25CTKH01-B | G413: Khoa học máy tính
+C414: B25DCKH108 | D414: Lê Trần Trường Sơn | E414: Nam | F414: D25CQKH03-B | G414: Khoa học máy tính
+C415: B25DCKH109 | D415: Nguyễn Tăng Kỳ Sơn | E415: Nam | F415: D25CQKH01-B | G415: Khoa học máy tính
+C416: B25DCKH110 | D416: Nguyễn Văn Sỹ | E416: Nam | F416: D25CQKH02-B | G416: Khoa học máy tính
+C417: B25DCKH111 | D417: Hoàng Đàm Thiên | E417: Nam | F417: D25CTKH01-B | G417: Khoa học máy tính
+C418: B25DCKH112 | D418: Bùi Quang Thành | E418: Nam | F418: D25CQKH01-B | G418: Khoa học máy tính
+C419: B25DCKH113 | D419: Nguyễn Kim Thành | E419: Nam | F419: D25CTKH01-B | G419: Khoa học máy tính
+C420: B25DCKH114 | D420: Nguyễn Văn Thành | E420: Nam | F420: D25CQKH03-B | G420: Khoa học máy tính
+C421: B25DCKH115 | D421: Vũ Tất Thành | E421: Nam | F421: D25CQKH01-B | G421: Khoa học máy tính
+C422: B25DCKH119 | D422: Phạm Văn Thắng | E422: Nam | F422: D25CQKH02-B | G422: Khoa học máy tính
+C423: B25DCKH120 | D423: Bùi Quang Toàn | E423: Nam | F423: D25CQKH03-B | G423: Khoa học máy tính
+C424: B25DCKH121 | D424: Mai Quốc Toàn | E424: Nam | F424: D25CQKH01-B | G424: Khoa học máy tính
+C425: B25DCKH123 | D425: Phạm Quang Trung | E425: Nam | F425: D25CQKH03-B | G425: Khoa học máy tính
+A426: Đại đội 10 | B426: Tầng 5 nhà TT1 các P.501 - 508 | C426: B25DCKH125 | D426: Đàm Đức Trung | F426: D25CTKH01-B | G426: Khoa học máy tính
+C427: B25DCKH127 | D427: Trần Tiến Tuân | F427: D25CQKH01-B | G427: Khoa học máy tính
+C428: B25DCKH128 | D428: Phạm Anh Tuấn | F428: D25CQKH02-B | G428: Khoa học máy tính
+C429: B25DCKH129 | D429: Đàm Khắc Tuấn | F429: D25CQKH03-B | G429: Khoa học máy tính
+C430: B25DCKH131 | D430: Hoàng Tùng | F430: D25CQKH02-B | G430: Khoa học máy tính
+C431: B25DCKH132 | D431: Nguyễn Hoàng Tùng | F431: D25CQKH03-B | G431: Khoa học máy tính
+C432: B25DCKH133 | D432: Đinh Ngọc Anh Tú | F432: D25CTKH01-B | G432: Khoa học máy tính
+C433: B25DCKH134 | D433: Lê Vĩnh Tường | F433: D25CQKH02-B | G433: Khoa học máy tính
+C434: B25DCKH135 | D434: Huỳnh Quang Vinh | F434: D25CQKH03-B | G434: Khoa học máy tính
+C435: B25DCKH136 | D435: Đặng Nguyễn Quang Vinh | F435: D25CQKH01-B | G435: Khoa học máy tính
+C436: B25DCKH137 | D436: Lê Hoàng Tuấn Việt | F436: D25CQKH02-B | G436: Khoa học máy tính
+C437: B25DCKH140 | D437: Hồ Sỹ Đan | F437: D25CQKH02-B | G437: Khoa học máy tính
+C438: B25DCKH141 | D438: Nguyễn Minh Đăng | F438: D25CQKH03-B | G438: Khoa học máy tính
+C439: B25DCKH142 | D439: Lê Đình Đạt | F439: D25CTKH01-B | G439: Khoa học máy tính
+C440: B25DCKH143 | D440: Nguyễn Tiến Đạt | F440: D25CTKH01-B | G440: Khoa học máy tính
+C441: B25DCKH144 | D441: Trần Bảo Đạt | F441: D25CQKH03-B | G441: Khoa học máy tính
+C442: B25DCKH145 | D442: Đoàn Đức Đạt | F442: D25CQKH01-B | G442: Khoa học máy tính
+C443: B25DCKH146 | D443: Đặng Tuấn Đạt | F443: D25CQKH02-B | G443: Khoa học máy tính
+C444: B25DCKH147 | D444: Hoàng Mạnh Đức | F444: D25CTKH01-B | G444: Khoa học máy tính
+C445: B25DCKH148 | D445: Nguyễn Minh Đức | F445: D25CQKH01-B | G445: Khoa học máy tính
+C446: B25DCKH149 | D446: Nguyễn Văn Đức | F446: D25CQKH02-B | G446: Khoa học máy tính
+C447: B25DCKH150 | D447: Phan Sỹ Anh Đức | F447: D25CQKH03-B | G447: Khoa học máy tính
+C448: B25DCKH151 | D448: Trần Ngọc Đức | F448: D25CQKH01-B | G448: Khoa học máy tính
+C449: B25DCVM001 | D449: Lê Duy Anh | F449: D25CQVM01-B | G449: Công nghệ Vi mạch bán dẫn
+C450: B25DCVM002 | D450: Nghiêm Tuấn Anh | F450: D25CQVM02-B | G450: Công nghệ Vi mạch bán dẫn
+C451: B25DCVM003 | D451: Nguyễn Duy Anh | F451: D25CQVM03-B | G451: Công nghệ Vi mạch bán dẫn
+C452: B25DCVM004 | D452: Nguyễn Ngọc Anh | F452: D25CQVM01-B | G452: Công nghệ Vi mạch bán dẫn
+C453: B25DCVM005 | D453: Phạm Tuấn Anh | F453: D25CTVM01-B | G453: Công nghệ Vi mạch bán dẫn
+C454: B25DCVM006 | D454: Phạm Việt Anh | F454: D25CTVM01-B | G454: Công nghệ Vi mạch bán dẫn
+C455: B25DCVM007 | D455: Trần Thế Anh | F455: D25CTVM01-B | G455: Công nghệ Vi mạch bán dẫn
+C456: B25DCVM008 | D456: Vi Việt Anh | F456: D25CQVM02-B | G456: Công nghệ Vi mạch bán dẫn
+C457: B25DCVM009 | D457: Vũ Tuấn Anh | F457: D25CQVM03-B | G457: Công nghệ Vi mạch bán dẫn
+C458: B25DCVM010 | D458: Vũ Đức Anh | F458: D25CQVM01-B | G458: Công nghệ Vi mạch bán dẫn
+C459: B25DCVM011 | D459: Đỗ Việt Anh | F459: D25CQVM02-B | G459: Công nghệ Vi mạch bán dẫn
+C460: B25DCVM012 | D460: Đỗ Văn Biên | F460: D25CQVM03-B | G460: Công nghệ Vi mạch bán dẫn
+C461: B25DCVM013 | D461: Ngô Phạm Ngọc Bách | F461: D25CTVM01-B | G461: Công nghệ Vi mạch bán dẫn
+C462: B25DCVM014 | D462: Mai Thanh Bình | F462: D25CQVM02-B | G462: Công nghệ Vi mạch bán dẫn
+C463: B25DCVM015 | D463: Phan Gia Bình | F463: D25CQVM03-B | G463: Công nghệ Vi mạch bán dẫn
+C464: B25DCVM016 | D464: Vũ Nam Bình | F464: D25CQVM01-B | G464: Công nghệ Vi mạch bán dẫn
+C465: B25DCVM017 | D465: Đỗ Khắc Gia Bảo | F465: D25CQVM02-B | G465: Công nghệ Vi mạch bán dẫn
+C466: B25DCVM018 | D466: Vũ Minh Chiến | F466: D25CQVM03-B | G466: Công nghệ Vi mạch bán dẫn
+C467: B25DCVM019 | D467: Lê Xuân Công | F467: D25CQVM01-B | G467: Công nghệ Vi mạch bán dẫn
+C468: B25DCVM020 | D468: Hà Xuân Cường | F468: D25CQVM02-B | G468: Công nghệ Vi mạch bán dẫn
+C469: B25DCVM021 | D469: Nguyễn Quang Cường | F469: D25CQVM03-B | G469: Công nghệ Vi mạch bán dẫn
+C470: B25DCVM022 | D470: Trần Công Diên | F470: D25CTVM01-B | G470: Công nghệ Vi mạch bán dẫn
+C471: B25DCVM023 | D471: Lê Anh Duy | F471: D25CQVM02-B | G471: Công nghệ Vi mạch bán dẫn
+C472: B25DCVM024 | D472: Lê Văn Duy | F472: D25CQVM03-B | G472: Công nghệ Vi mạch bán dẫn
+C473: B25DCVM025 | D473: Nguyễn Khánh Duy | F473: D25CQVM01-B | G473: Công nghệ Vi mạch bán dẫn
+C474: B25DCVM026 | D474: Phạm Tiến Dũng | F474: D25CQVM02-B | G474: Công nghệ Vi mạch bán dẫn
+C475: B25DCVM027 | D475: Phạm Tiến Dũng | F475: D25CTVM01-B | G475: Công nghệ Vi mạch bán dẫn
+C476: B25DCVM028 | D476: Hồ An Dương | F476: D25CQVM01-B | G476: Công nghệ Vi mạch bán dẫn
+C477: B25DCVM029 | D477: Chu Văn Hiếu | F477: D25CQVM02-B | G477: Công nghệ Vi mạch bán dẫn
+C478: B25DCVM031 | D478: Nguyễn Minh Hiếu | F478: D25CQVM01-B | G478: Công nghệ Vi mạch bán dẫn
+C479: B25DCVM032 | D479: Nguyễn Đăng Hiệp | F479: D25CQVM02-B | G479: Công nghệ Vi mạch bán dẫn
+C480: B25DCVM033 | D480: Vũ Đức Hiệu | F480: D25CTVM01-B | G480: Công nghệ Vi mạch bán dẫn
+C481: B25DCVM034 | D481: Lê Nguyễn Vũ Hoàn | F481: D25CTVM01-B | G481: Công nghệ Vi mạch bán dẫn
+C482: B25DCVM035 | D482: Hà Minh Hoàng | F482: D25CQVM02-B | G482: Công nghệ Vi mạch bán dẫn
+C483: B25DCVM036 | D483: Nguyễn Thế Hoàng | F483: D25CTVM01-B | G483: Công nghệ Vi mạch bán dẫn
+C484: B25DCVM037 | D484: Trần Huy Hoàng | F484: D25CQVM01-B | G484: Công nghệ Vi mạch bán dẫn
+C485: B25DCVM038 | D485: Hà Quang Huy | F485: D25CTVM01-B | G485: Công nghệ Vi mạch bán dẫn
+C486: B25DCVM039 | D486: Lê Hữu Huy | F486: D25CTVM01-B | G486: Công nghệ Vi mạch bán dẫn
+C487: B25DCVM040 | D487: Lưu Quang Huy | F487: D25CQVM01-B | G487: Công nghệ Vi mạch bán dẫn
+C488: B25DCVM043 | D488: Nguyễn Hữu Gia Huy | F488: D25CQVM01-B | G488: Công nghệ Vi mạch bán dẫn
+C489: B25DCVM044 | D489: Nguyễn Quang Huy | F489: D25CTVM01-B | G489: Công nghệ Vi mạch bán dẫn
+C490: B25DCVM045 | D490: Phạm Xuân Huy | F490: D25CQVM03-B | G490: Công nghệ Vi mạch bán dẫn
+C491: B25DCVM046 | D491: Trần Gia Huy | F491: D25CQVM01-B | G491: Công nghệ Vi mạch bán dẫn
+C492: B25DCVM047 | D492: Đinh Gia Huy | F492: D25CQVM02-B | G492: Công nghệ Vi mạch bán dẫn
+C493: B25DCVM048 | D493: Nguyễn Hoàng Hà | F493: D25CQVM03-B | G493: Công nghệ Vi mạch bán dẫn
+C494: B25DCVM049 | D494: Bùi Mạnh Hùng | F494: D25CQVM01-B | G494: Công nghệ Vi mạch bán dẫn
+C495: B25DCVM050 | D495: Phan Đức Hùng | F495: D25CQVM02-B | G495: Công nghệ Vi mạch bán dẫn
+C496: B25DCVM051 | D496: Cao Thái Hưng | F496: D25CQVM03-B | G496: Công nghệ Vi mạch bán dẫn
+C497: B25DCVM052 | D497: Nguyễn Phúc Hưng | F497: D25CQVM01-B | G497: Công nghệ Vi mạch bán dẫn
+C498: B25DCVM053 | D498: Phạm Gia Hưng | F498: D25CQVM02-B | G498: Công nghệ Vi mạch bán dẫn
+C499: B25DCVM055 | D499: Trương Quang Hải | F499: D25CQVM01-B | G499: Công nghệ Vi mạch bán dẫn
+C500: B25DCVM056 | D500: Trương Thanh Hải | F500: D25CQVM02-B | G500: Công nghệ Vi mạch bán dẫn
+C501: B25DCVM057 | D501: Nguyễn Chí Hợp | F501: D25CQVM03-B | G501: Công nghệ Vi mạch bán dẫn
+C502: B25DCVM058 | D502: Bùi Công Khanh | F502: D25CQVM01-B | G502: Công nghệ Vi mạch bán dẫn
+C503: B25DCVM060 | D503: Lê Nguyên Khôi | F503: D25CTVM01-B | G503: Công nghệ Vi mạch bán dẫn
+C504: B25DCVM061 | D504: Phan Tấn Khởi | F504: D25CQVM01-B | G504: Công nghệ Vi mạch bán dẫn
+C505: B25DCVM062 | D505: Tống Trung Kiên | F505: D25CQVM02-B | G505: Công nghệ Vi mạch bán dẫn
+C506: B25DCVM063 | D506: Đinh Minh Kiên | F506: D25CQVM03-B | G506: Công nghệ Vi mạch bán dẫn
+C507: B25DCVM064 | D507: Phạm Tuấn Kiệt | F507: D25CTVM01-B | G507: Công nghệ Vi mạch bán dẫn
+C508: B25DCVM065 | D508: Trần Tuấn Kiệt | F508: D25CQVM02-B | G508: Công nghệ Vi mạch bán dẫn
+C509: B25DCVM066 | D509: Nguyễn Đức Liêm | F509: D25CQVM03-B | G509: Công nghệ Vi mạch bán dẫn
+C510: B25DCVM067 | D510: Trần Nhất Long | F510: D25CTVM01-B | G510: Công nghệ Vi mạch bán dẫn
+C511: B25DCVM068 | D511: Vũ Lệnh Hải Long | F511: D25CTVM01-B | G511: Công nghệ Vi mạch bán dẫn
+C512: B25DCVM069 | D512: Lê Vũ Tùng Lâm | F512: D25CQVM03-B | G512: Công nghệ Vi mạch bán dẫn
+C513: B25DCVM070 | D513: Tào Nguyễn Hoàng Lâm | F513: D25CQVM01-B | G513: Công nghệ Vi mạch bán dẫn
+C514: B25DCVM071 | D514: Đặng Thượng Lưu | F514: D25CQVM02-B | G514: Công nghệ Vi mạch bán dẫn
+C515: B25DCVM072 | D515: Nguyễn Văn Lợi | F515: D25CTVM01-B | G515: Công nghệ Vi mạch bán dẫn
+C516: B25DCVM073 | D516: Bùi Quang Minh | F516: D25CTVM01-B | G516: Công nghệ Vi mạch bán dẫn
+C517: B25DCVM076 | D517: Kiều Quang Minh | F517: D25CQVM01-B | G517: Công nghệ Vi mạch bán dẫn
+C518: B25DCVM077 | D518: Nguyễn Bình Minh | F518: D25CQVM02-B | G518: Công nghệ Vi mạch bán dẫn
+C519: B25DCVM078 | D519: Nguyễn Công Minh | F519: D25CQVM03-B | G519: Công nghệ Vi mạch bán dẫn
+C520: B25DCVM079 | D520: Lê Tuấn Nam | F520: D25CQVM01-B | G520: Công nghệ Vi mạch bán dẫn
+C521: B25DCVM080 | D521: Nguyễn Lê Hoài Nam | F521: D25CQVM02-B | G521: Công nghệ Vi mạch bán dẫn
+C522: B25DCVM081 | D522: Nguyễn Đại Nam | F522: D25CQVM03-B | G522: Công nghệ Vi mạch bán dẫn
+C523: B25DCVM082 | D523: Cao Văn Đại Nghĩa | F523: D25CQVM01-B | G523: Công nghệ Vi mạch bán dẫn
+C524: B25DCVM083 | D524: Trương Tuấn Nghĩa | F524: D25CQVM02-B | G524: Công nghệ Vi mạch bán dẫn
+C525: B25DCVM084 | D525: Lê Khôi Nguyên | F525: D25CQVM03-B | G525: Công nghệ Vi mạch bán dẫn
+C526: B25DCVM085 | D526: Nguyễn Duy Hoàng Nguyên | F526: D25CQVM01-B | G526: Công nghệ Vi mạch bán dẫn
+C527: B25DCVM086 | D527: Phan Bảo Nguyên | F527: D25CQVM02-B | G527: Công nghệ Vi mạch bán dẫn
+C528: B25DCVM087 | D528: Trần Hoàng Nguyên | F528: D25CQVM03-B | G528: Công nghệ Vi mạch bán dẫn
+C529: B25DCVM088 | D529: Nguyễn Quý Phong | F529: D25CQVM01-B | G529: Công nghệ Vi mạch bán dẫn
+C530: B25DCVM089 | D530: Hoàng Kim Đại Phúc | F530: D25CQVM02-B | G530: Công nghệ Vi mạch bán dẫn
+C531: B25DCVM090 | D531: Nguyễn Huy Phúc | F531: D25CTVM01-B | G531: Công nghệ Vi mạch bán dẫn
+C532: B25DCVM091 | D532: Nguyễn Hữu Phúc | F532: D25CQVM01-B | G532: Công nghệ Vi mạch bán dẫn
+C533: B25DCVM092 | D533: Nguyễn Quang Thiên Phúc | F533: D25CQVM02-B | G533: Công nghệ Vi mạch bán dẫn
+C534: B25DCVM093 | D534: Nguyễn Văn Phúc | F534: D25CQVM03-B | G534: Công nghệ Vi mạch bán dẫn
+C535: B25DCVM094 | D535: Vũ Hoàng Phúc | F535: D25CQVM01-B | G535: Công nghệ Vi mạch bán dẫn
+C536: B25DCVM095 | D536: Nguyễn Việt Phương | F536: D25CTVM01-B | G536: Công nghệ Vi mạch bán dẫn
+C537: B25DCVM096 | D537: Bùi Thanh Quang | F537: D25CQVM03-B | G537: Công nghệ Vi mạch bán dẫn
+C538: B25DCVM097 | D538: Nguyễn Minh Quang | F538: D25CTVM01-B | G538: Công nghệ Vi mạch bán dẫn
+C539: B25DCVM098 | D539: Phạm Minh Quang | F539: D25CQVM02-B | G539: Công nghệ Vi mạch bán dẫn
+C540: B25DCVM099 | D540: Trần Tất Quang | F540: D25CTVM01-B | G540: Công nghệ Vi mạch bán dẫn
+C541: B25DCVM100 | D541: Hoàng Nghĩa Minh Quân | F541: D25CTVM01-B | G541: Công nghệ Vi mạch bán dẫn
+C542: B25DCVM101 | D542: Lưu Mạnh Quân | F542: D25CQVM02-B | G542: Công nghệ Vi mạch bán dẫn
+C543: B25DCVM103 | D543: Nguyễn Minh Quân | F543: D25CQVM01-B | G543: Công nghệ Vi mạch bán dẫn
+C544: B25DCVM104 | D544: Lê Minh Sáng | F544: D25CQVM02-B | G544: Công nghệ Vi mạch bán dẫn
+C545: B25DCVM105 | D545: Nguyễn Hoàng Sơn | F545: D25CTVM01-B | G545: Công nghệ Vi mạch bán dẫn
+C546: B25DCVM106 | D546: Nguyễn Ngọc Sơn | F546: D25CQVM01-B | G546: Công nghệ Vi mạch bán dẫn
+C547: B25DCVM107 | D547: Nguyễn Tuấn Sơn | F547: D25CTVM01-B | G547: Công nghệ Vi mạch bán dẫn
+C548: B25DCVM108 | D548: Lê Mạc Đăng Tao | F548: D25CTVM01-B | G548: Công nghệ Vi mạch bán dẫn
+C549: B25DCVM109 | D549: Phùng Quang Thanh | F549: D25CQVM01-B | G549: Công nghệ Vi mạch bán dẫn
+C550: B25DCVM110 | D550: Nguyễn Công Thuận | F550: D25CQVM02-B | G550: Công nghệ Vi mạch bán dẫn
+C551: B25DCVM111 | D551: Nguyễn Tiến Thành | F551: D25CQVM03-B | G551: Công nghệ Vi mạch bán dẫn
+C552: B25DCVM112 | D552: Phạm Tiến Thành | F552: D25CQVM01-B | G552: Công nghệ Vi mạch bán dẫn
+C553: B25DCVM113 | D553: Trần Trung Thành | F553: D25CTVM01-B | G553: Công nghệ Vi mạch bán dẫn
+C554: B25DCVM114 | D554: Đào Đức Thành | F554: D25CQVM03-B | G554: Công nghệ Vi mạch bán dẫn
+C555: B25DCVM115 | D555: Lương Công Thái | F555: D25CTVM01-B | G555: Công nghệ Vi mạch bán dẫn
+C556: B25DCVM116 | D556: Nguyễn Minh Thái | F556: D25CQVM02-B | G556: Công nghệ Vi mạch bán dẫn
+C557: B25DCVM117 | D557: Phạm Đức Thắng | F557: D25CQVM03-B | G557: Công nghệ Vi mạch bán dẫn
+C558: B25DCVM118 | D558: Trần Văn Việt Thắng | F558: D25CTVM01-B | G558: Công nghệ Vi mạch bán dẫn
+C559: B25DCVM119 | D559: Nguyễn Viết Tiến | F559: D25CQVM02-B | G559: Công nghệ Vi mạch bán dẫn
+C560: B25DCVM120 | D560: Trần Văn Tiến | F560: D25CQVM03-B | G560: Công nghệ Vi mạch bán dẫn
+C561: B25DCVM121 | D561: Ngô Doãn Triển | F561: D25CQVM01-B | G561: Công nghệ Vi mạch bán dẫn
+C562: B25DCVM122 | D562: Nguyễn Thành Trung | F562: D25CQVM02-B | G562: Công nghệ Vi mạch bán dẫn
+C563: B25DCVM123 | D563: Phạm Quốc Trung | F563: D25CQVM03-B | G563: Công nghệ Vi mạch bán dẫn
+C564: B25DCVM124 | D564: Tô Xuân Trường | F564: D25CQVM01-B | G564: Công nghệ Vi mạch bán dẫn
+C565: B25DCVM125 | D565: Vương Trọng Trường | F565: D25CQVM02-B | G565: Công nghệ Vi mạch bán dẫn
+C566: B25DCVM126 | D566: Ngô Duy Tuấn | F566: D25CQVM03-B | G566: Công nghệ Vi mạch bán dẫn
+C567: B25DCVM127 | D567: Đậu Anh Tuấn | F567: D25CTVM01-B | G567: Công nghệ Vi mạch bán dẫn
+C568: B25DCVM128 | D568: Đỗ Văn Tuấn | F568: D25CQVM02-B | G568: Công nghệ Vi mạch bán dẫn
+C569: B25DCVM129 | D569: Nguyễn Văn Tài | F569: D25CTVM01-B | G569: Công nghệ Vi mạch bán dẫn
+C570: B25DCVM130 | D570: Nguyễn Hoàng Tùng | F570: D25CTVM01-B | G570: Công nghệ Vi mạch bán dẫn
+C571: B25DCVM131 | D571: Nguyễn Đỗ Sơn Tùng | F571: D25CTVM01-B | G571: Công nghệ Vi mạch bán dẫn
+C572: B25DCVM132 | D572: Trần Thanh Tùng | F572: D25CQVM03-B | G572: Công nghệ Vi mạch bán dẫn
+C573: B25DCVM133 | D573: Bùi Anh Tú | F573: D25CQVM01-B | G573: Công nghệ Vi mạch bán dẫn
+C574: B25DCVM134 | D574: Vũ Văn Tú | F574: D25CQVM02-B | G574: Công nghệ Vi mạch bán dẫn
+C575: B25DCVM136 | D575: Phạm Đức Vinh | F575: D25CQVM01-B | G575: Công nghệ Vi mạch bán dẫn
+C576: B25DCVM137 | D576: Trần Thế Vinh | F576: D25CQVM02-B | G576: Công nghệ Vi mạch bán dẫn
+C577: B25DCVM138 | D577: Trần Quốc Việt | F577: D25CQVM03-B | G577: Công nghệ Vi mạch bán dẫn
+C578: B25DCVM139 | D578: Lê Anh Vũ | F578: D25CQVM01-B | G578: Công nghệ Vi mạch bán dẫn
+C579: B25DCVM140 | D579: Nguyễn Tấn Vũ | F579: D25CQVM02-B | G579: Công nghệ Vi mạch bán dẫn
+C580: B25DCVM141 | D580: Lưu Văn Đô | F580: D25CQVM03-B | G580: Công nghệ Vi mạch bán dẫn
+C581: B25DCVM142 | D581: Bùi Hải Đăng | F581: D25CQVM01-B | G581: Công nghệ Vi mạch bán dẫn
+C582: B25DCVM143 | D582: Nguyễn Hải Đăng | F582: D25CTVM01-B | G582: Công nghệ Vi mạch bán dẫn
+C583: B25DCVM144 | D583: Bùi Thọ Đạt | F583: D25CQVM03-B | G583: Công nghệ Vi mạch bán dẫn
+C584: B25DCVM145 | D584: Nguyễn Hoành Đạt | F584: D25CQVM01-B | G584: Công nghệ Vi mạch bán dẫn
+C585: B25DCVM146 | D585: Nguyễn Thành Đạt | F585: D25CQVM02-B | G585: Công nghệ Vi mạch bán dẫn
+C586: B25DCVM147 | D586: Nguyễn Thành Đạt | F586: D25CQVM03-B | G586: Công nghệ Vi mạch bán dẫn
+C587: B25DCVM148 | D587: Nguyễn Tiến Đạt | F587: D25CQVM01-B | G587: Công nghệ Vi mạch bán dẫn
+C588: B25DCVM149 | D588: Lưu Tiến Đức | F588: D25CQVM02-B | G588: Công nghệ Vi mạch bán dẫn
+C589: B25DCVM150 | D589: Nguyễn Minh Đức | F589: D25CQVM03-B | G589: Công nghệ Vi mạch bán dẫn
+C590: B25DCVM151 | D590: Trần Minh Đức | F590: D25CQVM01-B | G590: Công nghệ Vi mạch bán dẫn
+C591: B25DCVM152 | D591: Đỗ Lê Xuân Đức | F591: D25CTVM01-B | G591: Công nghệ Vi mạch bán dẫn

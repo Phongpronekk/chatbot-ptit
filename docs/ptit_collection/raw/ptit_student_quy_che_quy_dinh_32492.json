@@ -1,0 +1,73 @@
+{
+  "id": 32492,
+  "date": "2025-02-24T05:47:20",
+  "date_gmt": "2025-02-24T05:47:20",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?post_type=quy_che_quy_dinh&#038;p=32492"
+  },
+  "modified": "2025-02-24T05:47:20",
+  "modified_gmt": "2025-02-24T05:47:20",
+  "slug": "quy-dinh-tiep-nhan-ho-so-va-giai-quyet-thu-tuc-hanh-chinh-tai-bo-phan-giao-dich-mot-cua",
+  "status": "publish",
+  "type": "quy_che_quy_dinh",
+  "link": "https://student.ptit.edu.vn/quy-che-quy-dinh/quy-dinh-tiep-nhan-ho-so-va-giai-quyet-thu-tuc-hanh-chinh-tai-bo-phan-giao-dich-mot-cua/",
+  "title": {
+    "rendered": "Quy định tiếp nhận hồ sơ và giải quyết thủ tục hành chính tại Bộ phận giao dịch một cửa"
+  },
+  "template": "",
+  "co_quan_ban_hanh": [],
+  "loai_van_ban": [],
+  "class_list": [
+    "post-32492",
+    "quy_che_quy_dinh",
+    "type-quy_che_quy_dinh",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/quy_che_quy_dinh/32492",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/quy_che_quy_dinh"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/quy_che_quy_dinh"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32492"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "co_quan_ban_hanh",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/co_quan_ban_hanh?post=32492"
+      },
+      {
+        "taxonomy": "loai_van_ban",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/loai_van_ban?post=32492"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 33487,
+  "date": "2026-10-01T02:49:24",
+  "date_gmt": "2026-10-01T02:49:24",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33487"
+  },
+  "modified": "2026-10-01T05:47:30",
+  "modified_gmt": "2026-10-01T05:47:30",
+  "slug": "thong-bao-ve-viec-dang-ky-va-thu-phi-bo-sung-bao-hiem-than-the-tu-nguyen-danh-cho-sinh-vien",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-dang-ky-va-thu-phi-bo-sung-bao-hiem-than-the-tu-nguyen-danh-cho-sinh-vien/",
+  "title": {
+    "rendered": "Thông báo về việc đăng ký và thu phí bổ sung bảo hiểm thân thể tự nguyện dành cho sinh viên"
+  },
+  "content": {
+    "rendered": "<p>Nhằm tạo điều kiện cho sinh viên có nhu cầu tham gia bảo hiểm thân thể tự nguyện, góp phần giảm bớt khó khăn tài chính cho sinh viên và gia đình khi xảy ra các rủi ro thuộc phạm vi bảo hiểm, Học viện thông báo tổ chức đợt đăng ký và thu phí bổ sung như sau:</p>\n<ol>\n<li><strong> Đối tượng và mức phí tham gia</strong></li>\n</ol>\n<p>Sinh viên chưa tham gia bảo hiểm thân thể, có nhu cầu đăng ký bổ sung, tham gia trên cơ sở tự nguyện với mức phí như sau:</p>\n<ul>\n<li>Sinh viên khóa D26: 240.000 đông/người/04 năm học.</li>\n<li>Sinh viên khóa D25: 180.000 đồng/người/03 năm học.</li>\n<li>Sinh viên khóa D24: 120.000 đồng/người/02 năm học.</li>\n</ul>\n<p>Đối với sinh viên khóa D23 đang trong năm cuối khóa học, sinh viên có nhu cầu vui lòng liên hệ Phòng Tài chính kế toán để được hướng dẫn về phương án tham gia phù hợp.</p>\n<ol start=\"2\">\n<li><strong> Thời gian đăng ký và nộp phí</strong></li>\n</ol>\n<p>Từ ngày 01/10/2026 đến hết ngày 15/10/2026.</p>\n<ol start=\"3\">\n<li><strong> Hình thức đăng ký và nộp phí</strong></li>\n</ol>\n<p>Sinh viên truy cập <a href=\"https://slink.ptit.edu.vn\">https://slink.ptit.edu.vn</a>, thực hiện đăng ký và nộp phí bằng hình thức chuyển khoản qua mã QR động theo hướng dẫn trên hệ thống.</p>\n<ol start=\"4\">\n<li><strong> Hướng dẫn và giải đáp: </strong></li>\n</ol>\n<p>Trong quá trình thực hiện, sinh viên có thắc mắc vui lòng liên hệ: Phòng Chính trị và Công tác sinh viên, Phòng Tài chính Kế toán để được hướng dẫn và giải đáp.</p>\n<p><strong>Thông tin về quyền lợi bảo hiểm xem tại:</strong> <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/HV-CN-BUU-CHINH-VIEN-THONG_0001_0001_1.pdf\">HV CN BƯU CHÍNH VIỄN THÔNG_0001_0001_1</a></p>\n<p><strong>Quy tắc bảo hiểm sức khỏe toàn diện học sinh, sinh viên:</strong> <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/Quy-tac-BHSK-Toan-dien-HSSV.pdf\">Quy tắc BHSK Toàn diện HSSV</a></p>\n<p>Trân trọng thông báo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Nhằm tạo điều kiện cho sinh viên có nhu cầu tham gia bảo hiểm thân thể tự nguyện, góp phần giảm bớt khó khăn tài chính cho sinh viên và gia đình khi xảy ra các rủi ro thuộc phạm vi bảo hiểm, Học viện thông báo tổ chức đợt đăng ký và thu phí [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 81,
+  "featured_media": 33369,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33487",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33487",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/81"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33487"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33487/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33492,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33487/revisions/33492"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33369"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33487"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33487"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33487"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

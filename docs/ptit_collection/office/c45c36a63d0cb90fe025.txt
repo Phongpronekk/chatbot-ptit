@@ -1,0 +1,19 @@
+### sheet1.xml
+A3: TOEFL ITP PLACEMENT ONLINE TEST RESULT
+F5: Test date: 03/10/2026
+B7: Organization: | C7: HOC VIEN CONG NGHE BUU CHINH VIEN THONG HA NOI
+B8: Number of examinees: | C8: 10
+B9: Maximum score: | C9: 493
+B10: Minimum score: | C10: 380
+B11: Average score: | C11: 412
+A13: No. | B13: Name | D13: Date of Birth | E13: Student Number | F13: Class | G13: Total Score | H13: Test Date
+A15: 1 | B15: Trần Quốc | C15: Huy | D15: 39606 | E15: B26DCCE121 | F15: D26CQCE02-B | G15: 493 | H15: 46298
+A16: 2 | B16: Nguyễn Sỹ | C16: Mạnh | D16: 39527 | E16: B26DCCE164 | F16: D26CQCE03-B | G16: 390 | H16: 46298
+A17: 3 | B17: Quách Minh | C17: Lâm | D17: 39660 | E17: B26DCME067 | F17: D26CQME01-B | G17: 383 | H17: 46298
+A18: 4 | B18: Vũ Anh | C18: Thư | D18: 39788 | E18: B26DCKE056 | F18: D26CQKE02-B | G18: 380 | H18: 46298
+A19: 5 | B19: Hoàng Nam | C19: Phong | D19: 39749 | E19: B26DCAE133 | F19: D26CQAE03-B | G19: Absent | H19: 46298
+A20: 6 | B20: Phạm Văn | C20: Hiếu | D20: 39463 | E20: B26DCAE064 | F20: D26CQAE04-B | G20: Absent | H20: 46298
+A21: 7 | B21: Lê Hoàng | C21: Anh | D21: 39758 | E21: B26DCCE013 | F21: D26CQCE06-B | G21: Absent | H21: 46298
+A22: 8 | B22: Vũ Tuấn | C22: Anh | D22: 39549 | E22: B26DCCE028 | F22: D26CQCE07-B | G22: Absent | H22: 46298
+A23: 9 | B23: Nguyễn Quang | C23: Liêm | D23: 39493 | E23: B26DCTE053 | F23: D26CQTE02-B | G23: Absent | H23: 46298
+A24: 10 | B24: Trần Hà | C24: My | D24: 39795 | E24: B26DCTE071 | F24: D26CQTE02-B | G24: Absent | H24: 46298

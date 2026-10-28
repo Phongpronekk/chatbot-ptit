@@ -1,0 +1,116 @@
+### Trang 1
+
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê (3TC);
+4. Dữ liệu lớn (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Các hệ thống tác tử (3TC);
+2. Nguyên lý chuyển đổi Trí tuệ nhân tạo (3TC);
+3. Kiến trúc hệ thống thông tin (3TC);
+4. Tối ưu và vận hành hệ thống thông tin (3TC);
+5. Quản trị nghiệp vụ thông minh nâng cao (3TC);
+6. Kiểm thử các hệ thống thông tin (3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH CÔNG NGHỆ THÔNG TIN định hướng Trí tuệ nhân tạo
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (12 TC)
+ HK2 (12 TC)
+ HK4 (15TC)
+HK3 (11 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Nhận dạng mẫu (3TC)
+Phát triển ứng dụng 
+Trí tuệ nhân tạo (3 
+TC)
+Trí tuệ nhân tạo trong 
+Kỹ nghệ phần mềm 
+(2TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành (3TC)
+Triển khai và vận 
+hành hệ thống TTNT 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Phương pháp phân tích số liệu thống kê (3TC);
+4. Dữ liệu lớn (3TC);
+5. Khai phá dữ liệu nâng cao (3TC);
+6. Các mô hình lập trình tiên tiến (3TC);
+7. Tính toán phân tán (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Các hệ thống tác tử (3TC);
+2. Nguyên lý chuyển đổi Trí tuệ nhân tạo (3TC);
+3. Kiến trúc hệ thống thông tin (3TC);
+4. Tối ưu và vận hành hệ thống thông tin (3TC);
+5. Quản trị nghiệp vụ thông minh nâng cao (3TC);
+6. Kiểm thử các hệ thống thông tin (3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH CÔNG NGHỆ THÔNG TIN định hướng Trí tuệ nhân tạo
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (12 TC)
+ HK2 (12 TC)
+ HK4 (15TC)
+HK3 (11 TC)
+Triết học
+(3TC)
+Các hệ thống cơ sở 
+dữ liệu (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Thuật toán nâng cao 
+(2TC)
+Nhận dạng mẫu (3TC)
+Phát triển ứng dụng 
+Trí tuệ nhân tạo (3 
+TC)
+Trí tuệ nhân tạo trong 
+Kỹ nghệ phần mềm 
+(2TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành (3TC)
+Triển khai và vận 
+hành hệ thống TTNT 
+(3TC)

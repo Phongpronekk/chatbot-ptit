@@ -1,0 +1,711 @@
+### Trang 1
+
+Các học phần tự chọn cử nhân:
+1. Xử lý ngôn ngữ tự nhiên (3TC);
+2. Nhập môn Robotics (3TC);
+3. Mô hình học máy đồ thị và ứng dụng (3TC);
+4. Trí tuệ nhân tạo cho tính toán biên (3TC);
+5. Lập trình song song (3TC);
+6. IoT và ứng dugnj (3TC).
+HK 9
+(18TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC) Tính toán phân tán (3TC)
+Thực tập cơ sở 
+(3TC)
+Nền tảng phát 
+triển TTNT (3TC)
+Ngôn ngữ lập 
+trình C++ (3TC)
+Lập trình web 
+(3TC)
+Hệ điều hành 
+(3TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Nhập môn học 
+máy (3TC)
+Toán rời rạc 2 
+(3TC)
+Trí tuệ nhân tạo 
+cho an toàn bảo 
+mật TT (3TC)
+Nhập môn tin học 
+và lập trình (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Lập trình hướng 
+đối tượng (3TC)
+Đạo đức và chính 
+sách TTNT (3TC)
+Phân tích và thiết 
+kế HTTT (3TC) Dữ liệu lớn (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Nhập môn khoa 
+học dữ liệu (3TC)
+Nhập môn trí tuệ 
+nhân tạo (3TC)
+Đại số (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Toán rời rạc 1 
+(3TC)
+Kiến trúc máy tính 
+(3TC)
+Vật lý ứng dụng 
+(4TC)
+Giải tích 1 (3TC)
+HK 1
+(14TC)
+HK 2
+(19TC)
+HK 3
+(20TC)
+HK 4
+(21TC)
+HK 5
+(19TC)
+HK 6
+(18TC)
+HK 7
+(18TC)
+HK 8
+(18TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Cơ sở dữ liệu 
+(3TC)
+Xử lý ảnh (3TC)
+Xác suất thống kê 
+(3TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Mạng máy tính 
+(3TC)
+Chuyên đề nghiên 
+cứu KHMT 2 
+(6TC)
+Lý thuyết học sâu 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng, Định hướng nghiên cứu - ngành Khoa học máy tính
+Công cụ toán cho 
+CNTT (2TC)
+Khai phá tri thức 
+và phân tích dữ 
+liệu (3TC)
+Học phần tự chọn 
+cơ sở ngành 
+(Ths) (3TC)
+Nhận dạng mẫu 
+(3TC)
+Chuyên đề nghiên 
+cứu KHMT 1 
+(6TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Thuật toán nâng 
+cao (2TC)
+Luận văn 
+tốt 
+nghiệp 
+(15TC)
+Nhập môn công 
+nghệ phần mềm 
+(3TC)
+Các học phần tự chọn cơ sở ngành (Ths):
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Các phương pháp phân tích số liệu thống kê (3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Các mô hình lập trình tiên tiến (3TC);
+6. Khai phá dữ liệu nâng cao (3TC);
+7. Hệ điều hành mạng (3TC).
+Các học phần tự chọn chuyên ngành (Ths):
+1. Thị giác máy tính (3TC);
+2. Học sâu tăng cường (3TC);
+3. Mô hình hóa và dự báo chuỗi thời gian (3TC);
+4. Mô hình xác suất và suy diễn (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(15TC)
+Thực tập TN (cử 
+nhân) (6TC)
+Các học phần tự chọn cử nhân:
+1. Xử lý ngôn ngữ tự nhiên (3TC);
+2. Nhập môn Robotics (3TC);
+3. Mô hình học máy đồ thị và ứng dụng (3TC);
+4. Trí tuệ nhân tạo cho tính toán biên (3TC);
+5. Lập trình song song (3TC);
+6. IoT và ứng dugnj (3TC).
+HK 9
+(18TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC) Tính toán phân tán (3TC)
+Thực tập cơ sở 
+(3TC)
+Nền tảng phát 
+triển TTNT (3TC)
+Ngôn ngữ lập 
+trình C++ (3TC)
+Lập trình web 
+(3TC)
+Hệ điều hành 
+(3TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Nhập môn học 
+máy (3TC)
+Toán rời rạc 2 
+(3TC)
+Trí tuệ nhân tạo 
+cho an toàn bảo 
+mật TT (3TC)
+Nhập môn tin học 
+và lập trình (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Lập trình hướng 
+đối tượng (3TC)
+Đạo đức và chính 
+sách TTNT (3TC)
+Phân tích và thiết 
+kế HTTT (3TC) Dữ liệu lớn (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Nhập môn khoa 
+học dữ liệu (3TC)
+Nhập môn trí tuệ 
+nhân tạo (3TC)
+Đại số (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Toán rời rạc 1 
+(3TC)
+Kiến trúc máy tính 
+(3TC)
+Vật lý ứng dụng 
+(4TC)
+Giải tích 1 (3TC)
+HK 1
+(14TC)
+HK 2
+(19TC)
+HK 3
+(20TC)
+HK 4
+(21TC)
+HK 5
+(19TC)
+HK 6
+(18TC)
+HK 7
+(18TC)
+HK 8
+(18TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Cơ sở dữ liệu 
+(3TC)
+Xử lý ảnh (3TC)
+Xác suất thống kê 
+(3TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Mạng máy tính 
+(3TC)
+Chuyên đề nghiên 
+cứu KHMT 2 
+(6TC)
+Lý thuyết học sâu 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng, Định hướng nghiên cứu - ngành Khoa học máy tính
+Công cụ toán cho 
+CNTT (2TC)
+Khai phá tri thức 
+và phân tích dữ 
+liệu (3TC)
+Học phần tự chọn 
+cơ sở ngành 
+(Ths) (3TC)
+Nhận dạng mẫu 
+(3TC)
+Chuyên đề nghiên 
+cứu KHMT 1 
+(6TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Thuật toán nâng 
+cao (2TC)
+Luận văn 
+tốt 
+nghiệp 
+(15TC)
+Nhập môn công 
+nghệ phần mềm 
+(3TC)
+Các học phần tự chọn cơ sở ngành (Ths):
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Các phương pháp phân tích số liệu thống kê (3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Các mô hình lập trình tiên tiến (3TC);
+6. Khai phá dữ liệu nâng cao (3TC);
+7. Hệ điều hành mạng (3TC).
+Các học phần tự chọn chuyên ngành (Ths):
+1. Thị giác máy tính (3TC);
+2. Học sâu tăng cường (3TC);
+3. Mô hình hóa và dự báo chuỗi thời gian (3TC);
+4. Mô hình xác suất và suy diễn (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(15TC)
+Thực tập TN (cử 
+nhân) (6TC)
+
+### Trang 2
+
+Các học phần tự chọn cử nhân:
+1. Xử lý ngôn ngữ tự nhiên (3TC);
+2. Nhập môn Robotics (3TC);
+3. Mô hình học máy đồ thị và ứng dụng (3TC);
+4. Trí tuệ nhân tạo cho tính toán biên (3TC);
+5. Lập trình song song (3TC);
+6. IoT và ứng dugnj (3TC).
+HK 9
+(18TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC) Tính toán phân tán (3TC)
+Thực tập cơ sở 
+(3TC)
+Nền tảng phát 
+triển TTNT (3TC)
+Ngôn ngữ lập 
+trình C++ (3TC)
+Lập trình web 
+(3TC)
+Hệ điều hành 
+(3TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Nhập môn học 
+máy (3TC)
+Toán rời rạc 2 
+(3TC)
+Trí tuệ nhân tạo 
+cho an toàn bảo 
+mật TT (3TC)
+Nhập môn tin học 
+và lập trình (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Lập trình hướng 
+đối tượng (3TC)
+Đạo đức và chính 
+sách TTNT (3TC)
+Phân tích và thiết 
+kế HTTT (3TC) Dữ liệu lớn (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Nhập môn khoa 
+học dữ liệu (3TC)
+Nhập môn trí tuệ 
+nhân tạo (3TC)
+Đại số (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Toán rời rạc 1 
+(3TC)
+Kiến trúc máy tính 
+(3TC)
+Vật lý ứng dụng 
+(4TC)
+Giải tích 1 (3TC)
+HK 1
+(14TC)
+HK 2
+(19TC)
+HK 3
+(20TC)
+HK 4
+(21TC)
+HK 5
+(19TC)
+HK 6
+(18TC)
+HK 7
+(18TC)
+HK 8
+(18TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Cơ sở dữ liệu 
+(3TC)
+Xử lý ảnh (3TC)
+Xác suất thống kê 
+(3TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Mạng máy tính 
+(3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Lý thuyết học sâu 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng, Định hướng ứng dụng - ngành Khoa học máy tính
+Công cụ toán cho 
+CNTT (2TC)
+Khai phá tri thức 
+và phân tích dữ 
+liệu (3TC)
+03 Học phần tự 
+chọn cơ sở ngành 
+(Ths) (9TC)
+Nhận dạng mẫu 
+(3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Thuật toán nâng 
+cao (2TC)
+Thực tập 
+và Đề án 
+tốt 
+nghiệp 
+(Ths) 
+(15TC)
+Nhập môn công 
+nghệ phần mềm 
+(3TC)
+Các học phần tự chọn cơ sở ngành (Ths):
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Các phương pháp phân tích số liệu thống kê (3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Các mô hình lập trình tiên tiến (3TC);
+6. Khai phá dữ liệu nâng cao (3TC);
+7. Hệ điều hành mạng (3TC).
+Các học phần tự chọn chuyên ngành (Ths):
+1. Phân tích dữ liệu đa phương tiện (3TC);
+2. Phát triển các ứng dụng AI (3TC);
+3. Mô hình hóa và mô phỏng các hệ thống phức tạp (3TC);
+4. Hệ thống thông tin tác tử (3TC);
+5. Các hệ thống IoT hiện đại (3TC);
+6. Công nghệ phần mềm nhúng (3TC);
+7. Các hệ thống khuyến nghị nâng cao (3TC);
+8. AI tạo sinh (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(15TC)
+Thực tập TN (cử 
+nhân) (6TC)
+Các học phần tự chọn cử nhân:
+1. Xử lý ngôn ngữ tự nhiên (3TC);
+2. Nhập môn Robotics (3TC);
+3. Mô hình học máy đồ thị và ứng dụng (3TC);
+4. Trí tuệ nhân tạo cho tính toán biên (3TC);
+5. Lập trình song song (3TC);
+6. IoT và ứng dugnj (3TC).
+HK 9
+(18TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC) Tính toán phân tán (3TC)
+Thực tập cơ sở 
+(3TC)
+Nền tảng phát 
+triển TTNT (3TC)
+Ngôn ngữ lập 
+trình C++ (3TC)
+Lập trình web 
+(3TC)
+Hệ điều hành 
+(3TC)
+Các mô hình ngôn 
+ngữ lớn (3TC)
+Nhập môn học 
+máy (3TC)
+Toán rời rạc 2 
+(3TC)
+Trí tuệ nhân tạo 
+cho an toàn bảo 
+mật TT (3TC)
+Nhập môn tin học 
+và lập trình (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Lập trình hướng 
+đối tượng (3TC)
+Đạo đức và chính 
+sách TTNT (3TC)
+Phân tích và thiết 
+kế HTTT (3TC) Dữ liệu lớn (3TC)
+Học phần tự chọn 
+chuyên ngành (cử 
+nhân) (3TC)
+Nhập môn khoa 
+học dữ liệu (3TC)
+Nhập môn trí tuệ 
+nhân tạo (3TC)
+Đại số (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Toán rời rạc 1 
+(3TC)
+Kiến trúc máy tính 
+(3TC)
+Vật lý ứng dụng 
+(4TC)
+Giải tích 1 (3TC)
+HK 1
+(14TC)
+HK 2
+(19TC)
+HK 3
+(20TC)
+HK 4
+(21TC)
+HK 5
+(19TC)
+HK 6
+(18TC)
+HK 7
+(18TC)
+HK 8
+(18TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Cơ sở dữ liệu 
+(3TC)
+Xử lý ảnh (3TC)
+Xác suất thống kê 
+(3TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Mạng máy tính 
+(3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Lý thuyết học sâu 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng, Định hướng ứng dụng - ngành Khoa học máy tính
+Công cụ toán cho 
+CNTT (2TC)
+Khai phá tri thức 
+và phân tích dữ 
+liệu (3TC)
+03 Học phần tự 
+chọn cơ sở ngành 
+(Ths) (9TC)
+Nhận dạng mẫu 
+(3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Học phần tự chọn 
+chuyên ngành 
+(Ths) (3TC)
+Thuật toán nâng 
+cao (2TC)
+Thực tập 
+và Đề án 
+tốt 
+nghiệp 
+(Ths) 
+(15TC)
+Nhập môn công 
+nghệ phần mềm 
+(3TC)
+Các học phần tự chọn cơ sở ngành (Ths):
+1. Tìm kiếm và truy xuất thông tin (3TC);
+2. Các kỹ thuật tối ưu (3TC);
+3. Các phương pháp phân tích số liệu thống kê (3TC);
+4. Các hệ thống cơ sở dữ liệu (3TC);
+5. Các mô hình lập trình tiên tiến (3TC);
+6. Khai phá dữ liệu nâng cao (3TC);
+7. Hệ điều hành mạng (3TC).
+Các học phần tự chọn chuyên ngành (Ths):
+1. Phân tích dữ liệu đa phương tiện (3TC);
+2. Phát triển các ứng dụng AI (3TC);
+3. Mô hình hóa và mô phỏng các hệ thống phức tạp (3TC);
+4. Hệ thống thông tin tác tử (3TC);
+5. Các hệ thống IoT hiện đại (3TC);
+6. Công nghệ phần mềm nhúng (3TC);
+7. Các hệ thống khuyến nghị nâng cao (3TC);
+8. AI tạo sinh (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(15TC)
+Thực tập TN (cử 
+nhân) (6TC)

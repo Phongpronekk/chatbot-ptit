@@ -1,0 +1,78 @@
+{
+  "id": 5045,
+  "date": "2026-05-28T17:04:26",
+  "date_gmt": "2026-05-28T10:04:26",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=5045"
+  },
+  "modified": "2026-07-13T13:47:22",
+  "modified_gmt": "2026-07-13T06:47:22",
+  "slug": "chuong-trinh-uav-va-robot-di-dong-tu-hanh",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-uav-va-robot-di-dong-tu-hanh/",
+  "title": {
+    "rendered": "Chương trình UAV và Robot di động tự hành"
+  },
+  "featured_media": 1860,
+  "template": "",
+  "he_dao_tao": [
+    13984
+  ],
+  "class_list": [
+    "post-5045",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "he_dao_tao-nhom-cac-nganh-chuong-trinh-dao-tao-linh-vuc-ky-thuat-cong-nghe"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/5045",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/1860"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5045"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=5045"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

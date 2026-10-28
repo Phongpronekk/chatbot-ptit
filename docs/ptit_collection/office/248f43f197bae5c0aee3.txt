@@ -1,0 +1,1056 @@
+### sheet1.xml
+A1: Mã SV | B1: Họ | C1: Tên | D1: Lớp SV | E1: Khối lớp | F1: Mã môn học được đăng ký học vượt theo CTĐT học vượt | G1: Tên môn học | H1: Ghi chú | I1: Ghi chú 2
+A2: B24DCAC010 | B2: Vũ Đăng Tuấn | C2: Đạt | D2: D24CQAC01-B | E2: E24KT | F2: FIA1392_CLC | G2: Kế toán doanh nghiệp Việt Nam | H2: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A3: B24DCAC010 | B3: Vũ Đăng Tuấn | C3: Đạt | D3: D24CQAC01-B | E3: E24KT | F3: FIA1485_CLC | G3: Hệ thống thông tin kế toán | H3: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A4: B24DCAC010 | B4: Vũ Đăng Tuấn | C4: Đạt | D4: D24CQAC01-B | E4: E24KT | F4: BAS1153 | G4: Lịch sử Đảng cộng sản Việt Nam | H4: Học ghép cùng D22,23,24
+A5: B24DCAC029 | B5: Lê Quang | C5: Minh | D5: D24CQAC01-B | E5: E24KT | F5: FIA1392_CLC | G5: Kế toán doanh nghiệp Việt Nam | H5: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A6: B24DCAC029 | B6: Lê Quang | C6: Minh | D6: D24CQAC01-B | E6: E24KT | F6: FIA1485_CLC | G6: Hệ thống thông tin kế toán | H6: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A7: B24DCAC029 | B7: Lê Quang | C7: Minh | D7: D24CQAC01-B | E7: E24KT | F7: BAS1153 | G7: Lịch sử Đảng cộng sản Việt Nam | H7: Học ghép cùng D22,23,24
+A8: B24DCAC032 | B8: Vũ Yến | C8: Ngọc | D8: D24CQAC01-B | E8: E24KT | F8: FIA1392_CLC | G8: Kế toán doanh nghiệp Việt Nam | H8: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A9: B24DCAC032 | B9: Vũ Yến | C9: Ngọc | D9: D24CQAC01-B | E9: E24KT | F9: FIA1485_CLC | G9: Hệ thống thông tin kế toán | H9: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A10: B24DCAC032 | B10: Vũ Yến | C10: Ngọc | D10: D24CQAC01-B | E10: E24KT | F10: BAS1153 | G10: Lịch sử Đảng cộng sản Việt Nam | H10: Học ghép cùng D22,23,24
+A11: B24DCAT016 | B11: Mai Hoàng | C11: Anh | D11: D24CQAT01-B | E11: D24AT | F11: INT1332 | G11: Lập trình hướng đối tượng | H11: Mở lớp riêng học vượt
+A12: B24DCAT047 | B12: Nguyễn Phương | C12: Đạt | D12: D24CQAT01-B | E12: D24AT | F12: INT1332 | G12: Lập trình hướng đối tượng | H12: Mở lớp riêng học vượt
+A13: B24DCAT065 | B13: Trịnh Hoài | C13: Đức | D13: D24CQAT01-B | E13: D24AT | F13: INT1332 | G13: Lập trình hướng đối tượng | H13: Mở lớp riêng học vượt
+A14: B24DCAT075 | B14: Lê Hải | C14: Dương | D14: D24CQAT01-B | E14: D24AT | F14: INT1332 | G14: Lập trình hướng đối tượng | H14: Mở lớp riêng học vượt
+A15: B24DCAT111 | B15: Bùi Nhật | C15: Hùng | D15: D24CQAT01-B | E15: D24AT | F15: INT1332 | G15: Lập trình hướng đối tượng | H15: Mở lớp riêng học vượt
+A16: B24DCAT152 | B16: Nguyễn Minh | C16: Khôi | D16: D24CQAT01-B | E16: D24AT | F16: INT1332 | G16: Lập trình hướng đối tượng | H16: Mở lớp riêng học vượt
+A17: B24DCAT168 | B17: Nguyễn Đức | C17: Long | D17: D24CQAT01-B | E17: D24AT | F17: INT1332 | G17: Lập trình hướng đối tượng | H17: Mở lớp riêng học vượt
+A18: B24DCAT187 | B18: Hoàng Hải | C18: Minh | D18: D24CQAT01-B | E18: D24AT | F18: INT1332 | G18: Lập trình hướng đối tượng | H18: Mở lớp riêng học vượt
+A19: B24DCAT226 | B19: Hoàng Bình | C19: Quân | D19: D24CQAT01-B | E19: D24AT | F19: INT1332 | G19: Lập trình hướng đối tượng | H19: Mở lớp riêng học vượt
+A20: B24DCAT267 | B20: Dương Hồng | C20: Triết | D20: D24CQAT01-B | E20: D24AT | F20: INT1332 | G20: Lập trình hướng đối tượng | H20: Mở lớp riêng học vượt
+A21: B24DCAT088 | B21: Nguyễn Gia | C21: Hào | D21: D24CQAT02-B | E21: D24AT | F21: INT1332 | G21: Lập trình hướng đối tượng | H21: Mở lớp riêng học vượt
+A22: B24DCAT250 | B22: Võ Anh | C22: Thắng | D22: D24CQAT02-B | E22: D24AT | F22: INT1332 | G22: Lập trình hướng đối tượng | H22: Mở lớp riêng học vượt
+A23: B24DCAT018 | B23: Nguyễn Việt | C23: Anh | D23: D24CQAT03-B | E23: D24AT | F23: INT1332 | G23: Lập trình hướng đối tượng | H23: Mở lớp riêng học vượt
+A24: B24DCAT143 | B24: Phạm Trần Gia | C24: Khánh | D24: D24CQAT03-B | E24: D24AT | F24: INT1332 | G24: Lập trình hướng đối tượng | H24: Mở lớp riêng học vượt
+A25: B24DCAT010 | B25: Hoàng Duy | C25: Anh | D25: D24CQAT04-B | E25: D24AT | F25: INT1332 | G25: Lập trình hướng đối tượng | H25: Mở lớp riêng học vượt
+A26: B24DCAT034 | B26: Nguyễn Đức | C26: Cường | D26: D24CQAT04-B | E26: D24AT | F26: INT1332 | G26: Lập trình hướng đối tượng | H26: Mở lớp riêng học vượt
+A27: B24DCAT066 | B27: Bùi Việt | C27: Dũng | D27: D24CQAT04-B | E27: D24AT | F27: INT1332 | G27: Lập trình hướng đối tượng | H27: Mở lớp riêng học vượt
+A28: B24DCAT084 | B28: Vũ Việt | C28: Hà | D28: D24CQAT04-B | E28: D24AT | F28: INT1332 | G28: Lập trình hướng đối tượng | H28: Mở lớp riêng học vượt
+A29: B24DCAT099 | B29: Ngô Trung | C29: Hiếu | D29: D24CQAT04-B | E29: D24AT | F29: INT1332 | G29: Lập trình hướng đối tượng | H29: Mở lớp riêng học vượt
+A30: B24DCAT159 | B30: Nguyễn Thanh | C30: Lâm | D30: D24CQAT04-B | E30: D24AT | F30: INT1332 | G30: Lập trình hướng đối tượng | H30: Mở lớp riêng học vượt
+A31: B24DCAT205 | B31: Bùi Minh | C31: Nghĩa | D31: D24CQAT04-B | E31: D24AT | F31: INT1332 | G31: Lập trình hướng đối tượng | H31: Mở lớp riêng học vượt
+A32: B24DCAT020 | B32: Phạm Mỹ | C32: Anh | D32: D24CQAT05-B | E32: D24AT | F32: INT1332 | G32: Lập trình hướng đối tượng | H32: Mở lớp riêng học vượt
+A33: B24DCAT035 | B33: Nguyễn Minh | C33: Cường | D33: D24CQAT05-B | E33: D24AT | F33: INT1332 | G33: Lập trình hướng đối tượng | H33: Mở lớp riêng học vượt
+A34: B24DCAT067 | B34: Hoàng Tiến | C34: Dũng | D34: D24CQAT05-B | E34: D24AT | F34: INT1332 | G34: Lập trình hướng đối tượng | H34: Mở lớp riêng học vượt
+A35: B24DCAT115 | B35: Nguyễn Văn | C35: Hùng | D35: D24CQAT05-B | E35: D24AT | F35: INT1332 | G35: Lập trình hướng đối tượng | H35: Mở lớp riêng học vượt
+A36: B24DCAT135 | B36: Nguyễn Minh | C36: Khang | D36: D24CQAT05-B | E36: D24AT | F36: INT1332 | G36: Lập trình hướng đối tượng | H36: Mở lớp riêng học vượt
+A37: B24DCAT167 | B37: Lê Thành | C37: Long | D37: D24CQAT05-B | E37: D24AT | F37: INT1332 | G37: Lập trình hướng đối tượng | H37: Mở lớp riêng học vượt
+A38: B24DCAT186 | B38: Đặng Đức | C38: Minh | D38: D24CQAT05-B | E38: D24AT | F38: INT1332 | G38: Lập trình hướng đối tượng | H38: Mở lớp riêng học vượt
+A39: B24DCAT211 | B39: Dương Anh | C39: Ngũ | D39: D24CQAT05-B | E39: D24AT | F39: INT1332 | G39: Lập trình hướng đối tượng | H39: Mở lớp riêng học vượt
+A40: B24DCAT221 | B40: Nguyễn Vũ Gia | C40: Phúc | D40: D24CQAT05-B | E40: D24AT | F40: INT1332 | G40: Lập trình hướng đối tượng | H40: Mở lớp riêng học vượt
+A41: B24DCAT266 | B41: Phạm Sơn | C41: Trà | D41: D24CQAT05-B | E41: D24AT | F41: INT1332 | G41: Lập trình hướng đối tượng | H41: Mở lớp riêng học vượt
+A42: B24DCAT291 | B42: Nguyễn Đức | C42: Văn | D42: D24CQAT05-B | E42: D24AT | F42: INT1332 | G42: Lập trình hướng đối tượng | H42: Mở lớp riêng học vượt
+A43: B24DCBC035 | B43: Mai Hoàng | C43: Lan | D43: D24CQBC01-B | E43: D24BC | F43: MUL13166 | G43: Báo chí và phương tiện truyền thông XH | H43: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A44: B24DCBC035 | B44: Mai Hoàng | C44: Lan | D44: D24CQBC01-B | E44: D24BC | F44: MUL14188 | G44: Dẫn chương trình | H44: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A45: B24DCBC035 | B45: Mai Hoàng | C45: Lan | D45: D24CQBC01-B | E45: D24BC | F45: MUL14185 | G45: Báo chí và dư luận xã hội | H45: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A46: B24DCCC049 | B46: Trần Hải | C46: Đăng | D46: D24CQCC01-B | E46: D24CCN | F46: INT1449 | G46: Phát triển ứng dụng cho các thiết bị di động | H46: Học ghép cùng D22,23,24
+A47: B24DCCC049 | B47: Trần Hải | C47: Đăng | D47: D24CQCC01-B | E47: D24CCN | F47: INT1306 | G47: Cấu trúc dữ liệu và giải thuật | H47: Học ghép cùng D22,23,24
+A48: B24DCCC064 | B48: Vũ Đức | C48: Doanh | D48: D24CQCC04-B | E48: D24CCN | F48: INT1449 | G48: Phát triển ứng dụng cho các thiết bị di động | H48: Học ghép cùng D22,23,24
+A49: B24DCCC064 | B49: Vũ Đức | C49: Doanh | D49: D24CQCC04-B | E49: D24CCN | F49: INT1306 | G49: Cấu trúc dữ liệu và giải thuật | H49: Học ghép cùng D22,23,24
+A50: B24DCCC094 | B50: Nguyễn Tiến | C50: Duy | D50: D24CQCC04-B | E50: D24CCN | F50: INT1449 | G50: Phát triển ứng dụng cho các thiết bị di động | H50: Học ghép cùng D22,23,24
+A51: B24DCCC094 | B51: Nguyễn Tiến | C51: Duy | D51: D24CQCC04-B | E51: D24CCN | F51: INT1306 | G51: Cấu trúc dữ liệu và giải thuật | H51: Học ghép cùng D22,23,24
+A52: B24DCCC244 | B52: Nguyễn Quang | C52: Thắng | D52: D24CQCC04-B | E52: D24CCN | F52: INT1449 | G52: Phát triển ứng dụng cho các thiết bị di động | H52: Học ghép cùng D22,23,24
+A53: B24DCCC244 | B53: Nguyễn Quang | C53: Thắng | D53: D24CQCC04-B | E53: D24CCN | F53: INT1306 | G53: Cấu trúc dữ liệu và giải thuật | H53: Học ghép cùng D22,23,24
+A54: B24DCCN166 | B54: Nguyễn Văn Tùng | C54: Dương | D54: D24CQCN01-B | E54: D24CN | F54: INT1319 | G54: Hệ điều hành | H54: Mở lớp riêng học vượt
+A55: B24DCCN166 | B55: Nguyễn Văn Tùng | C55: Dương | D55: D24CQCN01-B | E55: D24CN | F55: SKD1108 | G55: Phương pháp luận NCKH | H55: Mở lớp riêng học vượt
+A56: B24DCCN353 | B56: Hoàng Gia | C56: Lộc | D56: D24CQCN01-B | E56: D24CN | F56: INT1319 | G56: Hệ điều hành | H56: Mở lớp riêng học vượt
+A57: B24DCCN353 | B57: Hoàng Gia | C57: Lộc | D57: D24CQCN01-B | E57: D24CN | F57: SKD1108 | G57: Phương pháp luận NCKH | H57: Mở lớp riêng học vượt
+A58: B24DCCN375 | B58: Vũ Đức | C58: Lương | D58: D24CQCN01-B | E58: D24CN | F58: INT1319 | G58: Hệ điều hành | H58: Mở lớp riêng học vượt
+A59: B24DCCN375 | B59: Vũ Đức | C59: Lương | D59: D24CQCN01-B | E59: D24CN | F59: SKD1108 | G59: Phương pháp luận NCKH | H59: Mở lớp riêng học vượt
+A60: B24DCCN463 | B60: Nguyễn Đình Hải | C60: Quân | D60: D24CQCN01-B | E60: D24CN | F60: INT1319 | G60: Hệ điều hành | H60: Mở lớp riêng học vượt
+A61: B24DCCN463 | B61: Nguyễn Đình Hải | C61: Quân | D61: D24CQCN01-B | E61: D24CN | F61: SKD1108 | G61: Phương pháp luận NCKH | H61: Mở lớp riêng học vượt
+A62: B24DCCN562 | B62: Trần Thị Thu | C62: Trang | D62: D24CQCN01-B | E62: D24CN | F62: INT1319 | G62: Hệ điều hành | H62: Mở lớp riêng học vượt
+A63: B24DCCN562 | B63: Trần Thị Thu | C63: Trang | D63: D24CQCN01-B | E63: D24CN | F63: SKD1108 | G63: Phương pháp luận NCKH | H63: Mở lớp riêng học vượt
+A64: B24DCCN123 | B64: Trần Tiến | C64: Đạt | D64: D24CQCN02-B | E64: D24CN | F64: INT1319 | G64: Hệ điều hành | H64: Mở lớp riêng học vượt
+A65: B24DCCN123 | B65: Trần Tiến | C65: Đạt | D65: D24CQCN02-B | E65: D24CN | F65: SKD1108 | G65: Phương pháp luận NCKH | H65: Mở lớp riêng học vượt
+A66: B24DCCN200 | B66: Nguyễn Xuân | C66: Hiệp | D66: D24CQCN02-B | E66: D24CN | F66: INT1319 | G66: Hệ điều hành | H66: Mở lớp riêng học vượt
+A67: B24DCCN200 | B67: Nguyễn Xuân | C67: Hiệp | D67: D24CQCN02-B | E67: D24CN | F67: SKD1108 | G67: Phương pháp luận NCKH | H67: Mở lớp riêng học vượt
+A68: B24DCCN398 | B68: Nguyễn Tuấn | C68: Minh | D68: D24CQCN02-B | E68: D24CN | F68: INT1319 | G68: Hệ điều hành | H68: Mở lớp riêng học vượt
+A69: B24DCCN398 | B69: Nguyễn Tuấn | C69: Minh | D69: D24CQCN02-B | E69: D24CN | F69: SKD1108 | G69: Phương pháp luận NCKH | H69: Mở lớp riêng học vượt
+A70: B24DCCN431 | B70: Nguyễn Thị Tuyết | C70: Nhung | D70: D24CQCN02-B | E70: D24CN | F70: INT1319 | G70: Hệ điều hành | H70: Mở lớp riêng học vượt
+A71: B24DCCN431 | B71: Nguyễn Thị Tuyết | C71: Nhung | D71: D24CQCN02-B | E71: D24CN | F71: SKD1108 | G71: Phương pháp luận NCKH | H71: Mở lớp riêng học vượt
+A72: B24DCCN519 | B72: Hoàng Việt | C72: Thắng | D72: D24CQCN02-B | E72: D24CN | F72: INT1319 | G72: Hệ điều hành | H72: Mở lớp riêng học vượt
+A73: B24DCCN519 | B73: Hoàng Việt | C73: Thắng | D73: D24CQCN02-B | E73: D24CN | F73: SKD1108 | G73: Phương pháp luận NCKH | H73: Mở lớp riêng học vượt
+A74: B24DCCN585 | B74: Nguyễn Tuấn | C74: Tú | D74: D24CQCN02-B | E74: D24CN | F74: INT1319 | G74: Hệ điều hành | H74: Mở lớp riêng học vượt
+A75: B24DCCN585 | B75: Nguyễn Tuấn | C75: Tú | D75: D24CQCN02-B | E75: D24CN | F75: SKD1108 | G75: Phương pháp luận NCKH | H75: Mở lớp riêng học vượt
+A76: B24DCCN014 | B76: Bùi Đức | C76: Anh | D76: D24CQCN03-B | E76: D24CN | F76: INT1319 | G76: Hệ điều hành | H76: Mở lớp riêng học vượt
+A77: B24DCCN014 | B77: Bùi Đức | C77: Anh | D77: D24CQCN03-B | E77: D24CN | F77: SKD1108 | G77: Phương pháp luận NCKH | H77: Mở lớp riêng học vượt
+A78: B24DCCN047 | B78: Trần Phi | C78: Anh | D78: D24CQCN03-B | E78: D24CN | F78: INT1319 | G78: Hệ điều hành | H78: Mở lớp riêng học vượt
+A79: B24DCCN047 | B79: Trần Phi | C79: Anh | D79: D24CQCN03-B | E79: D24CN | F79: SKD1108 | G79: Phương pháp luận NCKH | H79: Mở lớp riêng học vượt
+A80: B24DCCN080 | B80: Nguyễn Thành | C80: Công | D80: D24CQCN03-B | E80: D24CN | F80: INT1319 | G80: Hệ điều hành | H80: Mở lớp riêng học vượt
+A81: B24DCCN080 | B81: Nguyễn Thành | C81: Công | D81: D24CQCN03-B | E81: D24CN | F81: SKD1108 | G81: Phương pháp luận NCKH | H81: Mở lớp riêng học vượt
+A82: B24DCCN102 | B82: Bùi Hà Hải | C82: Đạt | D82: D24CQCN03-B | E82: D24CN | F82: INT1319 | G82: Hệ điều hành | H82: Mở lớp riêng học vượt
+A83: B24DCCN102 | B83: Bùi Hà Hải | C83: Đạt | D83: D24CQCN03-B | E83: D24CN | F83: SKD1108 | G83: Phương pháp luận NCKH | H83: Mở lớp riêng học vượt
+A84: B24DCCN113 | B84: Ngô Quang | C84: Đạt | D84: D24CQCN03-B | E84: D24CN | F84: INT1319 | G84: Hệ điều hành | H84: Mở lớp riêng học vượt
+A85: B24DCCN113 | B85: Ngô Quang | C85: Đạt | D85: D24CQCN03-B | E85: D24CN | F85: SKD1108 | G85: Phương pháp luận NCKH | H85: Mở lớp riêng học vượt
+A86: B24DCCN135 | B86: Lê Anh | C86: Đức | D86: D24CQCN03-B | E86: D24CN | F86: INT1319 | G86: Hệ điều hành | H86: Mở lớp riêng học vượt
+A87: B24DCCN135 | B87: Lê Anh | C87: Đức | D87: D24CQCN03-B | E87: D24CN | F87: SKD1108 | G87: Phương pháp luận NCKH | H87: Mở lớp riêng học vượt
+A88: B24DCCN146 | B88: Bùi Tiến | C88: Dũng | D88: D24CQCN03-B | E88: D24CN | F88: INT1319 | G88: Hệ điều hành | H88: Mở lớp riêng học vượt
+A89: B24DCCN146 | B89: Bùi Tiến | C89: Dũng | D89: D24CQCN03-B | E89: D24CN | F89: SKD1108 | G89: Phương pháp luận NCKH | H89: Mở lớp riêng học vượt
+A90: B24DCCN267 | B90: Thiều Đình | C90: Hưng | D90: D24CQCN03-B | E90: D24CN | F90: INT1319 | G90: Hệ điều hành | H90: Mở lớp riêng học vượt
+A91: B24DCCN267 | B91: Thiều Đình | C91: Hưng | D91: D24CQCN03-B | E91: D24CN | F91: SKD1108 | G91: Phương pháp luận NCKH | H91: Mở lớp riêng học vượt
+A92: B24DCCN311 | B92: Nguyễn Quốc | C92: Khánh | D92: D24CQCN03-B | E92: D24CN | F92: INT1319 | G92: Hệ điều hành | H92: Mở lớp riêng học vượt
+A93: B24DCCN311 | B93: Nguyễn Quốc | C93: Khánh | D93: D24CQCN03-B | E93: D24CN | F93: SKD1108 | G93: Phương pháp luận NCKH | H93: Mở lớp riêng học vượt
+A94: B24DCCN410 | B94: Nguyễn Tiến Thành | C94: Nam | D94: D24CQCN03-B | E94: D24CN | F94: INT1319 | G94: Hệ điều hành | H94: Mở lớp riêng học vượt
+A95: B24DCCN410 | B95: Nguyễn Tiến Thành | C95: Nam | D95: D24CQCN03-B | E95: D24CN | F95: SKD1108 | G95: Phương pháp luận NCKH | H95: Mở lớp riêng học vượt
+A96: B24DCCN454 | B96: Vũ Lâm | C96: Phúc | D96: D24CQCN03-B | E96: D24CN | F96: INT1319 | G96: Hệ điều hành | H96: Mở lớp riêng học vượt
+A97: B24DCCN454 | B97: Vũ Lâm | C97: Phúc | D97: D24CQCN03-B | E97: D24CN | F97: SKD1108 | G97: Phương pháp luận NCKH | H97: Mở lớp riêng học vượt
+A98: B24DCCN509 | B98: Đặng Công | C98: Tài | D98: D24CQCN03-B | E98: D24CN | F98: INT1319 | G98: Hệ điều hành | H98: Mở lớp riêng học vượt
+A99: B24DCCN509 | B99: Đặng Công | C99: Tài | D99: D24CQCN03-B | E99: D24CN | F99: SKD1108 | G99: Phương pháp luận NCKH | H99: Mở lớp riêng học vượt
+A100: B24DCCN520 | B100: Ngô Phùng Chiến | C100: Thắng | D100: D24CQCN03-B | E100: D24CN | F100: INT1319 | G100: Hệ điều hành | H100: Mở lớp riêng học vượt
+A101: B24DCCN520 | B101: Ngô Phùng Chiến | C101: Thắng | D101: D24CQCN03-B | E101: D24CN | F101: SKD1108 | G101: Phương pháp luận NCKH | H101: Mở lớp riêng học vượt
+A102: B24DCCN531 | B102: Nguyễn Đàm | C102: Thành | D102: D24CQCN03-B | E102: D24CN | F102: INT1319 | G102: Hệ điều hành | H102: Mở lớp riêng học vượt
+A103: B24DCCN531 | B103: Nguyễn Đàm | C103: Thành | D103: D24CQCN03-B | E103: D24CN | F103: SKD1108 | G103: Phương pháp luận NCKH | H103: Mở lớp riêng học vượt
+A104: B24DCCN586 | B104: Thái Văn | C104: Tú | D104: D24CQCN03-B | E104: D24CN | F104: INT1319 | G104: Hệ điều hành | H104: Mở lớp riêng học vượt
+A105: B24DCCN586 | B105: Thái Văn | C105: Tú | D105: D24CQCN03-B | E105: D24CN | F105: SKD1108 | G105: Phương pháp luận NCKH | H105: Mở lớp riêng học vượt
+A106: B24DCCN048 | B106: Trần Tiến | C106: Anh | D106: D24CQCN04-B | E106: D24CN | F106: INT1319 | G106: Hệ điều hành | H106: Mở lớp riêng học vượt
+A107: B24DCCN048 | B107: Trần Tiến | C107: Anh | D107: D24CQCN04-B | E107: D24CN | F107: SKD1108 | G107: Phương pháp luận NCKH | H107: Mở lớp riêng học vượt
+A108: B24DCCN103 | B108: Đàm Gia | C108: Đạt | D108: D24CQCN04-B | E108: D24CN | F108: INT1319 | G108: Hệ điều hành | H108: Mở lớp riêng học vượt
+A109: B24DCCN103 | B109: Đàm Gia | C109: Đạt | D109: D24CQCN04-B | E109: D24CN | F109: SKD1108 | G109: Phương pháp luận NCKH | H109: Mở lớp riêng học vượt
+A110: B24DCCN114 | B110: Nguyễn Công | C110: Đạt | D110: D24CQCN04-B | E110: D24CN | F110: INT1319 | G110: Hệ điều hành | H110: Mở lớp riêng học vượt
+A111: B24DCCN114 | B111: Nguyễn Công | C111: Đạt | D111: D24CQCN04-B | E111: D24CN | F111: SKD1108 | G111: Phương pháp luận NCKH | H111: Mở lớp riêng học vượt
+A112: B24DCCN125 | B112: Nguyễn Quang | C112: Diệu | D112: D24CQCN04-B | E112: D24CN | F112: INT1319 | G112: Hệ điều hành | H112: Mở lớp riêng học vượt
+A113: B24DCCN125 | B113: Nguyễn Quang | C113: Diệu | D113: D24CQCN04-B | E113: D24CN | F113: SKD1108 | G113: Phương pháp luận NCKH | H113: Mở lớp riêng học vượt
+A114: B24DCCN136 | B114: Lê Minh | C114: Đức | D114: D24CQCN04-B | E114: D24CN | F114: INT1319 | G114: Hệ điều hành | H114: Mở lớp riêng học vượt
+A115: B24DCCN136 | B115: Lê Minh | C115: Đức | D115: D24CQCN04-B | E115: D24CN | F115: SKD1108 | G115: Phương pháp luận NCKH | H115: Mở lớp riêng học vượt
+A116: B24DCCN180 | B116: Trịnh Thị | C116: Giang | D116: D24CQCN04-B | E116: D24CN | F116: INT1319 | G116: Hệ điều hành | H116: Mở lớp riêng học vượt
+A117: B24DCCN180 | B117: Trịnh Thị | C117: Giang | D117: D24CQCN04-B | E117: D24CN | F117: SKD1108 | G117: Phương pháp luận NCKH | H117: Mở lớp riêng học vượt
+A118: B24DCCN202 | B118: Phạm Tiến | C118: Hiệp | D118: D24CQCN04-B | E118: D24CN | F118: INT1319 | G118: Hệ điều hành | H118: Mở lớp riêng học vượt
+A119: B24DCCN202 | B119: Phạm Tiến | C119: Hiệp | D119: D24CQCN04-B | E119: D24CN | F119: SKD1108 | G119: Phương pháp luận NCKH | H119: Mở lớp riêng học vượt
+A120: B24DCCN323 | B120: Lê Duy | C120: Khôi | D120: D24CQCN04-B | E120: D24CN | F120: INT1319 | G120: Hệ điều hành | H120: Mở lớp riêng học vượt
+A121: B24DCCN323 | B121: Lê Duy | C121: Khôi | D121: D24CQCN04-B | E121: D24CN | F121: SKD1108 | G121: Phương pháp luận NCKH | H121: Mở lớp riêng học vượt
+A122: B24DCCN367 | B122: Nguyễn Thành | C122: Long | D122: D24CQCN04-B | E122: D24CN | F122: INT1319 | G122: Hệ điều hành | H122: Mở lớp riêng học vượt
+A123: B24DCCN367 | B123: Nguyễn Thành | C123: Long | D123: D24CQCN04-B | E123: D24CN | F123: SKD1108 | G123: Phương pháp luận NCKH | H123: Mở lớp riêng học vượt
+A124: B24DCCN400 | B124: Phạm Sỹ | C124: Minh | D124: D24CQCN04-B | E124: D24CN | F124: INT1319 | G124: Hệ điều hành | H124: Mở lớp riêng học vượt
+A125: B24DCCN400 | B125: Phạm Sỹ | C125: Minh | D125: D24CQCN04-B | E125: D24CN | F125: SKD1108 | G125: Phương pháp luận NCKH | H125: Mở lớp riêng học vượt
+A126: B24DCCN455 | B126: Nguyễn Thanh | C126: Phùng | D126: D24CQCN04-B | E126: D24CN | F126: INT1319 | G126: Hệ điều hành | H126: Mở lớp riêng học vượt
+A127: B24DCCN455 | B127: Nguyễn Thanh | C127: Phùng | D127: D24CQCN04-B | E127: D24CN | F127: SKD1108 | G127: Phương pháp luận NCKH | H127: Mở lớp riêng học vượt
+A128: B24DCCN181 | B128: Nguyễn Văn | C128: Giáp | D128: D24CQCN05-B | E128: D24CN | F128: INT1319 | G128: Hệ điều hành | H128: Mở lớp riêng học vượt
+A129: B24DCCN181 | B129: Nguyễn Văn | C129: Giáp | D129: D24CQCN05-B | E129: D24CN | F129: SKD1108 | G129: Phương pháp luận NCKH | H129: Mở lớp riêng học vượt
+A130: B24DCCN192 | B130: Vũ Thành | C130: Hải | D130: D24CQCN05-B | E130: D24CN | F130: INT1319 | G130: Hệ điều hành | H130: Mở lớp riêng học vượt
+A131: B24DCCN192 | B131: Vũ Thành | C131: Hải | D131: D24CQCN05-B | E131: D24CN | F131: SKD1108 | G131: Phương pháp luận NCKH | H131: Mở lớp riêng học vượt
+A132: B24DCCN214 | B132: Nguyễn Đức | C132: Hiếu | D132: D24CQCN05-B | E132: D24CN | F132: INT1319 | G132: Hệ điều hành | H132: Mở lớp riêng học vượt
+A133: B24DCCN214 | B133: Nguyễn Đức | C133: Hiếu | D133: D24CQCN05-B | E133: D24CN | F133: SKD1108 | G133: Phương pháp luận NCKH | H133: Mở lớp riêng học vượt
+A134: B24DCCN313 | B134: Phạm Duy | C134: Khánh | D134: D24CQCN05-B | E134: D24CN | F134: INT1319 | G134: Hệ điều hành | H134: Mở lớp riêng học vượt
+A135: B24DCCN313 | B135: Phạm Duy | C135: Khánh | D135: D24CQCN05-B | E135: D24CN | F135: SKD1108 | G135: Phương pháp luận NCKH | H135: Mở lớp riêng học vượt
+A136: B24DCCN357 | B136: Trần Đức | C136: Lợi | D136: D24CQCN05-B | E136: D24CN | F136: INT1319 | G136: Hệ điều hành | H136: Mở lớp riêng học vượt
+A137: B24DCCN357 | B137: Trần Đức | C137: Lợi | D137: D24CQCN05-B | E137: D24CN | F137: SKD1108 | G137: Phương pháp luận NCKH | H137: Mở lớp riêng học vượt
+A138: B24DCCN379 | B138: Hoàng Đức | C138: Mạnh | D138: D24CQCN05-B | E138: D24CN | F138: INT1319 | G138: Hệ điều hành | H138: Mở lớp riêng học vượt
+A139: B24DCCN379 | B139: Hoàng Đức | C139: Mạnh | D139: D24CQCN05-B | E139: D24CN | F139: SKD1108 | G139: Phương pháp luận NCKH | H139: Mở lớp riêng học vượt
+A140: B24DCCN390 | B140: Lê Văn | C140: Minh | D140: D24CQCN05-B | E140: D24CN | F140: INT1319 | G140: Hệ điều hành | H140: Mở lớp riêng học vượt
+A141: B24DCCN390 | B141: Lê Văn | C141: Minh | D141: D24CQCN05-B | E141: D24CN | F141: SKD1108 | G141: Phương pháp luận NCKH | H141: Mở lớp riêng học vượt
+A142: B24DCCN401 | B142: Phan Nhật | C142: Minh | D142: D24CQCN05-B | E142: D24CN | F142: INT1319 | G142: Hệ điều hành | H142: Mở lớp riêng học vượt
+A143: B24DCCN401 | B143: Phan Nhật | C143: Minh | D143: D24CQCN05-B | E143: D24CN | F143: SKD1108 | G143: Phương pháp luận NCKH | H143: Mở lớp riêng học vượt
+A144: B24DCCN412 | B144: Phạm Nguyễn Nhật | C144: Nam | D144: D24CQCN05-B | E144: D24CN | F144: INT1319 | G144: Hệ điều hành | H144: Mở lớp riêng học vượt
+A145: B24DCCN412 | B145: Phạm Nguyễn Nhật | C145: Nam | D145: D24CQCN05-B | E145: D24CN | F145: SKD1108 | G145: Phương pháp luận NCKH | H145: Mở lớp riêng học vượt
+A146: B24DCCN445 | B146: Bạch Trường | C146: Phú | D146: D24CQCN05-B | E146: D24CN | F146: INT1319 | G146: Hệ điều hành | H146: Mở lớp riêng học vượt
+A147: B24DCCN445 | B147: Bạch Trường | C147: Phú | D147: D24CQCN05-B | E147: D24CN | F147: SKD1108 | G147: Phương pháp luận NCKH | H147: Mở lớp riêng học vượt
+A148: B24DCCN039 | B148: Nguyễn Vũ | C148: Anh | D148: D24CQCN06-B | E148: D24CN | F148: INT1319 | G148: Hệ điều hành | H148: Mở lớp riêng học vượt
+A149: B24DCCN039 | B149: Nguyễn Vũ | C149: Anh | D149: D24CQCN06-B | E149: D24CN | F149: SKD1108 | G149: Phương pháp luận NCKH | H149: Mở lớp riêng học vượt
+A150: B24DCCN160 | B150: Tạ Quang | C150: Được | D150: D24CQCN06-B | E150: D24CN | F150: INT1319 | G150: Hệ điều hành | H150: Mở lớp riêng học vượt
+A151: B24DCCN160 | B151: Tạ Quang | C151: Được | D151: D24CQCN06-B | E151: D24CN | F151: SKD1108 | G151: Phương pháp luận NCKH | H151: Mở lớp riêng học vượt
+A152: B24DCCN204 | B152: Đặng Văn | C152: Hiếu | D152: D24CQCN06-B | E152: D24CN | F152: INT1319 | G152: Hệ điều hành | H152: Mở lớp riêng học vượt
+A153: B24DCCN204 | B153: Đặng Văn | C153: Hiếu | D153: D24CQCN06-B | E153: D24CN | F153: SKD1108 | G153: Phương pháp luận NCKH | H153: Mở lớp riêng học vượt
+A154: B24DCCN270 | B154: Bùi Quang | C154: Huy | D154: D24CQCN06-B | E154: D24CN | F154: INT1319 | G154: Hệ điều hành | H154: Mở lớp riêng học vượt
+A155: B24DCCN270 | B155: Bùi Quang | C155: Huy | D155: D24CQCN06-B | E155: D24CN | F155: SKD1108 | G155: Phương pháp luận NCKH | H155: Mở lớp riêng học vượt
+A156: B24DCCN303 | B156: Lê Duy | C156: Khánh | D156: D24CQCN06-B | E156: D24CN | F156: INT1319 | G156: Hệ điều hành | H156: Mở lớp riêng học vượt
+A157: B24DCCN303 | B157: Lê Duy | C157: Khánh | D157: D24CQCN06-B | E157: D24CN | F157: SKD1108 | G157: Phương pháp luận NCKH | H157: Mở lớp riêng học vượt
+A158: B24DCCN347 | B158: Ngô Hoàng | C158: Linh | D158: D24CQCN06-B | E158: D24CN | F158: INT1319 | G158: Hệ điều hành | H158: Mở lớp riêng học vượt
+A159: B24DCCN347 | B159: Ngô Hoàng | C159: Linh | D159: D24CQCN06-B | E159: D24CN | F159: SKD1108 | G159: Phương pháp luận NCKH | H159: Mở lớp riêng học vượt
+A160: B24DCCN358 | B160: Bùi Tuấn | C160: Long | D160: D24CQCN06-B | E160: D24CN | F160: INT1319 | G160: Hệ điều hành | H160: Mở lớp riêng học vượt
+A161: B24DCCN358 | B161: Bùi Tuấn | C161: Long | D161: D24CQCN06-B | E161: D24CN | F161: SKD1108 | G161: Phương pháp luận NCKH | H161: Mở lớp riêng học vượt
+A162: B24DCCN413 | B162: Phạm Văn | C162: Nam | D162: D24CQCN06-B | E162: D24CN | F162: INT1319 | G162: Hệ điều hành | H162: Mở lớp riêng học vượt
+A163: B24DCCN413 | B163: Phạm Văn | C163: Nam | D163: D24CQCN06-B | E163: D24CN | F163: SKD1108 | G163: Phương pháp luận NCKH | H163: Mở lớp riêng học vượt
+A164: B24DCCN468 | B164: Vũ Hoàng | C164: Quân | D164: D24CQCN06-B | E164: D24CN | F164: INT1319 | G164: Hệ điều hành | H164: Mở lớp riêng học vượt
+A165: B24DCCN468 | B165: Vũ Hoàng | C165: Quân | D165: D24CQCN06-B | E165: D24CN | F165: SKD1108 | G165: Phương pháp luận NCKH | H165: Mở lớp riêng học vượt
+A166: B24DCCN479 | B166: Nguyễn Văn | C166: Quang | D166: D24CQCN06-B | E166: D24CN | F166: INT1319 | G166: Hệ điều hành | H166: Mở lớp riêng học vượt
+A167: B24DCCN479 | B167: Nguyễn Văn | C167: Quang | D167: D24CQCN06-B | E167: D24CN | F167: SKD1108 | G167: Phương pháp luận NCKH | H167: Mở lớp riêng học vượt
+A168: B24DCCN490 | B168: Vũ Tiến | C168: Quyền | D168: D24CQCN06-B | E168: D24CN | F168: INT1319 | G168: Hệ điều hành | H168: Mở lớp riêng học vượt
+A169: B24DCCN490 | B169: Vũ Tiến | C169: Quyền | D169: D24CQCN06-B | E169: D24CN | F169: SKD1108 | G169: Phương pháp luận NCKH | H169: Mở lớp riêng học vượt
+A170: B24DCCN589 | B170: Tưởng Văn | C170: Tú | D170: D24CQCN06-B | E170: D24CN | F170: INT1319 | G170: Hệ điều hành | H170: Mở lớp riêng học vượt
+A171: B24DCCN589 | B171: Tưởng Văn | C171: Tú | D171: D24CQCN06-B | E171: D24CN | F171: SKD1108 | G171: Phương pháp luận NCKH | H171: Mở lớp riêng học vượt
+A172: B24DCCN622 | B172: Nguyễn Thành | C172: Vinh | D172: D24CQCN06-B | E172: D24CN | F172: INT1319 | G172: Hệ điều hành | H172: Mở lớp riêng học vượt
+A173: B24DCCN622 | B173: Nguyễn Thành | C173: Vinh | D173: D24CQCN06-B | E173: D24CN | F173: SKD1108 | G173: Phương pháp luận NCKH | H173: Mở lớp riêng học vượt
+A174: B24DCCN051 | B174: Bùi Minh | C174: Ánh | D174: D24CQCN07-B | E174: D24CN | F174: INT1319 | G174: Hệ điều hành | H174: Mở lớp riêng học vượt
+A175: B24DCCN051 | B175: Bùi Minh | C175: Ánh | D175: D24CQCN07-B | E175: D24CN | F175: SKD1108 | G175: Phương pháp luận NCKH | H175: Mở lớp riêng học vượt
+A176: B24DCCN227 | B176: Lê Văn | C176: Hoàn | D176: D24CQCN07-B | E176: D24CN | F176: INT1319 | G176: Hệ điều hành | H176: Mở lớp riêng học vượt
+A177: B24DCCN227 | B177: Lê Văn | C177: Hoàn | D177: D24CQCN07-B | E177: D24CN | F177: SKD1108 | G177: Phương pháp luận NCKH | H177: Mở lớp riêng học vượt
+A178: B24DCCN238 | B178: Nghiêm Xuân | C178: Hoàng | D178: D24CQCN07-B | E178: D24CN | F178: INT1319 | G178: Hệ điều hành | H178: Mở lớp riêng học vượt
+A179: B24DCCN238 | B179: Nghiêm Xuân | C179: Hoàng | D179: D24CQCN07-B | E179: D24CN | F179: SKD1108 | G179: Phương pháp luận NCKH | H179: Mở lớp riêng học vượt
+A180: B24DCCN348 | B180: Nguyễn Hoàng Diệu | C180: Linh | D180: D24CQCN07-B | E180: D24CN | F180: INT1319 | G180: Hệ điều hành | H180: Mở lớp riêng học vượt
+A181: B24DCCN348 | B181: Nguyễn Hoàng Diệu | C181: Linh | D181: D24CQCN07-B | E181: D24CN | F181: SKD1108 | G181: Phương pháp luận NCKH | H181: Mở lớp riêng học vượt
+A182: B24DCCN425 | B182: Hoàng Thế | C182: Ngọc | D182: D24CQCN07-B | E182: D24CN | F182: INT1319 | G182: Hệ điều hành | H182: Mở lớp riêng học vượt
+A183: B24DCCN425 | B183: Hoàng Thế | C183: Ngọc | D183: D24CQCN07-B | E183: D24CN | F183: SKD1108 | G183: Phương pháp luận NCKH | H183: Mở lớp riêng học vượt
+A184: B24DCCN557 | B184: Lại Đức | C184: Toàn | D184: D24CQCN07-B | E184: D24CN | F184: INT1319 | G184: Hệ điều hành | H184: Mở lớp riêng học vượt
+A185: B24DCCN557 | B185: Lại Đức | C185: Toàn | D185: D24CQCN07-B | E185: D24CN | F185: SKD1108 | G185: Phương pháp luận NCKH | H185: Mở lớp riêng học vượt
+A186: B24DCCN590 | B186: Bùi Đức | C186: Tuân | D186: D24CQCN07-B | E186: D24CN | F186: INT1319 | G186: Hệ điều hành | H186: Mở lớp riêng học vượt
+A187: B24DCCN590 | B187: Bùi Đức | C187: Tuân | D187: D24CQCN07-B | E187: D24CN | F187: SKD1108 | G187: Phương pháp luận NCKH | H187: Mở lớp riêng học vượt
+A188: B24DCCN601 | B188: Lê Sơn | C188: Tùng | D188: D24CQCN07-B | E188: D24CN | F188: INT1319 | G188: Hệ điều hành | H188: Mở lớp riêng học vượt
+A189: B24DCCN601 | B189: Lê Sơn | C189: Tùng | D189: D24CQCN07-B | E189: D24CN | F189: SKD1108 | G189: Phương pháp luận NCKH | H189: Mở lớp riêng học vượt
+A190: B24DCCN239 | B190: Nguyễn Anh | C190: Hoàng | D190: D24CQCN08-B | E190: D24CN | F190: INT1319 | G190: Hệ điều hành | H190: Mở lớp riêng học vượt
+A191: B24DCCN239 | B191: Nguyễn Anh | C191: Hoàng | D191: D24CQCN08-B | E191: D24CN | F191: SKD1108 | G191: Phương pháp luận NCKH | H191: Mở lớp riêng học vượt
+A192: B24DCCN316 | B192: Trần Quốc | C192: Khánh | D192: D24CQCN08-B | E192: D24CN | F192: INT1319 | G192: Hệ điều hành | H192: Mở lớp riêng học vượt
+A193: B24DCCN316 | B193: Trần Quốc | C193: Khánh | D193: D24CQCN08-B | E193: D24CN | F193: SKD1108 | G193: Phương pháp luận NCKH | H193: Mở lớp riêng học vượt
+A194: B24DCCN349 | B194: Nguyễn Phương | C194: Linh | D194: D24CQCN08-B | E194: D24CN | F194: INT1319 | G194: Hệ điều hành | H194: Mở lớp riêng học vượt
+A195: B24DCCN349 | B195: Nguyễn Phương | C195: Linh | D195: D24CQCN08-B | E195: D24CN | F195: SKD1108 | G195: Phương pháp luận NCKH | H195: Mở lớp riêng học vượt
+A196: B24DCCN130 | B196: Nguyễn Phương | C196: Đông | D196: D24CQCN09-B | E196: D24CN | F196: INT1319 | G196: Hệ điều hành | H196: Mở lớp riêng học vượt
+A197: B24DCCN130 | B197: Nguyễn Phương | C197: Đông | D197: D24CQCN09-B | E197: D24CN | F197: SKD1108 | G197: Phương pháp luận NCKH | H197: Mở lớp riêng học vượt
+A198: B24DCCN581 | B198: Nguyễn Anh | C198: Tú | D198: D24CQCN09-B | E198: D24CN | F198: INT1319 | G198: Hệ điều hành | H198: Mở lớp riêng học vượt
+A199: B24DCCN581 | B199: Nguyễn Anh | C199: Tú | D199: D24CQCN09-B | E199: D24CN | F199: SKD1108 | G199: Phương pháp luận NCKH | H199: Mở lớp riêng học vượt
+A200: B24DCCN109 | B200: Hoàng Minh | C200: Đạt | D200: D24CQCN10-B | E200: D24CN | F200: INT1319 | G200: Hệ điều hành | H200: Mở lớp riêng học vượt
+A201: B24DCCN109 | B201: Hoàng Minh | C201: Đạt | D201: D24CQCN10-B | E201: D24CN | F201: SKD1108 | G201: Phương pháp luận NCKH | H201: Mở lớp riêng học vượt
+A202: B24DCCN197 | B202: Nguyễn Văn | C202: Hậu | D202: D24CQCN10-B | E202: D24CN | F202: INT1319 | G202: Hệ điều hành | H202: Mở lớp riêng học vượt
+A203: B24DCCN197 | B203: Nguyễn Văn | C203: Hậu | D203: D24CQCN10-B | E203: D24CN | F203: SKD1108 | G203: Phương pháp luận NCKH | H203: Mở lớp riêng học vượt
+A204: B24DCCN252 | B204: Dương Mạnh | C204: Hùng | D204: D24CQCN10-B | E204: D24CN | F204: INT1319 | G204: Hệ điều hành | H204: Mở lớp riêng học vượt
+A205: B24DCCN252 | B205: Dương Mạnh | C205: Hùng | D205: D24CQCN10-B | E205: D24CN | F205: SKD1108 | G205: Phương pháp luận NCKH | H205: Mở lớp riêng học vượt
+A206: B24DCCN263 | B206: Phạm Duy | C206: Hưng | D206: D24CQCN10-B | E206: D24CN | F206: INT1319 | G206: Hệ điều hành | H206: Mở lớp riêng học vượt
+A207: B24DCCN263 | B207: Phạm Duy | C207: Hưng | D207: D24CQCN10-B | E207: D24CN | F207: SKD1108 | G207: Phương pháp luận NCKH | H207: Mở lớp riêng học vượt
+A208: B24DCCN296 | B208: Phạm An | C208: Khang | D208: D24CQCN10-B | E208: D24CN | F208: INT1319 | G208: Hệ điều hành | H208: Mở lớp riêng học vượt
+A209: B24DCCN296 | B209: Phạm An | C209: Khang | D209: D24CQCN10-B | E209: D24CN | F209: SKD1108 | G209: Phương pháp luận NCKH | H209: Mở lớp riêng học vượt
+A210: B24DCCN318 | B210: Phạm Xuân | C210: Khiêm | D210: D24CQCN10-B | E210: D24CN | F210: INT1319 | G210: Hệ điều hành | H210: Mở lớp riêng học vượt
+A211: B24DCCN318 | B211: Phạm Xuân | C211: Khiêm | D211: D24CQCN10-B | E211: D24CN | F211: SKD1108 | G211: Phương pháp luận NCKH | H211: Mở lớp riêng học vượt
+A212: B24DCCN165 | B212: Nguyễn Tùng | C212: Dương | D212: D24CQCN11-B | E212: D24CN | F212: INT1319 | G212: Hệ điều hành | H212: Mở lớp riêng học vượt
+A213: B24DCCN165 | B213: Nguyễn Tùng | C213: Dương | D213: D24CQCN11-B | E213: D24CN | F213: SKD1108 | G213: Phương pháp luận NCKH | H213: Mở lớp riêng học vượt
+A214: B24DCCN363 | B214: Nguyễn Đức | C214: Long | D214: D24CQCN11-B | E214: D24CN | F214: INT1319 | G214: Hệ điều hành | H214: Mở lớp riêng học vượt
+A215: B24DCCN363 | B215: Nguyễn Đức | C215: Long | D215: D24CQCN11-B | E215: D24CN | F215: SKD1108 | G215: Phương pháp luận NCKH | H215: Mở lớp riêng học vượt
+A216: B24DCCN385 | B216: Nguyễn Tiến | C216: Mạnh | D216: D24CQCN11-B | E216: D24CN | F216: INT1319 | G216: Hệ điều hành | H216: Mở lớp riêng học vượt
+A217: B24DCCN385 | B217: Nguyễn Tiến | C217: Mạnh | D217: D24CQCN11-B | E217: D24CN | F217: SKD1108 | G217: Phương pháp luận NCKH | H217: Mở lớp riêng học vượt
+A218: B24DCCN418 | B218: Trần Hải | C218: Nam | D218: D24CQCN11-B | E218: D24CN | F218: INT1319 | G218: Hệ điều hành | H218: Mở lớp riêng học vượt
+A219: B24DCCN418 | B219: Trần Hải | C219: Nam | D219: D24CQCN11-B | E219: D24CN | F219: SKD1108 | G219: Phương pháp luận NCKH | H219: Mở lớp riêng học vượt
+A220: B24DCCN462 | B220: Nguyễn Anh | C220: Quân | D220: D24CQCN11-B | E220: D24CN | F220: INT1319 | G220: Hệ điều hành | H220: Mở lớp riêng học vượt
+A221: B24DCCN462 | B221: Nguyễn Anh | C221: Quân | D221: D24CQCN11-B | E221: D24CN | F221: SKD1108 | G221: Phương pháp luận NCKH | H221: Mở lớp riêng học vượt
+A222: B24DCCN561 | B222: Trần Ngọc | C222: Toàn | D222: D24CQCN11-B | E222: D24CN | F222: INT1319 | G222: Hệ điều hành | H222: Mở lớp riêng học vượt
+A223: B24DCCN561 | B223: Trần Ngọc | C223: Toàn | D223: D24CQCN11-B | E223: D24CN | F223: SKD1108 | G223: Phương pháp luận NCKH | H223: Mở lớp riêng học vượt
+A224: B24DCCN605 | B224: Đinh Thái | C224: Tuyển | D224: D24CQCN11-B | E224: D24CN | F224: INT1319 | G224: Hệ điều hành | H224: Mở lớp riêng học vượt
+A225: B24DCCN605 | B225: Đinh Thái | C225: Tuyển | D225: D24CQCN11-B | E225: D24CN | F225: SKD1108 | G225: Phương pháp luận NCKH | H225: Mở lớp riêng học vượt
+A226: B24DCDT111 | B226: Nguyễn Chí | C226: Hiếu | D226: D24CQDT01-B | E226: D24DT | F226: INT13185 | G226: Cấu trúc dữ liệu và giải thuật | H226: Học ghép cùng D22,23,24
+A227: B24DCDT079 | B227: Nguyễn Mạnh | C227: Dũng | D227: D24CQDT02-B | E227: D24DT | F227: INT13185 | G227: Cấu trúc dữ liệu và giải thuật | H227: Học ghép cùng D22,23,24
+A228: B24DCDT117 | B228: Nguyễn Việt | C228: Hoàn | D228: D24CQDT02-B | E228: D24DT | F228: INT13185 | G228: Cấu trúc dữ liệu và giải thuật | H228: Học ghép cùng D22,23,24
+A229: B24DCDT182 | B229: Nguyễn Thế Hải | C229: Long | D229: D24CQDT02-B | E229: D24DT | F229: INT13185 | G229: Cấu trúc dữ liệu và giải thuật | H229: Học ghép cùng D22,23,24
+A230: B24DCDT023 | B230: Nguyễn Gia | C230: Bảo | D230: D24CQDT03-B | E230: D24DT | F230: INT13185 | G230: Cấu trúc dữ liệu và giải thuật | H230: Học ghép cùng D22,23,24
+A231: B24DCDT028 | B231: Trần Đức | C231: Bình | D231: D24CQDT03-B | E231: D24DT | F231: INT13185 | G231: Cấu trúc dữ liệu và giải thuật | H231: Học ghép cùng D22,23,24
+A232: B24DCDT055 | B232: Trương Văn | C232: Đồng | D232: D24CQDT03-B | E232: D24DT | F232: INT13185 | G232: Cấu trúc dữ liệu và giải thuật | H232: Học ghép cùng D22,23,24
+A233: B24DCDT060 | B233: Lê Văn | C233: Đức | D233: D24CQDT03-B | E233: D24DT | F233: INT13185 | G233: Cấu trúc dữ liệu và giải thuật | H233: Học ghép cùng D22,23,24
+A234: B24DCDT173 | B234: Nguyễn Thành | C234: Lâm | D234: D24CQDT03-B | E234: D24DT | F234: INT13185 | G234: Cấu trúc dữ liệu và giải thuật | H234: Học ghép cùng D22,23,24
+A235: B24DCDT188 | B235: Đào Đức | C235: Mạnh | D235: D24CQDT03-B | E235: D24DT | F235: INT13185 | G235: Cấu trúc dữ liệu và giải thuật | H235: Học ghép cùng D22,23,24
+A236: B24DCDT213 | B236: Trần Đức | C236: Ngọc | D236: D24CQDT03-B | E236: D24DT | F236: INT13185 | G236: Cấu trúc dữ liệu và giải thuật | H236: Học ghép cùng D22,23,24
+A237: B24DCDT223 | B237: Nguyễn Đức | C237: Phúc | D237: D24CQDT03-B | E237: D24DT | F237: INT13185 | G237: Cấu trúc dữ liệu và giải thuật | H237: Học ghép cùng D22,23,24
+A238: B24DCDT273 | B238: Nguyễn Quang | C238: Trung | D238: D24CQDT03-B | E238: D24DT | F238: INT13185 | G238: Cấu trúc dữ liệu và giải thuật | H238: Học ghép cùng D22,23,24
+A239: B24DCDT204 | B239: Trần Quang | C239: Minh | D239: D24CQDT04-B | E239: D24DT | F239: INT13185 | G239: Cấu trúc dữ liệu và giải thuật | H239: Học ghép cùng D22,23,24
+A240: B24DCDT294 | B240: Lê Quang | C240: Việt | D240: D24CQDT04-B | E240: D24DT | F240: INT13185 | G240: Cấu trúc dữ liệu và giải thuật | H240: Học ghép cùng D22,23,24
+A241: B24DCKT094 | B241: Trần Thị Thùy | C241: Linh | D241: D24CQKT01-B | E241: D24KT | F241: FIA1315 | G241: Kiểm toán căn bản | H241: Học ghép cùng D22,23,24
+A242: B24DCKT094 | B242: Trần Thị Thùy | C242: Linh | D242: D24CQKT01-B | E242: D24KT | F242: FIA1468 | G242: Phân tích tài chính doanh nghiệp | H242: Học ghép cùng D22,23,24
+A243: B24DCKT050 | B243: Đào Thị | C243: Hiền | D243: D24CQKT02-B | E243: D24KT | F243: FIA1315 | G243: Kiểm toán căn bản | H243: Học ghép cùng D22,23,24
+A244: B24DCKT050 | B244: Đào Thị | C244: Hiền | D244: D24CQKT02-B | E244: D24KT | F244: FIA1468 | G244: Phân tích tài chính doanh nghiệp | H244: Học ghép cùng D22,23,24
+A245: B24DCKT091 | B245: Nguyễn Thị Phương | C245: Linh | D245: D24CQKT02-B | E245: D24KT | F245: FIA1315 | G245: Kiểm toán căn bản | H245: Học ghép cùng D22,23,24
+A246: B24DCKT091 | B246: Nguyễn Thị Phương | C246: Linh | D246: D24CQKT02-B | E246: D24KT | F246: FIA1468 | G246: Phân tích tài chính doanh nghiệp | H246: Học ghép cùng D22,23,24
+A247: B24DCKT128 | B247: Vũ Thị Kim | C247: Oanh | D247: D24CQKT02-B | E247: D24KT | F247: FIA1315 | G247: Kiểm toán căn bản | H247: Học ghép cùng D22,23,24
+A248: B24DCKT128 | B248: Vũ Thị Kim | C248: Oanh | D248: D24CQKT02-B | E248: D24KT | F248: FIA1468 | G248: Phân tích tài chính doanh nghiệp | H248: Học ghép cùng D22,23,24
+A249: B24DCKT132 | B249: Hồ Như | C249: Quỳnh | D249: D24CQKT02-B | E249: D24KT | F249: FIA1315 | G249: Kiểm toán căn bản | H249: Học ghép cùng D22,23,24
+A250: B24DCKT132 | B250: Hồ Như | C250: Quỳnh | D250: D24CQKT02-B | E250: D24KT | F250: FIA1468 | G250: Phân tích tài chính doanh nghiệp | H250: Học ghép cùng D22,23,24
+A251: B24DCKT156 | B251: Nguyễn Minh | C251: Thúy | D251: D24CQKT03-B | E251: D24KT | F251: FIA1315 | G251: Kiểm toán căn bản | H251: Học ghép cùng D22,23,24
+A252: B24DCKT156 | B252: Nguyễn Minh | C252: Thúy | D252: D24CQKT03-B | E252: D24KT | F252: FIA1468 | G252: Phân tích tài chính doanh nghiệp | H252: Học ghép cùng D22,23,24
+A253: B24DCKT180 | B253: Nguyễn Thị Hiền | C253: Trang | D253: D24CQKT03-B | E253: D24KT | F253: FIA1315 | G253: Kiểm toán căn bản | H253: Học ghép cùng D22,23,24
+A254: B24DCKT180 | B254: Nguyễn Thị Hiền | C254: Trang | D254: D24CQKT03-B | E254: D24KT | F254: FIA1468 | G254: Phân tích tài chính doanh nghiệp | H254: Học ghép cùng D22,23,24
+A255: B24DCKT194 | B255: Hoàng Yến | C255: Vy | D255: D24CQKT03-B | E255: D24KT | F255: FIA1315 | G255: Kiểm toán căn bản | H255: Học ghép cùng D22,23,24
+A256: B24DCKT194 | B256: Hoàng Yến | C256: Vy | D256: D24CQKT03-B | E256: D24KT | F256: FIA1468 | G256: Phân tích tài chính doanh nghiệp | H256: Học ghép cùng D22,23,24
+A257: B24DCKT028 | B257: Đinh Thị Bảo | C257: Chi | D257: D24CQKT04-B | E257: D24KT | F257: FIA1315 | G257: Kiểm toán căn bản | H257: Học ghép cùng D22,23,24
+A258: B24DCKT028 | B258: Đinh Thị Bảo | C258: Chi | D258: D24CQKT04-B | E258: D24KT | F258: FIA1468 | G258: Phân tích tài chính doanh nghiệp | H258: Học ghép cùng D22,23,24
+A259: B24DCKT044 | B259: Nguyễn Thu | C259: Hà | D259: D24CQKT04-B | E259: D24KT | F259: FIA1315 | G259: Kiểm toán căn bản | H259: Học ghép cùng D22,23,24
+A260: B24DCKT044 | B260: Nguyễn Thu | C260: Hà | D260: D24CQKT04-B | E260: D24KT | F260: FIA1468 | G260: Phân tích tài chính doanh nghiệp | H260: Học ghép cùng D22,23,24
+A261: B24DCKT056 | B261: Đào Thị Mai | C261: Hoa | D261: D24CQKT04-B | E261: D24KT | F261: FIA1315 | G261: Kiểm toán căn bản | H261: Học ghép cùng D22,23,24
+A262: B24DCKT056 | B262: Đào Thị Mai | C262: Hoa | D262: D24CQKT04-B | E262: D24KT | F262: FIA1468 | G262: Phân tích tài chính doanh nghiệp | H262: Học ghép cùng D22,23,24
+A263: B24DCKT122 | B263: Đặng Yến | C263: Nhi | D263: D24CQKT04-B | E263: D24KT | F263: FIA1315 | G263: Kiểm toán căn bản | H263: Học ghép cùng D22,23,24
+A264: B24DCKT122 | B264: Đặng Yến | C264: Nhi | D264: D24CQKT04-B | E264: D24KT | F264: FIA1468 | G264: Phân tích tài chính doanh nghiệp | H264: Học ghép cùng D22,23,24
+A265: B24DCKT177 | B265: Ngô Hoàng Thuỳ | C265: Trang | D265: D24CQKT04-B | E265: D24KT | F265: FIA1315 | G265: Kiểm toán căn bản | H265: Học ghép cùng D22,23,24
+A266: B24DCKT177 | B266: Ngô Hoàng Thuỳ | C266: Trang | D266: D24CQKT04-B | E266: D24KT | F266: FIA1468 | G266: Phân tích tài chính doanh nghiệp | H266: Học ghép cùng D22,23,24
+A267: B24DCKT195 | B267: Lại Thị Hồng | C267: Vy | D267: D24CQKT04-B | E267: D24KT | F267: FIA1315 | G267: Kiểm toán căn bản | H267: Học ghép cùng D22,23,24
+A268: B24DCKT195 | B268: Lại Thị Hồng | C268: Vy | D268: D24CQKT04-B | E268: D24KT | F268: FIA1468 | G268: Phân tích tài chính doanh nghiệp | H268: Học ghép cùng D22,23,24
+A269: B24DCME109 | B269: Lường Thị | C269: Vân | D269: D24CQME02-B | E269: E24MR | F269: MAR1329_CLC | G269: Quản trị bán hàng | H269: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A270: B24DCME109 | B270: Lường Thị | C270: Vân | D270: D24CQME02-B | E270: E24MR | F270: MAR1425_CLC | G270: Marketing dịch vụ | H270: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A271: B24DCME109 | B271: Lường Thị | C271: Vân | D271: D24CQME02-B | E271: E24MR | F271: MAR1466_CLC | G271: Marketing số | H271: Học ghép cùng D22,23,24
+A272: B24DCME077 | B272: Ngô Hoài | C272: Phương | D272: D24CQME03-B | E272: E24MR | F272: MAR1329_CLC | G272: Quản trị bán hàng | H272: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A273: B24DCME077 | B273: Ngô Hoài | C273: Phương | D273: D24CQME03-B | E273: E24MR | F273: MAR1425_CLC | G273: Marketing dịch vụ | H273: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A274: B24DCME077 | B274: Ngô Hoài | C274: Phương | D274: D24CQME03-B | E274: E24MR | F274: MAR1466_CLC | G274: Marketing số | H274: Học ghép cùng D22,23,24
+A275: B24DCMR001 | B275: Nguyễn Hồng Minh | C275: An | D275: D24CQMR01-B | E275: D24MR | F275: BAS1153 | G275: Lịch sử Đảng cộng sản Việt Nam | H275: Mở lớp riêng học vượt
+A276: B24DCMR001 | B276: Nguyễn Hồng Minh | C276: An | D276: D24CQMR01-B | E276: D24MR | F276: BSA1309 | G276: Kinh tế lượng | H276: Mở lớp riêng học vượt
+A277: B24DCMR013 | B277: Nguyễn Thị Hồng | C277: Anh | D277: D24CQMR01-B | E277: D24MR | F277: BAS1153 | G277: Lịch sử Đảng cộng sản Việt Nam | H277: Mở lớp riêng học vượt
+A278: B24DCMR013 | B278: Nguyễn Thị Hồng | C278: Anh | D278: D24CQMR01-B | E278: D24MR | F278: BSA1309 | G278: Kinh tế lượng | H278: Mở lớp riêng học vượt
+A279: B24DCMR041 | B279: Lê Thị | C279: Diệu | D279: D24CQMR01-B | E279: D24MR | F279: BAS1153 | G279: Lịch sử Đảng cộng sản Việt Nam | H279: Mở lớp riêng học vượt
+A280: B24DCMR041 | B280: Lê Thị | C280: Diệu | D280: D24CQMR01-B | E280: D24MR | F280: BSA1309 | G280: Kinh tế lượng | H280: Mở lớp riêng học vượt
+A281: B24DCMR049 | B281: Lê Thị Thùy | C281: Dung | D281: D24CQMR01-B | E281: D24MR | F281: BAS1153 | G281: Lịch sử Đảng cộng sản Việt Nam | H281: Mở lớp riêng học vượt
+A282: B24DCMR049 | B282: Lê Thị Thùy | C282: Dung | D282: D24CQMR01-B | E282: D24MR | F282: BSA1309 | G282: Kinh tế lượng | H282: Mở lớp riêng học vượt
+A283: B24DCMR057 | B283: Nguyễn Thị Hương | C283: Giang | D283: D24CQMR01-B | E283: D24MR | F283: BAS1153 | G283: Lịch sử Đảng cộng sản Việt Nam | H283: Mở lớp riêng học vượt
+A284: B24DCMR057 | B284: Nguyễn Thị Hương | C284: Giang | D284: D24CQMR01-B | E284: D24MR | F284: BSA1309 | G284: Kinh tế lượng | H284: Mở lớp riêng học vượt
+A285: B24DCMR101 | B285: Nguyễn Xuân | C285: Lâm | D285: D24CQMR01-B | E285: D24MR | F285: BAS1153 | G285: Lịch sử Đảng cộng sản Việt Nam | H285: Mở lớp riêng học vượt
+A286: B24DCMR101 | B286: Nguyễn Xuân | C286: Lâm | D286: D24CQMR01-B | E286: D24MR | F286: BSA1309 | G286: Kinh tế lượng | H286: Mở lớp riêng học vượt
+A287: B24DCMR133 | B287: Trần Tuấn | C287: Minh | D287: D24CQMR01-B | E287: D24MR | F287: BAS1153 | G287: Lịch sử Đảng cộng sản Việt Nam | H287: Mở lớp riêng học vượt
+A288: B24DCMR133 | B288: Trần Tuấn | C288: Minh | D288: D24CQMR01-B | E288: D24MR | F288: BSA1309 | G288: Kinh tế lượng | H288: Mở lớp riêng học vượt
+A289: B24DCMR169 | B289: Nguyễn Bá | C289: Quân | D289: D24CQMR01-B | E289: D24MR | F289: BAS1153 | G289: Lịch sử Đảng cộng sản Việt Nam | H289: Mở lớp riêng học vượt
+A290: B24DCMR169 | B290: Nguyễn Bá | C290: Quân | D290: D24CQMR01-B | E290: D24MR | F290: BSA1309 | G290: Kinh tế lượng | H290: Mở lớp riêng học vượt
+A291: B24DCMR229 | B291: Nguyễn Khánh | C291: Vân | D291: D24CQMR01-B | E291: D24MR | F291: BAS1153 | G291: Lịch sử Đảng cộng sản Việt Nam | H291: Mở lớp riêng học vượt
+A292: B24DCMR229 | B292: Nguyễn Khánh | C292: Vân | D292: D24CQMR01-B | E292: D24MR | F292: BSA1309 | G292: Kinh tế lượng | H292: Mở lớp riêng học vượt
+A293: B24DCMR010 | B293: Nguyễn Phương | C293: Anh | D293: D24CQMR02-B | E293: D24MR | F293: BAS1153 | G293: Lịch sử Đảng cộng sản Việt Nam | H293: Mở lớp riêng học vượt
+A294: B24DCMR010 | B294: Nguyễn Phương | C294: Anh | D294: D24CQMR02-B | E294: D24MR | F294: BSA1309 | G294: Kinh tế lượng | H294: Mở lớp riêng học vượt
+A295: B24DCMR014 | B295: Nguyễn Thị Lan | C295: Anh | D295: D24CQMR02-B | E295: D24MR | F295: BAS1153 | G295: Lịch sử Đảng cộng sản Việt Nam | H295: Mở lớp riêng học vượt
+A296: B24DCMR014 | B296: Nguyễn Thị Lan | C296: Anh | D296: D24CQMR02-B | E296: D24MR | F296: BSA1309 | G296: Kinh tế lượng | H296: Mở lớp riêng học vượt
+A297: B24DCMR082 | B297: Nguyễn Tiến | C297: Hưng | D297: D24CQMR02-B | E297: D24MR | F297: BAS1153 | G297: Lịch sử Đảng cộng sản Việt Nam | H297: Mở lớp riêng học vượt
+A298: B24DCMR082 | B298: Nguyễn Tiến | C298: Hưng | D298: D24CQMR02-B | E298: D24MR | F298: BSA1309 | G298: Kinh tế lượng | H298: Mở lớp riêng học vượt
+A299: B24DCMR094 | B299: Lê Thanh | C299: Huyền | D299: D24CQMR02-B | E299: D24MR | F299: BAS1153 | G299: Lịch sử Đảng cộng sản Việt Nam | H299: Mở lớp riêng học vượt
+A300: B24DCMR094 | B300: Lê Thanh | C300: Huyền | D300: D24CQMR02-B | E300: D24MR | F300: BSA1309 | G300: Kinh tế lượng | H300: Mở lớp riêng học vượt
+A301: B24DCMR098 | B301: Bùi Văn | C301: Khoa | D301: D24CQMR02-B | E301: D24MR | F301: BAS1153 | G301: Lịch sử Đảng cộng sản Việt Nam | H301: Mở lớp riêng học vượt
+A302: B24DCMR098 | B302: Bùi Văn | C302: Khoa | D302: D24CQMR02-B | E302: D24MR | F302: BSA1309 | G302: Kinh tế lượng | H302: Mở lớp riêng học vượt
+A303: B24DCMR122 | B303: Trần Thị | C303: Ly | D303: D24CQMR02-B | E303: D24MR | F303: BAS1153 | G303: Lịch sử Đảng cộng sản Việt Nam | H303: Mở lớp riêng học vượt
+A304: B24DCMR122 | B304: Trần Thị | C304: Ly | D304: D24CQMR02-B | E304: D24MR | F304: BSA1309 | G304: Kinh tế lượng | H304: Mở lớp riêng học vượt
+A305: B24DCMR138 | B305: Lê Thị Yến | C305: Nga | D305: D24CQMR02-B | E305: D24MR | F305: BAS1153 | G305: Lịch sử Đảng cộng sản Việt Nam | H305: Mở lớp riêng học vượt
+A306: B24DCMR138 | B306: Lê Thị Yến | C306: Nga | D306: D24CQMR02-B | E306: D24MR | F306: BSA1309 | G306: Kinh tế lượng | H306: Mở lớp riêng học vượt
+A307: B24DCMR170 | B307: Văn Mạnh | C307: Quân | D307: D24CQMR02-B | E307: D24MR | F307: BAS1153 | G307: Lịch sử Đảng cộng sản Việt Nam | H307: Mở lớp riêng học vượt
+A308: B24DCMR170 | B308: Văn Mạnh | C308: Quân | D308: D24CQMR02-B | E308: D24MR | F308: BSA1309 | G308: Kinh tế lượng | H308: Mở lớp riêng học vượt
+A309: B24DCMR186 | B309: Bùi Hiền | C309: Thảo | D309: D24CQMR02-B | E309: D24MR | F309: BAS1153 | G309: Lịch sử Đảng cộng sản Việt Nam | H309: Mở lớp riêng học vượt
+A310: B24DCMR186 | B310: Bùi Hiền | C310: Thảo | D310: D24CQMR02-B | E310: D24MR | F310: BSA1309 | G310: Kinh tế lượng | H310: Mở lớp riêng học vượt
+A311: B24DCMR226 | B311: Nguyễn Thị Diệu | C311: Tuyết | D311: D24CQMR02-B | E311: D24MR | F311: BAS1153 | G311: Lịch sử Đảng cộng sản Việt Nam | H311: Mở lớp riêng học vượt
+A312: B24DCMR226 | B312: Nguyễn Thị Diệu | C312: Tuyết | D312: D24CQMR02-B | E312: D24MR | F312: BSA1309 | G312: Kinh tế lượng | H312: Mở lớp riêng học vượt
+A313: B24DCMR234 | B313: Hà Thảo | C313: Vy | D313: D24CQMR02-B | E313: D24MR | F313: BAS1153 | G313: Lịch sử Đảng cộng sản Việt Nam | H313: Mở lớp riêng học vượt
+A314: B24DCMR234 | B314: Hà Thảo | C314: Vy | D314: D24CQMR02-B | E314: D24MR | F314: BSA1309 | G314: Kinh tế lượng | H314: Mở lớp riêng học vượt
+A315: B24DCMR246 | B315: Trần Thị | C315: Yến | D315: D24CQMR02-B | E315: D24MR | F315: BAS1153 | G315: Lịch sử Đảng cộng sản Việt Nam | H315: Mở lớp riêng học vượt
+A316: B24DCMR246 | B316: Trần Thị | C316: Yến | D316: D24CQMR02-B | E316: D24MR | F316: BSA1309 | G316: Kinh tế lượng | H316: Mở lớp riêng học vượt
+A317: B24DCMR011 | B317: Nguyễn Phương | C317: Anh | D317: D24CQMR03-B | E317: D24MR | F317: BAS1153 | G317: Lịch sử Đảng cộng sản Việt Nam | H317: Mở lớp riêng học vượt
+A318: B24DCMR011 | B318: Nguyễn Phương | C318: Anh | D318: D24CQMR03-B | E318: D24MR | F318: BSA1309 | G318: Kinh tế lượng | H318: Mở lớp riêng học vượt
+A319: B24DCMR015 | B319: Nguyễn Thị Ngọc | C319: Anh | D319: D24CQMR03-B | E319: D24MR | F319: BAS1153 | G319: Lịch sử Đảng cộng sản Việt Nam | H319: Mở lớp riêng học vượt
+A320: B24DCMR015 | B320: Nguyễn Thị Ngọc | C320: Anh | D320: D24CQMR03-B | E320: D24MR | F320: BSA1309 | G320: Kinh tế lượng | H320: Mở lớp riêng học vượt
+A321: B24DCMR023 | B321: Vương Việt | C321: Anh | D321: D24CQMR03-B | E321: D24MR | F321: BAS1153 | G321: Lịch sử Đảng cộng sản Việt Nam | H321: Mở lớp riêng học vượt
+A322: B24DCMR023 | B322: Vương Việt | C322: Anh | D322: D24CQMR03-B | E322: D24MR | F322: BSA1309 | G322: Kinh tế lượng | H322: Mở lớp riêng học vượt
+A323: B24DCMR027 | B323: Ngô Thị | C323: Ánh | D323: D24CQMR03-B | E323: D24MR | F323: BAS1153 | G323: Lịch sử Đảng cộng sản Việt Nam | H323: Mở lớp riêng học vượt
+A324: B24DCMR027 | B324: Ngô Thị | C324: Ánh | D324: D24CQMR03-B | E324: D24MR | F324: BSA1309 | G324: Kinh tế lượng | H324: Mở lớp riêng học vượt
+A325: B24DCMR035 | B325: Nguyễn Đức | C325: Cường | D325: D24CQMR03-B | E325: D24MR | F325: BAS1153 | G325: Lịch sử Đảng cộng sản Việt Nam | H325: Mở lớp riêng học vượt
+A326: B24DCMR035 | B326: Nguyễn Đức | C326: Cường | D326: D24CQMR03-B | E326: D24MR | F326: BSA1309 | G326: Kinh tế lượng | H326: Mở lớp riêng học vượt
+A327: B24DCMR043 | B327: Trần Thị | C327: Diệu | D327: D24CQMR03-B | E327: D24MR | F327: BAS1153 | G327: Lịch sử Đảng cộng sản Việt Nam | H327: Mở lớp riêng học vượt
+A328: B24DCMR043 | B328: Trần Thị | C328: Diệu | D328: D24CQMR03-B | E328: D24MR | F328: BSA1309 | G328: Kinh tế lượng | H328: Mở lớp riêng học vượt
+A329: B24DCMR055 | B329: Trần Bảo | C329: Duy | D329: D24CQMR03-B | E329: D24MR | F329: BAS1153 | G329: Lịch sử Đảng cộng sản Việt Nam | H329: Mở lớp riêng học vượt
+A330: B24DCMR055 | B330: Trần Bảo | C330: Duy | D330: D24CQMR03-B | E330: D24MR | F330: BSA1309 | G330: Kinh tế lượng | H330: Mở lớp riêng học vượt
+A331: B24DCMR063 | B331: Nguyễn Thu | C331: Hằng | D331: D24CQMR03-B | E331: D24MR | F331: BAS1153 | G331: Lịch sử Đảng cộng sản Việt Nam | H331: Mở lớp riêng học vượt
+A332: B24DCMR063 | B332: Nguyễn Thu | C332: Hằng | D332: D24CQMR03-B | E332: D24MR | F332: BSA1309 | G332: Kinh tế lượng | H332: Mở lớp riêng học vượt
+A333: B24DCMR083 | B333: Đỗ Thị Thu | C333: Hương | D333: D24CQMR03-B | E333: D24MR | F333: BAS1153 | G333: Lịch sử Đảng cộng sản Việt Nam | H333: Mở lớp riêng học vượt
+A334: B24DCMR083 | B334: Đỗ Thị Thu | C334: Hương | D334: D24CQMR03-B | E334: D24MR | F334: BSA1309 | G334: Kinh tế lượng | H334: Mở lớp riêng học vượt
+A335: B24DCMR087 | B335: Trần Thanh | C335: Hương | D335: D24CQMR03-B | E335: D24MR | F335: BAS1153 | G335: Lịch sử Đảng cộng sản Việt Nam | H335: Mở lớp riêng học vượt
+A336: B24DCMR087 | B336: Trần Thanh | C336: Hương | D336: D24CQMR03-B | E336: D24MR | F336: BSA1309 | G336: Kinh tế lượng | H336: Mở lớp riêng học vượt
+A337: B24DCMR091 | B337: Nguyễn Quang | C337: Huy | D337: D24CQMR03-B | E337: D24MR | F337: BAS1153 | G337: Lịch sử Đảng cộng sản Việt Nam | H337: Mở lớp riêng học vượt
+A338: B24DCMR091 | B338: Nguyễn Quang | C338: Huy | D338: D24CQMR03-B | E338: D24MR | F338: BSA1309 | G338: Kinh tế lượng | H338: Mở lớp riêng học vượt
+A339: B24DCMR103 | B339: Nguyễn Thị Bích | C339: Liên | D339: D24CQMR03-B | E339: D24MR | F339: BAS1153 | G339: Lịch sử Đảng cộng sản Việt Nam | H339: Mở lớp riêng học vượt
+A340: B24DCMR103 | B340: Nguyễn Thị Bích | C340: Liên | D340: D24CQMR03-B | E340: D24MR | F340: BSA1309 | G340: Kinh tế lượng | H340: Mở lớp riêng học vượt
+A341: B24DCMR131 | B341: Nguyễn Quang | C341: Minh | D341: D24CQMR03-B | E341: D24MR | F341: BAS1153 | G341: Lịch sử Đảng cộng sản Việt Nam | H341: Mở lớp riêng học vượt
+A342: B24DCMR131 | B342: Nguyễn Quang | C342: Minh | D342: D24CQMR03-B | E342: D24MR | F342: BSA1309 | G342: Kinh tế lượng | H342: Mở lớp riêng học vượt
+A343: B24DCMR139 | B343: Nhữ Thị Hằng | C343: Nga | D343: D24CQMR03-B | E343: D24MR | F343: BAS1153 | G343: Lịch sử Đảng cộng sản Việt Nam | H343: Mở lớp riêng học vượt
+A344: B24DCMR139 | B344: Nhữ Thị Hằng | C344: Nga | D344: D24CQMR03-B | E344: D24MR | F344: BSA1309 | G344: Kinh tế lượng | H344: Mở lớp riêng học vượt
+A345: B24DCMR147 | B345: Nguyễn Thị Ánh | C345: Ngọc | D345: D24CQMR03-B | E345: D24MR | F345: BAS1153 | G345: Lịch sử Đảng cộng sản Việt Nam | H345: Mở lớp riêng học vượt
+A346: B24DCMR147 | B346: Nguyễn Thị Ánh | C346: Ngọc | D346: D24CQMR03-B | E346: D24MR | F346: BSA1309 | G346: Kinh tế lượng | H346: Mở lớp riêng học vượt
+A347: B24DCMR171 | B347: Vũ Minh | C347: Quân | D347: D24CQMR03-B | E347: D24MR | F347: BAS1153 | G347: Lịch sử Đảng cộng sản Việt Nam | H347: Mở lớp riêng học vượt
+A348: B24DCMR171 | B348: Vũ Minh | C348: Quân | D348: D24CQMR03-B | E348: D24MR | F348: BSA1309 | G348: Kinh tế lượng | H348: Mở lớp riêng học vượt
+A349: B24DCMR175 | B349: Nguyễn Thị Hiểu | C349: Quyên | D349: D24CQMR03-B | E349: D24MR | F349: BAS1153 | G349: Lịch sử Đảng cộng sản Việt Nam | H349: Mở lớp riêng học vượt
+A350: B24DCMR175 | B350: Nguyễn Thị Hiểu | C350: Quyên | D350: D24CQMR03-B | E350: D24MR | F350: BSA1309 | G350: Kinh tế lượng | H350: Mở lớp riêng học vượt
+A351: B24DCMR187 | B351: Đinh Thu | C351: Thảo | D351: D24CQMR03-B | E351: D24MR | F351: BAS1153 | G351: Lịch sử Đảng cộng sản Việt Nam | H351: Mở lớp riêng học vượt
+A352: B24DCMR187 | B352: Đinh Thu | C352: Thảo | D352: D24CQMR03-B | E352: D24MR | F352: BSA1309 | G352: Kinh tế lượng | H352: Mở lớp riêng học vượt
+A353: B24DCMR211 | B353: Lê Thị Thùy | C353: Trang | D353: D24CQMR03-B | E353: D24MR | F353: BAS1153 | G353: Lịch sử Đảng cộng sản Việt Nam | H353: Mở lớp riêng học vượt
+A354: B24DCMR211 | B354: Lê Thị Thùy | C354: Trang | D354: D24CQMR03-B | E354: D24MR | F354: BSA1309 | G354: Kinh tế lượng | H354: Mở lớp riêng học vượt
+A355: B24DCMR120 | B355: Đinh Thị | C355: Loan | D355: D24CQMR04-B | E355: D24MR | F355: BAS1153 | G355: Lịch sử Đảng cộng sản Việt Nam | H355: Mở lớp riêng học vượt
+A356: B24DCMR120 | B356: Đinh Thị | C356: Loan | D356: D24CQMR04-B | E356: D24MR | F356: BSA1309 | G356: Kinh tế lượng | H356: Mở lớp riêng học vượt
+A357: B24DCMR152 | B357: Hoàng Thị Yến | C357: Nhi | D357: D24CQMR04-B | E357: D24MR | F357: BAS1153 | G357: Lịch sử Đảng cộng sản Việt Nam | H357: Mở lớp riêng học vượt
+A358: B24DCMR152 | B358: Hoàng Thị Yến | C358: Nhi | D358: D24CQMR04-B | E358: D24MR | F358: BSA1309 | G358: Kinh tế lượng | H358: Mở lớp riêng học vượt
+A359: B24DCQC039 | B359: Phùng Thị Hải | C359: Linh | D359: D24CQQC01-B | E359: D24QC | F359: MAR1328 | G359: Quản trị thương hiệu | H359: Học ghép lưu ý MAR1328 lớp D23MR học tại Ngọc Trục
+A360: B24DCQC039 | B360: Phùng Thị Hải | C360: Linh | D360: D24CQQC01-B | E360: D24QC | F360: MAR1484 | G360: Lập kế hoạch quan hệ công chúng | H360: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A361: B24DCQC039 | B361: Phùng Thị Hải | C361: Linh | D361: D24CQQC01-B | E361: D24QC | F361: MUL14207 | G361: Truyền thông chính sách | H361: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A362: B24DCQC079 | B362: Lê Hà Phi | C362: Yến | D362: D24CQQC01-B | E362: D24QC | F362: MAR1328 | G362: Quản trị thương hiệu | H362: Học ghép lưu ý MAR1328 lớp D23MR học tại Ngọc Trục
+A363: B24DCQC079 | B363: Lê Hà Phi | C363: Yến | D363: D24CQQC01-B | E363: D24QC | F363: MAR1484 | G363: Lập kế hoạch quan hệ công chúng | H363: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A364: B24DCQC079 | B364: Lê Hà Phi | C364: Yến | D364: D24CQQC01-B | E364: D24QC | F364: MUL14207 | G364: Truyền thông chính sách | H364: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A365: B24DCQC026 | B365: Nguyễn Thị Duyên | C365: Hải | D365: D24CQQC02-B | E365: D24QC | F365: MAR1328 | G365: Quản trị thương hiệu | H365: Học ghép lưu ý MAR1328 lớp D23MR học tại Ngọc Trục
+A366: B24DCQC026 | B366: Nguyễn Thị Duyên | C366: Hải | D366: D24CQQC02-B | E366: D24QC | F366: MAR1484 | G366: Lập kế hoạch quan hệ công chúng | H366: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A367: B24DCQC026 | B367: Nguyễn Thị Duyên | C367: Hải | D367: D24CQQC02-B | E367: D24QC | F367: MUL14207 | G367: Truyền thông chính sách | H367: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A368: B24DCQT117 | B368: Võ Lê Phương | C368: Linh | D368: D24CQQT01-B | E368: D24QT | F368: BSA1338 | G368: Thống kê doanh nghiệp | H368: Mở lớp riêng học vượt
+A369: B24DCQT117 | B369: Võ Lê Phương | C369: Linh | D369: D24CQQT01-B | E369: D24QT | F369: SKD1108 | G369: Phương pháp luận NCKH | H369: Mở lớp riêng học vượt
+A370: B24DCQT149 | B370: Nguyễn Thị | C370: Nhung | D370: D24CQQT01-B | E370: D24QT | F370: BSA1338 | G370: Thống kê doanh nghiệp | H370: Mở lớp riêng học vượt
+A371: B24DCQT149 | B371: Nguyễn Thị | C371: Nhung | D371: D24CQQT01-B | E371: D24QT | F371: SKD1108 | G371: Phương pháp luận NCKH | H371: Mở lớp riêng học vượt
+A372: B24DCQT193 | B372: Nguyễn Anh | C372: Thư | D372: D24CQQT01-B | E372: D24QT | F372: BSA1338 | G372: Thống kê doanh nghiệp | H372: Mở lớp riêng học vượt
+A373: B24DCQT193 | B373: Nguyễn Anh | C373: Thư | D373: D24CQQT01-B | E373: D24QT | F373: SKD1108 | G373: Phương pháp luận NCKH | H373: Mở lớp riêng học vượt
+A374: B24DCQT038 | B374: Trần Thị Thanh | C374: Dung | D374: D24CQQT02-B | E374: D24QT | F374: BSA1338 | G374: Thống kê doanh nghiệp | H374: Mở lớp riêng học vượt
+A375: B24DCQT038 | B375: Trần Thị Thanh | C375: Dung | D375: D24CQQT02-B | E375: D24QT | F375: SKD1108 | G375: Phương pháp luận NCKH | H375: Mở lớp riêng học vượt
+A376: B24DCQT054 | B376: Nguyễn Thị | C376: Giang | D376: D24CQQT02-B | E376: D24QT | F376: BSA1338 | G376: Thống kê doanh nghiệp | H376: Mở lớp riêng học vượt
+A377: B24DCQT054 | B377: Nguyễn Thị | C377: Giang | D377: D24CQQT02-B | E377: D24QT | F377: SKD1108 | G377: Phương pháp luận NCKH | H377: Mở lớp riêng học vượt
+A378: B24DCQT134 | B378: Đinh Thị | C378: Ngọc | D378: D24CQQT02-B | E378: D24QT | F378: BSA1338 | G378: Thống kê doanh nghiệp | H378: Mở lớp riêng học vượt
+A379: B24DCQT134 | B379: Đinh Thị | C379: Ngọc | D379: D24CQQT02-B | E379: D24QT | F379: SKD1108 | G379: Phương pháp luận NCKH | H379: Mở lớp riêng học vượt
+A380: B24DCQT206 | B380: Trần Thuỷ | C380: Tiên | D380: D24CQQT02-B | E380: D24QT | F380: BSA1338 | G380: Thống kê doanh nghiệp | H380: Mở lớp riêng học vượt
+A381: B24DCQT206 | B381: Trần Thuỷ | C381: Tiên | D381: D24CQQT02-B | E381: D24QT | F381: SKD1108 | G381: Phương pháp luận NCKH | H381: Mở lớp riêng học vượt
+A382: B24DCQT210 | B382: Hà Thị Thu | C382: Trang | D382: D24CQQT02-B | E382: D24QT | F382: BSA1338 | G382: Thống kê doanh nghiệp | H382: Mở lớp riêng học vượt
+A383: B24DCQT210 | B383: Hà Thị Thu | C383: Trang | D383: D24CQQT02-B | E383: D24QT | F383: SKD1108 | G383: Phương pháp luận NCKH | H383: Mở lớp riêng học vượt
+A384: B24DCQT230 | B384: Nguyễn Thị Hải | C384: Yến | D384: D24CQQT02-B | E384: D24QT | F384: BSA1338 | G384: Thống kê doanh nghiệp | H384: Mở lớp riêng học vượt
+A385: B24DCQT230 | B385: Nguyễn Thị Hải | C385: Yến | D385: D24CQQT02-B | E385: D24QT | F385: SKD1108 | G385: Phương pháp luận NCKH | H385: Mở lớp riêng học vượt
+A386: B24DCQT063 | B386: Đàm Thị Ngọc | C386: Hân | D386: D24CQQT03-B | E386: D24QT | F386: BSA1338 | G386: Thống kê doanh nghiệp | H386: Mở lớp riêng học vượt
+A387: B24DCQT063 | B387: Đàm Thị Ngọc | C387: Hân | D387: D24CQQT03-B | E387: D24QT | F387: SKD1108 | G387: Phương pháp luận NCKH | H387: Mở lớp riêng học vượt
+A388: B24DCQT143 | B388: Đào Thị Yến | C388: Nhi | D388: D24CQQT03-B | E388: D24QT | F388: BSA1338 | G388: Thống kê doanh nghiệp | H388: Mở lớp riêng học vượt
+A389: B24DCQT143 | B389: Đào Thị Yến | C389: Nhi | D389: D24CQQT03-B | E389: D24QT | F389: SKD1108 | G389: Phương pháp luận NCKH | H389: Mở lớp riêng học vượt
+A390: B24DCQT167 | B390: Nguyễn Thị | C390: Quỳnh | D390: D24CQQT03-B | E390: D24QT | F390: BSA1338 | G390: Thống kê doanh nghiệp | H390: Mở lớp riêng học vượt
+A391: B24DCQT167 | B391: Nguyễn Thị | C391: Quỳnh | D391: D24CQQT03-B | E391: D24QT | F391: SKD1108 | G391: Phương pháp luận NCKH | H391: Mở lớp riêng học vượt
+A392: B24DCQT171 | B392: Nguyễn Duy | C392: Sáng | D392: D24CQQT03-B | E392: D24QT | F392: BSA1338 | G392: Thống kê doanh nghiệp | H392: Mở lớp riêng học vượt
+A393: B24DCQT171 | B393: Nguyễn Duy | C393: Sáng | D393: D24CQQT03-B | E393: D24QT | F393: SKD1108 | G393: Phương pháp luận NCKH | H393: Mở lớp riêng học vượt
+A394: B24DCQT207 | B394: Trần Thùy | C394: Trâm | D394: D24CQQT03-B | E394: D24QT | F394: BSA1338 | G394: Thống kê doanh nghiệp | H394: Mở lớp riêng học vượt
+A395: B24DCQT207 | B395: Trần Thùy | C395: Trâm | D395: D24CQQT03-B | E395: D24QT | F395: SKD1108 | G395: Phương pháp luận NCKH | H395: Mở lớp riêng học vượt
+A396: B24DCQT016 | B396: Phạm Thị Lan | C396: Anh | D396: D24CQQT04-B | E396: D24QT | F396: BSA1338 | G396: Thống kê doanh nghiệp | H396: Mở lớp riêng học vượt
+A397: B24DCQT016 | B397: Phạm Thị Lan | C397: Anh | D397: D24CQQT04-B | E397: D24QT | F397: SKD1108 | G397: Phương pháp luận NCKH | H397: Mở lớp riêng học vượt
+A398: B24DCQT024 | B398: Phùng Ngọc | C398: Ánh | D398: D24CQQT04-B | E398: D24QT | F398: BSA1338 | G398: Thống kê doanh nghiệp | H398: Mở lớp riêng học vượt
+A399: B24DCQT024 | B399: Phùng Ngọc | C399: Ánh | D399: D24CQQT04-B | E399: D24QT | F399: SKD1108 | G399: Phương pháp luận NCKH | H399: Mở lớp riêng học vượt
+A400: B24DCQT032 | B400: Nguyễn Hải | C400: Đăng | D400: D24CQQT04-B | E400: D24QT | F400: BSA1338 | G400: Thống kê doanh nghiệp | H400: Mở lớp riêng học vượt
+A401: B24DCQT032 | B401: Nguyễn Hải | C401: Đăng | D401: D24CQQT04-B | E401: D24QT | F401: SKD1108 | G401: Phương pháp luận NCKH | H401: Mở lớp riêng học vượt
+A402: B24DCQT036 | B402: Đỗ Doãn | C402: Đức | D402: D24CQQT04-B | E402: D24QT | F402: BSA1338 | G402: Thống kê doanh nghiệp | H402: Mở lớp riêng học vượt
+A403: B24DCQT036 | B403: Đỗ Doãn | C403: Đức | D403: D24CQQT04-B | E403: D24QT | F403: SKD1108 | G403: Phương pháp luận NCKH | H403: Mở lớp riêng học vượt
+A404: B24DCQT112 | B404: Nguyễn Phương | C404: Linh | D404: D24CQQT04-B | E404: D24QT | F404: BSA1338 | G404: Thống kê doanh nghiệp | H404: Mở lớp riêng học vượt
+A405: B24DCQT112 | B405: Nguyễn Phương | C405: Linh | D405: D24CQQT04-B | E405: D24QT | F405: SKD1108 | G405: Phương pháp luận NCKH | H405: Mở lớp riêng học vượt
+A406: B24DCQT148 | B406: Đỗ Hồng | C406: Nhung | D406: D24CQQT04-B | E406: D24QT | F406: BSA1338 | G406: Thống kê doanh nghiệp | H406: Mở lớp riêng học vượt
+A407: B24DCQT148 | B407: Đỗ Hồng | C407: Nhung | D407: D24CQQT04-B | E407: D24QT | F407: SKD1108 | G407: Phương pháp luận NCKH | H407: Mở lớp riêng học vượt
+A408: B24DCQT152 | B408: Lê Hải | C408: Phong | D408: D24CQQT04-B | E408: D24QT | F408: BSA1338 | G408: Thống kê doanh nghiệp | H408: Mở lớp riêng học vượt
+A409: B24DCQT152 | B409: Lê Hải | C409: Phong | D409: D24CQQT04-B | E409: D24QT | F409: SKD1108 | G409: Phương pháp luận NCKH | H409: Mở lớp riêng học vượt
+A410: B24DCQT164 | B410: Hạ Cảnh | C410: Quyền | D410: D24CQQT04-B | E410: D24QT | F410: BSA1338 | G410: Thống kê doanh nghiệp | H410: Mở lớp riêng học vượt
+A411: B24DCQT164 | B411: Hạ Cảnh | C411: Quyền | D411: D24CQQT04-B | E411: D24QT | F411: SKD1108 | G411: Phương pháp luận NCKH | H411: Mở lớp riêng học vượt
+A412: B24DCQT176 | B412: Nguyễn Thị Hồng | C412: Thắm | D412: D24CQQT04-B | E412: D24QT | F412: BSA1338 | G412: Thống kê doanh nghiệp | H412: Mở lớp riêng học vượt
+A413: B24DCQT176 | B413: Nguyễn Thị Hồng | C413: Thắm | D413: D24CQQT04-B | E413: D24QT | F413: SKD1108 | G413: Phương pháp luận NCKH | H413: Mở lớp riêng học vượt
+A414: B24DCQT212 | B414: Nguyễn Thị Thu | C414: Trang | D414: D24CQQT04-B | E414: D24QT | F414: BSA1338 | G414: Thống kê doanh nghiệp | H414: Mở lớp riêng học vượt
+A415: B24DCQT212 | B415: Nguyễn Thị Thu | C415: Trang | D415: D24CQQT04-B | E415: D24QT | F415: SKD1108 | G415: Phương pháp luận NCKH | H415: Mở lớp riêng học vượt
+A416: B24DCTC015 | B416: Nguyễn Thị Ánh | C416: Chinh | D416: D24CQTC01-B | E416: D24TC | F416: FIA14114 | G416: Phân tích và lập kế hoạch tài chính | H416: Mở lớp riêng học vượt
+A417: B24DCTC015 | B417: Nguyễn Thị Ánh | C417: Chinh | D417: D24CQTC01-B | E417: D24TC | F417: INT14150 | G417: Nhập môn Khoa học dữ liệu | H417: Mở lớp riêng học vượt
+A418: B24DCTC039 | B418: Bùi Quang | C418: Hùng | D418: D24CQTC01-B | E418: D24TC | F418: FIA14114 | G418: Phân tích và lập kế hoạch tài chính | H418: Mở lớp riêng học vượt
+A419: B24DCTC039 | B419: Bùi Quang | C419: Hùng | D419: D24CQTC01-B | E419: D24TC | F419: INT14150 | G419: Nhập môn Khoa học dữ liệu | H419: Mở lớp riêng học vượt
+A420: B24DCTC051 | B420: Mai Đăng | C420: Khôi | D420: D24CQTC01-B | E420: D24TC | F420: FIA14114 | G420: Phân tích và lập kế hoạch tài chính | H420: Mở lớp riêng học vượt
+A421: B24DCTC051 | B421: Mai Đăng | C421: Khôi | D421: D24CQTC01-B | E421: D24TC | F421: INT14150 | G421: Nhập môn Khoa học dữ liệu | H421: Mở lớp riêng học vượt
+A422: B24DCTC075 | B422: Nguyễn Thị | C422: Ngân | D422: D24CQTC01-B | E422: D24TC | F422: FIA14114 | G422: Phân tích và lập kế hoạch tài chính | H422: Mở lớp riêng học vượt
+A423: B24DCTC075 | B423: Nguyễn Thị | C423: Ngân | D423: D24CQTC01-B | E423: D24TC | F423: INT14150 | G423: Nhập môn Khoa học dữ liệu | H423: Mở lớp riêng học vượt
+A424: B24DCTC089 | B424: Lê Vũ | C424: Quyền | D424: D24CQTC01-B | E424: D24TC | F424: FIA14114 | G424: Phân tích và lập kế hoạch tài chính | H424: Mở lớp riêng học vượt
+A425: B24DCTC089 | B425: Lê Vũ | C425: Quyền | D425: D24CQTC01-B | E425: D24TC | F425: INT14150 | G425: Nhập môn Khoa học dữ liệu | H425: Mở lớp riêng học vượt
+A426: B24DCTC091 | B426: Nguyễn Minh | C426: Sơn | D426: D24CQTC01-B | E426: D24TC | F426: FIA14114 | G426: Phân tích và lập kế hoạch tài chính | H426: Mở lớp riêng học vượt
+A427: B24DCTC091 | B427: Nguyễn Minh | C427: Sơn | D427: D24CQTC01-B | E427: D24TC | F427: INT14150 | G427: Nhập môn Khoa học dữ liệu | H427: Mở lớp riêng học vượt
+A428: B24DCTC097 | B428: Lê Thị | C428: Thu | D428: D24CQTC01-B | E428: D24TC | F428: FIA14114 | G428: Phân tích và lập kế hoạch tài chính | H428: Mở lớp riêng học vượt
+A429: B24DCTC097 | B429: Lê Thị | C429: Thu | D429: D24CQTC01-B | E429: D24TC | F429: INT14150 | G429: Nhập môn Khoa học dữ liệu | H429: Mở lớp riêng học vượt
+A430: B24DCTC101 | B430: Đinh Phương | C430: Thủy | D430: D24CQTC01-B | E430: D24TC | F430: FIA14114 | G430: Phân tích và lập kế hoạch tài chính | H430: Mở lớp riêng học vượt
+A431: B24DCTC101 | B431: Đinh Phương | C431: Thủy | D431: D24CQTC01-B | E431: D24TC | F431: INT14150 | G431: Nhập môn Khoa học dữ liệu | H431: Mở lớp riêng học vượt
+A432: B24DCTC104 | B432: Nguyễn Hoàng Minh | C432: Trang | D432: D24CQTC01-B | E432: D24TC | F432: FIA14114 | G432: Phân tích và lập kế hoạch tài chính | H432: Mở lớp riêng học vượt
+A433: B24DCTC104 | B433: Nguyễn Hoàng Minh | C433: Trang | D433: D24CQTC01-B | E433: D24TC | F433: INT14150 | G433: Nhập môn Khoa học dữ liệu | H433: Mở lớp riêng học vượt
+A434: B24DCTC111 | B434: Nguyễn Hữu | C434: Trung | D434: D24CQTC01-B | E434: D24TC | F434: FIA14114 | G434: Phân tích và lập kế hoạch tài chính | H434: Mở lớp riêng học vượt
+A435: B24DCTC111 | B435: Nguyễn Hữu | C435: Trung | D435: D24CQTC01-B | E435: D24TC | F435: INT14150 | G435: Nhập môn Khoa học dữ liệu | H435: Mở lớp riêng học vượt
+A436: B24DCTC113 | B436: Tạ Minh | C436: Trường | D436: D24CQTC01-B | E436: D24TC | F436: FIA14114 | G436: Phân tích và lập kế hoạch tài chính | H436: Mở lớp riêng học vượt
+A437: B24DCTC113 | B437: Tạ Minh | C437: Trường | D437: D24CQTC01-B | E437: D24TC | F437: INT14150 | G437: Nhập môn Khoa học dữ liệu | H437: Mở lớp riêng học vượt
+A438: B24DCTC006 | B438: Nguyễn Tuấn | C438: Anh | D438: D24CQTC02-B | E438: D24TC | F438: FIA14114 | G438: Phân tích và lập kế hoạch tài chính | H438: Mở lớp riêng học vượt
+A439: B24DCTC006 | B439: Nguyễn Tuấn | C439: Anh | D439: D24CQTC02-B | E439: D24TC | F439: INT14150 | G439: Nhập môn Khoa học dữ liệu | H439: Mở lớp riêng học vượt
+A440: B24DCTC028 | B440: Lê Thị Thu | C440: Giang | D440: D24CQTC02-B | E440: D24TC | F440: FIA14114 | G440: Phân tích và lập kế hoạch tài chính | H440: Mở lớp riêng học vượt
+A441: B24DCTC028 | B441: Lê Thị Thu | C441: Giang | D441: D24CQTC02-B | E441: D24TC | F441: INT14150 | G441: Nhập môn Khoa học dữ liệu | H441: Mở lớp riêng học vượt
+A442: B24DCTC038 | B442: Hoàng Thu | C442: Hoài | D442: D24CQTC02-B | E442: D24TC | F442: FIA14114 | G442: Phân tích và lập kế hoạch tài chính | H442: Mở lớp riêng học vượt
+A443: B24DCTC038 | B443: Hoàng Thu | C443: Hoài | D443: D24CQTC02-B | E443: D24TC | F443: INT14150 | G443: Nhập môn Khoa học dữ liệu | H443: Mở lớp riêng học vượt
+A444: B24DCTC056 | B444: Đỗ Thùy | C444: Linh | D444: D24CQTC02-B | E444: D24TC | F444: FIA14114 | G444: Phân tích và lập kế hoạch tài chính | H444: Mở lớp riêng học vượt
+A445: B24DCTC056 | B445: Đỗ Thùy | C445: Linh | D445: D24CQTC02-B | E445: D24TC | F445: INT14150 | G445: Nhập môn Khoa học dữ liệu | H445: Mở lớp riêng học vượt
+A446: B24DCTC067 | B446: Nguyễn Văn | C446: Long | D446: D24CQTC02-B | E446: D24TC | F446: FIA14114 | G446: Phân tích và lập kế hoạch tài chính | H446: Mở lớp riêng học vượt
+A447: B24DCTC067 | B447: Nguyễn Văn | C447: Long | D447: D24CQTC02-B | E447: D24TC | F447: INT14150 | G447: Nhập môn Khoa học dữ liệu | H447: Mở lớp riêng học vượt
+A448: B24DCTC072 | B448: Chu Đình | C448: Minh | D448: D24CQTC02-B | E448: D24TC | F448: FIA14114 | G448: Phân tích và lập kế hoạch tài chính | H448: Mở lớp riêng học vượt
+A449: B24DCTC072 | B449: Chu Đình | C449: Minh | D449: D24CQTC02-B | E449: D24TC | F449: INT14150 | G449: Nhập môn Khoa học dữ liệu | H449: Mở lớp riêng học vượt
+A450: B24DCTC092 | B450: Lê Tấn | C450: Tài | D450: D24CQTC02-B | E450: D24TC | F450: FIA14114 | G450: Phân tích và lập kế hoạch tài chính | H450: Mở lớp riêng học vượt
+A451: B24DCTC092 | B451: Lê Tấn | C451: Tài | D451: D24CQTC02-B | E451: D24TC | F451: INT14150 | G451: Nhập môn Khoa học dữ liệu | H451: Mở lớp riêng học vượt
+A452: B24DCTC106 | B452: Nguyễn Thu | C452: Trang | D452: D24CQTC02-B | E452: D24TC | F452: FIA14114 | G452: Phân tích và lập kế hoạch tài chính | H452: Mở lớp riêng học vượt
+A453: B24DCTC106 | B453: Nguyễn Thu | C453: Trang | D453: D24CQTC02-B | E453: D24TC | F453: INT14150 | G453: Nhập môn Khoa học dữ liệu | H453: Mở lớp riêng học vượt
+A454: B24DCTC112 | B454: Trần Gia | C454: Trung | D454: D24CQTC02-B | E454: D24TC | F454: FIA14114 | G454: Phân tích và lập kế hoạch tài chính | H454: Mở lớp riêng học vượt
+A455: B24DCTC112 | B455: Trần Gia | C455: Trung | D455: D24CQTC02-B | E455: D24TC | F455: INT14150 | G455: Nhập môn Khoa học dữ liệu | H455: Mở lớp riêng học vượt
+A456: B24DCTC114 | B456: Nguyễn Thu | C456: Uyên | D456: D24CQTC02-B | E456: D24TC | F456: FIA14114 | G456: Phân tích và lập kế hoạch tài chính | H456: Mở lớp riêng học vượt
+A457: B24DCTC114 | B457: Nguyễn Thu | C457: Uyên | D457: D24CQTC02-B | E457: D24TC | F457: INT14150 | G457: Nhập môn Khoa học dữ liệu | H457: Mở lớp riêng học vượt
+A458: B24DCTM004 | B458: Nguyễn Thị Mai | C458: Anh | D458: D24CQTM01-B | E458: D24TM | F458: FIA1389 | G458: Kế toán cho kinh doanh | H458: Mở lớp riêng học vượt
+A459: B24DCTM004 | B459: Nguyễn Thị Mai | C459: Anh | D459: D24CQTM01-B | E459: D24TM | F459: BSA1354 | G459: Quản trị bán hàng và phân phối sản phẩm | H459: Mở lớp riêng học vượt
+A460: B24DCTM010 | B460: Trương Thị Minh | C460: Anh | D460: D24CQTM01-B | E460: D24TM | F460: FIA1389 | G460: Kế toán cho kinh doanh | H460: Mở lớp riêng học vượt
+A461: B24DCTM010 | B461: Trương Thị Minh | C461: Anh | D461: D24CQTM01-B | E461: D24TM | F461: BSA1354 | G461: Quản trị bán hàng và phân phối sản phẩm | H461: Mở lớp riêng học vượt
+A462: B24DCTM013 | B462: Phạm Thị Ngọc | C462: Ánh | D462: D24CQTM01-B | E462: D24TM | F462: FIA1389 | G462: Kế toán cho kinh doanh | H462: Mở lớp riêng học vượt
+A463: B24DCTM013 | B463: Phạm Thị Ngọc | C463: Ánh | D463: D24CQTM01-B | E463: D24TM | F463: BSA1354 | G463: Quản trị bán hàng và phân phối sản phẩm | H463: Mở lớp riêng học vượt
+A464: B24DCTM022 | B464: Kiều Cao Quốc | C464: Đạt | D464: D24CQTM01-B | E464: D24TM | F464: FIA1389 | G464: Kế toán cho kinh doanh | H464: Mở lớp riêng học vượt
+A465: B24DCTM022 | B465: Kiều Cao Quốc | C465: Đạt | D465: D24CQTM01-B | E465: D24TM | F465: BSA1354 | G465: Quản trị bán hàng và phân phối sản phẩm | H465: Mở lớp riêng học vượt
+A466: B24DCTM031 | B466: Lê Tùng | C466: Dương | D466: D24CQTM01-B | E466: D24TM | F466: FIA1389 | G466: Kế toán cho kinh doanh | H466: Mở lớp riêng học vượt
+A467: B24DCTM031 | B467: Lê Tùng | C467: Dương | D467: D24CQTM01-B | E467: D24TM | F467: BSA1354 | G467: Quản trị bán hàng và phân phối sản phẩm | H467: Mở lớp riêng học vượt
+A468: B24DCTM043 | B468: Nguyễn Thị Mai | C468: Hoa | D468: D24CQTM01-B | E468: D24TM | F468: FIA1389 | G468: Kế toán cho kinh doanh | H468: Mở lớp riêng học vượt
+A469: B24DCTM043 | B469: Nguyễn Thị Mai | C469: Hoa | D469: D24CQTM01-B | E469: D24TM | F469: BSA1354 | G469: Quản trị bán hàng và phân phối sản phẩm | H469: Mở lớp riêng học vượt
+A470: B24DCTM073 | B470: Triệu Khánh | C470: Linh | D470: D24CQTM01-B | E470: D24TM | F470: FIA1389 | G470: Kế toán cho kinh doanh | H470: Mở lớp riêng học vượt
+A471: B24DCTM073 | B471: Triệu Khánh | C471: Linh | D471: D24CQTM01-B | E471: D24TM | F471: BSA1354 | G471: Quản trị bán hàng và phân phối sản phẩm | H471: Mở lớp riêng học vượt
+A472: B24DCTM082 | B472: Nguyễn Thị | C472: Mị | D472: D24CQTM01-B | E472: D24TM | F472: FIA1389 | G472: Kế toán cho kinh doanh | H472: Mở lớp riêng học vượt
+A473: B24DCTM082 | B473: Nguyễn Thị | C473: Mị | D473: D24CQTM01-B | E473: D24TM | F473: BSA1354 | G473: Quản trị bán hàng và phân phối sản phẩm | H473: Mở lớp riêng học vượt
+A474: B24DCTM094 | B474: Đỗ Thị Minh | C474: Ngân | D474: D24CQTM01-B | E474: D24TM | F474: FIA1389 | G474: Kế toán cho kinh doanh | H474: Mở lớp riêng học vượt
+A475: B24DCTM094 | B475: Đỗ Thị Minh | C475: Ngân | D475: D24CQTM01-B | E475: D24TM | F475: BSA1354 | G475: Quản trị bán hàng và phân phối sản phẩm | H475: Mở lớp riêng học vượt
+A476: B24DCTM109 | B476: Nguyễn Thị | C476: Phương | D476: D24CQTM01-B | E476: D24TM | F476: FIA1389 | G476: Kế toán cho kinh doanh | H476: Mở lớp riêng học vượt
+A477: B24DCTM109 | B477: Nguyễn Thị | C477: Phương | D477: D24CQTM01-B | E477: D24TM | F477: BSA1354 | G477: Quản trị bán hàng và phân phối sản phẩm | H477: Mở lớp riêng học vượt
+A478: B24DCTM112 | B478: Nguyễn Thị Kim | C478: Quế | D478: D24CQTM01-B | E478: D24TM | F478: FIA1389 | G478: Kế toán cho kinh doanh | H478: Mở lớp riêng học vượt
+A479: B24DCTM112 | B479: Nguyễn Thị Kim | C479: Quế | D479: D24CQTM01-B | E479: D24TM | F479: BSA1354 | G479: Quản trị bán hàng và phân phối sản phẩm | H479: Mở lớp riêng học vượt
+A480: B24DCTM130 | B480: Đặng Thị Minh | C480: Thúy | D480: D24CQTM01-B | E480: D24TM | F480: FIA1389 | G480: Kế toán cho kinh doanh | H480: Mở lớp riêng học vượt
+A481: B24DCTM130 | B481: Đặng Thị Minh | C481: Thúy | D481: D24CQTM01-B | E481: D24TM | F481: BSA1354 | G481: Quản trị bán hàng và phân phối sản phẩm | H481: Mở lớp riêng học vượt
+A482: B24DCTM148 | B482: Vi Thị Tố | C482: Uyên | D482: D24CQTM01-B | E482: D24TM | F482: FIA1389 | G482: Kế toán cho kinh doanh | H482: Mở lớp riêng học vượt
+A483: B24DCTM148 | B483: Vi Thị Tố | C483: Uyên | D483: D24CQTM01-B | E483: D24TM | F483: BSA1354 | G483: Quản trị bán hàng và phân phối sản phẩm | H483: Mở lớp riêng học vượt
+A484: B24DCTM089 | B484: Trần Hoàng | C484: Minh | D484: D24CQTM02-B | E484: D24TM | F484: FIA1389 | G484: Kế toán cho kinh doanh | H484: Mở lớp riêng học vượt
+A485: B24DCTM089 | B485: Trần Hoàng | C485: Minh | D485: D24CQTM02-B | E485: D24TM | F485: BSA1354 | G485: Quản trị bán hàng và phân phối sản phẩm | H485: Mở lớp riêng học vượt
+A486: B24DCTM149 | B486: Nguyễn Hoàng | C486: Việt | D486: D24CQTM02-B | E486: D24TM | F486: FIA1389 | G486: Kế toán cho kinh doanh | H486: Mở lớp riêng học vượt
+A487: B24DCTM149 | B487: Nguyễn Hoàng | C487: Việt | D487: D24CQTM02-B | E487: D24TM | F487: BSA1354 | G487: Quản trị bán hàng và phân phối sản phẩm | H487: Mở lớp riêng học vượt
+A488: B24DCTM015 | B488: Khúc Xuân | C488: Bách | D488: D24CQTM03-B | E488: D24TM | F488: FIA1389 | G488: Kế toán cho kinh doanh | H488: Mở lớp riêng học vượt
+A489: B24DCTM015 | B489: Khúc Xuân | C489: Bách | D489: D24CQTM03-B | E489: D24TM | F489: BSA1354 | G489: Quản trị bán hàng và phân phối sản phẩm | H489: Mở lớp riêng học vượt
+A490: B24DCTM060 | B490: Hà Đình | C490: Kiên | D490: D24CQTM03-B | E490: D24TM | F490: FIA1389 | G490: Kế toán cho kinh doanh | H490: Mở lớp riêng học vượt
+A491: B24DCTM060 | B491: Hà Đình | C491: Kiên | D491: D24CQTM03-B | E491: D24TM | F491: BSA1354 | G491: Quản trị bán hàng và phân phối sản phẩm | H491: Mở lớp riêng học vượt
+A492: B24DCTM132 | B492: Đào Nguyễn Ngân | C492: Trâm | D492: D24CQTM03-B | E492: D24TM | F492: FIA1389 | G492: Kế toán cho kinh doanh | H492: Mở lớp riêng học vượt
+A493: B24DCTM132 | B493: Đào Nguyễn Ngân | C493: Trâm | D493: D24CQTM03-B | E493: D24TM | F493: BSA1354 | G493: Quản trị bán hàng và phân phối sản phẩm | H493: Mở lớp riêng học vượt
+A494: B24DCVT148 | B494: Nguyễn Thị | C494: Hoài | D494: D24CQVT01-B | E494: D24VT | F494: ELE1317 | G494: Kỹ thuật vi xử lý | H494: Học ghép cùng D22,23,24
+A495: B24DCVT148 | B495: Nguyễn Thị | C495: Hoài | D495: D24CQVT01-B | E495: D24VT | F495: TEL1338 | G495: Kiến trúc máy tính | H495: Mở lớp riêng học vượt
+A496: B24DCVT299 | B496: Hoàng Hồng | C496: Quân | D496: D24CQVT01-B | E496: D24VT | F496: ELE1317 | G496: Kỹ thuật vi xử lý | H496: Học ghép cùng D22,23,24
+A497: B24DCVT299 | B497: Hoàng Hồng | C497: Quân | D497: D24CQVT01-B | E497: D24VT | F497: TEL1338 | G497: Kiến trúc máy tính | H497: Mở lớp riêng học vượt
+A498: B24DCVT089 | B498: Phạm Minh | C498: Đức | D498: D24CQVT02-B | E498: D24VT | F498: ELE1317 | G498: Kỹ thuật vi xử lý | H498: Học ghép cùng D22,23,24
+A499: B24DCVT089 | B499: Phạm Minh | C499: Đức | D499: D24CQVT02-B | E499: D24VT | F499: TEL1338 | G499: Kiến trúc máy tính | H499: Mở lớp riêng học vượt
+A500: B24DCVT163 | B500: Thân Nhân | C500: Hùng | D500: D24CQVT02-B | E500: D24VT | F500: ELE1317 | G500: Kỹ thuật vi xử lý | H500: Học ghép cùng D22,23,24
+A501: B24DCVT163 | B501: Thân Nhân | C501: Hùng | D501: D24CQVT02-B | E501: D24VT | F501: TEL1338 | G501: Kiến trúc máy tính | H501: Mở lớp riêng học vượt
+A502: B24DCVT247 | B502: Hoàng Nhật | C502: Minh | D502: D24CQVT02-B | E502: D24VT | F502: ELE1317 | G502: Kỹ thuật vi xử lý | H502: Học ghép cùng D22,23,24
+A503: B24DCVT247 | B503: Hoàng Nhật | C503: Minh | D503: D24CQVT02-B | E503: D24VT | F503: TEL1338 | G503: Kiến trúc máy tính | H503: Mở lớp riêng học vượt
+A504: B24DCVT339 | B504: Dương Trí | C504: Thành | D504: D24CQVT02-B | E504: D24VT | F504: ELE1317 | G504: Kỹ thuật vi xử lý | H504: Học ghép cùng D22,23,24
+A505: B24DCVT339 | B505: Dương Trí | C505: Thành | D505: D24CQVT02-B | E505: D24VT | F505: TEL1338 | G505: Kiến trúc máy tính | H505: Mở lớp riêng học vượt
+A506: B24DCVT045 | B506: Nguyễn Đức | C506: Chiến | D506: D24CQVT03-B | E506: D24VT | F506: ELE1317 | G506: Kỹ thuật vi xử lý | H506: Học ghép cùng D22,23,24
+A507: B24DCVT045 | B507: Nguyễn Đức | C507: Chiến | D507: D24CQVT03-B | E507: D24VT | F507: TEL1338 | G507: Kiến trúc máy tính | H507: Mở lớp riêng học vượt
+A508: B24DCVT276 | B508: Nguyễn Trung | C508: Nghĩa | D508: D24CQVT03-B | E508: D24VT | F508: ELE1317 | G508: Kỹ thuật vi xử lý | H508: Học ghép cùng D22,23,24
+A509: B24DCVT276 | B509: Nguyễn Trung | C509: Nghĩa | D509: D24CQVT03-B | E509: D24VT | F509: TEL1338 | G509: Kiến trúc máy tính | H509: Mở lớp riêng học vượt
+A510: B24DCVT283 | B510: Trần Vũ | C510: Nguyên | D510: D24CQVT03-B | E510: D24VT | F510: ELE1317 | G510: Kỹ thuật vi xử lý | H510: Học ghép cùng D22,23,24
+A511: B24DCVT283 | B511: Trần Vũ | C511: Nguyên | D511: D24CQVT03-B | E511: D24VT | F511: TEL1338 | G511: Kiến trúc máy tính | H511: Mở lớp riêng học vượt
+A512: B24DCVT388 | B512: Hoàng Quang | C512: Văn | D512: D24CQVT03-B | E512: D24VT | F512: ELE1317 | G512: Kỹ thuật vi xử lý | H512: Học ghép cùng D22,23,24
+A513: B24DCVT388 | B513: Hoàng Quang | C513: Văn | D513: D24CQVT03-B | E513: D24VT | F513: TEL1338 | G513: Kiến trúc máy tính | H513: Mở lớp riêng học vượt
+A514: B24DCVT222 | B514: Trần Thị Thu | C514: Lan | D514: D24CQVT04-B | E514: D24VT | F514: ELE1317 | G514: Kỹ thuật vi xử lý | H514: Học ghép cùng D22,23,24
+A515: B24DCVT222 | B515: Trần Thị Thu | C515: Lan | D515: D24CQVT04-B | E515: D24VT | F515: TEL1338 | G515: Kiến trúc máy tính | H515: Mở lớp riêng học vượt
+A516: B24DCVT215 | B516: Quách Trung | C516: Kiên | D516: D24CQVT05-B | E516: D24VT | F516: ELE1317 | G516: Kỹ thuật vi xử lý | H516: Học ghép cùng D22,23,24
+A517: B24DCVT215 | B517: Quách Trung | C517: Kiên | D517: D24CQVT05-B | E517: D24VT | F517: TEL1338 | G517: Kiến trúc máy tính | H517: Mở lớp riêng học vượt
+A518: B24DCVT390 | B518: Nguyễn Thị Thảo | C518: Vân | D518: D24CQVT05-B | E518: D24VT | F518: ELE1317 | G518: Kỹ thuật vi xử lý | H518: Học ghép cùng D22,23,24
+A519: B24DCVT390 | B519: Nguyễn Thị Thảo | C519: Vân | D519: D24CQVT05-B | E519: D24VT | F519: TEL1338 | G519: Kiến trúc máy tính | H519: Mở lớp riêng học vượt
+A520: B24DCAT008 | B520: Dương Việt | C520: Anh | D520: D24CTAT01-B | E520: D24AT | F520: INT1332 | G520: Lập trình hướng đối tượng | H520: Mở lớp riêng học vượt
+A521: B24DCAT031 | B521: Nghiêm Bảo Minh | C521: Châu | D521: D24CTAT01-B | E521: D24AT | F521: INT1332 | G521: Lập trình hướng đối tượng | H521: Mở lớp riêng học vượt
+A522: B24DCAT038 | B522: Hoàng Hải | C522: Đăng | D522: D24CTAT01-B | E522: D24AT | F522: INT1332 | G522: Lập trình hướng đối tượng | H522: Mở lớp riêng học vượt
+A523: B24DCAT049 | B523: Nguyễn Thành | C523: Đạt | D523: D24CTAT01-B | E523: D24AT | F523: INT1332 | G523: Lập trình hướng đối tượng | H523: Mở lớp riêng học vượt
+A524: B24DCAT058 | B524: Cao Văn | C524: Đức | D524: D24CTAT01-B | E524: D24AT | F524: INT1332 | G524: Lập trình hướng đối tượng | H524: Mở lớp riêng học vượt
+A525: B24DCAT059 | B525: Đinh Văn | C525: Đức | D525: D24CTAT01-B | E525: D24AT | F525: INT1332 | G525: Lập trình hướng đối tượng | H525: Mở lớp riêng học vượt
+A526: B24DCAT081 | B526: Phạm Vũ Đức | C526: Duy | D526: D24CTAT01-B | E526: D24AT | F526: INT1332 | G526: Lập trình hướng đối tượng | H526: Mở lớp riêng học vượt
+A527: B24DCAT087 | B527: Nguyễn Thị | C527: Hằng | D527: D24CTAT01-B | E527: D24AT | F527: INT1332 | G527: Lập trình hướng đối tượng | H527: Mở lớp riêng học vượt
+A528: B24DCAT148 | B528: Bùi Ninh | C528: Khôi | D528: D24CTAT01-B | E528: D24AT | F528: INT1332 | G528: Lập trình hướng đối tượng | H528: Mở lớp riêng học vượt
+A529: B24DCAT207 | B529: Nguyễn Huy | C529: Nghiên | D529: D24CTAT01-B | E529: D24AT | F529: INT1332 | G529: Lập trình hướng đối tượng | H529: Mở lớp riêng học vượt
+A530: B24DCAT237 | B530: Nguyễn Duy Bảo | C530: Quốc | D530: D24CTAT01-B | E530: D24AT | F530: INT1332 | G530: Lập trình hướng đối tượng | H530: Mở lớp riêng học vượt
+A531: B24DCAT243 | B531: Nguyễn Như | C531: Sáng | D531: D24CTAT01-B | E531: D24AT | F531: INT1332 | G531: Lập trình hướng đối tượng | H531: Mở lớp riêng học vượt
+A532: B24DCAT246 | B532: Trần Duy | C532: Tân | D532: D24CTAT01-B | E532: D24AT | F532: INT1332 | G532: Lập trình hướng đối tượng | H532: Mở lớp riêng học vượt
+A533: B24DCAT254 | B533: Nguyễn Xuân | C533: Thành | D533: D24CTAT01-B | E533: D24AT | F533: INT1332 | G533: Lập trình hướng đối tượng | H533: Mở lớp riêng học vượt
+A534: B24DCAT262 | B534: Đinh Mạnh | C534: Tiến | D534: D24CTAT01-B | E534: D24AT | F534: INT1332 | G534: Lập trình hướng đối tượng | H534: Mở lớp riêng học vượt
+A535: B24DCAT275 | B535: Lê Thanh | C535: Tú | D535: D24CTAT01-B | E535: D24AT | F535: INT1332 | G535: Lập trình hướng đối tượng | H535: Mở lớp riêng học vượt
+A536: B24DCAT300 | B536: Nguyễn Thanh | C536: Xuân | D536: D24CTAT01-B | E536: D24AT | F536: INT1332 | G536: Lập trình hướng đối tượng | H536: Mở lớp riêng học vượt
+A537: B24DCCN028 | B537: Nguyễn Đức | C537: Anh | D537: D24CTCN01-B | E537: D24CN | F537: INT1319 | G537: Hệ điều hành | H537: Mở lớp riêng học vượt
+A538: B24DCCN028 | B538: Nguyễn Đức | C538: Anh | D538: D24CTCN01-B | E538: D24CN | F538: SKD1108 | G538: Phương pháp luận NCKH | H538: Mở lớp riêng học vượt
+A539: B24DCCN041 | B539: Phạm Hoàng | C539: Anh | D539: D24CTCN01-B | E539: D24CN | F539: INT1319 | G539: Hệ điều hành | H539: Mở lớp riêng học vượt
+A540: B24DCCN041 | B540: Phạm Hoàng | C540: Anh | D540: D24CTCN01-B | E540: D24CN | F540: SKD1108 | G540: Phương pháp luận NCKH | H540: Mở lớp riêng học vượt
+A541: B24DCCN046 | B541: Trần Đức Việt | C541: Anh | D541: D24CTCN01-B | E541: D24CN | F541: INT1319 | G541: Hệ điều hành | H541: Mở lớp riêng học vượt
+A542: B24DCCN046 | B542: Trần Đức Việt | C542: Anh | D542: D24CTCN01-B | E542: D24CN | F542: SKD1108 | G542: Phương pháp luận NCKH | H542: Mở lớp riêng học vượt
+A543: B24DCCN064 | B543: Lê Hải | C543: Biên | D543: D24CTCN01-B | E543: D24CN | F543: INT1319 | G543: Hệ điều hành | H543: Mở lớp riêng học vượt
+A544: B24DCCN064 | B544: Lê Hải | C544: Biên | D544: D24CTCN01-B | E544: D24CN | F544: SKD1108 | G544: Phương pháp luận NCKH | H544: Mở lớp riêng học vượt
+A545: B24DCCN104 | B545: Đặng Mạnh | C545: Đạt | D545: D24CTCN01-B | E545: D24CN | F545: INT1319 | G545: Hệ điều hành | H545: Mở lớp riêng học vượt
+A546: B24DCCN104 | B546: Đặng Mạnh | C546: Đạt | D546: D24CTCN01-B | E546: D24CN | F546: SKD1108 | G546: Phương pháp luận NCKH | H546: Mở lớp riêng học vượt
+A547: B24DCCN138 | B547: Ngô Minh | C547: Đức | D547: D24CTCN01-B | E547: D24CN | F547: INT1319 | G547: Hệ điều hành | H547: Mở lớp riêng học vượt
+A548: B24DCCN138 | B548: Ngô Minh | C548: Đức | D548: D24CTCN01-B | E548: D24CN | F548: SKD1108 | G548: Phương pháp luận NCKH | H548: Mở lớp riêng học vượt
+A549: B24DCCN193 | B549: Phạm Minh | C549: Hằng | D549: D24CTCN01-B | E549: D24CN | F549: INT1319 | G549: Hệ điều hành | H549: Mở lớp riêng học vượt
+A550: B24DCCN193 | B550: Phạm Minh | C550: Hằng | D550: D24CTCN01-B | E550: D24CN | F550: SKD1108 | G550: Phương pháp luận NCKH | H550: Mở lớp riêng học vượt
+A551: B24DCCN199 | B551: Phùng Minh | C551: Hiển | D551: D24CTCN01-B | E551: D24CN | F551: INT1319 | G551: Hệ điều hành | H551: Mở lớp riêng học vượt
+A552: B24DCCN199 | B552: Phùng Minh | C552: Hiển | D552: D24CTCN01-B | E552: D24CN | F552: SKD1108 | G552: Phương pháp luận NCKH | H552: Mở lớp riêng học vượt
+A553: B24DCCN223 | B553: Nguyễn Bá | C553: Hiệu | D553: D24CTCN01-B | E553: D24CN | F553: INT1319 | G553: Hệ điều hành | H553: Mở lớp riêng học vượt
+A554: B24DCCN223 | B554: Nguyễn Bá | C554: Hiệu | D554: D24CTCN01-B | E554: D24CN | F554: SKD1108 | G554: Phương pháp luận NCKH | H554: Mở lớp riêng học vượt
+A555: B24DCCN229 | B555: Nguyễn Viết | C555: Hoàn | D555: D24CTCN01-B | E555: D24CN | F555: INT1319 | G555: Hệ điều hành | H555: Mở lớp riêng học vượt
+A556: B24DCCN229 | B556: Nguyễn Viết | C556: Hoàn | D556: D24CTCN01-B | E556: D24CN | F556: SKD1108 | G556: Phương pháp luận NCKH | H556: Mở lớp riêng học vượt
+A557: B24DCCN260 | B557: Nguyễn Gia | C557: Hưng | D557: D24CTCN01-B | E557: D24CN | F557: INT1319 | G557: Hệ điều hành | H557: Mở lớp riêng học vượt
+A558: B24DCCN260 | B558: Nguyễn Gia | C558: Hưng | D558: D24CTCN01-B | E558: D24CN | F558: SKD1108 | G558: Phương pháp luận NCKH | H558: Mở lớp riêng học vượt
+A559: B24DCCN278 | B559: Nguyễn Gia | C559: Huy | D559: D24CTCN01-B | E559: D24CN | F559: INT1319 | G559: Hệ điều hành | H559: Mở lớp riêng học vượt
+A560: B24DCCN278 | B560: Nguyễn Gia | C560: Huy | D560: D24CTCN01-B | E560: D24CN | F560: SKD1108 | G560: Phương pháp luận NCKH | H560: Mở lớp riêng học vượt
+A561: B24DCCN281 | B561: Nguyễn Quang | C561: Huy | D561: D24CTCN01-B | E561: D24CN | F561: INT1319 | G561: Hệ điều hành | H561: Mở lớp riêng học vượt
+A562: B24DCCN281 | B562: Nguyễn Quang | C562: Huy | D562: D24CTCN01-B | E562: D24CN | F562: SKD1108 | G562: Phương pháp luận NCKH | H562: Mở lớp riêng học vượt
+A563: B24DCCN286 | B563: Phan Gia | C563: Huy | D563: D24CTCN01-B | E563: D24CN | F563: INT1319 | G563: Hệ điều hành | H563: Mở lớp riêng học vượt
+A564: B24DCCN286 | B564: Phan Gia | C564: Huy | D564: D24CTCN01-B | E564: D24CN | F564: SKD1108 | G564: Phương pháp luận NCKH | H564: Mở lớp riêng học vượt
+A565: B24DCCN325 | B565: Nguyễn Tiến | C565: Khôi | D565: D24CTCN01-B | E565: D24CN | F565: INT1319 | G565: Hệ điều hành | H565: Mở lớp riêng học vượt
+A566: B24DCCN325 | B566: Nguyễn Tiến | C566: Khôi | D566: D24CTCN01-B | E566: D24CN | F566: SKD1108 | G566: Phương pháp luận NCKH | H566: Mở lớp riêng học vượt
+A567: B24DCCN330 | B567: Nguyễn Đức Hoàng | C567: Kiên | D567: D24CTCN01-B | E567: D24CN | F567: INT1319 | G567: Hệ điều hành | H567: Mở lớp riêng học vượt
+A568: B24DCCN330 | B568: Nguyễn Đức Hoàng | C568: Kiên | D568: D24CTCN01-B | E568: D24CN | F568: SKD1108 | G568: Phương pháp luận NCKH | H568: Mở lớp riêng học vượt
+A569: B24DCCN364 | B569: Nguyễn Duy | C569: Long | D569: D24CTCN01-B | E569: D24CN | F569: INT1319 | G569: Hệ điều hành | H569: Mở lớp riêng học vượt
+A570: B24DCCN364 | B570: Nguyễn Duy | C570: Long | D570: D24CTCN01-B | E570: D24CN | F570: SKD1108 | G570: Phương pháp luận NCKH | H570: Mở lớp riêng học vượt
+A571: B24DCCN381 | B571: Mai Văn | C571: Mạnh | D571: D24CTCN01-B | E571: D24CN | F571: INT1319 | G571: Hệ điều hành | H571: Mở lớp riêng học vượt
+A572: B24DCCN381 | B572: Mai Văn | C572: Mạnh | D572: D24CTCN01-B | E572: D24CN | F572: SKD1108 | G572: Phương pháp luận NCKH | H572: Mở lớp riêng học vượt
+A573: B24DCCN386 | B573: Thái Duy | C573: Mạnh | D573: D24CTCN01-B | E573: D24CN | F573: INT1319 | G573: Hệ điều hành | H573: Mở lớp riêng học vượt
+A574: B24DCCN386 | B574: Thái Duy | C574: Mạnh | D574: D24CTCN01-B | E574: D24CN | F574: SKD1108 | G574: Phương pháp luận NCKH | H574: Mở lớp riêng học vượt
+A575: B24DCCN411 | B575: Nguyễn Văn | C575: Nam | D575: D24CTCN01-B | E575: D24CN | F575: INT1319 | G575: Hệ điều hành | H575: Mở lớp riêng học vượt
+A576: B24DCCN411 | B576: Nguyễn Văn | C576: Nam | D576: D24CTCN01-B | E576: D24CN | F576: SKD1108 | G576: Phương pháp luận NCKH | H576: Mở lớp riêng học vượt
+A577: B24DCCN452 | B577: Nguyễn Hồng | C577: Phúc | D577: D24CTCN01-B | E577: D24CN | F577: INT1319 | G577: Hệ điều hành | H577: Mở lớp riêng học vượt
+A578: B24DCCN452 | B578: Nguyễn Hồng | C578: Phúc | D578: D24CTCN01-B | E578: D24CN | F578: SKD1108 | G578: Phương pháp luận NCKH | H578: Mở lớp riêng học vượt
+A579: B24DCCN466 | B579: Phan Minh | C579: Quân | D579: D24CTCN01-B | E579: D24CN | F579: INT1319 | G579: Hệ điều hành | H579: Mở lớp riêng học vượt
+A580: B24DCCN466 | B580: Phan Minh | C580: Quân | D580: D24CTCN01-B | E580: D24CN | F580: SKD1108 | G580: Phương pháp luận NCKH | H580: Mở lớp riêng học vượt
+A581: B24DCCN469 | B581: Đinh Quý | C581: Quang | D581: D24CTCN01-B | E581: D24CN | F581: INT1319 | G581: Hệ điều hành | H581: Mở lớp riêng học vượt
+A582: B24DCCN469 | B582: Đinh Quý | C582: Quang | D582: D24CTCN01-B | E582: D24CN | F582: SKD1108 | G582: Phương pháp luận NCKH | H582: Mở lớp riêng học vượt
+A583: B24DCCN474 | B583: Ngô Minh | C583: Quang | D583: D24CTCN01-B | E583: D24CN | F583: INT1319 | G583: Hệ điều hành | H583: Mở lớp riêng học vượt
+A584: B24DCCN474 | B584: Ngô Minh | C584: Quang | D584: D24CTCN01-B | E584: D24CN | F584: SKD1108 | G584: Phương pháp luận NCKH | H584: Mở lớp riêng học vượt
+A585: B24DCCN478 | B585: Nguyễn Văn | C585: Quang | D585: D24CTCN01-B | E585: D24CN | F585: INT1319 | G585: Hệ điều hành | H585: Mở lớp riêng học vượt
+A586: B24DCCN478 | B586: Nguyễn Văn | C586: Quang | D586: D24CTCN01-B | E586: D24CN | F586: SKD1108 | G586: Phương pháp luận NCKH | H586: Mở lớp riêng học vượt
+A587: B24DCCN539 | B587: Vũ Viết | C587: Thành | D587: D24CTCN01-B | E587: D24CN | F587: INT1319 | G587: Hệ điều hành | H587: Mở lớp riêng học vượt
+A588: B24DCCN539 | B588: Vũ Viết | C588: Thành | D588: D24CTCN01-B | E588: D24CN | F588: SKD1108 | G588: Phương pháp luận NCKH | H588: Mở lớp riêng học vượt
+A589: B24DCCN543 | B589: Đặng Ngọc | C589: Thiện | D589: D24CTCN01-B | E589: D24CN | F589: INT1319 | G589: Hệ điều hành | H589: Mở lớp riêng học vượt
+A590: B24DCCN543 | B590: Đặng Ngọc | C590: Thiện | D590: D24CTCN01-B | E590: D24CN | F590: SKD1108 | G590: Phương pháp luận NCKH | H590: Mở lớp riêng học vượt
+A591: B24DCCN545 | B591: Nguyễn Khắc | C591: Thịnh | D591: D24CTCN01-B | E591: D24CN | F591: INT1319 | G591: Hệ điều hành | H591: Mở lớp riêng học vượt
+A592: B24DCCN545 | B592: Nguyễn Khắc | C592: Thịnh | D592: D24CTCN01-B | E592: D24CN | F592: SKD1108 | G592: Phương pháp luận NCKH | H592: Mở lớp riêng học vượt
+A593: B24DCCN583 | B593: Nguyễn Đình | C593: Tú | D593: D24CTCN01-B | E593: D24CN | F593: INT1319 | G593: Hệ điều hành | H593: Mở lớp riêng học vượt
+A594: B24DCCN583 | B594: Nguyễn Đình | C594: Tú | D594: D24CTCN01-B | E594: D24CN | F594: SKD1108 | G594: Phương pháp luận NCKH | H594: Mở lớp riêng học vượt
+A595: B24DCCN607 | B595: Đặng Nguyễn Hồng | C595: Vân | D595: D24CTCN01-B | E595: D24CN | F595: INT1319 | G595: Hệ điều hành | H595: Mở lớp riêng học vượt
+A596: B24DCCN607 | B596: Đặng Nguyễn Hồng | C596: Vân | D596: D24CTCN01-B | E596: D24CN | F596: SKD1108 | G596: Phương pháp luận NCKH | H596: Mở lớp riêng học vượt
+A597: B24DCVT125 | B597: Trịnh Hoàng | C597: Hảo | D597: D24CTVT01-B | E597: D24VT | F597: ELE1317 | G597: Kỹ thuật vi xử lý | H597: Học ghép cùng D22,23,24
+A598: B24DCVT125 | B598: Trịnh Hoàng | C598: Hảo | D598: D24CTVT01-B | E598: D24VT | F598: TEL1338 | G598: Kiến trúc máy tính | H598: Mở lớp riêng học vượt
+A599: B24DCVT130 | B599: Hoàng Công | C599: Hiếu | D599: D24CTVT01-B | E599: D24VT | F599: ELE1317 | G599: Kỹ thuật vi xử lý | H599: Học ghép cùng D22,23,24
+A600: B24DCVT130 | B600: Hoàng Công | C600: Hiếu | D600: D24CTVT01-B | E600: D24VT | F600: TEL1338 | G600: Kiến trúc máy tính | H600: Mở lớp riêng học vượt
+A601: B24DCVT324 | B601: Phạm Xuân | C601: Tâm | D601: D24CTVT01-B | E601: D24VT | F601: ELE1317 | G601: Kỹ thuật vi xử lý | H601: Học ghép cùng D22,23,24
+A602: B24DCVT324 | B602: Phạm Xuân | C602: Tâm | D602: D24CTVT01-B | E602: D24VT | F602: TEL1338 | G602: Kiến trúc máy tính | H602: Mở lớp riêng học vượt
+A603: B25DCAE019 | B603: Nguyễn Quang | C603: Dũng | D603: D25CQAE01-B | E603: E25AT | F603: INT13204_CLC | G603: Kiến trúc máy tính và hệ điều hành | H603: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A604: B25DCAE017 | B604: Đinh Xuân | C604: Duy | D604: D25CQAE02-B | E604: E25AT | F604: INT13204_CLC | G604: Kiến trúc máy tính và hệ điều hành | H604: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A605: B25DCAE044 | B605: Phạm Huy | C605: Kiên | D605: D25CQAE02-B | E605: E25AT | F605: INT13204_CLC | G605: Kiến trúc máy tính và hệ điều hành | H605: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A606: B25DCAE050 | B606: Trần Đức | C606: Long | D606: D25CQAE02-B | E606: E25AT | F606: INT13204_CLC | G606: Kiến trúc máy tính và hệ điều hành | H606: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A607: B25DCAE059 | B607: Nguyễn Phúc Bảo | C607: Minh | D607: D25CQAE02-B | E607: E25AT | F607: INT13204_CLC | G607: Kiến trúc máy tính và hệ điều hành | H607: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A608: B25DCAE068 | B608: Đào Huy | C608: Minh | D608: D25CQAE02-B | E608: E25AT | F608: INT13204_CLC | G608: Kiến trúc máy tính và hệ điều hành | H608: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A609: B25DCAE074 | B609: Trần Lê Hoàng | C609: Nam | D609: D25CQAE02-B | E609: E25AT | F609: INT13204_CLC | G609: Kiến trúc máy tính và hệ điều hành | H609: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A610: B25DCAE104 | B610: Giáp Đức | C610: Đạt | D610: D25CQAE02-B | E610: E25AT | F610: INT13204_CLC | G610: Kiến trúc máy tính và hệ điều hành | H610: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A611: B25DCAT169 | B611: Nguyễn Đình | C611: Tú | D611: D25CQAT01-B | E611: D25AT | F611: BAS1269 | G611: Xác xuất thống kê | H611: Học ghép cùng D22,23,24
+A612: B25DCAT032 | B612: Bùi Tiến | C612: Dũng | D612: D25CQAT04-B | E612: D25AT | F612: BAS1269 | G612: Xác xuất thống kê | H612: Học ghép cùng D22,23,24
+A613: B25DCAT044 | B613: Hoàng Mai | C613: Hiền | D613: D25CQAT04-B | E613: D25AT | F613: BAS1269 | G613: Xác xuất thống kê | H613: Học ghép cùng D22,23,24
+A614: B25DCCE036 | B614: Bùi Huy | C614: Doanh | D614: D25CQCE01-B | E614: E25CN | F614: INT1358_CLC | G614: Toán rời rạc 1 | H614: Mở lớp riêng học vượt
+A615: B25DCCE043 | B615: Nguyễn Anh | C615: Dũng | D615: D25CQCE01-B | E615: E25CN | F615: INT1358_CLC | G615: Toán rời rạc 1 | H615: Mở lớp riêng học vượt
+A616: B25DCCE050 | B616: Nguyễn Văn | C616: Dũng | D616: D25CQCE01-B | E616: E25CN | F616: INT1358_CLC | G616: Toán rời rạc 1 | H616: Mở lớp riêng học vượt
+A617: B25DCCE141 | B617: Cao Ngọc | C617: Lam | D617: D25CQCE01-B | E617: E25CN | F617: INT1358_CLC | G617: Toán rời rạc 1 | H617: Mở lớp riêng học vượt
+A618: B25DCCE155 | B618: Lương Khánh | C618: Ly | D618: D25CQCE01-B | E618: E25CN | F618: INT1358_CLC | G618: Toán rời rạc 1 | H618: Mở lớp riêng học vượt
+A619: B25DCCE162 | B619: Lê Quốc | C619: Lợi | D619: D25CQCE01-B | E619: E25CN | F619: INT1358_CLC | G619: Toán rời rạc 1 | H619: Mở lớp riêng học vượt
+A620: B25DCCE176 | B620: Nguyễn Tuấn | C620: Minh | D620: D25CQCE01-B | E620: E25CN | F620: INT1358_CLC | G620: Toán rời rạc 1 | H620: Mở lớp riêng học vượt
+A621: B25DCCE218 | B621: Nguyễn Viết | C621: Quân | D621: D25CQCE01-B | E621: E25CN | F621: INT1358_CLC | G621: Toán rời rạc 1 | H621: Mở lớp riêng học vượt
+A622: B25DCCE225 | B622: Phạm Đức | C622: Quý | D622: D25CQCE01-B | E622: E25CN | F622: INT1358_CLC | G622: Toán rời rạc 1 | H622: Mở lớp riêng học vượt
+A623: B25DCCE246 | B623: Hoàng Đức | C623: Tiến | D623: D25CQCE01-B | E623: E25CN | F623: INT1358_CLC | G623: Toán rời rạc 1 | H623: Mở lớp riêng học vượt
+A624: B25DCCE253 | B624: Lê Hải | C624: Triều | D624: D25CQCE01-B | E624: E25CN | F624: INT1358_CLC | G624: Toán rời rạc 1 | H624: Mở lớp riêng học vượt
+A625: B25DCCE260 | B625: Trần Minh | C625: Trí | D625: D25CQCE01-B | E625: E25CN | F625: INT1358_CLC | G625: Toán rời rạc 1 | H625: Mở lớp riêng học vượt
+A626: B25DCCE274 | B626: Nguyễn Thanh | C626: Tùng | D626: D25CQCE01-B | E626: E25CN | F626: INT1358_CLC | G626: Toán rời rạc 1 | H626: Mở lớp riêng học vượt
+A627: B25DCCE288 | B627: Phan Khánh | C627: Đăng | D627: D25CQCE01-B | E627: E25CN | F627: INT1358_CLC | G627: Toán rời rạc 1 | H627: Mở lớp riêng học vượt
+A628: B25DCCE295 | B628: Bạch Ngọc | C628: Đức | D628: D25CQCE01-B | E628: E25CN | F628: INT1358_CLC | G628: Toán rời rạc 1 | H628: Mở lớp riêng học vượt
+A629: B25DCCE044 | B629: Nguyễn Hoàng | C629: Dũng | D629: D25CQCE02-B | E629: E25CN | F629: INT1358_CLC | G629: Toán rời rạc 1 | H629: Mở lớp riêng học vượt
+A630: B25DCCE142 | B630: Hà | C630: Linh | D630: D25CQCE02-B | E630: E25CN | F630: INT1358_CLC | G630: Toán rời rạc 1 | H630: Mở lớp riêng học vượt
+A631: B25DCCE156 | B631: Nguyễn Minh | C631: Lâm | D631: D25CQCE02-B | E631: E25CN | F631: INT1358_CLC | G631: Toán rời rạc 1 | H631: Mở lớp riêng học vượt
+A632: B25DCCE163 | B632: Lê Thị Ngọc | C632: Mai | D632: D25CQCE02-B | E632: E25CN | F632: INT1358_CLC | G632: Toán rời rạc 1 | H632: Mở lớp riêng học vượt
+A633: B25DCCE219 | B633: Ngô Hồng | C633: Quân | D633: D25CQCE02-B | E633: E25CN | F633: INT1358_CLC | G633: Toán rời rạc 1 | H633: Mở lớp riêng học vượt
+A634: B25DCCE226 | B634: Trần Tuấn | C634: Quảng | D634: D25CQCE02-B | E634: E25CN | F634: INT1358_CLC | G634: Toán rời rạc 1 | H634: Mở lớp riêng học vượt
+A635: B25DCCE282 | B635: Hồ Quốc | C635: Việt | D635: D25CQCE02-B | E635: E25CN | F635: INT1358_CLC | G635: Toán rời rạc 1 | H635: Mở lớp riêng học vượt
+A636: B25DCCE303 | B636: Nguyễn Trí | C636: Đức | D636: D25CQCE02-B | E636: E25CN | F636: INT1358_CLC | G636: Toán rời rạc 1 | H636: Mở lớp riêng học vượt
+A637: B25DCCE115 | B637: Hoa Duy Phúc | C637: Khánh | D637: D25CQCE03-B | E637: E25CN | F637: INT1358_CLC | G637: Toán rời rạc 1 | H637: Mở lớp riêng học vượt
+A638: B25DCCE297 | B638: Lê Quang Minh | C638: Đức | D638: D25CQCE03-B | E638: E25CN | F638: INT1358_CLC | G638: Toán rời rạc 1 | H638: Mở lớp riêng học vượt
+A639: B25DCCE304 | B639: Đoàn Minh | C639: Đức | D639: D25CQCE03-B | E639: E25CN | F639: INT1358_CLC | G639: Toán rời rạc 1 | H639: Mở lớp riêng học vượt
+A640: B25DCCE179 | B640: Phạm Hoàng | C640: Minh | D640: D25CQCE04-B | E640: E25CN | F640: INT1358_CLC | G640: Toán rời rạc 1 | H640: Mở lớp riêng học vượt
+A641: B25DCCE193 | B641: Nguyễn Thành | C641: Nam | D641: D25CQCE04-B | E641: E25CN | F641: INT1358_CLC | G641: Toán rời rạc 1 | H641: Mở lớp riêng học vượt
+A642: B25DCCE054 | B642: Đỗ Anh | C642: Dũng | D642: D25CQCE05-B | E642: E25CN | F642: INT1358_CLC | G642: Toán rời rạc 1 | H642: Mở lớp riêng học vượt
+A643: B25DCCE124 | B643: Nguyễn Anh | C643: Khôi | D643: D25CQCE05-B | E643: E25CN | F643: INT1358_CLC | G643: Toán rời rạc 1 | H643: Mở lớp riêng học vượt
+A644: B25DCCE138 | B644: Nguyễn Duy Gia | C644: Kiệt | D644: D25CQCE05-B | E644: E25CN | F644: INT1358_CLC | G644: Toán rời rạc 1 | H644: Mở lớp riêng học vượt
+A645: B25DCCE243 | B645: Nguyễn Trường | C645: Thịnh | D645: D25CQCE05-B | E645: E25CN | F645: INT1358_CLC | G645: Toán rời rạc 1 | H645: Mở lớp riêng học vượt
+A646: B25DCCE034 | B646: Đặng Minh | C646: Công | D646: D25CQCE06-B | E646: E25CN | F646: INT1358_CLC | G646: Toán rời rạc 1 | H646: Mở lớp riêng học vượt
+A647: B25DCCE048 | B647: Nguyễn Tấn | C647: Dũng | D647: D25CQCE06-B | E647: E25CN | F647: INT1358_CLC | G647: Toán rời rạc 1 | H647: Mở lớp riêng học vượt
+A648: B25DCCE062 | B648: Hoàng Minh | C648: Hiếu | D648: D25CQCE06-B | E648: E25CN | F648: INT1358_CLC | G648: Toán rời rạc 1 | H648: Mở lớp riêng học vượt
+A649: B25DCCE153 | B649: Trần Văn | C649: Long | D649: D25CQCE06-B | E649: E25CN | F649: INT1358_CLC | G649: Toán rời rạc 1 | H649: Mở lớp riêng học vượt
+A650: B25DCCE160 | B650: Hà Kiều | C650: Lê | D650: D25CQCE06-B | E650: E25CN | F650: INT1358_CLC | G650: Toán rời rạc 1 | H650: Mở lớp riêng học vượt
+A651: B25DCCE230 | B651: Nguyễn Như | C651: Sơn | D651: D25CQCE06-B | E651: E25CN | F651: INT1358_CLC | G651: Toán rời rạc 1 | H651: Mở lớp riêng học vượt
+A652: B25DCCE007 | B652: Nguyễn Châu | C652: Anh | D652: D25CQCE07-B | E652: E25CN | F652: INT1358_CLC | G652: Toán rời rạc 1 | H652: Mở lớp riêng học vượt
+A653: B25DCCE077 | B653: Trương Việt | C653: Hoàng | D653: D25CQCE07-B | E653: E25CN | F653: INT1358_CLC | G653: Toán rời rạc 1 | H653: Mở lớp riêng học vượt
+A654: B25DCCE105 | B654: Nguyễn Quang | C654: Hợp | D654: D25CQCE07-B | E654: E25CN | F654: INT1358_CLC | G654: Toán rời rạc 1 | H654: Mở lớp riêng học vượt
+A655: B25DCCE140 | B655: Ngô Minh | C655: Kiệt | D655: D25CQCE07-B | E655: E25CN | F655: INT1358_CLC | G655: Toán rời rạc 1 | H655: Mở lớp riêng học vượt
+A656: B25DCCE175 | B656: Nguyễn Tuấn | C656: Minh | D656: D25CQCE07-B | E656: E25CN | F656: INT1358_CLC | G656: Toán rời rạc 1 | H656: Mở lớp riêng học vượt
+A657: B25DCCE280 | B657: Nguyễn Đăng | C657: Vinh | D657: D25CQCE07-B | E657: E25CN | F657: INT1358_CLC | G657: Toán rời rạc 1 | H657: Mở lớp riêng học vượt
+A658: B25DCDT025 | B658: Lê Trọng Thành | C658: Châu | D658: D25CQDT01-B | E658: D25DT | F658: BAS1150 | G658: Triết học Mác Lê Nin | H658: Học ghép cùng D22,23,24
+A659: B25DCDT065 | B659: Lưu Đức | C659: Hoàng | D659: D25CQDT01-B | E659: D25DT | F659: BAS1150 | G659: Triết học Mác Lê Nin | H659: Học ghép cùng D22,23,24
+A660: B25DCDT089 | B660: Phạm Phùng | C660: Hưng | D660: D25CQDT01-B | E660: D25DT | F660: BAS1150 | G660: Triết học Mác Lê Nin | H660: Học ghép cùng D22,23,24
+A661: B25DCDT002 | B661: Lương Văn | C661: An | D661: D25CQDT02-B | E661: D25DT | F661: BAS1150 | G661: Triết học Mác Lê Nin | H661: Học ghép cùng D22,23,24
+A662: B25DCDT138 | B662: Đoàn Quý Lê | C662: Minh | D662: D25CQDT02-B | E662: D25DT | F662: BAS1150 | G662: Triết học Mác Lê Nin | H662: Học ghép cùng D22,23,24
+A663: B25DCDT202 | B663: Ngô Đức | C663: Thịnh | D663: D25CQDT02-B | E663: D25DT | F663: BAS1150 | G663: Triết học Mác Lê Nin | H663: Học ghép cùng D22,23,24
+A664: B25DCDT003 | B664: Kiều Việt | C664: Anh | D664: D25CQDT03-B | E664: D25DT | F664: BAS1150 | G664: Triết học Mác Lê Nin | H664: Học ghép cùng D22,23,24
+A665: B25DCDT079 | B665: Hoàng Việt | C665: Hùng | D665: D25CQDT03-B | E665: D25DT | F665: BAS1150 | G665: Triết học Mác Lê Nin | H665: Học ghép cùng D22,23,24
+A666: B25DCDT103 | B666: Lê Bảo | C666: Khánh | D666: D25CQDT03-B | E666: D25DT | F666: BAS1150 | G666: Triết học Mác Lê Nin | H666: Học ghép cùng D22,23,24
+A667: B25DCDT231 | B667: Lê Minh | C667: Vũ | D667: D25CQDT03-B | E667: D25DT | F667: BAS1150 | G667: Triết học Mác Lê Nin | H667: Học ghép cùng D22,23,24
+A668: B25DCDT235 | B668: Trần Quốc | C668: Vũ | D668: D25CQDT03-B | E668: D25DT | F668: BAS1150 | G668: Triết học Mác Lê Nin | H668: Học ghép cùng D22,23,24
+A669: B25DCDT096 | B669: Đào Đình | C669: Hải | D669: D25CQDT04-B | E669: D25DT | F669: BAS1150 | G669: Triết học Mác Lê Nin | H669: Học ghép cùng D22,23,24
+A670: B25DCDT156 | B670: Trần Bảo | C670: Ngọc | D670: D25CQDT04-B | E670: D25DT | F670: BAS1150 | G670: Triết học Mác Lê Nin | H670: Học ghép cùng D22,23,24
+A671: B25DCDT176 | B671: Nguyễn Hoàng | C671: Quân | D671: D25CQDT04-B | E671: D25DT | F671: BAS1150 | G671: Triết học Mác Lê Nin | H671: Học ghép cùng D22,23,24
+A672: B25DCDT236 | B672: Lê Anh | C672: Vượng | D672: D25CQDT04-B | E672: D25DT | F672: BAS1150 | G672: Triết học Mác Lê Nin | H672: Học ghép cùng D22,23,24
+A673: B25DCDT240 | B673: Dương Hải | C673: Đăng | D673: D25CQDT04-B | E673: D25DT | F673: BAS1150 | G673: Triết học Mác Lê Nin | H673: Học ghép cùng D22,23,24
+A674: B25DCDT248 | B674: Nguyễn Trọng | C674: Đạt | D674: D25CQDT04-B | E674: D25DT | F674: BAS1150 | G674: Triết học Mác Lê Nin | H674: Học ghép cùng D22,23,24
+A675: B25DCGA005 | B675: Đỗ Huy | C675: An | D675: D25CQGA01-B | E675: D25GA | F675: MUL13150 | G675: Thiết kế đồ hoạ | H675: Học ghép cùng D22,23,24
+A676: B25DCGA005 | B676: Đỗ Huy | C676: An | D676: D25CQGA01-B | E676: D25GA | F676: CDI1408 | G676: Thiết kế câu chuyện Game | H676: Học ghép cùng D22,23,24
+A677: B25DCGA025 | B677: Mai Đỗ Tùng | C677: Bách | D677: D25CQGA01-B | E677: D25GA | F677: MUL13150 | G677: Thiết kế đồ hoạ | H677: Học ghép cùng D22,23,24
+A678: B25DCGA025 | B678: Mai Đỗ Tùng | C678: Bách | D678: D25CQGA01-B | E678: D25GA | F678: CDI1408 | G678: Thiết kế câu chuyện Game | H678: Học ghép cùng D22,23,24
+A679: B25DCGA068 | B679: Nguyễn Trần Gia | C679: Huy | D679: D25CQGA04-B | E679: D25GA | F679: MUL13150 | G679: Thiết kế đồ hoạ | H679: Học ghép cùng D22,23,24
+A680: B25DCGA068 | B680: Nguyễn Trần Gia | C680: Huy | D680: D25CQGA04-B | E680: D25GA | F680: CDI1408 | G680: Thiết kế câu chuyện Game | H680: Học ghép cùng D22,23,24
+A681: B25DCKT006 | B681: Phạm Quốc | C681: Anh | D681: D25CQKT03-B | E681: D25KT | F681: SKD1108 | G681: Phương pháp luận NCKH | H681: Học ghép cùng D22,23,24
+A682: B25DCKT081 | B682: Nguyễn Ngọc | C682: Mai | D682: D25CQKT03-B | E682: D25KT | F682: SKD1108 | G682: Phương pháp luận NCKH | H682: Học ghép cùng D22,23,24
+A683: B25DCKT138 | B683: Trần Anh | C683: Thư | D683: D25CQKT03-B | E683: D25KT | F683: SKD1108 | G683: Phương pháp luận NCKH | H683: Học ghép cùng D22,23,24
+A684: B25DCKT168 | B684: Nguyễn Phương | C684: Trúc | D684: D25CQKT03-B | E684: D25KT | F684: SKD1108 | G684: Phương pháp luận NCKH | H684: Học ghép cùng D22,23,24
+A685: B25DCKH103 | B685: Nguyễn Thu | C685: Phương | D685: D25CQKH01-B | E685: D25KH | F685: INT1358 | G685: Toán rời rạc 1 | H685: Mở lớp riêng học vượt
+A686: B25DCKH136 | B686: Đặng Nguyễn Quang | C686: Vinh | D686: D25CQKH01-B | E686: D25KH | F686: INT1358 | G686: Toán rời rạc 1 | H686: Mở lớp riêng học vượt
+A687: B25DCKH008 | B687: Trần Đức | C687: Anh | D687: D25CQKH02-B | E687: D25KH | F687: INT1358 | G687: Toán rời rạc 1 | H687: Mở lớp riêng học vượt
+A688: B25DCKH011 | B688: Mai Văn | C688: Bách | D688: D25CQKH02-B | E688: D25KH | F688: INT1358 | G688: Toán rời rạc 1 | H688: Mở lớp riêng học vượt
+A689: B25DCKH023 | B689: Nguyễn Ngọc | C689: Dung | D689: D25CQKH02-B | E689: D25KH | F689: INT1358 | G689: Toán rời rạc 1 | H689: Mở lớp riêng học vượt
+A690: B25DCKH026 | B690: Đoàn Anh | C690: Dũng | D690: D25CQKH02-B | E690: D25KH | F690: INT1358 | G690: Toán rời rạc 1 | H690: Mở lớp riêng học vượt
+A691: B25DCKH035 | B691: Đào Thu | C691: Hiền | D691: D25CQKH02-B | E691: D25KH | F691: INT1358 | G691: Toán rời rạc 1 | H691: Mở lớp riêng học vượt
+A692: B25DCKH044 | B692: Nguyễn Gia | C692: Huy | D692: D25CQKH02-B | E692: D25KH | F692: INT1358 | G692: Toán rời rạc 1 | H692: Mở lớp riêng học vượt
+A693: B25DCKH053 | B693: Nguyễn Vũ | C693: Hải | D693: D25CQKH02-B | E693: D25KH | F693: INT1358 | G693: Toán rời rạc 1 | H693: Mở lớp riêng học vượt
+A694: B25DCKH059 | B694: Hồ Mậu Nam | C694: Khánh | D694: D25CQKH02-B | E694: D25KH | F694: INT1358 | G694: Toán rời rạc 1 | H694: Mở lớp riêng học vượt
+A695: B25DCKH077 | B695: Cao Hoàng Nhật | C695: Minh | D695: D25CQKH02-B | E695: D25KH | F695: INT1358 | G695: Toán rời rạc 1 | H695: Mở lớp riêng học vượt
+A696: B25DCKH080 | B696: Lê Tuấn | C696: Minh | D696: D25CQKH02-B | E696: D25KH | F696: INT1358 | G696: Toán rời rạc 1 | H696: Mở lớp riêng học vượt
+A697: B25DCKH119 | B697: Phạm Văn | C697: Thắng | D697: D25CQKH02-B | E697: D25KH | F697: INT1358 | G697: Toán rời rạc 1 | H697: Mở lớp riêng học vượt
+A698: B25DCKH131 | B698: Hoàng | C698: Tùng | D698: D25CQKH02-B | E698: D25KH | F698: INT1358 | G698: Toán rời rạc 1 | H698: Mở lớp riêng học vượt
+A699: B25DCKH137 | B699: Lê Hoàng Tuấn | C699: Việt | D699: D25CQKH02-B | E699: D25KH | F699: INT1358 | G699: Toán rời rạc 1 | H699: Mở lớp riêng học vượt
+A700: B25DCKH146 | B700: Đặng Tuấn | C700: Đạt | D700: D25CQKH02-B | E700: D25KH | F700: INT1358 | G700: Toán rời rạc 1 | H700: Mở lớp riêng học vượt
+A701: B25DCKH039 | B701: Nguyễn Minh | C701: Hoàng | D701: D25CQKH03-B | E701: D25KH | F701: INT1358 | G701: Toán rời rạc 1 | H701: Mở lớp riêng học vượt
+A702: B25DCME091 | B702: Bùi Thế | C702: Sơn | D702: D25CQME01-B | E702: E25MR | F702: FIA1388_CLC | G702: Kế toán quản trị phục vụ việc ra quyết định | H702: Mở lớp riêng học vượt
+A703: B25DCME005 | B703: Nguyễn Kim | C703: Anh | D703: D25CQME02-B | E703: E25MR | F703: FIA1388_CLC | G703: Kế toán quản trị phục vụ việc ra quyết định | H703: Mở lớp riêng học vượt
+A704: B25DCME017 | B704: Phạm Công Mai | C704: Chi | D704: D25CQME02-B | E704: E25MR | F704: FIA1388_CLC | G704: Kế toán quản trị phục vụ việc ra quyết định | H704: Mở lớp riêng học vượt
+A705: B25DCME026 | B705: Bùi Thị Kim | C705: Dung | D705: D25CQME02-B | E705: E25MR | F705: FIA1388_CLC | G705: Kế toán quản trị phục vụ việc ra quyết định | H705: Mở lớp riêng học vượt
+A706: B25DCME032 | B706: Vũ Thị Ánh | C706: Dương | D706: D25CQME02-B | E706: E25MR | F706: FIA1388_CLC | G706: Kế toán quản trị phục vụ việc ra quyết định | H706: Mở lớp riêng học vượt
+A707: B25DCME062 | B707: Nguyễn | C707: Lâm | D707: D25CQME02-B | E707: E25MR | F707: FIA1388_CLC | G707: Kế toán quản trị phục vụ việc ra quyết định | H707: Mở lớp riêng học vượt
+A708: B25DCME065 | B708: Hà Quỳnh | C708: Mai | D708: D25CQME02-B | E708: E25MR | F708: FIA1388_CLC | G708: Kế toán quản trị phục vụ việc ra quyết định | H708: Mở lớp riêng học vượt
+A709: B25DCME077 | B709: Lê Minh | C709: Ngọc | D709: D25CQME02-B | E709: E25MR | F709: FIA1388_CLC | G709: Kế toán quản trị phục vụ việc ra quyết định | H709: Mở lớp riêng học vượt
+A710: B25DCME092 | B710: Nguyễn Hà | C710: Thanh | D710: D25CQME02-B | E710: E25MR | F710: FIA1388_CLC | G710: Kế toán quản trị phục vụ việc ra quyết định | H710: Mở lớp riêng học vượt
+A711: B25DCME104 | B711: Phạm Nguyễn Trung | C711: Thịnh | D711: D25CQME02-B | E711: E25MR | F711: FIA1388_CLC | G711: Kế toán quản trị phục vụ việc ra quyết định | H711: Mở lớp riêng học vượt
+A712: B25DCME107 | B712: Nguyễn Thị Quỳnh | C712: Trang | D712: D25CQME02-B | E712: E25MR | F712: FIA1388_CLC | G712: Kế toán quản trị phục vụ việc ra quyết định | H712: Mở lớp riêng học vượt
+A713: B25DCME128 | B713: Nguyễn Minh | C713: Đức | D713: D25CQME02-B | E713: E25MR | F713: FIA1388_CLC | G713: Kế toán quản trị phục vụ việc ra quyết định | H713: Mở lớp riêng học vượt
+A714: B25DCME009 | B714: Nguyễn Thị Ngọc | C714: Anh | D714: D25CQME03-B | E714: E25MR | F714: FIA1388_CLC | G714: Kế toán quản trị phục vụ việc ra quyết định | H714: Mở lớp riêng học vượt
+A715: B25DCME111 | B715: Đặng Quỳnh | C715: Trinh | D715: D25CQME03-B | E715: E25MR | F715: FIA1388_CLC | G715: Kế toán quản trị phục vụ việc ra quyết định | H715: Mở lớp riêng học vượt
+A716: B25DCMR001 | B716: Chu Ngọc | C716: An | D716: D25CQMR01-B | E716: D25MR | F716: BSA1328 | G716: Quản trị học | H716: Mở lớp riêng học vượt
+A717: B25DCMR001 | B717: Chu Ngọc | C717: An | D717: D25CQMR01-B | E717: D25MR | F717: MAR1424 | G717: Quản trị Marketing | H717: Mở lớp riêng học vượt
+A718: B25DCMR009 | B718: Nguyễn Thị Mai | C718: Anh | D718: D25CQMR01-B | E718: D25MR | F718: BSA1328 | G718: Quản trị học | H718: Mở lớp riêng học vượt
+A719: B25DCMR009 | B719: Nguyễn Thị Mai | C719: Anh | D719: D25CQMR01-B | E719: D25MR | F719: MAR1424 | G719: Quản trị Marketing | H719: Mở lớp riêng học vượt
+A720: B25DCMR057 | B720: Quách Trường | C720: Giang | D720: D25CQMR01-B | E720: D25MR | F720: BSA1328 | G720: Quản trị học | H720: Mở lớp riêng học vượt
+A721: B25DCMR057 | B721: Quách Trường | C721: Giang | D721: D25CQMR01-B | E721: D25MR | F721: MAR1424 | G721: Quản trị Marketing | H721: Mở lớp riêng học vượt
+A722: B25DCMR097 | B722: Nguyễn Bá | C722: Kiệt | D722: D25CQMR01-B | E722: D25MR | F722: BSA1328 | G722: Quản trị học | H722: Mở lớp riêng học vượt
+A723: B25DCMR097 | B723: Nguyễn Bá | C723: Kiệt | D723: D25CQMR01-B | E723: D25MR | F723: MAR1424 | G723: Quản trị Marketing | H723: Mở lớp riêng học vượt
+A724: B25DCMR105 | B724: Nguyễn Thị Phương | C724: Linh | D724: D25CQMR01-B | E724: D25MR | F724: BSA1328 | G724: Quản trị học | H724: Mở lớp riêng học vượt
+A725: B25DCMR105 | B725: Nguyễn Thị Phương | C725: Linh | D725: D25CQMR01-B | E725: D25MR | F725: MAR1424 | G725: Quản trị Marketing | H725: Mở lớp riêng học vượt
+A726: B25DCMR165 | B726: Nguyễn Lan | C726: Phương | D726: D25CQMR01-B | E726: D25MR | F726: BSA1328 | G726: Quản trị học | H726: Mở lớp riêng học vượt
+A727: B25DCMR165 | B727: Nguyễn Lan | C727: Phương | D727: D25CQMR01-B | E727: D25MR | F727: MAR1424 | G727: Quản trị Marketing | H727: Mở lớp riêng học vượt
+A728: B25DCMR173 | B728: Nguyễn Minh | C728: Quân | D728: D25CQMR01-B | E728: D25MR | F728: BSA1328 | G728: Quản trị học | H728: Mở lớp riêng học vượt
+A729: B25DCMR173 | B729: Nguyễn Minh | C729: Quân | D729: D25CQMR01-B | E729: D25MR | F729: MAR1424 | G729: Quản trị Marketing | H729: Mở lớp riêng học vượt
+A730: B25DCMR130 | B730: Trần Thị | C730: Na | D730: D25CQMR02-B | E730: D25MR | F730: BSA1328 | G730: Quản trị học | H730: Mở lớp riêng học vượt
+A731: B25DCMR130 | B731: Trần Thị | C731: Na | D731: D25CQMR02-B | E731: D25MR | F731: MAR1424 | G731: Quản trị Marketing | H731: Mở lớp riêng học vượt
+A732: B25DCMR242 | B732: Nguyễn Quỳnh | C732: Ánh | D732: D25CQMR02-B | E732: D25MR | F732: BSA1328 | G732: Quản trị học | H732: Mở lớp riêng học vượt
+A733: B25DCMR242 | B733: Nguyễn Quỳnh | C733: Ánh | D733: D25CQMR02-B | E733: D25MR | F733: MAR1424 | G733: Quản trị Marketing | H733: Mở lớp riêng học vượt
+A734: B25DCMR246 | B734: Phan Thị Ngọc | C734: Ánh | D734: D25CQMR02-B | E734: D25MR | F734: BSA1328 | G734: Quản trị học | H734: Mở lớp riêng học vượt
+A735: B25DCMR246 | B735: Phan Thị Ngọc | C735: Ánh | D735: D25CQMR02-B | E735: D25MR | F735: MAR1424 | G735: Quản trị Marketing | H735: Mở lớp riêng học vượt
+A736: B25DCMR047 | B736: Tạ Đức | C736: Dũng | D736: D25CQMR03-B | E736: D25MR | F736: BSA1328 | G736: Quản trị học | H736: Mở lớp riêng học vượt
+A737: B25DCMR047 | B737: Tạ Đức | C737: Dũng | D737: D25CQMR03-B | E737: D25MR | F737: MAR1424 | G737: Quản trị Marketing | H737: Mở lớp riêng học vượt
+A738: B25DCMR087 | B738: Hoàng Đức | C738: Hạnh | D738: D25CQMR03-B | E738: D25MR | F738: BSA1328 | G738: Quản trị học | H738: Mở lớp riêng học vượt
+A739: B25DCMR087 | B739: Hoàng Đức | C739: Hạnh | D739: D25CQMR03-B | E739: D25MR | F739: MAR1424 | G739: Quản trị Marketing | H739: Mở lớp riêng học vượt
+A740: B25DCMR115 | B740: Ngô Thị Cẩm | C740: Ly | D740: D25CQMR03-B | E740: D25MR | F740: BSA1328 | G740: Quản trị học | H740: Mở lớp riêng học vượt
+A741: B25DCMR115 | B741: Ngô Thị Cẩm | C741: Ly | D741: D25CQMR03-B | E741: D25MR | F741: MAR1424 | G741: Quản trị Marketing | H741: Mở lớp riêng học vượt
+A742: B25DCMR195 | B742: Vũ Thị Phương | C742: Thảo | D742: D25CQMR03-B | E742: D25MR | F742: BSA1328 | G742: Quản trị học | H742: Mở lớp riêng học vượt
+A743: B25DCMR195 | B743: Vũ Thị Phương | C743: Thảo | D743: D25CQMR03-B | E743: D25MR | F743: MAR1424 | G743: Quản trị Marketing | H743: Mở lớp riêng học vượt
+A744: B25DCMR076 | B744: Nguyễn Thu | C744: Hà | D744: D25CQMR04-B | E744: D25MR | F744: BSA1328 | G744: Quản trị học | H744: Mở lớp riêng học vượt
+A745: B25DCMR076 | B745: Nguyễn Thu | C745: Hà | D745: D25CQMR04-B | E745: D25MR | F745: MAR1424 | G745: Quản trị Marketing | H745: Mở lớp riêng học vượt
+A746: B25DCMR100 | B746: Lê Khánh | C746: Linh | D746: D25CQMR04-B | E746: D25MR | F746: BSA1328 | G746: Quản trị học | H746: Mở lớp riêng học vượt
+A747: B25DCMR100 | B747: Lê Khánh | C747: Linh | D747: D25CQMR04-B | E747: D25MR | F747: MAR1424 | G747: Quản trị Marketing | H747: Mở lớp riêng học vượt
+A748: B25DCMR128 | B748: Phạm Duy | C748: Mạnh | D748: D25CQMR04-B | E748: D25MR | F748: BSA1328 | G748: Quản trị học | H748: Mở lớp riêng học vượt
+A749: B25DCMR128 | B749: Phạm Duy | C749: Mạnh | D749: D25CQMR04-B | E749: D25MR | F749: MAR1424 | G749: Quản trị Marketing | H749: Mở lớp riêng học vượt
+A750: B25DCMR132 | B750: Lê Thị | C750: Nga | D750: D25CQMR04-B | E750: D25MR | F750: BSA1328 | G750: Quản trị học | H750: Mở lớp riêng học vượt
+A751: B25DCMR132 | B751: Lê Thị | C751: Nga | D751: D25CQMR04-B | E751: D25MR | F751: MAR1424 | G751: Quản trị Marketing | H751: Mở lớp riêng học vượt
+A752: B25DCMR148 | B752: Đào Ngọc Thảo | C752: Nhi | D752: D25CQMR04-B | E752: D25MR | F752: BSA1328 | G752: Quản trị học | H752: Mở lớp riêng học vượt
+A753: B25DCMR148 | B753: Đào Ngọc Thảo | C753: Nhi | D753: D25CQMR04-B | E753: D25MR | F753: MAR1424 | G753: Quản trị Marketing | H753: Mở lớp riêng học vượt
+A754: B25DCMR176 | B754: Nhữ Thị Như | C754: Quỳnh | D754: D25CQMR04-B | E754: D25MR | F754: BSA1328 | G754: Quản trị học | H754: Mở lớp riêng học vượt
+A755: B25DCMR176 | B755: Nhữ Thị Như | C755: Quỳnh | D755: D25CQMR04-B | E755: D25MR | F755: MAR1424 | G755: Quản trị Marketing | H755: Mở lớp riêng học vượt
+A756: B25DCMR192 | B756: Hòa Nguyễn Phương | C756: Thảo | D756: D25CQMR04-B | E756: D25MR | F756: BSA1328 | G756: Quản trị học | H756: Mở lớp riêng học vượt
+A757: B25DCMR192 | B757: Hòa Nguyễn Phương | C757: Thảo | D757: D25CQMR04-B | E757: D25MR | F757: MAR1424 | G757: Quản trị Marketing | H757: Mở lớp riêng học vượt
+A758: B25DCMR204 | B758: Lê Thị Huyền | C758: Trang | D758: D25CQMR04-B | E758: D25MR | F758: BSA1328 | G758: Quản trị học | H758: Mở lớp riêng học vượt
+A759: B25DCMR204 | B759: Lê Thị Huyền | C759: Trang | D759: D25CQMR04-B | E759: D25MR | F759: MAR1424 | G759: Quản trị Marketing | H759: Mở lớp riêng học vượt
+A760: B25DCMR208 | B760: Nguyễn Thị Thu | C760: Trang | D760: D25CQMR04-B | E760: D25MR | F760: BSA1328 | G760: Quản trị học | H760: Mở lớp riêng học vượt
+A761: B25DCMR208 | B761: Nguyễn Thị Thu | C761: Trang | D761: D25CQMR04-B | E761: D25MR | F761: MAR1424 | G761: Quản trị Marketing | H761: Mở lớp riêng học vượt
+A762: B25DCPT002 | B762: Lê Hoàng | C762: Anh | D762: D25CQPT02-B | E762: D25PT | F762: MUL1314 | G762: Kỹ thuật quay phim | H762: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A763: B25DCPT182 | B763: Nguyễn Quang | C763: Sáng | D763: D25CQPT02-B | E763: D25PT | F763: MUL1314 | G763: Kỹ thuật quay phim | H763: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A764: B25DCPT198 | B764: Hoàng Anh | C764: Thư | D764: D25CQPT03-B | E764: D25PT | F764: MUL1314 | G764: Kỹ thuật quay phim | H764: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A765: B25DCPT129 | B765: Nguyễn Hoàng | C765: Lâm | D765: D25CQPT04-B | E765: D25PT | F765: MUL1314 | G765: Kỹ thuật quay phim | H765: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A766: B25DCQC001 | B766: Nguyễn Trọng | C766: An | D766: D25CQQC01-B | E766: D25QC | F766: MUL13118 | G766: Pháp luật và đạo đức truyền thông | H766: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A767: B25DCQC001 | B767: Nguyễn Trọng | C767: An | D767: D25CQQC01-B | E767: D25QC | F767: MAR1466 | G767: Marketing số | H767: Học ghép cùng D22,23,24
+A768: B25DCQC053 | B768: Trần Phương | C768: Mai | D768: D25CQQC01-B | E768: D25QC | F768: MUL13118 | G768: Pháp luật và đạo đức truyền thông | H768: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A769: B25DCQC053 | B769: Trần Phương | C769: Mai | D769: D25CQQC01-B | E769: D25QC | F769: MAR1466 | G769: Marketing số | H769: Học ghép cùng D22,23,24
+A770: B25DCQC057 | B770: Hoàng Thị Trà | C770: My | D770: D25CQQC01-B | E770: D25QC | F770: MUL13118 | G770: Pháp luật và đạo đức truyền thông | H770: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A771: B25DCQC057 | B771: Hoàng Thị Trà | C771: My | D771: D25CQQC01-B | E771: D25QC | F771: MAR1466 | G771: Marketing số | H771: Học ghép cùng D22,23,24
+A772: B25DCQC083 | B772: Trần Thị Minh | C772: Thư | D772: D25CQQC01-B | E772: D25QC | F772: MUL13118 | G772: Pháp luật và đạo đức truyền thông | H772: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A773: B25DCQC083 | B773: Trần Thị Minh | C773: Thư | D773: D25CQQC01-B | E773: D25QC | F773: MAR1466 | G773: Marketing số | H773: Học ghép cùng D22,23,24
+A774: B25DCQC002 | B774: Bùi Thị Châu | C774: Anh | D774: D25CQQC02-B | E774: D25QC | F774: MUL13118 | G774: Pháp luật và đạo đức truyền thông | H774: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A775: B25DCQC002 | B775: Bùi Thị Châu | C775: Anh | D775: D25CQQC02-B | E775: D25QC | F775: MAR1466 | G775: Marketing số | H775: Học ghép cùng D22,23,24
+A776: B25DCQC042 | B776: Trần Hương | C776: Linh | D776: D25CQQC02-B | E776: D25QC | F776: MUL13118 | G776: Pháp luật và đạo đức truyền thông | H776: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A777: B25DCQC042 | B777: Trần Hương | C777: Linh | D777: D25CQQC02-B | E777: D25QC | F777: MAR1466 | G777: Marketing số | H777: Học ghép cùng D22,23,24
+A778: B25DCQC046 | B778: Nguyễn Hương | C778: Ly | D778: D25CQQC02-B | E778: D25QC | F778: MUL13118 | G778: Pháp luật và đạo đức truyền thông | H778: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A779: B25DCQC046 | B779: Nguyễn Hương | C779: Ly | D779: D25CQQC02-B | E779: D25QC | F779: MAR1466 | G779: Marketing số | H779: Học ghép cùng D22,23,24
+A780: B25DCQC066 | B780: Hoàng Ngọc | C780: Nhi | D780: D25CQQC02-B | E780: D25QC | F780: MUL13118 | G780: Pháp luật và đạo đức truyền thông | H780: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A781: B25DCQC066 | B781: Hoàng Ngọc | C781: Nhi | D781: D25CQQC02-B | E781: D25QC | F781: MAR1466 | G781: Marketing số | H781: Học ghép cùng D22,23,24
+A782: B25DCQC088 | B782: Nguyễn Phương | C782: Trang | D782: D25CQQC02-B | E782: D25QC | F782: MUL13118 | G782: Pháp luật và đạo đức truyền thông | H782: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A783: B25DCQC088 | B783: Nguyễn Phương | C783: Trang | D783: D25CQQC02-B | E783: D25QC | F783: MAR1466 | G783: Marketing số | H783: Học ghép cùng D22,23,24
+A784: B25DCQC094 | B784: Hoàng Thị Thục | C784: Uyên | D784: D25CQQC02-B | E784: D25QC | F784: MUL13118 | G784: Pháp luật và đạo đức truyền thông | H784: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A785: B25DCQC094 | B785: Hoàng Thị Thục | C785: Uyên | D785: D25CQQC02-B | E785: D25QC | F785: MAR1466 | G785: Marketing số | H785: Học ghép cùng D22,23,24
+A786: B25DCQT209 | B786: Nguyễn Thành | C786: Đức | D786: D25CQQT01-B | E786: D25QT | F786: BSA1241 | G786: Toán kinh tế | H786: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A787: B25DCQT178 | B787: Đỗ Anh | C787: Tuấn | D787: D25CQQT02-B | E787: D25QT | F787: BSA1241 | G787: Toán kinh tế | H787: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A788: B25DCQT139 | B788: Hoàng Thiện | C788: Nhân | D788: D25CQQT03-B | E788: D25QT | F788: BSA1241 | G788: Toán kinh tế | H788: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A789: B25DCQT084 | B789: Phạm Phương | C789: Linh | D789: D25CQQT04-B | E789: D25QT | F789: BSA1241 | G789: Toán kinh tế | H789: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A790: B25DCQT172 | B790: Lê Thị Thu | C790: Trang | D790: D25CQQT04-B | E790: D25QT | F790: BSA1241 | G790: Toán kinh tế | H790: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A791: B25DCTE017 | B791: Lê | C791: Duy | D791: D25CQTE01-B | E791: E25TT | F791: MUL1426_CLC | G791: Thiết kế đồ hoạ cơ bản | H791: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A792: B25DCTE033 | B792: Nguyễn Ngọc | C792: Khang | D792: D25CQTE01-B | E792: E25TT | F792: MUL1426_CLC | G792: Thiết kế đồ hoạ cơ bản | H792: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A793: B25DCTE039 | B793: Lê Gia | C793: Linh | D793: D25CQTE01-B | E793: E25TT | F793: MUL1426_CLC | G793: Thiết kế đồ hoạ cơ bản | H793: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A794: B25DCTE067 | B794: Phạm Quỳnh | C794: Như | D794: D25CQTE01-B | E794: E25TT | F794: MUL1426_CLC | G794: Thiết kế đồ hoạ cơ bản | H794: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A795: B25DCTE087 | B795: Đặng Hải | C795: Yến | D795: D25CQTE01-B | E795: E25TT | F795: MUL1426_CLC | G795: Thiết kế đồ hoạ cơ bản | H795: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A796: B25DCTE016 | B796: Đinh Hoàng Minh | C796: Châu | D796: D25CQTE02-B | E796: E25TT | F796: MUL1426_CLC | G796: Thiết kế đồ hoạ cơ bản | H796: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A797: B25DCTE024 | B797: Nguyễn Văn | C797: Hiếu | D797: D25CQTE02-B | E797: E25TT | F797: MUL1426_CLC | G797: Thiết kế đồ hoạ cơ bản | H797: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A798: B25DCTE052 | B798: Nguyễn Hồng | C798: Mai | D798: D25CQTE02-B | E798: E25TT | F798: MUL1426_CLC | G798: Thiết kế đồ hoạ cơ bản | H798: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A799: B25DCTE072 | B799: Lê Ngọc Mạnh | C799: Quân | D799: D25CQTE02-B | E799: E25TT | F799: MUL1426_CLC | G799: Thiết kế đồ hoạ cơ bản | H799: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A800: B25DCTM023 | B800: Đặng Thùy | C800: Diễm | D800: D25CQTM02-B | E800: D25TM | F800: BSA1328 | G800: Quản trị học | H800: Học ghép cùng D22,23,24
+A801: B25DCTM078 | B801: Đinh Khánh | C801: Linh | D801: D25CQTM03-B | E801: D25TM | F801: BSA1328 | G801: Quản trị học | H801: Học ghép cùng D22,23,24
+A802: B25DCTN025 | B802: Trần Tiến | C802: Dũng | D802: D25CQTN01-B | E802: D25TN | F802: ELE1309 | G802: Điện tử số | H802: Mở lớp riêng học vượt
+A803: B25DCTN079 | B803: Đinh Mạnh | C803: Lương | D803: D25CQTN01-B | E803: D25TN | F803: ELE1309 | G803: Điện tử số | H803: Mở lớp riêng học vượt
+A804: B25DCTN088 | B804: Phạm Đinh Hải | C804: Nam | D804: D25CQTN01-B | E804: D25TN | F804: ELE1309 | G804: Điện tử số | H804: Mở lớp riêng học vượt
+A805: B25DCTN127 | B805: Hà Minh | C805: Tuân | D805: D25CQTN01-B | E805: D25TN | F805: ELE1309 | G805: Điện tử số | H805: Mở lớp riêng học vượt
+A806: B25DCTN053 | B806: Ngô Việt | C806: Hưng | D806: D25CQTN02-B | E806: D25TN | F806: ELE1309 | G806: Điện tử số | H806: Mở lớp riêng học vượt
+A807: B25DCTN119 | B807: Nguyễn Thu | C807: Thủy | D807: D25CQTN02-B | E807: D25TN | F807: ELE1309 | G807: Điện tử số | H807: Mở lớp riêng học vượt
+A808: B25DCTN122 | B808: Lê Thị Huyền | C808: Trang | D808: D25CQTN02-B | E808: D25TN | F808: ELE1309 | G808: Điện tử số | H808: Mở lớp riêng học vượt
+A809: B25DCTN125 | B809: Vũ Văn | C809: Tráng | D809: D25CQTN02-B | E809: D25TN | F809: ELE1309 | G809: Điện tử số | H809: Mở lớp riêng học vượt
+A810: B25DCTN143 | B810: Nguyễn Nhật | C810: Ánh | D810: D25CQTN02-B | E810: D25TN | F810: ELE1309 | G810: Điện tử số | H810: Mở lớp riêng học vượt
+A811: B25DCTN009 | B811: Nguyễn Văn Tuấn | C811: Anh | D811: D25CQTN03-B | E811: D25TN | F811: ELE1309 | G811: Điện tử số | H811: Mở lớp riêng học vượt
+A812: B25DCTN015 | B812: Nguyễn Văn | C812: Bằng | D812: D25CQTN03-B | E812: D25TN | F812: ELE1309 | G812: Điện tử số | H812: Mở lớp riêng học vượt
+A813: B25DCTN018 | B813: Nguyễn Mạnh | C813: Cường | D813: D25CQTN03-B | E813: D25TN | F813: ELE1309 | G813: Điện tử số | H813: Mở lớp riêng học vượt
+A814: B25DCTN072 | B814: Trần Danh | C814: Kiên | D814: D25CQTN03-B | E814: D25TN | F814: ELE1309 | G814: Điện tử số | H814: Mở lớp riêng học vượt
+A815: B25DCTN108 | B815: Đỗ Hoàng | C815: Sơn | D815: D25CQTN03-B | E815: D25TN | F815: ELE1309 | G815: Điện tử số | H815: Mở lớp riêng học vượt
+A816: B25DCTT091 | B816: Bùi Lê Anh | C816: Thư | D816: D25CQTT01-B | E816: D25TT | F816: MUL1423 | G816: Kịch bản đa phương tiện | H816: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A817: B25DCTT097 | B817: Nguyễn Thị Thanh | C817: Thảo | D817: D25CQTT01-B | E817: D25TT | F817: MUL1423 | G817: Kịch bản đa phương tiện | H817: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A818: B25DCVM145 | B818: Nguyễn Hoành | C818: Đạt | D818: D25CQVM01-B | E818: D25VM | F818: ELE13141 | G818: Cơ học lượng tử | H818: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A819: B25DCVM020 | B819: Hà Xuân | C819: Cường | D819: D25CQVM02-B | E819: D25VM | F819: ELE13141 | G819: Cơ học lượng tử | H819: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A820: B25DCVM116 | B820: Nguyễn Minh | C820: Thái | D820: D25CQVM02-B | E820: D25VM | F820: ELE13141 | G820: Cơ học lượng tử | H820: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A821: B25DCVM042 | B821: Mai Quang Anh | C821: Huy | D821: D25CQVM03-B | E821: D25VM | F821: ELE13141 | G821: Cơ học lượng tử | H821: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A822: B25DCVM045 | B822: Phạm Xuân | C822: Huy | D822: D25CQVM03-B | E822: D25VM | F822: ELE13141 | G822: Cơ học lượng tử | H822: Không tổ chức (chưa có ngành nào học, ít SV đăng ký)
+A823: B25DCVT329 | B823: Nguyễn Trường | C823: Thịnh | D823: D25CQVT01-B | E823: D25VT | F823: ELE13105 | G823: Linh kiện và mạch điện tử | H823: Mở lớp riêng học vượt
+A824: B25DCVT361 | B824: Nguyễn Tú | C824: Tài | D824: D25CQVT01-B | E824: D25VT | F824: ELE13105 | G824: Linh kiện và mạch điện tử | H824: Mở lớp riêng học vượt
+A825: B25DCVT122 | B825: Nguyễn Văn | C825: Huy | D825: D25CQVT02-B | E825: D25VT | F825: ELE13105 | G825: Linh kiện và mạch điện tử | H825: Mở lớp riêng học vượt
+A826: B25DCVT084 | B826: Hoàng Trường | C826: Giang | D826: D25CQVT04-B | E826: D25VT | F826: ELE13105 | G826: Linh kiện và mạch điện tử | H826: Mở lớp riêng học vượt
+A827: B25DCVT292 | B827: Trần Anh | C827: Quân | D827: D25CQVT04-B | E827: D25VT | F827: ELE13105 | G827: Linh kiện và mạch điện tử | H827: Mở lớp riêng học vượt
+A828: B25DCVT372 | B828: Đinh Nguyễn Lâm | C828: Tùng | D828: D25CQVT04-B | E828: D25VT | F828: ELE13105 | G828: Linh kiện và mạch điện tử | H828: Mở lớp riêng học vượt
+A829: B25DCVT380 | B829: Mai Anh | C829: Vũ | D829: D25CQVT04-B | E829: D25VT | F829: ELE13105 | G829: Linh kiện và mạch điện tử | H829: Mở lớp riêng học vượt
+A830: B25DCVT109 | B830: Nguyễn Quang | C830: Hoàng | D830: D25CQVT05-B | E830: D25VT | F830: ELE13105 | G830: Linh kiện và mạch điện tử | H830: Mở lớp riêng học vượt
+A831: B25DCVT398 | B831: Ngô Công | C831: Đạt | D831: D25CQVT06-B | E831: D25VT | F831: ELE13105 | G831: Linh kiện và mạch điện tử | H831: Mở lớp riêng học vượt
+A832: B25DCVT311 | B832: Thân Thị | C832: Thuỷ | D832: D25CQVT07-B | E832: D25VT | F832: ELE13105 | G832: Linh kiện và mạch điện tử | H832: Mở lớp riêng học vượt
+A833: B25DCVT335 | B833: Phạm Bằng | C833: Trang | D833: D25CQVT07-B | E833: D25VT | F833: ELE13105 | G833: Linh kiện và mạch điện tử | H833: Mở lớp riêng học vượt
+A834: B25DCAT010 | B834: Phạm Đạt | C834: Anh | D834: D25CTAT01-B | E834: D25AT | F834: BAS1269 | G834: Xác xuất thống kê | H834: Học ghép cùng D22,23,24
+A835: B25DCAT020 | B835: Lê Đức | C835: Chính | D835: D25CTAT01-B | E835: D25AT | F835: BAS1269 | G835: Xác xuất thống kê | H835: Học ghép cùng D22,23,24
+A836: B25DCAT024 | B836: Đặng Thành | C836: Danh | D836: D25CTAT01-B | E836: D25AT | F836: BAS1269 | G836: Xác xuất thống kê | H836: Học ghép cùng D22,23,24
+A837: B25DCAT040 | B837: Nguyễn Trung | C837: Hiếu | D837: D25CTAT01-B | E837: D25AT | F837: BAS1269 | G837: Xác xuất thống kê | H837: Học ghép cùng D22,23,24
+A838: B25DCAT041 | B838: Nguyễn Đình | C838: Hiếu | D838: D25CTAT01-B | E838: D25AT | F838: BAS1269 | G838: Xác xuất thống kê | H838: Học ghép cùng D22,23,24
+A839: B25DCAT043 | B839: Phạm Minh | C839: Hiếu | D839: D25CTAT01-B | E839: D25AT | F839: BAS1269 | G839: Xác xuất thống kê | H839: Học ghép cùng D22,23,24
+A840: B25DCAT050 | B840: Bùi Quang | C840: Huy | D840: D25CTAT01-B | E840: D25AT | F840: BAS1269 | G840: Xác xuất thống kê | H840: Học ghép cùng D22,23,24
+A841: B25DCAT061 | B841: Nguyễn Hồng | C841: Hạnh | D841: D25CTAT01-B | E841: D25AT | F841: BAS1269 | G841: Xác xuất thống kê | H841: Học ghép cùng D22,23,24
+A842: B25DCAT065 | B842: Đỗ Hoàng Thanh | C842: Hải | D842: D25CTAT01-B | E842: D25AT | F842: BAS1269 | G842: Xác xuất thống kê | H842: Học ghép cùng D22,23,24
+A843: B25DCAT129 | B843: Phùng Đăng | C843: Sơn | D843: D25CTAT01-B | E843: D25AT | F843: BAS1269 | G843: Xác xuất thống kê | H843: Học ghép cùng D22,23,24
+A844: B25DCAT138 | B844: Nguyễn Xuân | C844: Thành | D844: D25CTAT01-B | E844: D25AT | F844: BAS1269 | G844: Xác xuất thống kê | H844: Học ghép cùng D22,23,24
+A845: B25DCAT148 | B845: Phạm Nhật | C845: Thức | D845: D25CTAT01-B | E845: D25AT | F845: BAS1269 | G845: Xác xuất thống kê | H845: Học ghép cùng D22,23,24
+A846: B25DCAT152 | B846: Nguyễn Khắc | C846: Trung | D846: D25CTAT01-B | E846: D25AT | F846: BAS1269 | G846: Xác xuất thống kê | H846: Học ghép cùng D22,23,24
+A847: B25DCAT160 | B847: Trịnh Tuấn | C847: Tài | D847: D25CTAT01-B | E847: D25AT | F847: BAS1269 | G847: Xác xuất thống kê | H847: Học ghép cùng D22,23,24
+A848: B25DCKH010 | B848: Vương Đức | C848: Anh | D848: D25CTKH01-B | E848: D25KH | F848: INT1358 | G848: Toán rời rạc 1 | H848: Mở lớp riêng học vượt
+A849: B25DCKH014 | B849: Phùng Gia | C849: Bách | D849: D25CTKH01-B | E849: D25KH | F849: INT1358 | G849: Toán rời rạc 1 | H849: Mở lớp riêng học vượt
+A850: B25DCKH027 | B850: Tạ Hữu | C850: Dương | D850: D25CTKH01-B | E850: D25KH | F850: INT1358 | G850: Toán rời rạc 1 | H850: Mở lớp riêng học vượt
+A851: B25DCKH029 | B851: Nguyễn Vân | C851: Giang | D851: D25CTKH01-B | E851: D25KH | F851: INT1358 | G851: Toán rời rạc 1 | H851: Mở lớp riêng học vượt
+A852: B25DCKH041 | B852: Đỗ Việt | C852: Hoàng | D852: D25CTKH01-B | E852: D25KH | F852: INT1358 | G852: Toán rời rạc 1 | H852: Mở lớp riêng học vượt
+A853: B25DCKH045 | B853: Nguyễn Quốc | C853: Huy | D853: D25CTKH01-B | E853: D25KH | F853: INT1358 | G853: Toán rời rạc 1 | H853: Mở lớp riêng học vượt
+A854: B25DCKH046 | B854: Nguyễn Thu | C854: Hà | D854: D25CTKH01-B | E854: D25KH | F854: INT1358 | G854: Toán rời rạc 1 | H854: Mở lớp riêng học vượt
+A855: B25DCKH050 | B855: Dương Kim | C855: Hưng | D855: D25CTKH01-B | E855: D25KH | F855: INT1358 | G855: Toán rời rạc 1 | H855: Mở lớp riêng học vượt
+A856: B25DCKH062 | B856: Trần Huy | C856: Khánh | D856: D25CTKH01-B | E856: D25KH | F856: INT1358 | G856: Toán rời rạc 1 | H856: Mở lớp riêng học vượt
+A857: B25DCKH072 | B857: Hà Hoàng | C857: Long | D857: D25CTKH01-B | E857: D25KH | F857: INT1358 | G857: Toán rời rạc 1 | H857: Mở lớp riêng học vượt
+A858: B25DCKH088 | B858: Trần Quốc | C858: Mạnh | D858: D25CTKH01-B | E858: D25KH | F858: INT1358 | G858: Toán rời rạc 1 | H858: Mở lớp riêng học vượt
+A859: B25DCKH089 | B859: Đào Thị | C859: Mỹ | D859: D25CTKH01-B | E859: D25KH | F859: INT1358 | G859: Toán rời rạc 1 | H859: Mở lớp riêng học vượt
+A860: B25DCKH098 | B860: Lưu Văn | C860: Nhật | D860: D25CTKH01-B | E860: D25KH | F860: INT1358 | G860: Toán rời rạc 1 | H860: Mở lớp riêng học vượt
+A861: B25DCKH101 | B861: Nguyễn Hồng | C861: Phúc | D861: D25CTKH01-B | E861: D25KH | F861: INT1358 | G861: Toán rời rạc 1 | H861: Mở lớp riêng học vượt
+A862: B25DCKH104 | B862: Trần Lý | C862: Quân | D862: D25CTKH01-B | E862: D25KH | F862: INT1358 | G862: Toán rời rạc 1 | H862: Mở lớp riêng học vượt
+A863: B25DCKH106 | B863: Nguyễn Thị Xuân | C863: Quỳnh | D863: D25CTKH01-B | E863: D25KH | F863: INT1358 | G863: Toán rời rạc 1 | H863: Mở lớp riêng học vượt
+A864: B25DCKH107 | B864: Cao Nam Vĩnh | C864: San | D864: D25CTKH01-B | E864: D25KH | F864: INT1358 | G864: Toán rời rạc 1 | H864: Mở lớp riêng học vượt
+A865: B25DCTN005 | B865: Lê Tuấn | C865: Anh | D865: D25CTTN01-B | E865: D25TN | F865: ELE1309 | G865: Điện tử số | H865: Mở lớp riêng học vượt
+A866: B25DCTN007 | B866: Nguyễn Hải | C866: Anh | D866: D25CTTN01-B | E866: D25TN | F866: ELE1309 | G866: Điện tử số | H866: Mở lớp riêng học vượt
+A867: B25DCTN011 | B867: Trần Huyền | C867: Anh | D867: D25CTTN01-B | E867: D25TN | F867: ELE1309 | G867: Điện tử số | H867: Mở lớp riêng học vượt
+A868: B25DCTN012 | B868: Trần Đức | C868: Anh | D868: D25CTTN01-B | E868: D25TN | F868: ELE1309 | G868: Điện tử số | H868: Mở lớp riêng học vượt
+A869: B25DCTN028 | B869: Phan Huy | C869: Dương | D869: D25CTTN01-B | E869: D25TN | F869: ELE1309 | G869: Điện tử số | H869: Mở lớp riêng học vượt
+A870: B25DCTN030 | B870: Vũ Ngọc | C870: Dương | D870: D25CTTN01-B | E870: D25TN | F870: ELE1309 | G870: Điện tử số | H870: Mở lớp riêng học vượt
+A871: B25DCTN035 | B871: Nguyễn Trung | C871: Hiếu | D871: D25CTTN01-B | E871: D25TN | F871: ELE1309 | G871: Điện tử số | H871: Mở lớp riêng học vượt
+A872: B25DCTN038 | B872: Vũ Lê Minh | C872: Hiếu | D872: D25CTTN01-B | E872: D25TN | F872: ELE1309 | G872: Điện tử số | H872: Mở lớp riêng học vượt
+A873: B25DCTN039 | B873: Nguyễn Ngọc | C873: Hiền | D873: D25CTTN01-B | E873: D25TN | F873: ELE1309 | G873: Điện tử số | H873: Mở lớp riêng học vượt
+A874: B25DCTN040 | B874: Nguyễn Duy | C874: Hoàng | D874: D25CTTN01-B | E874: D25TN | F874: ELE1309 | G874: Điện tử số | H874: Mở lớp riêng học vượt
+A875: B25DCTN041 | B875: Nguyễn Huy | C875: Hoàng | D875: D25CTTN01-B | E875: D25TN | F875: ELE1309 | G875: Điện tử số | H875: Mở lớp riêng học vượt
+A876: B25DCTN057 | B876: Phạm Quang Nam | C876: Hải | D876: D25CTTN01-B | E876: D25TN | F876: ELE1309 | G876: Điện tử số | H876: Mở lớp riêng học vượt
+A877: B25DCTN064 | B877: Phạm Gia | C877: Khánh | D877: D25CTTN01-B | E877: D25TN | F877: ELE1309 | G877: Điện tử số | H877: Mở lớp riêng học vượt
+A878: B25DCTN065 | B878: Vũ Ngọc | C878: Khánh | D878: D25CTTN01-B | E878: D25TN | F878: ELE1309 | G878: Điện tử số | H878: Mở lớp riêng học vượt
+A879: B25DCTN093 | B879: Nguyễn Hồng | C879: Phi | D879: D25CTTN01-B | E879: D25TN | F879: ELE1309 | G879: Điện tử số | H879: Mở lớp riêng học vượt
+A880: B25DCTN102 | B880: Bùi Đàm | C880: Quân | D880: D25CTTN01-B | E880: D25TN | F880: ELE1309 | G880: Điện tử số | H880: Mở lớp riêng học vượt
+A881: B25DCTN110 | B881: Nguyễn Xuân | C881: Thành | D881: D25CTTN01-B | E881: D25TN | F881: ELE1309 | G881: Điện tử số | H881: Mở lớp riêng học vượt
+A882: B25DCTN111 | B882: Ninh Đức | C882: Thành | D882: D25CTTN01-B | E882: D25TN | F882: ELE1309 | G882: Điện tử số | H882: Mở lớp riêng học vượt
+A883: B25DCTN116 | B883: Lại Trần Phương | C883: Thảo | D883: D25CTTN01-B | E883: D25TN | F883: ELE1309 | G883: Điện tử số | H883: Mở lớp riêng học vượt
+A884: B25DCTN121 | B884: Đào Phúc | C884: Tiền | D884: D25CTTN01-B | E884: D25TN | F884: ELE1309 | G884: Điện tử số | H884: Mở lớp riêng học vượt
+A885: B25DCTN123 | B885: Nguyễn Lê Phúc | C885: Triết | D885: D25CTTN01-B | E885: D25TN | F885: ELE1309 | G885: Điện tử số | H885: Mở lớp riêng học vượt
+A886: B25DCTN128 | B886: Lê Anh | C886: Tuấn | D886: D25CTTN01-B | E886: D25TN | F886: ELE1309 | G886: Điện tử số | H886: Mở lớp riêng học vượt
+A887: B25DCTN134 | B887: Vũ Tuấn | C887: Tú | D887: D25CTTN01-B | E887: D25TN | F887: ELE1309 | G887: Điện tử số | H887: Mở lớp riêng học vượt
+A888: B25DCTN136 | B888: Mạc Phúc | C888: Vinh | D888: D25CTTN01-B | E888: D25TN | F888: ELE1309 | G888: Điện tử số | H888: Mở lớp riêng học vượt
+A889: B25DCTN138 | B889: Lê Văn | C889: Việt | D889: D25CTTN01-B | E889: D25TN | F889: ELE1309 | G889: Điện tử số | H889: Mở lớp riêng học vượt
+A890: B25DCTN144 | B890: Trần Hải | C890: Đông | D890: D25CTTN01-B | E890: D25TN | F890: ELE1309 | G890: Điện tử số | H890: Mở lớp riêng học vượt
+A891: B25DCTN145 | B891: Nguyễn Thế | C891: Đăng | D891: D25CTTN01-B | E891: D25TN | F891: ELE1309 | G891: Điện tử số | H891: Mở lớp riêng học vượt
+A892: B25DCTN146 | B892: Trần Anh | C892: Đăng | D892: D25CTTN01-B | E892: D25TN | F892: ELE1309 | G892: Điện tử số | H892: Mở lớp riêng học vượt
+A893: B25DCTN147 | B893: Phạm Tuấn | C893: Đạt | D893: D25CTTN01-B | E893: D25TN | F893: ELE1309 | G893: Điện tử số | H893: Mở lớp riêng học vượt
+A894: B25DCVT060 | B894: Đoàn Thanh | C894: Cảnh | D894: D25CTVT01-B | E894: D25VT | F894: ELE13105 | G894: Linh kiện và mạch điện tử | H894: Mở lớp riêng học vượt
+A895: B25DCVT191 | B895: Đỗ Hà | C895: Linh | D895: D25CTVT01-B | E895: D25VT | F895: ELE13105 | G895: Linh kiện và mạch điện tử | H895: Mở lớp riêng học vượt
+A896: B25DCVT316 | B896: Phạm Duy | C896: Thành | D896: D25CTVT01-B | E896: D25VT | F896: ELE13105 | G896: Linh kiện và mạch điện tử | H896: Mở lớp riêng học vượt
+A897: B25DCLQ071 | B897: Lê Vũ Anh | C897: Thi | D897: D25CQLQ01-B | E897: D25LQ | F897: BSA1236 | G897: Tâm lý quản lý | H897: Học ghép cùng D22,23,24
+A898: B25DCLQ028 | B898: Phùng Châu | C898: Giang | D898: D25CQLQ02-B | E898: D25LQ | F898: BSA1236 | G898: Tâm lý quản lý | H898: Học ghép cùng D22,23,24
+A899: B25DCLQ046 | B899: Nguyễn Thùy | C899: Linh | D899: D25CQLQ02-B | E899: D25LQ | F899: BSA1236 | G899: Tâm lý quản lý | H899: Học ghép cùng D22,23,24
+A900: B25DCLQ048 | B900: Trần Thị Thùy | C900: Linh | D900: D25CQLQ02-B | E900: D25LQ | F900: BSA1236 | G900: Tâm lý quản lý | H900: Học ghép cùng D22,23,24
+A901: B25DCLQ062 | B901: Trần Thị Ánh | C901: Ngọc | D901: D25CQLQ02-B | E901: D25LQ | F901: BSA1236 | G901: Tâm lý quản lý | H901: Học ghép cùng D22,23,24
+A902: B25DCLQ074 | B902: Phạm Thị Phương | C902: Thùy | D902: D25CQLQ02-B | E902: D25LQ | F902: BSA1236 | G902: Tâm lý quản lý | H902: Học ghép cùng D22,23,24
+A903: B25DCLQ076 | B903: Lê Huy | C903: Thăng | D903: D25CQLQ02-B | E903: D25LQ | F903: BSA1236 | G903: Tâm lý quản lý | H903: Học ghép cùng D22,23,24
+A904: B25DCLQ102 | B904: Vũ Duy | C904: Đức | D904: D25CQLQ02-B | E904: D25LQ | F904: BSA1236 | G904: Tâm lý quản lý | H904: Học ghép cùng D22,23,24
+A905: B25DCQT136 | B905: Nguyễn Yến | C905: Nhi | D905: D25CQQT04-B | E905: D25QT | F905: BSA1241 | G905: Toán kinh tế | H905: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I905: Cập nhật 20/12/2025
+A906: B25DCTT013 | B906: Phạm Minh | C906: Chi | D906: D25CQTT01-B | E906: D25TT | F906: MUL1423 | G906: Kịch bản đa phương tiện | H906: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I906: Cập nhật 20/12/2025
+A907: B25DCKH061 | B907: Nguyễn Trọng | C907: Khánh | D907: D25CQKH01-B | E907: D25KH | F907: INT1358 | G907: Toán rời rạc 1 | H907: Mở lớp riêng học vượt | I907: Cập nhật 20/12/2025
+A908: B25DCTM096 | B908: Đoàn Phương | C908: Nguyên | D908: D25CQTM03-B | E908: D25TM | F908: BSA1328 | G908: Quản trị học | H908: Học ghép cùng D22,23,24 | I908: Cập nhật 20/12/2025
+A909: B25DCTT121 | B909: Nguyễn Thị Như | C909: Xuân | D909: D25CQTT01-B | E909: D25TT | F909: MUL1423 | G909: Kịch bản đa phương tiện | H909: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I909: Cập nhật 20/12/2025
+A910: B25DCVN097 | B910: Nguyễn Bá | C910: Đạt | D910: D25CQVN01-B | E910: D25VN | F910: INT1358 | G910: Toán rời rạc 1 | H910: Mở lớp riêng học vượt | I910: Cập nhật 20/12/2025
+A911: B25DCTT075 | B911: Lục Mạnh | C911: Phong | D911: D25CQTT01-B | E911: D25TT | F911: MUL1423 | G911: Kịch bản đa phương tiện | H911: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I911: Cập nhật 20/12/2025
+A912: B25DCKH115 | B912: Vũ Tất | C912: Thành | D912: D25CQKH01-B | E912: D25KH | F912: INT1358 | G912: Toán rời rạc 1 | H912: Mở lớp riêng học vượt | I912: Cập nhật 20/12/2025
+A913: B25DCVN080 | B913: Trần Thị Minh | C913: Thảo | D913: D25CQVN02-B | E913: D25VN | F913: INT1358 | G913: Toán rời rạc 1 | H913: Mở lớp riêng học vượt | I913: Cập nhật 20/12/2025
+A914: B25DCKH015 | B914: Hoàng Thanh | C914: Bình | D914: D25CTKH01-B | E914: D25KH | F914: INT1358 | G914: Toán rời rạc 1 | H914: Mở lớp riêng học vượt | I914: Cập nhật 20/12/2025
+A915: B25DCTC139 | B915: Nguyễn Thị Phương | C915: Uyên | D915: D25CQTC01-B | E915: D25TC | F915: INT13129 | G915: Lập trình Python (Fintech) | H915: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I915: Cập nhật 20/12/2025
+A916: B25DCTT119 | B916: Lê Phúc | C916: Vinh | D916: D25CQTT01-B | E916: D25TT | F916: MUL1423 | G916: Kịch bản đa phương tiện | H916: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I916: Cập nhật 20/12/2025
+A917: B25DCVT280 | B917: Lương Ngọc | C917: Quang | D917: D25CTVT01-B | E917: D25VT | F917: ELE13105 | G917: Linh kiện và mạch điện tử | H917: Mở lớp riêng học vượt | I917: Cập nhật 20/12/2025
+A918: B25DCTM164 | B918: Nguyễn Ngọc | C918: Ánh | D918: D25CQTM02-B | E918: D25TM | F918: BSA1328 | G918: Quản trị học | H918: Học ghép cùng D22,23,24 | I918: Cập nhật 20/12/2025
+A919: B25DCTC140 | B919: Nguyễn Ngọc Khánh | C919: Vy | D919: D25CQTC02-B | E919: D25TC | F919: INT13129 | G919: Lập trình Python (Fintech) | H919: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I919: Cập nhật 20/12/2025
+A920: B25DCVT205 | B920: Phan Bùi | C920: Lương | D920: D25CQVT05-B | E920: D25VT | F920: ELE13105 | G920: Linh kiện và mạch điện tử | H920: Mở lớp riêng học vượt | I920: Cập nhật 20/12/2025
+A921: B25DCVT093 | B921: Nguyễn Trung | C921: Hiếu | D921: D25CQVT05-B | E921: D25VT | F921: ELE13105 | G921: Linh kiện và mạch điện tử | H921: Mở lớp riêng học vượt | I921: Cập nhật 20/12/2025
+A922: B25DCKH149 | B922: Nguyễn Văn | C922: Đức | D922: D25CQKH02-B | E922: D25KH | F922: INT1358 | G922: Toán rời rạc 1 | H922: Mở lớp riêng học vượt | I922: Cập nhật 20/12/2025
+A923: B25DCTM077 | B923: Vũ Mai Thuỳ | C923: Linh | D923: D25CQTM02-B | E923: D25TM | F923: BSA1328 | G923: Quản trị học | H923: Học ghép cùng D22,23,24 | I923: Cập nhật 20/12/2025
+A924: B25DCKH139 | B924: Lê Thị Ngọc | C924: Ánh | D924: D25CQKH01-B | E924: D25KH | F924: INT1358 | G924: Toán rời rạc 1 | H924: Mở lớp riêng học vượt | I924: Cập nhật 20/12/2025
+A925: B25DCVT197 | B925: Trần Ngọc | C925: Long | D925: D25CTVT01-B | E925: D25VT | F925: ELE13105 | G925: Linh kiện và mạch điện tử | H925: Mở lớp riêng học vượt | I925: Cập nhật 20/12/2025
+A926: B25DCTM003 | B926: Luyện Trần Bảo | C926: Anh | D926: D25CQTM03-B | E926: D25TM | F926: BSA1328 | G926: Quản trị học | H926: Học ghép cùng D22,23,24 | I926: Cập nhật 20/12/2025
+A927: B25DCVT030 | B927: Nguyễn Hoàng | C927: Bách | D927: D25CQVT06-B | E927: D25VT | F927: ELE13105 | G927: Linh kiện và mạch điện tử | H927: Mở lớp riêng học vượt | I927: Cập nhật 20/12/2025
+A928: B25DCQT131 | B928: Phí Thị Ánh | C928: Ngọc | D928: D25CQQT03-B | E928: D25QT | F928: BSA1241 | G928: Toán kinh tế | H928: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I928: Cập nhật 20/12/2025
+A929: B25DCTC134 | B929: Nguyễn Đức | C929: Tuấn | D929: D25CQTC02-B | E929: D25TC | F929: INT13129 | G929: Lập trình Python (Fintech) | H929: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I929: Cập nhật 20/12/2025
+A930: B25DCVT239 | B930: Chu Thế | C930: Nam | D930: D25CQVT07-B | E930: D25VT | F930: ELE13105 | G930: Linh kiện và mạch điện tử | H930: Mở lớp riêng học vượt | I930: Cập nhật 20/12/2025
+A931: B25DCME051 | B931: Nguyễn Khánh | C931: Linh | D931: D25CQME03-B | E931: E25MR | F931: FIA1388_CLC | G931: Kế toán quản trị phục vụ việc ra quyết định | H931: Mở lớp riêng học vượt | I931: Cập nhật 20/12/2025
+A932: B25DCVN032 | B932: Phạm Văn | C932: Hoàng | D932: D25CQVN02-B | E932: D25VN | F932: INT1358 | G932: Toán rời rạc 1 | H932: Mở lớp riêng học vượt | I932: Cập nhật 20/12/2025
+A933: B25DCBC089 | B933: Phạm Khánh | C933: Vi | D933: D25CQBC01-B | E933: D25BC | F933: MUL13171 | G933: Nhiếp ảnh báo chí | H933: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I933: Cập nhật 20/12/2025
+A934: B25DCVN099 | B934: Trần Tuấn | C934: Đạt | D934: D25CQVN01-B | E934: D25VN | F934: INT1358 | G934: Toán rời rạc 1 | H934: Mở lớp riêng học vượt | I934: Cập nhật 20/12/2025
+A935: B25DCVN085 | B935: Nguyễn Minh | C935: Trí | D935: D25CQVN01-B | E935: D25VN | F935: INT1358 | G935: Toán rời rạc 1 | H935: Mở lớp riêng học vượt | I935: Cập nhật 20/12/2025
+A936: B25DCCC205 | B936: Nguyễn Hà | C936: Thoại | D936: D25CQCC01-B | E936: D25CCN | H936: Không có môn học vượt trong CTĐT rút ngắn | I936: Cập nhật 20/12/2025
+A937: B25DCCC029 | B937: Đỗ Văn | C937: Anh | D937: D25CQCC05-B | E937: D25CCN | H937: Không có môn học vượt trong CTĐT rút ngắn | I937: Cập nhật 20/12/2025
+A938: B25DCCC091 | B938: Nguyễn Mạnh | C938: Hùng | D938: D25CQCC01-B | E938: D25CCN | H938: Không có môn học vượt trong CTĐT rút ngắn | I938: Cập nhật 20/12/2025
+A939: B25DCCN593 | B939: Dương Thành | C939: Đồng | D939: D25CQCN10-B | E939: D25CN | H939: Không có môn học vượt trong CTĐT rút ngắn | I939: Cập nhật 20/12/2025
+A940: B24DCCE099 | B940: Lê Huy | C940: Hoàng | D940: D24CQCE01-B | E940: E24CN | H940: Không có môn học vượt trong CTĐT rút ngắn
+A941: B24DCCE016 | B941: Nguyễn Thị Ngọc | C941: Anh | D941: D24CQCE02-B | E941: E24CN | H941: Không có môn học vượt trong CTĐT rút ngắn
+A942: B24DCCE072 | B942: Đỗ Anh | C942: Duy | D942: D24CQCE02-B | E942: E24CN | H942: Không có môn học vượt trong CTĐT rút ngắn
+A943: B24DCCE135 | B943: Vũ Quang | C943: Huy | D943: D24CQCE02-B | E943: E24CN | H943: Không có môn học vượt trong CTĐT rút ngắn
+A944: B24DCCE205 | B944: Nguyễn Hạnh | C944: Nhi | D944: D24CQCE02-B | E944: E24CN | H944: Không có môn học vượt trong CTĐT rút ngắn
+A945: B24DCCE289 | B945: Hoàng Tuấn | C945: Việt | D945: D24CQCE02-B | E945: E24CN | H945: Không có môn học vượt trong CTĐT rút ngắn
+A946: B24DCCE038 | B946: Nguyễn Hải | C946: Đăng | D946: D24CQCE03-B | E946: E24CN | H946: Không có môn học vượt trong CTĐT rút ngắn
+A947: B24DCCE073 | B947: Giang Khương | C947: Duy | D947: D24CQCE03-B | E947: E24CN | H947: Không có môn học vượt trong CTĐT rút ngắn
+A948: B24DCCE039 | B948: Vũ Hải | C948: Đăng | D948: D24CQCE04-B | E948: E24CN | H948: Không có môn học vượt trong CTĐT rút ngắn
+A949: B24DCCE040 | B949: Nguyễn Văn | C949: Đạo | D949: D24CQCE05-B | E949: E24CN | H949: Không có môn học vượt trong CTĐT rút ngắn
+A950: B24DCCE047 | B950: Phạm Đình | C950: Đô | D950: D24CQCE05-B | E950: E24CN | H950: Không có môn học vượt trong CTĐT rút ngắn
+A951: B24DCCE229 | B951: Lê Minh | C951: Quang | D951: D24CQCE05-B | E951: E24CN | H951: Không có môn học vượt trong CTĐT rút ngắn
+A952: B24DCCE236 | B952: Dương Kim | C952: Sang | D952: D24CQCE05-B | E952: E24CN | H952: Không có môn học vượt trong CTĐT rút ngắn
+A953: B24DCCE243 | B953: Phạm Văn | C953: Tài | D953: D24CQCE05-B | E953: E24CN | H953: Không có môn học vượt trong CTĐT rút ngắn
+A954: B24DCCE257 | B954: Đậu Đăng | C954: Thiện | D954: D24CQCE05-B | E954: E24CN | H954: Không có môn học vượt trong CTĐT rút ngắn
+A955: B24DCCE097 | B955: Nguyễn Hải | C955: Hòa | D955: D24CQCE06-B | E955: E24CN | H955: Không có môn học vượt trong CTĐT rút ngắn
+A956: B24DCCE111 | B956: Hoàng Huy | C956: Hùng | D956: D24CQCE06-B | E956: E24CN | H956: Không có môn học vượt trong CTĐT rút ngắn
+A957: B24DCCE133 | B957: Trần Quang | C957: Huy | D957: D24CQCE07-B | E957: E24CN | H957: Không có môn học vượt trong CTĐT rút ngắn
+A958: B24DCCE147 | B958: Bùi Anh | C958: Khoa | D958: D24CQCE07-B | E958: E24CN | H958: Không có môn học vượt trong CTĐT rút ngắn
+A959: B24DCDK046 | B959: Hoàng Trung | C959: Kiên | D959: D24CQDK02-B | E959: D24DK | H959: Không có môn học vượt trong CTĐT rút ngắn
+A960: B24DCDK080 | B960: Nguyễn Văn | C960: Tiến | D960: D24CQDK02-B | E960: D24DK | H960: Không có môn học vượt trong CTĐT rút ngắn
+A961: B24DCGA027 | B961: Phạm Thành | C961: Đạt | D961: D24CQGA03-B | E961: D24GA | H961: Không có môn học vượt trong CTĐT rút ngắn
+A962: B24DCGA047 | B962: Hoàng Tiến | C962: Hiếu | D962: D24CQGA03-B | E962: D24GA | H962: Không có môn học vượt trong CTĐT rút ngắn
+A963: B24DCKD025 | B963: Đậu Việt Hoàng | C963: Hà | D963: D24CQKD01-B | E963: D24KD | H963: Không có môn học vượt trong CTĐT rút ngắn
+A964: B24DCKD087 | B964: Phạm Hoàng | C964: Thành | D964: D24CQKD01-B | E964: D24KD | H964: Không có môn học vượt trong CTĐT rút ngắn
+A965: B24DCKD074 | B965: Nguyễn Tiến | C965: Quang | D965: D24CQKD02-B | E965: D24KD | H965: Không có môn học vượt trong CTĐT rút ngắn
+A966: B24DCKD086 | B966: Nguyễn Trung | C966: Thành | D966: D24CQKD02-B | E966: D24KD | H966: Không có môn học vượt trong CTĐT rút ngắn
+A967: B24DCKD088 | B967: Trần Đăng | C967: Thành | D967: D24CQKD02-B | E967: D24KD | H967: Không có môn học vượt trong CTĐT rút ngắn
+A968: B24DCKH098 | B968: Lê Đình | C968: Phong | D968: D24CQKH01-B | E968: D24KH | H968: Không có môn học vượt trong CTĐT rút ngắn
+A969: B24DCKH031 | B969: Nguyễn Chí | C969: Đức | D969: D24CQKH02-B | E969: D24KH | H969: Không có môn học vượt trong CTĐT rút ngắn
+A970: B24DCKH032 | B970: Phạm Minh | C970: Đức | D970: D24CQKH02-B | E970: D24KH | H970: Không có môn học vượt trong CTĐT rút ngắn
+A971: B24DCKH050 | B971: Lưu Hùng | C971: Hiệp | D971: D24CQKH02-B | E971: D24KH | H971: Không có môn học vượt trong CTĐT rút ngắn
+A972: B24DCKH062 | B972: Trần Quang | C972: Huy | D972: D24CQKH02-B | E972: D24KH | H972: Không có môn học vượt trong CTĐT rút ngắn
+A973: B24DCKH080 | B973: Hoàng Hữu | C973: Mạnh | D973: D24CQKH02-B | E973: D24KH | H973: Không có môn học vượt trong CTĐT rút ngắn
+A974: B24DCKH086 | B974: Nguyễn Xung Tuấn | C974: Minh | D974: D24CQKH02-B | E974: D24KH | H974: Không có môn học vượt trong CTĐT rút ngắn
+A975: B24DCKH094 | B975: Lưu Thị | C975: Ngát | D975: D24CQKH02-B | E975: D24KH | H975: Không có môn học vượt trong CTĐT rút ngắn
+A976: B24DCKH099 | B976: Lưu Viết | C976: Phong | D976: D24CQKH02-B | E976: D24KH | H976: Không có môn học vượt trong CTĐT rút ngắn
+A977: B24DCKH105 | B977: Đặng Xuân | C977: Quân | D977: D24CQKH02-B | E977: D24KH | H977: Không có môn học vượt trong CTĐT rút ngắn
+A978: B24DCKH117 | B978: Mai Trọng | C978: Thắng | D978: D24CQKH02-B | E978: D24KH | H978: Không có môn học vượt trong CTĐT rút ngắn
+A979: B24DCKH123 | B979: Nguyễn Vũ | C979: Thịnh | D979: D24CQKH02-B | E979: D24KH | H979: Không có môn học vượt trong CTĐT rút ngắn
+A980: B24DCKH125 | B980: Mai Trọng | C980: Toàn | D980: D24CQKH02-B | E980: D24KH | H980: Không có môn học vượt trong CTĐT rút ngắn
+A981: B24DCKH127 | B981: Lê Thành | C981: Trung | D981: D24CQKH02-B | E981: D24KH | H981: Không có môn học vượt trong CTĐT rút ngắn
+A982: B24DCKH131 | B982: Nguyễn Thành | C982: Vinh | D982: D24CQKH02-B | E982: D24KH | H982: Không có môn học vượt trong CTĐT rút ngắn
+A983: B24DCPT061 | B983: Đào Tiến | C983: Dũng | D983: D24CQPT01-B | E983: D24PT | H983: Không có môn học vượt trong CTĐT rút ngắn
+A984: B24DCPT145 | B984: Nguyễn Đức | C984: Minh | D984: D24CQPT01-B | E984: D24PT | H984: Không có môn học vượt trong CTĐT rút ngắn
+A985: B24DCPT149 | B985: Trần Ngọc | C985: Minh | D985: D24CQPT01-B | E985: D24PT | H985: Không có môn học vượt trong CTĐT rút ngắn
+A986: B24DCPT241 | B986: Nguyễn Đức | C986: Tùng | D986: D24CQPT01-B | E986: D24PT | H986: Không có môn học vượt trong CTĐT rút ngắn
+A987: B24DCPT070 | B987: Nguyễn Lê Phước | C987: Duy | D987: D24CQPT02-B | E987: D24PT | H987: Không có môn học vượt trong CTĐT rút ngắn
+A988: B24DCPT223 | B988: Lý Hồng | C988: Trang | D988: D24CQPT03-B | E988: D24PT | H988: Không có môn học vượt trong CTĐT rút ngắn
+A989: B24DCPT227 | B989: Tạ Huyền | C989: Trang | D989: D24CQPT03-B | E989: D24PT | H989: Không có môn học vượt trong CTĐT rút ngắn
+A990: B24DCPT156 | B990: Nguyễn Thị Thanh | C990: Nga | D990: D24CQPT04-B | E990: D24PT | H990: Không có môn học vượt trong CTĐT rút ngắn
+A991: B24DCPT204 | B991: Phạm Minh | C991: Thiện | D991: D24CQPT04-B | E991: D24PT | H991: Không có môn học vượt trong CTĐT rút ngắn
+A992: B24DCTT011 | B992: Nguyễn Quỳnh | C992: Anh | D992: D24CQTT02-B | E992: D24TT | H992: Không có môn học vượt trong CTĐT rút ngắn
+A993: B24DCTT104 | B993: Phùng Thị Thảo | C993: Nhi | D993: D24CQTT02-B | E993: D24TT | H993: Không có môn học vượt trong CTĐT rút ngắn
+A994: B24DCTT110 | B994: Vũ Mai | C994: Phương | D994: D24CQTT02-B | E994: D24TT | H994: Không có môn học vượt trong CTĐT rút ngắn
+A995: B24DCTT152 | B995: Nguyễn Thị | C995: Hiền | D995: D24CQTT02-B | E995: D24TT | H995: Không có môn học vượt trong CTĐT rút ngắn
+A996: B23DCTT123 | B996: Trần Thị Thùy | C996: Trang | D996: D24CQTT03-B | E996: D24TT | H996: Không có môn học vượt trong CTĐT rút ngắn
+A997: B24DCTT066 | B997: Lê Diệu | C997: Linh | D997: D24CQTT03-B | E997: D24TT | H997: Không có môn học vượt trong CTĐT rút ngắn
+A998: B24DCTT096 | B998: Hà Thị Anh | C998: Ngọc | D998: D24CQTT03-B | E998: D24TT | H998: Không có môn học vượt trong CTĐT rút ngắn
+A999: B24DCTT120 | B999: Nguyễn Quang | C999: Tấn | D999: D24CQTT03-B | E999: D24TT | H999: Không có môn học vượt trong CTĐT rút ngắn
+A1000: B24DCVN013 | B1000: Trịnh Tuấn | C1000: Anh | D1000: D24CQVN01-B | E1000: D24VN | H1000: Không có môn học vượt trong CTĐT rút ngắn
+A1001: B24DCVN017 | B1001: Đặng Hữu | C1001: Đạt | D1001: D24CQVN01-B | E1001: D24VN | H1001: Không có môn học vượt trong CTĐT rút ngắn
+A1002: B24DCVN023 | B1002: Lê Tiến | C1002: Dũng | D1002: D24CQVN01-B | E1002: D24VN | H1002: Không có môn học vượt trong CTĐT rút ngắn
+A1003: B24DCVN061 | B1003: Trần Minh | C1003: Long | D1003: D24CQVN01-B | E1003: D24VN | H1003: Không có môn học vượt trong CTĐT rút ngắn
+A1004: B24DCVN101 | B1004: Nguyễn Quỳnh | C1004: Trang | D1004: D24CQVN01-B | E1004: D24VN | H1004: Không có môn học vượt trong CTĐT rút ngắn
+A1005: B24DCVN020 | B1005: Phạm Minh | C1005: Đức | D1005: D24CQVN02-B | E1005: D24VN | H1005: Không có môn học vượt trong CTĐT rút ngắn
+A1006: B24DCVN028 | B1006: Nguyễn Quý | C1006: Dương | D1006: D24CQVN02-B | E1006: D24VN | H1006: Không có môn học vượt trong CTĐT rút ngắn
+A1007: B24DCVN034 | B1007: Trần Trung | C1007: Hiếu | D1007: D24CQVN02-B | E1007: D24VN | H1007: Không có môn học vượt trong CTĐT rút ngắn
+A1008: B24DCVN038 | B1008: Đoàn Huy | C1008: Hoàng | D1008: D24CQVN02-B | E1008: D24VN | H1008: Không có môn học vượt trong CTĐT rút ngắn
+A1009: B24DCVN052 | B1009: Lê Huy | C1009: Khôi | D1009: D24CQVN02-B | E1009: D24VN | H1009: Không có môn học vượt trong CTĐT rút ngắn
+A1010: B24DCVN062 | B1010: Phạm Vũ | C1010: Lượng | D1010: D24CQVN02-B | E1010: D24VN | H1010: Không có môn học vượt trong CTĐT rút ngắn
+A1011: B24DCVN082 | B1011: Đặng Đình | C1011: Quang | D1011: D24CQVN02-B | E1011: D24VN | H1011: Không có môn học vượt trong CTĐT rút ngắn
+A1012: B24DCVN086 | B1012: Bùi Văn | C1012: Sang | D1012: D24CQVN02-B | E1012: D24VN | H1012: Không có môn học vượt trong CTĐT rút ngắn
+A1013: B24DCVN092 | B1013: Hoàng Văn | C1013: Tân | D1013: D24CQVN02-B | E1013: D24VN | H1013: Không có môn học vượt trong CTĐT rút ngắn
+A1014: B24DCVN094 | B1014: Trương Đức | C1014: Thành | D1014: D24CQVN02-B | E1014: D24VN | H1014: Không có môn học vượt trong CTĐT rút ngắn
+A1015: B24DCVN108 | B1015: Nguyễn Sơn | C1015: Tùng | D1015: D24CQVN02-B | E1015: D24VN | H1015: Không có môn học vượt trong CTĐT rút ngắn
+A1016: B25DCCC115 | B1016: Nguyễn Duy | C1016: Khánh | D1016: D25CQCC01-B | E1016: D25CCN | H1016: Không có môn học vượt trong CTĐT rút ngắn
+A1017: B25DCCC297 | B1017: Nguyễn Minh | C1017: Đức | D1017: D25CQCC03-B | E1017: D25CCN | H1017: Không có môn học vượt trong CTĐT rút ngắn
+A1018: B25DCCC184 | B1018: Trần Tùng | C1018: Quang | D1018: D25CQCC04-B | E1018: D25CCN | H1018: Không có môn học vượt trong CTĐT rút ngắn
+A1019: B25DCCC197 | B1019: Đinh Minh | C1019: Quân | D1019: D25CQCC05-B | E1019: D25CCN | H1019: Không có môn học vượt trong CTĐT rút ngắn
+A1020: B25DCCC192 | B1020: Nguyễn Hữu | C1020: Quân | D1020: D25CQCC06-B | E1020: D25CCN | H1020: Không có môn học vượt trong CTĐT rút ngắn
+A1021: B25DCCC288 | B1021: Phạm Thành | C1021: Đạt | D1021: D25CQCC06-B | E1021: D25CCN | H1021: Không có môn học vượt trong CTĐT rút ngắn
+A1022: B25DCCN540 | B1022: Nguyễn Huy | C1022: Vinh | D1022: D25CQCN01-B | E1022: D25CN | H1022: Không có môn học vượt trong CTĐT rút ngắn
+A1023: B25DCCN615 | B1023: Nguyễn Kim | C1023: Cúc | D1023: D25CQCN01-B | E1023: D25CN | H1023: Không có môn học vượt trong CTĐT rút ngắn
+A1024: B25DCCN024 | B1024: Nguyễn Bá Nam | C1024: Anh | D1024: D25CQCN02-B | E1024: D25CN | H1024: Không có môn học vượt trong CTĐT rút ngắn
+A1025: B25DCCN057 | B1025: Nguyễn Thanh | C1025: Bình | D1025: D25CQCN02-B | E1025: D25CN | H1025: Không có môn học vượt trong CTĐT rút ngắn
+A1026: B25DCCN233 | B1026: Nguyễn Cẩm | C1026: Hằng | D1026: D25CQCN02-B | E1026: D25CN | H1026: Không có môn học vượt trong CTĐT rút ngắn
+A1027: B25DCCN365 | B1027: Nguyễn Thị Thanh | C1027: Nhàn | D1027: D25CQCN02-B | E1027: D25CN | H1027: Không có môn học vượt trong CTĐT rút ngắn
+A1028: B25DCCN442 | B1028: Vương Khánh | C1028: Thy | D1028: D25CQCN02-B | E1028: D25CN | H1028: Không có môn học vượt trong CTĐT rút ngắn
+A1029: B25DCCN563 | B1029: Phạm Mạnh | C1029: Vũ | D1029: D25CQCN02-B | E1029: D25CN | H1029: Không có môn học vượt trong CTĐT rút ngắn
+A1030: B25DCCN179 | B1030: Nguyễn Việt | C1030: Hoàng | D1030: D25CQCN03-B | E1030: D25CN | H1030: Không có môn học vượt trong CTĐT rút ngắn
+A1031: B25DCCN477 | B1031: Vũ Duy | C1031: Tiến | D1031: D25CQCN04-B | E1031: D25CN | H1031: Không có môn học vượt trong CTĐT rút ngắn
+A1032: B25DCCN027 | B1032: Nguyễn Hoàng | C1032: Anh | D1032: D25CQCN05-B | E1032: D25CN | H1032: Không có môn học vượt trong CTĐT rút ngắn
+A1033: B25DCCN115 | B1033: Bùi Tiến | C1033: Dũng | D1033: D25CQCN05-B | E1033: D25CN | H1033: Không có môn học vượt trong CTĐT rút ngắn
+A1034: B25DCCN204 | B1034: Nguyễn Phạm Ngọc | C1034: Hà | D1034: D25CQCN06-B | E1034: D25CN | H1034: Không có môn học vượt trong CTĐT rút ngắn
+A1035: B25DCCN226 | B1035: Đào Duy | C1035: Hưng | D1035: D25CQCN06-B | E1035: D25CN | H1035: Không có môn học vượt trong CTĐT rút ngắn
+A1036: B25DCCN534 | B1036: Phạm Minh | C1036: Tú | D1036: D25CQCN06-B | E1036: D25CN | H1036: Không có môn học vượt trong CTĐT rút ngắn
+A1037: B25DCCN381 | B1037: Nguyễn Xuân | C1037: Phú | D1037: D25CQCN07-B | E1037: D25CN | H1037: Không có môn học vượt trong CTĐT rút ngắn
+A1038: B25DCCN502 | B1038: Đoàn Cảnh | C1038: Tuyên | D1038: D25CQCN07-B | E1038: D25CN | H1038: Không có môn học vượt trong CTĐT rút ngắn
+A1039: B25DCKE002 | B1039: Lê Thị Vân | C1039: Anh | D1039: D25CQKE02-B | E1039: E25KT | H1039: Không có môn học vượt trong CTĐT rút ngắn
+A1040: B25DCKE034 | B1040: Nguyễn Khánh | C1040: Ly | D1040: D25CQKE02-B | E1040: E25KT | H1040: Không có môn học vượt trong CTĐT rút ngắn
+A1041: B25DCTV075 | B1041: Phan Anh | C1041: Tiến | D1041: D25CQTV01-B | E1041: D25TV | H1041: Không có môn học vượt trong CTĐT rút ngắn
+A1042: B25DCTV058 | B1042: Vũ Thị Thảo | C1042: Ngân | D1042: D25CQTV02-B | E1042: D25TV | H1042: Không có môn học vượt trong CTĐT rút ngắn
+A1043: B24DCKT045 | B1043: Đinh Minh | C1043: Hằng | D1043: D24CQKT01-B | E1043: D24KT | F1043: FIA1315 | G1043: Kiểm toán căn bản | H1043: Học ghép cùng D22,23,24 | I1043: BS 22/12/2025
+A1044: B24DCKT045 | B1044: Đinh Minh | C1044: Hằng | D1044: D24CQKT01-B | E1044: D24KT | F1044: FIA1468 | G1044: Phân tích tài chính doanh nghiệp | H1044: Học ghép cùng D22,23,24 | I1044: BS 22/12/2025
+A1045: B25DCCE103 | B1045: Phạm Ngọc | C1045: Hải | D1045: D25CQCE05-B | E1045: E25CN | F1045: INT1358_CLC | G1045: Toán rời rạc 1 | H1045: Mở lớp riêng học vượt | I1045: BS 22/12/2025
+A1046: B25DCTC033 | B1046: Nguyễn Minh | C1046: Dương | D1046: D25CQTC03-B | E1046: D25TC | F1046: INT13129 | G1046: Lập trình Python (Fintech) | H1046: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I1046: BS 23/12/2025
+A1047: B25DCKH073 | B1047: Hà Nguyễn Minh | C1047: Long | D1047: D25CTKH01-B | E1047: D25KH | F1047: INT1358 | G1047: Toán rời rạc 1 | H1047: Mở lớp riêng học vượt | I1047: BS 23/12/2025
+A1048: B25DCVT285 | B1048: Thái Huy | C1048: Quang | D1048: D25CQVT05-B | E1048: D25VT | F1048: ELE13105 | G1048: Linh kiện và mạch điện tử | H1048: Mở lớp riêng học vượt | I1048: BS 23/12/2025
+A1049: B25DCTC141 | B1049: Lê Phi | C1049: Vũ | D1049: D25CQTC03-B | E1049: D25TC | F1049: INT13129 | G1049: Lập trình Python (Fintech) | H1049: Không tổ chức (đã học vào kì 251, ít SV đăng ký) | I1049: BS 23/12/2025
+A1050: B25DCVT376 | B1050: Triệu Hồng | C1050: Viên | D1050: D25CQVT08-B | E1050: D25VT | F1050: ELE13105 | G1050: Linh kiện và mạch điện tử | H1050: Mở lớp riêng học vượt | I1050: BS 23/12/2025
+A1051: B25DCKH149 | B1051: Nguyễn Văn | C1051: Đức | D1051: D25CQKH02-B | E1051: D25KH | F1051: INT1358 | G1051: Toán rời rạc 1 | H1051: Mở lớp riêng học vượt | I1051: BS 23/12/2025
+A1052: B25DCTM099 | B1052: Chu Kim | C1052: Ngân | D1052: D25CQTM03-B | E1052: D25TM | F1052: BSA1328 | G1052: Quản trị học | H1052: Học ghép cùng D22,23,24 | I1052: BS 23/12/2025
+A1053: B25DCKH013 | B1053: Nguyễn Xuân | C1053: Bách | D1053: D25CQKH01-B | E1053: D25KH | F1053: INT1358 | G1053: Toán rời rạc 1 | H1053: Mở lớp riêng học vượt | I1053: BS 23/12/2025
+A1054: B25DCVT045 | B1054: Đặng Linh | C1054: Chi | D1054: D25CTVT01-B | E1054: D25VT | F1054: ELE13105 | G1054: Linh kiện và mạch điện tử | H1054: Mở lớp riêng học vượt | I1054: BS 23/12/2025
+A1055: B25DCKT170 | B1055: Nguyễn Quang | C1055: Tâm | D1055: D25CQKT02-B | E1055: D25KT | F1055: SKD1108 | G1055: Phương pháp luận NCKH | H1055: Học ghép cùng D22,23,24 | I1055: BS 23/12/2025

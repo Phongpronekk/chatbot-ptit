@@ -1,0 +1,50 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: CHƯƠNG TRÌNH QUẢN TRỊ ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP
+A4: NĂM HỌC THỨ NHẤT | F4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học Mác Lênin | C6: 3 | D6: HK1 | F6: 1 | G6: Chủ nghĩa xã hội khoa học | H6: 2 | I6: HK3
+A7: 2 | B7: Toán cao cấp cho khối ngành kinh tế | C7: 4 | D7: HK1 | F7: 2 | G7: Tiếng Anh (Course 2) | H7: 4 | I7: HK3
+A8: 3 | B8: Pháp luật và sở hữu trí tuệ | C8: 2 | D8: HK1 | F8: 3 | G8: Toán kinh tế | H8: 3 | I8: HK3
+A9: 4 | B9: Lập trình Python cơ bản | C9: 3 | D9: HK1 | F9: 4 | G9: Nhập môn khoa học dữ liệu | H9: 3 | I9: HK3
+A10: 5 | B10: Nhập môn công nghệ số và ứng dụng AI | C10: 2 | D10: HK1 | F10: 5 | G10: Kinh tế vĩ mô 1 | H10: 3 | I10: HK3
+B11: Giáo dục thể chất 1 | F11: 6 | G11: Tư duy thiết kế và giải quyết vấn đề | H11: 3 | I11: HK3
+B12: Giáo dục quốc phòng
+C13: 14 | H13: 18
+A15: 6 | B15: Kinh tế chính trị Mác Lênin | C15: 2 | D15: HK2 | F15: 8 | G15: Lịch sử Đảng Cộng Sản Việt Nam | H15: 2 | I15: HK4
+A16: 7 | B16: Tiếng Anh (Course 1) | C16: 4 | D16: HK2 | F16: 9 | G16: Tiếng Anh (Course 3) | H16: 4 | I16: HK4
+A17: 8 | B17: Lý thuyết xác suất và thống kê | C17: 3 | D17: HK2 | F17: 10 | G17: Phân tích dữ liệu trong kinh doanh | H17: 3 | I17: HK4
+A18: 9 | B18: Quản trị học | C18: 3 | D18: HK2 | F18: 11 | G18: Marketing căn bản | H18: 3 | I18: HK4
+A19: 10 | B19: Kinh tế vi mô 1 | C19: 3 | D19: HK2 | F19: 12 | G19: Hành vi tổ chức | H19: 3 | I19: HK4
+A20: 11 | B20: Tâm lý quản lý | C20: 2 | D20: HK2 | F20: 13 | G20: Nền tảng phát triển trí tuệ nhân tạo | H20: 3 | I20: HK4
+B21: Giáo dục thể chất 2 | D21: HK2
+C22: 17 | H22: 18
+A23: NĂM HỌC THỨ BA | F23: NĂM HỌC THỨ TƯ
+A24: TT | B24: Tên môn học/học phần | C24: Số TC | D24: Học kỳ | F24: TT | G24: Tên môn học/học phần | H24: Số TC | I24: Học kỳ
+A25: 1 | B25: Tư tưởng Hồ Chí Minh | C25: 2 | D25: HK5 | F25: 1 | G25: Tài chính khởi nghiệp | H25: 3 | I25: HK7
+A26: 2 | B26: Phân tích và thiết kế hệ thống thông tin quản lý | C26: 3 | D26: HK5 | F26: 2 | G26: Quản trị sản phẩm | H26: 3 | I26: HK7
+A27: 3 | B27: Tiếng Anh (Course 3 Plus) | C27: 2 | D27: HK5 | F27: 3 | G27: Đổi mới mô hình kinh doanh sáng tạo | H27: 3 | I27: HK7
+A28: 4 | B28: Quản trị công nghệ và đổi mới sáng tạo | C28: 3 | D28: HK5 | F28: 4 | G28: Quản trị rủi ro và khủng hoảng | H28: 3 | I28: HK7
+A29: 5 | B29: Khởi nghiệp đổi mới sáng tạo | C29: 3 | D29: HK5 | F29: 5 | G29: Phương pháp luận nghiên cứu khoa học | H29: 2 | I29: HK7
+A30: 6 | B30: Tổ hợp học phần tự chọn 1 | C30: 6 | D30: HK5 | F30: 6 | G30: 02 học phần tự chọn | H30: 4 | I30: HK7
+C31: 19 | H31: 18
+A33: 7 | B33: Kế toán cho kinh doanh | C33: 3 | D33: HK6 | F33: 7 | G33: Thực tập | H33: 4 | I33: HK8
+A34: 8 | B34: Ứng dụng phân tích dữ liệu trong đổi mới sản phẩm | C34: 3 | D34: HK6 | F34: 8 | G34: Đồ án tốt nghiệp | H34: 6 | I34: HK8
+A35: 9 | B35: Quản trị dự án đổi mới sáng tạo và khởi nghiệp | C35: 3 | D35: HK6
+A36: 10 | B36: Quản trị tài năng | C36: 3 | D36: HK6
+A37: 11 | B37: Học phần doanh nghiệp | C37: 4 | D37: HK6 | H37: 10
+C38: 16
+G39: TỔNG CỘNG: | H39: 130
+A41: Tổ hợp học phần tự chọn 1 (chọn 1 trong 2 Tổ hợp) | G41: Học phần tự chọn
+B42: (1) Tổ hợp 1 kinh doanh và quản lý
+B43: Văn hóa kinh doanh và trách nhiệm xã hội của doanh nghiệp | C43: 3 | G43: Lãnh đạo và quản lý sự thay đổi | H43: 2
+B44: Giao tiếp và đàm phán trong kinh doanh | C44: 3 | G44: E-marketing | H44: 2
+B45: Thương mại điện tử căn bản | C45: 3 | G45: Quản trị đa văn hóa | H45: 2
+B46: Kinh doanh quốc tế | C46: 3 | G46: Quản lý tài sản trí tuệ | H46: 2
+B47: Quản trị vận hành | C47: 3 | G47: Quản trị ESG và phát triển bền vững | H47: 2
+B48: (2) Tổ hợp 2 công nghệ
+B49: Nhập môn học máy | C49: 3
+B50: Nhập môn học sâu | C50: 3
+B51: Phát triển ứng dụng trí tuệ nhân tạo | C51: 3
+B52: An toàn hệ thống thông tin kinh doanh | C52: 3
+B53: Ứng dụng trí tuệ nhân tạo trong kinh doanh | C53: 3

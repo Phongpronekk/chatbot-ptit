@@ -1,0 +1,100 @@
+{
+  "id": 4841,
+  "date": "2026-05-13T17:09:57",
+  "date_gmt": "2026-05-13T10:09:57",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=4841"
+  },
+  "modified": "2026-05-23T11:30:24",
+  "modified_gmt": "2026-05-23T04:30:24",
+  "slug": "graduate-programmes",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/en/graduate-programmes/",
+  "title": {
+    "rendered": "Graduate Programmes"
+  },
+  "content": {
+    "rendered": "<p><strong>1. Master’s Programs</strong></p>\n<table style=\"width: 71.3238%\" border=\"2\">\n<thead>\n<tr>\n<td style=\"width: 4.21314%\"><strong>No.</strong></td>\n<td style=\"width: 21.7095%\"><strong>Academic Program</strong></td>\n<td style=\"width: 27.6149%\"><strong>Discipline</strong></td>\n<td style=\"width: 12.2256%\"><strong>Program Code</strong></td>\n<td style=\"width: 73.766%\"><strong>Link</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 4.21314%\">1</td>\n<td style=\"width: 21.7095%\">Telecommunications Engineering</td>\n<td style=\"width: 27.6149%\">Electrical, Electronic and Telecommunications Engineering</td>\n<td style=\"width: 12.2256%\">8520208</td>\n<td style=\"width: 73.766%\"></td>\n</tr>\n<tr>\n<td style=\"width: 4.21314%\">2</td>\n<td style=\"width: 21.7095%\">Electronic Engineering</td>\n<td style=\"width: 27.6149%\">Electrical, Electronic and Telecommunications Engineering</td>\n<td style=\"width: 12.2256%\">8520203</td>\n<td style=\"width: 73.766%\"></td>\n</tr>\n<tr>\n<td style=\"width: 4.21314%\">3</td>\n<td style=\"width: 21.7095%\">Information Systems</td>\n<td style=\"width: 27.6149%\">Computer Science</td>\n<td style=\"width: 12.2256%\">8480104</td>\n<td style=\"width: 73.766%\"></td>\n</tr>\n<tr>\n<td style=\"width: 4.21314%\">4</td>\n<td style=\"width: 21.7095%\">Computer Science</td>\n<td style=\"width: 27.6149%\">Computer Science</td>\n<td style=\"width: 12.2256%\">8480101</td>\n<td style=\"width: 73.766%\"></td>\n</tr>\n<tr>\n<td style=\"width: 4.21314%\">5</td>\n<td style=\"width: 21.7095%\">Information Security</td>\n<td style=\"width: 27.6149%\">Information Security</td>\n<td style=\"width: 12.2256%\">8480202</td>\n<td style=\"width: 73.766%\"></td>\n</tr>\n<tr>\n<td style=\"width: 4.21314%\">6</td>\n<td style=\"width: 21.7095%\">Business Administration</td>\n<td style=\"width: 27.6149%\">Business Administration</td>\n<td style=\"width: 12.2256%\">8340101</td>\n<td style=\"width: 73.766%\"></td>\n</tr>\n</tbody>\n</table>\n<p><strong>2. Doctoral Programs</strong></p>\n<table border=\"2\">\n<thead>\n<tr>\n<td><strong>No.</strong></td>\n<td><strong>Academic Program</strong></td>\n<td><strong>Discipline</strong></td>\n<td><strong>Program Code</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Telecommunications Engineering</td>\n<td>Telecommunications Engineering</td>\n<td>9520208</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Computer Engineering</td>\n<td>Computer Engineering</td>\n<td>9480106</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Electronic Engineering</td>\n<td>Electronic Engineering</td>\n<td>9520203</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Information Systems</td>\n<td>Information Systems</td>\n<td>9480104</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Business Administration</td>\n<td>Business Administration</td>\n<td>9340101</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>1. Master’s Programs No. Academic Program Discipline Program Code Link 1 Telecommunications Engineering Electrical, Electronic and Telecommunications Engineering 8520208 2 Electronic Engineering Electrical, Electronic and Telecommunications Engineering 8520203 3 Information Systems Computer Science 8480104 4 Computer Science Computer Science 8480101 5 Information Security Information Security 8480202 6 Business Administration Business Administration 8340101 2. Doctoral Programs [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 77,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-4841",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4841",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/77"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=4841"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4841/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 4987,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4841/revisions/4987"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4841"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

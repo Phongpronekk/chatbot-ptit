@@ -1,0 +1,121 @@
+{
+  "id": 3757,
+  "date": "2025-05-05T23:30:29",
+  "date_gmt": "2025-05-05T16:30:29",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=3757"
+  },
+  "modified": "2025-05-05T23:34:48",
+  "modified_gmt": "2025-05-05T16:34:48",
+  "slug": "hoc-vien-cong-nghe-buu-chinh-vien-thong-ban-hanh-quy-che-tuyen-sinh-dai-hoc-chinh-quy",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/hoc-vien-cong-nghe-buu-chinh-vien-thong-ban-hanh-quy-che-tuyen-sinh-dai-hoc-chinh-quy/",
+  "title": {
+    "rendered": "Học viện Công nghệ Bưu chính Viễn thông ban hành Quy chế tuyển sinh đại học chính quy"
+  },
+  "content": {
+    "rendered": "<p>Ngày 28 tháng 04 năm 2025 Học viện Công nghệ Bưu chính Viễn thông ban hành Quy chế tuyển sinh đại học chính quy áp dụng từ năm 2025<br />\n<a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/2025.QD-511-Quy-che-tuyen-sinh-DHCQ-HVBC.pdf\">Xem quy chế tại đây</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 28 tháng 04 năm 2025 Học viện Công nghệ Bưu chính Viễn thông ban hành Quy chế tuyển sinh đại học chính quy áp dụng từ năm 2025 Xem quy chế tại đây</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 3394,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13962,
+    13960
+  ],
+  "tags": [],
+  "class_list": [
+    "post-3757",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-quy-che-quy-dinh",
+    "category-dt_tin-tuc-tuyen-sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3757",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=3757"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3757/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3394"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=3757"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=3757"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=3757"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

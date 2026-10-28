@@ -1,0 +1,34 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA VỚI CÁC HỌC PHẦN/MÔN HỌC
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: LO1 | D4: LO2 | E4: LO3 | F4: LO4 | G4: LO5
+A5: 1 | B5: Triết học  | C5: I(Y) | D5: I(Y) | G5: I(Y)
+A6: 2 | B6: Phương pháp nghiên cứu khoa học | C6: I(Y) | E6: I(X) | F6: I(X)
+A7: 3 | B7: Công cụ toán cho kinh doanh và quản lý  | C7: I(Y) | D7: I(X) | F7: I(X)
+A8: 4 | B8: Kinh tế học quản trị | C8: I(X/A) | D8: I(X/A) | E8: I(Y/A)
+A9: 5 | B9: Quản trị Marketing chiến lược | C9: R(Y) | D9: R(X) | F9: R(X)
+A10: 6 | B10: Lãnh đạo và hành vi tổ chức | C10: R(X/A) | F10: R(X/A) | G10: R(Y/A)
+A11: 7 | B11: Chiến lược kinh doanh nâng cao | C11: R(Y/A) | D11: R(X/A) | E11: R(X/A)
+A12: 8 | B12: Quản trị tài chính chiến lược  | C12: R(X/A) | E12: R(Y/A) | G12: R(X/A)
+A13: 9 | B13: Quản trị nguồn nhân lực chiến lược | C13: R(X) | E13: R(X) | G13: R(Y)
+A14: 10 | B14: Phân tích dữ liệu và mô hình hoá dữ liệu  | C14: R(X/A) | E14: R(X/A) | F14: R(Y/A)
+A15: 11 | B15: Công nghệ tài chính  | D15: R(X/A) | E15: R(X/A) | G15: R(Y/A)
+A16: 12 | B16: Đổi mới sáng tạo và Mô hình 
+kinh  doanh Fintech  | E16: E(X/A) | F16: E(Y/A) | G16: R(X/A)
+A17: 13 | B17: Ra quyết định tài chính dựa trên AI  | C17: E(X/A) | E17: E(X/A) | G17: E(Y/A)
+A18: 14 | B18: Môn lựa chọn (chuyên ngành)**  | C18: E(Y) | D18: E(X) | F18: E(X)
+A19: 15 | B19: Môn lựa chọn (chuyên ngành)** | C19: E(Y) | D19: E(X) | F19: E(X)
+A20: 16 | B20: Thực tập tốt nghiệp | C20: E(X/A) | D20: E(X/A) | E20: E(X/A) | F20: E(X/A) | G20: E(X/A)
+A21: 17 | B21: Đề án tốt nghiệp | C21: E(X/A) | D21: E(X/A) | E21: E(X/A) | F21: E(X/A) | G21: E(X/A)
+B23: Các học phần tự chọn (Chuyên ngành)
+A24: 1 | B24: Tài chính Phi tập trung
+A25: 2 | B25: Quản trị rủi ro và tài chính bền vững 
+A26: 3 | B26: Quản trị danh mục đầu tư 
+A27: 4 | B27: Tài chính định lượng 
+A28: 5 | B28: Tài chính số và ngân hàng số 
+A29: 6 | B29: Công nghệ pháp chế
+A31: Ghi chú: 
+B32: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B33: X: đóng góp trực tiếp
+B34: Y: đóng góp gián tiếp
+B35: A: dùng để đo lường đóng góp vào PLO

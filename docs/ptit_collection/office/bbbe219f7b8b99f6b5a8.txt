@@ -1,0 +1,23 @@
+### sheet1.xml
+A1: HỌC TẬP HỌC TẬP CHUẨN
+A2: TRÌNH ĐỘ THẠC SĨ, NGÀNH QUẢN LÝ KHOA HỌC VÀ CÔNG NGHỆ
+A4: NĂM HỌC THỨ NHẤT | F4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | E5: TT | F5: Tên môn học/học phần | G5: Số TC | H5: Học kỳ
+A6: 1 | B6: Triết học | C6: 3 | D6: HK1 | E6: 1 | F6: Tiêu chuẩn và đánh giá công nghệ | G6: 3 | H6: HK3
+A7: 2 | B7: Phương pháp nghiên cứu khoa học | C7: 2 | D7: HK1 | E7: 2 | F7: Quản trị và khai thác tài sản trí tuệ | G7: 3 | H7: HK3
+A8: 3 | B8: Kinh tế học quản trị | C8: 3 | D8: HK1 | E8: 3 | F8: Chuyên đề: Ứng dụng công nghệ số trong quản trị doanh nghiệp | G8: 2 | H8: HK3
+A9: 4 | B9: Quản trị công nghệ và đổi mới sáng tạo | C9: 3 | D9: HK1 | E9: 4 | F9: 02 học phần tự chọn | G9: 4 | H9: HK3
+C11: 11 | G11: 12
+A13: 5 | B13: Quản lý R&D và dự án công nghệ | C13: 3 | D13: HK2 | E13: 5 | F13: Thực tập | G13: 6 | H13: HK4
+A14: 6 | B14: Lãnh đạo và hành vi tổ chức  | C14: 3 | D14: HK2 | E14: 6 | F14: Đề án tốt nghiệp | G14: 9 | H14: HK4
+A15: 7 | B15: Quản trị sự thay đổi và chuyển đổi số trong doanh nghiệp | C15: 2 | D15: HK2
+A16: 8 | B16: Tổ hợp tự chọn | C16: 4 | D16: HK2
+C18: 12 | G18: 15
+F20: Tổng số tín chỉ | G20: 50
+B22: Tổ hợp tự chọn | F22: Các học phần tự chọn chuyên ngành
+B23: Tổ hợp 1 (QL công nghệ trong DN): | E23: 1 | F23: Quản trị nguồn nhân lực khoa học công nghệ và đổi mới sáng tạo | G23: 2
+A24: 1 | B24:  Quản trị chiến lược công nghệ | C24: 2 | E24: 2 | F24: Phân tích dữ liệu và dự báo công nghệ | G24: 2
+A25: 2 | B25: Quản trị vận hành dựa trên công nghệ | C25: 2 | E25: 3 | F25: Tài chính và đầu tư công nghệ  | G25: 2
+B26: Tổ hợp 2 (KD và khởi nghiệp công nghệ): | E26: 4 | F26: Hợp tác đổi mới công nghệ  | G26: 2
+A27: 1 | B27: Marketing và phát triển thị trường công nghệ | C27: 2 | E27: 5 | F27: Quản trị an ninh công nghệ  | G27: 2
+A28: 2 | B28: Khởi nghiệp công nghệ và tạo lập doanh nghiệp | C28: 2 | E28: 6 | F28: Chuyển giao và thương mại hóa công nghệ | G28: 2

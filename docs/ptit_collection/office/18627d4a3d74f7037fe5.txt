@@ -1,0 +1,46 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT CÁC HỌC PHẦN VỚI CÁC THIÊN HƯỚNG TÀI NĂNG
+CTĐT THẠC SĨ TÀI NĂNG NGÀNH HỆ THỐNG THÔNG TIN
+A3: TT | B3: MÃ HỌC PHẦN | C3: TÊN HỌC PHẦN | D3: HỌC KỲ | E3: Thiên hướng tài năng theo 
+Quyết định 2627/QĐ của Bộ GD&ĐT
+E4: Thiên hướng tài năng về 
+khoa học | F4: Thiên hướng tài năng về 
+công nghệ | G4: Thiên hướng tài năng về 
+kinh doanh
+A5: 1 | B5: INT11117 | C5: Nhập môn tin học và lập trình | D5: Kỳ 1 | E5: L | F5: L | G5: L
+A6: 2 | B6: INT11205 | C6: Nhập môn công nghệ số và ứng dụng AI | D6: Kỳ 1 | E6: L | F6: L | G6: L
+A7: 3 | B7: INT1339 | C7: Ngôn ngữ lập trình C++ | D7: Kỳ 2 | E7: L | F7: L | G7: L
+A8: 4 | B8: INT13145 | C8: Kiến trúc máy tính | D8: Kỳ 3 | E8: L | F8: L | G8: L
+A9: 5 | B9: INT1306 | C9: Cấu trúc dữ liệu và giải thuật | D9: Kỳ 3 | E9: L | F9: L | G9: L
+A10: 6 | B10: INT1313 | C10: Cơ sở dữ liệu | D10: Kỳ 4 | E10: L | F10: L | G10: L
+A11: 7 | B11: INT1319 | C11: Hệ điều hành | D11: Kỳ 4 | E11: L | F11: L | G11: L
+A12: 8 | B12: INT1332 | C12: Lập trình hướng đối tượng | D12: Kỳ 4 | E12: L | F12: L | G12: L
+A13: 9 | B13: ELE1309 | C13: Điện tử số | D13: Kỳ 4 | E13: L | F13: L | G13: L
+A14: 10 | B14: INT1341 | C14: Nhập môn trí tuệ nhân tạo | D14: Kỳ 4 | E14: L | F14: L | G14: L
+A15: 11 | B15: INT1340 | C15: Nhập môn công nghệ phần mềm | D15: Kỳ 5 | E15: M | F15: M | G15: M
+A16: 12 | B16: INT1336 | C16: Mạng máy tính | D16: Kỳ 5 | E16: M | F16: M | G16: M
+A17: 13 | B17: INT1303 | C17: An toàn bảo mật HTTT | D17: Kỳ 5 | E17: M | F17: M | G17: M
+A18: 14 | B18: INT1434 | C18: Lập trình web | D18: Kỳ 5 | E18: M | F18: M | G18: M
+A19: 15 | B19: INT1422 | C19: Kho dữ liệu và khai phá dữ liệu | D19: Kỳ 5 | E19: M | F19: M | G19: M
+A20: 16 | B20: INT1342 | C20: Phân tích và thiết kế HTTT | D20: Kỳ 6 | E20: M | F20: M | G20: M
+A21: 17 | B21: INT14149 | C21: IOT và ứng dụng | D21: Kỳ 6 | E21: M | F21: H | G21: H
+A22: 18 | B22: INT1446 | C22: Phát triển hệ thống TMĐT | D22: Kỳ 6 | E22: L | F22: H | G22: H
+A23: 19 | B23: INT13147 | C23: Thực tập cơ sở | D23: Kỳ 6 | E23: M | F23: M | G23: M
+A24: 20 | B24: INT15196 | C24: Thực tập tốt nghiệp (bậc đại học) | D24: Kỳ 7 | E24: H | F24: H | G24: H
+A25: 21 | B25: INT1443 | C25: Tính toán phân tán | D25: Kỳ 7 | E25: M | F25: M | G25: M
+A26: 22 | B26: SKD4112 | C26: Phương pháp luận NCKH | D26: Kỳ 7 | E26: L | F26: L | G26: L
+A27: 23 | B27: INT41218 | C27: Công cụ toán cho CNTT | D27: Kỳ 7 | E27: M | F27: M
+A28: 24 | B28: INT4326 | C28: Thuật toán nâng cao | D28: Kỳ 7 | E28: H | F28: H
+A29: 25 | B29: INT4327 | C29: Các hệ thống CSDL | D29: Kỳ 8 | E29: L | F29: H | G29: H
+A30: 26 | B30: INT4355 | C30: Dữ liệu lớn | D30: Kỳ 8 | E30: H | F30: H | G30: H
+A31: 27 | B31: INT4437 | C31: Điện toán đám mây | D31: Kỳ 8 | E31: L | F31: H | G31: H
+A32: 28 | B32: INT4336 | C32: Chuyên đề nghiên cứu HTTT 1 | D32: Kỳ 8 | E32: H | F32: M
+A33: 29 | B33: INT4438 | C33: Các hệ thống IOT hiện đại | D33: Kỳ 9 | E33: M | F33: H | G33: H
+A34: 30 | B34: INT4439 | C34: Kiến trúc hệ thống thông tin | D34: Kỳ 9 | E34: M | F34: H | G34: H
+A35: 31 | B35: INT4447 | C35: Chuyên đề nghiên cứu HTTT 2 | D35: Kỳ 9 | E35: H | F35: M
+A36: 32 | B36: INT4552 | C36: Thực tập tốt nghiệp (bậc thạc sĩ) | D36: Kỳ 10 | E36: H | F36: H | G36: H
+A37: 33 | B37: INT4553 | C37: Đề án tốt nghiệp | D37: Kỳ 10 | E37: M | F37: H | G37: H
+A38: 34 | B38: INT4554 | C38: Luận văn tốt nghiệp | D38: Kỳ 10 | E38: H | F38: M
+A40: Ghi chú: 
+B41: L, M, H: mức độ đóng góp của học phần, tương ứng: Thấp (L-Low), Trung bình (M-Medium), Cao (H-High)
+E48:  

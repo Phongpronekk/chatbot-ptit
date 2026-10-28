@@ -1,0 +1,78 @@
+{
+  "id": 5011,
+  "date": "2026-05-28T17:04:37",
+  "date_gmt": "2026-05-28T10:04:37",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=5011"
+  },
+  "modified": "2026-07-13T13:46:01",
+  "modified_gmt": "2026-07-13T06:46:01",
+  "slug": "chuong-trinh-ky-thuat-truyen-thong-hang-khong-vu-tru",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-ky-thuat-truyen-thong-hang-khong-vu-tru/",
+  "title": {
+    "rendered": "Chương trình Kỹ thuật Truyền thông hàng không vũ trụ"
+  },
+  "featured_media": 3693,
+  "template": "",
+  "he_dao_tao": [
+    13984
+  ],
+  "class_list": [
+    "post-5011",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "he_dao_tao-nhom-cac-nganh-chuong-trinh-dao-tao-linh-vuc-ky-thuat-cong-nghe"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/5011",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3693"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5011"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=5011"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

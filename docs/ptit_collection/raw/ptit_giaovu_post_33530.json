@@ -1,0 +1,129 @@
+{
+  "id": 33530,
+  "date": "2026-08-21T09:27:12",
+  "date_gmt": "2026-08-21T02:27:12",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33530"
+  },
+  "modified": "2026-08-21T09:27:33",
+  "modified_gmt": "2026-08-21T02:27:33",
+  "slug": "cap-nhat-diem-thi-hoc-ky-ii-nam-hoc-2025-2026-tren-he-thong-qldt",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/cap-nhat-diem-thi-hoc-ky-ii-nam-hoc-2025-2026-tren-he-thong-qldt/",
+  "title": {
+    "rendered": "Cập nhật điểm thi học kỳ II năm học 2025-2026 trên hệ thống QLĐT"
+  },
+  "content": {
+    "rendered": "<p>Thực hiện kế hoạch đào tạo năm học 2025-2026, Trung tâm Khảo thí &amp; ĐBCLGD và Phòng Giáo vụ đã hoàn thành việc cập nhật điểm học kỳ II năm học 2025-2026 các khóa 2021, 2022, 2023, 2024, 2025 và các khóa khác còn hạn đào tạo trên hệ thống Quản lý đào tạo (https://qldt.ptit.edu.vn).</p>\n<p>Phòng Giáo vụ yêu cầu các sinh viên đăng nhập vào hệ thống QLĐT kiểm tra, rà soát điểm của mình.</p>\n<p>Các trường hợp sai lệch thông tin về điểm đề nghị sinh viên gửi email (phải gửi từ email được Học viện cấp) đến cô Hoàng Kim Cúc – phòng Giáo vụ – hkcuc@ptit.edu.vn trước 17h00 ngày 31/08/2026 để được xem xét giải quyết.</p>\n<p>Lưu ý: Nội dung email sinh viên phải ghi rõ các thông tin thắc mắc, kèm số điện thoại liên lạc.</p>\n<p>Trân trọng ./.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thực hiện kế hoạch đào tạo năm học 2025-2026, Trung tâm Khảo thí &amp; ĐBCLGD và Phòng Giáo vụ đã hoàn thành việc cập nhật điểm học kỳ II năm học 2025-2026 các khóa 2021, 2022, 2023, 2024, 2025 và các khóa khác còn hạn đào tạo trên hệ thống Quản lý đào tạo (https://qldt.ptit.edu.vn). [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 98,
+  "featured_media": 32452,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33530",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33530",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/98"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33530"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33530/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33531,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33530/revisions/33531"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32452"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33530"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33530"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33530"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

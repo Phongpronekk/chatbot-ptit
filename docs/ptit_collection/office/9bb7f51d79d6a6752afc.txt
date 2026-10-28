@@ -1,0 +1,603 @@
+### sheet1.xml
+A1: STT | B1: Lớp học online | C1: Mã sinh viên | D1: Mã lớp  | E1: Họ đêm | F1: Tên | G1: Ngày sinh | H1: Giới tính | I1: Khoá | J1: Tên ngành học
+A2: 1 | B2: Lớp 1 | C2: B25DCDT149 | D2: D25CQDT01-B | E2: Nguyễn Hải | F2: Nam | G2: 04/11/2007 | H2: Nam | I2: 2025 | J2: Công nghệ kỹ thuật Điện-Điện tử
+A3: 2 | B3: Lớp 1 | C3: B22DCCN346 | D3: D22CNPM5 | E3: Phùng Văn | F3: Hoàng | G3: 05/09/2024 | H3: Nam | I3: 2022 | J3: Công nghệ thông tin
+A4: 3 | B4: Lớp 1 | C4: B22DCCN697 | D4: D22HTTT | E4: Phạm Văn | F4: Sơn | G4: 05/02/2026 | H4: Nam | I4: 2022 | J4: Công nghệ thông tin
+A5: 4 | B5: Lớp 1 | C5: B22DCVT084 | D5: D22VT4 | E5: Lê Thành | F5: Danh | G5: 28/06/2004 | H5: Nam | I5: 2022 | J5: Viễn thông
+A6: 5 | B6: Lớp 1 | C6: B22DCVT300 | D6: D22VTVT01-B | E6: Mưu Thị Ngọc | F6: Lan | G6: 09/01/2004 | H6: Nữ | I6: 2022 | J6: Viễn thông
+A7: 6 | B7: Lớp 1 | C7: B24DCCN071 | D7: D24CQCN05-B | E7: Mai Khánh | F7: Chi | G7: 19/11/2006 | H7: Nữ | I7: 2024 | J7: Công nghệ thông tin
+A8: 7 | B8: Lớp 1 | C8: B24DCPT224 | D8: D24CQPT04-B | E8: Nguyễn Thảo | F8: Trang | G8: 03/01/2006 | H8: Nữ | I8: 2024 | J8: Công nghệ đa phương tiện
+A9: 8 | B9: Lớp 1 | C9: B25DCCN248 | D9: D25CQCN06-B | E9: Nguyễn Ngọc | F9: Khánh | G9: 13/04/2004 | H9: Nam | I9: 2025 | J9: Công nghệ thông tin
+A10: 9 | B10: Lớp 1 | C10: B25DCCN615 | D10: D25CQCN01-B | E10: Nguyễn Kim | F10: Cúc | G10: 21/01/2007 | H10: Nữ | I10: 2025 | J10: Công nghệ thông tin
+A11: 10 | B11: Lớp 1 | C11: B21DCVT196 | D11: D21VT | E11: Văn Minh | F11: Hiếu | G11: 05/01/2003 | H11: Nam | I11: 2021 | J11: Viễn thông
+A12: 11 | B12: Lớp 1 | C12: B22DCAT060 | D12: D22AT | E12: Trần Bảo | F12: Duy | G12: 29/04/2004 | H12: Nam | I12: 2022 | J12: An toàn thông tin
+A13: 12 | B13: Lớp 1 | C13: B22DCAT220 | D13: D22AT | E13: Phạm Đình | F13: Phi | G13: 21/10/2004 | H13: Nam | I13: 2022 | J13: An toàn thông tin
+A14: 13 | B14: Lớp 1 | C14: B25DCCN557 | D14: D25CQCN07-B | E14: Trần Quốc | F14: Việt | G14: 02/02/2007 | H14: Nam | I14: 2025 | J14: Công nghệ thông tin
+A15: 14 | B15: Lớp 1 | C15: B21DCCN818 | D15: D21CNPM5 | E15: Nguyễn Thị | F15: Lan | G15: 02/10/2003 | H15: Nữ | I15: 2021 | J15: Công nghệ thông tin
+A16: 15 | B16: Lớp 1 | C16: B23DCCN756 | D16: D23CTCN01 | E16: Phạm Hữu | F16: Thắng | G16: 07/03/2005 | H16: Nam | I16: 2023 | J16: Công nghệ thông tin
+A17: 16 | B17: Lớp 1 | C17: B25DCAE009 | D17: D25CQAE03-B | E17: Lê Gia | F17: Bách | G17: 02/02/2007 | H17: Nam | I17: 2025 | J17: An toàn thông tin (chất lượng cao)
+A18: 17 | B18: Lớp 1 | C18: B25DCAT001 | D18: D25CTAT01-B | E18: Nguyễn Kiều | F18: An | G18: 15/11/2007 | H18: Nữ | I18: 2025 | J18: An toàn thông tin
+A19: 18 | B19: Lớp 1 | C19: B25DCAT002 | D19: D25CQAT02-B | E19: Nguyễn Thành | F19: An | G19: 25/07/2007 | H19: Nam | I19: 2025 | J19: An toàn thông tin
+A20: 19 | B20: Lớp 1 | C20: B25DCAT003 | D20: D25CQAT03-B | E20: Vũ Hoàng | F20: An | G20: 10/07/2007 | H20: Nam | I20: 2025 | J20: An toàn thông tin
+A21: 20 | B21: Lớp 1 | C21: B25DCAT004 | D21: D25CQAT04-B | E21: Lê Nguyễn Tuấn | F21: Anh | G21: 08/01/2007 | H21: Nam | I21: 2025 | J21: An toàn thông tin
+A22: 21 | B22: Lớp 1 | C22: B25DCAT006 | D22: D25CTAT01-B | E22: Nguyễn Duy | F22: Anh | G22: 06/09/2007 | H22: Nam | I22: 2025 | J22: An toàn thông tin
+A23: 22 | B23: Lớp 1 | C23: B25DCAT007 | D23: D25CQAT03-B | E23: Nguyễn Hoàng | F23: Anh | G23: 31/07/2007 | H23: Nam | I23: 2025 | J23: An toàn thông tin
+A24: 23 | B24: Lớp 1 | C24: B25DCAT008 | D24: D25CQAT04-B | E24: Nguyễn Hoàng Thế | F24: Anh | G24: 11/05/2007 | H24: Nam | I24: 2025 | J24: An toàn thông tin
+A25: 24 | B25: Lớp 1 | C25: B25DCAT009 | D25: D25CQAT01-B | E25: Nguyễn Phúc Minh | F25: Anh | G25: 29/05/2007 | H25: Nam | I25: 2025 | J25: An toàn thông tin
+A26: 25 | B26: Lớp 1 | C26: B25DCAT010 | D26: D25CTAT01-B | E26: Phạm Đạt | F26: Anh | G26: 03/07/2007 | H26: Nam | I26: 2025 | J26: An toàn thông tin
+A27: 26 | B27: Lớp 1 | C27: B25DCAT011 | D27: D25CQAT03-B | E27: Trịnh Hoàng | F27: Anh | G27: 20/02/2007 | H27: Nam | I27: 2025 | J27: An toàn thông tin
+A28: 27 | B28: Lớp 1 | C28: B25DCAT012 | D28: D25CTAT01-B | E28: Vũ Đức | F28: Anh | G28: 12/05/2007 | H28: Nam | I28: 2025 | J28: An toàn thông tin
+A29: 28 | B29: Lớp 1 | C29: B25DCAT013 | D29: D25CQAT01-B | E29: Đỗ Đức | F29: Anh | G29: 09/12/2007 | H29: Nam | I29: 2025 | J29: An toàn thông tin
+A30: 29 | B30: Lớp 1 | C30: B25DCAT014 | D30: D25CQAT02-B | E30: Phương Mạnh | F30: Ba | G30: 11/05/2007 | H30: Nam | I30: 2025 | J30: An toàn thông tin
+A31: 30 | B31: Lớp 1 | C31: B25DCAT015 | D31: D25CQAT03-B | E31: Hoàng Đức | F31: Bình | G31: 02/09/2007 | H31: Nam | I31: 2025 | J31: An toàn thông tin
+A32: 31 | B32: Lớp 1 | C32: B25DCAT016 | D32: D25CQAT04-B | E32: Lê Huy | F32: Bình | G32: 23/09/2007 | H32: Nam | I32: 2025 | J32: An toàn thông tin
+A33: 32 | B33: Lớp 1 | C33: B25DCAT017 | D33: D25CTAT01-B | E33: Mai Đức | F33: Bình | G33: 27/04/2007 | H33: Nam | I33: 2025 | J33: An toàn thông tin
+A34: 33 | B34: Lớp 1 | C34: B25DCAT018 | D34: D25CTAT01-B | E34: Phan Thanh | F34: Bình | G34: 23/07/2007 | H34: Nam | I34: 2025 | J34: An toàn thông tin
+A35: 34 | B35: Lớp 1 | C35: B25DCAT019 | D35: D25CQAT03-B | E35: Đỗ Khắc Thanh | F35: Bình | G35: 16/11/2007 | H35: Nam | I35: 2025 | J35: An toàn thông tin
+A36: 35 | B36: Lớp 1 | C36: B25DCAT020 | D36: D25CTAT01-B | E36: Lê Đức | F36: Chính | G36: 15/05/2007 | H36: Nam | I36: 2025 | J36: An toàn thông tin
+A37: 36 | B37: Lớp 1 | C37: B25DCAT021 | D37: D25CQAT01-B | E37: Nguyễn Thành | F37: Công | G37: 10/01/2007 | H37: Nam | I37: 2025 | J37: An toàn thông tin
+A38: 37 | B38: Lớp 1 | C38: B25DCAT022 | D38: D25CTAT01-B | E38: Nguyễn Minh | F38: Cường | G38: 25/02/2007 | H38: Nam | I38: 2025 | J38: An toàn thông tin
+A39: 38 | B39: Lớp 1 | C39: B25DCAT023 | D39: D25CQAT03-B | E39: Nguyễn Mạnh | F39: Cường | G39: 01/08/2007 | H39: Nam | I39: 2025 | J39: An toàn thông tin
+A40: 39 | B40: Lớp 1 | C40: B25DCAT024 | D40: D25CTAT01-B | E40: Đặng Thành | F40: Danh | G40: 25/04/2007 | H40: Nam | I40: 2025 | J40: An toàn thông tin
+A41: 40 | B41: Lớp 1 | C41: B25DCAT025 | D41: D25CQAT01-B | E41: Nguyễn Khánh | F41: Diệu | G41: 10/09/2007 | H41: Nữ | I41: 2025 | J41: An toàn thông tin
+A42: 41 | B42: Lớp 1 | C42: B25DCAT026 | D42: D25CTAT01-B | E42: Đào Đức | F42: Doanh | G42: 26/04/2007 | H42: Nam | I42: 2025 | J42: An toàn thông tin
+A43: 42 | B43: Lớp 1 | C43: B25DCAT027 | D43: D25CQAT03-B | E43: Hoàng Ngọc | F43: Duy | G43: 19/01/2007 | H43: Nam | I43: 2025 | J43: An toàn thông tin
+A44: 43 | B44: Lớp 1 | C44: B25DCAT028 | D44: D25CQAT04-B | E44: Hà Thế | F44: Duy | G44: 16/11/2005 | H44: Nam | I44: 2025 | J44: An toàn thông tin
+A45: 44 | B45: Lớp 1 | C45: B25DCAT029 | D45: D25CQAT01-B | E45: Nguyễn Nhật | F45: Duy | G45: 16/08/2007 | H45: Nam | I45: 2025 | J45: An toàn thông tin
+A46: 45 | B46: Lớp 1 | C46: B25DCAT030 | D46: D25CQAT02-B | E46: Nguyễn Đức | F46: Duy | G46: 14/10/2007 | H46: Nam | I46: 2025 | J46: An toàn thông tin
+A47: 46 | B47: Lớp 1 | C47: B25DCAT031 | D47: D25CQAT03-B | E47: Nguyễn Đức | F47: Duy | G47: 08/08/2007 | H47: Nam | I47: 2025 | J47: An toàn thông tin
+A48: 47 | B48: Lớp 1 | C48: B25DCAT032 | D48: D25CQAT04-B | E48: Bùi Tiến | F48: Dũng | G48: 09/11/2006 | H48: Nam | I48: 2025 | J48: An toàn thông tin
+A49: 48 | B49: Lớp 1 | C49: B25DCAT033 | D49: D25CQAT01-B | E49: Phạm Anh | F49: Dũng | G49: 30/05/2007 | H49: Nam | I49: 2025 | J49: An toàn thông tin
+A50: 49 | B50: Lớp 1 | C50: B25DCAT034 | D50: D25CQAT02-B | E50: Vũ Ngô | F50: Dũng | G50: 29/05/2007 | H50: Nam | I50: 2025 | J50: An toàn thông tin
+A51: 50 | B51: Lớp 1 | C51: B25DCAT035 | D51: D25CTAT01-B | E51: Nguyễn Việt | F51: Dương | G51: 21/12/2007 | H51: Nam | I51: 2025 | J51: An toàn thông tin
+A52: 51 | B52: Lớp 1 | C52: B25DCAT036 | D52: D25CQAT04-B | E52: Nguyễn Hoàng | F52: Giang | G52: 11/08/2007 | H52: Nam | I52: 2025 | J52: An toàn thông tin
+A53: 52 | B53: Lớp 1 | C53: B25DCAT037 | D53: D25CTAT01-B | E53: Lê Minh | F53: Hiếu | G53: 24/01/2007 | H53: Nam | I53: 2025 | J53: An toàn thông tin
+A54: 53 | B54: Lớp 1 | C54: B25DCAT039 | D54: D25CQAT03-B | E54: Nguyễn Ngọc | F54: Hiếu | G54: 09/01/2007 | H54: Nam | I54: 2025 | J54: An toàn thông tin
+A55: 54 | B55: Lớp 1 | C55: B25DCAT040 | D55: D25CTAT01-B | E55: Nguyễn Trung | F55: Hiếu | G55: 19/09/2007 | H55: Nam | I55: 2025 | J55: An toàn thông tin
+A56: 55 | B56: Lớp 1 | C56: B25DCAT041 | D56: D25CTAT01-B | E56: Nguyễn Đình | F56: Hiếu | G56: 23/07/2007 | H56: Nam | I56: 2025 | J56: An toàn thông tin
+A57: 56 | B57: Lớp 1 | C57: B25DCAT042 | D57: D25CQAT02-B | E57: Ngô Trung | F57: Hiếu | G57: 20/04/2007 | H57: Nam | I57: 2025 | J57: An toàn thông tin
+A58: 57 | B58: Lớp 1 | C58: B25DCAT043 | D58: D25CTAT01-B | E58: Phạm Minh | F58: Hiếu | G58: 10/12/2007 | H58: Nam | I58: 2025 | J58: An toàn thông tin
+A59: 58 | B59: Lớp 1 | C59: B25DCAT044 | D59: D25CQAT04-B | E59: Hoàng Mai | F59: Hiền | G59: 31/10/2007 | H59: Nữ | I59: 2025 | J59: An toàn thông tin
+A60: 59 | B60: Lớp 1 | C60: B25DCAT046 | D60: D25CQAT02-B | E60: Nguyễn Văn | F60: Hiệp | G60: 07/07/2007 | H60: Nam | I60: 2025 | J60: An toàn thông tin
+A61: 60 | B61: Lớp 1 | C61: B25DCAT047 | D61: D25CQAT03-B | E61: Nguyễn Văn | F61: Hoan | G61: 26/11/2007 | H61: Nam | I61: 2025 | J61: An toàn thông tin
+A62: 61 | B62: Lớp 1 | C62: B25DCAT048 | D62: D25CQAT04-B | E62: Nguyễn Văn | F62: Hoàng | G62: 07/05/2007 | H62: Nam | I62: 2025 | J62: An toàn thông tin
+A63: 62 | B63: Lớp 1 | C63: B25DCAT049 | D63: D25CQAT01-B | E63: Đào Huy | F63: Hoàng | G63: 14/07/2007 | H63: Nam | I63: 2025 | J63: An toàn thông tin
+A64: 63 | B64: Lớp 1 | C64: B25DCAT050 | D64: D25CTAT01-B | E64: Bùi Quang | F64: Huy | G64: 17/10/2007 | H64: Nam | I64: 2025 | J64: An toàn thông tin
+A65: 64 | B65: Lớp 1 | C65: B25DCAT051 | D65: D25CQAT03-B | E65: Dương Mạnh | F65: Huy | G65: 20/09/2007 | H65: Nam | I65: 2025 | J65: An toàn thông tin
+A66: 65 | B66: Lớp 1 | C66: B25DCAT052 | D66: D25CTAT01-B | E66: Nguyễn Minh | F66: Huy | G66: 12/03/2007 | H66: Nam | I66: 2025 | J66: An toàn thông tin
+A67: 66 | B67: Lớp 1 | C67: B25DCAT053 | D67: D25CQAT01-B | E67: Phan Quang | F67: Huy | G67: 06/05/2007 | H67: Nam | I67: 2025 | J67: An toàn thông tin
+A68: 67 | B68: Lớp 1 | C68: B25DCAT054 | D68: D25CQAT02-B | E68: Tạ Công | F68: Huy | G68: 23/05/2007 | H68: Nam | I68: 2025 | J68: An toàn thông tin
+A69: 68 | B69: Lớp 1 | C69: B25DCAT055 | D69: D25CQAT03-B | E69: Võ Việt | F69: Hà | G69: 18/04/2007 | H69: Nam | I69: 2025 | J69: An toàn thông tin
+A70: 69 | B70: Lớp 1 | C70: B25DCAT056 | D70: D25CQAT04-B | E70: Nguyễn Thanh | F70: Hào | G70: 04/09/2007 | H70: Nam | I70: 2025 | J70: An toàn thông tin
+A71: 70 | B71: Lớp 1 | C71: B25DCAT057 | D71: D25CQAT01-B | E71: Nguyễn Thị Ngọc | F71: Hân | G71: 21/03/2007 | H71: Nữ | I71: 2025 | J71: An toàn thông tin
+A72: 71 | B72: Lớp 1 | C72: B25DCAT058 | D72: D25CQAT02-B | E72: Hồ Trọng | F72: Hùng | G72: 10/02/2007 | H72: Nam | I72: 2025 | J72: An toàn thông tin
+A73: 72 | B73: Lớp 1 | C73: B25DCAT059 | D73: D25CTAT01-B | E73: Trương Tuấn | F73: Hùng | G73: 31/10/2007 | H73: Nam | I73: 2025 | J73: An toàn thông tin
+A74: 73 | B74: Lớp 1 | C74: B25DCAT060 | D74: D25CQAT04-B | E74: Đặng Duy | F74: Hưng | G74: 12/02/2007 | H74: Nam | I74: 2025 | J74: An toàn thông tin
+A75: 74 | B75: Lớp 1 | C75: B25DCAT061 | D75: D25CTAT01-B | E75: Nguyễn Hồng | F75: Hạnh | G75: 09/08/2007 | H75: Nữ | I75: 2025 | J75: An toàn thông tin
+A76: 75 | B76: Lớp 1 | C76: B25DCAT062 | D76: D25CQAT02-B | E76: Lương Khắc | F76: Hải | G76: 28/10/2007 | H76: Nam | I76: 2025 | J76: An toàn thông tin
+A77: 76 | B77: Lớp 1 | C77: B25DCAT063 | D77: D25CQAT03-B | E77: Nguyễn Xuân | F77: Hải | G77: 16/02/2007 | H77: Nam | I77: 2025 | J77: An toàn thông tin
+A78: 77 | B78: Lớp 1 | C78: B25DCAT064 | D78: D25CQAT04-B | E78: Nguyễn Xuân Sơn | F78: Hải | G78: 03/08/2007 | H78: Nam | I78: 2025 | J78: An toàn thông tin
+A79: 78 | B79: Lớp 1 | C79: B25DCAT065 | D79: D25CTAT01-B | E79: Đỗ Hoàng Thanh | F79: Hải | G79: 24/09/2006 | H79: Nam | I79: 2025 | J79: An toàn thông tin
+A80: 79 | B80: Lớp 1 | C80: B25DCAT066 | D80: D25CQAT02-B | E80: Nguyễn Duy | F80: Học | G80: 25/06/2007 | H80: Nam | I80: 2025 | J80: An toàn thông tin
+A81: 80 | B81: Lớp 1 | C81: B25DCAT067 | D81: D25CQAT03-B | E81: Lê Gia | F81: Khoa | G81: 01/12/2007 | H81: Nam | I81: 2025 | J81: An toàn thông tin
+A82: 81 | B82: Lớp 1 | C82: B25DCAT068 | D82: D25CQAT04-B | E82: Phạm Gia | F82: Khánh | G82: 27/11/2007 | H82: Nam | I82: 2025 | J82: An toàn thông tin
+A83: 82 | B83: Lớp 1 | C83: B25DCAT069 | D83: D25CQAT01-B | E83: Phạm Vân | F83: Khánh | G83: 16/12/2007 | H83: Nữ | I83: 2025 | J83: An toàn thông tin
+A84: 83 | B84: Lớp 1 | C84: B25DCAT071 | D84: D25CQAT03-B | E84: Hoàng Minh | F84: Khôi | G84: 07/04/2007 | H84: Nam | I84: 2025 | J84: An toàn thông tin
+A85: 84 | B85: Lớp 1 | C85: B25DCAT072 | D85: D25CTAT01-B | E85: Phạm Phùng | F85: Khôi | G85: 15/03/2007 | H85: Nam | I85: 2025 | J85: An toàn thông tin
+A86: 85 | B86: Lớp 1 | C86: B25DCAT073 | D86: D25CQAT01-B | E86: Lê Trung | F86: Kiên | G86: 23/03/2007 | H86: Nam | I86: 2025 | J86: An toàn thông tin
+A87: 86 | B87: Lớp 1 | C87: B25DCAT074 | D87: D25CQAT02-B | E87: Lê Đình | F87: Kiên | G87: 01/04/2007 | H87: Nam | I87: 2025 | J87: An toàn thông tin
+A88: 87 | B88: Lớp 1 | C88: B25DCAT075 | D88: D25CQAT03-B | E88: Ngô Trung | F88: Kiên | G88: 24/07/2007 | H88: Nam | I88: 2025 | J88: An toàn thông tin
+A89: 88 | B89: Lớp 1 | C89: B25DCAT076 | D89: D25CQAT04-B | E89: Vũ Mạnh | F89: Kiên | G89: 29/06/2007 | H89: Nam | I89: 2025 | J89: An toàn thông tin
+A90: 89 | B90: Lớp 1 | C90: B25DCAT077 | D90: D25CQAT01-B | E90: Đoàn Lê | F90: Kiên | G90: 30/12/2007 | H90: Nam | I90: 2025 | J90: An toàn thông tin
+A91: 90 | B91: Lớp 1 | C91: B25DCAT078 | D91: D25CQAT02-B | E91: Bùi Ngọc | F91: Linh | G91: 26/08/2007 | H91: Nữ | I91: 2025 | J91: An toàn thông tin
+A92: 91 | B92: Lớp 1 | C92: B25DCAT079 | D92: D25CQAT03-B | E92: Bùi Thị | F92: Linh | G92: 19/02/2007 | H92: Nữ | I92: 2025 | J92: An toàn thông tin
+A93: 92 | B93: Lớp 1 | C93: B25DCAT080 | D93: D25CQAT04-B | E93: Phạm Duy | F93: Linh | G93: 25/07/2007 | H93: Nam | I93: 2025 | J93: An toàn thông tin
+A94: 93 | B94: Lớp 1 | C94: B25DCAT082 | D94: D25CQAT02-B | E94: Lê Thành | F94: Long | G94: 28/10/2006 | H94: Nam | I94: 2025 | J94: An toàn thông tin
+A95: 94 | B95: Lớp 1 | C95: B25DCAT083 | D95: D25CTAT01-B | E95: Nông Đức | F95: Long | G95: 25/01/2007 | H95: Nam | I95: 2025 | J95: An toàn thông tin
+A96: 95 | B96: Lớp 1 | C96: B25DCAT084 | D96: D25CQAT04-B | E96: Trần Duy | F96: Long | G96: 28/04/2007 | H96: Nam | I96: 2025 | J96: An toàn thông tin
+A97: 96 | B97: Lớp 1 | C97: B25DCAT086 | D97: D25CQAT02-B | E97: Vũ Bảo Tri | F97: Lâm | G97: 26/04/2007 | H97: Nam | I97: 2025 | J97: An toàn thông tin
+A98: 97 | B98: Lớp 1 | C98: B25DCAT087 | D98: D25CQAT03-B | E98: Nguyễn Đức | F98: Lương | G98: 17/12/2007 | H98: Nam | I98: 2025 | J98: An toàn thông tin
+A99: 98 | B99: Lớp 1 | C99: B25DCAT088 | D99: D25CQAT04-B | E99: Lại Văn | F99: Lộc | G99: 17/08/2007 | H99: Nam | I99: 2025 | J99: An toàn thông tin
+A100: 99 | B100: Lớp 1 | C100: B25DCAT089 | D100: D25CQAT01-B | E100: Nguyễn Hữu | F100: Lộc | G100: 20/02/2007 | H100: Nam | I100: 2025 | J100: An toàn thông tin
+A101: 100 | B101: Lớp 1 | C101: B25DCAT090 | D101: D25CQAT02-B | E101: Hoàng Anh | F101: Minh | G101: 20/03/2007 | H101: Nam | I101: 2025 | J101: An toàn thông tin
+A102: 101 | B102: Lớp 1 | C102: B25DCAT091 | D102: D25CQAT03-B | E102: Hoàng Gia | F102: Minh | G102: 19/12/2007 | H102: Nam | I102: 2025 | J102: An toàn thông tin
+A103: 102 | B103: Lớp 1 | C103: B25DCAT092 | D103: D25CQAT04-B | E103: Hoàng Nhật | F103: Minh | G103: 23/09/2007 | H103: Nam | I103: 2025 | J103: An toàn thông tin
+A104: 103 | B104: Lớp 1 | C104: B25DCAT093 | D104: D25CQAT01-B | E104: Lương Nguyễn Hoàng | F104: Minh | G104: 23/11/2007 | H104: Nam | I104: 2025 | J104: An toàn thông tin
+A105: 104 | B105: Lớp 1 | C105: B25DCAT094 | D105: D25CQAT02-B | E105: Nguyễn Quang | F105: Minh | G105: 31/08/2007 | H105: Nam | I105: 2025 | J105: An toàn thông tin
+A106: 105 | B106: Lớp 1 | C106: B25DCAT095 | D106: D25CQAT03-B | E106: Nguyễn Tuấn | F106: Minh | G106: 14/06/2007 | H106: Nam | I106: 2025 | J106: An toàn thông tin
+A107: 106 | B107: Lớp 1 | C107: B25DCAT096 | D107: D25CQAT04-B | E107: Phí Hoàng | F107: Minh | G107: 28/10/2007 | H107: Nam | I107: 2025 | J107: An toàn thông tin
+A108: 107 | B108: Lớp 1 | C108: B25DCAT097 | D108: D25CQAT01-B | E108: Phạm Nguyễn Tố | F108: Minh | G108: 10/01/2007 | H108: Nam | I108: 2025 | J108: An toàn thông tin
+A109: 108 | B109: Lớp 1 | C109: B25DCAT098 | D109: D25CQAT02-B | E109: Trương Tuấn | F109: Minh | G109: 28/11/2007 | H109: Nam | I109: 2025 | J109: An toàn thông tin
+A110: 109 | B110: Lớp 1 | C110: B25DCAT099 | D110: D25CQAT03-B | E110: Trần Đức | F110: Minh | G110: 03/04/2007 | H110: Nam | I110: 2025 | J110: An toàn thông tin
+A111: 110 | B111: Lớp 1 | C111: B25DCAT100 | D111: D25CQAT04-B | E111: Trịnh Hữu Quang | F111: Minh | G111: 25/10/2007 | H111: Nam | I111: 2025 | J111: An toàn thông tin
+A112: 111 | B112: Lớp 1 | C112: B25DCAT101 | D112: D25CQAT01-B | E112: Đào Nhật | F112: Minh | G112: 22/02/2003 | H112: Nam | I112: 2025 | J112: An toàn thông tin
+A113: 112 | B113: Lớp 1 | C113: B25DCAT102 | D113: D25CQAT02-B | E113: Đoàn Văn | F113: Mạnh | G113: 03/06/2007 | H113: Nam | I113: 2025 | J113: An toàn thông tin
+A114: 113 | B114: Lớp 1 | C114: B25DCAT103 | D114: D25CQAT03-B | E114: Đàm Đức | F114: Mạnh | G114: 08/04/2007 | H114: Nam | I114: 2025 | J114: An toàn thông tin
+A115: 114 | B115: Lớp 1 | C115: B25DCAT104 | D115: D25CQAT04-B | E115: Nguyễn Đức Hải | F115: Nam | G115: 30/12/2007 | H115: Nam | I115: 2025 | J115: An toàn thông tin
+A116: 115 | B116: Lớp 1 | C116: B25DCAT105 | D116: D25CQAT01-B | E116: Đàm Trí | F116: Nghĩa | G116: 21/09/2007 | H116: Nam | I116: 2025 | J116: An toàn thông tin
+A117: 116 | B117: Lớp 1 | C117: B25DCAT106 | D117: D25CQAT02-B | E117: Hoàng Phúc | F117: Nguyên | G117: 09/10/2007 | H117: Nam | I117: 2025 | J117: An toàn thông tin
+A118: 117 | B118: Lớp 1 | C118: B25DCAT107 | D118: D25CQAT03-B | E118: Lưu Bình | F118: Nguyên | G118: 18/06/2007 | H118: Nam | I118: 2025 | J118: An toàn thông tin
+A119: 118 | B119: Lớp 1 | C119: B25DCAT108 | D119: D25CTAT01-B | E119: Vũ Hữu | F119: Nguyên | G119: 12/11/2007 | H119: Nam | I119: 2025 | J119: An toàn thông tin
+A120: 119 | B120: Lớp 1 | C120: B25DCAT109 | D120: D25CQAT01-B | E120: Vũ Khôi | F120: Nguyên | G120: 20/01/2007 | H120: Nam | I120: 2025 | J120: An toàn thông tin
+A121: 120 | B121: Lớp 1 | C121: B25DCAT110 | D121: D25CQAT02-B | E121: Đặng Thị Hoàng | F121: Ngân | G121: 18/10/2007 | H121: Nữ | I121: 2025 | J121: An toàn thông tin
+A122: 121 | B122: Lớp 1 | C122: B25DCAT111 | D122: D25CQAT03-B | E122: Nguyễn Duy | F122: Phong | G122: 21/02/2007 | H122: Nam | I122: 2025 | J122: An toàn thông tin
+A123: 122 | B123: Lớp 1 | C123: B25DCAT112 | D123: D25CQAT04-B | E123: Nhâm Sĩ Tuấn | F123: Phong | G123: 11/11/2007 | H123: Nam | I123: 2025 | J123: An toàn thông tin
+A124: 123 | B124: Lớp 1 | C124: B25DCAT113 | D124: D25CQAT01-B | E124: Phạm Công | F124: Phú | G124: 13/07/2007 | H124: Nam | I124: 2025 | J124: An toàn thông tin
+A125: 124 | B125: Lớp 1 | C125: B25DCAT114 | D125: D25CQAT02-B | E125: Bùi Hồng | F125: Phúc | G125: 12/04/2007 | H125: Nam | I125: 2025 | J125: An toàn thông tin
+A126: 125 | B126: Lớp 1 | C126: B25DCAT116 | D126: D25CQAT04-B | E126: Mai Việt | F126: Quang | G126: 19/01/2007 | H126: Nam | I126: 2025 | J126: An toàn thông tin
+A127: 126 | B127: Lớp 1 | C127: B25DCAT117 | D127: D25CQAT01-B | E127: Nguyễn Anh | F127: Quang | G127: 17/09/2007 | H127: Nam | I127: 2025 | J127: An toàn thông tin
+A128: 127 | B128: Lớp 1 | C128: B25DCAT118 | D128: D25CQAT02-B | E128: Phạm Minh | F128: Quang | G128: 03/08/2007 | H128: Nam | I128: 2025 | J128: An toàn thông tin
+A129: 128 | B129: Lớp 1 | C129: B25DCAT119 | D129: D25CQAT03-B | E129: Dương Minh | F129: Quân | G129: 16/01/2007 | H129: Nam | I129: 2025 | J129: An toàn thông tin
+A130: 129 | B130: Lớp 1 | C130: B25DCAT120 | D130: D25CQAT04-B | E130: Hồ Nhật | F130: Quân | G130: 12/01/2007 | H130: Nam | I130: 2025 | J130: An toàn thông tin
+A131: 130 | B131: Lớp 1 | C131: B25DCAT121 | D131: D25CQAT01-B | E131: Nguyễn Vũ Minh | F131: Quân | G131: 24/09/2007 | H131: Nam | I131: 2025 | J131: An toàn thông tin
+A132: 131 | B132: Lớp 1 | C132: B25DCAT122 | D132: D25CQAT02-B | E132: Phạm Đình | F132: Quân | G132: 28/02/2007 | H132: Nam | I132: 2025 | J132: An toàn thông tin
+A133: 132 | B133: Lớp 1 | C133: B25DCAT123 | D133: D25CQAT03-B | E133: Thái Đặng Minh | F133: Quân | G133: 15/06/2007 | H133: Nam | I133: 2025 | J133: An toàn thông tin
+A134: 133 | B134: Lớp 1 | C134: B25DCAT124 | D134: D25CQAT04-B | E134: Trương Minh | F134: Quân | G134: 10/07/2007 | H134: Nam | I134: 2025 | J134: An toàn thông tin
+A135: 134 | B135: Lớp 1 | C135: B25DCAT125 | D135: D25CQAT01-B | E135: Bùi Đình Ngọc | F135: Quý | G135: 10/02/2007 | H135: Nam | I135: 2025 | J135: An toàn thông tin
+A136: 135 | B136: Lớp 1 | C136: B25DCAT126 | D136: D25CQAT02-B | E136: Đặng Phú | F136: Quý | G136: 23/02/2007 | H136: Nam | I136: 2025 | J136: An toàn thông tin
+A137: 136 | B137: Lớp 1 | C137: B25DCAT127 | D137: D25CQAT03-B | E137: Nguyễn Đình | F137: Sơn | G137: 17/09/2007 | H137: Nam | I137: 2025 | J137: An toàn thông tin
+A138: 137 | B138: Lớp 1 | C138: B25DCAT128 | D138: D25CTAT01-B | E138: Nguyễn Đăng Phúc | F138: Sơn | G138: 15/07/2007 | H138: Nam | I138: 2025 | J138: An toàn thông tin
+A139: 138 | B139: Lớp 1 | C139: B25DCAT129 | D139: D25CTAT01-B | E139: Phùng Đăng | F139: Sơn | G139: 10/09/2007 | H139: Nam | I139: 2025 | J139: An toàn thông tin
+A140: 139 | B140: Lớp 1 | C140: B25DCAT130 | D140: D25CQAT02-B | E140: Vũ Hoàng | F140: Sơn | G140: 17/09/2007 | H140: Nam | I140: 2025 | J140: An toàn thông tin
+A141: 140 | B141: Lớp 1 | C141: B25DCAT131 | D141: D25CQAT03-B | E141: Phạm Vũ Minh | F141: Thiện | G141: 01/04/2007 | H141: Nam | I141: 2025 | J141: An toàn thông tin
+A142: 141 | B142: Lớp 1 | C142: B25DCAT132 | D142: D25CQAT04-B | E142: Đinh Đức | F142: Thiện | G142: 02/11/2007 | H142: Nam | I142: 2025 | J142: An toàn thông tin
+A143: 142 | B143: Lớp 1 | C143: B25DCAT133 | D143: D25CQAT01-B | E143: Đàm Bảo | F143: Thiện | G143: 05/06/2007 | H143: Nam | I143: 2025 | J143: An toàn thông tin
+A144: 143 | B144: Lớp 1 | C144: B25DCAT134 | D144: D25CQAT02-B | E144: Lê Văn | F144: Thuận | G144: 12/09/2007 | H144: Nam | I144: 2025 | J144: An toàn thông tin
+A145: 144 | B145: Lớp 1 | C145: B25DCAT135 | D145: D25CTAT01-B | E145: Hà Huy | F145: Thành | G145: 22/03/2007 | H145: Nam | I145: 2025 | J145: An toàn thông tin
+A146: 145 | B146: Lớp 1 | C146: B25DCAT136 | D146: D25CQAT04-B | E146: Lê Tiến | F146: Thành | G146: 17/11/2007 | H146: Nam | I146: 2025 | J146: An toàn thông tin
+A147: 146 | B147: Lớp 1 | C147: B25DCAT137 | D147: D25CTAT01-B | E147: Nguyễn Trường | F147: Thành | G147: 21/03/2007 | H147: Nam | I147: 2025 | J147: An toàn thông tin
+A148: 147 | B148: Lớp 1 | C148: B25DCAT138 | D148: D25CTAT01-B | E148: Nguyễn Xuân | F148: Thành | G148: 26/12/2007 | H148: Nam | I148: 2025 | J148: An toàn thông tin
+A149: 148 | B149: Lớp 1 | C149: B25DCAT139 | D149: D25CQAT03-B | E149: Phạm Tuấn | F149: Thành | G149: 18/08/2007 | H149: Nam | I149: 2025 | J149: An toàn thông tin
+A150: 149 | B150: Lớp 1 | C150: B25DCAT140 | D150: D25CQAT04-B | E150: Trần Tiến | F150: Thành | G150: 09/12/2007 | H150: Nam | I150: 2025 | J150: An toàn thông tin
+A151: 150 | B151: Lớp 1 | C151: B25DCAT142 | D151: D25CTAT01-B | E151: Hoàng Thị Phương | F151: Thúy | G151: 27/07/2007 | H151: Nữ | I151: 2025 | J151: An toàn thông tin
+A152: 151 | B152: Lớp 1 | C152: B25DCAT143 | D152: D25CQAT03-B | E152: Nguyễn Phương | F152: Thảo | G152: 28/04/2007 | H152: Nữ | I152: 2025 | J152: An toàn thông tin
+A153: 152 | B153: Lớp 1 | C153: B25DCAT144 | D153: D25CQAT04-B | E153: Lương Việt | F153: Thắng | G153: 06/08/2007 | H153: Nam | I153: 2025 | J153: An toàn thông tin
+A154: 153 | B154: Lớp 1 | C154: B25DCAT145 | D154: D25CTAT01-B | E154: Nguyễn Hữu | F154: Thắng | G154: 15/02/2007 | H154: Nam | I154: 2025 | J154: An toàn thông tin
+A155: 154 | B155: Lớp 1 | C155: B25DCAT146 | D155: D25CTAT01-B | E155: Đỗ Khắc | F155: Thịnh | G155: 25/03/2007 | H155: Nam | I155: 2025 | J155: An toàn thông tin
+A156: 155 | B156: Lớp 1 | C156: B25DCAT148 | D156: D25CTAT01-B | E156: Phạm Nhật | F156: Thức | G156: 18/01/2007 | H156: Nam | I156: 2025 | J156: An toàn thông tin
+A157: 156 | B157: Lớp 1 | C157: B25DCAT149 | D157: D25CQAT01-B | E157: Lê Anh | F157: Tiến | G157: 31/05/2007 | H157: Nam | I157: 2025 | J157: An toàn thông tin
+A158: 157 | B158: Lớp 1 | C158: B25DCAT150 | D158: D25CQAT02-B | E158: Trịnh Lê Việt | F158: Tiệp | G158: 30/04/2007 | H158: Nam | I158: 2025 | J158: An toàn thông tin
+A159: 158 | B159: Lớp 1 | C159: B25DCAT151 | D159: D25CQAT03-B | E159: Lê Việt | F159: Trung | G159: 22/01/2007 | H159: Nam | I159: 2025 | J159: An toàn thông tin
+A160: 159 | B160: Lớp 1 | C160: B25DCAT152 | D160: D25CTAT01-B | E160: Nguyễn Khắc | F160: Trung | G160: 19/12/2007 | H160: Nam | I160: 2025 | J160: An toàn thông tin
+A161: 160 | B161: Lớp 1 | C161: B25DCAT153 | D161: D25CQAT01-B | E161: Nguyễn Quốc | F161: Trung | G161: 15/12/2007 | H161: Nam | I161: 2025 | J161: An toàn thông tin
+A162: 161 | B162: Lớp 1 | C162: B25DCAT154 | D162: D25CQAT02-B | E162: Trần Văn | F162: Trung | G162: 05/09/2007 | H162: Nam | I162: 2025 | J162: An toàn thông tin
+A163: 162 | B163: Lớp 1 | C163: B25DCAT155 | D163: D25CQAT03-B | E163: Nguyễn Đăng Minh | F163: Trí | G163: 29/10/2007 | H163: Nam | I163: 2025 | J163: An toàn thông tin
+A164: 163 | B164: Lớp 1 | C164: B25DCAT156 | D164: D25CQAT04-B | E164: Nguyễn Minh | F164: Tuấn | G164: 07/09/2007 | H164: Nam | I164: 2025 | J164: An toàn thông tin
+A165: 164 | B165: Lớp 1 | C165: B25DCAT158 | D165: D25CQAT02-B | E165: Nguyễn Trần Mạnh | F165: Tuấn | G165: 08/10/2007 | H165: Nam | I165: 2025 | J165: An toàn thông tin
+A166: 165 | B166: Lớp 1 | C166: B25DCAT159 | D166: D25CQAT03-B | E166: Nguyễn Sĩ | F166: Tài | G166: 11/06/2007 | H166: Nam | I166: 2025 | J166: An toàn thông tin
+A167: 166 | B167: Lớp 1 | C167: B25DCAT160 | D167: D25CTAT01-B | E167: Trịnh Tuấn | F167: Tài | G167: 16/11/2007 | H167: Nam | I167: 2025 | J167: An toàn thông tin
+A168: 167 | B168: Lớp 1 | C168: B25DCAT161 | D168: D25CQAT01-B | E168: Trần Minh | F168: Tâm | G168: 20/12/2007 | H168: Nam | I168: 2025 | J168: An toàn thông tin
+A169: 168 | B169: Lớp 1 | C169: B25DCAT163 | D169: D25CQAT03-B | E169: Trần Nhật | F169: Tân | G169: 10/05/2007 | H169: Nam | I169: 2025 | J169: An toàn thông tin
+A170: 169 | B170: Lớp 1 | C170: B25DCAT164 | D170: D25CQAT04-B | E170: Nguyễn Quý | F170: Tùng | G170: 23/03/2007 | H170: Nam | I170: 2025 | J170: An toàn thông tin
+A171: 170 | B171: Lớp 1 | C171: B25DCAT165 | D171: D25CQAT01-B | E171: Ngô Đức | F171: Tùng | G171: 08/09/2007 | H171: Nam | I171: 2025 | J171: An toàn thông tin
+A172: 171 | B172: Lớp 1 | C172: B25DCAT166 | D172: D25CQAT02-B | E172: Tạ Đăng | F172: Tùng | G172: 23/02/2007 | H172: Nam | I172: 2025 | J172: An toàn thông tin
+A173: 172 | B173: Lớp 1 | C173: B25DCAT167 | D173: D25CQAT03-B | E173: Vũ Đình | F173: Tùng | G173: 09/03/2007 | H173: Nam | I173: 2025 | J173: An toàn thông tin
+A174: 173 | B174: Lớp 1 | C174: B25DCAT168 | D174: D25CQAT04-B | E174: Nguyễn Mạnh | F174: Tú | G174: 01/02/2007 | H174: Nam | I174: 2025 | J174: An toàn thông tin
+A175: 174 | B175: Lớp 1 | C175: B25DCAT169 | D175: D25CQAT01-B | E175: Nguyễn Đình | F175: Tú | G175: 26/07/2004 | H175: Nam | I175: 2025 | J175: An toàn thông tin
+A176: 175 | B176: Lớp 1 | C176: B25DCAT170 | D176: D25CQAT02-B | E176: Đỗ Tuấn | F176: Tú | G176: 27/10/2007 | H176: Nam | I176: 2025 | J176: An toàn thông tin
+A177: 176 | B177: Lớp 1 | C177: B25DCAT171 | D177: D25CQAT03-B | E177: Phí Trọng | F177: Tấn | G177: 10/08/2007 | H177: Nam | I177: 2025 | J177: An toàn thông tin
+A178: 177 | B178: Lớp 1 | C178: B25DCAT172 | D178: D25CQAT04-B | E178: Đặng Phương | F178: Uyên | G178: 26/01/2007 | H178: Nữ | I178: 2025 | J178: An toàn thông tin
+A179: 178 | B179: Lớp 1 | C179: B25DCAT174 | D179: D25CQAT02-B | E179: Nguyễn Quang | F179: Vinh | G179: 18/05/2007 | H179: Nam | I179: 2025 | J179: An toàn thông tin
+A180: 179 | B180: Lớp 1 | C180: B25DCAT175 | D180: D25CQAT03-B | E180: Phạm Quang | F180: Vinh | G180: 01/05/2007 | H180: Nam | I180: 2025 | J180: An toàn thông tin
+A181: 180 | B181: Lớp 1 | C181: B25DCAT176 | D181: D25CQAT04-B | E181: Đào Nguyễn Đức | F181: Vinh | G181: 02/09/2007 | H181: Nam | I181: 2025 | J181: An toàn thông tin
+A182: 181 | B182: Lớp 1 | C182: B25DCAT177 | D182: D25CQAT01-B | E182: Hoàng | F182: Việt | G182: 23/09/2007 | H182: Nam | I182: 2025 | J182: An toàn thông tin
+A183: 182 | B183: Lớp 1 | C183: B25DCAT178 | D183: D25CQAT02-B | E183: Nguyễn Anh | F183: Việt | G183: 22/03/2007 | H183: Nam | I183: 2025 | J183: An toàn thông tin
+A184: 183 | B184: Lớp 1 | C184: B25DCAT179 | D184: D25CQAT03-B | E184: Nguyễn Trọng Hoàng | F184: Việt | G184: 12/08/2007 | H184: Nam | I184: 2025 | J184: An toàn thông tin
+A185: 184 | B185: Lớp 1 | C185: B25DCAT180 | D185: D25CQAT04-B | E185: Trần Đình | F185: Việt | G185: 18/09/2007 | H185: Nam | I185: 2025 | J185: An toàn thông tin
+A186: 185 | B186: Lớp 1 | C186: B25DCAT181 | D186: D25CQAT01-B | E186: Vũ Đức | F186: Việt | G186: 21/07/2007 | H186: Nam | I186: 2025 | J186: An toàn thông tin
+A187: 186 | B187: Lớp 1 | C187: B25DCAT182 | D187: D25CQAT02-B | E187: Nguyễn Thị Thảo | F187: Vân | G187: 22/12/2007 | H187: Nữ | I187: 2025 | J187: An toàn thông tin
+A188: 187 | B188: Lớp 1 | C188: B25DCAT183 | D188: D25CQAT03-B | E188: Hoàng Thị Hải | F188: Yến | G188: 29/10/2007 | H188: Nữ | I188: 2025 | J188: An toàn thông tin
+A189: 188 | B189: Lớp 1 | C189: B25DCAT184 | D189: D25CQAT04-B | E189: Trần Ngọc | F189: Ánh | G189: 25/11/2007 | H189: Nữ | I189: 2025 | J189: An toàn thông tin
+A190: 189 | B190: Lớp 1 | C190: B25DCAT185 | D190: D25CQAT01-B | E190: Lưu Quý | F190: Đôn | G190: 04/10/2007 | H190: Nam | I190: 2025 | J190: An toàn thông tin
+A191: 190 | B191: Lớp 1 | C191: B25DCAT186 | D191: D25CQAT02-B | E191: Nguyễn Văn | F191: Đông | G191: 14/07/2007 | H191: Nam | I191: 2025 | J191: An toàn thông tin
+A192: 191 | B192: Lớp 1 | C192: B25DCAT187 | D192: D25CQAT03-B | E192: Nhữ Hải | F192: Đăng | G192: 21/09/2007 | H192: Nam | I192: 2025 | J192: An toàn thông tin
+A193: 192 | B193: Lớp 1 | C193: B25DCAT188 | D193: D25CQAT04-B | E193: Tạ Hồng Hải | F193: Đăng | G193: 03/02/2007 | H193: Nam | I193: 2025 | J193: An toàn thông tin
+A194: 193 | B194: Lớp 1 | C194: B25DCAT190 | D194: D25CTAT01-B | E194: Nguyễn Trọng | F194: Đạt | G194: 22/01/2007 | H194: Nam | I194: 2025 | J194: An toàn thông tin
+A195: 194 | B195: Lớp 1 | C195: B25DCAT191 | D195: D25CQAT03-B | E195: Phạm Minh | F195: Đạt | G195: 14/11/2007 | H195: Nam | I195: 2025 | J195: An toàn thông tin
+A196: 195 | B196: Lớp 1 | C196: B25DCAT192 | D196: D25CQAT04-B | E196: Phạm Thành | F196: Đạt | G196: 10/03/2007 | H196: Nam | I196: 2025 | J196: An toàn thông tin
+A197: 196 | B197: Lớp 1 | C197: B25DCAT193 | D197: D25CQAT01-B | E197: Phạm Tiến | F197: Đạt | G197: 11/08/2007 | H197: Nam | I197: 2025 | J197: An toàn thông tin
+A198: 197 | B198: Lớp 1 | C198: B25DCAT194 | D198: D25CQAT02-B | E198: Đỗ Tiến | F198: Đạt | G198: 05/10/2007 | H198: Nam | I198: 2025 | J198: An toàn thông tin
+A199: 198 | B199: Lớp 1 | C199: B25DCAT195 | D199: D25CQAT03-B | E199: Nguyễn Mạnh | F199: Đức | G199: 29/06/2007 | H199: Nam | I199: 2025 | J199: An toàn thông tin
+A200: 199 | B200: Lớp 1 | C200: B25DCAT196 | D200: D25CQAT04-B | E200: Nguyễn Như | F200: Đức | G200: 28/05/2007 | H200: Nam | I200: 2025 | J200: An toàn thông tin
+A201: 200 | B201: Lớp 1 | C201: B25DCAT197 | D201: D25CQAT01-B | E201: Nguyễn Trung | F201: Đức | G201: 04/12/2007 | H201: Nam | I201: 2025 | J201: An toàn thông tin
+A202: 201 | B202: Lớp 1 | C202: B25DCAT198 | D202: D25CTAT01-B | E202: Nguyễn Trí | F202: Đức | G202: 23/01/2007 | H202: Nam | I202: 2025 | J202: An toàn thông tin
+A203: 202 | B203: Lớp 1 | C203: B25DCAT199 | D203: D25CQAT03-B | E203: Phạm Minh | F203: Đức | G203: 01/02/2007 | H203: Nam | I203: 2025 | J203: An toàn thông tin
+A204: 203 | B204: Lớp 1 | C204: B25DCAT200 | D204: D25CQAT04-B | E204: Trương Minh | F204: Đức | G204: 06/01/2007 | H204: Nam | I204: 2025 | J204: An toàn thông tin
+A205: 204 | B205: Lớp 1 | C205: B25DCAT201 | D205: D25CQAT01-B | E205: Vũ Hữu | F205: Đức | G205: 14/09/2007 | H205: Nam | I205: 2025 | J205: An toàn thông tin
+A206: 205 | B206: Lớp 2 | C206: B25DCCE216 | D206: D25CQCE06-B | E206: Lê Minh | F206: Quân | G206: 15/04/2007 | H206: Nam | I206: 2025 | J206: Công nghệ thông tin (chất lượng cao)
+A207: 206 | B207: Lớp 2 | C207: B25DCCN168 | D207: D25CQCN03-B | E207: Phạm Quang | F207: Hiệp | G207: 07/08/2007 | H207: Nam | I207: 2025 | J207: Công nghệ thông tin
+A208: 207 | B208: Lớp 2 | C208: B25DCDK001 | D208: D25CQDK01-B | E208: Nguyễn Khánh | F208: An | G208: 06/07/2007 | H208: Nam | I208: 2025 | J208: Kỹ thuật Điều khiển và Tự động hoá
+A209: 208 | B209: Lớp 2 | C209: B25DCDK002 | D209: D25CQDK02-B | E209: Bùi Đức | F209: Anh | G209: 17/12/2007 | H209: Nam | I209: 2025 | J209: Kỹ thuật Điều khiển và Tự động hoá
+A210: 209 | B210: Lớp 2 | C210: B25DCDK003 | D210: D25CQDK01-B | E210: Dương Tuấn | F210: Anh | G210: 08/04/2007 | H210: Nam | I210: 2025 | J210: Kỹ thuật Điều khiển và Tự động hoá
+A211: 210 | B211: Lớp 2 | C211: B25DCDK004 | D211: D25CQDK02-B | E211: Phan Việt | F211: Anh | G211: 13/08/2007 | H211: Nam | I211: 2025 | J211: Kỹ thuật Điều khiển và Tự động hoá
+A212: 211 | B212: Lớp 2 | C212: B25DCDK005 | D212: D25CTDK01-B | E212: Phạm Quang | F212: Anh | G212: 15/11/2007 | H212: Nam | I212: 2025 | J212: Kỹ thuật Điều khiển và Tự động hoá
+A213: 212 | B213: Lớp 2 | C213: B25DCDK006 | D213: D25CTDK01-B | E213: Thân Nhân Hải | F213: Anh | G213: 25/09/2007 | H213: Nam | I213: 2025 | J213: Kỹ thuật Điều khiển và Tự động hoá
+A214: 213 | B214: Lớp 2 | C214: B25DCDK008 | D214: D25CQDK02-B | E214: Vương Tuấn | F214: Anh | G214: 06/09/2007 | H214: Nam | I214: 2025 | J214: Kỹ thuật Điều khiển và Tự động hoá
+A215: 214 | B215: Lớp 2 | C215: B25DCDK009 | D215: D25CQDK01-B | E215: Đỗ Đức | F215: Anh | G215: 24/01/2007 | H215: Nam | I215: 2025 | J215: Kỹ thuật Điều khiển và Tự động hoá
+A216: 215 | B216: Lớp 2 | C216: B25DCDK010 | D216: D25CTDK01-B | E216: Nguyễn Điện | F216: Biên | G216: 07/05/2007 | H216: Nam | I216: 2025 | J216: Kỹ thuật Điều khiển và Tự động hoá
+A217: 216 | B217: Lớp 2 | C217: B25DCDK011 | D217: D25CQDK01-B | E217: Nguyễn Công Việt | F217: Bách | G217: 28/10/2007 | H217: Nam | I217: 2025 | J217: Kỹ thuật Điều khiển và Tự động hoá
+A218: 217 | B218: Lớp 2 | C218: B25DCDK012 | D218: D25CQDK02-B | E218: Lý Gia | F218: Bình | G218: 04/09/2007 | H218: Nam | I218: 2025 | J218: Kỹ thuật Điều khiển và Tự động hoá
+A219: 218 | B219: Lớp 2 | C219: B25DCDK013 | D219: D25CQDK01-B | E219: Mai An | F219: Bình | G219: 10/01/2007 | H219: Nữ | I219: 2025 | J219: Kỹ thuật Điều khiển và Tự động hoá
+A220: 219 | B220: Lớp 2 | C220: B25DCDK014 | D220: D25CQDK02-B | E220: Dương Gia | F220: Bảo | G220: 24/05/2007 | H220: Nam | I220: 2025 | J220: Kỹ thuật Điều khiển và Tự động hoá
+A221: 220 | B221: Lớp 2 | C221: B25DCDK015 | D221: D25CTDK01-B | E221: Phạm Trần Quốc | F221: Bảo | G221: 11/01/2007 | H221: Nam | I221: 2025 | J221: Kỹ thuật Điều khiển và Tự động hoá
+A222: 221 | B222: Lớp 2 | C222: B25DCDK016 | D222: D25CTDK01-B | E222: Thịnh Văn | F222: Bằng | G222: 14/06/2007 | H222: Nam | I222: 2025 | J222: Kỹ thuật Điều khiển và Tự động hoá
+A223: 222 | B223: Lớp 2 | C223: B25DCDK017 | D223: D25CTDK01-B | E223: Dương Việt | F223: Cường | G223: 04/01/2007 | H223: Nam | I223: 2025 | J223: Kỹ thuật Điều khiển và Tự động hoá
+A224: 223 | B224: Lớp 2 | C224: B25DCDK018 | D224: D25CQDK02-B | E224: Nguyễn Tuấn | F224: Cường | G224: 24/03/2007 | H224: Nam | I224: 2025 | J224: Kỹ thuật Điều khiển và Tự động hoá
+A225: 224 | B225: Lớp 2 | C225: B25DCDK019 | D225: D25CQDK01-B | E225: Trần Hữu | F225: Cường | G225: 22/12/2007 | H225: Nam | I225: 2025 | J225: Kỹ thuật Điều khiển và Tự động hoá
+A226: 225 | B226: Lớp 2 | C226: B25DCDK020 | D226: D25CTDK01-B | E226: Trịnh Hùng | F226: Cường | G226: 09/06/2007 | H226: Nam | I226: 2025 | J226: Kỹ thuật Điều khiển và Tự động hoá
+A227: 226 | B227: Lớp 2 | C227: B25DCDK021 | D227: D25CQDK01-B | E227: Bùi Khánh | F227: Duy | G227: 13/09/2007 | H227: Nam | I227: 2025 | J227: Kỹ thuật Điều khiển và Tự động hoá
+A228: 227 | B228: Lớp 2 | C228: B25DCDK022 | D228: D25CQDK02-B | E228: Nguyễn Đức | F228: Duẩn | G228: 23/08/2007 | H228: Nam | I228: 2025 | J228: Kỹ thuật Điều khiển và Tự động hoá
+A229: 228 | B229: Lớp 2 | C229: B25DCDK023 | D229: D25CQDK01-B | E229: Nguyễn Tiến | F229: Dũng | G229: 01/12/2007 | H229: Nam | I229: 2025 | J229: Kỹ thuật Điều khiển và Tự động hoá
+A230: 229 | B230: Lớp 2 | C230: B25DCDK024 | D230: D25CQDK02-B | E230: Phạm Quang | F230: Dũng | G230: 14/08/2007 | H230: Nam | I230: 2025 | J230: Kỹ thuật Điều khiển và Tự động hoá
+A231: 230 | B231: Lớp 2 | C231: B25DCDK025 | D231: D25CTDK01-B | E231: Vũ Đinh Đức | F231: Dương | G231: 08/07/2007 | H231: Nam | I231: 2025 | J231: Kỹ thuật Điều khiển và Tự động hoá
+A232: 231 | B232: Lớp 2 | C232: B25DCDK026 | D232: D25CTDK01-B | E232: Mai Hoàng | F232: Giang | G232: 14/04/2007 | H232: Nam | I232: 2025 | J232: Kỹ thuật Điều khiển và Tự động hoá
+A233: 232 | B233: Lớp 2 | C233: B25DCDK027 | D233: D25CQDK01-B | E233: Hồ Minh | F233: Hiếu | G233: 25/12/2007 | H233: Nam | I233: 2025 | J233: Kỹ thuật Điều khiển và Tự động hoá
+A234: 233 | B234: Lớp 2 | C234: B25DCDK028 | D234: D25CQDK02-B | E234: Lại Xuân | F234: Hiếu | G234: 12/03/2007 | H234: Nam | I234: 2025 | J234: Kỹ thuật Điều khiển và Tự động hoá
+A235: 234 | B235: Lớp 2 | C235: B25DCDK029 | D235: D25CTDK01-B | E235: Nguyễn Minh | F235: Hiếu | G235: 04/03/2007 | H235: Nam | I235: 2025 | J235: Kỹ thuật Điều khiển và Tự động hoá
+A236: 235 | B236: Lớp 2 | C236: B25DCDK030 | D236: D25CQDK02-B | E236: Nguyễn Minh | F236: Hiếu | G236: 21/06/2007 | H236: Nam | I236: 2025 | J236: Kỹ thuật Điều khiển và Tự động hoá
+A237: 236 | B237: Lớp 2 | C237: B25DCDK031 | D237: D25CTDK01-B | E237: Nguyễn Minh | F237: Hiếu | G237: 16/11/2007 | H237: Nam | I237: 2025 | J237: Kỹ thuật Điều khiển và Tự động hoá
+A238: 237 | B238: Lớp 2 | C238: B25DCDK032 | D238: D25CQDK02-B | E238: Nguyễn Minh | F238: Hiếu | G238: 13/12/2007 | H238: Nam | I238: 2025 | J238: Kỹ thuật Điều khiển và Tự động hoá
+A239: 238 | B239: Lớp 2 | C239: B25DCDK033 | D239: D25CQDK01-B | E239: Trần Lê | F239: Hiếu | G239: 23/09/2007 | H239: Nam | I239: 2025 | J239: Kỹ thuật Điều khiển và Tự động hoá
+A240: 239 | B240: Lớp 2 | C240: B25DCDK034 | D240: D25CQDK02-B | E240: Đoàn Quang | F240: Hiếu | G240: 04/03/2007 | H240: Nam | I240: 2025 | J240: Kỹ thuật Điều khiển và Tự động hoá
+A241: 240 | B241: Lớp 2 | C241: B25DCDK035 | D241: D25CQDK01-B | E241: Trần Đức | F241: Hiệp | G241: 19/03/2007 | H241: Nam | I241: 2025 | J241: Kỹ thuật Điều khiển và Tự động hoá
+A242: 241 | B242: Lớp 2 | C242: B25DCDK036 | D242: D25CTDK01-B | E242: Nguyễn Công | F242: Hoan | G242: 17/02/2007 | H242: Nam | I242: 2025 | J242: Kỹ thuật Điều khiển và Tự động hoá
+A243: 242 | B243: Lớp 2 | C243: B25DCDK037 | D243: D25CTDK01-B | E243: Vũ Đức | F243: Hoàn | G243: 01/03/2007 | H243: Nam | I243: 2025 | J243: Kỹ thuật Điều khiển và Tự động hoá
+A244: 243 | B244: Lớp 2 | C244: B25DCDK038 | D244: D25CQDK02-B | E244: Phan Văn | F244: Hoàng | G244: 24/08/2007 | H244: Nam | I244: 2025 | J244: Kỹ thuật Điều khiển và Tự động hoá
+A245: 244 | B245: Lớp 2 | C245: B25DCDK039 | D245: D25CQDK01-B | E245: Vũ Đức | F245: Hoàng | G245: 11/03/2007 | H245: Nam | I245: 2025 | J245: Kỹ thuật Điều khiển và Tự động hoá
+A246: 245 | B246: Lớp 2 | C246: B25DCDK040 | D246: D25CQDK02-B | E246: Hoàng Gia | F246: Huy | G246: 01/01/2007 | H246: Nam | I246: 2025 | J246: Kỹ thuật Điều khiển và Tự động hoá
+A247: 246 | B247: Lớp 2 | C247: B25DCDK041 | D247: D25CQDK01-B | E247: Nguyễn Ngọc | F247: Huy | G247: 25/09/2007 | H247: Nam | I247: 2025 | J247: Kỹ thuật Điều khiển và Tự động hoá
+A248: 247 | B248: Lớp 2 | C248: B25DCDK042 | D248: D25CQDK02-B | E248: Nguyễn Nhất | F248: Huy | G248: 19/08/2007 | H248: Nam | I248: 2025 | J248: Kỹ thuật Điều khiển và Tự động hoá
+A249: 248 | B249: Lớp 2 | C249: B25DCDK043 | D249: D25CQDK01-B | E249: Nguyễn Quang | F249: Huy | G249: 26/02/2007 | H249: Nam | I249: 2025 | J249: Kỹ thuật Điều khiển và Tự động hoá
+A250: 249 | B250: Lớp 2 | C250: B25DCDK044 | D250: D25CQDK02-B | E250: Phạm Văn | F250: Huy | G250: 14/01/2007 | H250: Nam | I250: 2025 | J250: Kỹ thuật Điều khiển và Tự động hoá
+A251: 250 | B251: Lớp 2 | C251: B25DCDK046 | D251: D25CQDK02-B | E251: Lưu Duy | F251: Hòa | G251: 28/08/2007 | H251: Nam | I251: 2025 | J251: Kỹ thuật Điều khiển và Tự động hoá
+A252: 251 | B252: Lớp 2 | C252: B25DCDK047 | D252: D25CQDK01-B | E252: Lê Mạnh | F252: Hùng | G252: 06/03/2007 | H252: Nam | I252: 2025 | J252: Kỹ thuật Điều khiển và Tự động hoá
+A253: 252 | B253: Lớp 2 | C253: B25DCDK048 | D253: D25CQDK02-B | E253: Nguyễn Đức | F253: Hùng | G253: 28/02/2007 | H253: Nam | I253: 2025 | J253: Kỹ thuật Điều khiển và Tự động hoá
+A254: 253 | B254: Lớp 2 | C254: B25DCDK049 | D254: D25CTDK01-B | E254: Đặng Lâm | F254: Hùng | G254: 30/08/2007 | H254: Nam | I254: 2025 | J254: Kỹ thuật Điều khiển và Tự động hoá
+A255: 254 | B255: Lớp 2 | C255: B25DCDK050 | D255: D25CQDK02-B | E255: Hoàng Chính | F255: Hưng | G255: 29/01/2007 | H255: Nam | I255: 2025 | J255: Kỹ thuật Điều khiển và Tự động hoá
+A256: 255 | B256: Lớp 2 | C256: B25DCDK051 | D256: D25CTDK01-B | E256: Kiều Tuấn | F256: Hưng | G256: 19/10/2007 | H256: Nam | I256: 2025 | J256: Kỹ thuật Điều khiển và Tự động hoá
+A257: 256 | B257: Lớp 2 | C257: B25DCDK052 | D257: D25CQDK02-B | E257: Phạm Khánh | F257: Hưng | G257: 04/08/2007 | H257: Nam | I257: 2025 | J257: Kỹ thuật Điều khiển và Tự động hoá
+A258: 257 | B258: Lớp 2 | C258: B25DCDK053 | D258: D25CTDK01-B | E258: Tô Quốc | F258: Hưng | G258: 02/05/2007 | H258: Nam | I258: 2025 | J258: Kỹ thuật Điều khiển và Tự động hoá
+A259: 258 | B259: Lớp 2 | C259: B25DCDK054 | D259: D25CQDK02-B | E259: Trần Quốc | F259: Khánh | G259: 25/06/2007 | H259: Nam | I259: 2025 | J259: Kỹ thuật Điều khiển và Tự động hoá
+A260: 259 | B260: Lớp 2 | C260: B25DCDK055 | D260: D25CTDK01-B | E260: Tạ Hữu Nam | F260: Khánh | G260: 16/08/2007 | H260: Nam | I260: 2025 | J260: Kỹ thuật Điều khiển và Tự động hoá
+A261: 260 | B261: Lớp 2 | C261: B25DCDK056 | D261: D25CTDK01-B | E261: Nguyễn Minh | F261: Khôi | G261: 11/12/2007 | H261: Nam | I261: 2025 | J261: Kỹ thuật Điều khiển và Tự động hoá
+A262: 261 | B262: Lớp 2 | C262: B25DCDK057 | D262: D25CQDK01-B | E262: Trương Ngọc | F262: Khôi | G262: 04/03/2007 | H262: Nam | I262: 2025 | J262: Kỹ thuật Điều khiển và Tự động hoá
+A263: 262 | B263: Lớp 2 | C263: B25DCDK058 | D263: D25CQDK02-B | E263: Đoàn Hồng | F263: Khôi | G263: 23/10/2007 | H263: Nam | I263: 2025 | J263: Kỹ thuật Điều khiển và Tự động hoá
+A264: 263 | B264: Lớp 2 | C264: B25DCDK059 | D264: D25CTDK01-B | E264: Trần Chí | F264: Kiên | G264: 20/03/2007 | H264: Nam | I264: 2025 | J264: Kỹ thuật Điều khiển và Tự động hoá
+A265: 264 | B265: Lớp 2 | C265: B25DCDK060 | D265: D25CQDK02-B | E265: Nguyễn Thành | F265: Long | G265: 30/06/2007 | H265: Nam | I265: 2025 | J265: Kỹ thuật Điều khiển và Tự động hoá
+A266: 265 | B266: Lớp 2 | C266: B25DCDK061 | D266: D25CQDK01-B | E266: Nguyễn Thành | F266: Long | G266: 08/01/2007 | H266: Nam | I266: 2025 | J266: Kỹ thuật Điều khiển và Tự động hoá
+A267: 266 | B267: Lớp 2 | C267: B25DCDK062 | D267: D25CTDK01-B | E267: Trần Hải | F267: Long | G267: 16/08/2007 | H267: Nam | I267: 2025 | J267: Kỹ thuật Điều khiển và Tự động hoá
+A268: 267 | B268: Lớp 2 | C268: B25DCDK063 | D268: D25CQDK01-B | E268: Trần Nam | F268: Long | G268: 23/08/2007 | H268: Nam | I268: 2025 | J268: Kỹ thuật Điều khiển và Tự động hoá
+A269: 268 | B269: Lớp 2 | C269: B25DCDK064 | D269: D25CQDK02-B | E269: Phan Xuân | F269: Lương | G269: 16/04/2007 | H269: Nam | I269: 2025 | J269: Kỹ thuật Điều khiển và Tự động hoá
+A270: 269 | B270: Lớp 2 | C270: B25DCDK065 | D270: D25CTDK01-B | E270: Lê Văn | F270: Minh | G270: 06/11/2007 | H270: Nam | I270: 2025 | J270: Kỹ thuật Điều khiển và Tự động hoá
+A271: 270 | B271: Lớp 2 | C271: B25DCDK066 | D271: D25CQDK02-B | E271: Nguyễn Đức | F271: Minh | G271: 29/01/2007 | H271: Nam | I271: 2025 | J271: Kỹ thuật Điều khiển và Tự động hoá
+A272: 271 | B272: Lớp 2 | C272: B25DCDK067 | D272: D25CQDK01-B | E272: Phí Quang | F272: Minh | G272: 18/01/2007 | H272: Nam | I272: 2025 | J272: Kỹ thuật Điều khiển và Tự động hoá
+A273: 272 | B273: Lớp 2 | C273: B25DCDK068 | D273: D25CQDK02-B | E273: Phạm Nguyên | F273: Minh | G273: 01/02/2007 | H273: Nam | I273: 2025 | J273: Kỹ thuật Điều khiển và Tự động hoá
+A274: 273 | B274: Lớp 2 | C274: B25DCDK069 | D274: D25CQDK01-B | E274: Phạm Văn | F274: Minh | G274: 07/11/2007 | H274: Nam | I274: 2025 | J274: Kỹ thuật Điều khiển và Tự động hoá
+A275: 274 | B275: Lớp 2 | C275: B25DCDK070 | D275: D25CQDK02-B | E275: Phạm Nguyễn Phương | F275: Nam | G275: 21/04/2007 | H275: Nam | I275: 2025 | J275: Kỹ thuật Điều khiển và Tự động hoá
+A276: 275 | B276: Lớp 2 | C276: B25DCDK071 | D276: D25CQDK01-B | E276: Trần Xuân | F276: Nam | G276: 07/02/2007 | H276: Nam | I276: 2025 | J276: Kỹ thuật Điều khiển và Tự động hoá
+A277: 276 | B277: Lớp 2 | C277: B25DCDK072 | D277: D25CQDK02-B | E277: Nguyễn Văn | F277: Nghị | G277: 18/06/2007 | H277: Nam | I277: 2025 | J277: Kỹ thuật Điều khiển và Tự động hoá
+A278: 277 | B278: Lớp 2 | C278: B25DCDK073 | D278: D25CQDK01-B | E278: Trần Duy | F278: Ngọc | G278: 31/01/2007 | H278: Nam | I278: 2025 | J278: Kỹ thuật Điều khiển và Tự động hoá
+A279: 278 | B279: Lớp 2 | C279: B25DCDK074 | D279: D25CQDK02-B | E279: Phan Yến | F279: Nhi | G279: 03/11/2007 | H279: Nữ | I279: 2025 | J279: Kỹ thuật Điều khiển và Tự động hoá
+A280: 279 | B280: Lớp 2 | C280: B25DCDK075 | D280: D25CQDK01-B | E280: Trịnh Bá Thiện | F280: Nhân | G280: 27/10/2007 | H280: Nam | I280: 2025 | J280: Kỹ thuật Điều khiển và Tự động hoá
+A281: 280 | B281: Lớp 2 | C281: B25DCDK076 | D281: D25CTDK01-B | E281: Nguyễn Nam | F281: Phong | G281: 02/04/2007 | H281: Nam | I281: 2025 | J281: Kỹ thuật Điều khiển và Tự động hoá
+A282: 281 | B282: Lớp 2 | C282: B25DCDK077 | D282: D25CQDK01-B | E282: Trần Duy | F282: Phong | G282: 19/08/2007 | H282: Nam | I282: 2025 | J282: Kỹ thuật Điều khiển và Tự động hoá
+A283: 282 | B283: Lớp 2 | C283: B25DCDK078 | D283: D25CQDK02-B | E283: Nguyễn Bá | F283: Phú | G283: 27/05/2007 | H283: Nam | I283: 2025 | J283: Kỹ thuật Điều khiển và Tự động hoá
+A284: 283 | B284: Lớp 2 | C284: B25DCDK079 | D284: D25CQDK01-B | E284: Nguyễn Ngọc | F284: Phú | G284: 25/11/2007 | H284: Nam | I284: 2025 | J284: Kỹ thuật Điều khiển và Tự động hoá
+A285: 284 | B285: Lớp 2 | C285: B25DCDK080 | D285: D25CQDK02-B | E285: Lê Văn | F285: Phúc | G285: 04/04/2007 | H285: Nam | I285: 2025 | J285: Kỹ thuật Điều khiển và Tự động hoá
+A286: 285 | B286: Lớp 2 | C286: B25DCDK081 | D286: D25CQDK01-B | E286: Tống Văn | F286: Phương | G286: 29/10/2007 | H286: Nam | I286: 2025 | J286: Kỹ thuật Điều khiển và Tự động hoá
+A287: 286 | B287: Lớp 2 | C287: B25DCDK083 | D287: D25CQDK01-B | E287: Nghiêm Minh | F287: Quang | G287: 23/11/2007 | H287: Nam | I287: 2025 | J287: Kỹ thuật Điều khiển và Tự động hoá
+A288: 287 | B288: Lớp 2 | C288: B25DCDK084 | D288: D25CTDK01-B | E288: Trần Công | F288: Quốc | G288: 06/02/2007 | H288: Nam | I288: 2025 | J288: Kỹ thuật Điều khiển và Tự động hoá
+A289: 288 | B289: Lớp 2 | C289: B25DCDK085 | D289: D25CQDK01-B | E289: Vũ Tuấn | F289: Quỳnh | G289: 25/01/2007 | H289: Nam | I289: 2025 | J289: Kỹ thuật Điều khiển và Tự động hoá
+A290: 289 | B290: Lớp 2 | C290: B25DCDK086 | D290: D25CQDK02-B | E290: Nguyễn Hoàng | F290: Sâm | G290: 08/06/2007 | H290: Nam | I290: 2025 | J290: Kỹ thuật Điều khiển và Tự động hoá
+A291: 290 | B291: Lớp 2 | C291: B25DCDK087 | D291: D25CQDK01-B | E291: Hà Phúc Trường | F291: Sơn | G291: 11/08/2007 | H291: Nam | I291: 2025 | J291: Kỹ thuật Điều khiển và Tự động hoá
+A292: 291 | B292: Lớp 2 | C292: B25DCDK088 | D292: D25CQDK02-B | E292: Trần Thái | F292: Sơn | G292: 30/06/2007 | H292: Nam | I292: 2025 | J292: Kỹ thuật Điều khiển và Tự động hoá
+A293: 292 | B293: Lớp 2 | C293: B25DCDK089 | D293: D25CQDK01-B | E293: Lê Ngọc | F293: Sỹ | G293: 03/12/2007 | H293: Nam | I293: 2025 | J293: Kỹ thuật Điều khiển và Tự động hoá
+A294: 293 | B294: Lớp 2 | C294: B25DCDK090 | D294: D25CQDK02-B | E294: Nguyễn Phúc | F294: Thuận | G294: 05/01/2007 | H294: Nam | I294: 2025 | J294: Kỹ thuật Điều khiển và Tự động hoá
+A295: 294 | B295: Lớp 2 | C295: B25DCDK091 | D295: D25CQDK01-B | E295: Lê Công | F295: Thành | G295: 23/05/2007 | H295: Nam | I295: 2025 | J295: Kỹ thuật Điều khiển và Tự động hoá
+A296: 295 | B296: Lớp 2 | C296: B25DCDK092 | D296: D25CQDK02-B | E296: Mai Trung | F296: Thành | G296: 07/12/2007 | H296: Nam | I296: 2025 | J296: Kỹ thuật Điều khiển và Tự động hoá
+A297: 296 | B297: Lớp 2 | C297: B25DCDK093 | D297: D25CQDK01-B | E297: Phạm Văn | F297: Thắng | G297: 13/04/2007 | H297: Nam | I297: 2025 | J297: Kỹ thuật Điều khiển và Tự động hoá
+A298: 297 | B298: Lớp 2 | C298: B25DCDK094 | D298: D25CTDK01-B | E298: Đặng Hữu | F298: Thắng | G298: 28/10/2007 | H298: Nam | I298: 2025 | J298: Kỹ thuật Điều khiển và Tự động hoá
+A299: 298 | B299: Lớp 2 | C299: B25DCDK095 | D299: D25CQDK01-B | E299: Trần Minh | F299: Thịnh | G299: 26/11/2007 | H299: Nam | I299: 2025 | J299: Kỹ thuật Điều khiển và Tự động hoá
+A300: 299 | B300: Lớp 2 | C300: B25DCDK096 | D300: D25CTDK01-B | E300: Hồ Hữu | F300: Trường | G300: 12/04/2007 | H300: Nam | I300: 2025 | J300: Kỹ thuật Điều khiển và Tự động hoá
+A301: 300 | B301: Lớp 2 | C301: B25DCDK097 | D301: D25CTDK01-B | E301: Vũ Sơn | F301: Trường | G301: 17/07/2007 | H301: Nam | I301: 2025 | J301: Kỹ thuật Điều khiển và Tự động hoá
+A302: 301 | B302: Lớp 2 | C302: B25DCDK098 | D302: D25CTDK01-B | E302: Hoàng Đình | F302: Trọng | G302: 26/07/2007 | H302: Nam | I302: 2025 | J302: Kỹ thuật Điều khiển và Tự động hoá
+A303: 302 | B303: Lớp 2 | C303: B25DCDK099 | D303: D25CQDK01-B | E303: Nguyễn Văn | F303: Trọng | G303: 17/09/2007 | H303: Nam | I303: 2025 | J303: Kỹ thuật Điều khiển và Tự động hoá
+A304: 303 | B304: Lớp 2 | C304: B25DCDK100 | D304: D25CQDK02-B | E304: Đào Quang | F304: Tuyến | G304: 11/02/2007 | H304: Nam | I304: 2025 | J304: Kỹ thuật Điều khiển và Tự động hoá
+A305: 304 | B305: Lớp 2 | C305: B25DCDK101 | D305: D25CQDK01-B | E305: Nguyễn Hải | F305: Tuấn | G305: 17/08/2007 | H305: Nam | I305: 2025 | J305: Kỹ thuật Điều khiển và Tự động hoá
+A306: 305 | B306: Lớp 2 | C306: B25DCDK102 | D306: D25CQDK02-B | E306: Nguyễn Văn | F306: Tuấn | G306: 27/04/2007 | H306: Nam | I306: 2025 | J306: Kỹ thuật Điều khiển và Tự động hoá
+A307: 306 | B307: Lớp 2 | C307: B25DCDK103 | D307: D25CQDK01-B | E307: Nguyễn Mạnh | F307: Tùng | G307: 12/12/2007 | H307: Nam | I307: 2025 | J307: Kỹ thuật Điều khiển và Tự động hoá
+A308: 307 | B308: Lớp 2 | C308: B25DCDK105 | D308: D25CQDK01-B | E308: Phạm Anh | F308: Tú | G308: 20/06/2007 | H308: Nam | I308: 2025 | J308: Kỹ thuật Điều khiển và Tự động hoá
+A309: 308 | B309: Lớp 2 | C309: B25DCDK106 | D309: D25CQDK02-B | E309: Tô Quang | F309: Vinh | G309: 29/07/2007 | H309: Nam | I309: 2025 | J309: Kỹ thuật Điều khiển và Tự động hoá
+A310: 309 | B310: Lớp 2 | C310: B25DCDK107 | D310: D25CTDK01-B | E310: Nguyễn Xuân | F310: Việt | G310: 29/04/2007 | H310: Nam | I310: 2025 | J310: Kỹ thuật Điều khiển và Tự động hoá
+A311: 310 | B311: Lớp 2 | C311: B25DCDK109 | D311: D25CTDK01-B | E311: Phạm Bá | F311: Vương | G311: 30/12/2007 | H311: Nam | I311: 2025 | J311: Kỹ thuật Điều khiển và Tự động hoá
+A312: 311 | B312: Lớp 2 | C312: B25DCDK110 | D312: D25CTDK01-B | E312: Phạm Hồng | F312: Ân | G312: 16/12/2007 | H312: Nam | I312: 2025 | J312: Kỹ thuật Điều khiển và Tự động hoá
+A313: 312 | B313: Lớp 2 | C313: B25DCDK111 | D313: D25CQDK01-B | E313: Nguyễn Tự Hải | F313: Đăng | G313: 12/07/2007 | H313: Nam | I313: 2025 | J313: Kỹ thuật Điều khiển và Tự động hoá
+A314: 313 | B314: Lớp 2 | C314: B25DCDK112 | D314: D25CQDK02-B | E314: Phan Trọng Hải | F314: Đăng | G314: 17/09/2007 | H314: Nam | I314: 2025 | J314: Kỹ thuật Điều khiển và Tự động hoá
+A315: 314 | B315: Lớp 2 | C315: B25DCDK113 | D315: D25CQDK01-B | E315: Đặng Tiến | F315: Đạt | G315: 26/08/2007 | H315: Nam | I315: 2025 | J315: Kỹ thuật Điều khiển và Tự động hoá
+A316: 315 | B316: Lớp 2 | C316: B25DCDK114 | D316: D25CQDK02-B | E316: Nguyễn Văn | F316: Đức | G316: 03/12/2007 | H316: Nam | I316: 2025 | J316: Kỹ thuật Điều khiển và Tự động hoá
+A317: 316 | B317: Lớp 2 | C317: B25DCDK115 | D317: D25CTDK01-B | E317: Vũ Hoàng Anh | F317: Đức | G317: 20/10/2007 | H317: Nam | I317: 2025 | J317: Kỹ thuật Điều khiển và Tự động hoá
+A318: 317 | B318: Lớp 2 | C318: B25DCDK116 | D318: D25CTDK01-B | E318: Đinh Lệnh Tiến | F318: Đức | G318: 13/06/2007 | H318: Nam | I318: 2025 | J318: Kỹ thuật Điều khiển và Tự động hoá
+A319: 318 | B319: Lớp 2 | C319: B25DCGA074 | D319: D25CQGA02-B | E319: Hà Phi | F319: Hùng | G319: 28/08/2007 | H319: Nam | I319: 2025 | J319: Thiết kế và Phát triển Game
+A320: 319 | B320: Lớp 2 | C320: B25DCKH001 | D320: D25CQKH01-B | E320: Trần Thái | F320: An | G320: 25/10/2007 | H320: Nam | I320: 2025 | J320: Khoa học máy tính
+A321: 320 | B321: Lớp 2 | C321: B25DCKH002 | D321: D25CQKH02-B | E321: Dương Hoàng Tùng | F321: Anh | G321: 05/03/2007 | H321: Nam | I321: 2025 | J321: Khoa học máy tính
+A322: 321 | B322: Lớp 2 | C322: B25DCKH003 | D322: D25CQKH03-B | E322: Khổng Hoàng | F322: Anh | G322: 12/06/2007 | H322: Nam | I322: 2025 | J322: Khoa học máy tính
+A323: 322 | B323: Lớp 2 | C323: B25DCKH004 | D323: D25CTKH01-B  | E323: Nguyễn Tú | F323: Anh | G323: 03/12/2007 | H323: Nữ | I323: 2025 | J323: Khoa học máy tính
+A324: 323 | B324: Lớp 2 | C324: B25DCKH005 | D324: D25CQKH02-B | E324: Nguyễn Đăng Phúc | F324: Anh | G324: 08/01/2007 | H324: Nam | I324: 2025 | J324: Khoa học máy tính
+A325: 324 | B325: Lớp 2 | C325: B25DCKH006 | D325: D25CQKH03-B | E325: Trần Đức | F325: Anh | G325: 30/03/2007 | H325: Nam | I325: 2025 | J325: Khoa học máy tính
+A326: 325 | B326: Lớp 2 | C326: B25DCKH007 | D326: D25CTKH01-B  | E326: Trần Đức | F326: Anh | G326: 12/08/2007 | H326: Nam | I326: 2025 | J326: Khoa học máy tính
+A327: 326 | B327: Lớp 2 | C327: B25DCKH008 | D327: D25CQKH02-B | E327: Trần Đức | F327: Anh | G327: 14/10/2007 | H327: Nam | I327: 2025 | J327: Khoa học máy tính
+A328: 327 | B328: Lớp 2 | C328: B25DCKH009 | D328: D25CQKH03-B | E328: Vũ Phan Hoàng | F328: Anh | G328: 23/09/2007 | H328: Nam | I328: 2025 | J328: Khoa học máy tính
+A329: 328 | B329: Lớp 2 | C329: B25DCKH010 | D329: D25CTKH01-B  | E329: Vương Đức | F329: Anh | G329: 02/08/2007 | H329: Nam | I329: 2025 | J329: Khoa học máy tính
+A330: 329 | B330: Lớp 2 | C330: B25DCKH011 | D330: D25CQKH02-B | E330: Mai Văn | F330: Bách | G330: 29/11/2006 | H330: Nam | I330: 2025 | J330: Khoa học máy tính
+A331: 330 | B331: Lớp 2 | C331: B25DCKH012 | D331: D25CQKH03-B | E331: Nguyễn Việt | F331: Bách | G331: 23/07/2007 | H331: Nam | I331: 2025 | J331: Khoa học máy tính
+A332: 331 | B332: Lớp 2 | C332: B25DCKH013 | D332: D25CQKH01-B | E332: Nguyễn Xuân | F332: Bách | G332: 02/10/2007 | H332: Nam | I332: 2025 | J332: Khoa học máy tính
+A333: 332 | B333: Lớp 2 | C333: B25DCKH014 | D333: D25CTKH01-B  | E333: Phùng Gia | F333: Bách | G333: 25/02/2007 | H333: Nam | I333: 2025 | J333: Khoa học máy tính
+A334: 333 | B334: Lớp 2 | C334: B25DCKH015 | D334: D25CTKH01-B  | E334: Hoàng Thanh | F334: Bình | G334: 26/01/2007 | H334: Nam | I334: 2025 | J334: Khoa học máy tính
+A335: 334 | B335: Lớp 2 | C335: B25DCKH016 | D335: D25CQKH01-B | E335: Trương Công | F335: Bính | G335: 05/01/2007 | H335: Nam | I335: 2025 | J335: Khoa học máy tính
+A336: 335 | B336: Lớp 2 | C336: B25DCKH017 | D336: D25CQKH02-B | E336: Hoàng Gia | F336: Bảo | G336: 06/02/2007 | H336: Nam | I336: 2025 | J336: Khoa học máy tính
+A337: 336 | B337: Lớp 2 | C337: B25DCKH018 | D337: D25CQKH03-B | E337: Phan Thái | F337: Bảo | G337: 29/10/2007 | H337: Nam | I337: 2025 | J337: Khoa học máy tính
+A338: 337 | B338: Lớp 2 | C338: B25DCKH019 | D338: D25CTKH01-B  | E338: Nguyễn Văn | F338: Công | G338: 12/01/2007 | H338: Nam | I338: 2025 | J338: Khoa học máy tính
+A339: 338 | B339: Lớp 2 | C339: B25DCKH020 | D339: D25CQKH02-B | E339: Bùi Việt | F339: Cường | G339: 17/09/2007 | H339: Nam | I339: 2025 | J339: Khoa học máy tính
+A340: 339 | B340: Lớp 2 | C340: B25DCKH021 | D340: D25CQKH03-B | E340: Nguyễn Quốc | F340: Cường | G340: 03/12/2007 | H340: Nam | I340: 2025 | J340: Khoa học máy tính
+A341: 340 | B341: Lớp 2 | C341: B25DCKH022 | D341: D25CQKH01-B | E341: Nguyễn Thị | F341: Diệp | G341: 23/03/2007 | H341: Nữ | I341: 2025 | J341: Khoa học máy tính
+A342: 341 | B342: Lớp 2 | C342: B25DCKH023 | D342: D25CQKH02-B | E342: Nguyễn Ngọc | F342: Dung | G342: 14/12/2007 | H342: Nữ | I342: 2025 | J342: Khoa học máy tính
+A343: 342 | B343: Lớp 2 | C343: B25DCKH024 | D343: D25CQKH03-B | E343: Hoàng Đức | F343: Duy | G343: 05/07/2007 | H343: Nam | I343: 2025 | J343: Khoa học máy tính
+A344: 343 | B344: Lớp 2 | C344: B25DCKH025 | D344: D25CTKH01-B  | E344: Trần Nguyễn Tấn | F344: Dũng | G344: 07/08/2007 | H344: Nam | I344: 2025 | J344: Khoa học máy tính
+A345: 344 | B345: Lớp 2 | C345: B25DCKH026 | D345: D25CQKH02-B | E345: Đoàn Anh | F345: Dũng | G345: 18/06/2007 | H345: Nam | I345: 2025 | J345: Khoa học máy tính
+A346: 345 | B346: Lớp 2 | C346: B25DCKH027 | D346: D25CTKH01-B  | E346: Tạ Hữu | F346: Dương | G346: 14/12/2007 | H346: Nam | I346: 2025 | J346: Khoa học máy tính
+A347: 346 | B347: Lớp 2 | C347: B25DCKH028 | D347: D25CQKH01-B | E347: Zemek | F347: Filip | G347: 22/02/2006 | H347: Nam | I347: 2025 | J347: Khoa học máy tính
+A348: 347 | B348: Lớp 2 | C348: B25DCKH029 | D348: D25CTKH01-B  | E348: Nguyễn Vân | F348: Giang | G348: 15/11/2007 | H348: Nữ | I348: 2025 | J348: Khoa học máy tính
+A349: 348 | B349: Lớp 2 | C349: B25DCKH030 | D349: D25CQKH03-B | E349: Phạm Trường | F349: Giang | G349: 10/03/2007 | H349: Nam | I349: 2025 | J349: Khoa học máy tính
+A350: 349 | B350: Lớp 2 | C350: B25DCKH031 | D350: D25CQKH01-B | E350: Trần Trà | F350: Giang | G350: 20/05/2007 | H350: Nữ | I350: 2025 | J350: Khoa học máy tính
+A351: 350 | B351: Lớp 2 | C351: B25DCKH032 | D351: D25CTKH01-B  | E351: Lê Hữu | F351: Hiếu | G351: 14/06/2007 | H351: Nam | I351: 2025 | J351: Khoa học máy tính
+A352: 351 | B352: Lớp 2 | C352: B25DCKH033 | D352: D25CQKH03-B | E352: Mai Trung | F352: Hiếu | G352: 27/11/2007 | H352: Nam | I352: 2025 | J352: Khoa học máy tính
+A353: 352 | B353: Lớp 2 | C353: B25DCKH034 | D353: D25CQKH01-B | E353: Trần Trung | F353: Hiếu | G353: 16/03/2007 | H353: Nam | I353: 2025 | J353: Khoa học máy tính
+A354: 353 | B354: Lớp 2 | C354: B25DCKH035 | D354: D25CQKH02-B | E354: Đào Thu | F354: Hiền | G354: 20/12/2007 | H354: Nữ | I354: 2025 | J354: Khoa học máy tính
+A355: 354 | B355: Lớp 2 | C355: B25DCKH036 | D355: D25CQKH03-B | E355: Lê Minh | F355: Hiển | G355: 27/06/2007 | H355: Nam | I355: 2025 | J355: Khoa học máy tính
+A356: 355 | B356: Lớp 2 | C356: B25DCKH037 | D356: D25CQKH01-B | E356: Nguyễn Lê | F356: Hoà | G356: 07/02/2007 | H356: Nam | I356: 2025 | J356: Khoa học máy tính
+A357: 356 | B357: Lớp 2 | C357: B25DCKH038 | D357: D25CTKH01-B  | E357: Lương Nguyễn Duy | F357: Hoàng | G357: 28/09/2007 | H357: Nam | I357: 2025 | J357: Khoa học máy tính
+A358: 357 | B358: Lớp 2 | C358: B25DCKH039 | D358: D25CQKH03-B | E358: Nguyễn Minh | F358: Hoàng | G358: 09/06/2007 | H358: Nam | I358: 2025 | J358: Khoa học máy tính
+A359: 358 | B359: Lớp 2 | C359: B25DCKH041 | D359: D25CTKH01-B  | E359: Đỗ Việt | F359: Hoàng | G359: 26/08/2007 | H359: Nam | I359: 2025 | J359: Khoa học máy tính
+A360: 359 | B360: Lớp 2 | C360: B25DCKH042 | D360: D25CQKH03-B | E360: Hoàng Anh | F360: Huy | G360: 31/08/2007 | H360: Nam | I360: 2025 | J360: Khoa học máy tính
+A361: 360 | B361: Lớp 2 | C361: B25DCKH043 | D361: D25CQKH01-B | E361: Lê Duy | F361: Huy | G361: 18/10/2007 | H361: Nam | I361: 2025 | J361: Khoa học máy tính
+A362: 361 | B362: Lớp 2 | C362: B25DCKH044 | D362: D25CQKH02-B | E362: Nguyễn Gia | F362: Huy | G362: 08/12/2007 | H362: Nam | I362: 2025 | J362: Khoa học máy tính
+A363: 362 | B363: Lớp 2 | C363: B25DCKH045 | D363: D25CTKH01-B  | E363: Nguyễn Quốc | F363: Huy | G363: 23/01/2007 | H363: Nam | I363: 2025 | J363: Khoa học máy tính
+A364: 363 | B364: Lớp 2 | C364: B25DCKH046 | D364: D25CTKH01-B  | E364: Nguyễn Thu | F364: Hà | G364: 27/03/2007 | H364: Nữ | I364: 2025 | J364: Khoa học máy tính
+A365: 364 | B365: Lớp 2 | C365: B25DCKH048 | D365: D25CQKH03-B | E365: Lương Nguyễn | F365: Hùng | G365: 25/01/2007 | H365: Nam | I365: 2025 | J365: Khoa học máy tính
+A366: 365 | B366: Lớp 2 | C366: B25DCKH049 | D366: D25CQKH01-B | E366: Phạm Văn | F366: Hùng | G366: 16/11/2007 | H366: Nam | I366: 2025 | J366: Khoa học máy tính
+A367: 366 | B367: Lớp 2 | C367: B25DCKH050 | D367: D25CTKH01-B  | E367: Dương Kim | F367: Hưng | G367: 24/12/2007 | H367: Nam | I367: 2025 | J367: Khoa học máy tính
+A368: 367 | B368: Lớp 2 | C368: B25DCKH051 | D368: D25CQKH03-B | E368: Lê Nguyễn Minh | F368: Hưng | G368: 19/07/2007 | H368: Nam | I368: 2025 | J368: Khoa học máy tính
+A369: 368 | B369: Lớp 2 | C369: B25DCKH052 | D369: D25CQKH01-B | E369: Nguyễn Tuấn | F369: Hưng | G369: 09/05/2007 | H369: Nam | I369: 2025 | J369: Khoa học máy tính
+A370: 369 | B370: Lớp 2 | C370: B25DCKH053 | D370: D25CQKH02-B | E370: Nguyễn Vũ | F370: Hải | G370: 20/11/2007 | H370: Nam | I370: 2025 | J370: Khoa học máy tính
+A371: 370 | B371: Lớp 2 | C371: B25DCKH054 | D371: D25CQKH03-B | E371: Nguyễn Thị Thu | F371: Hằng | G371: 05/03/2007 | H371: Nữ | I371: 2025 | J371: Khoa học máy tính
+A372: 371 | B372: Lớp 2 | C372: B25DCKH055 | D372: D25CQKH01-B | E372: Vừ Minh | F372: Khang | G372: 06/10/2007 | H372: Nam | I372: 2025 | J372: Khoa học máy tính
+A373: 372 | B373: Lớp 2 | C373: B25DCKH056 | D373: D25CQKH02-B | E373: Bùi Ngọc | F373: Khiêm | G373: 17/09/2007 | H373: Nam | I373: 2025 | J373: Khoa học máy tính
+A374: 373 | B374: Lớp 2 | C374: B25DCKH057 | D374: D25CQKH03-B | E374: Bùi Quốc | F374: Khánh | G374: 02/09/2007 | H374: Nam | I374: 2025 | J374: Khoa học máy tính
+A375: 374 | B375: Lớp 2 | C375: B25DCKH058 | D375: D25CQKH01-B | E375: Hoàng Nam | F375: Khánh | G375: 28/08/2007 | H375: Nam | I375: 2025 | J375: Khoa học máy tính
+A376: 375 | B376: Lớp 2 | C376: B25DCKH059 | D376: D25CQKH02-B | E376: Hồ Mậu Nam | F376: Khánh | G376: 11/01/2007 | H376: Nam | I376: 2025 | J376: Khoa học máy tính
+A377: 376 | B377: Lớp 2 | C377: B25DCKH060 | D377: D25CQKH03-B | E377: Nguyễn Sỹ | F377: Khánh | G377: 16/02/2007 | H377: Nam | I377: 2025 | J377: Khoa học máy tính
+A378: 377 | B378: Lớp 2 | C378: B25DCKH061 | D378: D25CQKH01-B | E378: Nguyễn Trọng | F378: Khánh | G378: 08/07/2007 | H378: Nam | I378: 2025 | J378: Khoa học máy tính
+A379: 378 | B379: Lớp 2 | C379: B25DCKH062 | D379: D25CTKH01-B  | E379: Trần Huy | F379: Khánh | G379: 24/03/2007 | H379: Nam | I379: 2025 | J379: Khoa học máy tính
+A380: 379 | B380: Lớp 2 | C380: B25DCKH063 | D380: D25CTKH01-B  | E380: Trần Lê Nam | F380: Khánh | G380: 20/12/2007 | H380: Nam | I380: 2025 | J380: Khoa học máy tính
+A381: 380 | B381: Lớp 2 | C381: B25DCKH064 | D381: D25CQKH01-B | E381: Trần Phúc | F381: Khánh | G381: 12/08/2007 | H381: Nam | I381: 2025 | J381: Khoa học máy tính
+A382: 381 | B382: Lớp 2 | C382: B25DCKH065 | D382: D25CQKH02-B | E382: Nguyễn Quang | F382: Khải | G382: 16/10/2007 | H382: Nam | I382: 2025 | J382: Khoa học máy tính
+A383: 382 | B383: Lớp 2 | C383: B25DCKH068 | D383: D25CQKH02-B | E383: Nguyễn Tùng | F383: Kiên | G383: 28/07/2007 | H383: Nam | I383: 2025 | J383: Khoa học máy tính
+A384: 383 | B384: Lớp 2 | C384: B25DCKH069 | D384: D25CQKH03-B | E384: Nguyễn Anh | F384: Kiệt | G384: 08/08/2007 | H384: Nam | I384: 2025 | J384: Khoa học máy tính
+A385: 384 | B385: Lớp 2 | C385: B25DCKH070 | D385: D25CQKH01-B | E385: Cao Hải | F385: Linh | G385: 07/08/2007 | H385: Nam | I385: 2025 | J385: Khoa học máy tính
+A386: 385 | B386: Lớp 2 | C386: B25DCKH071 | D386: D25CQKH02-B | E386: Nguyễn Bình Ngọc | F386: Linh | G386: 17/12/2007 | H386: Nữ | I386: 2025 | J386: Khoa học máy tính
+A387: 386 | B387: Lớp 2 | C387: B25DCKH072 | D387: D25CTKH01-B  | E387: Hà Hoàng | F387: Long | G387: 28/08/2007 | H387: Nam | I387: 2025 | J387: Khoa học máy tính
+A388: 387 | B388: Lớp 2 | C388: B25DCKH073 | D388: D25CTKH01-B  | E388: Hà Nguyễn Minh | F388: Long | G388: 31/12/2007 | H388: Nam | I388: 2025 | J388: Khoa học máy tính
+A389: 388 | B389: Lớp 2 | C389: B25DCKH074 | D389: D25CQKH02-B | E389: Trần Đức | F389: Long | G389: 09/10/2007 | H389: Nam | I389: 2025 | J389: Khoa học máy tính
+A390: 389 | B390: Lớp 2 | C390: B25DCKH075 | D390: D25CQKH03-B | E390: Đỗ Hồng | F390: Lâm | G390: 14/07/2007 | H390: Nam | I390: 2025 | J390: Khoa học máy tính
+A391: 390 | B391: Lớp 2 | C391: B25DCKH076 | D391: D25CQKH01-B | E391: Nguyễn Tấn | F391: Lộc | G391: 11/11/2007 | H391: Nam | I391: 2025 | J391: Khoa học máy tính
+A392: 391 | B392: Lớp 2 | C392: B25DCKH077 | D392: D25CQKH02-B | E392: Cao Hoàng Nhật | F392: Minh | G392: 30/08/2007 | H392: Nam | I392: 2025 | J392: Khoa học máy tính
+A393: 392 | B393: Lớp 2 | C393: B25DCKH078 | D393: D25CQKH03-B | E393: Hoàng Hữu | F393: Minh | G393: 23/09/2007 | H393: Nam | I393: 2025 | J393: Khoa học máy tính
+A394: 393 | B394: Lớp 2 | C394: B25DCKH079 | D394: D25CQKH01-B | E394: Hoàng Tuấn | F394: Minh | G394: 02/10/2007 | H394: Nam | I394: 2025 | J394: Khoa học máy tính
+A395: 394 | B395: Lớp 2 | C395: B25DCKH080 | D395: D25CQKH02-B | E395: Lê Tuấn | F395: Minh | G395: 11/12/2007 | H395: Nam | I395: 2025 | J395: Khoa học máy tính
+A396: 395 | B396: Lớp 2 | C396: B25DCKH081 | D396: D25CQKH03-B | E396: Nghiêm Đức | F396: Minh | G396: 18/06/2007 | H396: Nam | I396: 2025 | J396: Khoa học máy tính
+A397: 396 | B397: Lớp 2 | C397: B25DCKH082 | D397: D25CQKH01-B | E397: Nguyễn Quang | F397: Minh | G397: 22/09/2007 | H397: Nam | I397: 2025 | J397: Khoa học máy tính
+A398: 397 | B398: Lớp 2 | C398: B25DCKH083 | D398: D25CQKH02-B | E398: Nguyễn Quang | F398: Minh | G398: 07/01/2007 | H398: Nam | I398: 2025 | J398: Khoa học máy tính
+A399: 398 | B399: Lớp 2 | C399: B25DCKH085 | D399: D25CQKH01-B | E399: Phạm Đức | F399: Minh | G399: 23/05/2007 | H399: Nam | I399: 2025 | J399: Khoa học máy tính
+A400: 399 | B400: Lớp 2 | C400: B25DCKH087 | D400: D25CTKH01-B  | E400: Nguyễn Đức | F400: Mạnh | G400: 10/11/2007 | H400: Nam | I400: 2025 | J400: Khoa học máy tính
+A401: 400 | B401: Lớp 2 | C401: B25DCKH088 | D401: D25CTKH01-B  | E401: Trần Quốc | F401: Mạnh | G401: 12/02/2007 | H401: Nam | I401: 2025 | J401: Khoa học máy tính
+A402: 401 | B402: Lớp 2 | C402: B25DCKH089 | D402: D25CTKH01-B  | E402: Đào Thị | F402: Mỹ | G402: 15/08/2007 | H402: Nữ | I402: 2025 | J402: Khoa học máy tính
+A403: 402 | B403: Lớp 2 | C403: B25DCKH090 | D403: D25CTKH01-B  | E403: Nguyễn Thành | F403: Nam | G403: 07/09/2007 | H403: Nam | I403: 2025 | J403: Khoa học máy tính
+A404: 403 | B404: Lớp 3 | C404: B25DCKH091 | D404: D25CQKH01-B | E404: Trịnh Hoàng | F404: Nam | G404: 02/12/2007 | H404: Nam | I404: 2025 | J404: Khoa học máy tính
+A405: 404 | B405: Lớp 3 | C405: B25DCKH092 | D405: D25CQKH02-B | E405: Nguyễn Minh | F405: Nghĩa | G405: 08/10/2007 | H405: Nam | I405: 2025 | J405: Khoa học máy tính
+A406: 405 | B406: Lớp 3 | C406: B25DCKH093 | D406: D25CQKH03-B | E406: Nguyễn Trí | F406: Nghĩa | G406: 10/11/2007 | H406: Nam | I406: 2025 | J406: Khoa học máy tính
+A407: 406 | B407: Lớp 3 | C407: B25DCKH095 | D407: D25CQKH02-B | E407: Kiều Yến | F407: Nhi | G407: 13/11/2007 | H407: Nữ | I407: 2025 | J407: Khoa học máy tính
+A408: 407 | B408: Lớp 3 | C408: B25DCKH096 | D408: D25CQKH03-B | E408: Lê Thiện | F408: Nhân | G408: 21/12/2007 | H408: Nam | I408: 2025 | J408: Khoa học máy tính
+A409: 408 | B409: Lớp 3 | C409: B25DCKH097 | D409: D25CQKH01-B | E409: Trần Hữu | F409: Nhân | G409: 06/11/2007 | H409: Nam | I409: 2025 | J409: Khoa học máy tính
+A410: 409 | B410: Lớp 3 | C410: B25DCKH098 | D410: D25CTKH01-B  | E410: Lưu Văn | F410: Nhật | G410: 20/05/2007 | H410: Nam | I410: 2025 | J410: Khoa học máy tính
+A411: 410 | B411: Lớp 3 | C411: B25DCKH099 | D411: D25CQKH03-B | E411: Nguyễn Ngọc | F411: Phong | G411: 05/09/2007 | H411: Nam | I411: 2025 | J411: Khoa học máy tính
+A412: 411 | B412: Lớp 3 | C412: B25DCKH100 | D412: D25CQKH01-B | E412: Phạm Đức | F412: Phát | G412: 30/11/2007 | H412: Nam | I412: 2025 | J412: Khoa học máy tính
+A413: 412 | B413: Lớp 3 | C413: B25DCKH101 | D413: D25CTKH01-B  | E413: Nguyễn Hồng | F413: Phúc | G413: 09/06/2007 | H413: Nam | I413: 2025 | J413: Khoa học máy tính
+A414: 413 | B414: Lớp 3 | C414: B25DCKH102 | D414: D25CQKH03-B | E414: Nguyễn Vinh | F414: Phúc | G414: 28/12/2007 | H414: Nam | I414: 2025 | J414: Khoa học máy tính
+A415: 414 | B415: Lớp 3 | C415: B25DCKH103 | D415: D25CQKH01-B | E415: Nguyễn Thu | F415: Phương | G415: 19/05/2007 | H415: Nữ | I415: 2025 | J415: Khoa học máy tính
+A416: 415 | B416: Lớp 3 | C416: B25DCKH104 | D416: D25CTKH01-B  | E416: Trần Lý | F416: Quân | G416: 10/04/2007 | H416: Nam | I416: 2025 | J416: Khoa học máy tính
+A417: 416 | B417: Lớp 3 | C417: B25DCKH105 | D417: D25CQKH03-B | E417: Đỗ Minh | F417: Quân | G417: 22/04/2007 | H417: Nam | I417: 2025 | J417: Khoa học máy tính
+A418: 417 | B418: Lớp 3 | C418: B25DCKH107 | D418: D25CTKH01-B  | E418: Cao Nam Vĩnh | F418: San | G418: 18/07/2007 | H418: Nam | I418: 2025 | J418: Khoa học máy tính
+A419: 418 | B419: Lớp 3 | C419: B25DCKH108 | D419: D25CQKH03-B | E419: Lê Trần Trường | F419: Sơn | G419: 17/10/2007 | H419: Nam | I419: 2025 | J419: Khoa học máy tính
+A420: 419 | B420: Lớp 3 | C420: B25DCKH109 | D420: D25CQKH01-B | E420: Nguyễn Tăng Kỳ | F420: Sơn | G420: 23/01/2007 | H420: Nam | I420: 2025 | J420: Khoa học máy tính
+A421: 420 | B421: Lớp 3 | C421: B25DCKH110 | D421: D25CQKH02-B | E421: Nguyễn Văn | F421: Sỹ | G421: 31/08/2007 | H421: Nam | I421: 2025 | J421: Khoa học máy tính
+A422: 421 | B422: Lớp 3 | C422: B25DCKH111 | D422: D25CTKH01-B  | E422: Hoàng Đàm | F422: Thiên | G422: 19/07/2007 | H422: Nam | I422: 2025 | J422: Khoa học máy tính
+A423: 422 | B423: Lớp 3 | C423: B25DCKH112 | D423: D25CQKH01-B | E423: Bùi Quang | F423: Thành | G423: 04/09/2007 | H423: Nam | I423: 2025 | J423: Khoa học máy tính
+A424: 423 | B424: Lớp 3 | C424: B25DCKH113 | D424: D25CTKH01-B  | E424: Nguyễn Kim | F424: Thành | G424: 22/01/2007 | H424: Nam | I424: 2025 | J424: Khoa học máy tính
+A425: 424 | B425: Lớp 3 | C425: B25DCKH114 | D425: D25CQKH03-B | E425: Nguyễn Văn | F425: Thành | G425: 12/10/2007 | H425: Nam | I425: 2025 | J425: Khoa học máy tính
+A426: 425 | B426: Lớp 3 | C426: B25DCKH115 | D426: D25CQKH01-B | E426: Vũ Tất | F426: Thành | G426: 19/08/2007 | H426: Nam | I426: 2025 | J426: Khoa học máy tính
+A427: 426 | B427: Lớp 3 | C427: B25DCKH117 | D427: D25CQKH03-B | E427: Phùng Thị Minh | F427: Thư | G427: 15/03/2006 | H427: Nữ | I427: 2025 | J427: Khoa học máy tính
+A428: 427 | B428: Lớp 3 | C428: B25DCKH118 | D428: D25CQKH01-B | E428: Vương Thị Phương | F428: Thảo | G428: 29/09/2007 | H428: Nữ | I428: 2025 | J428: Khoa học máy tính
+A429: 428 | B429: Lớp 3 | C429: B25DCKH119 | D429: D25CQKH02-B | E429: Phạm Văn | F429: Thắng | G429: 12/08/2007 | H429: Nam | I429: 2025 | J429: Khoa học máy tính
+A430: 429 | B430: Lớp 3 | C430: B25DCKH120 | D430: D25CQKH03-B | E430: Bùi Quang | F430: Toàn | G430: 14/04/2007 | H430: Nam | I430: 2025 | J430: Khoa học máy tính
+A431: 430 | B431: Lớp 3 | C431: B25DCKH121 | D431: D25CQKH01-B | E431: Mai Quốc | F431: Toàn | G431: 23/10/2007 | H431: Nam | I431: 2025 | J431: Khoa học máy tính
+A432: 431 | B432: Lớp 3 | C432: B25DCKH123 | D432: D25CQKH03-B | E432: Phạm Quang | F432: Trung | G432: 01/08/2007 | H432: Nam | I432: 2025 | J432: Khoa học máy tính
+A433: 432 | B433: Lớp 3 | C433: B25DCKH125 | D433: D25CTKH01-B  | E433: Đàm Đức | F433: Trung | G433: 22/03/2007 | H433: Nam | I433: 2025 | J433: Khoa học máy tính
+A434: 433 | B434: Lớp 3 | C434: B25DCKH127 | D434: D25CQKH01-B | E434: Trần Tiến | F434: Tuân | G434: 19/01/2007 | H434: Nam | I434: 2025 | J434: Khoa học máy tính
+A435: 434 | B435: Lớp 3 | C435: B25DCKH128 | D435: D25CQKH02-B | E435: Phạm Anh | F435: Tuấn | G435: 21/05/2007 | H435: Nam | I435: 2025 | J435: Khoa học máy tính
+A436: 435 | B436: Lớp 3 | C436: B25DCKH129 | D436: D25CQKH03-B | E436: Đàm Khắc | F436: Tuấn | G436: 15/03/2007 | H436: Nam | I436: 2025 | J436: Khoa học máy tính
+A437: 436 | B437: Lớp 3 | C437: B25DCKH131 | D437: D25CQKH02-B | E437: Hoàng | F437: Tùng | G437: 21/02/2006 | H437: Nam | I437: 2025 | J437: Khoa học máy tính
+A438: 437 | B438: Lớp 3 | C438: B25DCKH132 | D438: D25CQKH03-B | E438: Nguyễn Hoàng | F438: Tùng | G438: 13/02/2007 | H438: Nam | I438: 2025 | J438: Khoa học máy tính
+A439: 438 | B439: Lớp 3 | C439: B25DCKH133 | D439: D25CTKH01-B  | E439: Đinh Ngọc Anh | F439: Tú | G439: 07/11/2007 | H439: Nam | I439: 2025 | J439: Khoa học máy tính
+A440: 439 | B440: Lớp 3 | C440: B25DCKH134 | D440: D25CQKH02-B | E440: Lê Vĩnh | F440: Tường | G440: 05/09/2007 | H440: Nam | I440: 2025 | J440: Khoa học máy tính
+A441: 440 | B441: Lớp 3 | C441: B25DCKH135 | D441: D25CQKH03-B | E441: Huỳnh Quang | F441: Vinh | G441: 02/07/2007 | H441: Nam | I441: 2025 | J441: Khoa học máy tính
+A442: 441 | B442: Lớp 3 | C442: B25DCKH136 | D442: D25CQKH01-B | E442: Đặng Nguyễn Quang | F442: Vinh | G442: 05/09/2007 | H442: Nam | I442: 2025 | J442: Khoa học máy tính
+A443: 442 | B443: Lớp 3 | C443: B25DCKH137 | D443: D25CQKH02-B | E443: Lê Hoàng Tuấn | F443: Việt | G443: 09/12/2007 | H443: Nam | I443: 2025 | J443: Khoa học máy tính
+A444: 443 | B444: Lớp 3 | C444: B25DCKH138 | D444: D25CTKH01-B  | E444: Phạm Thị Hải | F444: Yến | G444: 13/06/2007 | H444: Nữ | I444: 2025 | J444: Khoa học máy tính
+A445: 444 | B445: Lớp 3 | C445: B25DCKH139 | D445: D25CQKH01-B | E445: Lê Thị Ngọc | F445: Ánh | G445: 30/07/2007 | H445: Nữ | I445: 2025 | J445: Khoa học máy tính
+A446: 445 | B446: Lớp 3 | C446: B25DCKH140 | D446: D25CQKH02-B | E446: Hồ Sỹ | F446: Đan | G446: 26/09/2007 | H446: Nam | I446: 2025 | J446: Khoa học máy tính
+A447: 446 | B447: Lớp 3 | C447: B25DCKH141 | D447: D25CQKH03-B | E447: Nguyễn Minh | F447: Đăng | G447: 24/05/2007 | H447: Nam | I447: 2025 | J447: Khoa học máy tính
+A448: 447 | B448: Lớp 3 | C448: B25DCKH142 | D448: D25CTKH01-B  | E448: Lê Đình | F448: Đạt | G448: 18/08/2006 | H448: Nam | I448: 2025 | J448: Khoa học máy tính
+A449: 448 | B449: Lớp 3 | C449: B25DCKH143 | D449: D25CTKH01-B  | E449: Nguyễn Tiến | F449: Đạt | G449: 14/01/2007 | H449: Nam | I449: 2025 | J449: Khoa học máy tính
+A450: 449 | B450: Lớp 3 | C450: B25DCKH144 | D450: D25CQKH03-B | E450: Trần Bảo | F450: Đạt | G450: 18/03/2007 | H450: Nam | I450: 2025 | J450: Khoa học máy tính
+A451: 450 | B451: Lớp 3 | C451: B25DCKH145 | D451: D25CQKH01-B | E451: Đoàn Đức | F451: Đạt | G451: 11/02/2007 | H451: Nam | I451: 2025 | J451: Khoa học máy tính
+A452: 451 | B452: Lớp 3 | C452: B25DCKH146 | D452: D25CQKH02-B | E452: Đặng Tuấn | F452: Đạt | G452: 14/11/2007 | H452: Nam | I452: 2025 | J452: Khoa học máy tính
+A453: 452 | B453: Lớp 3 | C453: B25DCKH147 | D453: D25CTKH01-B  | E453: Hoàng Mạnh | F453: Đức | G453: 15/01/2007 | H453: Nam | I453: 2025 | J453: Khoa học máy tính
+A454: 453 | B454: Lớp 3 | C454: B25DCKH148 | D454: D25CQKH01-B | E454: Nguyễn Minh | F454: Đức | G454: 25/03/2007 | H454: Nam | I454: 2025 | J454: Khoa học máy tính
+A455: 454 | B455: Lớp 3 | C455: B25DCKH149 | D455: D25CQKH02-B | E455: Nguyễn Văn | F455: Đức | G455: 18/08/2007 | H455: Nam | I455: 2025 | J455: Khoa học máy tính
+A456: 455 | B456: Lớp 3 | C456: B25DCKH150 | D456: D25CQKH03-B | E456: Phan Sỹ Anh | F456: Đức | G456: 07/09/2007 | H456: Nam | I456: 2025 | J456: Khoa học máy tính
+A457: 456 | B457: Lớp 3 | C457: B25DCKH151 | D457: D25CQKH01-B | E457: Trần Ngọc | F457: Đức | G457: 01/01/2007 | H457: Nam | I457: 2025 | J457: Khoa học máy tính
+A458: 457 | B458: Lớp 3 | C458: B25DCVM001 | D458: D25CQVM01-B | E458: Lê Duy | F458: Anh | G458: 08/07/2007 | H458: Nam | I458: 2025 | J458: Công nghệ Vi mạch bán dẫn
+A459: 458 | B459: Lớp 3 | C459: B25DCVM002 | D459: D25CQVM02-B | E459: Nghiêm Tuấn | F459: Anh | G459: 20/08/2007 | H459: Nam | I459: 2025 | J459: Công nghệ Vi mạch bán dẫn
+A460: 459 | B460: Lớp 3 | C460: B25DCVM003 | D460: D25CQVM03-B | E460: Nguyễn Duy | F460: Anh | G460: 08/08/2007 | H460: Nam | I460: 2025 | J460: Công nghệ Vi mạch bán dẫn
+A461: 460 | B461: Lớp 3 | C461: B25DCVM004 | D461: D25CQVM01-B | E461: Nguyễn Ngọc | F461: Anh | G461: 05/06/2007 | H461: Nam | I461: 2025 | J461: Công nghệ Vi mạch bán dẫn
+A462: 461 | B462: Lớp 3 | C462: B25DCVM005 | D462: D25CTVM01-B | E462: Phạm Tuấn | F462: Anh | G462: 20/10/2007 | H462: Nam | I462: 2025 | J462: Công nghệ Vi mạch bán dẫn
+A463: 462 | B463: Lớp 3 | C463: B25DCVM006 | D463: D25CTVM01-B | E463: Phạm Việt | F463: Anh | G463: 12/07/2007 | H463: Nam | I463: 2025 | J463: Công nghệ Vi mạch bán dẫn
+A464: 463 | B464: Lớp 3 | C464: B25DCVM007 | D464: D25CTVM01-B | E464: Trần Thế | F464: Anh | G464: 21/12/2007 | H464: Nam | I464: 2025 | J464: Công nghệ Vi mạch bán dẫn
+A465: 464 | B465: Lớp 3 | C465: B25DCVM008 | D465: D25CQVM02-B | E465: Vi Việt | F465: Anh | G465: 20/12/2007 | H465: Nam | I465: 2025 | J465: Công nghệ Vi mạch bán dẫn
+A466: 465 | B466: Lớp 3 | C466: B25DCVM009 | D466: D25CQVM03-B | E466: Vũ Tuấn | F466: Anh | G466: 05/02/2007 | H466: Nam | I466: 2025 | J466: Công nghệ Vi mạch bán dẫn
+A467: 466 | B467: Lớp 3 | C467: B25DCVM010 | D467: D25CQVM01-B | E467: Vũ Đức | F467: Anh | G467: 16/11/2007 | H467: Nam | I467: 2025 | J467: Công nghệ Vi mạch bán dẫn
+A468: 467 | B468: Lớp 3 | C468: B25DCVM011 | D468: D25CQVM02-B | E468: Đỗ Việt | F468: Anh | G468: 05/01/2007 | H468: Nam | I468: 2025 | J468: Công nghệ Vi mạch bán dẫn
+A469: 468 | B469: Lớp 3 | C469: B25DCVM012 | D469: D25CQVM03-B | E469: Đỗ Văn | F469: Biên | G469: 17/04/2007 | H469: Nam | I469: 2025 | J469: Công nghệ Vi mạch bán dẫn
+A470: 469 | B470: Lớp 3 | C470: B25DCVM013 | D470: D25CTVM01-B | E470: Ngô Phạm Ngọc | F470: Bách | G470: 11/11/2007 | H470: Nam | I470: 2025 | J470: Công nghệ Vi mạch bán dẫn
+A471: 470 | B471: Lớp 3 | C471: B25DCVM014 | D471: D25CQVM02-B | E471: Mai Thanh | F471: Bình | G471: 13/10/2007 | H471: Nam | I471: 2025 | J471: Công nghệ Vi mạch bán dẫn
+A472: 471 | B472: Lớp 3 | C472: B25DCVM015 | D472: D25CQVM03-B | E472: Phan Gia | F472: Bình | G472: 22/11/2007 | H472: Nam | I472: 2025 | J472: Công nghệ Vi mạch bán dẫn
+A473: 472 | B473: Lớp 3 | C473: B25DCVM016 | D473: D25CQVM01-B | E473: Vũ Nam | F473: Bình | G473: 07/12/2007 | H473: Nam | I473: 2025 | J473: Công nghệ Vi mạch bán dẫn
+A474: 473 | B474: Lớp 3 | C474: B25DCVM017 | D474: D25CQVM02-B | E474: Đỗ Khắc Gia | F474: Bảo | G474: 21/05/2007 | H474: Nam | I474: 2025 | J474: Công nghệ Vi mạch bán dẫn
+A475: 474 | B475: Lớp 3 | C475: B25DCVM018 | D475: D25CQVM03-B | E475: Vũ Minh | F475: Chiến | G475: 06/03/2007 | H475: Nam | I475: 2025 | J475: Công nghệ Vi mạch bán dẫn
+A476: 475 | B476: Lớp 3 | C476: B25DCVM019 | D476: D25CQVM01-B | E476: Lê Xuân | F476: Công | G476: 05/08/2007 | H476: Nam | I476: 2025 | J476: Công nghệ Vi mạch bán dẫn
+A477: 476 | B477: Lớp 3 | C477: B25DCVM020 | D477: D25CQVM02-B | E477: Hà Xuân | F477: Cường | G477: 13/12/2007 | H477: Nam | I477: 2025 | J477: Công nghệ Vi mạch bán dẫn
+A478: 477 | B478: Lớp 3 | C478: B25DCVM021 | D478: D25CQVM03-B | E478: Nguyễn Quang | F478: Cường | G478: 26/03/2007 | H478: Nam | I478: 2025 | J478: Công nghệ Vi mạch bán dẫn
+A479: 478 | B479: Lớp 3 | C479: B25DCVM022 | D479: D25CTVM01-B | E479: Trần Công | F479: Diên | G479: 03/05/2007 | H479: Nam | I479: 2025 | J479: Công nghệ Vi mạch bán dẫn
+A480: 479 | B480: Lớp 3 | C480: B25DCVM023 | D480: D25CQVM02-B | E480: Lê Anh | F480: Duy | G480: 31/07/2007 | H480: Nam | I480: 2025 | J480: Công nghệ Vi mạch bán dẫn
+A481: 480 | B481: Lớp 3 | C481: B25DCVM024 | D481: D25CQVM03-B | E481: Lê Văn | F481: Duy | G481: 11/12/2007 | H481: Nam | I481: 2025 | J481: Công nghệ Vi mạch bán dẫn
+A482: 481 | B482: Lớp 3 | C482: B25DCVM025 | D482: D25CQVM01-B | E482: Nguyễn Khánh | F482: Duy | G482: 18/11/2007 | H482: Nam | I482: 2025 | J482: Công nghệ Vi mạch bán dẫn
+A483: 482 | B483: Lớp 3 | C483: B25DCVM026 | D483: D25CQVM02-B | E483: Phạm Tiến | F483: Dũng | G483: 21/08/2007 | H483: Nam | I483: 2025 | J483: Công nghệ Vi mạch bán dẫn
+A484: 483 | B484: Lớp 3 | C484: B25DCVM027 | D484: D25CTVM01-B | E484: Phạm Tiến | F484: Dũng | G484: 15/08/2007 | H484: Nam | I484: 2025 | J484: Công nghệ Vi mạch bán dẫn
+A485: 484 | B485: Lớp 3 | C485: B25DCVM028 | D485: D25CQVM01-B | E485: Hồ An | F485: Dương | G485: 23/08/2007 | H485: Nam | I485: 2025 | J485: Công nghệ Vi mạch bán dẫn
+A486: 485 | B486: Lớp 3 | C486: B25DCVM029 | D486: D25CQVM02-B | E486: Chu Văn | F486: Hiếu | G486: 27/06/2007 | H486: Nam | I486: 2025 | J486: Công nghệ Vi mạch bán dẫn
+A487: 486 | B487: Lớp 3 | C487: B25DCVM031 | D487: D25CQVM01-B | E487: Nguyễn Minh | F487: Hiếu | G487: 26/09/2007 | H487: Nam | I487: 2025 | J487: Công nghệ Vi mạch bán dẫn
+A488: 487 | B488: Lớp 3 | C488: B25DCVM032 | D488: D25CQVM02-B | E488: Nguyễn Đăng | F488: Hiệp | G488: 23/03/2007 | H488: Nam | I488: 2025 | J488: Công nghệ Vi mạch bán dẫn
+A489: 488 | B489: Lớp 3 | C489: B25DCVM033 | D489: D25CTVM01-B | E489: Vũ Đức | F489: Hiệu | G489: 28/09/2007 | H489: Nam | I489: 2025 | J489: Công nghệ Vi mạch bán dẫn
+A490: 489 | B490: Lớp 3 | C490: B25DCVM034 | D490: D25CTVM01-B | E490: Lê Nguyễn Vũ | F490: Hoàn | G490: 01/07/2007 | H490: Nam | I490: 2025 | J490: Công nghệ Vi mạch bán dẫn
+A491: 490 | B491: Lớp 3 | C491: B25DCVM035 | D491: D25CQVM02-B | E491: Hà Minh | F491: Hoàng | G491: 22/05/2007 | H491: Nam | I491: 2025 | J491: Công nghệ Vi mạch bán dẫn
+A492: 491 | B492: Lớp 3 | C492: B25DCVM036 | D492: D25CTVM01-B | E492: Nguyễn Thế | F492: Hoàng | G492: 29/06/2007 | H492: Nam | I492: 2025 | J492: Công nghệ Vi mạch bán dẫn
+A493: 492 | B493: Lớp 3 | C493: B25DCVM037 | D493: D25CQVM01-B | E493: Trần Huy | F493: Hoàng | G493: 15/09/2007 | H493: Nam | I493: 2025 | J493: Công nghệ Vi mạch bán dẫn
+A494: 493 | B494: Lớp 3 | C494: B25DCVM038 | D494: D25CTVM01-B | E494: Hà Quang | F494: Huy | G494: 05/11/2007 | H494: Nam | I494: 2025 | J494: Công nghệ Vi mạch bán dẫn
+A495: 494 | B495: Lớp 3 | C495: B25DCVM039 | D495: D25CTVM01-B | E495: Lê Hữu | F495: Huy | G495: 10/01/2007 | H495: Nam | I495: 2025 | J495: Công nghệ Vi mạch bán dẫn
+A496: 495 | B496: Lớp 3 | C496: B25DCVM040 | D496: D25CQVM01-B | E496: Lưu Quang | F496: Huy | G496: 13/02/2007 | H496: Nam | I496: 2025 | J496: Công nghệ Vi mạch bán dẫn
+A497: 496 | B497: Lớp 3 | C497: B25DCVM043 | D497: D25CQVM01-B | E497: Nguyễn Hữu Gia | F497: Huy | G497: 19/11/2007 | H497: Nam | I497: 2025 | J497: Công nghệ Vi mạch bán dẫn
+A498: 497 | B498: Lớp 3 | C498: B25DCVM044 | D498: D25CTVM01-B | E498: Nguyễn Quang | F498: Huy | G498: 18/12/2007 | H498: Nam | I498: 2025 | J498: Công nghệ Vi mạch bán dẫn
+A499: 498 | B499: Lớp 3 | C499: B25DCVM045 | D499: D25CQVM03-B | E499: Phạm Xuân | F499: Huy | G499: 28/09/2007 | H499: Nam | I499: 2025 | J499: Công nghệ Vi mạch bán dẫn
+A500: 499 | B500: Lớp 3 | C500: B25DCVM046 | D500: D25CQVM01-B | E500: Trần Gia | F500: Huy | G500: 31/07/2007 | H500: Nam | I500: 2025 | J500: Công nghệ Vi mạch bán dẫn
+A501: 500 | B501: Lớp 3 | C501: B25DCVM047 | D501: D25CQVM02-B | E501: Đinh Gia | F501: Huy | G501: 24/08/2007 | H501: Nam | I501: 2025 | J501: Công nghệ Vi mạch bán dẫn
+A502: 501 | B502: Lớp 3 | C502: B25DCVM048 | D502: D25CQVM03-B | E502: Nguyễn Hoàng | F502: Hà | G502: 24/09/2007 | H502: Nam | I502: 2025 | J502: Công nghệ Vi mạch bán dẫn
+A503: 502 | B503: Lớp 3 | C503: B25DCVM049 | D503: D25CQVM01-B | E503: Bùi Mạnh | F503: Hùng | G503: 21/09/2007 | H503: Nam | I503: 2025 | J503: Công nghệ Vi mạch bán dẫn
+A504: 503 | B504: Lớp 3 | C504: B25DCVM050 | D504: D25CQVM02-B | E504: Phan Đức | F504: Hùng | G504: 18/12/2007 | H504: Nam | I504: 2025 | J504: Công nghệ Vi mạch bán dẫn
+A505: 504 | B505: Lớp 3 | C505: B25DCVM051 | D505: D25CQVM03-B | E505: Cao Thái | F505: Hưng | G505: 10/10/2007 | H505: Nam | I505: 2025 | J505: Công nghệ Vi mạch bán dẫn
+A506: 505 | B506: Lớp 3 | C506: B25DCVM052 | D506: D25CQVM01-B | E506: Nguyễn Phúc | F506: Hưng | G506: 25/08/2007 | H506: Nam | I506: 2025 | J506: Công nghệ Vi mạch bán dẫn
+A507: 506 | B507: Lớp 3 | C507: B25DCVM053 | D507: D25CQVM02-B | E507: Phạm Gia | F507: Hưng | G507: 23/04/2007 | H507: Nam | I507: 2025 | J507: Công nghệ Vi mạch bán dẫn
+A508: 507 | B508: Lớp 3 | C508: B25DCVM055 | D508: D25CQVM01-B | E508: Trương Quang | F508: Hải | G508: 27/09/2007 | H508: Nam | I508: 2025 | J508: Công nghệ Vi mạch bán dẫn
+A509: 508 | B509: Lớp 3 | C509: B25DCVM056 | D509: D25CQVM02-B | E509: Trương Thanh | F509: Hải | G509: 27/09/2007 | H509: Nam | I509: 2025 | J509: Công nghệ Vi mạch bán dẫn
+A510: 509 | B510: Lớp 3 | C510: B25DCVM057 | D510: D25CQVM03-B | E510: Nguyễn Chí | F510: Hợp | G510: 12/06/2007 | H510: Nam | I510: 2025 | J510: Công nghệ Vi mạch bán dẫn
+A511: 510 | B511: Lớp 3 | C511: B25DCVM058 | D511: D25CQVM01-B | E511: Bùi Công | F511: Khanh | G511: 05/05/2007 | H511: Nam | I511: 2025 | J511: Công nghệ Vi mạch bán dẫn
+A512: 511 | B512: Lớp 3 | C512: B25DCVM059 | D512: D25CQVM02-B | E512: Nguyễn Minh | F512: Khuê | G512: 06/02/2007 | H512: Nữ | I512: 2025 | J512: Công nghệ Vi mạch bán dẫn
+A513: 512 | B513: Lớp 3 | C513: B25DCVM060 | D513: D25CTVM01-B | E513: Lê Nguyên | F513: Khôi | G513: 13/12/2007 | H513: Nam | I513: 2025 | J513: Công nghệ Vi mạch bán dẫn
+A514: 513 | B514: Lớp 3 | C514: B25DCVM061 | D514: D25CQVM01-B | E514: Phan Tấn | F514: Khởi | G514: 01/02/2007 | H514: Nam | I514: 2025 | J514: Công nghệ Vi mạch bán dẫn
+A515: 514 | B515: Lớp 3 | C515: B25DCVM062 | D515: D25CQVM02-B | E515: Tống Trung | F515: Kiên | G515: 10/05/2007 | H515: Nam | I515: 2025 | J515: Công nghệ Vi mạch bán dẫn
+A516: 515 | B516: Lớp 3 | C516: B25DCVM063 | D516: D25CQVM03-B | E516: Đinh Minh | F516: Kiên | G516: 25/09/2007 | H516: Nam | I516: 2025 | J516: Công nghệ Vi mạch bán dẫn
+A517: 516 | B517: Lớp 3 | C517: B25DCVM064 | D517: D25CTVM01-B | E517: Phạm Tuấn | F517: Kiệt | G517: 28/08/2007 | H517: Nam | I517: 2025 | J517: Công nghệ Vi mạch bán dẫn
+A518: 517 | B518: Lớp 3 | C518: B25DCVM065 | D518: D25CQVM02-B | E518: Trần Tuấn | F518: Kiệt | G518: 26/12/2007 | H518: Nam | I518: 2025 | J518: Công nghệ Vi mạch bán dẫn
+A519: 518 | B519: Lớp 3 | C519: B25DCVM066 | D519: D25CQVM03-B | E519: Nguyễn Đức | F519: Liêm | G519: 16/09/2007 | H519: Nam | I519: 2025 | J519: Công nghệ Vi mạch bán dẫn
+A520: 519 | B520: Lớp 3 | C520: B25DCVM067 | D520: D25CTVM01-B | E520: Trần Nhất | F520: Long | G520: 08/02/2007 | H520: Nam | I520: 2025 | J520: Công nghệ Vi mạch bán dẫn
+A521: 520 | B521: Lớp 3 | C521: B25DCVM068 | D521: D25CTVM01-B | E521: Vũ Lệnh Hải | F521: Long | G521: 08/10/2007 | H521: Nam | I521: 2025 | J521: Công nghệ Vi mạch bán dẫn
+A522: 521 | B522: Lớp 3 | C522: B25DCVM069 | D522: D25CQVM03-B | E522: Lê Vũ Tùng | F522: Lâm | G522: 23/06/2007 | H522: Nam | I522: 2025 | J522: Công nghệ Vi mạch bán dẫn
+A523: 522 | B523: Lớp 3 | C523: B25DCVM070 | D523: D25CQVM01-B | E523: Tào Nguyễn Hoàng | F523: Lâm | G523: 05/09/2007 | H523: Nam | I523: 2025 | J523: Công nghệ Vi mạch bán dẫn
+A524: 523 | B524: Lớp 3 | C524: B25DCVM071 | D524: D25CQVM02-B | E524: Đặng Thượng | F524: Lưu | G524: 04/12/2007 | H524: Nam | I524: 2025 | J524: Công nghệ Vi mạch bán dẫn
+A525: 524 | B525: Lớp 3 | C525: B25DCVM072 | D525: D25CTVM01-B | E525: Nguyễn Văn | F525: Lợi | G525: 27/11/2007 | H525: Nam | I525: 2025 | J525: Công nghệ Vi mạch bán dẫn
+A526: 525 | B526: Lớp 3 | C526: B25DCVM073 | D526: D25CTVM01-B | E526: Bùi Quang | F526: Minh | G526: 07/10/2007 | H526: Nam | I526: 2025 | J526: Công nghệ Vi mạch bán dẫn
+A527: 526 | B527: Lớp 3 | C527: B25DCVM076 | D527: D25CQVM01-B | E527: Kiều Quang | F527: Minh | G527: 01/12/2007 | H527: Nam | I527: 2025 | J527: Công nghệ Vi mạch bán dẫn
+A528: 527 | B528: Lớp 3 | C528: B25DCVM077 | D528: D25CQVM02-B | E528: Nguyễn Bình | F528: Minh | G528: 19/10/2007 | H528: Nam | I528: 2025 | J528: Công nghệ Vi mạch bán dẫn
+A529: 528 | B529: Lớp 3 | C529: B25DCVM078 | D529: D25CQVM03-B | E529: Nguyễn Công | F529: Minh | G529: 07/12/2007 | H529: Nam | I529: 2025 | J529: Công nghệ Vi mạch bán dẫn
+A530: 529 | B530: Lớp 3 | C530: B25DCVM079 | D530: D25CQVM01-B | E530: Lê Tuấn | F530: Nam | G530: 09/07/2007 | H530: Nam | I530: 2025 | J530: Công nghệ Vi mạch bán dẫn
+A531: 530 | B531: Lớp 3 | C531: B25DCVM080 | D531: D25CQVM02-B | E531: Nguyễn Lê Hoài | F531: Nam | G531: 17/01/2007 | H531: Nam | I531: 2025 | J531: Công nghệ Vi mạch bán dẫn
+A532: 531 | B532: Lớp 3 | C532: B25DCVM081 | D532: D25CQVM03-B | E532: Nguyễn Đại | F532: Nam | G532: 28/10/2007 | H532: Nam | I532: 2025 | J532: Công nghệ Vi mạch bán dẫn
+A533: 532 | B533: Lớp 3 | C533: B25DCVM082 | D533: D25CQVM01-B | E533: Cao Văn Đại | F533: Nghĩa | G533: 15/12/2007 | H533: Nam | I533: 2025 | J533: Công nghệ Vi mạch bán dẫn
+A534: 533 | B534: Lớp 3 | C534: B25DCVM083 | D534: D25CQVM02-B | E534: Trương Tuấn | F534: Nghĩa | G534: 22/02/2007 | H534: Nam | I534: 2025 | J534: Công nghệ Vi mạch bán dẫn
+A535: 534 | B535: Lớp 3 | C535: B25DCVM084 | D535: D25CQVM03-B | E535: Lê Khôi | F535: Nguyên | G535: 01/05/2007 | H535: Nam | I535: 2025 | J535: Công nghệ Vi mạch bán dẫn
+A536: 535 | B536: Lớp 3 | C536: B25DCVM085 | D536: D25CQVM01-B | E536: Nguyễn Duy Hoàng | F536: Nguyên | G536: 30/04/2007 | H536: Nam | I536: 2025 | J536: Công nghệ Vi mạch bán dẫn
+A537: 536 | B537: Lớp 3 | C537: B25DCVM086 | D537: D25CQVM02-B | E537: Phan Bảo | F537: Nguyên | G537: 23/10/2007 | H537: Nam | I537: 2025 | J537: Công nghệ Vi mạch bán dẫn
+A538: 537 | B538: Lớp 3 | C538: B25DCVM087 | D538: D25CQVM03-B | E538: Trần Hoàng | F538: Nguyên | G538: 08/02/2007 | H538: Nam | I538: 2025 | J538: Công nghệ Vi mạch bán dẫn
+A539: 538 | B539: Lớp 3 | C539: B25DCVM088 | D539: D25CQVM01-B | E539: Nguyễn Quý | F539: Phong | G539: 20/08/2007 | H539: Nam | I539: 2025 | J539: Công nghệ Vi mạch bán dẫn
+A540: 539 | B540: Lớp 3 | C540: B25DCVM089 | D540: D25CQVM02-B | E540: Hoàng Kim Đại | F540: Phúc | G540: 19/06/2007 | H540: Nam | I540: 2025 | J540: Công nghệ Vi mạch bán dẫn
+A541: 540 | B541: Lớp 3 | C541: B25DCVM090 | D541: D25CTVM01-B | E541: Nguyễn Huy | F541: Phúc | G541: 07/09/2007 | H541: Nam | I541: 2025 | J541: Công nghệ Vi mạch bán dẫn
+A542: 541 | B542: Lớp 3 | C542: B25DCVM091 | D542: D25CQVM01-B | E542: Nguyễn Hữu | F542: Phúc | G542: 27/10/2007 | H542: Nam | I542: 2025 | J542: Công nghệ Vi mạch bán dẫn
+A543: 542 | B543: Lớp 3 | C543: B25DCVM092 | D543: D25CQVM02-B | E543: Nguyễn Quang Thiên | F543: Phúc | G543: 09/06/2007 | H543: Nam | I543: 2025 | J543: Công nghệ Vi mạch bán dẫn
+A544: 543 | B544: Lớp 3 | C544: B25DCVM093 | D544: D25CQVM03-B | E544: Nguyễn Văn | F544: Phúc | G544: 07/03/2007 | H544: Nam | I544: 2025 | J544: Công nghệ Vi mạch bán dẫn
+A545: 544 | B545: Lớp 3 | C545: B25DCVM094 | D545: D25CQVM01-B | E545: Vũ Hoàng | F545: Phúc | G545: 17/03/2007 | H545: Nam | I545: 2025 | J545: Công nghệ Vi mạch bán dẫn
+A546: 545 | B546: Lớp 3 | C546: B25DCVM095 | D546: D25CTVM01-B | E546: Nguyễn Việt | F546: Phương | G546: 05/01/2007 | H546: Nam | I546: 2025 | J546: Công nghệ Vi mạch bán dẫn
+A547: 546 | B547: Lớp 3 | C547: B25DCVM096 | D547: D25CQVM03-B | E547: Bùi Thanh | F547: Quang | G547: 30/10/2007 | H547: Nam | I547: 2025 | J547: Công nghệ Vi mạch bán dẫn
+A548: 547 | B548: Lớp 3 | C548: B25DCVM097 | D548: D25CTVM01-B | E548: Nguyễn Minh | F548: Quang | G548: 27/04/2007 | H548: Nam | I548: 2025 | J548: Công nghệ Vi mạch bán dẫn
+A549: 548 | B549: Lớp 3 | C549: B25DCVM098 | D549: D25CQVM02-B | E549: Phạm Minh | F549: Quang | G549: 11/12/2007 | H549: Nam | I549: 2025 | J549: Công nghệ Vi mạch bán dẫn
+A550: 549 | B550: Lớp 3 | C550: B25DCVM099 | D550: D25CTVM01-B | E550: Trần Tất | F550: Quang | G550: 27/11/2007 | H550: Nam | I550: 2025 | J550: Công nghệ Vi mạch bán dẫn
+A551: 550 | B551: Lớp 3 | C551: B25DCVM100 | D551: D25CTVM01-B | E551: Hoàng Nghĩa Minh | F551: Quân | G551: 01/08/2007 | H551: Nam | I551: 2025 | J551: Công nghệ Vi mạch bán dẫn
+A552: 551 | B552: Lớp 3 | C552: B25DCVM101 | D552: D25CQVM02-B | E552: Lưu Mạnh | F552: Quân | G552: 19/04/2007 | H552: Nam | I552: 2025 | J552: Công nghệ Vi mạch bán dẫn
+A553: 552 | B553: Lớp 3 | C553: B25DCVM103 | D553: D25CQVM01-B | E553: Nguyễn Minh | F553: Quân | G553: 27/01/2007 | H553: Nam | I553: 2025 | J553: Công nghệ Vi mạch bán dẫn
+A554: 553 | B554: Lớp 3 | C554: B25DCVM104 | D554: D25CQVM02-B | E554: Lê Minh | F554: Sáng | G554: 06/01/2007 | H554: Nam | I554: 2025 | J554: Công nghệ Vi mạch bán dẫn
+A555: 554 | B555: Lớp 3 | C555: B25DCVM105 | D555: D25CTVM01-B | E555: Nguyễn Hoàng | F555: Sơn | G555: 17/02/2007 | H555: Nam | I555: 2025 | J555: Công nghệ Vi mạch bán dẫn
+A556: 555 | B556: Lớp 3 | C556: B25DCVM106 | D556: D25CQVM01-B | E556: Nguyễn Ngọc | F556: Sơn | G556: 15/07/2007 | H556: Nam | I556: 2025 | J556: Công nghệ Vi mạch bán dẫn
+A557: 556 | B557: Lớp 3 | C557: B25DCVM107 | D557: D25CTVM01-B | E557: Nguyễn Tuấn | F557: Sơn | G557: 05/03/2007 | H557: Nam | I557: 2025 | J557: Công nghệ Vi mạch bán dẫn
+A558: 557 | B558: Lớp 3 | C558: B25DCVM108 | D558: D25CTVM01-B | E558: Lê Mạc Đăng | F558: Tao | G558: 15/03/2007 | H558: Nam | I558: 2025 | J558: Công nghệ Vi mạch bán dẫn
+A559: 558 | B559: Lớp 3 | C559: B25DCVM109 | D559: D25CQVM01-B | E559: Phùng Quang | F559: Thanh | G559: 20/10/2007 | H559: Nam | I559: 2025 | J559: Công nghệ Vi mạch bán dẫn
+A560: 559 | B560: Lớp 3 | C560: B25DCVM110 | D560: D25CQVM02-B | E560: Nguyễn Công | F560: Thuận | G560: 02/09/2007 | H560: Nam | I560: 2025 | J560: Công nghệ Vi mạch bán dẫn
+A561: 560 | B561: Lớp 3 | C561: B25DCVM111 | D561: D25CQVM03-B | E561: Nguyễn Tiến | F561: Thành | G561: 30/09/2007 | H561: Nam | I561: 2025 | J561: Công nghệ Vi mạch bán dẫn
+A562: 561 | B562: Lớp 3 | C562: B25DCVM112 | D562: D25CQVM01-B | E562: Phạm Tiến | F562: Thành | G562: 17/12/2007 | H562: Nam | I562: 2025 | J562: Công nghệ Vi mạch bán dẫn
+A563: 562 | B563: Lớp 3 | C563: B25DCVM113 | D563: D25CTVM01-B | E563: Trần Trung | F563: Thành | G563: 17/11/2007 | H563: Nam | I563: 2025 | J563: Công nghệ Vi mạch bán dẫn
+A564: 563 | B564: Lớp 3 | C564: B25DCVM114 | D564: D25CQVM03-B | E564: Đào Đức | F564: Thành | G564: 20/07/2007 | H564: Nam | I564: 2025 | J564: Công nghệ Vi mạch bán dẫn
+A565: 564 | B565: Lớp 3 | C565: B25DCVM115 | D565: D25CTVM01-B | E565: Lương Công | F565: Thái | G565: 13/09/2007 | H565: Nam | I565: 2025 | J565: Công nghệ Vi mạch bán dẫn
+A566: 565 | B566: Lớp 3 | C566: B25DCVM116 | D566: D25CQVM02-B | E566: Nguyễn Minh | F566: Thái | G566: 01/01/2007 | H566: Nam | I566: 2025 | J566: Công nghệ Vi mạch bán dẫn
+A567: 566 | B567: Lớp 3 | C567: B25DCVM117 | D567: D25CQVM03-B | E567: Phạm Đức | F567: Thắng | G567: 09/02/2007 | H567: Nam | I567: 2025 | J567: Công nghệ Vi mạch bán dẫn
+A568: 567 | B568: Lớp 3 | C568: B25DCVM118 | D568: D25CTVM01-B | E568: Trần Văn Việt | F568: Thắng | G568: 11/03/2007 | H568: Nam | I568: 2025 | J568: Công nghệ Vi mạch bán dẫn
+A569: 568 | B569: Lớp 3 | C569: B25DCVM119 | D569: D25CQVM02-B | E569: Nguyễn Viết | F569: Tiến | G569: 11/04/2007 | H569: Nam | I569: 2025 | J569: Công nghệ Vi mạch bán dẫn
+A570: 569 | B570: Lớp 3 | C570: B25DCVM120 | D570: D25CQVM03-B | E570: Trần Văn | F570: Tiến | G570: 10/03/2007 | H570: Nam | I570: 2025 | J570: Công nghệ Vi mạch bán dẫn
+A571: 570 | B571: Lớp 3 | C571: B25DCVM121 | D571: D25CQVM01-B | E571: Ngô Doãn | F571: Triển | G571: 05/01/2007 | H571: Nam | I571: 2025 | J571: Công nghệ Vi mạch bán dẫn
+A572: 571 | B572: Lớp 3 | C572: B25DCVM122 | D572: D25CQVM02-B | E572: Nguyễn Thành | F572: Trung | G572: 24/02/2007 | H572: Nam | I572: 2025 | J572: Công nghệ Vi mạch bán dẫn
+A573: 572 | B573: Lớp 3 | C573: B25DCVM123 | D573: D25CQVM03-B | E573: Phạm Quốc | F573: Trung | G573: 21/04/2007 | H573: Nam | I573: 2025 | J573: Công nghệ Vi mạch bán dẫn
+A574: 573 | B574: Lớp 3 | C574: B25DCVM124 | D574: D25CQVM01-B | E574: Tô Xuân | F574: Trường | G574: 02/10/2007 | H574: Nam | I574: 2025 | J574: Công nghệ Vi mạch bán dẫn
+A575: 574 | B575: Lớp 3 | C575: B25DCVM125 | D575: D25CQVM02-B | E575: Vương Trọng | F575: Trường | G575: 14/09/2007 | H575: Nam | I575: 2025 | J575: Công nghệ Vi mạch bán dẫn
+A576: 575 | B576: Lớp 3 | C576: B25DCVM126 | D576: D25CQVM03-B | E576: Ngô Duy | F576: Tuấn | G576: 17/05/2007 | H576: Nam | I576: 2025 | J576: Công nghệ Vi mạch bán dẫn
+A577: 576 | B577: Lớp 3 | C577: B25DCVM127 | D577: D25CTVM01-B | E577: Đậu Anh | F577: Tuấn | G577: 21/09/2007 | H577: Nam | I577: 2025 | J577: Công nghệ Vi mạch bán dẫn
+A578: 577 | B578: Lớp 3 | C578: B25DCVM128 | D578: D25CQVM02-B | E578: Đỗ Văn | F578: Tuấn | G578: 29/12/2007 | H578: Nam | I578: 2025 | J578: Công nghệ Vi mạch bán dẫn
+A579: 578 | B579: Lớp 3 | C579: B25DCVM129 | D579: D25CTVM01-B | E579: Nguyễn Văn | F579: Tài | G579: 05/10/2007 | H579: Nam | I579: 2025 | J579: Công nghệ Vi mạch bán dẫn
+A580: 579 | B580: Lớp 3 | C580: B25DCVM130 | D580: D25CTVM01-B | E580: Nguyễn Hoàng | F580: Tùng | G580: 22/10/2007 | H580: Nam | I580: 2025 | J580: Công nghệ Vi mạch bán dẫn
+A581: 580 | B581: Lớp 3 | C581: B25DCVM131 | D581: D25CTVM01-B | E581: Nguyễn Đỗ Sơn | F581: Tùng | G581: 17/01/2007 | H581: Nam | I581: 2025 | J581: Công nghệ Vi mạch bán dẫn
+A582: 581 | B582: Lớp 3 | C582: B25DCVM132 | D582: D25CQVM03-B | E582: Trần Thanh | F582: Tùng | G582: 22/04/2007 | H582: Nam | I582: 2025 | J582: Công nghệ Vi mạch bán dẫn
+A583: 582 | B583: Lớp 3 | C583: B25DCVM133 | D583: D25CQVM01-B | E583: Bùi Anh | F583: Tú | G583: 26/02/2007 | H583: Nam | I583: 2025 | J583: Công nghệ Vi mạch bán dẫn
+A584: 583 | B584: Lớp 3 | C584: B25DCVM134 | D584: D25CQVM02-B | E584: Vũ Văn | F584: Tú | G584: 02/03/2006 | H584: Nam | I584: 2025 | J584: Công nghệ Vi mạch bán dẫn
+A585: 584 | B585: Lớp 3 | C585: B25DCVM135 | D585: D25CTVM01-B | E585: Hoàng Thị Ngọc | F585: Uyên | G585: 14/03/2007 | H585: Nữ | I585: 2025 | J585: Công nghệ Vi mạch bán dẫn
+A586: 585 | B586: Lớp 3 | C586: B25DCVM136 | D586: D25CQVM01-B | E586: Phạm Đức | F586: Vinh | G586: 18/12/2007 | H586: Nam | I586: 2025 | J586: Công nghệ Vi mạch bán dẫn
+A587: 586 | B587: Lớp 3 | C587: B25DCVM137 | D587: D25CQVM02-B | E587: Trần Thế | F587: Vinh | G587: 07/10/2007 | H587: Nam | I587: 2025 | J587: Công nghệ Vi mạch bán dẫn
+A588: 587 | B588: Lớp 3 | C588: B25DCVM138 | D588: D25CQVM03-B | E588: Trần Quốc | F588: Việt | G588: 19/01/2007 | H588: Nam | I588: 2025 | J588: Công nghệ Vi mạch bán dẫn
+A589: 588 | B589: Lớp 3 | C589: B25DCVM139 | D589: D25CQVM01-B | E589: Lê Anh | F589: Vũ | G589: 27/10/2007 | H589: Nam | I589: 2025 | J589: Công nghệ Vi mạch bán dẫn
+A590: 589 | B590: Lớp 3 | C590: B25DCVM140 | D590: D25CQVM02-B | E590: Nguyễn Tấn | F590: Vũ | G590: 19/02/2007 | H590: Nam | I590: 2025 | J590: Công nghệ Vi mạch bán dẫn
+A591: 590 | B591: Lớp 3 | C591: B25DCVM141 | D591: D25CQVM03-B | E591: Lưu Văn | F591: Đô | G591: 10/12/2007 | H591: Nam | I591: 2025 | J591: Công nghệ Vi mạch bán dẫn
+A592: 591 | B592: Lớp 3 | C592: B25DCVM142 | D592: D25CQVM01-B | E592: Bùi Hải | F592: Đăng | G592: 16/11/2007 | H592: Nam | I592: 2025 | J592: Công nghệ Vi mạch bán dẫn
+A593: 592 | B593: Lớp 3 | C593: B25DCVM143 | D593: D25CTVM01-B | E593: Nguyễn Hải | F593: Đăng | G593: 15/01/2007 | H593: Nam | I593: 2025 | J593: Công nghệ Vi mạch bán dẫn
+A594: 593 | B594: Lớp 3 | C594: B25DCVM144 | D594: D25CQVM03-B | E594: Bùi Thọ | F594: Đạt | G594: 21/01/2007 | H594: Nam | I594: 2025 | J594: Công nghệ Vi mạch bán dẫn
+A595: 594 | B595: Lớp 3 | C595: B25DCVM145 | D595: D25CQVM01-B | E595: Nguyễn Hoành | F595: Đạt | G595: 13/08/2007 | H595: Nam | I595: 2025 | J595: Công nghệ Vi mạch bán dẫn
+A596: 595 | B596: Lớp 3 | C596: B25DCVM146 | D596: D25CQVM02-B | E596: Nguyễn Thành | F596: Đạt | G596: 12/06/2007 | H596: Nam | I596: 2025 | J596: Công nghệ Vi mạch bán dẫn
+A597: 596 | B597: Lớp 3 | C597: B25DCVM147 | D597: D25CQVM03-B | E597: Nguyễn Thành | F597: Đạt | G597: 15/12/2007 | H597: Nam | I597: 2025 | J597: Công nghệ Vi mạch bán dẫn
+A598: 597 | B598: Lớp 3 | C598: B25DCVM148 | D598: D25CQVM01-B | E598: Nguyễn Tiến | F598: Đạt | G598: 29/06/2007 | H598: Nam | I598: 2025 | J598: Công nghệ Vi mạch bán dẫn
+A599: 598 | B599: Lớp 3 | C599: B25DCVM149 | D599: D25CQVM02-B | E599: Lưu Tiến | F599: Đức | G599: 09/10/2007 | H599: Nam | I599: 2025 | J599: Công nghệ Vi mạch bán dẫn
+A600: 599 | B600: Lớp 3 | C600: B25DCVM150 | D600: D25CQVM03-B | E600: Nguyễn Minh | F600: Đức | G600: 04/03/2007 | H600: Nam | I600: 2025 | J600: Công nghệ Vi mạch bán dẫn
+A601: 600 | B601: Lớp 3 | C601: B25DCVM151 | D601: D25CQVM01-B | E601: Trần Minh | F601: Đức | G601: 13/01/2007 | H601: Nam | I601: 2025 | J601: Công nghệ Vi mạch bán dẫn
+A602: 601 | B602: Lớp 3 | C602: B25DCVM152 | D602: D25CTVM01-B | E602: Đỗ Lê Xuân | F602: Đức | G602: 20/11/2007 | H602: Nam | I602: 2025 | J602: Công nghệ Vi mạch bán dẫn
