@@ -7,6 +7,11 @@ from uuid import UUID, uuid4
 from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 
+from dotenv import load_dotenv
+
+# Load các biến từ file .env vào môi trường
+load_dotenv()
+
 if __package__:
     from .database import Database
     from .knowledge import Knowledge
