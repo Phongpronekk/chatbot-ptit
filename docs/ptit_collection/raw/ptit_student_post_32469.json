@@ -1,0 +1,119 @@
+{
+  "id": 32469,
+  "date": "2025-01-30T23:41:41",
+  "date_gmt": "2025-01-30T23:41:41",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=32469"
+  },
+  "modified": "2025-02-24T06:05:11",
+  "modified_gmt": "2025-02-24T06:05:11",
+  "slug": "hoc-bong-samsung-semiconductor",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/01/30/hoc-bong-samsung-semiconductor/",
+  "title": {
+    "rendered": "Học bổng Samsung Semiconductor"
+  },
+  "content": {
+    "rendered": "<p><strong>Theo kế hoạch, Samsung Electronics sẽ tổ chức một buổi giới thiệu trực tiếp tại Trường Đại học Công nghệ – Đại học Quốc gia Hà Nội vào chiều ngày 6/2/2025.</strong></p>\n<p>Buổi giới thiệu nhằm cung cấp thông tin chi tiết về Samsung Electronics, chương trình học bổng quốc tế dành cho các bậc Thạc sĩ và Tiến sĩ trong lĩnh vực bán dẫn (bao gồm thiết bị bán dẫn, thiết kế, kiến trúc, và phần mềm hệ thống), cũng như các cơ hội phát triển nghề nghiệp tại Samsung Electronics.</p>\n<p>Chương trình học bổng này được tài trợ toàn phần, bao gồm toàn bộ học phí, lệ phí, chi phí sinh hoạt, và tạo điều kiện để sinh viên Việt Nam tham gia học tập tại Đại học Quốc gia Seoul (SNU) hoặc KAIST – hai trường đại học danh tiếng tại Hàn Quốc.</p>\n<p>Sau khi hoàn thành chương trình, các sinh viên sẽ được đảm bảo cơ hội làm việc tại Bộ phận Giải pháp Thiết bị của Samsung Electronics tại Hàn Quốc, nơi họ sẽ tham gia vào các dự án tiên tiến trong ngành công nghiệp bán dẫn toàn cầu.</p>\n<p><strong>Thông tin chi tiết về buổi giới thiệu, cũng như cách đăng ký tham gia, được đính kèm trong hình ảnh dưới đây.</strong></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-32470 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS.jpg\" alt=\"\" width=\"1810\" height=\"2560\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS.jpg 1810w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS-212x300.jpg 212w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS-724x1024.jpg 724w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS-768x1086.jpg 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS-1086x1536.jpg 1086w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/SS-1448x2048.jpg 1448w\" sizes=\"(max-width: 1810px) 100vw, 1810px\" /></p>\n<p><em>Thông tin chi tiết về chương trình học bổng tại các liên kết dưới đây:</em></p>\n<ul>\n<li><strong>Đại học Quốc gia Seoul (SNU)</strong>: <a href=\"https://gsss.snu.ac.kr/GSSS-Program/Admission-Process-and-Requirements\">https://gsss.snu.ac.kr/GSSS-Program/Admission-Process-and-Requirements</a></li>\n</ul>\n<ul>\n<li><strong>KAIST</strong>: <a href=\"https://eeio.kaist.ac.kr/g-epss\">https://eeio.kaist.ac.kr/g-epss</a></li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Theo kế hoạch, Samsung Electronics sẽ tổ chức một buổi giới thiệu trực tiếp tại Trường Đại học Công nghệ – Đại học Quốc gia Hà Nội vào chiều ngày 6/2/2025. Buổi giới thiệu nhằm cung cấp thông tin chi tiết về Samsung Electronics, chương trình học bổng quốc tế dành cho các bậc Thạc [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 69,
+  "featured_media": 32472,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    21
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32469",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-hoc-bong-trao-doi-sinh-vien"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32469",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/69"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=32469"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32469/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32472"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32469"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=32469"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=32469"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

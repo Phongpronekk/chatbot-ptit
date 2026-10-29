@@ -46,6 +46,9 @@ class Database:
                     UNIQUE(conversation_id, request_id, role)
                 );
             """)
+            columns = {row['name'] for row in connection.execute('PRAGMA table_info(messages)')}
+            if 'attachments' not in columns:
+                connection.execute("ALTER TABLE messages ADD COLUMN attachments TEXT NOT NULL DEFAULT '[]'")
 
     def list(self, owner: str):
         with self.connect() as connection:
@@ -71,11 +74,12 @@ class Database:
                 return None
             messages = []
             for message in connection.execute(
-                "SELECT id,role,text,created_at,mode,sources FROM messages WHERE conversation_id=? ORDER BY sequence",
+                "SELECT id,role,text,created_at,mode,sources,attachments FROM messages WHERE conversation_id=? ORDER BY sequence",
                 (identifier,),
             ):
                 item = dict(message)
                 item["sources"] = json.loads(item["sources"])
+                item["attachments"] = json.loads(item["attachments"])
                 messages.append(item)
             return {**dict(row), "messages": messages}
 
@@ -87,7 +91,7 @@ class Database:
             ).fetchone() is not None
 
     def save_turn(self, identifier: str, owner: str, request_id: str, question: str,
-                  answer: str, mode: str, sources: list[dict]):
+                  answer: str, mode: str, sources: list[dict], attachments: list[dict] | None = None):
         with self.connect() as connection:
             connection.execute("BEGIN IMMEDIATE")
             row = connection.execute("SELECT 1 FROM conversations WHERE id=? AND owner=?",
@@ -100,13 +104,13 @@ class Database:
             if not exists:
                 first = connection.execute("SELECT 1 FROM messages WHERE conversation_id=?", (identifier,)).fetchone() is None
                 timestamp = now()
-                for role, content, message_mode, refs in (
-                    ("user", question, "user", []), ("assistant", answer, mode, sources)
+                for role, content, message_mode, refs, files in (
+                    ("user", question, "user", [], attachments or []), ("assistant", answer, mode, sources, [])
                 ):
                     connection.execute(
-                        "INSERT INTO messages (id,conversation_id,request_id,role,text,created_at,mode,sources) VALUES (?,?,?,?,?,?,?,?)",
+                        "INSERT INTO messages (id,conversation_id,request_id,role,text,created_at,mode,sources,attachments) VALUES (?,?,?,?,?,?,?,?,?)",
                         (str(uuid4()), identifier, request_id, role, content, timestamp, message_mode,
-                         json.dumps(refs, ensure_ascii=False)),
+                         json.dumps(refs, ensure_ascii=False), json.dumps(files, ensure_ascii=False)),
                     )
                 connection.execute("UPDATE conversations SET updated_at=? WHERE id=?", (timestamp, identifier))
                 if first:

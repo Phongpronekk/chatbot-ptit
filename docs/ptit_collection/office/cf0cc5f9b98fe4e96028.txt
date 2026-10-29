@@ -1,0 +1,52 @@
+### sheet1.xml
+B1: BỘ THÔNG TIN VÀ TRUYỀN THÔNG | F1: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+B2: HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG | F2: Độc lập - Tự do - Hạnh phúc
+B4: DANH SÁCH SINH VIÊN HỆ ĐẠI HỌC CHÍNH QUY KHÓA CÁC KHOÁ 2015 ĐẾN 2019 (CƠ SỞ HÀ NỘI) 
+ĐƯỢC CÔNG NHẬN CHUẨN ĐẦU RA TIẾNG ANH - ĐỢT T02/2025
+B5: (Kèm theo Quyết định số:              /QĐ-HV ngày        /03/2025 của Giám đốc Học viện)
+A7: STT | B7: Mã sinh viên | C7: Họ và tên | D7: Lớp | E7: Chứng chỉ Tiếng Anh | I7: Học/thi HP
+Tiếng Anh | K7: Ghi chú
+E8: Loại 
+chứng chỉ | F8: Điểm | G8: Thời hạn của chứng chỉ | H8: Nơi cấp | I8: Học phần | J8: Điểm | L8: d16 | M8: d17 | N8: d18 | O8: d19
+A9: 1 | B9: B15DCCN566 | C9: Đỗ Văn Trọng | D9: D15CNPM3 | E9: IELTS | F9: 5.0 | G9: 24/11/2026 | L9: #N/A | M9: #N/A | N9: #N/A | O9: #N/A
+A10: 2 | B10: B16DCCN518 | C10: Phạm Sơn Tùng | D10: D16CQCN09 | E10: TOEIC | F10: 505 | G10: 07/10/2026 | L10: #N/A | M10: #N/A | N10: #N/A | O10: #N/A
+A11: 3 | B11: B16DCCN534 | C11: Nguyễn Trọng Hiếu | D11: D16CQCN09 | E11: TOEIC | F11: 545 | G11: 20/12/2026 | L11: #N/A | M11: #N/A | N11: #N/A | O11: #N/A
+A12: 4 | B12: B16DCDT212 | C12: Sầm Ngọc Trung | D12: D16XLTH2 | E12: TOEIC | F12: 785 | G12: 28/12/2026 | L12: #N/A | M12: #N/A | N12: #N/A | O12: #N/A
+A13: 5 | B13: B16DCCN264 | C13: Đồng Văn Phong | D13: D16CNPM4 | E13: TOEIC | F13: 510 | G13: 20/02/2027 | L13: #N/A | M13: #N/A | N13: #N/A | O13: #N/A
+A14: 6 | B14: B17DCCN427 | C14: Trịnh Hữu Minh | D14: D17CNPM3 | E14: APTIS | F14: B1 | G14: 02/12/2026 | L14: #N/A | M14: #N/A | N14: #N/A | O14: #N/A
+A15: 7 | B15: B17DCPT104 | C15: Nguyễn Bá Huyên | D15: D17PTDPT2 | E15: APTIS | F15: B1 | G15: 16/12/2026 | L15: #N/A | M15: #N/A | N15: #N/A | O15: #N/A
+A16: 8 | B16: B17DCQT146 | C16: Đào Ngọc Thành | D16: D17TMDT1 | E16: APTIS | F16: B1 | G16: 24/11/2026 | L16: #N/A | M16: #N/A | N16: #N/A | O16: #N/A
+A17: 9 | B17: B17DCAT070 | C17: Nguyễn Minh Hiếu | D17: D17CQAT02-B | E17: TOEIC | F17: 525 | G17: 22/11/2026 | L17: #N/A | M17: #N/A | N17: #N/A | O17: #N/A
+A18: 10 | B18: B17DCAT168 | C18: Nguyễn Tuấn Thành | D18: B17CQAT04-B | E18: TOEIC | F18: 565 | G18: 11/12/2026 | L18: #N/A | M18: #N/A | N18: #N/A | O18: #N/A
+A19: 11 | B19: B17DCAT186 | C19: Nguyễn Văn Tình | D19: D17CQAT02-B | E19: TOEIC | F19: 520 | G19: 04/12/2026 | L19: #N/A | M19: #N/A | N19: #N/A | O19: #N/A
+A20: 12 | B20: B17DCPT131 | C20: Lê Ngọc Mai | D20: D17TKDPT2 | E20: TOEIC | F20: 990 | G20: 28/09/2026 | L20: #N/A | M20: #N/A | N20: #N/A | O20: #N/A
+A21: 13 | B21: B18DCCN638 | C21: Nguyễn Quang Thiện | D21: D18HTTT6 | E21: IELTS | F21: 7.5 | G21: 05/02/2027 | L21: #N/A | M21: #N/A | N21: #N/A | O21: #N/A
+A22: 14 | B22: B18DCAT027 | C22: Vương Hải Chiến | D22: D18CQAT03-B | E22: APTIS | F22: B1 | G22: 22/12/2026 | L22: #N/A | M22: #N/A | N22: #N/A | O22: #N/A
+A23: 15 | B23: B18DCAT029 | C23: Dương Văn Chung | D23: D18CQAT01-B | E23: APTIS | F23: B1 | G23: 05/08/2026 | L23: #N/A | M23: #N/A | N23: #N/A | O23: #N/A
+A24: 16 | B24: B18DCAT126 | C24: Hoàng Ngọc Khánh | D24: D18CQAT02-B | E24: APTIS | F24: B1 | G24: 16/02/2027 | L24: #N/A | M24: #N/A | N24: #N/A | O24: #N/A
+A25: 17 | B25: B18DCPT190 | C25: Trần Như Quỳnh | D25: D18TKDPT3 | E25: APTIS | F25: B1 | G25: 08/12/2026 | L25: #N/A | M25: #N/A | N25: #N/A | O25: #N/A
+A26: 18 | B26: B18DCAT070 | C26: Nguyễn Long Hải | D26: D18CQAT02-B | E26: TOEIC | F26: 620 | G26: 13/12/2026 | L26: #N/A | M26: #N/A | N26: #N/A | O26: #N/A
+A27: 19 | B27: B18DCCN033 | C27: Phạm Đức Anh | D27: D18CNPM6 | E27: TOEIC | F27: 845 | G27: 06/01/2027 | L27: #N/A | M27: #N/A | N27: #N/A | O27: #N/A
+A28: 20 | B28: B18DCCN586 | C28: Phạm Xuân Tùng | D28: D18CNPM2 | E28: TOEIC | F28: 535 | G28: 23/01/2027 | L28: #N/A | M28: #N/A | N28: #N/A | O28: #N/A
+A29: 21 | B29: B18DCMR022 | C29: Trần Vân Anh | D29: D18CQMR02-B | E29: TOEIC | F29: 625 | G29: 29/11/2026 | L29: #N/A | M29: #N/A | N29: #N/A | O29: #N/A
+A30: 22 | B30: B18DCMR125 | C30: Nguyễn Đức Minh | D30: D18PMR | E30: TOEIC | F30: 765 | G30: 21/01/2027 | L30: #N/A | M30: #N/A | N30: #N/A | O30: #N/A
+A31: 23 | B31: B18DCAT122 | C31: Phạm Trung Kiên | D31: D18CQAT02-B | E31: TOEIC | F31: 770 | G31: 13/01/2027 | L31: #N/A | M31: #N/A | N31: #N/A | O31: #N/A
+A32: 24 | B32: B18DCCN613 | C32: Hồ Đức Thành | D32: D18HTTT5 | E32: TOEIC | F32: 750 | G32: 22/12/2026 | L32: #N/A | M32: #N/A | N32: #N/A | O32: #N/A
+A33: 25 | B33: B19DCCN540 | C33: Trần Vũ Minh Quý | D33: D19HTTT4 | E33: TOEIC | F33: 575 | G33: 29/11/2026 | L33: #N/A | M33: #N/A | N33: #N/A | O33: #N/A
+A34: 26 | B34: B19DCDT193 | C34: Trần Ngọc Tiến | D34: D19DTMT1 | E34: TOEIC | F34: 920 | G34: 22/04/2025 | L34: #N/A | M34: #N/A | N34: #N/A | O34: #N/A
+A35: 27 | B35: B19DCMR166 | C35: Đào Trung Thành | D35: D19IMR02 | E35: TOEIC | F35: 630 | G35: 18/09/2026 | L35: #N/A | M35: #N/A | N35: #N/A | O35: #N/A
+A36: 28 | B36: B19DCMR176 | C36: Đồng Thị Phương Thủy | D36: D19CQMR04-B | E36: TOEIC | F36: 600 | G36: 15/01/2027 | L36: #N/A | M36: #N/A | N36: #N/A | O36: #N/A
+A37: 29 | B37: B19DCTM028 | C37: Nguyễn Hữu Huy Hoàng | D37: D19CQTM02-B | E37: TOEIC | F37: 595 | G37: 18/11/2026 | L37: #N/A | M37: #N/A | N37: #N/A | O37: #N/A
+A38: 30 | B38: B19DCAT156 | C38: Trương Công Sơn | D38: D19CQAT04-B | E38: APTIS | F38: B2 | G38: 12/10/2026 | L38: #N/A | M38: #N/A | N38: #N/A | O38: #N/A
+A39: 31 | B39: B19DCCN590 | C39: Nguyễn Công Toàn | D39: D19HTTT1 | E39: TOEIC | F39: 550 | G39: 21/08/2026 | L39: #N/A | M39: #N/A | N39: #N/A | O39: #N/A
+A40: 32 | B40: B19DCTM047 | C40: Nguyễn Đức Mạnh | D40: D19CQTM01-B | E40: TOEIC | F40: 985 | G40: 02/12/2026 | L40: #N/A | M40: #N/A | N40: #N/A | O40: #N/A
+A41: 33 | B41: B19DCCN319 | C41: Phạm Xuân Huy | D41: D19CNPM5 | E41: TOEIC | F41: 865 | G41: 04/01/2027 | L41: #N/A | M41: #N/A | N41: #N/A | O41: #N/A
+A42: 34 | B42: B19DCDT207 | C42: Vũ Minh Tuấn | D42: D19DTMT3 | E42: TOEIC | F42: 525 | G42: 26/12/2026 | L42: #N/A | M42: #N/A | N42: #N/A | O42: #N/A
+A43: 35 | B43: B19DCTM038 | C43: Dương Thành Long | D43: D19CQTM02-B | E43: TOEIC | F43: 670 | G43: 11/01/2027 | L43: #N/A | M43: #N/A | N43: #N/A | O43: #N/A
+A44: 36 | B44: B19DCCN261 | C44: Vũ Minh Hiếu | D44: D19HTTT4 | E44: TOEIC | F44: 595 | G44: 01/04/2026 | M44: #N/A | N44: #N/A | O44: #N/A
+A45: 37 | B45: B18DCMR057 | C45: Trần Thị Thu Hà | D45: D18IMR1 | I45: B1.2 | J45: 5.9
+A46: 38 | B46: B19DCCN530 | C46: Nguyễn Minh Quân | D46: D19CNPM8 | I46: B1.2 | J46: 5.3
+B47: Danh sách gồm 38 sinh viên
+B49: LẬP BIỂU | G49: KT. GIÁM ĐỐC
+G50: PHÓ GIÁM ĐỐC
+B54: Chu Phương Hiền | G54: PGS.TS. Trần Quang Anh

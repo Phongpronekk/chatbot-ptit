@@ -1,0 +1,842 @@
+### Trang 1
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+1 D21CQTC01-B B21DCTC001 Lê Đức Anh Nam 11/01/2003 Công nghệ tài chính (Fintech)
+2 D21CQTC02-B B21DCTC002 Lê Quỳnh Anh Nữ 28/03/2003 Công nghệ tài chính (Fintech)
+3 D21CQTC01-B B21DCTC003 Vũ Quỳnh Anh Nữ 08/12/2003 Công nghệ tài chính (Fintech)
+4 D21CQTC02-B B21DCTC004 Nguyễn Mạnh Cường Nam 05/06/2003 Công nghệ tài chính (Fintech)
+5 D21CQTC01-B B21DCTC005 Phạm Gia Hiển Nam 07/03/2003 Công nghệ tài chính (Fintech)
+6 D21CQTC02-B B21DCTC006 Trịnh Minh Hiếu Nam 10/03/2003 Công nghệ tài chính (Fintech)
+7 D21CQTC01-B B21DCTC007 Đinh Trọng Khang Nam 17/09/2003 Công nghệ tài chính (Fintech)
+8 D21CQTC02-B B21DCTC008 Văn Sỹ Kiên Nam 04/12/2003 Công nghệ tài chính (Fintech)
+9 D21CQTC01-B B21DCTC009 Nguyễn Cường Minh Nam 07/02/2003 Công nghệ tài chính (Fintech)
+10 D21CQTC02-B B21DCTC010 Nguyễn Đình Hải Minh Nam 01/07/2003 Công nghệ tài chính (Fintech)
+11 D21CQTC02-B B21DCTC012 Nguyễn Hoàng Nguyên Nam 22/11/2003 Công nghệ tài chính (Fintech)
+12 D21CQTC01-B B21DCTC013 Tô Thị Quý Nữ 19/02/2003 Công nghệ tài chính (Fintech)
+13 D21CQTC02-B B21DCTC014 Nguyễn Thị Thanh An Nữ 12/05/2003 Công nghệ tài chính (Fintech)
+14 D21CQTC01-B B21DCTC017 Nguyễn Đức Anh Nam 20/11/2003 Công nghệ tài chính (Fintech)
+15 D21CQTC02-B B21DCTC018 Nguyễn Phương Anh Nữ 19/03/2003 Công nghệ tài chính (Fintech)
+16 D21CQTC01-B B21DCTC019 Nguyễn Quốc Anh Nam 30/07/2003 Công nghệ tài chính (Fintech)
+17 D21CQTC02-B B21DCTC020 Nguyễn Trung Anh Nam 02/03/2003 Công nghệ tài chính (Fintech)
+18 D21CQTC02-B B21DCTC022 Đinh Công Bình Nam 26/09/2003 Công nghệ tài chính (Fintech)
+19 D21CQTC01-B B21DCTC023 Bùi Mai Chi Nữ 18/10/2003 Công nghệ tài chính (Fintech)
+20 D21CQTC02-B B21DCTC024 Vũ Thị Quế Chi Nữ 30/04/2003 Công nghệ tài chính (Fintech)
+21 D21CQTC02-B B21DCTC026 Phùng Tiến Cường Nam 29/10/2003 Công nghệ tài chính (Fintech)
+22 D21CQTC01-B B21DCTC027 Lê Hải Đăng Nam 03/10/2003 Công nghệ tài chính (Fintech)
+23 D21CQTC02-B B21DCTC028 Nguyễn Thị Huyền Diệu Nữ 03/08/2003 Công nghệ tài chính (Fintech)
+24 D21CQTC01-B B21DCTC029 Nguyễn Vương Đoàn Nam 05/11/2003 Công nghệ tài chính (Fintech)
+25 D21CQTC02-B B21DCTC030 Trịnh Mạnh Đức Nam 17/11/2003 Công nghệ tài chính (Fintech)
+26 D21CQTC01-B B21DCTC031 Bùi Ngọc Dũng Nam 31/07/2003 Công nghệ tài chính (Fintech)
+27 D21CQTC02-B B21DCTC032 Hà Mạnh Dũng Nam 12/08/2003 Công nghệ tài chính (Fintech)
+28 D21CQTC01-B B21DCTC033 Nguyễn Tiến Dũng Nam 14/12/2003 Công nghệ tài chính (Fintech)
+29 D21CQTC02-B B21DCTC036 Phạm Văn Tài Em Nam 22/05/2003 Công nghệ tài chính (Fintech)
+30 D21CQTC01-B B21DCTC037 Bì Thị Linh Giang Nữ 08/10/2003 Công nghệ tài chính (Fintech)
+31 D21CQTC02-B B21DCTC038 Bùi Thế Giang Nam 07/05/2003 Công nghệ tài chính (Fintech)
+32 D21CQTC01-B B21DCTC039 Vũ Quỳnh Giang Nữ 02/12/2003 Công nghệ tài chính (Fintech)
+33 D21CQTC02-B B21DCTC040 Nguyễn Thị Hà Nữ 28/05/2003 Công nghệ tài chính (Fintech)
+34 D21CQTC02-B B21DCTC042 Hoàng Thu Hiền Nữ 25/03/2003 Công nghệ tài chính (Fintech)
+35 D21CQTC01-B B21DCTC043 Nguyễn Ngọc Hiển Nam 30/10/2003 Công nghệ tài chính (Fintech)
+36 D21CQTC01-B B21DCTC045 Hoàng Phi Hùng Nam 25/12/2003 Công nghệ tài chính (Fintech)
+37 D21CQTC02-B B21DCTC046 Phạm Thế Hùng Nam 08/07/2003 Công nghệ tài chính (Fintech)
+38 D21CQTC01-B B21DCTC047 Trần Văn Hùng Nam 04/08/2003 Công nghệ tài chính (Fintech)
+39 D21CQTC02-B B21DCTC048 Trịnh Phi Hùng Nam 30/12/2002 Công nghệ tài chính (Fintech)
+40 D21CQTC01-B B21DCTC049 Nguyễn Thành Hưng Nam 08/04/2003 Công nghệ tài chính (Fintech)
+41 D21CQTC02-B B21DCTC050 Nguyễn Tuấn Hưng Nam 01/12/2003 Công nghệ tài chính (Fintech)
+42 D21CQTC01-B B21DCTC051 Lê Quang Huy Nam 02/08/1999 Công nghệ tài chính (Fintech)
+43 D21CQTC01-B B21DCTC053 Nguyễn Quang Huy Nam 03/11/2003 Công nghệ tài chính (Fintech)
+44 D21CQTC01-B B21DCTC055 Phạm Ngọc Khoa Nam 01/01/2003 Công nghệ tài chính (Fintech)
+45 D21CQTC02-B B21DCTC056 Hoàng Thu Khuyên Nữ 08/11/2003 Công nghệ tài chính (Fintech)
+46 D21CQTC01-B B21DCTC057 Trần Trung Kiên Nam 10/12/2003 Công nghệ tài chính (Fintech)
+47 D21CQTC02-B B21DCTC058 Phạm Đăng Lâm Nam 23/03/2003 Công nghệ tài chính (Fintech)
+48 D21CQTC01-B B21DCTC059 Đinh Thị Thùy Linh Nữ 16/03/2002 Công nghệ tài chính (Fintech)
+49 D21CQTC01-B B21DCTC061 Lê Thị Phương Linh Nữ 23/01/2003 Công nghệ tài chính (Fintech)
+50 D21CQTC02-B B21DCTC062 Nguyễn Thị Thùy Linh Nữ 22/07/2003 Công nghệ tài chính (Fintech)
+51 D21CQTC01-B B21DCTC063 Vũ Thị Thùy Linh Nữ 29/08/2003 Công nghệ tài chính (Fintech)
+52 D21CQTC02-B B21DCTC064 Phạm Minh Lộc Nam 17/11/2003 Công nghệ tài chính (Fintech)
+53 D21CQTC01-B B21DCTC065 Nguyễn Khánh Ly Nữ 14/09/2003 Công nghệ tài chính (Fintech)
+54 D21CQTC02-B B21DCTC066 Lê Ngọc Mai Nữ 28/12/2003 Công nghệ tài chính (Fintech)
+55 D21CQTC02-B B21DCTC068 Chu Văn Mạnh Nam 21/04/2003 Công nghệ tài chính (Fintech)
+56 D21CQTC01-B B21DCTC069 Đinh Lê Hoàng Minh Nam 03/02/2003 Công nghệ tài chính (Fintech)
+57 D21CQTC02-B B21DCTC070 Nguyễn Thị Nhật Minh Nữ 02/11/2003 Công nghệ tài chính (Fintech)
+58 D21CQTC01-B B21DCTC071 Nguyễn Vũ Quang Minh Nam 26/11/2003 Công nghệ tài chính (Fintech)
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+Quyết định công nhận tốt nghiệp số  1802/QĐ-HV ngày 05/9/2025
+
+### Trang 2
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+59 D21CQTC02-B B21DCTC072 Vũ Hoài Nam Nam 22/06/2003 Công nghệ tài chính (Fintech)
+60 D21CQTC01-B B21DCTC073 Lâm Thảo Ngọc Nữ 23/10/2003 Công nghệ tài chính (Fintech)
+61 D21CQTC01-B B21DCTC075 Nguyễn Thị Minh Nguyệt Nữ 04/04/2003 Công nghệ tài chính (Fintech)
+62 D21CQTC02-B B21DCTC076 Phạm Thị Thảo Nhi Nữ 10/02/2003 Công nghệ tài chính (Fintech)
+63 D21CQTC01-B B21DCTC077 Cao Thị Hồng Nhung Nữ 28/02/2003 Công nghệ tài chính (Fintech)
+64 D21CQTC02-B B21DCTC078 Mai Trang Nhung Nữ 03/02/2002 Công nghệ tài chính (Fintech)
+65 D21CQTC02-B B21DCTC080 Nguyễn Chí Phước Nam 16/11/2002 Công nghệ tài chính (Fintech)
+66 D21CQTC01-B B21DCTC081 Cao Việt Phương Nữ 20/09/2003 Công nghệ tài chính (Fintech)
+67 D21CQTC02-B B21DCTC082 Ngô Mai Phương Nữ 16/10/2003 Công nghệ tài chính (Fintech)
+68 D21CQTC01-B B21DCTC083 Nguyễn Hữu Phương Nam 02/12/2003 Công nghệ tài chính (Fintech)
+69 D21CQTC02-B B21DCTC084 Quách Thu Phương Nữ 15/10/2003 Công nghệ tài chính (Fintech)
+70 D21CQTC01-B B21DCTC085 Trần Đình Minh Quang Nam 08/09/2003 Công nghệ tài chính (Fintech)
+71 D21CQTC02-B B21DCTC086 Vũ Minh Quang Nam 24/09/2003 Công nghệ tài chính (Fintech)
+72 D21CQTC01-B B21DCTC087 Nguyễn Thị Quỳnh Nữ 07/11/2003 Công nghệ tài chính (Fintech)
+73 D21CQTC02-B B21DCTC088 Bùi Thị Tâm Nữ 12/02/2003 Công nghệ tài chính (Fintech)
+74 D21CQTC02-B B21DCTC090 Lê Văn Thái Nam 10/12/2003 Công nghệ tài chính (Fintech)
+75 D21CQTC01-B B21DCTC091 Nguyễn Đức Thắng Nam 26/09/2003 Công nghệ tài chính (Fintech)
+76 D21CQTC02-B B21DCTC092 Nguyễn Văn Thành Nam 27/05/2003 Công nghệ tài chính (Fintech)
+77 D21CQTC01-B B21DCTC093 Nguyễn Phương Thảo Nữ 26/06/2003 Công nghệ tài chính (Fintech)
+78 D21CQTC02-B B21DCTC094 Nguyễn Thị Thu Thảo Nữ 08/11/2003 Công nghệ tài chính (Fintech)
+79 D21CQTC01-B B21DCTC095 Nguyễn Công Toàn Nam 02/11/2003 Công nghệ tài chính (Fintech)
+80 D21CQTC02-B B21DCTC096 Hoàng Thị Huyền Trang Nữ 05/07/2003 Công nghệ tài chính (Fintech)
+81 D21CQTC01-B B21DCTC097 Phan Minh Trang Nữ 04/10/2003 Công nghệ tài chính (Fintech)
+82 D21CQTC01-B B21DCTC099 Ngô Minh Trường Nam 04/07/2003 Công nghệ tài chính (Fintech)
+83 D21CQTC01-B B21DCTC101 Nguyễn Thanh Tùng Nam 10/08/2003 Công nghệ tài chính (Fintech)
+84 D21CQTC02-B B21DCTC102 Đặng Phương Uyên Nữ 16/06/2003 Công nghệ tài chính (Fintech)
+85 D21CQTC01-B B21DCTC103 Trần Thị Thu Uyên Nữ 03/10/2003 Công nghệ tài chính (Fintech)
+86 D21CQTC02-B B21DCTC104 Nguyễn Thị Hồng Vân Nữ 11/09/2003 Công nghệ tài chính (Fintech)
+87 D21CQTC01-B B21DCTC105 Nguyễn Mậu Minh Việt Nam 04/08/2003 Công nghệ tài chính (Fintech)
+88 D21CQTC02-B B21DCTC106 Nguyễn Quốc Vương Nam 24/04/2003 Công nghệ tài chính (Fintech)
+89 D21CQTC01-B B21DCTC107 Nguyễn Ngọc Bảo Vy Nữ 13/01/2003 Công nghệ tài chính (Fintech)
+90 D21CQTC02-B B21DCTC108 Trần Thị Xuân Nữ 28/08/2003 Công nghệ tài chính (Fintech)
+91 D21CQTC01-B B21DCTC109 Nguyễn Thị Ngọc Yến Nữ 22/09/2003 Công nghệ tài chính (Fintech)
+92 D21CQKT03-B B20DCKT007 Hoàng Thị Thảo Anh Nữ 30/04/2002 Kế toán
+93 D21CQKT01-B B21DCKT001 Bùi Thị Thanh Huyền Nữ 01/03/2003 Kế toán
+94 D21CQKT02-B B21DCKT005 Lê Thị Ngọc Anh Nữ 07/10/2003 Kế toán
+95 D21CQKT03-B B21DCKT006 Lê Thị Vân Anh Nữ 16/10/2003 Kế toán
+96 D21CQKT01-B B21DCKT007 Mai Phương Anh Nữ 05/12/2003 Kế toán
+97 D21CQKT02-B B21DCKT008 Mai Thị Kim Anh Nữ 07/01/2003 Kế toán
+98 D21CQKT03-B B21DCKT009 Nguyễn Thị Lan Anh Nữ 08/09/2003 Kế toán
+99 D21CQKT01-B B21DCKT010 Nguyễn Thị Lan Anh Nữ 09/03/2003 Kế toán
+100 D21CQKT02-B B21DCKT011 Nguyễn Thị Ngọc Anh Nữ 01/06/2003 Kế toán
+101 D21CQKT03-B B21DCKT012 Nguyễn Thị Phương Anh Nữ 01/01/2003 Kế toán
+102 D21CQKT01-B B21DCKT013 Nguyễn Vân Anh Nữ 20/10/2003 Kế toán
+103 D21CQKT02-B B21DCKT014 Ong Thị Ngọc Anh Nữ 28/05/2003 Kế toán
+104 D21CQKT02-B B21DCKT017 Nguyễn Ngọc Ánh Nữ 25/12/2003 Kế toán
+105 D21CQKT03-B B21DCKT018 Nguyễn Thị Ánh Nữ 30/12/2003 Kế toán
+106 D21CQKT01-B B21DCKT028 Đào Thị Huyền Dịu Nữ 04/05/2003 Kế toán
+107 D21CQKT02-B B21DCKT029 Nguyễn Thùy Dung Nữ 18/03/2003 Kế toán
+108 D21CQKT03-B B21DCKT030 Đặng Thùy Dương Nữ 09/11/2003 Kế toán
+109 D21CQKT01-B B21DCKT031 Hà Quang Dương Nam 20/03/2003 Kế toán
+110 D21CQKT02-B B21DCKT032 Nguyễn Thùy Dương Nữ 08/09/2003 Kế toán
+111 D21CQKT03-B B21DCKT033 Vũ Thị Thùy Dương Nữ 26/03/2003 Kế toán
+112 D21CQKT01-B B21DCKT037 Nguyễn Hương Giang Nữ 17/07/2003 Kế toán
+113 D21CQKT02-B B21DCKT038 Nguyễn Thị Hương Giang Nữ 31/10/2003 Kế toán
+114 D21CQKT03-B B21DCKT039 Phan Thị Giang Nữ 28/08/2002 Kế toán
+115 D21CQKT01-B B21DCKT040 Thái Hương Giang Nữ 28/06/2003 Kế toán
+116 D21CQKT02-B B21DCKT044 Vũ Thị Hải Nữ 11/07/2002 Kế toán
+117 D21CQKT02-B B21DCKT047 Mai Thanh Hằng Nữ 01/02/2003 Kế toán
+
+### Trang 3
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+118 D21CQKT02-B B21DCKT050 Nguyễn Thị Hằng Nữ 02/02/2003 Kế toán
+119 D21CQKT03-B B21DCKT051 Lê Thị Bích Hạnh Nữ 18/01/2003 Kế toán
+120 D21CQKT01-B B21DCKT052 Vũ Thị Thanh Hậu Nữ 09/08/2003 Kế toán
+121 D21CQKT02-B B21DCKT053 Chu Thị Thu Hiền Nữ 29/03/2003 Kế toán
+122 D21CQKT03-B B21DCKT054 Nguyễn Thị Thu Hiền Nữ 07/06/2003 Kế toán
+123 D21CQKT02-B B21DCKT056 Trương Thị Hiệp Nữ 26/10/2003 Kế toán
+124 D21CQKT03-B B21DCKT057 Trương Thị Mỹ Hoa Nữ 07/06/2003 Kế toán
+125 D21CQKT03-B B21DCKT060 Nguyễn Kim Huệ Nữ 29/11/2003 Kế toán
+126 D21CQKT02-B B21DCKT062 Phan Thị Thu Hương Nữ 26/08/2003 Kế toán
+127 D21CQKT01-B B21DCKT064 Đào Thị Thanh Huyền Nữ 21/02/2003 Kế toán
+128 D21CQKT03-B B21DCKT066 Hoàng Thị Minh Huyền Nữ 15/08/2003 Kế toán
+129 D21CQKT01-B B21DCKT067 Nguyễn Bích Huyền Nữ 24/04/2003 Kế toán
+130 D21CQKT02-B B21DCKT068 Trần Thị Khánh Huyền Nữ 17/08/2002 Kế toán
+131 D21CQKT03-B B21DCKT069 Trần Thị Thu Huyền Nữ 23/07/2003 Kế toán
+132 D21CQKT01-B B21DCKT070 Vũ Thu Huyền Nữ 16/01/2003 Kế toán
+133 D21CQKT02-B B21DCKT071 Nguyễn Duy Khánh Nam 14/06/2003 Kế toán
+134 D21CQKT03-B B21DCKT072 Lê Thị Thanh Lam Nữ 24/11/2003 Kế toán
+135 D21CQKT02-B B21DCKT074 Khương Thị Ngọc Lan Nữ 18/08/2003 Kế toán
+136 D21CQKT02-B B21DCKT077 Phan Ngọc Liên Nữ 04/07/2003 Kế toán
+137 D21CQKT01-B B21DCKT079 Đỗ Thị Diệu Linh Nữ 28/02/2003 Kế toán
+138 D21CQKT02-B B21DCKT080 Đoàn Trần Diệu Linh Nữ 16/02/2003 Kế toán
+139 D21CQKT01-B B21DCKT082 Hoàng Thùy Linh Nữ 29/01/2003 Kế toán
+140 D21CQKT02-B B21DCKT083 Lê Thị Linh Nữ 01/02/2003 Kế toán
+141 D21CQKT03-B B21DCKT084 Nguyễn Hoàng Diệu Linh Nữ 09/05/2003 Kế toán
+142 D21CQKT01-B B21DCKT085 Nguyễn Phương Linh Nữ 15/11/2003 Kế toán
+143 D21CQKT02-B B21DCKT086 Phan Thùy Linh Nữ 20/03/2002 Kế toán
+144 D21CQKT03-B B21DCKT087 Phùng Gia Linh Nữ 22/11/2003 Kế toán
+145 D21CQKT01-B B21DCKT088 Trần Thị Linh Nữ 30/07/2003 Kế toán
+146 D21CQKT02-B B21DCKT089 Trương Nguyệt Linh Nữ 12/03/2003 Kế toán
+147 D21CQKT03-B B21DCKT090 Nguyễn Thị Thanh Loan Nữ 12/02/2003 Kế toán
+148 D21CQKT03-B B21DCKT093 Phạm Quỳnh Mai Nữ 03/03/2003 Kế toán
+149 D21CQKT01-B B21DCKT094 Trần Thị Ngọc Mai Nữ 22/10/2003 Kế toán
+150 D21CQKT01-B B21DCKT097 Lê Trà My Nữ 13/09/2003 Kế toán
+151 D21CQKT02-B B21DCKT098 Ngô Trà My Nữ 03/03/2003 Kế toán
+152 D21CQKT03-B B21DCKT099 Nguyễn Lê Na Nữ 04/10/2003 Kế toán
+153 D21CQKT02-B B21DCKT101 Hoàng Thị Nga Nữ 05/08/2003 Kế toán
+154 D21CQKT01-B B21DCKT103 Nguyễn Thị Nga Nữ 06/12/2003 Kế toán
+155 D21CQKT03-B B21DCKT105 Trịnh Thị Hằng Nga Nữ 23/10/2003 Kế toán
+156 D21CQKT01-B B21DCKT106 Phùng Thị Kim Ngân Nữ 01/02/2003 Kế toán
+157 D21CQKT03-B B21DCKT108 Bùi Trần Minh Ngọc Nữ 24/12/2003 Kế toán
+158 D21CQKT01-B B21DCKT109 Nguyễn Thị Ngọc Nữ 18/04/2003 Kế toán
+159 D21CQKT02-B B21DCKT110 Nguyễn Thị Hồng Ngọc Nữ 12/10/2003 Kế toán
+160 D21CQKT01-B B21DCKT112 Trần Thị Hồng Ngọc Nữ 22/11/2003 Kế toán
+161 D21CQKT03-B B21DCKT114 Đỗ Minh Nguyệt Nữ 01/02/2003 Kế toán
+162 D21CQKT03-B B21DCKT117 Lê Phương Nhi Nữ 02/06/2003 Kế toán
+163 D21CQKT03-B B21DCKT120 Nguyễn Thị Oanh Nữ 10/04/2003 Kế toán
+164 D21CQKT01-B B21DCKT121 Đặng Thu Phương Nữ 22/11/2003 Kế toán
+165 D21CQKT02-B B21DCKT122 Lê Thị Phương Nữ 28/02/2003 Kế toán
+166 D21CQKT03-B B21DCKT123 Lê Thị Minh Phương Nữ 06/12/2003 Kế toán
+167 D21CQKT01-B B21DCKT124 Nguyễn Minh Phương Nữ 22/08/2003 Kế toán
+168 D21CQKT02-B B21DCKT125 Nguyễn Thị Mai Phương Nữ 20/11/2003 Kế toán
+169 D21CQKT03-B B21DCKT126 Nguyễn Thị Minh Phương Nữ 24/06/2003 Kế toán
+170 D21CQKT01-B B21DCKT127 Phạm Thị Thu Phương Nữ 05/10/2003 Kế toán
+171 D21CQKT02-B B21DCKT131 Hoàng Nhật Quế Nữ 08/03/2003 Kế toán
+172 D21CQKT02-B B21DCKT134 Ngô Thị Như Quỳnh Nữ 17/09/2003 Kế toán
+173 D21CQKT03-B B21DCKT135 Nguyễn Thị Tâm Nữ 16/07/2003 Kế toán
+174 D21CQKT01-B B21DCKT136 Nguyễn Thị Phương Thanh Nữ 01/10/2003 Kế toán
+175 D21CQKT02-B B21DCKT137 Phạm Thị Thanh Nữ 03/11/2003 Kế toán
+176 D21CQKT01-B B21DCKT139 Bùi Phương Thảo Nữ 26/10/2003 Kế toán
+
+### Trang 4
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+177 D21CQKT02-B B21DCKT140 Mai Phương Thảo Nữ 17/08/2003 Kế toán
+178 D21CQKT03-B B21DCKT141 Nguyễn Thị Phương Thảo Nữ 17/09/2003 Kế toán
+179 D21CQKT01-B B21DCKT142 Nguyễn Thị Phương Thảo Nữ 23/05/2003 Kế toán
+180 D21CQKT02-B B21DCKT143 Nguyễn Thị Phương Thảo Nữ 07/10/2003 Kế toán
+181 D21CQKT03-B B21DCKT144 Nguyễn Thị Phương Thảo Nữ 27/05/2003 Kế toán
+182 D21CQKT01-B B21DCKT145 Nguyễn Thị Thu Thảo Nữ 27/01/2003 Kế toán
+183 D21CQKT02-B B21DCKT146 Phạm Hương Thảo Nữ 21/04/2003 Kế toán
+184 D21CQKT03-B B21DCKT147 Phí Thị Thanh Thảo Nữ 04/11/2003 Kế toán
+185 D21CQKT01-B B21DCKT148 Tạ Thị Minh Thảo Nữ 18/05/2003 Kế toán
+186 D21CQKT02-B B21DCKT149 Lương Thị Thơm Nữ 16/12/2003 Kế toán
+187 D21CQKT03-B B21DCKT150 Nguyễn Thị Thơm Nữ 16/11/2003 Kế toán
+188 D21CQKT02-B B21DCKT152 Nguyễn Thị Diệu Thuý Nữ 04/11/2003 Kế toán
+189 D21CQKT03-B B21DCKT153 Dương Thị Thúy Nữ 17/11/2003 Kế toán
+190 D21CQKT01-B B21DCKT154 Đỗ Thị Thu Trà Nữ 07/01/2003 Kế toán
+191 D21CQKT02-B B21DCKT155 Đinh Thị Huyền Trang Nữ 05/11/2003 Kế toán
+192 D21CQKT02-B B21DCKT158 Nguyễn Huyền Trang Nữ 07/06/2003 Kế toán
+193 D21CQKT03-B B21DCKT159 Nguyễn Thu Trang Nữ 23/05/2003 Kế toán
+194 D21CQKT02-B B21DCKT161 Trần Thu Trang Nữ 22/10/2003 Kế toán
+195 D21CQKT01-B B21DCKT166 Nguyễn Thị Ánh Tuyết Nữ 23/03/2003 Kế toán
+196 D21CQKT02-B B21DCKT167 Lê Thị Hà Uyên Nữ 18/08/2003 Kế toán
+197 D21CQKT03-B B21DCKT168 Lê Thảo Vi Nữ 13/04/2003 Kế toán
+198 D21CQKT01-B B21DCKT169 Đỗ Thị Lan Anh Nữ 09/08/2003 Kế toán
+199 D21CQKT02-B B21DCKT170 Nguyễn Ngọc Diệp Nữ 03/05/2002 Kế toán
+200 D21ACCA B21DCKT015 Trần Thị Phương Anh Nữ 13/09/2003 Kế toán chuẩn quốc tế ACCA
+201 D21ACCA B21DCKT020 Phùng Thị Mai Chang Nữ 16/08/2003 Kế toán chuẩn quốc tế ACCA
+202 D21ACCA B21DCKT022 Nguyễn Quỳnh Chi Nữ 14/07/2003 Kế toán chuẩn quốc tế ACCA
+203 D21ACCA B21DCKT024 Trịnh Thị Ngọc Chinh Nữ 29/09/2003 Kế toán chuẩn quốc tế ACCA
+204 D21ACCA B21DCKT025 Hoàng Hữu Chính Nam 02/10/2003 Kế toán chuẩn quốc tế ACCA
+205 D21ACCA B21DCKT034 Phùng Thị Mỹ Duyên Nữ 21/02/2003 Kế toán chuẩn quốc tế ACCA
+206 D21ACCA B21DCKT036 Ngô Hương Giang Nữ 24/09/2003 Kế toán chuẩn quốc tế ACCA
+207 D21ACCA B21DCKT045 Đỗ Thanh Hằng Nữ 18/03/2003 Kế toán chuẩn quốc tế ACCA
+208 D21ACCA B21DCKT046 Hồ Thị Hằng Nữ 25/01/2002 Kế toán chuẩn quốc tế ACCA
+209 D21ACCA B21DCKT049 Nguyễn Thị Hằng Nữ 21/10/2003 Kế toán chuẩn quốc tế ACCA
+210 D21ACCA B21DCKT055 Trần Thị Minh Hiền Nữ 04/05/2003 Kế toán chuẩn quốc tế ACCA
+211 D21ACCA B21DCKT065 Hoàng Thị Huyền Nữ 27/05/2003 Kế toán chuẩn quốc tế ACCA
+212 D21ACCA B21DCKT075 Nguyễn Phương Lan Nữ 13/07/2003 Kế toán chuẩn quốc tế ACCA
+213 D21ACCA B21DCKT081 Dương Thị Mỹ Linh Nữ 10/02/2003 Kế toán chuẩn quốc tế ACCA
+214 D21ACCA B21DCKT091 Trịnh Thị Khánh Ly Nữ 26/08/2003 Kế toán chuẩn quốc tế ACCA
+215 D21ACCA B21DCKT092 Nguyễn Thị Mai Nữ 18/05/2002 Kế toán chuẩn quốc tế ACCA
+216 D21ACCA B21DCKT102 Nguyễn Thị Nga Nữ 13/02/2003 Kế toán chuẩn quốc tế ACCA
+217 D21ACCA B21DCKT115 Hà Thị Nguyệt Nữ 12/12/2003 Kế toán chuẩn quốc tế ACCA
+218 D21ACCA B21DCKT118 Hoàng Trang Nhung Nữ 30/11/2003 Kế toán chuẩn quốc tế ACCA
+219 D21ACCA B21DCKT119 Phí Thị Hồng Nhung Nữ 08/12/2003 Kế toán chuẩn quốc tế ACCA
+220 D21ACCA B21DCKT129 Đỗ Thị Bích Phượng Nữ 03/08/2003 Kế toán chuẩn quốc tế ACCA
+221 D21ACCA B21DCKT156 Đỗ Thị Thùy Trang Nữ 05/08/2003 Kế toán chuẩn quốc tế ACCA
+222 D21ACCA B21DCKT164 Nguyễn Thị Cẩm Tú Nữ 17/09/2003 Kế toán chuẩn quốc tế ACCA
+223 D21QTDN1 B21DCQT004 Bùi Duy Thái Nam 24/08/2002 Quản trị kinh doanh
+224 D21QTDN1 B21DCQT007 Đỗ Thị Quỳnh Anh Nữ 03/07/2003 Quản trị kinh doanh
+225 D21QTDN1 B21DCQT008 Dương Thị Lan Anh Nữ 22/12/2003 Quản trị kinh doanh
+226 D21QTDN1 B21DCQT010 Hoàng Vân Anh Nữ 28/08/2003 Quản trị kinh doanh
+227 D21QTDN1 B21DCQT013 Nghiêm Phi Anh Nam 05/12/2003 Quản trị kinh doanh
+228 D21QTDN1 B21DCQT014 Nguyễn Mai Anh Nữ 26/03/2003 Quản trị kinh doanh
+229 D21QTDN2 B21DCQT015 Nguyễn Thế Anh Nam 24/11/2003 Quản trị kinh doanh
+230 D21QTDN2 B21DCQT018 Trần Quỳnh Anh Nữ 05/05/2003 Quản trị kinh doanh
+231 D21QTDN1 B21DCQT019 Trình Mai Anh Nữ 30/11/2003 Quản trị kinh doanh
+232 D21QTDN2 B21DCQT021 Vũ Ngọc Anh Nữ 02/11/2003 Quản trị kinh doanh
+233 D21QTDN1 B21DCQT023 Trần Thị Minh Ánh Nữ 05/08/2003 Quản trị kinh doanh
+234 D21QTDN1 B21DCQT025 Trần Nam Bình Nữ 04/10/2003 Quản trị kinh doanh
+235 D21QTDN2 B21DCQT027 Mai Thị Linh Chi Nữ 20/06/2003 Quản trị kinh doanh
+
+### Trang 5
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+236 D21QTDN1 B21DCQT028 Nguyễn Quỳnh Chi Nữ 06/04/2003 Quản trị kinh doanh
+237 D21QTDN1 B21DCQT029 Lê Thành Công Nam 03/12/2003 Quản trị kinh doanh
+238 D21QTDN2 B21DCQT030 Nguyễn Hoàng Đạt Nam 11/06/2003 Quản trị kinh doanh
+239 D21QTDN1 B21DCQT031 Nguyễn Thị Linh Diệu Nữ 05/01/2003 Quản trị kinh doanh
+240 D21QTDN1 B21DCQT032 Nguyễn Xuân Diệu Nam 15/11/2003 Quản trị kinh doanh
+241 D21QTDN1 B21DCQT038 Lê Thị Thùy Dương Nữ 06/01/2003 Quản trị kinh doanh
+242 D21QTDN1 B21DCQT040 Đinh Thị Hà Giang Nữ 19/03/2003 Quản trị kinh doanh
+243 D21QTDN1 B21DCQT044 Bùi Thị Ngân Hà Nữ 05/10/2003 Quản trị kinh doanh
+244 D21QTDN1 B21DCQT046 Hoàng Thị Hà Nữ 18/11/2003 Quản trị kinh doanh
+245 D21QTDN1 B21DCQT049 Nguyễn Thu Hà Nữ 29/07/2003 Quản trị kinh doanh
+246 D21QTDN2 B21DCQT051 Trần Thị Hà Nữ 04/12/2003 Quản trị kinh doanh
+247 D21QTDN1 B21DCQT052 Cao Thị Thanh Hằng Nữ 03/11/2003 Quản trị kinh doanh
+248 D21QTDN1 B21DCQT055 Nguyễn Tuấn Hiệp Nam 01/01/2003 Quản trị kinh doanh
+249 D21QTDN1 B21DCQT059 Nguyễn Huy Hoàng Nam 13/11/2003 Quản trị kinh doanh
+250 D21QTDN1 B21DCQT061 Đinh Thị Huế Nữ 10/09/2003 Quản trị kinh doanh
+251 D21QTDN1 B21DCQT073 Nguyễn Đức Huy Nam 31/01/2003 Quản trị kinh doanh
+252 D21QTDN2 B21DCQT075 Lê Ngọc Huyền Nữ 09/05/2003 Quản trị kinh doanh
+253 D21QTDN2 B21DCQT078 Nguyễn Thị Huyền Nữ 07/07/2003 Quản trị kinh doanh
+254 D21QTDN1 B21DCQT082 Lê Thị Ngọc Khánh Nữ 06/04/2003 Quản trị kinh doanh
+255 D21QTDN1 B21DCQT083 Trần Quang Khoa Nam 03/07/2003 Quản trị kinh doanh
+256 D21QTDN1 B21DCQT085 Lê Thị Lâm Nữ 31/07/2003 Quản trị kinh doanh
+257 D21QTDN2 B21DCQT090 Nguyễn Thảo Linh Nữ 02/04/2003 Quản trị kinh doanh
+258 D21QTDN1 B21DCQT095 Khổng Gia Long Nam 26/06/2003 Quản trị kinh doanh
+259 D21QTDN1 B21DCQT098 Vũ Hải Luân Nam 30/05/2003 Quản trị kinh doanh
+260 D21QTDN2 B21DCQT099 Trần Đức Lương Nam 12/02/2003 Quản trị kinh doanh
+261 D21QTDN1 B21DCQT100 Trịnh Thị Ly Nữ 24/02/2003 Quản trị kinh doanh
+262 D21QTDN1 B21DCQT101 Nguyễn Thị Tuyết Lý Nữ 01/04/2003 Quản trị kinh doanh
+263 D21QTDN2 B21DCQT104 Nguyễn Ngọc Mai Nữ 04/10/2003 Quản trị kinh doanh
+264 D21QTDN2 B21DCQT105 Nguyễn Thị Tuyết Mai Nữ 04/04/2003 Quản trị kinh doanh
+265 D21QTDN2 B21DCQT107 Vũ Thị Phương Mai Nữ 03/10/2003 Quản trị kinh doanh
+266 D21QTDN2 B21DCQT114 Nguyễn Trung Nam Nam 11/04/2003 Quản trị kinh doanh
+267 D21QTDN2 B21DCQT116 Bùi Thị Ngân Nữ 16/08/2003 Quản trị kinh doanh
+268 D21QTDN2 B21DCQT117 Dương Thúy Ngân Nữ 27/10/2003 Quản trị kinh doanh
+269 D21QTDN1 B21DCQT118 Ngô Thị Thúy Ngân Nữ 10/10/2003 Quản trị kinh doanh
+270 D21QTDN2 B21DCQT120 Nguyễn Vũ Minh Ngọc Nữ 16/01/2003 Quản trị kinh doanh
+271 D21QTDN1 B21DCQT124 Nguyễn Thị Thảo Nhi Nữ 15/08/2003 Quản trị kinh doanh
+272 D21QTDN1 B21DCQT127 Hoàng Thị Thùy Nhung Nữ 13/10/2003 Quản trị kinh doanh
+273 D21QTDN2 B21DCQT128 Lê Thị Hồng Nhung Nữ 08/06/2003 Quản trị kinh doanh
+274 D21QTDN2 B21DCQT129 Lê Thị Hồng Nhung Nữ 27/09/2003 Quản trị kinh doanh
+275 D21QTDN1 B21DCQT130 Nguyễn Thị Trang Nhung Nữ 24/04/2003 Quản trị kinh doanh
+276 D21QTDN2 B21DCQT134 Nguyễn Văn Phúc Nam 09/01/2003 Quản trị kinh doanh
+277 D21QTDN2 B21DCQT135 Đặng Thu Phương Nữ 11/02/2003 Quản trị kinh doanh
+278 D21QTDN1 B21DCQT136 Dương Thị Thanh Phương Nữ 28/01/2003 Quản trị kinh doanh
+279 D21QTDN2 B21DCQT138 Nguyễn Thu Phương Nữ 26/06/2003 Quản trị kinh doanh
+280 D21QTDN1 B21DCQT142 Nguyễn Ngọc Quỳnh Nữ 01/10/2003 Quản trị kinh doanh
+281 D21QTDN2 B21DCQT144 Đỗ Thu Sang Nữ 22/08/2003 Quản trị kinh doanh
+282 D21QTDN1 B21DCQT148 Nguyễn Thuý Thanh Nữ 28/07/2003 Quản trị kinh doanh
+283 D21QTDN2 B21DCQT152 Trần Thị Phương Thảo Nữ 02/03/2001 Quản trị kinh doanh
+284 D21QTDN2 B21DCQT155 Đào Thị Minh Thu Nữ 24/07/2003 Quản trị kinh doanh
+285 D21QTDN2 B21DCQT156 Nguyễn Hà Thu Nữ 22/12/2003 Quản trị kinh doanh
+286 D21QTDN1 B21DCQT157 Đinh Thị Anh Thư Nữ 22/02/2003 Quản trị kinh doanh
+287 D21QTDN1 B21DCQT160 Vũ Anh Thư Nữ 17/11/2003 Quản trị kinh doanh
+288 D21QTDN2 B21DCQT161 Đào Thị Bích Trà Nữ 10/03/2003 Quản trị kinh doanh
+289 D21QTDN2 B21DCQT162 La Thu Trà Nữ 02/02/2003 Quản trị kinh doanh
+290 D21QTDN2 B21DCQT167 Khúc Phương Trang Nữ 01/08/2003 Quản trị kinh doanh
+291 D21QTDN2 B21DCQT173 Phạm Thu Trang Nữ 09/04/2003 Quản trị kinh doanh
+292 D21QTDN2 B21DCQT174 Phạm Thu Trang Nữ 29/08/2003 Quản trị kinh doanh
+293 D21QTDN1 B21DCQT175 Trịnh Thùy Trang Nữ 03/07/2003 Quản trị kinh doanh
+294 D21QTDN2 B21DCQT176 Phạm Thị Kim Trinh Nữ 22/06/2003 Quản trị kinh doanh
+
+### Trang 6
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+295 D21QTDN2 B21DCQT177 Nguyễn Gia Trọng Nam 18/12/2003 Quản trị kinh doanh
+296 D21QTDN2 B21DCQT179 Nguyễn Quốc Trung Nam 25/09/2003 Quản trị kinh doanh
+297 D21QTDN2 B21DCQT180 Phạm Anh Tuấn Nam 05/10/2003 Quản trị kinh doanh
+298 D21QTDN1 B21DCQT181 Nguyễn Tài Tuyên Nam 30/07/2003 Quản trị kinh doanh
+299 D21QTDN2 B21DCQT182 Triệu Thị Thanh Vân Nữ 22/02/2003 Quản trị kinh doanh
+300 D21QTDN1 B21DCQT184 Lý Thành Vinh Nam 01/01/2003 Quản trị kinh doanh
+301 D21QTDN2 B21DCQT186 Hoàng Đắc Vương Nam 29/06/2002 Quản trị kinh doanh
+302 D21QTDN1 B21DCQT187 Nguyễn Thanh Xuân Nữ 11/09/2003 Quản trị kinh doanh
+303 D21QTDN2 B21DCQT188 Quách Thị Xuân Nữ 05/04/2003 Quản trị kinh doanh
+304 D21QTDN2 B21DCQT189 Đinh Thị Yến Nữ 15/05/2002 Quản trị kinh doanh
+305 D21QTDN1 B21DCQT190 Nguyễn Thị Hoàng Yến Nữ 22/06/2003 Quản trị kinh doanh
+306 D21QTLG B21DCQT006 Đào Thị Phương Anh Nữ 17/01/2003 Quản trị kinh doanh
+307 D21QTLG B21DCQT009 Hà Châu Anh Nữ 25/01/2003 Quản trị kinh doanh
+308 D21QTLG B21DCQT017 Phạm Châu Anh Nữ 28/11/2003 Quản trị kinh doanh
+309 D21QTLG B21DCQT020 Vũ Châu Anh Nữ 20/10/2003 Quản trị kinh doanh
+310 D21QTLG B21DCQT022 Đậu Thị Ngọc Ánh Nữ 08/03/2002 Quản trị kinh doanh
+311 D21QTLG B21DCQT024 Tạ Thị Bình Nữ 10/01/2003 Quản trị kinh doanh
+312 D21QTLG B21DCQT034 Bùi Thị Hiền Dung Nữ 03/06/2003 Quản trị kinh doanh
+313 D21QTLG B21DCQT035 Đặng Phương Dung Nữ 25/08/2003 Quản trị kinh doanh
+314 D21QTLG B21DCQT041 Nguyễn Hương Giang Nữ 05/01/2003 Quản trị kinh doanh
+315 D21QTLG B21DCQT042 Nguyễn Trần Trà Giang Nữ 25/12/2003 Quản trị kinh doanh
+316 D21QTLG B21DCQT047 Nguyễn Ngọc Hà Nữ 29/10/2003 Quản trị kinh doanh
+317 D21QTLG B21DCQT062 Nhữ Thị Minh Huệ Nữ 28/09/2002 Quản trị kinh doanh
+318 D21QTLG B21DCQT063 Phạm Quang Hưng Nam 07/10/2003 Quản trị kinh doanh
+319 D21QTLG B21DCQT066 Nguyễn Thị Hương Nữ 18/11/2003 Quản trị kinh doanh
+320 D21QTLG B21DCQT068 Lê Thị Thu Hường Nữ 09/08/2003 Quản trị kinh doanh
+321 D21QTLG B21DCQT072 Nguyễn An Huy Nam 07/11/2003 Quản trị kinh doanh
+322 D21QTLG B21DCQT076 Lê Thị Thu Huyền Nữ 18/08/2003 Quản trị kinh doanh
+323 D21QTLG B21DCQT077 Nguyễn Khánh Huyền Nữ 20/08/2003 Quản trị kinh doanh
+324 D21QTLG B21DCQT079 Vương Thu Huyền Nữ 28/03/2003 Quản trị kinh doanh
+325 D21QTLG B21DCQT087 Dương Thuỳ Linh Nữ 24/07/2003 Quản trị kinh doanh
+326 D21QTLG B21DCQT091 Nguyễn Thị Mai Linh Nữ 25/09/2003 Quản trị kinh doanh
+327 D21QTLG B21DCQT092 Nguyễn Thị Mai Linh Nữ 19/03/2003 Quản trị kinh doanh
+328 D21QTLG B21DCQT094 Nguyễn Xuân Lộc Nữ 05/12/2003 Quản trị kinh doanh
+329 D21QTLG B21DCQT096 Nguyễn Quốc Long Nam 03/03/2003 Quản trị kinh doanh
+330 D21QTLG B21DCQT097 Hà Quang Luân Nam 07/02/2003 Quản trị kinh doanh
+331 D21QTLG B21DCQT102 Hà Phương Mai Nữ 22/12/2003 Quản trị kinh doanh
+332 D21QTLG B21DCQT103 Ngô Thị Mai Nữ 02/09/2003 Quản trị kinh doanh
+333 D21QTLG B21DCQT106 Vũ Phương Mai Nữ 10/01/2003 Quản trị kinh doanh
+334 D21QTLG B21DCQT112 Nguyễn Thị Trà My Nữ 20/09/2003 Quản trị kinh doanh
+335 D21QTLG B21DCQT113 Nguyễn Hải Nam Nam 15/11/2003 Quản trị kinh doanh
+336 D21QTLG B21DCQT119 Lê Thị Ngọc Nữ 21/11/2003 Quản trị kinh doanh
+337 D21QTLG B21DCQT122 Phan Mạnh Nguyên Nam 12/12/2003 Quản trị kinh doanh
+338 D21QTLG B21DCQT132 Trịnh Hồng Phong Nam 28/02/2003 Quản trị kinh doanh
+339 D21QTLG B21DCQT137 Nguyễn Mai Phương Nữ 23/11/2002 Quản trị kinh doanh
+340 D21QTLG B21DCQT146 Nguyễn Tiến Tài Nam 25/10/2003 Quản trị kinh doanh
+341 D21QTLG B21DCQT154 Trần Thị Ngọc Thêu Nữ 21/04/2002 Quản trị kinh doanh
+342 D21QTLG B21DCQT159 Trần Thị Thanh Thư Nữ 18/05/2003 Quản trị kinh doanh
+343 D21QTLG B21DCQT163 Trần Ngọc Trâm Nữ 12/06/2003 Quản trị kinh doanh
+344 D21QTLG B21DCQT164 Đặng Thị Thu Trang Nữ 17/01/2003 Quản trị kinh doanh
+345 D21QTLG B21DCQT165 Đỗ Thị Huyền Trang Nữ 13/03/2003 Quản trị kinh doanh
+346 D21QTLG B21DCQT166 Hoàng Thị Trang Nữ 17/04/2003 Quản trị kinh doanh
+347 D21QTLG B21DCQT169 Nguyễn Hà Trang Nữ 07/02/2002 Quản trị kinh doanh
+348 D21QTLG B21DCQT170 Nguyễn Thị Huyền Trang Nữ 05/04/2003 Quản trị kinh doanh
+349 D21QTLG B21DCQT172 Nguyễn Thùy Trang Nữ 20/05/2003 Quản trị kinh doanh
+350 D21QTLG B21DCQT183 Lê Văn Vinh Nam 22/03/2002 Quản trị kinh doanh
+351 D21QTLG B21DCQT185 Nguyễn Đình Vinh Nam 19/05/2003 Quản trị kinh doanh
+352 D21CQTM01-B B21DCTM001 Nguyễn Quỳnh Anh Nữ 11/04/2003 Thương mại điện tử
+353 D21CQTM02-B B21DCTM004 Dương Thị Hà An Nữ 05/06/2003 Thương mại điện tử
+
+### Trang 7
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+354 D21CQTM01-B B21DCTM005 Chu Thị Anh Nữ 28/11/2002 Thương mại điện tử
+355 D21CQTM01-B B21DCTM007 Hà Ngân Anh Nữ 13/10/2003 Thương mại điện tử
+356 D21CQTM01-B B21DCTM011 Mai Nhật Ánh Nữ 28/01/2003 Thương mại điện tử
+357 D21CQTM02-B B21DCTM012 Tôn Nữ Ngọc Ánh Nữ 12/05/2003 Thương mại điện tử
+358 D21CQTM01-B B21DCTM013 Trần Thị Ngọc Ánh Nữ 16/11/2003 Thương mại điện tử
+359 D21CQTM01-B B21DCTM015 Nguyễn Văn Bình Nam 13/06/2003 Thương mại điện tử
+360 D21CQTM02-B B21DCTM018 Nguyễn Tuấn Cường Nam 10/07/2003 Thương mại điện tử
+361 D21CQTM01-B B21DCTM019 Vũ Tuấn Đạt Nam 06/08/2003 Thương mại điện tử
+362 D21CQTM02-B B21DCTM022 Nguyễn Quang Dũng Nam 18/02/2003 Thương mại điện tử
+363 D21CQTM01-B B21DCTM023 Bùi Công Duy Nam 03/06/2003 Thương mại điện tử
+364 D21CQTM02-B B21DCTM024 Dương Thị Mỹ Duyên Nữ 14/09/2003 Thương mại điện tử
+365 D21CQTM01-B B21DCTM025 Hoàng Thị Mỹ Duyên Nữ 19/11/2003 Thương mại điện tử
+366 D21CQTM01-B B21DCTM027 Trần Thị Giang Nữ 16/05/2003 Thương mại điện tử
+367 D21CQTM02-B B21DCTM028 Nguyễn Thị Ngọc Hà Nữ 03/01/2003 Thương mại điện tử
+368 D21CQTM01-B B21DCTM029 Phạm Thu Hà Nữ 23/06/2003 Thương mại điện tử
+369 D21CQTM02-B B21DCTM030 Trần Thị Thu Hà Nữ 10/08/2003 Thương mại điện tử
+370 D21CQTM01-B B21DCTM031 Ứng Diệu Hà Nữ 01/06/2003 Thương mại điện tử
+371 D21CQTM02-B B21DCTM032 Đỗ Đức Hải Nam 31/07/2003 Thương mại điện tử
+372 D21CQTM01-B B21DCTM033 Hoàng Duy Hải Nam 13/05/2003 Thương mại điện tử
+373 D21CQTM02-B B21DCTM034 Trần Thu Hằng Nữ 17/08/2003 Thương mại điện tử
+374 D21CQTM01-B B21DCTM035 Trần Văn Hiển Nam 21/08/2003 Thương mại điện tử
+375 D21CQTM02-B B21DCTM036 Đặng Đình Hiệp Nam 20/06/2003 Thương mại điện tử
+376 D21CQTM01-B B21DCTM037 Tống Sĩ Hoàng Hiệp Nam 26/02/2003 Thương mại điện tử
+377 D21CQTM02-B B21DCTM038 Đỗ Minh Hiếu Nam 17/11/2003 Thương mại điện tử
+378 D21CQTM01-B B21DCTM039 Phạm Thị Mai Hoa Nữ 03/12/2003 Thương mại điện tử
+379 D21CQTM02-B B21DCTM040 Vũ Thị Hoài Nữ 05/12/2003 Thương mại điện tử
+380 D21CQTM02-B B21DCTM042 Nguyễn Thị Lan Hương Nữ 06/02/2003 Thương mại điện tử
+381 D21CQTM01-B B21DCTM043 Dương Thị Thu Huyền Nữ 07/01/2003 Thương mại điện tử
+382 D21CQTM02-B B21DCTM044 Trần Mỹ Huyền Nữ 23/08/2003 Thương mại điện tử
+383 D21CQTM01-B B21DCTM045 Dương Thị Ngọc Khánh Nữ 02/09/2003 Thương mại điện tử
+384 D21CQTM02-B B21DCTM046 Lê Đăng Khoa Nam 15/09/2003 Thương mại điện tử
+385 D21CQTM01-B B21DCTM047 Nguyễn Thị Minh Khuyên Nữ 10/07/2003 Thương mại điện tử
+386 D21CQTM02-B B21DCTM048 Dương Hoàng Lan Nữ 14/08/2003 Thương mại điện tử
+387 D21CQTM02-B B21DCTM050 Hà Diệu Phương Linh Nữ 20/07/2003 Thương mại điện tử
+388 D21CQTM01-B B21DCTM051 Kiều Thùy Linh Nữ 25/01/2003 Thương mại điện tử
+389 D21CQTM02-B B21DCTM052 Nguyễn Khánh Linh Nữ 30/09/2003 Thương mại điện tử
+390 D21CQTM01-B B21DCTM053 Nguyễn Phương Linh Nữ 08/12/2003 Thương mại điện tử
+391 D21CQTM02-B B21DCTM054 Nguyễn Phương Linh Nữ 27/05/2003 Thương mại điện tử
+392 D21CQTM01-B B21DCTM055 Phạm Tú Linh Nữ 02/07/2003 Thương mại điện tử
+393 D21CQTM02-B B21DCTM056 Lê Văn Long Nam 15/11/2003 Thương mại điện tử
+394 D21CQTM01-B B21DCTM057 Đậu Nguyễn Huyền Ly Nữ 19/03/2003 Thương mại điện tử
+395 D21CQTM02-B B21DCTM058 Dương Thị Khánh Ly Nữ 25/08/2003 Thương mại điện tử
+396 D21CQTM02-B B21DCTM060 Hà Phương Mai Nữ 02/12/2003 Thương mại điện tử
+397 D21CQTM01-B B21DCTM061 Nguyễn Quỳnh Mai Nữ 08/11/2003 Thương mại điện tử
+398 D21CQTM01-B B21DCTM063 Đoàn Hùng Minh Nam 16/06/2003 Thương mại điện tử
+399 D21CQTM02-B B21DCTM064 Tạ Tuấn Minh Nam 23/02/2003 Thương mại điện tử
+400 D21CQTM01-B B21DCTM065 Nguyễn Ngọc Trà My Nữ 11/10/2003 Thương mại điện tử
+401 D21CQTM02-B B21DCTM066 Nguyễn Thị Thanh Nga Nữ 30/03/2003 Thương mại điện tử
+402 D21CQTM01-B B21DCTM067 Nguyễn Thị Thu Nga Nữ 24/08/2003 Thương mại điện tử
+403 D21CQTM02-B B21DCTM068 Nguyễn Thị Kim Ngân Nữ 28/06/2003 Thương mại điện tử
+404 D21CQTM02-B B21DCTM070 Nguyễn Tuấn Nghĩa Nam 02/08/2003 Thương mại điện tử
+405 D21CQTM01-B B21DCTM071 Phạm Văn Nghĩa Nam 20/08/2003 Thương mại điện tử
+406 D21CQTM02-B B21DCTM072 Bùi Thị Hồng Ngọc Nữ 05/09/2003 Thương mại điện tử
+407 D21CQTM01-B B21DCTM073 Phan Khánh Ngọc Nữ 17/12/2003 Thương mại điện tử
+408 D21CQTM02-B B21DCTM074 Lê Đồng Nguyên Nam 26/11/2003 Thương mại điện tử
+409 D21CQTM01-B B21DCTM075 Vũ Hoàng Yến Nhi Nữ 14/12/2003 Thương mại điện tử
+410 D21CQTM02-B B21DCTM076 Trần Thị Nhung Nữ 07/03/2003 Thương mại điện tử
+411 D21CQTM02-B B21DCTM080 Dương Thị Quỳnh Nữ 24/04/2003 Thương mại điện tử
+412 D21CQTM01-B B21DCTM081 Trần Thị Quỳnh Nữ 06/08/2003 Thương mại điện tử
+
+### Trang 8
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+413 D21CQTM02-B B21DCTM082 Trần Thanh Tâm Nữ 04/12/2003 Thương mại điện tử
+414 D21CQTM01-B B21DCTM083 Phạm Đình Toàn Thắng Nam 01/01/2003 Thương mại điện tử
+415 D21CQTM02-B B21DCTM084 Nguyễn Thị Thanh Nữ 18/01/2003 Thương mại điện tử
+416 D21CQTM01-B B21DCTM085 Chu Đức Thành Nam 29/01/2003 Thương mại điện tử
+417 D21CQTM02-B B21DCTM086 Hoàng Tiến Thành Nam 30/11/2003 Thương mại điện tử
+418 D21CQTM01-B B21DCTM087 Lê Thị Thảo Nữ 08/06/2003 Thương mại điện tử
+419 D21CQTM02-B B21DCTM088 Nguyễn Phương Thảo Nữ 07/10/2003 Thương mại điện tử
+420 D21CQTM01-B B21DCTM089 Nguyễn Thị Phương Thảo Nữ 19/05/2002 Thương mại điện tử
+421 D21CQTM01-B B21DCTM093 Trương Thị Thùy Nữ 01/07/2003 Thương mại điện tử
+422 D21CQTM01-B B21DCTM095 Nguyễn Ngọc Thủy Nữ 21/09/2003 Thương mại điện tử
+423 D21CQTM02-B B21DCTM096 Vũ Thị Thủy Nữ 04/06/2003 Thương mại điện tử
+424 D21CQTM01-B B21DCTM097 Lê Minh Tiến Nam 02/03/2003 Thương mại điện tử
+425 D21CQTM02-B B21DCTM098 Lê Văn Toàn Nam 17/03/2003 Thương mại điện tử
+426 D21CQTM01-B B21DCTM099 Hồ Thị Thu Trà Nữ 18/10/2003 Thương mại điện tử
+427 D21CQTM02-B B21DCTM100 Đặng Huyền Trang Nữ 10/07/2003 Thương mại điện tử
+428 D21CQTM01-B B21DCTM101 Nguyễn Thị Thu Trang Nữ 22/06/2003 Thương mại điện tử
+429 D21CQTM02-B B21DCTM102 Nguyễn Thị Thu Trang Nữ 18/05/2003 Thương mại điện tử
+430 D21CQTM01-B B21DCTM103 Trần Hiếu Trang Nữ 10/11/2003 Thương mại điện tử
+431 D21CQTM02-B B21DCTM104 Trần Linh Trang Nữ 28/08/2003 Thương mại điện tử
+432 D21CQTM01-B B21DCTM105 Trần Thị Thu Trang Nữ 22/10/2003 Thương mại điện tử
+433 D21CQTM01-B B21DCTM107 Đỗ Nguyễn Vân Trinh Nữ 13/10/2003 Thương mại điện tử
+434 D21CQTM02-B B21DCTM108 Nguyễn Tuấn Tú Nam 21/01/2003 Thương mại điện tử
+435 D21CQTM01-B B21DCTM109 Lê Văn Tùng Nam 17/05/2003 Thương mại điện tử
+436 D21CQTM02-B B21DCTM110 Mai Thanh Tùng Nam 21/08/2003 Thương mại điện tử
+437 D21CQTM01-B B21DCTM111 Đinh Thị Hà Vi Nữ 31/08/2003 Thương mại điện tử
+438 D21CQTM02-B B21DCTM112 Nguyễn Trác Vũ Nam 25/10/2003 Thương mại điện tử
+439 D21CQTM01-B B21DCTM113 Nguyễn Trần Khánh Vy Nữ 17/12/2003 Thương mại điện tử
+440 D21CQTM02-B B21DCTM114 Trần Thị Phương Yên Nữ 29/11/2003 Thương mại điện tử
+441 D21CQTM01-B B21DCTM115 Đào Hải Yến Nữ 23/07/2003 Thương mại điện tử
+442 D21CQTM02-B B21DCTM116 Đỗ Hải Yến Nữ 31/10/2003 Thương mại điện tử
+443 D21IMR1 B21DCMR001 Trịnh Thị Châu Anh Nữ 22/08/2003 Marketing
+444 D21IMR2 B21DCMR003 Nguyễn Thùy Dương Nữ 09/12/2003 Marketing
+445 D21IMR2 B21DCMR011 Phan Ngọc Mai Linh Nữ 23/05/2002 Marketing
+446 D21IMR2 B21DCMR014 Nguyễn Thị Thanh Nữ 20/07/2003 Marketing
+447 D21IMR3 B21DCMR016 Bùi Quỳnh Anh Nữ 10/08/2003 Marketing
+448 D21IMR1 B21DCMR017 Đặng Công Hải Anh Nam 01/01/2003 Marketing
+449 D21IMR3 B21DCMR020 Nguyễn Kim Anh Nữ 25/04/2003 Marketing
+450 D21IMR1 B21DCMR021 Nguyễn Thị Minh Anh Nữ 18/06/2003 Marketing
+451 D21IMR1 B21DCMR025 Trần Thị Lan Anh Nữ 15/04/2003 Marketing
+452 D21IMR2 B21DCMR027 Vũ Thị Hải Anh Nữ 23/01/2003 Marketing
+453 D21IMR3 B21DCMR028 Đàm Thị Ánh Nữ 10/04/2003 Marketing
+454 D21IMR1 B21DCMR029 Mai Trung Bắc Nam 02/07/2003 Marketing
+455 D21IMR1 B21DCMR030 Nguyễn Khắc Xuân Bách Nam 03/11/2003 Marketing
+456 D21IMR2 B21DCMR031 Nguyễn Minh Châm Nữ 03/01/2003 Marketing
+457 D21IMR3 B21DCMR032 Hồ Hà Chi Nữ 19/09/2003 Marketing
+458 D21IMR1 B21DCMR033 Ngô Linh Chi Nữ 17/12/2003 Marketing
+459 D21IMR2 B21DCMR035 Nguyễn Quỳnh Chi Nữ 28/10/2003 Marketing
+460 D21IMR3 B21DCMR036 Phí Thị Quỳnh Chi Nữ 22/05/2003 Marketing
+461 D21IMR1 B21DCMR037 Trịnh Thị Khánh Chi Nữ 13/06/2003 Marketing
+462 D21IMR1 B21DCMR038 Nguyễn Thị Chung Nữ 06/03/2003 Marketing
+463 D21IMR3 B21DCMR040 Trương Minh Cường Nam 18/12/2003 Marketing
+464 D21IMR1 B21DCMR041 Nguyễn Hải Đăng Nam 05/01/2003 Marketing
+465 D21IMR2 B21DCMR043 Trần Bảo Danh Nam 27/07/2003 Marketing
+466 D21IMR1 B21DCMR046 Phạm Hoàng Diệu Nữ 15/10/2003 Marketing
+467 D21IMR2 B21DCMR051 Nguyễn Thị Thùy Dung Nữ 14/06/2003 Marketing
+468 D21IMR1 B21DCMR058 Trần Ánh Dương Nữ 04/06/2003 Marketing
+469 D21IMR1 B21DCMR062 Nguyễn Quỳnh Duyên Nữ 19/10/2003 Marketing
+470 D21IMR3 B21DCMR064 Phạm Thị Duyên Nữ 21/09/2003 Marketing
+471 D21IMR1 B21DCMR065 Phạm Thị Mỹ Duyên Nữ 03/03/2003 Marketing
+
+### Trang 9
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+472 D21IMR1 B21DCMR066 Vũ Mai Duyên Nữ 04/03/2003 Marketing
+473 D21IMR2 B21DCMR067 Trần Thị Hồng Gấm Nữ 13/08/2003 Marketing
+474 D21IMR3 B21DCMR068 Bùi Hương Giang Nữ 11/06/2003 Marketing
+475 D21IMR1 B21DCMR069 Hoàng Thị Trà Giang Nữ 09/10/2003 Marketing
+476 D21IMR2 B21DCMR071 Nguyễn Thị Giang Nữ 20/03/2003 Marketing
+477 D21IMR2 B21DCMR075 Hoàng Thị Hà Nữ 16/01/2003 Marketing
+478 D21IMR2 B21DCMR079 Tự Thị Việt Hà Nữ 01/01/2003 Marketing
+479 D21IMR3 B21DCMR080 Diêm Công Hải Nam 18/12/2003 Marketing
+480 D21IMR1 B21DCMR082 Nguyễn Thị Hải Hậu Nữ 26/08/2003 Marketing
+481 D21IMR2 B21DCMR083 Nguyễn Thị Thu Hiền Nữ 28/04/2003 Marketing
+482 D21IMR3 B21DCMR084 Nguyễn Thị Thu Hiền Nữ 02/02/2003 Marketing
+483 D21IMR2 B21DCMR087 Nguyễn Thị Hoa Nữ 04/06/2003 Marketing
+484 D21IMR3 B21DCMR088 Trần Kim Hoa Nữ 05/12/2003 Marketing
+485 D21IMR1 B21DCMR090 Nguyễn Thị Hoài Nữ 31/12/2003 Marketing
+486 D21IMR1 B21DCMR093 Phạm Thái Hoàng Nam 18/12/2003 Marketing
+487 D21IMR3 B21DCMR096 Trần Thị Thanh Huệ Nữ 12/02/2003 Marketing
+488 D21IMR2 B21DCMR098 Đặng Lan Hương Nữ 02/06/2003 Marketing
+489 D21IMR2 B21DCMR102 Nguyễn Thu Hường Nữ 11/07/2003 Marketing
+490 D21IMR3 B21DCMR104 Lê Thị Ngọc Huyền Nữ 05/04/2003 Marketing
+491 D21IMR1 B21DCMR105 Nguyễn Khánh Huyền Nữ 27/09/2003 Marketing
+492 D21IMR2 B21DCMR106 Nguyễn Thị Khánh Huyền Nữ 14/02/2003 Marketing
+493 D21IMR2 B21DCMR107 Triệu Thanh Huyền Nữ 31/03/2003 Marketing
+494 D21IMR1 B21DCMR109 Lê Ngọc Khánh Nữ 11/12/2003 Marketing
+495 D21IMR2 B21DCMR111 Đinh Vân Kiều Nữ 19/08/2003 Marketing
+496 D21IMR1 B21DCMR113 Cao Thị Ngọc Lan Nữ 17/06/2003 Marketing
+497 D21IMR2 B21DCMR115 Nguyễn Mai Liên Nữ 01/10/2003 Marketing
+498 D21IMR3 B21DCMR120 Lưu Diệu Linh Nữ 22/10/2003 Marketing
+499 D21IMR1 B21DCMR121 Lý Khánh Linh Nữ 16/11/2003 Marketing
+500 D21IMR2 B21DCMR122 Nguyễn Thị Khánh Linh Nữ 18/01/2003 Marketing
+501 D21IMR2 B21DCMR123 Nguyễn Thị Thuỳ Linh Nữ 19/12/2003 Marketing
+502 D21IMR1 B21DCMR125 Nguyễn Thùy Linh Nữ 04/08/2003 Marketing
+503 D21IMR2 B21DCMR127 Phạm Thành Linh Nữ 20/12/2003 Marketing
+504 D21IMR3 B21DCMR128 Tạ Khánh Linh Nữ 03/12/2003 Marketing
+505 D21IMR2 B21DCMR131 Lê Đình Lương Nam 11/05/2003 Marketing
+506 D21IMR1 B21DCMR133 Vũ Thị Khánh Ly Nữ 15/03/2003 Marketing
+507 D21IMR2 B21DCMR135 Nguyễn Thị Mai Nữ 02/09/2003 Marketing
+508 D21IMR2 B21DCMR139 Phan Thị Phương Mai Nữ 19/10/2003 Marketing
+509 D21IMR3 B21DCMR140 Trịnh Ngọc Mai Nữ 29/10/2003 Marketing
+510 D21IMR1 B21DCMR141 Nguyễn Đức Mạnh Nam 19/06/2003 Marketing
+511 D21IMR1 B21DCMR145 Vũ Hoài Nam Nam 03/06/2003 Marketing
+512 D21IMR3 B21DCMR148 Nguyễn Thị Thảo Nguyên Nữ 30/10/2003 Marketing
+513 D21IMR2 B21DCMR154 Nguyễn Thị Hồng Nhung Nữ 21/05/2003 Marketing
+514 D21IMR3 B21DCMR156 Nguyễn Thị Oanh Nữ 14/09/2003 Marketing
+515 D21IMR3 B21DCMR159 Lê Phạm Minh Phúc Nữ 03/04/2003 Marketing
+516 D21IMR3 B21DCMR163 Nguyễn Thị Hồng Phượng Nữ 27/04/2003 Marketing
+517 D21IMR3 B21DCMR164 Nguyễn Thị Minh Phượng Nữ 04/01/2003 Marketing
+518 D21IMR3 B21DCMR172 Phan Thị Như Quỳnh Nữ 02/04/2003 Marketing
+519 D21IMR1 B21DCMR177 Nguyễn Thị Hồng Thắm Nữ 17/05/2003 Marketing
+520 D21IMR2 B21DCMR178 Nguyễn Đình Thắng Nam 13/01/2001 Marketing
+521 D21IMR2 B21DCMR182 Lê Thị Phương Thảo Nữ 21/06/2003 Marketing
+522 D21IMR3 B21DCMR183 Lương Thanh Thảo Nữ 26/09/2003 Marketing
+523 D21IMR3 B21DCMR184 Nguyễn Phương Thảo Nữ 09/08/2002 Marketing
+524 D21IMR2 B21DCMR186 Nguyễn Thị Thảo Nữ 20/01/2003 Marketing
+525 D21IMR3 B21DCMR187 Nguyễn Thị Phương Thảo Nữ 29/03/2003 Marketing
+526 D21IMR3 B21DCMR188 Nguyễn Thị Thanh Thảo Nữ 21/08/2003 Marketing
+527 D21IMR1 B21DCMR189 Trần Phương Thảo Nữ 22/06/2003 Marketing
+528 D21IMR2 B21DCMR190 Trịnh Mai Thảo Nữ 24/12/2003 Marketing
+529 D21IMR3 B21DCMR191 Nguyễn Đức Thịnh Nam 11/02/2003 Marketing
+530 D21IMR3 B21DCMR192 Hoàng Thị Minh Thư Nữ 04/09/2003 Marketing
+
+### Trang 10
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+531 D21IMR1 B21DCMR193 Vũ Quang Thư Nam 25/06/2003 Marketing
+532 D21IMR2 B21DCMR194 Phan Thị Thương Nữ 09/12/2003 Marketing
+533 D21IMR3 B21DCMR195 Nguyễn Thị Thuý Nữ 17/08/2003 Marketing
+534 D21IMR3 B21DCMR196 Lương Thị Thúy Nữ 16/02/2003 Marketing
+535 D21IMR1 B21DCMR197 Nguyễn Minh Thúy Nữ 02/09/2003 Marketing
+536 D21IMR1 B21DCMR201 Trần Thị Thu Thủy Nữ 07/05/2003 Marketing
+537 D21IMR3 B21DCMR203 Nguyễn Thị Tình Nữ 01/06/2003 Marketing
+538 D21IMR3 B21DCMR207 Trịnh Thu Trà Nữ 12/06/2003 Marketing
+539 D21IMR3 B21DCMR208 Bùi Thị Huyền Trang Nữ 13/07/2003 Marketing
+540 D21IMR1 B21DCMR209 Bùi Thị Thùy Trang Nữ 29/05/2003 Marketing
+541 D21IMR3 B21DCMR211 Đào Huyền Trang Nữ 26/01/2003 Marketing
+542 D21IMR3 B21DCMR212 Đỗ Thị Thùy Trang Nữ 02/03/2003 Marketing
+543 D21IMR1 B21DCMR217 Thái Thị Quỳnh Trang Nữ 01/06/2002 Marketing
+544 D21IMR2 B21DCMR222 Nguyễn Xuân Trường Nam 19/11/2003 Marketing
+545 D21IMR2 B21DCMR226 Trần Hương Tú Nữ 19/07/2003 Marketing
+546 D21IMR3 B21DCMR231 Đinh Thị Thục Uyên Nữ 23/05/2003 Marketing
+547 D21IMR3 B21DCMR232 Nguyễn Thị Uyên Nữ 24/03/2003 Marketing
+548 D21IMR1 B21DCMR233 Đinh Thị Hồng Vân Nữ 13/05/2003 Marketing
+549 D21IMR2 B21DCMR234 Nguyễn Khánh Vân Nữ 17/05/2003 Marketing
+550 D21IMR3 B21DCMR235 Nguyễn Thảo Vân Nữ 02/01/2003 Marketing
+551 D21IMR1 B21DCMR237 Đỗ Quang Vinh Nam 14/12/2003 Marketing
+552 D21IMR2 B21DCMR242 Trần Thị Thảo Vy Nữ 19/02/2003 Marketing
+553 D21IMR3 B21DCMR243 Đỗ Xuân Yến Nữ 18/09/2003 Marketing
+554 D21IMR1 B21DCMR245 Thiều Thị Hải Yến Nữ 21/11/2003 Marketing
+555 D21PMR2 B20DCMR175 Nguyễn Khắc Hoàng Sơn Nam 22/05/2002 Marketing
+556 D21PMR2 B21DCMR004 Nguyễn Quang Hà Nam 12/11/2003 Marketing
+557 D21PMR1 B21DCMR006 Lê Hà Khắc Hiếu Nam 07/10/2002 Marketing
+558 D21PMR2 B21DCMR007 Lê Vũ Hiếu Nam 15/08/2003 Marketing
+559 D21PMR1 B21DCMR018 Đỗ Thị Kim Anh Nữ 21/11/2003 Marketing
+560 D21PMR2 B21DCMR019 Đoàn Minh Anh Nữ 11/07/2003 Marketing
+561 D21PMR1 B21DCMR022 Nguyễn Trần Phương Anh Nữ 25/10/2003 Marketing
+562 D21PMR2 B21DCMR039 Chu Tuấn Cường Nam 10/01/2003 Marketing
+563 D21PMR1 B21DCMR042 Nguyễn Quang Đăng Nam 13/04/2003 Marketing
+564 D21PMR2 B21DCMR044 Lê Quang Đạt Nam 11/06/2003 Marketing
+565 D21PMR2 B21DCMR047 Ninh Thị Dịu Nữ 22/07/2003 Marketing
+566 D21PMR1 B21DCMR049 Nguyễn Minh Đức Nam 23/01/2002 Marketing
+567 D21PMR1 B21DCMR050 Khương Thùy Dung Nữ 30/11/2003 Marketing
+568 D21PMR1 B21DCMR053 Kiều Thùy Dương Nữ 16/12/2003 Marketing
+569 D21PMR1 B21DCMR054 Nguyễn Thùy Dương Nữ 06/04/2003 Marketing
+570 D21PMR2 B21DCMR055 Nguyễn Thùy Dương Nữ 20/01/2003 Marketing
+571 D21PMR2 B21DCMR056 Nguyễn Thùy Dương Nữ 02/03/2003 Marketing
+572 D21PMR1 B21DCMR057 Phạm Thuỳ Dương Nữ 06/11/2003 Marketing
+573 D21PMR1 B21DCMR073 Phạm Hương Giang Nữ 20/12/2003 Marketing
+574 D21PMR2 B21DCMR076 Hoàng Thị Ngọc Hà Nữ 15/10/2003 Marketing
+575 D21PMR1 B21DCMR085 Trần Thị Thu Hiền Nữ 25/10/2003 Marketing
+576 D21PMR2 B21DCMR092 Phạm Huy Hoàng Nam 19/05/2003 Marketing
+577 D21PMR1 B21DCMR097 Nguyễn Việt Hưng Nam 04/06/2003 Marketing
+578 D21PMR2 B21DCMR099 Nguyễn Mai Hương Nữ 23/03/2003 Marketing
+579 D21PMR1 B21DCMR101 Trần Thị Hương Nữ 27/05/2003 Marketing
+580 D21PMR2 B21DCMR103 Đặng Bá Huy Nam 03/06/2003 Marketing
+581 D21PMR2 B21DCMR112 Lương Phúc Lâm Nam 19/12/2003 Marketing
+582 D21PMR2 B21DCMR116 Đào Ngọc Linh Nữ 14/11/2003 Marketing
+583 D21PMR1 B21DCMR118 Hoàng Phương Linh Nữ 02/12/2003 Marketing
+584 D21PMR2 B21DCMR119 Lương Thị Thùy Linh Nữ 02/11/2003 Marketing
+585 D21PMR1 B21DCMR126 Nguyễn Tú Linh Nữ 04/05/2003 Marketing
+586 D21PMR1 B21DCMR129 Tô Diệu Linh Nữ 30/08/2003 Marketing
+587 D21PMR1 B21DCMR130 Lê Đức Long Nam 25/10/2003 Marketing
+588 D21PMR1 B21DCMR134 Đặng Phương Mai Nữ 03/07/2003 Marketing
+589 D21PMR1 B21DCMR137 Nguyễn Thị Thanh Mai Nữ 16/05/2003 Marketing
+
+### Trang 11
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+590 D21PMR1 B21DCMR138 Phạm Ngọc Mai Nữ 09/01/2003 Marketing
+591 D21PMR2 B21DCMR143 Nguyễn Thị Trà My Nữ 04/11/2003 Marketing
+592 D21PMR2 B21DCMR144 Trần Đình Nam Nam 17/11/2003 Marketing
+593 D21PMR1 B21DCMR146 Lê Thanh Ngân Nữ 20/11/2003 Marketing
+594 D21PMR2 B21DCMR147 Bùi Trần Út Ngọc Nữ 29/09/2003 Marketing
+595 D21PMR2 B21DCMR152 Đỗ Hồng Nhung Nữ 04/01/2003 Marketing
+596 D21PMR1 B21DCMR153 Lê Hồng Nhung Nữ 11/10/2003 Marketing
+597 D21PMR2 B21DCMR155 Nguyễn Phương Oanh Nữ 28/02/2003 Marketing
+598 D21PMR1 B21DCMR157 Vũ Thị Oanh Nữ 12/07/2003 Marketing
+599 D21PMR1 B21DCMR158 Bùi Hoàng Phi Nam 21/01/2003 Marketing
+600 D21PMR2 B21DCMR160 Lê Thị Lam Phương Nữ 19/07/2003 Marketing
+601 D21PMR1 B21DCMR161 Lê Thị Mai Phương Nữ 21/07/2003 Marketing
+602 D21PMR2 B21DCMR168 Nguyễn Diễm Quyên Nữ 30/01/2003 Marketing
+603 D21PMR1 B21DCMR169 Nguyễn Thị Mai Quyên Nữ 03/06/2003 Marketing
+604 D21PMR1 B21DCMR170 Hoàng Thị Như Quỳnh Nữ 04/04/2003 Marketing
+605 D21PMR2 B21DCMR171 Nguyễn Thị Quỳnh Nữ 08/11/2002 Marketing
+606 D21PMR1 B21DCMR173 Phạm Ngọc Sơn Nam 11/11/2003 Marketing
+607 D21PMR1 B21DCMR174 Tống Đức Sơn Nam 19/01/2003 Marketing
+608 D21PMR2 B21DCMR175 Lê Thanh Thái Nam 26/07/2002 Marketing
+609 D21PMR2 B21DCMR176 Nguyễn Thị Thắm Nữ 12/04/2003 Marketing
+610 D21PMR2 B21DCMR180 Đỗ Phương Thảo Nữ 20/11/2003 Marketing
+611 D21PMR1 B21DCMR181 Hoàng Phương Thảo Nữ 14/09/2003 Marketing
+612 D21PMR1 B21DCMR185 Nguyễn Thanh Thảo Nữ 14/09/2003 Marketing
+613 D21PMR2 B21DCMR199 Trần Thị Thu Thúy Nữ 14/09/2003 Marketing
+614 D21PMR2 B21DCMR200 Trịnh Thanh Thúy Nữ 23/11/2003 Marketing
+615 D21PMR1 B21DCMR202 Hoàng Việt Tiến Nam 17/04/2003 Marketing
+616 D21PMR1 B21DCMR205 Phạm Văn Toàn Nam 03/12/2003 Marketing
+617 D21PMR1 B21DCMR206 Nguyễn Thị Thu Trà Nữ 04/11/2003 Marketing
+618 D21PMR1 B21DCMR213 Hoàng Trần Thu Trang Nữ 19/09/2003 Marketing
+619 D21PMR2 B21DCMR216 Nguyễn Thu Trang Nữ 06/08/2003 Marketing
+620 D21PMR2 B21DCMR219 Dương Thị Kiều Trinh Nữ 20/12/2003 Marketing
+621 D21PMR2 B21DCMR223 Đinh Xuân Trưởng Nam 03/02/2003 Marketing
+622 D21PMR2 B21DCMR228 Nguyễn Thanh Tùng Nam 22/08/2003 Marketing
+623 D21PMR2 B21DCMR236 Trần Thị Hồng Vân Nữ 13/03/2003 Marketing
+624 D21PMR2 B21DCMR239 Nguyễn Quang Vũ Nam 13/02/2002 Marketing
+625 D21CQTT02-B B21DCTT002 Mai Thị Quỳnh Anh Nữ 15/01/2003 Truyền thông Đa phương tiện
+626 D21CQTT01-B B21DCTT003 Mai Thanh Hoa Nữ 26/06/2003 Truyền thông Đa phương tiện
+627 D21CQTT01-B B21DCTT005 Hồ Thị Thảo Ly Nữ 13/12/2003 Truyền thông Đa phương tiện
+628 D21CQTT02-B B21DCTT006 Khổng Thị Quỳnh Nga Nữ 23/06/2002 Truyền thông Đa phương tiện
+629 D21CQTT01-B B21DCTT009 Đặng Phương Anh Nữ 08/03/2003 Truyền thông Đa phương tiện
+630 D21CQTT02-B B21DCTT010 Đoàn Tuấn Anh Nam 15/10/2003 Truyền thông Đa phương tiện
+631 D21CQTT01-B B21DCTT011 Hà Kiều Anh Nữ 18/01/2003 Truyền thông Đa phương tiện
+632 D21CQTT02-B B21DCTT012 Lê Thị Mai Anh Nữ 23/09/2003 Truyền thông Đa phương tiện
+633 D21CQTT01-B B21DCTT013 Lê Thị Ngọc Anh Nữ 30/01/2003 Truyền thông Đa phương tiện
+634 D21CQTT01-B B21DCTT015 Nguyễn Thị Vân Anh Nữ 24/09/2003 Truyền thông Đa phương tiện
+635 D21CQTT02-B B21DCTT016 Nguyễn Trung Anh Nữ 18/08/2003 Truyền thông Đa phương tiện
+636 D21CQTT01-B B21DCTT017 Mai Nhật Ánh Nữ 06/01/2003 Truyền thông Đa phương tiện
+637 D21CQTT02-B B21DCTT018 Nguyễn Thị Minh Ánh Nữ 13/07/2003 Truyền thông Đa phương tiện
+638 D21CQTT01-B B21DCTT019 Lại Mai Chi Nữ 16/10/2003 Truyền thông Đa phương tiện
+639 D21CQTT02-B B21DCTT020 Nguyễn Quỳnh Chi Nữ 15/11/2003 Truyền thông Đa phương tiện
+640 D21CQTT01-B B21DCTT021 Đào Thị Chinh Nữ 03/04/2003 Truyền thông Đa phương tiện
+641 D21CQTT02-B B21DCTT022 Nguyễn Thị Chinh Nữ 09/05/2003 Truyền thông Đa phương tiện
+642 D21CQTT01-B B21DCTT023 Đinh Thị Mai Cơ Nữ 21/11/2003 Truyền thông Đa phương tiện
+643 D21CQTT02-B B21DCTT024 Nguyễn Hải Đăng Nam 10/03/2003 Truyền thông Đa phương tiện
+644 D21CQTT01-B B21DCTT025 Đinh Thị Diễm Nữ 09/01/2003 Truyền thông Đa phương tiện
+645 D21CQTT01-B B21DCTT027 Nguyễn Thị Ngọc Diệp Nữ 14/04/2003 Truyền thông Đa phương tiện
+646 D21CQTT02-B B21DCTT028 Trần Thùy Dương Nữ 06/07/2003 Truyền thông Đa phương tiện
+647 D21CQTT01-B B21DCTT029 Vũ Thùy Dương Nữ 04/12/2003 Truyền thông Đa phương tiện
+648 D21CQTT02-B B21DCTT030 Trần Thị Duyên Nữ 10/11/2003 Truyền thông Đa phương tiện
+
+### Trang 12
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+649 D21CQTT01-B B21DCTT031 Nguyễn Thị Giang Nữ 08/09/2003 Truyền thông Đa phương tiện
+650 D21CQTT01-B B21DCTT033 Trần Thị Đan Hà Nữ 04/03/2003 Truyền thông Đa phương tiện
+651 D21CQTT02-B B21DCTT034 Hoàng Nhật Hạ Nữ 11/02/2003 Truyền thông Đa phương tiện
+652 D21CQTT01-B B21DCTT035 Nguyễn Thanh Hằng Nữ 22/01/2003 Truyền thông Đa phương tiện
+653 D21CQTT02-B B21DCTT036 Nguyễn Thu Hằng Nữ 07/02/2003 Truyền thông Đa phương tiện
+654 D21CQTT01-B B21DCTT037 Nguyễn Thị Hiền Nữ 27/02/2003 Truyền thông Đa phương tiện
+655 D21CQTT02-B B21DCTT038 Nguyễn Thu Hiền Nữ 16/12/2003 Truyền thông Đa phương tiện
+656 D21CQTT01-B B21DCTT039 Lê Thị Phương Hoài Nữ 22/12/2003 Truyền thông Đa phương tiện
+657 D21CQTT01-B B21DCTT041 Hà Huy Hoàng Nam 21/10/2003 Truyền thông Đa phương tiện
+658 D21CQTT02-B B21DCTT042 Đỗ Thị Hồng 127 04/07/2003 Truyền thông Đa phương tiện
+659 D21CQTT01-B B21DCTT043 Lô Tuấn Hưng Nam 20/08/2003 Truyền thông Đa phương tiện
+660 D21CQTT02-B B21DCTT044 Trần Thị Mai Hương Nữ 05/07/2003 Truyền thông Đa phương tiện
+661 D21CQTT01-B B21DCTT045 Trần Quang Huy Nam 24/08/2003 Truyền thông Đa phương tiện
+662 D21CQTT02-B B21DCTT046 Giáp Vĩnh Khang Nam 05/01/2003 Truyền thông Đa phương tiện
+663 D21CQTT01-B B21DCTT047 Dương Quốc Khánh Nam 30/07/2003 Truyền thông Đa phương tiện
+664 D21CQTT01-B B21DCTT049 Nguyễn Thị Thanh Lam Nữ 13/11/2002 Truyền thông Đa phương tiện
+665 D21CQTT01-B B21DCTT051 Trần Thị Lan Nữ 04/10/2003 Truyền thông Đa phương tiện
+666 D21CQTT02-B B21DCTT052 Nguyễn Ngọc Lân Nam 07/12/2003 Truyền thông Đa phương tiện
+667 D21CQTT01-B B21DCTT053 Hoàng Thị Liên Nữ 05/08/2003 Truyền thông Đa phương tiện
+668 D21CQTT02-B B21DCTT054 Nguyễn Lê Khánh Linh Nữ 07/02/2003 Truyền thông Đa phương tiện
+669 D21CQTT02-B B21DCTT056 Trần Khánh Linh Nữ 12/12/2003 Truyền thông Đa phương tiện
+670 D21CQTT01-B B21DCTT057 Nguyễn Thị Kiều Loan Nữ 10/11/2003 Truyền thông Đa phương tiện
+671 D21CQTT02-B B21DCTT058 Đỗ Minh Lương Nữ 29/04/2003 Truyền thông Đa phương tiện
+672 D21CQTT01-B B21DCTT059 Dương Khánh Ly Nữ 18/12/2003 Truyền thông Đa phương tiện
+673 D21CQTT02-B B21DCTT060 Nguyễn Khánh Ly Nữ 02/10/2003 Truyền thông Đa phương tiện
+674 D21CQTT01-B B21DCTT061 Nguyễn Thị Lý Nữ 05/11/2003 Truyền thông Đa phương tiện
+675 D21CQTT02-B B21DCTT062 Nguyễn Hiền Mai Nữ 08/10/2003 Truyền thông Đa phương tiện
+676 D21CQTT01-B B21DCTT063 Trần Thị Mai Nữ 20/09/2003 Truyền thông Đa phương tiện
+677 D21CQTT02-B B21DCTT064 Đặng Ngọc Minh Nam 20/11/2003 Truyền thông Đa phương tiện
+678 D21CQTT01-B B21DCTT065 Lương Ngọc Phương Minh Nữ 07/11/2003 Truyền thông Đa phương tiện
+679 D21CQTT02-B B21DCTT066 Từ Thị Trà My Nữ 12/09/2003 Truyền thông Đa phương tiện
+680 D21CQTT01-B B21DCTT067 Hoàng Thị Thúy Nga Nữ 10/03/2003 Truyền thông Đa phương tiện
+681 D21CQTT01-B B21DCTT069 Nguyễn Trang Ngân Nữ 13/01/2003 Truyền thông Đa phương tiện
+682 D21CQTT02-B B21DCTT070 Thân Thu Ngân Nữ 24/04/2003 Truyền thông Đa phương tiện
+683 D21CQTT01-B B21DCTT071 Đặng Trần Bảo Ngọc Nữ 12/12/2003 Truyền thông Đa phương tiện
+684 D21CQTT02-B B21DCTT072 Dư Minh Ngọc Nữ 21/12/2003 Truyền thông Đa phương tiện
+685 D21CQTT01-B B21DCTT073 Lê Hồng Ngọc Nữ 26/08/2003 Truyền thông Đa phương tiện
+686 D21CQTT02-B B21DCTT074 Nguyễn Thị Ngọc Nữ 22/07/2003 Truyền thông Đa phương tiện
+687 D21CQTT02-B B21DCTT076 Trịnh Minh Ngọc Nữ 18/09/2003 Truyền thông Đa phương tiện
+688 D21CQTT01-B B21DCTT077 Nguyễn Thị Thanh Nhàn Nữ 20/10/2003 Truyền thông Đa phương tiện
+689 D21CQTT02-B B21DCTT078 Nguyễn Hà Nhi Nữ 10/12/2003 Truyền thông Đa phương tiện
+690 D21CQTT01-B B21DCTT079 Nguyễn Thị Uyển Nhi Nữ 07/11/2003 Truyền thông Đa phương tiện
+691 D21CQTT02-B B21DCTT080 Nguyễn Thị Như Nữ 22/05/2003 Truyền thông Đa phương tiện
+692 D21CQTT01-B B21DCTT081 Nguyễn Thị Hồng Nhung Nữ 12/09/2003 Truyền thông Đa phương tiện
+693 D21CQTT02-B B21DCTT082 Nguyễn Thị Phương Oanh Nữ 19/02/2003 Truyền thông Đa phương tiện
+694 D21CQTT02-B B21DCTT084 Nguyễn Hà Phương Nữ 23/06/2003 Truyền thông Đa phương tiện
+695 D21CQTT01-B B21DCTT085 Nguyễn Thị Phương Nữ 22/01/2003 Truyền thông Đa phương tiện
+696 D21CQTT02-B B21DCTT086 Nguyễn Thị Thu Phương Nữ 27/09/2003 Truyền thông Đa phương tiện
+697 D21CQTT01-B B21DCTT087 Phạm Thu Phương Nữ 19/04/2003 Truyền thông Đa phương tiện
+698 D21CQTT01-B B21DCTT089 Lê Hồng Phượng Nữ 09/10/2003 Truyền thông Đa phương tiện
+699 D21CQTT02-B B21DCTT090 Đinh Thị Diễm Quỳnh Nữ 13/06/2003 Truyền thông Đa phương tiện
+700 D21CQTT01-B B21DCTT091 Nguyễn Diễm Quỳnh Nữ 08/08/2003 Truyền thông Đa phương tiện
+701 D21CQTT02-B B21DCTT092 Nguyễn Phương Quỳnh Nữ 12/06/2003 Truyền thông Đa phương tiện
+702 D21CQTT01-B B21DCTT093 Phạm Thị Như Quỳnh Nữ 20/07/2003 Truyền thông Đa phương tiện
+703 D21CQTT02-B B21DCTT094 Đặng Thái Sơn Nam 29/10/2003 Truyền thông Đa phương tiện
+704 D21CQTT02-B B21DCTT096 Vũ Hồng Thắm Nữ 06/06/2003 Truyền thông Đa phương tiện
+705 D21CQTT01-B B21DCTT097 Nguyễn Gia Thăng Nam 03/06/2003 Truyền thông Đa phương tiện
+706 D21CQTT02-B B21DCTT098 Hoàng Mạnh Thắng Nam 27/10/2003 Truyền thông Đa phương tiện
+707 D21CQTT02-B B21DCTT100 Lê Mai Thảo Nữ 30/05/2003 Truyền thông Đa phương tiện
+
+### Trang 13
+
+TT Lớp Mã sinh viên Họ Tên Phái Ngày sinh Ngành
+DANH SÁCH SINH VIÊN ĐHCQ KHOÁ 2021
+Khối các ngành kinh tế, truyền thông của cơ sở đào tạo Hà Nội triệu tập tham dự Lễ tốt nghiệp năm 2025 - đợt 1
+(Kèm theo thông báo số …..../TB-GV ngày 15/10/2025)
+708 D21CQTT01-B B21DCTT101 Nguyễn Phương Thảo Nữ 26/04/2003 Truyền thông Đa phương tiện
+709 D21CQTT02-B B21DCTT102 Lê Thị Cẩm Thơ Nữ 16/06/2003 Truyền thông Đa phương tiện
+710 D21CQTT01-B B21DCTT103 Hoàng Hà Thu Nữ 09/02/2003 Truyền thông Đa phương tiện
+711 D21CQTT02-B B21DCTT104 Lê Hà Thư Nữ 23/08/2003 Truyền thông Đa phương tiện
+712 D21CQTT02-B B21DCTT106 Trần Đặng Diệu Thùy Nữ 22/01/2003 Truyền thông Đa phương tiện
+713 D21CQTT01-B B21DCTT107 Lê Thanh Thủy Nữ 13/05/2003 Truyền thông Đa phương tiện
+714 D21CQTT02-B B21DCTT108 Nguyễn Thủy Tiên Nữ 31/10/2003 Truyền thông Đa phương tiện
+715 D21CQTT01-B B21DCTT109 Cao Minh Trí Nam 12/02/2003 Truyền thông Đa phương tiện
+716 D21CQTT02-B B21DCTT110 Nguyễn Thị Vân Trúc Nữ 05/03/2003 Truyền thông Đa phương tiện
+717 D21CQTT02-B B21DCTT112 Nguyễn Thị Ánh Tuyết Nữ 20/03/2003 Truyền thông Đa phương tiện
+718 D21CQTT01-B B21DCTT113 Nguyễn Thị Vân Nữ 16/08/2003 Truyền thông Đa phương tiện
+719 D21CQTT02-B B21DCTT114 Nguyên Thị Thảo Vân Nữ 30/04/2003 Truyền thông Đa phương tiện
+720 D21CQTT01-B B21DCTT115 Đỗ Yến Vi Nữ 12/05/2003 Truyền thông Đa phương tiện
+721 D21CQTT02-B B21DCTT116 Nguyễn Tiến Vinh Nam 21/10/2003 Truyền thông Đa phương tiện
+722 D21CQTT01-B B21DCTT117 Phó Hà Vy Nữ 08/02/2003 Truyền thông Đa phương tiện
+723 D21CQTT02-B B21DCTT118 Kim Thị Yến Nữ 21/04/2003 Truyền thông Đa phương tiện
+724 D21CQTT01-B B21DCTT055 Nhâm Phương Linh Nữ 29/08/2003 Truyền thông Đa phương tiện
+725 D21CQTC01-B B21DCTC067 Lê Thị Ngọc Mai 20/09/2003 Công nghệ tài chính (Fintech)
+726 D21CQKT03-B B21DCKT042 Hoàng Thu Hà 25/03/2003 Kế toán
+727 D21CQKT02-B B21DCKT104 Phạm Thị Nga 29/09/2003 Kế toán
+728 D21CQKT01-B B21DCKT160 Trần Phương Trang 21/06/2003 Kế toán
+729 D21ACCA B21DCKT026 Nguyễn Thị Kim Chung 03/07/2003 Kế toán chuẩn quốc tế ACCA
+730 D21QTDN2 B21DCQT012 Lê Thị Tú Anh 13/10/2003 Quản trị kinh doanh
+731 D21QTDN1 B21DCQT026 Lê Phương Chi 09/05/2003 Quản trị kinh doanh
+732 D21QTDN1 B21DCQT089 Nguyễn Nhật Linh 28/06/2003 Quản trị kinh doanh
+733 D21QTDN2 B21DCQT131 Đỗ Văn Phong 08/01/2003 Quản trị kinh doanh
+734 D21QTLG B21DCQT043 Trần Thị Hương Giang 25/01/2003 Quản trị kinh doanh
+735 D21QTLG B21DCQT050 Nguyễn Việt Hà 03/11/2003 Quản trị kinh doanh
+736 D21QTLG B21DCQT168 Lê Thị Huyền Trang 20/11/2003 Quản trị kinh doanh
+737 D21CQTM02-B B21DCTM010 Vũ Thị Minh Anh 28/04/2003 Thương mại điện tử
+738 D21CQTM01-B B21DCTM091 Lê Thị Thùy 21/07/2003 Thương mại điện tử
+739 D21IMR2 B21DCMR010 Đặng Thị Diệu Linh 14/08/2003 Marketing
+740 D21IMR3 B21DCMR060 Trương Thị Thùy Dương 18/06/2003 Marketing
+741 D21IMR1 B21DCMR070 Lê Thị Giang 22/01/2003 Marketing
+742 D21IMR3 B21DCMR072 Nguyễn Thị Hương Giang 13/12/2003 Marketing
+743 D21IMR1 B21DCMR074 Phạm Thị Giang 16/12/2003 Marketing
+744 D21IMR2 B21DCMR095 Phạm Thị Huệ 21/08/2003 Marketing
+745 D21IMR2 B21DCMR114 Cao Thanh Thảo Lê 12/12/2003 Marketing
+746 D21IMR3 B21DCMR132 Vũ Thị Hương Ly 11/09/2003 Marketing
+747 D21PMR1 B21DCMR005 Bùi Thị Thanh Hiền 23/09/2002 Marketing
+748 D21PMR2 B21DCMR023 Phạm Duy Anh 12/11/2003 Marketing
+749 D21PMR1 B21DCMR229 Phạm Ngọc Tùng 30/06/2003 Marketing
+750 D21CQTT01-B B21DCTT075 Nguyễn Thị Hồng Ngọc 04/12/2003 Truyền thông Đa phương tiện
+Quyết định công nhận tốt nghiệp 2712 ngày 08/10/2025

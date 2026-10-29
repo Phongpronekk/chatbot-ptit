@@ -1,0 +1,127 @@
+{
+  "id": 33124,
+  "date": "2026-01-08T08:59:51",
+  "date_gmt": "2026-01-08T01:59:51",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33124"
+  },
+  "modified": "2026-01-08T09:06:17",
+  "modified_gmt": "2026-01-08T02:06:17",
+  "slug": "dieu-chinh-lich-dang-ky-hoc-lai-hoc-cai-thien-hoc-2-van-bang-tren-qldt-hoc-ky-2-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/dieu-chinh-lich-dang-ky-hoc-lai-hoc-cai-thien-hoc-2-van-bang-tren-qldt-hoc-ky-2-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Điều chỉnh lịch đăng ký học lại, học cải thiện, học 2 văn bằng trên QLĐT học kỳ 2 năm học 2025-2026"
+  },
+  "content": {
+    "rendered": "<p>Kính gửi: Sinh viên các lớp ĐHCQ cơ sở Hà Nội</p>\n<p>Căn cứ kế hoạch đăng ký môn học học kỳ 2 năm học 2025-2026 đã điều chỉnh.</p>\n<p>Phòng Giáo vụ thông báo điều chỉnh lịch đăng ký học lại, học cải thiện, học 2 văn bằng học kỳ 2 năm học 2025-2026, cụ thể như sau:</p>\n<p>1. Thời gian đăng ký: Từ 12h00 ngày 09/01/2026 đến 24h00 ngày 14/01/2026 trên hệ thống QLĐT: <a href=\"https://qldt.ptit.edu.vn/#/\">https://qldt.ptit.edu.vn</a></p>\n<p>2. Đối tượng: Sinh viên các khoá 2024 trở về trước còn thời hạn đào tạo.</p>\n<p>&#8211; Ưu tiên các sinh viên đang trả nợ môn học sắp hết hạn đào tạo, sinh viên năm cuối.</p>\n<p>&#8211; Các sinh viên khoá 2023,2024 nếu không đăng ký được môn học sẽ đăng ký học lại lớp riêng, dự kiến tổ chức vào tháng 2/2026.</p>\n<p>Đề nghị các sinh viên nghiêm túc triển khai thực hiện.</p>\n<p>Trân trọng ./.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Sinh viên các lớp ĐHCQ cơ sở Hà Nội Căn cứ kế hoạch đăng ký môn học học kỳ 2 năm học 2025-2026 đã điều chỉnh. Phòng Giáo vụ thông báo điều chỉnh lịch đăng ký học lại, học cải thiện, học 2 văn bằng học kỳ 2 năm học 2025-2026, cụ thể [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32450,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    10,
+    9,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33124",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dang-ky-hoc-phan-vi",
+    "category-ke-hoach-dao-tao",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33124",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33124"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33124/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32450"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33124"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33124"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33124"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

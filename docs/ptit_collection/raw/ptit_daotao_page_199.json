@@ -1,0 +1,100 @@
+{
+  "id": 199,
+  "date": "2024-08-07T11:26:05",
+  "date_gmt": "2024-08-07T04:26:05",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=199"
+  },
+  "modified": "2026-06-16T23:38:25",
+  "modified_gmt": "2026-06-16T16:38:25",
+  "slug": "tam-nhin-su-mang",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/tam-nhin-su-mang/",
+  "title": {
+    "rendered": "Tầm nhìn &#8211; Sứ mạng"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"199\" class=\"elementor elementor-199\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-2015385 e-flex e-con-boxed e-con e-parent\" data-id=\"2015385\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d43e346 elementor-widget elementor-widget-heading\" data-id=\"d43e346\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Tầm nhìn - Sứ mạng Học viện</h2>\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0efbaff elementor-widget elementor-widget-text-editor\" data-id=\"0efbaff\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<h5>1. Tầm nhìn</h5><p>Đến năm 2030, Học viện trở thành một trung tâm về giáo dục – đào tạo, nghiên cứu khoa học – chuyển giao công nghệ và tri thức trong lĩnh vực thông tin và truyền thông có uy tín, khả năng cạnh tranh, hội nhập quốc tế cao và nằm trong nhóm 300 trường đại học hàng đầu châu Á theo bảng xếp hạng QS Asia1.</p><h5>2. Sứ mạng</h5><p>Sứ mạng của Học viện Công nghệ Bưu chính Viễn thông là sáng tạo và chuyển giao tri thức cho xã hội thông qua việc gắn kết các hoạt động giáo dục – đào tạo nguồn nhân lực chất lượng cao, nghiên cứu phát triển và chuyển giao khoa học công nghệ, tri thức mới trong lĩnh vực thông tin và truyền thông đáp ứng thực tiễn phát triển và hội nhập quốc tế của đất nước.</p>\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>/*! elementor &#8211; v3.22.0 &#8211; 26-06-2024 */ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]&gt;a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px} Tầm nhìn &#8211; Sứ mạng Học viện 1. Tầm nhìn S&#8217;investir dans tortugacasino sur la durée laisse entrevoir un écosystème qui sait se renouveler. Les serveurs sont hébergés dans des datacenters bénéficiant de certifications de sécurité strictes. Les utilisateurs réguliers profitent [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 8,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-199",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/199",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/8"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=199"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/199/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5118,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/199/revisions/5118"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=199"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

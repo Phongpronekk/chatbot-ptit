@@ -1,0 +1,696 @@
+### sheet1.xml
+A1: CÁC HỌC PHẦN MỞ / KHÔNG MỞ CỦA ĐỢT HỌC LẠI KỲ 1 NĂM HỌC 2025-2026
+A3: * Lưu ý: Sinh viên học cải thiện điểm phải học đúng Mã học phần có trong Chương trình đào tạo của cá nhân, không được học thay bằng học phần khác
+A5: STT | B5: MÃ HỌC PHẦN | C5: TÊN HỌC PHẦN | D5: SỐ TÍN CHỈ | E5: DANH SÁCH HỌC PHẦN MỞ / KHÔNG MỞ | F5: GHI CHÚ
+A6: 1 | B6: BAS1107 | C6: Giáo dục thể chất 2 | D6: 2 | E6: MỞ
+A7: 2 | B7: BAS1122 | C7: Tư tưởng Hồ Chí Minh | D7: 2 | E7: MỞ
+A8: 3 | B8: BAS1150 | C8: Triết học Mác - Lênin | D8: 3 | E8: MỞ
+A9: 4 | B9: BAS1151 | C9: Kinh tế chính trị Mác- Lênin | D9: 2 | E9: MỞ
+A10: 5 | B10: BAS1152 | C10: Chủ nghĩa xã hội khoa học | D10: 2 | E10: MỞ
+A11: 6 | B11: BAS1153 | C11: Lịch sử Đảng cộng sản Việt Nam | D11: 2 | E11: MỞ
+A12: 7 | B12: BAS1157 | C12: Tiếng Anh (Course 1) | D12: 4 | E12: MỞ
+A13: 8 | B13: BAS1158 | C13: Tiếng Anh (Course 2) | D13: 4 | E13: MỞ
+A14: 9 | B14: BAS1159 | C14: Tiếng Anh (Course 3) | D14: 4 | E14: MỞ
+A15: 10 | B15: BAS1160 | C15: Tiếng Anh (Course 3 Plus) | D15: 2 | E15: MỞ
+A16: 11 | B16: BAS1201 | C16: Đại số | D16: 3 | E16: MỞ
+A17: 12 | B17: BAS1203 | C17: Giải tích 1 | D17: 3 | E17: MỞ
+A18: 13 | B18: BAS1204 | C18: Giải tích 2 | D18: 3 | E18: MỞ
+A19: 14 | B19: BAS1220 | C19: Toán cao cấp 2 | D19: 2 | E19: MỞ
+A20: 15 | B20: BAS1221 | C20: Toán kỹ thuật | D20: 3 | E20: MỞ
+A21: 16 | B21: BAS1224 | C21: Vật lý 1 và thí nghiệm | D21: 4 | E21: MỞ
+A22: 17 | B22: BAS1225 | C22: Vật lý 2 và thí nghiệm | D22: 4 | E22: MỞ
+A23: 18 | B23: BAS1226 | C23: Xác suất thống kê | D23: 2 | E23: MỞ
+A24: 19 | B24: BAS1227 | C24: Vật lý 3 và thí nghiệm | D24: 4 | E24: MỞ
+A25: 20 | B25: BSA1221 | C25: Pháp luật đại cương | D25: 2 | E25: MỞ
+A26: 21 | B26: BSA1310 | C26: Kinh tế vi mô 1 | D26: 3 | E26: MỞ
+A27: 22 | B27: ELE1304 | C27: Cơ sở điều khiển tự động | D27: 3 | E27: MỞ
+A28: 23 | B28: ELE1309 | C28: Điện tử số | D28: 3 | E28: MỞ
+A29: 24 | B29: ELE1310 | C29: Điện tử tương tự | D29: 3 | E29: MỞ
+A30: 25 | B30: ELE13100 | C30: Cấu kiện điện tử | D30: 3 | E30: MỞ
+A31: 26 | B31: ELE13101 | C31: Xử lý tín hiệu số | D31: 3 | E31: MỞ
+A32: 27 | B32: ELE13105 | C32: Linh kiện và mạch điện tử | D32: 3 | E32: MỞ
+A33: 28 | B33: ELE1317 | C33: Kỹ thuật vi xử lý | D33: 3 | E33: MỞ
+A34: 29 | B34: ELE1318 | C34: Lý thuyết mạch | D34: 3 | E34: MỞ
+A35: 30 | B35: ELE1319 | C35: Lý thuyết thông tin | D35: 3 | E35: MỞ
+A36: 31 | B36: ELE1320 | C36: Lý thuyết trường điện từ và siêu cao tần | D36: 3 | E36: MỞ
+A37: 32 | B37: ELE14103 | C37: Chuyên đề xử lý tín hiệu và truyền thông | D37: 3 | E37: MỞ
+A38: 33 | B38: ELE1414 | C38: Đồ án xử lý tín hiệu số | D38: 2 | E38: MỞ
+A39: 34 | B39: ELE1415 | C39: Hệ thống nhúng | D39: 3 | E39: MỞ
+A40: 35 | B40: ELE1423 | C40: Thiết kế hệ thống VLSI | D40: 2 | E40: MỞ
+A41: 36 | B41: ELE1428 | C41: Truyền thông số | D41: 2 | E41: MỞ
+A42: 37 | B42: ELE1432 | C42: Xử lý tiếng nói | D42: 3 | E42: MỞ
+A43: 38 | B43: ELE1433 | C43: Kỹ thuật số | D43: 2 | E43: MỞ
+A44: 39 | B44: INT1155 | C44: Tin học cơ sở 2 | D44: 2 | E44: MỞ
+A45: 40 | B45: INT1306 | C45: Cấu trúc dữ liệu và giải thuật | D45: 3 | E45: MỞ
+A46: 41 | B46: INT1306_CLC | C46: Cấu trúc dữ liệu và giải thuật | D46: 3 | E46: MỞ
+A47: 42 | B47: INT13111 | C47: Kỹ thuật đồ họa | D47: 3 | E47: MỞ
+A48: 43 | B48: INT1313 | C48: Cơ sở dữ liệu | D48: 3 | E48: MỞ
+A49: 44 | B49: INT13145 | C49: Kiến trúc máy tính | D49: 3 | E49: MỞ
+A50: 45 | B50: INT13162 | C50: Lập trình với Python | D50: 3 | E50: MỞ
+A51: 46 | B51: INT1319 | C51: Hệ điều hành | D51: 3 | E51: MỞ
+A52: 47 | B52: INT1332 | C52: Lập trình hướng đối tượng | D52: 3 | E52: MỞ
+A53: 48 | B53: INT1332_CLC | C53: Lập trình hướng đối tượng | D53: 3 | E53: MỞ
+A54: 49 | B54: INT1336 | C54: Mạng máy tính | D54: 3 | E54: MỞ
+A55: 50 | B55: INT1339 | C55: Ngôn ngữ lập trình C++ | D55: 3 | E55: MỞ
+A56: 51 | B56: INT1339_CLC | C56: Ngôn ngữ lập trình C++ | D56: 3 | E56: MỞ
+A57: 52 | B57: INT1340 | C57: Nhập môn công nghệ phần mềm | D57: 3 | E57: MỞ
+A58: 53 | B58: INT1341 | C58: Nhập môn trí tuệ nhân tạo | D58: 3 | E58: MỞ
+A59: 54 | B59: INT1341_CLC | C59: Nhập môn trí tuệ nhân tạo | D59: 3 | E59: MỞ
+A60: 55 | B60: INT1342M | C60: Phân tích và thiết kế hệ thống thông tin | D60: 3 | E60: MỞ
+A61: 56 | B61: INT1358 | C61: Toán rời rạc 1 | D61: 3 | E61: MỞ
+A62: 57 | B62: INT1359 | C62: Toán rời rạc 2 | D62: 3 | E62: MỞ
+A63: 58 | B63: INT1405 | C63: Các hệ thống phân tán | D63: 3 | E63: MỞ
+A64: 59 | B64: INT14103 | C64: Kỹ thuật lập trình hướng đối tượng | D64: 3 | E64: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành CNPM | F64: Môn học TTTN
+A65: 60 | B65: INT14104 | C65: Phân tích thiết kế đảm bảo chất lượng phần mềm | D65: 3 | E65: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành CNPM | F65: Môn học TTTN
+A66: 61 | B66: INT1497M | C66: Phát triển các  hệ thống dựa trên tri thức | D66: 3 | E66: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành HTTT | F66: Môn học TTTN
+A67: 62 | B67: INT1498 | C67: Phát triển ứng dụng phân tán | D67: 3 | E67: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành HTTT | F67: Môn học TTTN
+A68: 63 | B68: INT1499M | C68: Chuyên đề an toàn phần mềm | D68: 3 | E68: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv ATTT | F68: Môn học TTTN
+A69: 64 | B69: INT14100M | C69: Chuyên đề an ninh mạng | D69: 3 | E69: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv ATTT | F69: Môn học TTTN
+A70: 65 | B70: INT14148 | C70: Cơ sở dữ liệu phân tán | D70: 3 | E70: MỞ
+A71: 66 | B71: INT14149 | C71: IoT và ứng dụng | D71: 3 | E71: MỞ
+A72: 67 | B72: INT1416 | C72: Đảm bảo chất lượng phần mềm | D72: 3 | E72: MỞ
+A73: 68 | B73: INT1422 | C73: Kho dữ liệu và khai phá dữ liệu | D73: 3 | E73: MỞ
+A74: 69 | B74: INT1427 | C74: Kiến trúc và thiết kế phần mềm | D74: 3 | E74: MỞ
+A75: 70 | B75: INT1433 | C75: Lập trình mạng | D75: 3 | E75: MỞ
+A76: 71 | B76: INT1434 | C76: Lập trình Web | D76: 3 | E76: MỞ
+A77: 72 | B77: INT1434_CLC | C77: Lập trình web | D77: 3 | E77: MỞ
+A78: 73 | B78: INT1448 | C78: Phát triển phần mềm hướng dịch vụ | D78: 3 | E78: MỞ
+A79: 74 | B79: INT1449 | C79: Phát triển ứng dụng cho các thiết bị di động | D79: 3 | E79: MỞ
+A80: 75 | B80: MUL14146 | C80: Kỹ thuật lập trình ứng dụng đa phương tiện | D80: 3 | E80: Học thay thế cho môn Đồ án tốt nghiệp CDT1434 cho sv chuyên ngành PTDPT | F80: Môn học TTTN
+A81: 76 | B81: MUL1484 | C81: Thiết kế và tổ chức sản xuất sản phẩm đa phương tiện | D81: 3 | E81: Học thay thế cho môn Đồ án tốt nghiệp CDT1434 cho sv chuyên ngành PTDPT | F81: Môn học TTTN
+A82: 77 | B82: MUL1485 | C82: Thiết kế đồ họa nâng cao | D82: 3 | E82: Học thay thế cho môn Đồ án tốt nghiệp CDT1434 cho sv chuyên ngành TKDPT | F82: Môn học TTTN
+A83: 78 | B83: MUL1486 | C83: Thiết kế hoạt hình nâng cao | D83: 3 | E83: Học thay thế cho môn Đồ án tốt nghiệp CDT1434 cho sv chuyên ngành TKDPT | F83: Môn học TTTN
+A84: 79 | B84: OTC1301 | C84: Thực hành cơ sở | D84: 3 | E84: MỞ
+A85: 80 | B85: TEL1470 | C85: Hệ thống và mạng thông tin vô tuyến tiên tiến | D85: 3 | E85: Học thay thế cho môn Đồ án tốt nghiệp TEL1426  | F85: Môn học TTTN
+A86: 81 | B86: TEL1471 | C86: Phát triển hệ thống và ứng dụng IoT | D86: 3 | E86: Học thay thế cho môn Đồ án tốt nghiệp TEL1426  | F86: Môn học TTTN
+A87: 82 | B87: TEL1337 | C87: Toán rời rạc | D87: 3 | E87: MỞ
+A88: 83 | B88: TEL1340 | C88: Kỹ thuật lập trình | D88: 3 | E88: MỞ
+A89: 84 | B89: TEL1342 | C89: Cấu trúc dữ liệu và giải thuật | D89: 3 | E89: MỞ
+A90: 85 | B90: TEL1344 | C90: Lý thuyết truyền tin | D90: 3 | E90: MỞ
+A91: 86 | B91: TEL1345 | C91: Kỹ thuật siêu cao tần | D91: 3 | E91: MỞ
+A92: 87 | B92: TEL1368 | C92: Tín hiệu và Hệ thống | D92: 3 | E92: MỞ
+A93: 88 | B93: TEL1405 | C93: Kỹ thuật mạng truyền thông | D93: 3 | E93: MỞ
+A94: 89 | B94: TEL1406 | C94: Kỹ thuật thông tin quang | D94: 3 | E94: MỞ
+A95: 90 | B95: TEL1407 | C95: Kỹ thuật thông tin vô tuyến | D95: 3 | E95: MỞ
+A96: 91 | B96: TEL1412 | C96: Mô phỏng hệ thống truyền thông | D96: 2 | E96: MỞ
+A97: 92 | B97: TEL1415 | C97: Thông tin di động | D97: 3 | E97: MỞ
+A98: 93 | B98: TEL1432 | C98: Thông tin vệ tinh | D98: 2 | E98: MỞ
+A99: 94 | B99: TEL1447 | C99: Điện toán đám mây | D99: 2 | E99: MỞ
+A100: 95 | B100: TEL1448 | C100: Lập trình hướng đối tượng | D100: 3 | E100: MỞ
+A101: 96 | B101: TEL1450 | C101: SDN & NFV | D101: 2 | E101: MỞ
+A102: 97 | B102: TEL1458 | C102: Mạng cảm biến không dây | D102: 3 | E102: MỞ
+A103: 98 | B103: TEL1462 | C103: Kỹ thuật thu phát vô tuyến | D103: 3 | E103: MỞ
+A104: 99 | B104: TEL1465 | C104: Quy hoạch và tối ưu mạng di động | D104: 3 | E104: MỞ
+A105: 100 | B105: BAS1102 | C105: Đường lối cách mạng của Đảng cộng sản Việt Nam | D105: 3 | E105: Học thay thế bằng BAS1153
+A106: 101 | B106: BAS1142 | C106: Tiếng Anh A12 | D106: 4 | E106: Học thay thế bằng BAS1157
+A107: 102 | B107: BAS1143 | C107: Tiếng Anh A21 | D107: 3 | E107: Học thay thế bằng BAS1158
+A108: 103 | B108: BAS1144 | C108: Tiếng Anh A22 | D108: 4 | E108: Học thay thế bằng BAS1159
+A109: 104 | B109: BAS1145 | C109: Tiếng Anh B11 | D109: 3 | E109: Học thay thế bằng BAS1159
+A110: 105 | B110: BAS1146 | C110: Tiếng Anh B12 | D110: 4 | E110: Học thay thế bằng BAS1160
+A111: 106 | B111: BAS1227_CLC | C111: Vật lý 3 và thí nghiệm | D111: 4 | E111: Học thay thế bằng BAS1227
+A112: 107 | B112: ELE1302 | C112: Cấu kiện điện tử | D112: 2 | E112: Học thay thế bằng ELE13105 | F112: Áp dụng cho ngành Viễn thông
+A113: 108 | B113: INT1328 | C113: Kỹ thuật đồ họa | D113: 2 | E113: Học thay thế bằng INT13162
+A114: 109 | B114: TEL1407C | C114: Cơ sở kỹ thuật thông tin vô tuyến | D114: 3 | E114: Học thay thế bằng INT1407
+A115: 110 | B115: INT1414 | C115: Cơ sở dữ liệu phân tán | D115: 2 | E115: Học thay thế bằng INT14148
+A116: 111 | B116: TEL1416 | C116: Thu phát vô tuyến | D116: 3 | E116: Học thay thế bằng INT1462
+A117: 112 | B117: INT1470 | C117: Các kỹ thuật lập trình | D117: 3 | E117: Học thay thế bằng TEL1340
+A118: 113 | B118: ELE1325 | C118: Matlab và ứng dụng | D118: 2 | E118: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A119: 114 | B119: ELE1406 | C119: Cơ sở mật mã học | D119: 2 | E119: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A120: 115 | B120: ELE1407 | C120: Công nghệ phát thanh truyền hình số | D120: 2 | E120: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A121: 116 | B121: ELE1421 | C121: Mạng cảm biến | D121: 2 | E121: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A122: 117 | B122: ELE1422 | C122: Thị giác máy tính | D122: 2 | E122: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A123: 118 | B123: ELE1438 | C123: Xử lý tín hiệu trong hệ thống truyền thông | D123: 3 | E123: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A124: 119 | B124: FIA1448 | C124: Kiểm toán tài chính | D124: 2 | E124: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A125: 120 | B125: INT13108 | C125: Ngôn ngữ lập trình Java | D125: 3 | E125: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A126: 121 | B126: INT13109 | C126: Lập trình hướng đối tượng với C++ | D126: 3 | E126: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A127: 122 | B127: INT1318 | C127: Hệ cơ sở dữ liệu đa phương tiện | D127: 3 | E127: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A128: 123 | B128: INT1330_CLC | C128: Kỹ thuật vi xử lý | D128: 3 | E128: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A129: 124 | B129: INT1403 | C129: Kỹ thuật lập trình hướng đối tượng | D129: 3 | E129: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A130: 125 | B130: INT1414_CLC | C130: Cơ sở dữ liệu phân tán | D130: 2 | E130: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A131: 126 | B131: INT1476 | C131: An toàn ứng dụng web | D131: 3 | E131: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A132: 127 | B132: INT1491 | C132: Mật mã học nâng cao | D132: 2 | E132: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A133: 128 | B133: INT1497M | C133: Phát triển các hệ thống dựa trên tri thức | D133: 3 | E133: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A134: 129 | B134: INT1498 | C134: Phát triển ứng dụng phân tán | D134: 3 | E134: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A135: 130 | B135: MUL1218 | C135: Mỹ thuật cơ bản | D135: 2 | E135: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A136: 131 | B136: MUL1392 | C136: Truyền thông: Lý thuyết và ứng dụng | D136: 2 | E136: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A137: 132 | B137: MUL1397 | C137: Biên tập văn bản báo chí | D137: 2 | E137: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A138: 133 | B138: MUL14106 | C138: Báo chí đa phương tiện | D138: 3 | E138: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A139: 134 | B139: MUL14115 | C139: Ứng dụng sản xuất audio và video | D139: 3 | E139: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A140: 135 | B140: MUL1425 | C140: Thiết kế tương tác đa phương tiện | D140: 2 | E140: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A141: 136 | B141: MUL1429 | C141: Thiết kế web cơ bản | D141: 2 | E141: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A142: 137 | B142: MUL1450 | C142: Phát triển dịch vụ giá trị gia tăng trên mạng viễn thông | D142: 3 | E142: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A143: 138 | B143: TEL1454 | C143: Lập trình nhúng | D143: 2 | E143: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A144: 139 | B144: MUL1399 | C144: Phỏng vấn: Lý thuyết và thực hành | D144: 2 | E144: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế
+A145: 140 | B145: INT1418 | C145: Hệ cơ sở dữ liệu đa phương tiện | D145: 3 | E145: Khoa không bố trí giáo viên
+A146: 141 | B146: BAS1105M | C146: Giáo dục quốc phòng | D146: 7.5 | E146: Không mở
+A147: 142 | B147: BAS1106 | C147: Giáo dục thể chất 1 | D147: 2 | E147: Không mở
+A148: 143 | B148: BAS1109 | C148: Lịch sử các học thuyết kinh tế | D148: 2 | E148: Không mở
+A149: 144 | B149: BAS1156 | C149: Học phần tiếng anh bổ trợ (Course 0) | D149: 0 | E149: Không mở
+A150: 145 | B150: BAS1163_CLC | C150: Tiếng Anh (Course 2_CLC) | D150: 8 | E150: Không mở
+A151: 146 | B151: BAS1164_CLC | C151: Tiếng Anh (Course 3_CLC) | D151: 8 | E151: Không mở
+A152: 147 | B152: BAS1173 | C152: Tiếng Nhật 3 | D152: 3 | E152: Không mở
+A153: 148 | B153: BAS1201_CLC | C153: Đại số | D153: 3 | E153: Không mở
+A154: 149 | B154: BAS1203_CLC | C154: Giải tích 1 | D154: 3 | E154: Không mở
+A155: 150 | B155: BAS1204_CLC | C155: Giải tích 2 | D155: 3 | E155: Không mở
+A156: 151 | B156: BAS1210 | C156: Lý thuyết xác suất và thống kê | D156: 3 | E156: Không mở
+A157: 152 | B157: BAS1224_CLC | C157: Vật lý 1 và thí nghiệm | D157: 4 | E157: Không mở | F157: SV học thay thế môn BAS1270_CLC ở kỳ 2
+A158: 153 | B158: BAS1226_CLC | C158: Xác suất thống kê | D158: 2 | E158: Không mở | F158: SV học thay thế môn BAS1269_CLC ở kỳ 1
+A159: 154 | B159: BAS1269 | C159: Xác suất thống kê | D159: 3 | E159: Không mở
+A160: 155 | B160: BAS1269_CLC | C160: Xác suất thống kê | D160: 3 | E160: Không mở
+A161: 156 | B161: BAS1270 | C161: Vật lý ứng dụng | D161: 4 | E161: Không mở
+A162: 157 | B162: BAS1270_CLC | C162: Vật lý ứng dụng | D162: 4 | E162: Không mở
+A163: 158 | B163: BSA1236 | C163: Tâm lý quản lý | D163: 2 | E163: Không mở
+A164: 159 | B164: BSA1241 | C164: Toán kinh tế | D164: 3 | E164: Không mở
+A165: 160 | B165: BSA1307 | C165: Hệ thống thông tin quản lý | D165: 2 | E165: Không mở
+A166: 161 | B166: BSA1309 | C166: Kinh tế lượng | D166: 3 | E166: Không mở
+A167: 162 | B167: BSA1311 | C167: Kinh tế vĩ mô 1 | D167: 3 | E167: Không mở
+A168: 163 | B168: BSA1314 | C168: Luật kinh doanh | D168: 2 | E168: Không mở
+A169: 164 | B169: BSA1320 | C169: Phân tích hoạt động kinh doanh | D169: 2 | E169: Không mở
+A170: 165 | B170: BSA1324 | C170: Quản trị chất lượng | D170: 2 | E170: Không mở
+A171: 166 | B171: BSA1325 | C171: Quản trị chiến lược | D171: 3 | E171: Không mở
+A172: 167 | B172: BSA1328 | C172: Quản trị học | D172: 3 | E172: Không mở
+A173: 168 | B173: BSA1331 | C173: Quản trị nhân lực | D173: 3 | E173: Không mở
+A174: 169 | B174: BSA1333 | C174: Quản trị sản xuất | D174: 3 | E174: Không mở
+A175: 170 | B175: BSA1334 | C175: Quản trị thương hiệu | D175: 2 | E175: Không mở
+A176: 171 | B176: BSA1335 | C176: Quản trị văn phòng | D176: 2 | E176: Không mở
+A177: 172 | B177: BSA1348 | C177: Nguyên lý thống kê kinh tế | D177: 3 | E177: Không mở
+A178: 173 | B178: BSA1349 | C178: Quản lý dự án | D178: 2 | E178: Không mở
+A179: 174 | B179: BSA1351 | C179: Logicstics căn bản | D179: 2 | E179: Không mở
+A180: 175 | B180: BSA1353 | C180: Kinh doanh quốc tế | D180: 2 | E180: Không mở
+A181: 176 | B181: BSA1364 | C181: Quản trị dự án | D181: 2 | E181: Không mở
+A182: 177 | B182: BSA1417 | C182: Marketing dịch vụ | D182: 2 | E182: Không mở
+A183: 178 | B183: BSA1468 | C183: Quản trị đổi mới sáng tạo | D183: 2 | E183: Không mở
+A184: 179 | B184: ELE1305 | C184: Cơ sở đo lường điện tử | D184: 2 | E184: Không mở
+A185: 180 | B185: ELE1308 | C185: Điện tử công suất | D185: 3 | E185: Không mở
+A186: 181 | B186: ELE1309_CLC | C186: Điện tử số | D186: 3 | E186: Không mở
+A187: 182 | B187: ELE1330 | C187: Xử lý tín hiệu số | D187: 2 | E187: Không mở
+A188: 183 | B188: ELE1340 | C188: Nhập môn điều khiển và tự động hoá | D188: 2 | E188: Không mở
+A189: 184 | B189: ELE1342 | C189: Mạch điện | D189: 3 | E189: Không mở
+A190: 185 | B190: ELE1343 | C190: Kỹ thuật điện tử | D190: 3 | E190: Không mở
+A191: 186 | B191: ELE1344 | C191: Kỹ thuật đo điện | D191: 2 | E191: Không mở
+A192: 187 | B192: ELE1386 | C192: Nhập môn kỹ thuật điện tử | D192: 2 | E192: Không mở
+A193: 188 | B193: ELE14102 | C193: Mạng cảm biến | D193: 3 | E193: Không mở
+A194: 189 | B194: ELE14108 | C194: Chuyên đề công nghệ bán dẫn | D194: 2 | E194: Không mở
+A195: 190 | B195: ELE1411 | C195: Đồ án thiết kế hệ thống số | D195: 2 | E195: Không mở
+A196: 191 | B196: ELE1412 | C196: Đồ án thiết kế mạch điện tử | D196: 2 | E196: Không mở
+A197: 192 | B197: ELE1426 | C197: Thiết kế logic số | D197: 3 | E197: Không mở
+A198: 193 | B198: ELE1427 | C198: Thiết bị ngoại vi và kỹ thuật ghép nối | D198: 2 | E198: Không mở
+A199: 194 | B199: ELE1435 | C199: Thực hành chuyên sâu | D199: 2 | E199: Không mở | F199: SV học thay thế môn ELE14106 ở kỳ 2
+A200: 195 | B200: ELE1487 | C200: Hệ điều hành nhúng | D200: 3 | E200: Không mở
+A201: 196 | B201: FIA_E1458 | C201: FMA- Kế toán quản trị | D201: 4 | E201: Không mở
+A202: 197 | B202: FIA1315 | C202: Kiểm toán căn bản | D202: 3 | E202: Không mở
+A203: 198 | B203: FIA1321 | C203: Nguyên lý kế toán | D203: 3 | E203: Không mở
+A204: 199 | B204: FIA1324 | C204: Quản trị tài chính doanh nghiệp | D204: 3 | E204: Không mở
+A205: 200 | B205: FIA1325 | C205: Tài chính doanh nghiệp | D205: 3 | E205: Không mở | F205: SV ngành TMĐT học thay thế môn FIA1324 ở kỳ 2
+A206: 201 | B206: FIA1326 | C206: Tài chính tiền tệ | D206: 3 | E206: Không mở
+A207: 202 | B207: FIA1334 | C207: Kế toán quản trị | D207: 2 | E207: Không mở
+A208: 203 | B208: FIA1342 | C208: Kế toán căn bản | D208: 2 | E208: Không mở | F208: SV ngành TMĐT học thay thế môn FIA1389 ở kỳ 1
+A209: 204 | B209: FIA1343 | C209: Đầu tư chứng khoán | D209: 2 | E209: Không mở
+A210: 205 | B210: FIA1376 | C210: Đổi mới sáng tạo trong tài chính kế toán | D210: 2 | E210: Không mở
+A211: 206 | B211: FIA1382 | C211: Kế toán tài chính 1 | D211: 4 | E211: Không mở
+A212: 207 | B212: FIA1401 | C212: ACCA | D212: 3 | E212: Không mở
+A213: 208 | B213: FIA1402 | C213: CFA | D213: 3 | E213: Không mở
+A214: 209 | B214: FIA1408 | C214: Kế toán ngân hàng thương mại | D214: 2 | E214: Không mở
+A215: 210 | B215: FIA1411 | C215: Kế toán quản trị 2 | D215: 2 | E215: Không mở
+A216: 211 | B216: FIA1414 | C216: Kế toán tài chính 3 | D216: 2 | E216: Không mở | F216: SV ngành KT học thay thế môn FIA1477 ở kỳ 1
+A217: 212 | B217: FIA1420 | C217: Thuế và kế toán thuế | D217: 3 | E217: Không mở | F217: SV ngành KT học thay thế môn FIA1486 ở kỳ 2
+A218: 213 | B218: FIA1422 | C218: Phân tích báo cáo tài chính doanh nghiệp | D218: 2 | E218: Không mở
+A219: 214 | B219: FIA1440 | C219: Định giá doanh nghiệp | D219: 2 | E219: Không mở
+A220: 215 | B220: FIA1444 | C220: Kế toán tài chính doanh nghiệp (theo chế độ kế toán Việt Nam) | D220: 2 | E220: Không mở
+A221: 216 | B221: FIA1464 | C221: Nghiệp vụ ngân hàng thương mại | D221: 3 | E221: Không mở
+A222: 217 | B222: FIA1465 | C222: Đầu tư tài chính | D222: 3 | E222: Không mở
+A223: 218 | B223: FIA1468 | C223: Phân tích tài chính doanh nghiệp | D223: 3 | E223: Không mở
+A224: 219 | B224: FIA1470 | C224: Quản lý và ứng dụng cơ sở dữ liệu trong tài chính | D224: 3 | E224: Không mở
+A225: 220 | B225: FIA1483 | C225: Kế toán tài chính 2 | D225: 4 | E225: Không mở
+A226: 221 | B226: FIA1485 | C226: Hệ thống thông tin kế toán | D226: 2 | E226: Không mở
+A227: 222 | B227: FIA1486 | C227: Thuế và kế toán thuế | D227: 4 | E227: Không mở
+A228: 223 | B228: INT11117_CLC | C228: Nhập môn tin học và lập trình | D228: 3 | E228: Không mở
+A229: 224 | B229: INT1154 | C229: Tin học cơ sở 1 | D229: 2 | E229: Không mở
+A230: 225 | B230: INT1156 | C230: Tin học cơ sở 3 | D230: 2 | E230: Không mở
+A231: 226 | B231: INT1303 | C231: An toàn và bảo mật hệ thống thông tin | D231: 3 | E231: Không mở
+A232: 227 | B232: INT13110 | C232: Lập trình mạng với C++ | D232: 3 | E232: Không mở
+A233: 228 | B233: INT13112 | C233: Nguyên lý lập trình (BU) | D233: 3 | E233: Không mở
+A234: 229 | B234: INT13113 | C234: Nhập môn cơ sở dữ liệu | D234: 3 | E234: Không mở
+A235: 230 | B235: INT13114 | C235: Mạng máy tính và truyền thông | D235: 3 | E235: Không mở | F235: SV ngành TMĐT học thay thế môn INT13131 ở kỳ 1
+A236: 231 | B236: INT13128 | C236: Cơ sở dữ liệu (Fintech) | D236: 3 | E236: Không mở
+A237: 232 | B237: INT13129 | C237: Lập trình Python (Fintech) | D237: 3 | E237: Không mở
+A238: 233 | B238: INT1313_CLC | C238: Cơ sở dữ liệu | D238: 3 | E238: Không mở
+A239: 234 | B239: INT13130 | C239: Lập trình web (Fintech) | D239: 3 | E239: Không mở
+A240: 235 | B240: INT13132 | C240: Phân tích và thiết kế hệ thống thông tin quản lý (Fintech) | D240: 3 | E240: Không mở
+A241: 236 | B241: INT13145_CLC | C241: Kiến trúc máy tính | D241: 3 | E241: Không mở
+A242: 237 | B242: INT13146 | C242: Xử lý ảnh | D242: 3 | E242: Không mở
+A243: 238 | B243: INT13147 | C243: Thực tập cơ sở | D243: 3 | E243: Không mở
+A244: 239 | B244: INT13147_CLC | C244: Thực tập cơ sở | D244: 4 | E244: Không mở
+A245: 240 | B245: INT13166 | C245: Internet và công nghệ web | D245: 3 | E245: Không mở
+A246: 241 | B246: INT13185 | C246: Cấu trúc dữ liệu và giải thuật | D246: 3 | E246: Không mở
+A247: 242 | B247: INT13187_CLC | C247: Thực tập cơ sở | D247: 4 | E247: Không mở
+A248: 243 | B248: INT1319_CLC | C248: Hệ điều hành | D248: 3 | E248: Không mở
+A249: 244 | B249: INT1325 | C249: Kiến trúc máy tính và hệ điều hành | D249: 2 | E249: Không mở
+A250: 245 | B250: INT1330 | C250: Kỹ thuật vi xử lý | D250: 3 | E250: Không mở | F250: SV học thay thế môn INT13147 ở kỳ 2
+A251: 246 | B251: INT1336_CLC | C251: Mạng máy tính | D251: 3 | E251: Không mở
+A252: 247 | B252: INT1340_CLC | C252: Nhập môn CNPM | D252: 3 | E252: Không mở
+A253: 248 | B253: INT1342_CLC | C253: Phân tích và thiết kế HTTT | D253: 3 | E253: Không mở
+A254: 249 | B254: INT1344 | C254: Mật mã học cơ sở | D254: 3 | E254: Không mở
+A255: 250 | B255: INT1358_CLC | C255: Toán rời rạc 1 | D255: 3 | E255: Không mở
+A256: 251 | B256: INT1359_CLC | C256: Toán rời rạc 2 | D256: 3 | E256: Không mở
+A257: 252 | B257: INT1404 | C257: Các hệ thống dựa trên tri thức | D257: 3 | E257: Không mở
+A258: 253 | B258: INT1408 | C258: Chuyên đề công nghệ phần mềm | D258: 1 | E258: Không mở
+A259: 254 | B259: INT1409 | C259: Chuyên đề hệ thống thông tin | D259: 1 | E259: Không mở
+A260: 255 | B260: INT14102 | C260: Các kỹ thuật giấu tin | D260: 2 | E260: Không mở
+A261: 256 | B261: INT14105 | C261: An toàn ứng dụng web và cơ sở dữ liệu | D261: 3 | E261: Không mở
+A262: 257 | B262: INT14106 | C262: Quản lý an toàn thông tin | D262: 3 | E262: Không mở
+A263: 258 | B263: INT14107 | C263: Kiểm thử xâm nhập | D263: 3 | E263: Không mở
+A264: 259 | B264: INT14119_CLC | C264: Lập trình Python | D264: 3 | E264: Không mở
+A265: 260 | B265: INT14121_CLC | C265: Học máy | D265: 3 | E265: Không mở
+A266: 261 | B266: INT14122_CLC | C266: Nhập môn học sâu | D266: 3 | E266: Không mở
+A267: 262 | B267: INT14125_CLC | C267: Truy xuất thông tin | D267: 3 | E267: Không mở
+A268: 263 | B268: INT14126_CLC | C268: Khai phá dữ liệu lớn | D268: 3 | E268: Không mở
+A269: 264 | B269: INT14135 | C269: Tiền số và công nghệ Blockchain | D269: 3 | E269: Không mở
+A270: 265 | B270: INT14150 | C270: Nhập môn khoa học dữ liệu | D270: 3 | E270: Không mở
+A271: 266 | B271: INT14151 | C271: Phát triển các hệ thống thông minh | D271: 3 | E271: Không mở
+A272: 267 | B272: INT1416_CLC | C272: Đảm bảo chất lượng phần mềm | D272: 3 | E272: Không mở
+A273: 268 | B273: INT14164 | C273: Phân tích mã độc | D273: 2 | E273: Không mở
+A274: 269 | B274: INT14167_CLC | C274: Hệ quản trị Cơ sở dữ liệu | D274: 3 | E274: Không mở
+A275: 270 | B275: INT1427_CLC | C275: Kiến trúc và thiết kế phần mềm | D275: 3 | E275: Không mở
+A276: 271 | B276: INT1429M | C276: Kỹ thuật theo dõi và giám sát an toàn mạng | D276: 2 | E276: Không mở
+A277: 272 | B277: INT1433_CLC | C277: Lập trình mạng | D277: 3 | E277: Không mở
+A278: 273 | B278: INT1445 | C278: Phát triển hệ thống thông tin quản lý | D278: 3 | E278: Không mở
+A279: 274 | B279: INT1446 | C279: Phát triển hệ thống thương mại điện tử | D279: 3 | E279: Không mở
+A280: 275 | B280: INT1448_CLC | C280: Phát triển phần mềm hướng dịch vụ | D280: 3 | E280: Không mở
+A281: 276 | B281: INT1449_CLC | C281: Phát triển ứng dụng cho các thiết bị di động | D281: 3 | E281: Không mở
+A282: 277 | B282: INT1450 | C282: Quản lý dự án phần mềm | D282: 2 | E282: Không mở
+A283: 278 | B283: INT1450_CLC | C283: Quản lý dự án phần mềm | D283: 3 | E283: Không mở
+A284: 279 | B284: INT1461 | C284: Xây dựng các hệ thống nhúng | D284: 3 | E284: Không mở
+A285: 280 | B285: INT1472 | C285: Cơ sở an toàn thông tin | D285: 3 | E285: Không mở
+A286: 281 | B286: INT1472_CLC | C286: Cơ sở an toàn thông tin | D286: 3 | E286: Không mở
+A287: 282 | B287: INT1482 | C287: An toàn mạng | D287: 3 | E287: Không mở
+A288: 283 | B288: INT1483 | C288: An toàn mạng nâng cao | D288: 3 | E288: Không mở
+A289: 284 | B289: INT1484 | C289: An toàn hệ điều hành | D289: 2 | E289: Không mở
+A290: 285 | B290: INT1487 | C290: Hệ điều hành Windows và Linux/Unix | D290: 3 | E290: Không mở
+A291: 286 | B291: INT2020_CLC | C291: Thực tập tốt nghiệp | D291: 8 | E291: Không mở
+A292: 287 | B292: MAR1304 | C292: Hành vi khách hàng | D292: 2 | E292: Không mở
+A293: 288 | B293: MAR1322 | C293: Marketing căn bản | D293: 3 | E293: Không mở
+A294: 289 | B294: MAR1333 | C294: Internet và ứng dụng trong kinh doanh | D294: 3 | E294: Không mở
+A295: 290 | B295: MAR1424 | C295: Quản trị Marketing | D295: 2 | E295: Không mở
+A296: 291 | B296: MAR1426 | C296: Marketing công nghiệp | D296: 2 | E296: Không mở
+A297: 292 | B297: MAR1427 | C297: E-Marketing | D297: 2 | E297: Không mở
+A298: 293 | B298: MUL12117 | C298: Lịch sử văn minh thế giới | D298: 2 | E298: Không mở
+A299: 294 | B299: MUL13100 | C299: Diễn thuyết trước công chúng | D299: 2 | E299: Không mở
+A300: 295 | B300: MUL13101 | C300: Báo chí điều tra | D300: 2 | E300: Không mở
+A301: 296 | B301: MUL13102 | C301: Rủi ro và xử lý khủng hoảng truyền thông | D301: 2 | E301: Không mở
+A302: 297 | B302: MUL13108 | C302: Ngôn ngữ lập trình Java | D302: 3 | E302: Không mở
+A303: 298 | B303: MUL13120 | C303: Nhập môn quảng cáo | D303: 2 | E303: Không mở
+A304: 299 | B304: MUL13122 | C304: Kỹ thuật nhiếp ảnh | D304: 2 | E304: Không mở
+A305: 300 | B305: MUL13124 | C305: Dựng audio và video phi tuyến | D305: 3 | E305: Không mở
+A306: 301 | B306: MUL1313 | C306: Kỹ thuật nhiếp ảnh | D306: 3 | E306: Không mở
+A307: 302 | B307: MUL1314 | C307: Kỹ thuật quay phim | D307: 3 | E307: Không mở
+A308: 303 | B308: MUL13151 | C308: Thiết kế tương tác đa phương tiện | D308: 3 | E308: Không mở
+A309: 304 | B309: MUL1392M | C309: Lý thuyết truyền thông | D309: 2 | E309: Không mở
+A310: 305 | B310: MUL1395 | C310: Nhập môn PR | D310: 2 | E310: Không mở
+A311: 306 | B311: MUL1396 | C311: Viết đa phương tiện | D311: 2 | E311: Không mở
+A312: 307 | B312: MUL1398 | C312: Nghệ thuật kể chuyện đa phương tiện | D312: 2 | E312: Không mở
+A313: 308 | B313: MUL14108 | C313: Lý thuyết PR | D313: 2 | E313: Không mở
+A314: 309 | B314: MUL14109 | C314: PR: Chiến lược và thực hành | D314: 3 | E314: Không mở
+A315: 310 | B315: MUL14110 | C315: Quảng cáo đa phương tiện | D315: 2 | E315: Không mở
+A316: 311 | B316: MUL14113 | C316: Ứng dụng đồ họa đa phương tiện | D316: 3 | E316: Không mở
+A317: 312 | B317: MUL14131 | C317: Luật xa gần | D317: 3 | E317: Không mở
+A318: 313 | B318: MUL14132 | C318: Cơ sở tạo hình nâng cao | D318: 3 | E318: Không mở
+A319: 314 | B319: MUL14134 | C319: Thiết kế hình động 1 | D319: 3 | E319: Không mở
+A320: 315 | B320: MUL14136 | C320: Nghệ thuật đồ họa chữ (Typography) | D320: 3 | E320: Không mở
+A321: 316 | B321: MUL14140 | C321: Thiết kế hình động 2 | D321: 3 | E321: Không mở
+A322: 317 | B322: MUL14144 | C322: Kịch bản phân cảnh | D322: 3 | E322: Không mở
+A323: 318 | B323: MUL14145 | C323: Thiết kế hình động 3D | D323: 3 | E323: Không mở
+A324: 319 | B324: MUL1415 | C324: Kỹ xảo đa phương tiện | D324: 2 | E324: Không mở
+A325: 320 | B325: MUL14153 | C325: Thiết kế ứng dụng trên đầu cuối di động | D325: 3 | E325: Không mở
+A326: 321 | B326: MUL14155 | C326: Thiết kế giao diện người dùng | D326: 3 | E326: Không mở
+A327: 322 | B327: MUL14204 | C327: Thực tập chuyên sâu | D327: 4 | E327: Không mở
+A328: 323 | B328: MUL1454 | C328: Thiết kế đồ họa 3D | D328: 3 | E328: Không mở
+A329: 324 | B329: MUL1459 | C329: Thiết kế nhận diện thương hiệu | D329: 3 | E329: Không mở
+A330: 325 | B330: MUL1463 | C330: Thiết kế ấn phẩm báo chí | D330: 2 | E330: Không mở
+A331: 326 | B331: RIPT1415 | C331: Điện toán đám mây | D331: 3 | E331: Không mở
+A332: 327 | B332: SKD1101 | C332: Kỹ năng thuyết trình | D332: 1 | E332: Không mở
+A333: 328 | B333: SKD1102 | C333: Kỹ năng làm việc nhóm | D333: 1 | E333: Không mở
+A334: 329 | B334: SKD1103 | C334: Kỹ năng tạo lập Văn bản | D334: 1 | E334: Không mở
+A335: 330 | B335: SKD1108 | C335: Phương pháp luận nghiên cứu khoa học | D335: 2 | E335: Không mở
+A336: 331 | B336: TEL1338 | C336: Kiến trúc máy tính | D336: 2 | E336: Không mở
+A337: 332 | B337: TEL1339 | C337: Hệ điều hành | D337: 2 | E337: Không mở
+A338: 333 | B338: TEL1341 | C338: Công nghệ phần mềm | D338: 3 | E338: Không mở | F338: SV học thay thế môn TEL1393 ở kỳ 2
+A339: 334 | B339: TEL1343 | C339: Cơ sở dữ liệu | D339: 3 | E339: Không mở
+A340: 335 | B340: TEL1346 | C340: Mạng truyền thông quang | D340: 3 | E340: Không mở
+A341: 336 | B341: TEL1393 | C341: Công nghệ phần mềm | D341: 2 | E341: Không mở
+A342: 337 | B342: TEL1401 | C342: An toàn mạng thông tin | D342: 3 | E342: Không mở
+A343: 338 | B343: TEL1421 | C343: Truyền sóng và anten | D343: 3 | E343: Không mở
+A344: 339 | B344: TEL1451 | C344: Công nghệ vô tuyến thế hệ mới | D344: 2 | E344: Không mở
+A345: 340 | B345: TEL1453 | C345: Học máy và ứng dụng | D345: 2 | E345: Không mở
+A346: 341 | B346: TEL1455 | C346: Quản trị mạng | D346: 2 | E346: Không mở
+A347: 342 | B347: TEL1456 | C347: Mạng truyền thông vô tuyến | D347: 3 | E347: Không mở
+A348: 343 | B348: TEL1457 | C348: Hệ thống nhúng IoT | D348: 3 | E348: Không mở
+A349: 344 | B349: TEL1459 | C349: Thiết kế và hiệu năng mạng | D349: 3 | E349: Không mở
+A350: 345 | B350: TEL1460 | C350: Lưu trữ và phân tích dữ liệu | D350: 3 | E350: Không mở
+A351: 346 | B351: TEL1464 | C351: Các giải pháp và hệ thống IoT tiên tiến | D351: 2 | E351: Không mở
+A352: 347 | B352: TEL1467 | C352: Hệ thống cảm biến | D352: 3 | E352: Không mở
+A353: 348 | B353: TEL1469 | C353: Internet và các giao thức | D353: 3 | E353: Không mở
+A354: 349 | B354: TEL1492 | C354: Thực tập cơ sở | D354: 2 | E354: Không mở
+B355: Sinh viên học lại cả Tiếng Anh A11 và Tiếng Anh A12 thì phải học thay thế bằng 2 học phần Tiếng Anh (Course 1) và Tiếng Anh (Course 2)
+B356: Sinh viên học lại cả Tiếng Anh A11, Tiếng Anh A12 và Tiếng Anh A21 thì phải học thay thế bằng 3 học phần Tiếng Anh (Course 1), Tiếng Anh (Course 2) và Tiếng Anh (Course 3).
+B357: Sinh viên học lại cả Tiếng Anh A11, Tiếng Anh A12, Tiếng Anh A21 và Tiếng Anh A22 thì phải học thay thế bằng 4 học phần Tiếng Anh (Course 1), Tiếng Anh (Course 2), Tiếng Anh (Course 3) và Tiếng Anh (Course 3 Plus).
+### sheet2.xml
+A1: HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+A2: PHÒNG GIÁO VỤ
+A4: LỊCH GIẢNG DẠY GIẢNG DẠY - HỌC TẬP HỌC LẠI LỚP RIÊNG HỌC KỲ I NĂM HỌC 2025 - 2026 
+A7: TT | B7: Mã môn học | C7: Tên môn học/ học phần | D7: Nhóm | E7: Tổ hợp | F7: Tổ TH | G7: Thứ | H7: Kíp | I7: Tiết BĐ | J7: Số tiết | K7: Sĩ số | L7: Phòng | M7: Nhà | N7: Đăng ký hình thức thi | O7: Mã giảng viên | P7: Giảng viên giảng dạy | Q7: Tháng | R7: 45931 | T7: 11/25 | X7: 12/25 | AC7: 01/26 | AF7: Tiết bố trí | AG7: Bộ môn | AH7: Khoa | AI7: Số TC | AJ7: Phân bổ CT | AP7: Ghi chú
+Q8: Ngày BĐ | R8: 13 | S8: 20 | T8: 27 | U8: 3 | V8: 10 | W8: 17 | X8: 24 | Y8: 1 | Z8: 8 | AA8: 15 | AB8: 22 | AC8: 29 | AD8: 5 | AE8: 12 | AJ8: TS tiết | AK8: LT | AL8: TL/ BT | AM8: BTL | AN8: TH/ TN | AO8: Tự học
+Q9: Ngày KT | R9: 19 | S9: 26 | T9: 2 | U9: 9 | V9: 16 | W9: 23 | X9: 30 | Y9: 7 | Z9: 14 | AA9: 21 | AB9: 28 | AC9: 4 | AD9: 11 | AE9: 18 | AK9: LT | AL9: TL/ BT | AM9: BTL | AN9: TH/ TN | AO9: Tự học
+A11: 1 | B11: TEL1470 | C11: Hệ thống và mạng thông tin vô tuyến tiên tiến | D11: 99 | G11: 2 | H11: 1 | I11: 1 | J11: 5 | K11: 2 | L11: 23 | N11: Tự Luận | O11: KVT100814 | P11: Nguyễn Văn Thăng | T11: x | U11: x | V11: x | W11: x | X11: x | AF11: 25 | AG11: VT | AH11: VT | AI11: 3 | AJ11: 45 | AK11: 28 | AL11: 16 | AO11: 1 | AP11: TTTN
+B12: TEL1470 | C12: Hệ thống và mạng thông tin vô tuyến tiên tiến | D12: 99 | E12: 01 | G12: 3 | H12: 1 | I12: 1 | J12: 5 | K12: 2 | L12: 23 | N12: Tự Luận | O12: KVT100814 | P12: Nguyễn Văn Thăng | T12: x | U12: x | V12: x | AF12: 15 | AG12: VT | AH12: VT | AI12: 3 | AJ12: 45 | AK12: 28 | AL12: 16 | AO12: 1 | AP12: TTTN
+B13: TEL1470 | C13: Hệ thống và mạng thông tin vô tuyến tiên tiến | D13: 99 | E13: 02 | G13: 3 | H13: 1 | I13: 1 | J13: 4 | K13: 2 | L13: 23 | N13: Tự Luận | O13: KVT100814 | P13: Nguyễn Văn Thăng | W13: x | AF13: 4 | AG13: VT | AH13: VT | AI13: 3 | AJ13: 45 | AK13: 28 | AL13: 16 | AO13: 1 | AP13: TTTN
+A14: 2 | B14: TEL1471 | C14: Phát triển hệ thống và ứng dụng IoT | D14: 99 | G14: 2 | H14: 2 | I14: 7 | J14: 5 | K14: 2 | L14: 23 | O14: KVT100295 | P14: Nguyễn Thị Thu Hằng | T14: x | U14: x | V14: x | W14: x | X14: x | AF14: 25 | AH14: VT | AI14: 3 | AJ14: 45 | AK14: 28 | AL14: 16 | AO14: 1 | AP14: TTTN
+B15: TEL1471 | C15: Phát triển hệ thống và ứng dụng IoT | D15: 99 | E15: 01 | G15: 5 | H15: 1 | I15: 1 | J15: 5 | K15: 2 | L15: 23 | O15: KVT100295 | P15: Nguyễn Thị Thu Hằng | T15: x | U15: x | V15: x | AF15: 15 | AH15: VT | AI15: 3 | AJ15: 45 | AK15: 28 | AL15: 16 | AO15: 1 | AP15: TTTN
+B16: TEL1471 | C16: Phát triển hệ thống và ứng dụng IoT | D16: 99 | E16: 02 | G16: 5 | H16: 1 | I16: 1 | J16: 4 | K16: 2 | L16: 23 | O16: KVT100295 | P16: Nguyễn Thị Thu Hằng | X16: x | AF16: 4 | AH16: VT | AI16: 3 | AJ16: 45 | AK16: 28 | AL16: 16 | AO16: 1 | AP16: TTTN
+A17: 3 | B17: INT1499M | C17: Chuyên đề an toàn phần mềm | D17: 99 | G17: 2 | H17: 1 | I17: 1 | J17: 5 | K17: 3 | L17: 24 | N17: Báo cáo | O17: KAT100695 | P17: Ninh Thị Thu Trang | T17: x | U17: x | V17: x | W17: x | X17: x | AF17: 25 | AG17: AT | AH17: AT | AI17: 3 | AJ17: 45 | AK17: 12 | AL17: 32 | AO17: 1 | AP17: TTTN
+B18: INT1499M | C18: Chuyên đề an toàn phần mềm | D18: 99 | E18: 01 | G18: 4 | H18: 2 | I18: 7 | J18: 5 | K18: 3 | L18: 23 | N18: Báo cáo | O18: KAT100695 | P18: Ninh Thị Thu Trang | T18: x | U18: x | V18: x | AF18: 15 | AG18: AT | AH18: AT | AI18: 3 | AJ18: 45 | AK18: 12 | AL18: 32 | AO18: 1 | AP18: TTTN
+B19: INT1499M | C19: Chuyên đề an toàn phần mềm | D19: 99 | E19: 02 | G19: 4 | H19: 2 | I19: 7 | J19: 4 | K19: 3 | L19: 23 | N19: Báo cáo | O19: KAT100695 | P19: Ninh Thị Thu Trang | W19: x | AF19: 4 | AG19: AT | AH19: AT | AI19: 3 | AJ19: 45 | AK19: 12 | AL19: 32 | AO19: 1 | AP19: TTTN
+A20: 4 | B20: INT14100M | C20: Chuyên đề an ninh mạng | D20: 99 | G20: 2 | H20: 2 | I20: 7 | J20: 5 | K20: 3 | L20: VP Khoa | M20: A2 | N20: Báo cáo | O20: KAT100257 | P20: Nguyễn Ngọc Điệp | T20: x | U20: x | V20: x | W20: x | X20: x | AF20: 25 | AG20: AT | AH20: AT | AI20: 3 | AJ20: 45 | AK20: 12 | AL20: 32 | AO20: 1 | AP20: TTTN
+B21: INT14100M | C21: Chuyên đề an ninh mạng | D21: 99 | E21: 01 | G21: 5 | H21: 2 | I21: 7 | J21: 5 | K21: 3 | L21: VP Khoa | M21: A2 | N21: Báo cáo | O21: KAT100257 | P21: Nguyễn Ngọc Điệp | T21: x | U21: x | V21: x | AF21: 15 | AG21: AT | AH21: AT | AI21: 3 | AJ21: 45 | AK21: 12 | AL21: 32 | AO21: 1 | AP21: TTTN
+B22: INT14100M | C22: Chuyên đề an ninh mạng | D22: 99 | E22: 02 | G22: 5 | H22: 2 | I22: 7 | J22: 4 | K22: 3 | L22: VP Khoa | M22: A2 | N22: Báo cáo | O22: KAT100257 | P22: Nguyễn Ngọc Điệp | X22: x | AF22: 4 | AG22: AT | AH22: AT | AI22: 3 | AJ22: 45 | AK22: 12 | AL22: 32 | AO22: 1 | AP22: TTTN
+A23: 5 | B23: MUL1484 | C23: Thiết kế và tổ chức sản xuất sản phẩm đa phương tiện | D23: 99 | G23: 6 | H23: 1 | I23: 1 | J23: 5 | K23: 3 | L23: 23 | N23: BTL | O23: KDP100346 | P23: Vũ Thị Tú Anh | T23: x | U23: x | V23: x | W23: x | X23: x | AF23: 25 | AH23: ĐPT | AI23: 3 | AJ23: 45 | AK23: 36 | AL23: 8 | AO23: 1 | AP23: TTTN
+B24: MUL1484 | C24: Thiết kế và tổ chức sản xuất sản phẩm đa phương tiện | D24: 99 | E24: 01 | G24: 7 | H24: 1 | I24: 1 | J24: 5 | K24: 3 | L24: 23 | N24: BTL | O24: KDP100346 | P24: Vũ Thị Tú Anh | T24: x | U24: x | V24: x | AF24: 15 | AH24: ĐPT | AI24: 3 | AJ24: 45 | AK24: 36 | AL24: 8 | AO24: 1 | AP24: TTTN
+B25: MUL1484 | C25: Thiết kế và tổ chức sản xuất sản phẩm đa phương tiện | D25: 99 | E25: 02 | G25: 7 | H25: 1 | I25: 1 | J25: 4 | K25: 3 | L25: 23 | N25: BTL | O25: KDP100346 | P25: Vũ Thị Tú Anh | W25: x | AF25: 4 | AH25: ĐPT | AI25: 3 | AJ25: 45 | AK25: 36 | AL25: 8 | AO25: 1 | AP25: TTTN
+A26: 6 | B26: MUL14146 | C26: Kỹ thuật lập trình ứng dụng đa phương tiện | D26: 99 | G26: 6 | H26: 2 | I26: 7 | J26: 5 | K26: 3 | L26: 23 | M26: 23 | N26: BTL | O26: KDP100343 | P26: Vũ Hữu Tiến | T26: x | U26: x | V26: x | W26: x | X26: x | AF26: 25 | AH26: ĐPT | AI26: 3 | AJ26: 45 | AK26: 30 | AL26: 12 | AN26: 2 | AO26: 1 | AP26: TTTN
+B27: MUL14146 | C27: Kỹ thuật lập trình ứng dụng đa phương tiện | D27: 99 | E27: 01 | G27: 5 | H27: 2 | I27: 7 | J27: 5 | K27: 3 | L27: 23 | M27: 23 | N27: BTL | O27: KDP100343 | P27: Vũ Hữu Tiến | T27: x | U27: x | V27: x | AF27: 15 | AH27: ĐPT | AI27: 3 | AJ27: 45 | AK27: 30 | AL27: 12 | AN27: 2 | AO27: 1 | AP27: TTTN
+B28: MUL14146 | C28: Kỹ thuật lập trình ứng dụng đa phương tiện | D28: 99 | E28: 02 | G28: 5 | H28: 2 | I28: 7 | J28: 2 | K28: 3 | L28: 23 | M28: 23 | N28: BTL | O28: KDP100343 | P28: Vũ Hữu Tiến | X28: x | AF28: 2 | AH28: ĐPT | AI28: 3 | AJ28: 45 | AK28: 30 | AL28: 12 | AN28: 2 | AO28: 1 | AP28: TTTN
+B29: MUL14146 | C29: Kỹ thuật lập trình ứng dụng đa phương tiện | D29: 99 | F29: 01 | G29: 2 | H29: 2 | I29: 7 | J29: 4 | K29: 3 | L29: 611 | M29: A3 | O29: KDP100343 | P29: Vũ Hữu Tiến | W29: x | AF29: 4 | AH29: ĐPT | AI29: 3 | AJ29: 45 | AK29: 30 | AL29: 12 | AN29: 2 | AO29: 1 | AP29: TTTN
+A30: 7 | B30: MUL1485 | C30: Thiết kế đồ họa nâng cao | D30: 99 | G30: 3 | H30: 2 | I30: 7 | J30: 5 | K30: 3 | L30: 23 | N30: BTL | O30: KDP100362 | P30: Hà Thị Hồng Ngân | T30: x | U30: x | V30: x | W30: x | X30: x | AF30: 25 | AH30: ĐPT | AI30: 3 | AJ30: 45 | AK30: 30 | AL30: 14 | AO30: 1 | AP30: TTTN ngành TKĐPT
+B31: MUL1485 | C31: Thiết kế đồ họa nâng cao | D31: 99 | E31: 01 | G31: 7 | H31: 1 | I31: 5 | J31: 5 | K31: 3 | L31: 24 | N31: BTL | O31: KDP100362 | P31: Hà Thị Hồng Ngân | T31: x | U31: x | V31: x | AF31: 15 | AH31: ĐPT | AI31: 3 | AJ31: 45 | AK31: 30 | AL31: 14 | AO31: 1 | AP31: TTTN ngành TKĐPT
+B32: MUL1485 | C32: Thiết kế đồ họa nâng cao | D32: 99 | E32: 02 | G32: 7 | H32: 1 | I32: 5 | J32: 4 | K32: 3 | L32: 24 | N32: BTL | O32: KDP100362 | P32: Hà Thị Hồng Ngân | X32: x | AF32: 4 | AH32: ĐPT | AI32: 3 | AJ32: 45 | AK32: 30 | AL32: 14 | AO32: 1 | AP32: TTTN ngành TKĐPT
+A33: 8 | B33: MUL1486 | C33: Thiết kế hoạt hình nâng cao | D33: 99 | G33: 4 | H33: 1 | I33: 1 | J33: 5 | K33: 3 | L33: 23 | N33: BTL | O33: KDP100982 | P33: Trịnh Vân Nga | T33: x | U33: x | V33: x | W33: x | X33: x | AF33: 25 | AH33: ĐPT | AI33: 3 | AJ33: 45 | AK33: 30 | AL33: 14 | AO33: 1 | AP33: TTTN ngành TKĐPT
+B34: MUL1486 | C34: Thiết kế hoạt hình nâng cao | D34: 99 | E34: 01 | G34: 5 | H34: 1 | I34: 1 | J34: 5 | K34: 3 | L34: 24 | N34: BTL | O34: KDP100982 | P34: Trịnh Vân Nga | T34: x | U34: x | V34: x | AF34: 15 | AH34: ĐPT | AI34: 3 | AJ34: 45 | AK34: 30 | AL34: 14 | AO34: 1 | AP34: TTTN ngành TKĐPT
+B35: MUL1486 | C35: Thiết kế hoạt hình nâng cao | D35: 99 | E35: 02 | G35: 5 | H35: 1 | I35: 1 | J35: 4 | K35: 3 | L35: 24 | N35: BTL | O35: KDP100982 | P35: Trịnh Vân Nga | X35: x | AF35: 4 | AH35: ĐPT | AI35: 3 | AJ35: 45 | AK35: 30 | AL35: 14 | AO35: 1 | AP35: TTTN ngành TKĐPT
+A36: 9 | B36: INT1498 | C36: Phát triển ứng dụng phân tán | D36: 99 | G36: 2 | H36: 1 | I36: 1 | J36: 5 | K36: 4 | L36: 25 | O36: KCN100262 | P36: Nguyễn Đình Hóa | U36: x | V36: x | W36: x | X36: x | AF36: 20 | AG36: HTTT | AH36: CN | AI36: 3 | AJ36: 45 | AK36: 8 | AL36: 36 | AO36: 1 | AP36: TTTN ngành HTTT
+B37: INT1498 | C37: Phát triển ứng dụng phân tán | D37: 99 | E37: 01 | G37: 3 | H37: 1 | I37: 1 | J37: 5 | K37: 4 | L37: 24 | O37: KCN100262 | P37: Nguyễn Đình Hóa | T37: x | U37: x | V37: x | W37: x | AF37: 20 | AG37: HTTT | AH37: CN | AI37: 3 | AJ37: 45 | AK37: 8 | AL37: 36 | AO37: 1 | AP37: TTTN ngành HTTT
+B38: INT1498 | C38: Phát triển ứng dụng phân tán | D38: 99 | E38: 02 | G38: 3 | H38: 1 | I38: 1 | J38: 4 | K38: 4 | L38: 24 | O38: KCN100262 | P38: Nguyễn Đình Hóa | X38: x | AF38: 4 | AG38: HTTT | AH38: CN | AI38: 3 | AJ38: 45 | AK38: 8 | AL38: 36 | AO38: 1 | AP38: TTTN ngành HTTT
+A39: 10 | B39: INT1497M | C39: Phát triển các  hệ thống dựa trên tri thức | D39: 99 | G39: 2 | H39: 2 | I39: 7 | J39: 5 | K39: 4 | L39: 24 | O39: KCN100262 | P39: Nguyễn Đình Hóa | U39: x | V39: x | W39: x | X39: x | AF39: 20 | AG39: HTTT | AH39: CN | AI39: 3 | AJ39: 45 | AK39: 8 | AL39: 37 | AO39: 0 | AP39: TTTN ngành HTTT
+B40: INT1497M | C40: Phát triển các  hệ thống dựa trên tri thức | D40: 99 | E40: 01 | G40: 3 | H40: 2 | I40: 7 | J40: 5 | K40: 4 | L40: 24 | O40: KCN100262 | P40: Nguyễn Đình Hóa | T40: x | U40: x | V40: x | W40: x | X40: x | AF40: 25 | AG40: HTTT | AH40: CN | AI40: 3 | AJ40: 45 | AK40: 8 | AL40: 37 | AO40: 0 | AP40: TTTN ngành HTTT
+A41: 11 | B41: ELE14103 | C41: Chuyên đề xử lý tín hiệu và truyền thông | D41: 99 | G41: 5 | H41: 1 | I41: 1 | J41: 5 | K41: 7 | L41: 25 | N41: Vấn đáp | O41: KDT100235 | P41: Trần Thị Thục Linh | T41: x | U41: x | V41: x | X41: x | AF41: 20 | AH41: ĐT | AI41: 3 | AJ41: 45 | AK41: 20 | AL41: 24 | AO41: 1
+B42: ELE14103 | C42: Chuyên đề xử lý tín hiệu và truyền thông | D42: 99 | E42: 01 | G42: 2 | H42: 2 | I42: 7 | J42: 5 | K42: 7 | L42: 25 | N42: Vấn đáp | O42: KDT100235 | P42: Trần Thị Thục Linh | T42: x | U42: x | V42: x | W42: x | AF42: 20 | AH42: ĐT | AI42: 3 | AJ42: 45 | AK42: 20 | AL42: 24 | AO42: 1
+B43: ELE14103 | C43: Chuyên đề xử lý tín hiệu và truyền thông | D43: 99 | E43: 02 | G43: 6 | H43: 1 | I43: 1 | J43: 4 | K43: 7 | L43: 24 | N43: Vấn đáp | O43: KDT100235 | P43: Trần Thị Thục Linh | X43: x | AF43: 4 | AH43: ĐT | AI43: 3 | AJ43: 45 | AK43: 20 | AL43: 24 | AO43: 1
+A44: 12 | B44: ELE1414 | C44: Đồ án xử lý tín hiệu số | D44: 99 | G44: 5 | H44: 2 | I44: 7 | J44: 5 | K44: 7 | L44: 24 | M44: 24 | N44: Vấn đáp | O44: KDT100235 | P44: Trần Thị Thục Linh | T44: x | U44: x | V44: x | X44: x | AF44: 20 | AH44: ĐT | AI44: 2 | AJ44: 30 | AK44: 12 | AL44: 18 | AO44: 0
+B45: ELE1414 | C45: Đồ án xử lý tín hiệu số | D45: 99 | E45: 01 | G45: 6 | H45: 2 | I45: 7 | J45: 5 | K45: 7 | L45: 24 | M45: 24 | N45: Vấn đáp | O45: KDT100235 | P45: Trần Thị Thục Linh | T45: x | U45: x | AF45: 10 | AH45: ĐT | AI45: 2 | AJ45: 30 | AK45: 12 | AL45: 18 | AO45: 0
+A46: 13 | B46: ELE1432 | C46: Xử lý tiếng nói | D46: 99 | G46: 2 | H46: 1 | I46: 1 | J46: 5 | K46: 7 | L46: 26 | O46: KDT100236 | P46: Phạm Văn Sự | T46: x | U46: x | V46: x | W46: x | X46: x | AF46: 25 | AH46: ĐT | AI46: 3 | AJ46: 45 | AK46: 36 | AL46: 8 | AO46: 1
+B47: ELE1432 | C47: Xử lý tiếng nói | D47: 99 | E47: 01 | G47: 3 | H47: 1 | I47: 1 | J47: 5 | K47: 7 | L47: 25 | O47: KDT100236 | P47: Phạm Văn Sự | T47: x | U47: x | V47: x | AF47: 15 | AH47: ĐT | AI47: 3 | AJ47: 45 | AK47: 36 | AL47: 8 | AO47: 1
+B48: ELE1432 | C48: Xử lý tiếng nói | D48: 99 | E48: 02 | G48: 3 | H48: 1 | I48: 1 | J48: 4 | K48: 7 | L48: 25 | O48: KDT100236 | P48: Phạm Văn Sự | W48: x | AF48: 4 | AH48: ĐT | AI48: 3 | AJ48: 45 | AK48: 36 | AL48: 8 | AO48: 1
+A49: 14 | B49: INT13111 | C49: Kỹ thuật đồ họa | D49: 99 | G49: 2 | H49: 2 | I49: 7 | J49: 5 | K49: 7 | L49: 26 | O49: KDP100366 | P49: Nguyễn Thị Thanh Tâm | T49: x | U49: x | V49: x | W49: x | X49: x | AF49: 25 | AG49: CNPM | AH49: CN | AI49: 3 | AJ49: 45 | AK49: 32 | AL49: 8 | AN49: 4 | AO49: 1
+B50: INT13111 | C50: Kỹ thuật đồ họa | D50: 99 | E50: 01 | G50: 3 | H50: 2 | I50: 7 | J50: 5 | K50: 7 | L50: 25 | O50: KDP100366 | P50: Nguyễn Thị Thanh Tâm | T50: x | U50: x | V50: x | AF50: 15 | AG50: CNPM | AH50: CN | AI50: 3 | AJ50: 45 | AK50: 32 | AL50: 8 | AN50: 4 | AO50: 1
+B51: INT13111 | C51: Kỹ thuật đồ họa | D51: 99 | F51: 01 | G51: 3 | H51: 1 | I51: 2 | J51: 4 | K51: 7 | L51: 611 | M51: A3 | O51: KDP100366 | P51: Nguyễn Thị Thanh Tâm | U51: x | W51: x | AF51: 8 | AG51: CNPM | AH51: CN | AI51: 3 | AJ51: 45 | AK51: 32 | AL51: 8 | AN51: 4 | AO51: 1
+A52: 15 | B52: INT1416 | C52: Đảm bảo chất lượng phần mềm | D52: 99 | G52: 3 | H52: 2 | I52: 7 | J52: 5 | K52: 7 | L52: 26 | O52: KCN100267 | P52: Đỗ Thị Bích Ngọc | T52: x | U52: x | V52: x | W52: x | X52: x | AF52: 25 | AG52: CNPM | AH52: CN | AI52: 3 | AJ52: 45 | AK52: 36 | AL52: 8 | AO52: 1
+B53: INT1416 | C53: Đảm bảo chất lượng phần mềm | D53: 99 | E53: 01 | G53: 5 | H53: 1 | I53: 1 | J53: 5 | K53: 7 | L53: 26 | O53: KCN100267 | P53: Đỗ Thị Bích Ngọc | T53: x | U53: x | V53: x | AF53: 15 | AG53: CNPM | AH53: CN | AI53: 3 | AJ53: 45 | AK53: 36 | AL53: 8 | AO53: 1
+B54: INT1416 | C54: Đảm bảo chất lượng phần mềm | D54: 99 | E54: 02 | G54: 5 | H54: 1 | I54: 1 | J54: 4 | K54: 7 | L54: 26 | O54: KCN100267 | P54: Đỗ Thị Bích Ngọc | X54: x | AF54: 4 | AG54: CNPM | AH54: CN | AI54: 3 | AJ54: 45 | AK54: 36 | AL54: 8 | AO54: 1
+A55: 16 | B55: TEL1450 | C55: SDN & NFV | D55: 99 | G55: 6 | H55: 1 | I55: 1 | J55: 5 | K55: 7 | L55: 25 | O55: KVT100307 | P55: Phạm Anh Thư | T55: x | U55: x | V55: x | W55: x | X55: x | AF55: 25 | AH55: VT | AI55: 2 | AJ55: 30 | AK55: 24 | AL55: 6 | AO55: 0
+B56: TEL1450 | C56: SDN & NFV | D56: 99 | E56: 01 | G56: 7 | H56: 1 | I56: 1 | J56: 5 | K56: 7 | L56: 25 | O56: KVT100307 | P56: Phạm Anh Thư | T56: x | AF56: 5 | AH56: VT | AI56: 2 | AJ56: 30 | AK56: 24 | AL56: 6 | AO56: 0
+A57: 17 | B57: TEL1465 | C57: Quy hoạch và tối ưu mạng di động | D57: 99 | G57: 4 | H57: 2 | I57: 7 | J57: 5 | K57: 7 | L57: 24 | N57: Tự Luận | O57: KVT100302 | P57: Nguyễn Viết Minh | T57: x | U57: x | V57: x | W57: x | X57: x | AF57: 25 | AG57: VT | AH57: VT | AI57: 3 | AJ57: 45 | AK57: 32 | AL57: 8 | AN57: 4 | AO57: 1
+B58: TEL1465 | C58: Quy hoạch và tối ưu mạng di động | D58: 99 | E58: 01 | G58: 6 | H58: 1 | I58: 1 | J58: 5 | K58: 7 | L58: 24 | N58: Tự Luận | O58: KVT100302 | P58: Nguyễn Viết Minh | T58: x | U58: x | V58: x | AF58: 15 | AG58: VT | AH58: VT | AI58: 3 | AJ58: 45 | AK58: 32 | AL58: 8 | AN58: 4 | AO58: 1
+B59: TEL1465 | C59: Quy hoạch và tối ưu mạng di động | D59: 99 | F59: 01 | G59: 3 | H59: 2 | I59: 7 | J59: 4 | K59: 7 | L59: Lab-4G | M59: A2 | N59: Tự Luận | O59: KVT100302 | P59: Nguyễn Viết Minh | W59: x | X59: x | AF59: 8 | AG59: VT | AH59: VT | AI59: 3 | AJ59: 45 | AK59: 32 | AL59: 8 | AN59: 4 | AO59: 1
+A60: 18 | B60: INT14149 | C60: IoT và ứng dụng | D60: 99 | G60: 6 | H60: 1 | I60: 1 | J60: 5 | K60: 8 | L60: 26 | O60: KCN100968 | P60: Kim Ngọc Bách | T60: x | U60: x | V60: x | W60: x | X60: x | AF60: 25 | AG60: HTTT | AH60: CN | AI60: 3 | AJ60: 45 | AK60: 30 | AL60: 8 | AN60: 6 | AO60: 1
+B61: INT14149 | C61: IoT và ứng dụng | D61: 99 | E61: 01 | G61: 7 | H61: 1 | I61: 1 | J61: 5 | K61: 8 | L61: 26 | O61: KCN100968 | P61: Kim Ngọc Bách | T61: x | U61: x | AF61: 10 | AG61: HTTT | AH61: CN | AI61: 3 | AJ61: 45 | AK61: 30 | AL61: 8 | AN61: 6 | AO61: 1
+B62: INT14149 | C62: IoT và ứng dụng | D62: 99 | E62: 02 | G62: 7 | H62: 1 | I62: 1 | J62: 3 | K62: 8 | L62: 26 | O62: KCN100968 | P62: Kim Ngọc Bách | V62: x | AF62: 3 | AG62: HTTT | AH62: CN | AI62: 3 | AJ62: 45 | AK62: 30 | AL62: 8 | AN62: 6 | AO62: 1
+B63: INT14149 | C63: IoT và ứng dụng | D63: 99 | F63: 01 | G63: 5 | H63: 1 | I63: 2 | J63: 4 | K63: 8 | L63: 511 | M63: A3 | O63: KCN100968 | P63: Kim Ngọc Bách | U63: x | V63: x | X63: x | AF63: 12 | AG63: HTTT | AH63: CN | AI63: 3 | AJ63: 45 | AK63: 30 | AL63: 8 | AN63: 6 | AO63: 1
+A64: 19 | B64: TEL1432 | C64: Thông tin vệ tinh | D64: 99 | G64: 4 | H64: 1 | I64: 1 | J64: 5 | K64: 8 | L64: 24 | N64: Tự Luận | O64: KVT100302 | P64: Nguyễn Viết Minh | T64: x | U64: x | V64: x | W64: x | X64: x | AF64: 25 | AG64: VT | AH64: VT | AI64: 2 | AJ64: 30 | AK64: 24 | AL64: 4 | AN64: 2 | AO64: 0
+B65: TEL1432 | C65: Thông tin vệ tinh | D65: 99 | E65: 01 | G65: 5 | H65: 1 | I65: 1 | J65: 3 | K65: 8 | L65: 27 | N65: Tự Luận | O65: KVT100302 | P65: Nguyễn Viết Minh | T65: x | AF65: 3 | AG65: VT | AH65: VT | AI65: 2 | AJ65: 30 | AK65: 24 | AL65: 4 | AN65: 2 | AO65: 0
+B66: TEL1432 | C66: Thông tin vệ tinh | D66: 99 | F66: 01 | G66: 5 | H66: 1 | I66: 1 | J66: 4 | K66: 8 | L66: Lab-FPT | M66: A2 | N66: Tự Luận | O66: KVT100302 | P66: Nguyễn Viết Minh | X66: x | AF66: 4 | AG66: VT | AH66: VT | AI66: 2 | AJ66: 30 | AK66: 24 | AL66: 4 | AN66: 2 | AO66: 0
+A67: 20 | B67: BSA1310 | C67: Kinh tế vi mô 1 | D67: 99 | G67: 3 | H67: 2 | I67: 7 | J67: 5 | K67: 9 | L67: 27 | N67: Tự luận | O67: KQT100329 | P67: Đỗ Thị Lan Anh | T67: x | U67: x | V67: x | W67: x | AF67: 20 | AH67: QT | AI67: 3 | AJ67: 45 | AK67: 36 | AL67: 8 | AO67: 1
+B68: BSA1310 | C68: Kinh tế vi mô 1 | D68: 99 | E68: 01 | G68: 4 | H68: 2 | I68: 7 | J68: 5 | K68: 9 | L68: 25 | N68: Tự luận | O68: KQT100329 | P68: Đỗ Thị Lan Anh | T68: x | U68: x | V68: x | X68: x | AF68: 20 | AH68: QT | AI68: 3 | AJ68: 45 | AK68: 36 | AL68: 8 | AO68: 1
+B69: BSA1310 | C69: Kinh tế vi mô 1 | D69: 99 | E69: 02 | G69: 4 | H69: 2 | I69: 7 | J69: 4 | K69: 9 | L69: 25 | N69: Tự luận | O69: KQT100329 | P69: Đỗ Thị Lan Anh | W69: x | AF69: 4 | AH69: QT | AI69: 3 | AJ69: 45 | AK69: 36 | AL69: 8 | AO69: 1
+A70: 21 | B70: ELE1310 | C70: Điện tử tương tự | D70: 99 | G70: 2 | H70: 2 | I70: 7 | J70: 5 | K70: 9 | L70: 28 | N70: Vấn đáp | O70: KDT100237 | P70: Lê Đức Toàn | T70: x | U70: x | V70: x | W70: x | X70: x | AF70: 25 | AH70: ĐT | AI70: 3 | AJ70: 45 | AK70: 32 | AL70: 6 | AN70: 6 | AO70: 1
+B71: ELE1310 | C71: Điện tử tương tự | D71: 99 | E71: 01 | G71: 3 | H71: 2 | I71: 7 | J71: 5 | K71: 9 | L71: 28 | N71: Vấn đáp | O71: KDT100237 | P71: Lê Đức Toàn | T71: x | U71: x | AF71: 10 | AH71: ĐT | AI71: 3 | AJ71: 45 | AK71: 32 | AL71: 6 | AN71: 6 | AO71: 1
+B72: ELE1310 | C72: Điện tử tương tự | D72: 99 | E72: 02 | G72: 3 | H72: 2 | I72: 7 | J72: 3 | K72: 9 | L72: 28 | N72: Vấn đáp | O72: KDT100237 | P72: Lê Đức Toàn | V72: x | AF72: 3 | AH72: ĐT | AI72: 3 | AJ72: 45 | AK72: 32 | AL72: 6 | AN72: 6 | AO72: 1
+B73: ELE1310 | C73: Điện tử tương tự | D73: 99 | F73: 01 | G73: 8 | H73: 1 | I73: 2 | J73: 4 | K73: 9 | L73: 604 | M73: A3 | O73: KDT100237 | P73: Lê Đức Toàn | V73: x | W73: x | X73: x | AF73: 12 | AH73: ĐT | AI73: 3 | AJ73: 45 | AK73: 32 | AL73: 6 | AN73: 6 | AO73: 1
+A74: 22 | B74: INT1332_CLC | C74: Lập trình hướng đối tượng | D74: 99 | G74: 2 | H74: 1 | I74: 1 | J74: 5 | K74: 9 | L74: 27 | O74: KCN100268 | P74: Đào Ngọc Phong | T74: x | U74: x | V74: x | W74: x | X74: x | AF74: 25 | AG74: CNPM | AH74: CN | AI74: 3 | AJ74: 45 | AK74: 30 | AL74: 8 | AN74: 6 | AO74: 1
+B75: INT1332_CLC | C75: Lập trình hướng đối tượng | D75: 99 | E75: 01 | G75: 3 | H75: 1 | I75: 1 | J75: 5 | K75: 9 | L75: 26 | O75: KCN100268 | P75: Đào Ngọc Phong | T75: x | U75: x | AF75: 10 | AG75: CNPM | AH75: CN | AI75: 3 | AJ75: 45 | AK75: 30 | AL75: 8 | AN75: 6 | AO75: 1
+B76: INT1332_CLC | C76: Lập trình hướng đối tượng | D76: 99 | E76: 02 | G76: 3 | H76: 1 | I76: 1 | J76: 3 | K76: 9 | L76: 26 | O76: KCN100268 | P76: Đào Ngọc Phong | V76: x | AF76: 3 | AG76: CNPM | AH76: CN | AI76: 3 | AJ76: 45 | AK76: 30 | AL76: 8 | AN76: 6 | AO76: 1
+B77: INT1332_CLC | C77: Lập trình hướng đối tượng | D77: 99 | F77: 01 | G77: 3 | H77: 3 | I77: 12 | J77: 4 | K77: 9 | L77: Code.ptit.edu.vn | M77: Online | O77: KCN100248 | P77: Trịnh Thị Vân Anh | U77: x | V77: x | W77: x | AF77: 12 | AG77: CNPM | AH77: CN | AI77: 3 | AJ77: 45 | AK77: 30 | AL77: 8 | AN77: 6 | AO77: 1
+A78: 23 | B78: INT1341_CLC | C78: Nhập môn trí tuệ nhân tạo | D78: 99 | G78: 2 | H78: 1 | I78: 1 | J78: 5 | K78: 9 | L78: 28 | O78: KCN100269 | P78: Đào Thị Thuý Quỳnh | T78: x | U78: x | V78: x | W78: x | X78: x | AF78: 25 | AG78: KHMT | AH78: CN | AI78: 3 | AJ78: 45 | AK78: 32 | AL78: 12 | AO78: 1
+B79: INT1341_CLC | C79: Nhập môn trí tuệ nhân tạo | D79: 99 | E79: 01 | G79: 3 | H79: 2 | I79: 7 | J79: 5 | K79: 9 | L79: 29 | O79: KCN100269 | P79: Đào Thị Thuý Quỳnh | T79: x | U79: x | V79: x | AF79: 15 | AG79: KHMT | AH79: CN | AI79: 3 | AJ79: 45 | AK79: 32 | AL79: 12 | AO79: 1
+B80: INT1341_CLC | C80: Nhập môn trí tuệ nhân tạo | D80: 99 | E80: 02 | G80: 3 | H80: 2 | I80: 7 | J80: 4 | K80: 9 | L80: 29 | O80: KCN100269 | P80: Đào Thị Thuý Quỳnh | W80: x | AF80: 4 | AG80: KHMT | AH80: CN | AI80: 3 | AJ80: 45 | AK80: 32 | AL80: 12 | AO80: 1
+A81: 24 | B81: TEL1458 | C81: Mạng cảm biến không dây | D81: 99 | G81: 4 | H81: 1 | I81: 1 | J81: 5 | K81: 9 | L81: 25 | N81: Tự Luận | O81: KVT100814 | P81: Nguyễn Văn Thăng | T81: x | U81: x | V81: x | W81: x | X81: x | AF81: 25 | AH81: VT | AI81: 3 | AJ81: 45 | AK81: 32 | AL81: 8 | AN81: 4 | AO81: 1
+B82: TEL1458 | C82: Mạng cảm biến không dây | D82: 99 | E82: 01 | G82: 5 | H82: 1 | I82: 1 | J82: 5 | K82: 9 | L82: 28 | N82: Tự Luận | O82: KVT100814 | P82: Nguyễn Văn Thăng | T82: x | U82: x | V82: x | AF82: 15 | AH82: VT | AI82: 3 | AJ82: 45 | AK82: 32 | AL82: 8 | AN82: 4 | AO82: 1
+B83: TEL1458 | C83: Mạng cảm biến không dây | D83: 99 | F83: 01 | G83: 6 | H83: 1 | I83: 1 | J83: 4 | K83: 9 | L83: Lab IoT | M83: A2 | N83: Tự Luận | O83: KVT100814 | P83: Nguyễn Văn Thăng | W83: x | X83: x | AF83: 8 | AH83: VT | AI83: 3 | AJ83: 45 | AK83: 32 | AL83: 8 | AN83: 4 | AO83: 1
+A84: 25 | B84: BAS1158 | C84: Tiếng Anh (Course 2) | D84: 99 | G84: 4 | H84: 1 | I84: 1 | J84: 5 | K84: 10 | L84: 26 | N84: Tự luận + vấn đáp | O84: KCB100190 | P84: Nguyễn Quỳnh Giao | T84: x | U84: x | V84: x | W84: x | X84: x | AF84: 25 | AG84: NN | AH84: CB | AI84: 4 | AJ84: 60 | AK84: 60
+B85: BAS1158 | C85: Tiếng Anh (Course 2) | D85: 99 | E85: 01 | G85: 5 | H85: 1 | I85: 1 | J85: 5 | K85: 10 | L85: 29 | N85: Tự luận + vấn đáp | O85: KCB100190 | P85: Nguyễn Hồng Nga | T85: x | U85: x | V85: x | X85: x | AF85: 20 | AG85: NN | AH85: CB | AI85: 4 | AJ85: 60 | AK85: 60
+B86: BAS1158 | C86: Tiếng Anh (Course 2) | D86: 99 | E86: 02 | G86: 7 | H86: 1 | I86: 1 | J86: 5 | K86: 10 | L86: 27 | N86: Tự luận + vấn đáp | O86: KCB100190 | P86: Nguyễn Quỳnh Giao | V86: x | W86: x | X86: x | AF86: 15 | AG86: NN | AH86: CB | AI86: 4 | AJ86: 60 | AK86: 60
+A87: 26 | B87: INT14103 | C87: Kỹ thuật lập trình hướng đối tượng | D87: 99 | G87: 4 | H87: 2 | I87: 7 | J87: 5 | K87: 10 | L87: 26 | O87: KCN100248 | P87: Trịnh Thị Vân Anh | T87: x | U87: x | V87: x | W87: x | X87: x | AF87: 25 | AG87: CNPM | AH87: CN | AI87: 3 | AJ87: 45 | AK87: 8 | AL87: 36 | AO87: 1 | AP87: TTTN ngành CNPM
+B88: INT14103 | C88: Kỹ thuật lập trình hướng đối tượng | D88: 99 | E88: 01 | G88: 5 | H88: 2 | I88: 7 | J88: 5 | K88: 10 | L88: 25 | M88: 25 | O88: KCN100248 | P88: Trịnh Thị Vân Anh | T88: x | U88: x | V88: x | AF88: 15 | AG88: CNPM | AH88: CN | AI88: 3 | AJ88: 45 | AK88: 8 | AL88: 36 | AO88: 1 | AP88: TTTN ngành CNPM
+B89: INT14103 | C89: Kỹ thuật lập trình hướng đối tượng | D89: 99 | E89: 02 | G89: 5 | H89: 2 | I89: 7 | J89: 4 | K89: 10 | L89: 25 | M89: 25 | O89: KCN100248 | P89: Trịnh Thị Vân Anh | X89: x | AF89: 4 | AG89: CNPM | AH89: CN | AI89: 3 | AJ89: 45 | AK89: 8 | AL89: 36 | AO89: 1 | AP89: TTTN ngành CNPM
+A90: 27 | B90: INT14104 | C90: Phân tích thiết kế đảm bảo chất lượng phần mềm | D90: 99 | G90: 3 | H90: 2 | I90: 7 | J90: 5 | K90: 10 | L90: 30 | O90: KCN100926 | P90: Ngô Tiến Đức | T90: x | U90: x | V90: x | W90: x | X90: x | AF90: 25 | AG90: CNPM | AH90: CN | AI90: 3 | AJ90: 45 | AK90: 8 | AL90: 36 | AO90: 1 | AP90: TTTN ngành CNPM
+B91: INT14104 | C91: Phân tích thiết kế đảm bảo chất lượng phần mềm | D91: 99 | E91: 01 | G91: 7 | H91: 1 | I91: 7 | J91: 5 | K91: 10 | L91: 28 | O91: KCN100926 | P91: Ngô Tiến Đức | T91: x | U91: x | V91: x | AF91: 15 | AG91: CNPM | AH91: CN | AI91: 3 | AJ91: 45 | AK91: 8 | AL91: 36 | AO91: 1 | AP91: TTTN ngành CNPM
+B92: INT14104 | C92: Phân tích thiết kế đảm bảo chất lượng phần mềm | D92: 99 | E92: 02 | G92: 7 | H92: 1 | I92: 7 | J92: 4 | K92: 10 | L92: 28 | O92: KCN100926 | P92: Ngô Tiến Đức | W92: x | AF92: 4 | AG92: CNPM | AH92: CN | AI92: 3 | AJ92: 45 | AK92: 8 | AL92: 36 | AO92: 1 | AP92: TTTN ngành CNPM
+A93: 28 | B93: INT1448 | C93: Phát triển phần mềm hướng dịch vụ | D93: 99 | G93: 6 | H93: 1 | I93: 1 | J93: 5 | K93: 10 | L93: 27 | O93: KCN100263 | P93: Đặng Ngọc Hùng | T93: x | U93: x | V93: x | W93: x | X93: x | AF93: 25 | AG93: CNPM | AH93: CN | AI93: 3 | AJ93: 45 | AK93: 36 | AL93: 8 | AO93: 1
+B94: INT1448 | C94: Phát triển phần mềm hướng dịch vụ | D94: 99 | E94: 01 | G94: 7 | H94: 1 | I94: 1 | J94: 5 | K94: 10 | L94: 29 | O94: KCN100263 | P94: Đặng Ngọc Hùng | T94: x | U94: x | V94: x | AF94: 15 | AG94: CNPM | AH94: CN | AI94: 3 | AJ94: 45 | AK94: 36 | AL94: 8 | AO94: 1
+B95: INT1448 | C95: Phát triển phần mềm hướng dịch vụ | D95: 99 | E95: 02 | G95: 7 | H95: 1 | I95: 1 | J95: 4 | K95: 10 | L95: 29 | O95: KCN100263 | P95: Đặng Ngọc Hùng | W95: x | AF95: 4 | AG95: CNPM | AH95: CN | AI95: 3 | AJ95: 45 | AK95: 36 | AL95: 8 | AO95: 1
+A96: 29 | B96: ELE1320 | C96: Lý thuyết trường điện từ và siêu cao tần | D96: 99 | G96: 2 | H96: 1 | I96: 1 | J96: 5 | K96: 11 | L96: 29 | N96: vấn đáp | O96: KDT100228 | P96: Bùi Thị Dân | T96: x | U96: x | V96: x | W96: x | X96: x | AF96: 25 | AH96: ĐT | AI96: 3 | AJ96: 45 | AK96: 34 | AL96: 8 | AN96: 2 | AO96: 1
+B97: ELE1320 | C97: Lý thuyết trường điện từ và siêu cao tần | D97: 99 | E97: 01 | G97: 4 | H97: 1 | I97: 1 | J97: 5 | K97: 11 | L97: 27 | N97: vấn đáp | O97: KDT100228 | P97: Bùi Thị Dân | T97: x | U97: x | V97: x | AF97: 15 | AH97: ĐT | AI97: 3 | AJ97: 45 | AK97: 34 | AL97: 8 | AN97: 2 | AO97: 1
+B98: ELE1320 | C98: Lý thuyết trường điện từ và siêu cao tần | D98: 99 | E98: 02 | G98: 4 | H98: 1 | I98: 1 | J98: 2 | K98: 11 | L98: 27 | N98: vấn đáp | O98: KDT100228 | P98: Bùi Thị Dân | W98: x | AF98: 2 | AH98: ĐT | AI98: 3 | AJ98: 45 | AK98: 34 | AL98: 8 | AN98: 2 | AO98: 1
+B99: ELE1320 | C99: Lý thuyết trường điện từ và siêu cao tần | D99: 99 | F99: 01 | G99: 3 | H99: 1 | I99: 1 | J99: 4 | K99: 11 | L99: 603B | M99: A3 | O99: KDT100228 | P99: Bùi Thị Dân | X99: x | AF99: 4 | AH99: ĐT | AI99: 3 | AJ99: 45 | AK99: 34 | AL99: 8 | AN99: 2 | AO99: 1
+A100: 30 | B100: ELE1428 | C100: Truyền thông số | D100: 99 | G100: 2 | H100: 2 | I100: 7 | J100: 5 | K100: 11 | L100: 29 | N100: vấn đáp | O100: KDT100228 | P100: Bùi Thị Dân | T100: x | U100: x | V100: x | W100: x | AF100: 20 | AH100: ĐT | AI100: 2 | AJ100: 30 | AK100: 22 | AL100: 4 | AN100: 4 | AO100: 0
+B101: ELE1428 | C101: Truyền thông số | D101: 99 | E101: 01 | G101: 4 | H101: 2 | I101: 7 | J101: 3 | K101: 11 | L101: 27 | N101: vấn đáp | O101: KDT100228 | P101: Bùi Thị Dân | T101: x | U101: x | AF101: 6 | AH101: ĐT | AI101: 2 | AJ101: 30 | AK101: 22 | AL101: 4 | AN101: 4 | AO101: 0
+B102: ELE1428 | C102: Truyền thông số | D102: 99 | F102: 01 | G102: 7 | H102: 2 | I102: 7 | J102: 4 | K102: 11 | L102: 504 | M102: A3 | O102: KDT100228 | P102: Bùi Thị Dân | W102: x | X102: x | AF102: 8 | AH102: ĐT | AI102: 2 | AJ102: 30 | AK102: 22 | AL102: 4 | AN102: 4 | AO102: 0
+A103: 31 | B103: INT1313 | C103: Cơ sở dữ liệu | D103: 99 | G103: 3 | H103: 1 | I103: 1 | J103: 5 | K103: 11 | L103: 27 | O103: KCN100260 | P103: Phan Thị Hà | T103: x | U103: x | V103: x | W103: x | X103: x | AF103: 25 | AG103: HTTT | AH103: CN | AI103: 3 | AJ103: 45 | AK103: 32 | AL103: 8 | AN103: 4 | AO103: 1
+B104: INT1313 | C104: Cơ sở dữ liệu | D104: 99 | E104: 01 | G104: 5 | H104: 1 | I104: 1 | J104: 5 | K104: 11 | L104: 30 | O104: KCN100260 | P104: Phan Thị Hà | T104: x | U104: x | V104: x | AF104: 15 | AG104: HTTT | AH104: CN | AI104: 3 | AJ104: 45 | AK104: 32 | AL104: 8 | AN104: 4 | AO104: 1
+B105: INT1313 | C105: Cơ sở dữ liệu | D105: 99 | F105: 01 | G105: 7 | H105: 2 | I105: 1 | J105: 4 | K105: 11 | L105: 609 | M105: A3 | O105: KCN100260 | P105: Phan Thị Hà | W105: x | X105: x | AF105: 8 | AG105: HTTT | AH105: CN | AI105: 3 | AJ105: 45 | AK105: 32 | AL105: 8 | AN105: 4 | AO105: 1
+A106: 32 | B106: TEL1447 | C106: Điện toán đám mây | D106: 99 | G106: 4 | H106: 1 | I106: 1 | J106: 5 | K106: 11 | L106: 28 | O106: KVT100310 | P106: Nguyễn Thanh Trà | T106: x | U106: x | V106: x | W106: x | X106: x | AF106: 25 | AH106: VT | AI106: 2 | AJ106: 30 | AK106: 24 | AL106: 6 | AO106: 0
+B107: TEL1447 | C107: Điện toán đám mây | D107: 99 | E107: 01 | G107: 5 | H107: 1 | I107: 1 | J107: 5 | K107: 11 | L107: 30 | O107: KVT100310 | P107: Nguyễn Thanh Trà | X107: x | AF107: 5 | AH107: VT | AI107: 2 | AJ107: 30 | AK107: 24 | AL107: 6 | AO107: 0
+A108: 33 | B108: TEL1406 | C108: Kỹ thuật thông tin quang | D108: 99 | G108: 6 | H108: 1 | I108: 1 | J108: 5 | K108: 12 | L108: 28 | O108: KVT100311 | P108: Ngô Thị Thu Trang | T108: x | U108: x | V108: x | W108: x | X108: x | AF108: 25 | AH108: VT | AI108: 3 | AJ108: 45 | AK108: 32 | AL108: 8 | AN108: 4 | AO108: 1
+B109: TEL1406 | C109: Kỹ thuật thông tin quang | D109: 99 | E109: 01 | G109: 3 | H109: 1 | I109: 1 | J109: 5 | K109: 12 | L109: 28 | O109: KVT100311 | P109: Ngô Thị Thu Trang | T109: x | U109: x | V109: x | AF109: 15 | AH109: VT | AI109: 3 | AJ109: 45 | AK109: 32 | AL109: 8 | AN109: 4 | AO109: 1
+B110: TEL1406 | C110: Kỹ thuật thông tin quang | D110: 99 | F110: 01 | G110: 7 | H110: 1 | I110: 1 | J110: 4 | K110: 12 | L110: Lab-FPT | M110: A2 | O110: KVT100311 | P110: Ngô Thị Thu Trang | W110: x | X110: x | AF110: 8 | AH110: VT | AI110: 3 | AJ110: 45 | AK110: 32 | AL110: 8 | AN110: 4 | AO110: 1
+A111: 34 | B111: TEL1415 | C111: Thông tin di động | D111: 99 | G111: 6 | H111: 2 | I111: 7 | J111: 5 | K111: 12 | L111: 25 | M111: 25 | N111: Tự Luận | O111: KVT100297 | P111: Phạm Thị Thúy Hiền | T111: x | U111: x | V111: x | W111: x | X111: x | AF111: 25 | AG111: VT | AH111: VT | AI111: 3 | AJ111: 45 | AK111: 32 | AL111: 8 | AN111: 4 | AO111: 1
+B112: TEL1415 | C112: Thông tin di động | D112: 99 | E112: 01 | G112: 4 | H112: 2 | I112: 7 | J112: 5 | K112: 12 | L112: 28 | N112: Tự Luận | O112: KVT100297 | P112: Phạm Thị Thúy Hiền | T112: x | U112: x | V112: x | AF112: 15 | AG112: VT | AH112: VT | AI112: 3 | AJ112: 45 | AK112: 32 | AL112: 8 | AN112: 4 | AO112: 1
+B113: TEL1415 | C113: Thông tin di động | D113: 99 | F113: 01 | G113: 4 | H113: 2 | I113: 7 | J113: 4 | K113: 12 | L113: Lab-4G | M113: A2 | N113: Tự Luận | O113: KVT100297 | P113: Phạm Thị Thúy Hiền | W113: x | X113: x | AF113: 8 | AG113: VT | AH113: VT | AI113: 3 | AJ113: 45 | AK113: 32 | AL113: 8 | AN113: 4 | AO113: 1
+A114: 35 | B114: BAS1225 | C114: Vật lý 2 và thí nghiệm | D114: 99 | G114: 2 | H114: 1 | I114: 1 | J114: 5 | K114: 13 | L114: 30 | N114: Tự luận | O114: KCB100204 | P114: Nguyễn Thị Thúy Liễu | T114: x | U114: x | V114: x | W114: x | X114: x | AF114: 25 | AG114: VL | AH114: CB | AI114: 4 | AJ114: 60 | AK114: 42 | AL114: 6 | AN114: 8 | AO114: 4
+B115: BAS1225 | C115: Vật lý 2 và thí nghiệm | D115: 99 | E115: 01 | G115: 7 | H115: 1 | I115: 1 | J115: 5 | K115: 13 | L115: 30 | N115: Tự luận | O115: KCB100204 | P115: Nguyễn Thị Thúy Liễu | T115: x | U115: x | V115: x | W115: x | AF115: 20 | AG115: VL | AH115: CB | AI115: 4 | AJ115: 60 | AK115: 42 | AL115: 6 | AN115: 8 | AO115: 4
+B116: BAS1225 | C116: Vật lý 2 và thí nghiệm | D116: 99 | E116: 02 | G116: 7 | H116: 1 | I116: 1 | J116: 3 | K116: 13 | L116: 30 | N116: Tự luận | O116: KCB100204 | P116: Nguyễn Thị Thúy Liễu | X116: x | AF116: 3 | AG116: VL | AH116: CB | AI116: 4 | AJ116: 60 | AK116: 42 | AL116: 6 | AN116: 8 | AO116: 4
+B117: BAS1225 | C117: Vật lý 2 và thí nghiệm | D117: 99 | F117: 01 | G117: 8 | H117: 1 | I117: 2 | J117: 4 | K117: 13 | L117: 508 | M117: A3 | O117: KCB100204 | P117: Nguyễn Thị Thúy Liễu | U117: x | AF117: 4 | AG117: VL | AH117: CB | AI117: 4 | AJ117: 60 | AK117: 42 | AL117: 6 | AN117: 8 | AO117: 4
+B118: BAS1225 | C118: Vật lý 2 và thí nghiệm | D118: 99 | E118: 01 | F118: 01 | G118: 8 | H118: 2 | I118: 6 | J118: 4 | K118: 13 | L118: 502 | M118: A3 | O118: KCB100204 | P118: Nguyễn Thị Thúy Liễu | U118: x | AF118: 4 | AG118: VL | AH118: CB | AI118: 4 | AJ118: 60 | AK118: 42 | AL118: 6 | AN118: 8 | AO118: 4
+B119: BAS1225 | C119: Vật lý 2 và thí nghiệm | D119: 99 | E119: 02 | F119: 01 | G119: 8 | H119: 1 | I119: 2 | J119: 4 | K119: 13 | L119: 602 | M119: A3 | O119: KCB100204 | P119: Nguyễn Thị Thúy Liễu | W119: x | AF119: 4 | AG119: VL | AH119: CB | AI119: 4 | AJ119: 60 | AK119: 42 | AL119: 6 | AN119: 8 | AO119: 4
+B120: BAS1225 | C120: Vật lý 2 và thí nghiệm | D120: 99 | E120: 03 | F120: 01 | G120: 8 | H120: 2 | I120: 6 | J120: 4 | K120: 13 | L120: 606 | M120: A3 | O120: KCB100204 | P120: Nguyễn Thị Thúy Liễu | W120: x | AF120: 4 | AG120: VL | AH120: CB | AI120: 4 | AJ120: 60 | AK120: 42 | AL120: 6 | AN120: 8 | AO120: 4
+A121: 36 | B121: BAS1227 | C121: Vật lý 3 và thí nghiệm | D121: 99 | G121: 3 | H121: 1 | I121: 1 | J121: 5 | K121: 13 | L121: 29 | N121: Tự luận | O121: KCB100198 | P121: Đào Thị Hồng | T121: x | U121: x | V121: x | W121: x | X121: x | AF121: 25 | AG121: VL | AH121: CB | AI121: 4 | AJ121: 60 | AK121: 36 | AL121: 8 | AN121: 4 | AO121: 12
+B122: BAS1227 | C122: Vật lý 3 và thí nghiệm | D122: 99 | E122: 01 | G122: 7 | H122: 1 | I122: 1 | J122: 5 | K122: 13 | L122: 31 | N122: Tự luận | O122: KCB100198 | P122: Đào Thị Hồng | T122: x | U122: x | V122: x | AF122: 15 | AG122: VL | AH122: CB | AI122: 4 | AJ122: 60 | AK122: 36 | AL122: 8 | AN122: 4 | AO122: 12
+B123: BAS1227 | C123: Vật lý 3 và thí nghiệm | D123: 99 | E123: 02 | G123: 7 | H123: 1 | I123: 1 | J123: 4 | K123: 13 | L123: 31 | N123: Tự luận | O123: KCB100198 | P123: Đào Thị Hồng | W123: x | AF123: 4 | AG123: VL | AH123: CB | AI123: 4 | AJ123: 60 | AK123: 36 | AL123: 8 | AN123: 4 | AO123: 12
+B124: BAS1227 | C124: Vật lý 3 và thí nghiệm | D124: 99 | F124: 01 | G124: 3 | H124: 2 | I124: 6 | J124: 4 | K124: 13 | L124: 602 | M124: A3 | O124: KCB100198 | P124: Đào Thị Hồng | V124: x | AF124: 4 | AG124: VL | AH124: CB | AI124: 4 | AJ124: 60 | AK124: 36 | AL124: 8 | AN124: 4 | AO124: 12
+B125: BAS1227 | C125: Vật lý 3 và thí nghiệm | D125: 99 | E125: 02 | F125: 01 | G125: 3 | H125: 3 | I125: 10 | J125: 4 | K125: 13 | L125: 502 | M125: A3 | O125: KCB100198 | P125: Đào Thị Hồng | V125: x | AF125: 4 | AG125: VL | AH125: CB | AI125: 4 | AJ125: 60 | AK125: 36 | AL125: 8 | AN125: 4 | AO125: 12
+A126: 37 | B126: INT1434_CLC | C126: Lập trình web | D126: 99 | G126: 4 | H126: 1 | I126: 1 | J126: 5 | K126: 13 | L126: 29 | O126: KCN100260 | P126: Phan Thị Hà | T126: x | U126: x | V126: x | W126: x | X126: x | AF126: 25 | AG126: HTTT | AH126: CN | AI126: 3 | AJ126: 45 | AK126: 30 | AL126: 9 | AN126: 6 | AO126: 0
+B127: INT1434_CLC | C127: Lập trình web | D127: 99 | E127: 01 | G127: 7 | H127: 2 | I127: 9 | J127: 5 | K127: 13 | L127: 23 | O127: KCN100260 | P127: Phan Thị Hà | T127: x | U127: x | AF127: 10 | AG127: HTTT | AH127: CN | AI127: 3 | AJ127: 45 | AK127: 30 | AL127: 9 | AN127: 6 | AO127: 0
+B128: INT1434_CLC | C128: Lập trình web | D128: 99 | E128: 02 | G128: 7 | H128: 2 | I128: 9 | J128: 4 | K128: 13 | L128: 23 | O128: KCN100260 | P128: Phan Thị Hà | V128: x | AF128: 4 | AG128: HTTT | AH128: CN | AI128: 3 | AJ128: 45 | AK128: 30 | AL128: 9 | AN128: 6 | AO128: 0
+B129: INT1434_CLC | C129: Lập trình web | D129: 99 | F129: 01 | G129: 6 | H129: 2 | I129: 6 | J129: 4 | K129: 13 | L129: 507 | M129: A3 | O129: KCN100260 | P129: Phan Thị Hà | U129: x | V129: x | W129: x | AF129: 12 | AG129: HTTT | AH129: CN | AI129: 3 | AJ129: 45 | AK129: 30 | AL129: 9 | AN129: 6 | AO129: 0
+A130: 38 | B130: INT1336 | C130: Mạng máy tính | D130: 99 | G130: 7 | H130: 1 | I130: 1 | J130: 5 | K130: 14 | L130: 32 | N130: Phòng máy | O130: KCN100275 | P130: Nguyễn Thị Thanh Thủy | T130: x | U130: x | V130: x | W130: x | X130: x | AF130: 25 | AG130: HTTT | AH130: CN | AI130: 3 | AJ130: 45 | AK130: 34 | AL130: 8 | AN130: 3 | AO130: 0
+B131: INT1336 | C131: Mạng máy tính | D131: 99 | E131: 01 | G131: 6 | H131: 1 | I131: 1 | J131: 5 | K131: 14 | L131: 29 | N131: Phòng máy | O131: KCN100275 | P131: Nguyễn Thị Thanh Thủy | T131: x | U131: x | V131: x | AF131: 15 | AG131: HTTT | AH131: CN | AI131: 3 | AJ131: 45 | AK131: 34 | AL131: 8 | AN131: 3 | AO131: 0
+B132: INT1336 | C132: Mạng máy tính | D132: 99 | E132: 02 | G132: 6 | H132: 1 | I132: 1 | J132: 2 | K132: 14 | L132: 29 | N132: Phòng máy | O132: KCN100275 | P132: Nguyễn Thị Thanh Thủy | W132: x | AF132: 2 | AG132: HTTT | AH132: CN | AI132: 3 | AJ132: 45 | AK132: 34 | AL132: 8 | AN132: 3 | AO132: 0
+B133: INT1336 | C133: Mạng máy tính | D133: 99 | F133: 01 | G133: 4 | H133: 1 | I133: 2 | J133: 3 | K133: 14 | L133: 501 | M133: A3 | O133: KCN100275 | P133: Nguyễn Thị Thanh Thủy | V133: x | W133: x | AF133: 6 | AG133: HTTT | AH133: CN | AI133: 3 | AJ133: 45 | AK133: 34 | AL133: 8 | AN133: 3 | AO133: 0
+A134: 39 | B134: TEL1412 | C134: Mô phỏng hệ thống truyền thông | D134: 99 | G134: 6 | H134: 1 | I134: 1 | J134: 5 | K134: 14 | L134: 30 | O134: KVT100805 | P134: Bùi Quang Chung | T134: x | U134: x | V134: x | W134: x | AF134: 20 | AH134: VT | AI134: 2 | AJ134: 30 | AK134: 20 | AL134: 6 | AN134: 4 | AO134: 0
+B135: TEL1412 | C135: Mô phỏng hệ thống truyền thông | D135: 99 | E135: 01 | G135: 7 | H135: 1 | I135: 1 | J135: 3 | K135: 14 | L135: 33 | O135: KVT100805 | P135: Bùi Quang Chung | T135: x | U135: x | AF135: 6 | AH135: VT | AI135: 2 | AJ135: 30 | AK135: 20 | AL135: 6 | AN135: 4 | AO135: 0
+B136: TEL1412 | C136: Mô phỏng hệ thống truyền thông | D136: 99 | F136: 01 | G136: 7 | H136: 2 | I136: 7 | J136: 4 | K136: 14 | L136: Lab-FPT | M136: A2 | O136: KVT100805 | P136: Bùi Quang Chung | V136: x | W136: x | AF136: 8 | AH136: VT | AI136: 2 | AJ136: 30 | AK136: 20 | AL136: 6 | AN136: 4 | AO136: 0
+A137: 40 | B137: ELE13100 | C137: Cấu kiện điện tử | D137: 99 | G137: 6 | H137: 1 | I137: 1 | J137: 5 | K137: 15 | L137: 31 | N137: vấn đáp | O137: KDT100234 | P137: Trần Thị Thúy Hà | T137: x | U137: x | V137: x | W137: x | X137: x | AF137: 25 | AH137: ĐT | AI137: 3 | AJ137: 45 | AK137: 33 | AL137: 8 | AN137: 4 | AO137: 0
+B138: ELE13100 | C138: Cấu kiện điện tử | D138: 99 | E138: 01 | G138: 7 | H138: 1 | I138: 1 | J138: 5 | K138: 15 | L138: 34 | N138: vấn đáp | O138: KDT100234 | P138: Trần Thị Thúy Hà | T138: x | U138: x | V138: x | AF138: 15 | AH138: ĐT | AI138: 3 | AJ138: 45 | AK138: 33 | AL138: 8 | AN138: 4 | AO138: 0
+B139: ELE13100 | C139: Cấu kiện điện tử | D139: 99 | E139: 02 | G139: 7 | H139: 1 | I139: 1 | J139: 1 | K139: 15 | L139: 34 | N139: vấn đáp | O139: KDT100234 | P139: Trần Thị Thúy Hà | W139: x | AF139: 1 | AH139: ĐT | AI139: 3 | AJ139: 45 | AK139: 33 | AL139: 8 | AN139: 4 | AO139: 0
+B140: ELE13100 | C140: Cấu kiện điện tử | D140: 99 | F140: 01 | G140: 7 | H140: 2 | I140: 7 | J140: 4 | K140: 15 | L140: 604 | M140: A3 | O140: KDT100234 | P140: Trần Thị Thúy Hà | V140: x | W140: x | AF140: 8 | AH140: ĐT | AI140: 3 | AJ140: 45 | AK140: 33 | AL140: 8 | AN140: 4 | AO140: 0
+A141: 41 | B141: ELE13105 | C141: Linh kiện và mạch điện tử | D141: 99 | G141: 6 | H141: 2 | I141: 7 | J141: 5 | K141: 15 | L141: 26 | M141: 26 | N141: vấn đáp | O141: KDT100789 | P141: Trương Minh Đức | T141: x | U141: x | V141: x | W141: x | X141: x | AF141: 25 | AH141: ĐT | AI141: 3 | AJ141: 45 | AK141: 30 | AL141: 8 | AN141: 6 | AO141: 1
+B142: ELE13105 | C142: Linh kiện và mạch điện tử | D142: 99 | E142: 01 | G142: 7 | H142: 2 | I142: 7 | J142: 5 | K142: 15 | L142: 24 | N142: vấn đáp | O142: KDT100789 | P142: Trương Minh Đức | T142: x | U142: x | AF142: 10 | AH142: ĐT | AI142: 3 | AJ142: 45 | AK142: 30 | AL142: 8 | AN142: 6 | AO142: 1
+B143: ELE13105 | C143: Linh kiện và mạch điện tử | D143: 99 | E143: 02 | G143: 7 | H143: 2 | I143: 7 | J143: 3 | K143: 15 | L143: 24 | N143: vấn đáp | O143: KDT100789 | P143: Trương Minh Đức | V143: x | AF143: 3 | AH143: ĐT | AI143: 3 | AJ143: 45 | AK143: 30 | AL143: 8 | AN143: 6 | AO143: 1
+B144: ELE13105 | C144: Linh kiện và mạch điện tử | D144: 99 | F144: 01 | G144: 4 | H144: 1 | I144: 2 | J144: 4 | K144: 15 | L144: 604 | M144: A3 | N144: vấn đáp | O144: KDT100789 | P144: Trương Minh Đức | V144: x | W144: x | X144: x | AF144: 12 | AH144: ĐT | AI144: 3 | AJ144: 45 | AK144: 30 | AL144: 8 | AN144: 6 | AO144: 1
+A145: 42 | B145: INT1306_CLC | C145: Cấu trúc dữ liệu và giải thuật | D145: 99 | G145: 6 | H145: 2 | I145: 7 | J145: 5 | K145: 15 | L145: 27 | M145: 27 | P145: Phạm Tuấn Minh | T145: x | U145: x | V145: x | W145: x | X145: x | AF145: 25 | AG145: CNPM | AH145: CN | AI145: 3 | AJ145: 45 | AK145: 30 | AL145: 8 | AN145: 6 | AO145: 1
+B146: INT1306_CLC | C146: Cấu trúc dữ liệu và giải thuật | D146: 99 | E146: 01 | G146: 7 | H146: 2 | I146: 7 | J146: 5 | K146: 15 | L146: 25 | P146: Phạm Tuấn Minh | T146: x | U146: x | AF146: 10 | AG146: CNPM | AH146: CN | AI146: 3 | AJ146: 45 | AK146: 30 | AL146: 8 | AN146: 6 | AO146: 1
+B147: INT1306_CLC | C147: Cấu trúc dữ liệu và giải thuật | D147: 99 | E147: 02 | G147: 7 | H147: 2 | I147: 7 | J147: 3 | K147: 15 | L147: 25 | P147: Phạm Tuấn Minh | V147: x | AF147: 3 | AG147: CNPM | AH147: CN | AI147: 3 | AJ147: 45 | AK147: 30 | AL147: 8 | AN147: 6 | AO147: 1
+B148: INT1306_CLC | C148: Cấu trúc dữ liệu và giải thuật | D148: 99 | F148: 01 | G148: 3 | H148: 3 | I148: 12 | J148: 4 | K148: 15 | L148: Code.ptit.edu.vn | M148: Online | P148: Phạm Tuấn Minh | V148: x | W148: x | X148: x | AF148: 12 | AG148: CNPM | AH148: CN | AI148: 3 | AJ148: 45 | AK148: 30 | AL148: 8 | AN148: 6 | AO148: 1
+A149: 43 | B149: INT14148 | C149: Cơ sở dữ liệu phân tán | D149: 99 | G149: 3 | H149: 2 | I149: 7 | J149: 5 | K149: 15 | L149: 31 | O149: KCN100260 | P149: Phan Thị Hà | T149: x | U149: x | V149: x | W149: x | X149: x | AF149: 25 | AG149: HTTT | AH149: CN | AI149: 3 | AJ149: 45 | AK149: 36 | AL149: 8 | AO149: 1
+B150: INT14148 | C150: Cơ sở dữ liệu phân tán | D150: 99 | E150: 01 | G150: 5 | H150: 2 | I150: 7 | J150: 5 | K150: 15 | L150: 26 | M150: 26 | O150: KCN100260 | P150: Phan Thị Hà | T150: x | U150: x | V150: x | AF150: 15 | AG150: HTTT | AH150: CN | AI150: 3 | AJ150: 45 | AK150: 36 | AL150: 8 | AO150: 1
+B151: INT14148 | C151: Cơ sở dữ liệu phân tán | D151: 99 | E151: 02 | G151: 5 | H151: 2 | I151: 7 | J151: 4 | K151: 15 | L151: 26 | M151: 26 | O151: KCN100260 | P151: Phan Thị Hà | X151: x | AF151: 4 | AG151: HTTT | AH151: CN | AI151: 3 | AJ151: 45 | AK151: 36 | AL151: 8 | AO151: 1
+A152: 44 | B152: TEL1462 | C152: Kỹ thuật thu phát vô tuyến | D152: 99 | G152: 4 | H152: 1 | I152: 1 | J152: 5 | K152: 15 | L152: 30 | N152: Tự Luận | O152: KVT100286 | P152: Đặng Thế Ngọc | T152: x | U152: x | V152: x | W152: x | X152: x | AF152: 25 | AG152: VT | AH152: VT | AI152: 3 | AJ152: 45 | AK152: 32 | AL152: 8 | AN152: 4 | AO152: 1
+B153: TEL1462 | C153: Kỹ thuật thu phát vô tuyến | D153: 99 | E153: 01 | G153: 5 | H153: 1 | I153: 1 | J153: 5 | K153: 15 | L153: 31 | N153: Tự Luận | O153: KVT100286 | P153: Đặng Thế Ngọc | T153: x | U153: x | V153: x | AF153: 15 | AG153: VT | AH153: VT | AI153: 3 | AJ153: 45 | AK153: 32 | AL153: 8 | AN153: 4 | AO153: 1
+B154: TEL1462 | C154: Kỹ thuật thu phát vô tuyến | D154: 99 | F154: 01 | G154: 4 | H154: 2 | I154: 2 | J154: 4 | K154: 15 | L154: Lab-FPT | M154: A2 | N154: Tự Luận | O154: KVT100286 | P154: Đặng Thế Ngọc | V154: x | W154: x | AF154: 8 | AG154: VT | AH154: VT | AI154: 3 | AJ154: 45 | AK154: 32 | AL154: 8 | AN154: 4 | AO154: 1
+A155: 45 | B155: BAS1107 | C155: Giáo dục thể chất 2 | D155: 99 | G155: 4 | H155: 2 | I155: 7 | J155: 5 | K155: 16 | L155: Sân A3 | M155: A3 | O155: KCB100951 | P155: Đỗ Thùy Giang | T155: x | U155: x | V155: x | W155: x | AF155: 20 | AG155: GDTC | AH155: CB | AI155: 2 | AJ155: 30 | AK155: 2 | AN155: 26 | AO155: 2
+B156: BAS1107 | C156: Giáo dục thể chất 2 | D156: 99 | E156: 01 | G156: 6 | H156: 2 | I156: 7 | J156: 4 | K156: 16 | L156: Sân A3 | M156: A3 | O156: KCB100951 | P156: Đỗ Thùy Giang | T156: x | U156: x | AF156: 8 | AG156: GDTC | AH156: CB | AI156: 2 | AJ156: 30 | AK156: 2 | AN156: 26 | AO156: 2
+A157: 46 | B157: BAS1221 | C157: Toán kỹ thuật | D157: 99 | G157: 5 | H157: 1 | I157: 1 | J157: 5 | K157: 16 | L157: 32 | O157: KCB100196 | P157: Hoàng Phi Dũng | T157: x | U157: x | V157: x | X157: x | AF157: 20 | AG157: TO | AH157: CB | AI157: 3 | AJ157: 45 | AK157: 36 | AL157: 8 | AO157: 1
+B158: BAS1221 | C158: Toán kỹ thuật | D158: 99 | E158: 01 | G158: 7 | H158: 1 | I158: 1 | J158: 5 | K158: 16 | L158: 35 | O158: KCB100196 | P158: Hoàng Phi Dũng | T158: x | U158: x | V158: x | W158: x | AF158: 20 | AG158: TO | AH158: CB | AI158: 3 | AJ158: 45 | AK158: 36 | AL158: 8 | AO158: 1
+B159: BAS1221 | C159: Toán kỹ thuật | D159: 99 | E159: 02 | G159: 7 | H159: 1 | I159: 1 | J159: 4 | K159: 16 | L159: 35 | O159: KCB100196 | P159: Hoàng Phi Dũng | X159: x | AF159: 4 | AG159: TO | AH159: CB | AI159: 3 | AJ159: 45 | AK159: 36 | AL159: 8 | AO159: 1
+A160: 47 | B160: TEL1345 | C160: Kỹ thuật siêu cao tần | D160: 99 | G160: 6 | H160: 2 | I160: 7 | J160: 5 | K160: 16 | L160: 28 | M160: 28 | N160: Tự Luận | O160: KVT100923 | P160: Vũ Quang Minh | T160: x | U160: x | V160: x | W160: x | X160: x | AF160: 25 | AH160: VT | AI160: 3 | AJ160: 45 | AK160: 32 | AL160: 8 | AN160: 4 | AO160: 1
+B161: TEL1345 | C161: Kỹ thuật siêu cao tần | D161: 99 | E161: 01 | G161: 3 | H161: 2 | I161: 7 | J161: 5 | K161: 16 | L161: 32 | N161: Tự Luận | O161: KVT100923 | P161: Vũ Quang Minh | T161: x | U161: x | V161: x | AF161: 15 | AH161: VT | AI161: 3 | AJ161: 45 | AK161: 32 | AL161: 8 | AN161: 4 | AO161: 1
+B162: TEL1345 | C162: Kỹ thuật siêu cao tần | D162: 99 | F162: 01 | G162: 3 | H162: 1 | I162: 2 | J162: 4 | K162: 16 | L162: Lab-4G | M162: A2 | N162: Tự Luận | O162: KVT100923 | P162: Vũ Quang Minh | W162: x | X162: x | AF162: 8 | AH162: VT | AI162: 3 | AJ162: 45 | AK162: 32 | AL162: 8 | AN162: 4 | AO162: 1
+A163: 48 | B163: BAS1157 | C163: Tiếng Anh (Course 1) | D163: 99 | G163: 2 | H163: 1 | I163: 1 | J163: 3 | K163: 17 | L163: 31 | N163: Tự luận + vấn đáp | O163: KCB100216 | P163: Nguyễn Thị Thiết | T163: x | U163: x | V163: x | W163: x | X163: x | AF163: 15 | AG163: NN | AH163: CB | AI163: 4 | AJ163: 60 | AK163: 60
+B164: BAS1157 | C164: Tiếng Anh (Course 1) | D164: 99 | E164: 01 | G164: 3 | H164: 1 | I164: 1 | J164: 5 | K164: 17 | L164: 30 | N164: Tự luận + vấn đáp | O164: KCB100216 | P164: Nguyễn Thị Thiết | T164: x | U164: x | V164: x | W164: x | X164: x | AF164: 25 | AG164: NN | AH164: CB | AI164: 4 | AJ164: 60 | AK164: 60
+B165: BAS1157 | C165: Tiếng Anh (Course 1) | D165: 99 | E165: 02 | G165: 4 | H165: 1 | I165: 1 | J165: 5 | K165: 17 | L165: 31 | N165: Tự luận + vấn đáp | O165: KCB100216 | P165: Nguyễn Thị Thiết | T165: x | U165: x | V165: x | W165: x | AF165: 20 | AG165: NN | AH165: CB | AI165: 4 | AJ165: 60 | AK165: 60
+A166: 49 | B166: INT1342M | C166: Phân tích và thiết kế hệ thống thông tin | D166: 99 | G166: 2 | H166: 2 | I166: 7 | J166: 5 | K166: 17 | L166: 30 | O166: KCN100268 | P166: Đào Ngọc Phong | T166: x | U166: x | V166: x | W166: x | X166: x | AF166: 25 | AG166: CNPM | AH166: CN | AI166: 3 | AJ166: 45 | AK166: 36 | AL166: 8 | AO166: 1
+B167: INT1342M | C167: Phân tích và thiết kế hệ thống thông tin | D167: 99 | E167: 01 | G167: 3 | H167: 2 | I167: 7 | J167: 5 | K167: 17 | L167: 33 | O167: KCN100268 | P167: Đào Ngọc Phong | T167: x | U167: x | V167: x | AF167: 15 | AG167: CNPM | AH167: CN | AI167: 3 | AJ167: 45 | AK167: 36 | AL167: 8 | AO167: 1
+B168: INT1342M | C168: Phân tích và thiết kế hệ thống thông tin | D168: 99 | E168: 02 | G168: 3 | H168: 2 | I168: 7 | J168: 4 | K168: 17 | L168: 33 | O168: KCN100268 | P168: Đào Ngọc Phong | W168: x | AF168: 4 | AG168: CNPM | AH168: CN | AI168: 3 | AJ168: 45 | AK168: 36 | AL168: 8 | AO168: 1
+A169: 50 | B169: OTC1301 | C169: Thực hành cơ sở | D169: 99 | G169: 5 | H169: 1 | I169: 1 | J169: 4 | K169: 17 | L169: 33 | O169: TTN100137 | P169: Nguyễn Đức Minh | T169: x | U169: x | AF169: 8 | AH169: ĐT | AI169: 3 | AJ169: 45 | AK169: 8 | AN169: 36 | AO169: 1
+B170: OTC1301 | C170: Thực hành cơ sở | D170: 99 | F170: 01 | G170: 6 | H170: 3 | I170: 10 | J170: 5 | K170: 17 | L170: 504 | M170: A3 | O170: TTN100137 | P170: Nguyễn Đức Minh | T170: x | U170: x | V170: x | W170: x | X170: x | AF170: 25 | AH170: ĐT | AI170: 3 | AJ170: 45 | AK170: 8 | AN170: 36 | AO170: 1
+B171: OTC1301 | C171: Thực hành cơ sở | D171: 99 | E171: 01 | F171: 01 | G171: 2 | H171: 3 | I171: 10 | J171: 5 | K171: 17 | L171: 608 | M171: A3 | O171: TTN100137 | P171: Nguyễn Đức Minh | T171: x | U171: x | V171: x | W171: x | X171: x | AF171: 25 | AH171: ĐT | AI171: 3 | AJ171: 45 | AK171: 8 | AN171: 36 | AO171: 1
+B172: OTC1301 | C172: Thực hành cơ sở | D172: 99 | E172: 02 | F172: 01 | G172: 3 | H172: 3 | I172: 10 | J172: 5 | K172: 17 | L172: 504 | M172: A3 | O172: TTN100137 | P172: Nguyễn Đức Minh | T172: x | U172: x | V172: x | W172: x | AF172: 20 | AH172: ĐT | AI172: 3 | AJ172: 45 | AK172: 8 | AN172: 36 | AO172: 1
+B173: OTC1301 | C173: Thực hành cơ sở | D173: 99 | E173: 03 | F173: 01 | G173: 3 | H173: 3 | I173: 10 | J173: 2 | K173: 17 | L173: 604 | M173: A3 | O173: TTN100137 | P173: Nguyễn Đức Minh | X173: x | AF173: 2 | AH173: ĐT | AI173: 3 | AJ173: 45 | AK173: 8 | AN173: 36 | AO173: 1
+A174: 51 | B174: TEL1337 | C174: Toán rời rạc | D174: 99 | G174: 6 | H174: 2 | I174: 7 | J174: 5 | K174: 17 | L174: 29 | M174: 29 | O174: KVT100306 | P174: Dương Thị Thanh Tú | T174: x | U174: x | V174: x | W174: x | X174: x | AF174: 25 | AH174: VT | AI174: 3 | AJ174: 45 | AK174: 38 | AL174: 6 | AO174: 1
+B175: TEL1337 | C175: Toán rời rạc | D175: 99 | E175: 01 | G175: 7 | H175: 2 | I175: 7 | J175: 5 | K175: 17 | L175: 26 | O175: KVT100306 | P175: Dương Thị Thanh Tú | T175: x | U175: x | V175: x | AF175: 15 | AH175: VT | AI175: 3 | AJ175: 45 | AK175: 38 | AL175: 6 | AO175: 1
+B176: TEL1337 | C176: Toán rời rạc | D176: 99 | E176: 02 | G176: 7 | H176: 2 | I176: 7 | J176: 4 | K176: 17 | L176: 26 | O176: KVT100306 | P176: Dương Thị Thanh Tú | W176: x | AF176: 4 | AH176: VT | AI176: 3 | AJ176: 45 | AK176: 38 | AL176: 6 | AO176: 1
+A177: 52 | B177: TEL1344 | C177: Lý thuyết truyền tin | D177: 99 | G177: 2 | H177: 1 | I177: 1 | J177: 5 | K177: 17 | L177: 32 | O177: KVT100536 | P177: Trần Huy Long | T177: x | U177: x | V177: x | W177: x | X177: x | AF177: 25 | AH177: VT | AI177: 3 | AJ177: 45 | AK177: 36 | AL177: 8 | AO177: 1
+B178: TEL1344 | C178: Lý thuyết truyền tin | D178: 99 | E178: 01 | G178: 3 | H178: 1 | I178: 1 | J178: 5 | K178: 17 | L178: 31 | O178: KVT100536 | P178: Trần Huy Long | T178: x | U178: x | V178: x | AF178: 15 | AH178: VT | AI178: 3 | AJ178: 45 | AK178: 36 | AL178: 8 | AO178: 1
+B179: TEL1344 | C179: Lý thuyết truyền tin | D179: 99 | E179: 02 | G179: 3 | H179: 1 | I179: 1 | J179: 4 | K179: 17 | L179: 31 | O179: KVT100536 | P179: Trần Huy Long | W179: x | AF179: 4 | AH179: VT | AI179: 3 | AJ179: 45 | AK179: 36 | AL179: 8 | AO179: 1
+A180: 53 | B180: TEL1405 | C180: Kỹ thuật mạng truyền thông | D180: 99 | G180: 2 | H180: 2 | I180: 7 | J180: 5 | K180: 17 | L180: 31 | O180: KVT100300 | P180: Nguyễn Đình Long | T180: x | U180: x | V180: x | W180: x | X180: x | AF180: 25 | AH180: VT | AI180: 3 | AJ180: 45 | AK180: 32 | AL180: 8 | AN180: 4 | AO180: 1
+B181: TEL1405 | C181: Kỹ thuật mạng truyền thông | D181: 99 | E181: 01 | G181: 6 | H181: 2 | I181: 7 | J181: 5 | K181: 17 | L181: 30 | M181: 30 | O181: KVT100300 | P181: Nguyễn Đình Long | T181: x | U181: x | V181: x | AF181: 15 | AH181: VT | AI181: 3 | AJ181: 45 | AK181: 32 | AL181: 8 | AN181: 4 | AO181: 1
+B182: TEL1405 | C182: Kỹ thuật mạng truyền thông | D182: 99 | F182: 01 | G182: 6 | H182: 2 | I182: 7 | J182: 4 | K182: 17 | L182: Lab IoT | M182: A2 | O182: KVT100300 | P182: Nguyễn Đình Long | W182: x | X182: x | AF182: 8 | AH182: VT | AI182: 3 | AJ182: 45 | AK182: 32 | AL182: 8 | AN182: 4 | AO182: 1
+A183: 54 | B183: INT1359 | C183: Toán rời rạc 2 | D183: 99 | G183: 6 | H183: 1 | I183: 1 | J183: 5 | K183: 18 | L183: 32 | O183: KCN100269 | P183: Đào Thị Thuý Quỳnh | T183: x | U183: x | V183: x | W183: x | X183: x | AF183: 25 | AG183: KHMT | AH183: CN | AI183: 3 | AJ183: 45 | AK183: 36 | AL183: 8 | AO183: 1
+B184: INT1359 | C184: Toán rời rạc 2 | D184: 99 | E184: 01 | G184: 7 | H184: 2 | I184: 7 | J184: 5 | K184: 18 | L184: 27 | O184: KCN100269 | P184: Đào Thị Thuý Quỳnh | T184: x | U184: x | V184: x | AF184: 15 | AG184: KHMT | AH184: CN | AI184: 3 | AJ184: 45 | AK184: 36 | AL184: 8 | AO184: 1
+B185: INT1359 | C185: Toán rời rạc 2 | D185: 99 | E185: 02 | G185: 7 | H185: 2 | I185: 7 | J185: 4 | K185: 18 | L185: 27 | O185: KCN100269 | P185: Đào Thị Thuý Quỳnh | W185: x | AF185: 4 | AG185: KHMT | AH185: CN | AI185: 3 | AJ185: 45 | AK185: 36 | AL185: 8 | AO185: 1
+A186: 55 | B186: TEL1368 | C186: Tín hiệu và Hệ thống | D186: 99 | G186: 4 | H186: 2 | I186: 7 | J186: 5 | K186: 19 | L186: 29 | O186: KVT101015 | P186: Khuất Thị Hương | T186: x | U186: x | V186: x | W186: x | X186: x | AF186: 25 | AH186: VT | AI186: 3 | AJ186: 45 | AK186: 34 | AL186: 10 | AO186: 1
+B187: TEL1368 | C187: Tín hiệu và Hệ thống | D187: 99 | E187: 01 | G187: 5 | H187: 2 | I187: 7 | J187: 5 | K187: 19 | L187: 27 | M187: 27 | O187: KVT101015 | P187: Khuất Thị Hương | T187: x | U187: x | V187: x | AF187: 15 | AH187: VT | AI187: 3 | AJ187: 45 | AK187: 34 | AL187: 10 | AO187: 1
+B188: TEL1368 | C188: Tín hiệu và Hệ thống | D188: 99 | E188: 02 | G188: 5 | H188: 2 | I188: 7 | J188: 4 | K188: 19 | L188: 27 | M188: 27 | O188: KVT101015 | P188: Khuất Thị Hương | X188: x | AF188: 4 | AH188: VT | AI188: 3 | AJ188: 45 | AK188: 34 | AL188: 10 | AO188: 1
+A189: 56 | B189: ELE1433 | C189: Kỹ thuật số | D189: 99 | G189: 6 | H189: 2 | I189: 7 | J189: 5 | K189: 20 | L189: 31 | M189: 31 | N189: vấn đáp | O189: KDT100309 | P189: Trần Thị Thanh Thủy | T189: x | U189: x | V189: x | W189: x | X189: x | AF189: 25 | AH189: ĐT | AI189: 2 | AJ189: 30 | AK189: 24 | AL189: 4 | AN189: 2 | AO189: 0
+B190: ELE1433 | C190: Kỹ thuật số | D190: 99 | E190: 01 | G190: 7 | H190: 1 | I190: 1 | J190: 3 | K190: 20 | L190: 27 | N190: vấn đáp | O190: KDT100309 | P190: Trần Thị Thanh Thủy | T190: x | AF190: 3 | AH190: ĐT | AI190: 2 | AJ190: 30 | AK190: 24 | AL190: 4 | AN190: 2 | AO190: 0
+B191: ELE1433 | C191: Kỹ thuật số | D191: 99 | F191: 01 | G191: 2 | H191: 1 | I191: 1 | J191: 4 | K191: 20 | L191: 608 | M191: A3 | O191: KDT100309 | P191: Trần Thị Thanh Thủy | V191: x | AF191: 4 | AH191: ĐT | AI191: 2 | AJ191: 30 | AK191: 24 | AL191: 4 | AN191: 2 | AO191: 0
+A192: 57 | B192: INT1422 | C192: Kho dữ liệu và khai phá dữ liệu | D192: 99 | G192: 6 | H192: 2 | I192: 7 | J192: 5 | K192: 20 | L192: 32 | M192: 32 | O192: HT1003 | P192: Lê Văn Vịnh | T192: x | U192: x | V192: x | W192: x | X192: x | AF192: 25 | AG192: HTTT | AH192: CN | AI192: 3 | AJ192: 45 | AK192: 36 | AL192: 8 | AO192: 1
+B193: INT1422 | C193: Kho dữ liệu và khai phá dữ liệu | D193: 99 | E193: 01 | G193: 3 | H193: 2 | I193: 7 | J193: 5 | K193: 20 | L193: 34 | O193: HT1003 | P193: Lê Văn Vịnh | T193: x | U193: x | V193: x | AF193: 15 | AG193: HTTT | AH193: CN | AI193: 3 | AJ193: 45 | AK193: 36 | AL193: 8 | AO193: 1
+B194: INT1422 | C194: Kho dữ liệu và khai phá dữ liệu | D194: 99 | E194: 02 | G194: 3 | H194: 2 | I194: 7 | J194: 4 | K194: 20 | L194: 34 | O194: HT1003 | P194: Lê Văn Vịnh | W194: x | AF194: 4 | AG194: HTTT | AH194: CN | AI194: 3 | AJ194: 45 | AK194: 36 | AL194: 8 | AO194: 1
+A195: 58 | B195: BAS1159 | C195: Tiếng Anh (Course 3) | D195: 99 | G195: 2 | H195: 1 | I195: 1 | J195: 5 | K195: 22 | L195: 33 | N195: Tự luận + vấn đáp | O195: KCB100952 | P195: Nguyễn Thị Hương | T195: x | U195: x | V195: x | W195: x | X195: x | AF195: 25 | AG195: NN | AH195: CB | AI195: 4 | AJ195: 60 | AK195: 60
+B196: BAS1159 | C196: Tiếng Anh (Course 3) | D196: 99 | E196: 01 | G196: 3 | H196: 1 | I196: 1 | J196: 5 | K196: 22 | L196: 32 | N196: Tự luận + vấn đáp | O196: KCB100206 | P196: Nguyễn Hồng Nga | T196: x | U196: x | V196: x | W196: x | X196: x | AF196: 25 | AG196: NN | AH196: CB | AI196: 4 | AJ196: 60 | AK196: 60
+B197: BAS1159 | C197: Tiếng Anh (Course 3) | D197: 99 | E197: 02 | G197: 4 | H197: 1 | I197: 1 | J197: 5 | K197: 22 | L197: 32 | N197: Tự luận + vấn đáp | O197: KCB100206 | P197: Nguyễn Hồng Nga | T197: x | U197: x | AF197: 10 | AG197: NN | AH197: CB | AI197: 4 | AJ197: 60 | AK197: 60
+A198: 59 | B198: BAS1220 | C198: Toán cao cấp 2 | D198: 99 | G198: 5 | H198: 1 | I198: 1 | J198: 5 | K198: 22 | L198: 34 | O198: KCB101116 | P198: Phạm Thanh Hiếu | T198: x | U198: x | V198: x | X198: x | AF198: 20 | AG198: TO | AH198: CB | AI198: 2 | AJ198: 30 | AK198: 24 | AL198: 6
+B199: BAS1220 | C199: Toán cao cấp 2 | D199: 99 | E199: 01 | G199: 3 | H199: 1 | I199: 1 | J199: 5 | K199: 22 | L199: 33 | O199: KCB101116 | P199: Phạm Thanh Hiếu | T199: x | U199: x | AF199: 10 | AG199: TO | AH199: CB | AI199: 2 | AJ199: 30 | AK199: 24 | AL199: 6
+A200: 60 | B200: ELE1317 | C200: Kỹ thuật vi xử lý | D200: 99 | G200: 4 | H200: 1 | I200: 1 | J200: 5 | K200: 22 | L200: 33 | N200: vấn đáp | O200: KDT100230 | P200: Lương Công Duẩn | T200: x | U200: x | V200: x | W200: x | X200: x | AF200: 25 | AH200: ĐT | AI200: 3 | AJ200: 45 | AK200: 36 | AM200: 8 | AO200: 1
+B201: ELE1317 | C201: Kỹ thuật vi xử lý | D201: 99 | E201: 01 | G201: 5 | H201: 1 | I201: 1 | J201: 5 | K201: 22 | L201: 35 | N201: vấn đáp | O201: KDT100230 | P201: Lương Công Duẩn | T201: x | U201: x | V201: x | AF201: 15 | AH201: ĐT | AI201: 3 | AJ201: 45 | AK201: 36 | AM201: 8 | AO201: 1
+B202: ELE1317 | C202: Kỹ thuật vi xử lý | D202: 99 | E202: 02 | G202: 5 | H202: 1 | I202: 1 | J202: 4 | K202: 22 | L202: 35 | N202: vấn đáp | O202: KDT100230 | P202: Lương Công Duẩn | X202: x | AF202: 4 | AH202: ĐT | AI202: 3 | AJ202: 45 | AK202: 36 | AM202: 8 | AO202: 1
+A203: 61 | B203: INT1319 | C203: Hệ điều hành | D203: 99 | G203: 2 | H203: 2 | I203: 7 | J203: 5 | K203: 22 | L203: 32 | O203: KCN100266 | P203: Vũ Hoài Nam | T203: x | U203: x | V203: x | W203: x | X203: x | AF203: 25 | AG203: KHMT | AH203: CN | AI203: 3 | AJ203: 45 | AK203: 34 | AL203: 8 | AN203: 3
+B204: INT1319 | C204: Hệ điều hành | D204: 99 | E204: 01 | G204: 3 | H204: 2 | I204: 7 | J204: 5 | K204: 22 | L204: 35 | O204: KCN100266 | P204: Vũ Hoài Nam | T204: x | U204: x | V204: x | AF204: 15 | AG204: KHMT | AH204: CN | AI204: 3 | AJ204: 45 | AK204: 34 | AL204: 8 | AN204: 3
+B205: INT1319 | C205: Hệ điều hành | D205: 99 | E205: 02 | G205: 3 | H205: 2 | I205: 7 | J205: 2 | K205: 22 | L205: 35 | O205: KCN100266 | P205: Vũ Hoài Nam | W205: x | AF205: 2 | AG205: KHMT | AH205: CN | AI205: 3 | AJ205: 45 | AK205: 34 | AL205: 8 | AN205: 3
+B206: INT1319 | C206: Hệ điều hành | D206: 99 | F206: 01 | G206: 2 | H206: 1 | I206: 2 | J206: 3 | K206: 22 | L206: 611 | M206: A3 | O206: KCN100266 | P206: Vũ Hoài Nam | V206: x | W206: x | AF206: 6 | AG206: KHMT | AH206: CN | AI206: 3 | AJ206: 45 | AK206: 34 | AL206: 8 | AN206: 3
+A207: 62 | B207: BAS1150 | C207: Triết học Mác - Lênin | D207: 99 | G207: 5 | H207: 2 | I207: 7 | J207: 5 | K207: 24 | L207: 28 | M207: 28 | N207: Tự luận | O207: KCB100191 | P207: Phạm Minh Ái | T207: x | U207: x | V207: x | X207: x | AF207: 20 | AG207: ML | AH207: CB | AI207: 3 | AJ207: 45 | AK207: 34 | AL207: 10 | AO207: 1
+B208: BAS1150 | C208: Triết học Mác - Lênin | D208: 99 | E208: 01 | G208: 7 | H208: 1 | I208: 1 | J208: 5 | K208: 24 | L208: 36 | N208: Tự luận | O208: KCB100191 | P208: Phạm Minh Ái | T208: x | U208: x | V208: x | W208: x | AF208: 20 | AG208: ML | AH208: CB | AI208: 3 | AJ208: 45 | AK208: 34 | AL208: 10 | AO208: 1
+B209: BAS1150 | C209: Triết học Mác - Lênin | D209: 99 | E209: 02 | G209: 7 | H209: 1 | I209: 1 | J209: 4 | K209: 24 | L209: 36 | N209: Tự luận | O209: KCB100191 | P209: Phạm Minh Ái | X209: x | AF209: 4 | AG209: ML | AH209: CB | AI209: 3 | AJ209: 45 | AK209: 34 | AL209: 10 | AO209: 1
+A210: 63 | B210: BSA1221 | C210: Pháp luật đại cương | D210: 99 | G210: 4 | H210: 2 | I210: 7 | J210: 5 | K210: 24 | L210: 30 | N210: phòng máy | O210: KQT100903 | P210: Trần Anh Tuấn | T210: x | U210: x | V210: x | W210: x | X210: x | AF210: 25 | AH210: QT | AI210: 2 | AJ210: 30 | AK210: 24 | AL210: 6 | AO210: 0
+B211: BSA1221 | C211: Pháp luật đại cương | D211: 99 | E211: 01 | G211: 7 | H211: 2 | I211: 7 | J211: 5 | K211: 24 | L211: 27 | N211: phòng máy | O211: KQT100903 | P211: Trần Anh Tuấn | X211: x | AF211: 5 | AH211: QT | AI211: 2 | AJ211: 30 | AK211: 24 | AL211: 6 | AO211: 0
+A212: 64 | B212: TEL1340 | C212: Kỹ thuật lập trình | D212: 99 | G212: 2 | H212: 1 | I212: 1 | J212: 5 | K212: 24 | L212: 34 | O212: KVT100905 | P212: Nguyễn Hữu Cầm | T212: x | U212: x | V212: x | W212: x | X212: x | AF212: 25 | AH212: VT | AI212: 3 | AJ212: 45 | AK212: 30 | AL212: 8 | AN212: 6 | AO212: 1
+B213: TEL1340 | C213: Kỹ thuật lập trình | D213: 99 | E213: 01 | G213: 3 | H213: 1 | I213: 1 | J213: 5 | K213: 24 | L213: 34 | O213: KVT100905 | P213: Nguyễn Hữu Cầm | T213: x | U213: x | AF213: 10 | AH213: VT | AI213: 3 | AJ213: 45 | AK213: 30 | AL213: 8 | AN213: 6 | AO213: 1
+B214: TEL1340 | C214: Kỹ thuật lập trình | D214: 99 | E214: 02 | G214: 3 | H214: 1 | I214: 1 | J214: 3 | K214: 24 | L214: 34 | O214: KVT100905 | P214: Nguyễn Hữu Cầm | V214: x | AF214: 3 | AH214: VT | AI214: 3 | AJ214: 45 | AK214: 30 | AL214: 8 | AN214: 6 | AO214: 1
+B215: TEL1340 | C215: Kỹ thuật lập trình | D215: 99 | F215: 01 | G215: 2 | H215: 2 | I215: 7 | J215: 4 | K215: 24 | L215: 603B | M215: A3 | O215: KVT100905 | P215: Nguyễn Hữu Cầm | V215: x | W215: x | X215: x | AF215: 12 | AH215: VT | AI215: 3 | AJ215: 45 | AK215: 30 | AL215: 8 | AN215: 6 | AO215: 1
+A216: 65 | B216: BAS1226 | C216: Xác suất thống kê | D216: 99 | G216: 2 | H216: 2 | I216: 7 | J216: 5 | K216: 25 | L216: 33 | O216: KCB100192 | P216: Trần Việt Anh | T216: x | U216: x | V216: x | W216: x | X216: x | AF216: 25 | AG216: TO | AH216: CB | AI216: 2 | AJ216: 30 | AK216: 24 | AL216: 6 | AO216: 0
+B217: BAS1226 | C217: Xác suất thống kê | D217: 99 | E217: 01 | G217: 4 | H217: 2 | I217: 7 | J217: 5 | K217: 25 | L217: 31 | O217: KCB100192 | P217: Trần Việt Anh | X217: x | AF217: 5 | AG217: TO | AH217: CB | AI217: 2 | AJ217: 30 | AK217: 24 | AL217: 6 | AO217: 0
+A218: 66 | B218: ELE1304 | C218: Cơ sở điều khiển tự động | D218: 99 | G218: 6 | H218: 1 | I218: 1 | J218: 5 | K218: 25 | L218: 33 | N218: Vấn đáp | O218: KDT101050 | P218: Hoàng Sơn | T218: x | U218: x | V218: x | W218: x | X218: x | AF218: 25 | AH218: ĐT | AI218: 3 | AJ218: 45 | AK218: 42 | AL218: 3 | AO218: 0
+B219: ELE1304 | C219: Cơ sở điều khiển tự động | D219: 99 | E219: 01 | G219: 5 | H219: 1 | I219: 1 | J219: 5 | K219: 25 | L219: 36 | N219: Vấn đáp | O219: KDT101050 | P219: Hoàng Sơn | T219: x | U219: x | V219: x | X219: x | AF219: 20 | AH219: ĐT | AI219: 3 | AJ219: 45 | AK219: 42 | AL219: 3 | AO219: 0
+A220: 67 | B220: ELE1415 | C220: Hệ thống nhúng | D220: 99 | G220: 4 | H220: 2 | I220: 7 | J220: 5 | K220: 25 | L220: 32 | N220: Vấn đáp | O220: KDT100872 | P220: Chu Văn Cường | T220: x | U220: x | V220: x | W220: x | X220: x | AF220: 25 | AH220: ĐT | AI220: 3 | AJ220: 45 | AK220: 36 | AM220: 8 | AO220: 1
+B221: ELE1415 | C221: Hệ thống nhúng | D221: 99 | E221: 01 | G221: 3 | H221: 2 | I221: 7 | J221: 5 | K221: 25 | L221: 36 | N221: Vấn đáp | O221: KDT100872 | P221: Chu Văn Cường | T221: x | U221: x | V221: x | AF221: 15 | AH221: ĐT | AI221: 3 | AJ221: 45 | AK221: 36 | AM221: 8 | AO221: 1
+B222: ELE1415 | C222: Hệ thống nhúng | D222: 99 | E222: 02 | G222: 3 | H222: 2 | I222: 7 | J222: 4 | K222: 25 | L222: 36 | N222: Vấn đáp | O222: KDT100872 | P222: Chu Văn Cường | X222: x | AF222: 4 | AH222: ĐT | AI222: 3 | AJ222: 45 | AK222: 36 | AM222: 8 | AO222: 1
+A223: 68 | B223: BAS1203 | C223: Giải tích 1 | D223: 99 | G223: 2 | H223: 1 | I223: 1 | J223: 5 | K223: 26 | L223: 35 | O223: KCB100208 | P223: Lê Văn Ngọc | T223: x | U223: x | V223: x | W223: x | X223: x | AF223: 25 | AG223: TO | AH223: CB | AI223: 3 | AJ223: 45 | AK223: 36 | AL223: 8 | AO223: 1
+B224: BAS1203 | C224: Giải tích 1 | D224: 99 | E224: 01 | G224: 4 | H224: 1 | I224: 1 | J224: 5 | K224: 26 | L224: 34 | O224: KCB100208 | P224: Lê Văn Ngọc | T224: x | U224: x | V224: x | AF224: 15 | AG224: TO | AH224: CB | AI224: 3 | AJ224: 45 | AK224: 36 | AL224: 8 | AO224: 1
+B225: BAS1203 | C225: Giải tích 1 | D225: 99 | E225: 02 | G225: 4 | H225: 1 | I225: 1 | J225: 4 | K225: 26 | L225: 34 | O225: KCB100208 | P225: Lê Văn Ngọc | W225: x | AF225: 4 | AG225: TO | AH225: CB | AI225: 3 | AJ225: 45 | AK225: 36 | AL225: 8 | AO225: 1
+A226: 69 | B226: INT13162 | C226: Lập trình với Python | D226: 99 | G226: 2 | H226: 2 | I226: 7 | J226: 5 | K226: 26 | L226: 34 | O226: KCN101000 | P226: Nguyễn Quang Hưng | T226: x | U226: x | V226: x | W226: x | X226: x | AF226: 25 | AG226: HTTT | AH226: CN | AI226: 3 | AJ226: 45 | AK226: 30 | AL226: 8 | AN226: 6 | AO226: 1
+B227: INT13162 | C227: Lập trình với Python | D227: 99 | E227: 01 | G227: 4 | H227: 2 | I227: 7 | J227: 5 | K227: 26 | L227: 31 | O227: KCN101000 | P227: Nguyễn Quang Hưng | T227: x | U227: x | AF227: 10 | AG227: HTTT | AH227: CN | AI227: 3 | AJ227: 45 | AK227: 30 | AL227: 8 | AN227: 6 | AO227: 1
+B228: INT13162 | C228: Lập trình với Python | D228: 99 | E228: 02 | G228: 4 | H228: 2 | I228: 7 | J228: 3 | K228: 26 | L228: 31 | O228: KCN101000 | P228: Nguyễn Quang Hưng | V228: x | AF228: 3 | AG228: HTTT | AH228: CN | AI228: 3 | AJ228: 45 | AK228: 30 | AL228: 8 | AN228: 6 | AO228: 1
+B229: INT13162 | C229: Lập trình với Python | D229: 99 | F229: 01 | G229: 3 | H229: 3 | I229: 12 | J229: 4 | K229: 26 | L229: Code.ptit.edu.vn | M229: Online | O229: KCN101000 | P229: Nguyễn Quang Hưng | U229: x | V229: x | W229: x | AF229: 12 | AG229: HTTT | AH229: CN | AI229: 3 | AJ229: 45 | AK229: 30 | AL229: 8 | AN229: 6 | AO229: 1
+A230: 70 | B230: ELE1318 | C230: Lý thuyết mạch | D230: 99 | G230: 2 | H230: 1 | I230: 1 | J230: 5 | K230: 27 | L230: 36 | N230: Vấn đáp | O230: KDT100229 | P230: Nguyễn Quốc Dinh | T230: x | U230: x | V230: x | W230: x | X230: x | AF230: 25 | AH230: ĐT | AI230: 3 | AJ230: 45 | AK230: 32 | AL230: 6 | AN230: 6 | AO230: 1
+B231: ELE1318 | C231: Lý thuyết mạch | D231: 99 | E231: 01 | G231: 3 | H231: 1 | I231: 1 | J231: 5 | K231: 27 | L231: 35 | N231: Vấn đáp | O231: KDT100229 | P231: Nguyễn Quốc Dinh | T231: x | U231: x | V231: x | AF231: 15 | AH231: ĐT | AI231: 3 | AJ231: 45 | AK231: 32 | AL231: 6 | AN231: 6 | AO231: 1
+B232: ELE1318 | C232: Lý thuyết mạch | D232: 99 | E232: 02 | G232: 3 | H232: 1 | I232: 1 | J232: 3 | K232: 27 | L232: 35 | N232: Vấn đáp | O232: KDT100229 | P232: Nguyễn Quốc Dinh | W232: x | AF232: 3 | AH232: ĐT | AI232: 3 | AJ232: 45 | AK232: 32 | AL232: 6 | AN232: 6 | AO232: 1
+B233: ELE1318 | C233: Lý thuyết mạch | D233: 99 | F233: 01 | G233: 5 | H233: 2 | I233: 7 | J233: 4 | K233: 27 | L233: 608 | M233: A3 | O233: KDT100229 | P233: Nguyễn Quốc Dinh | U233: x | V233: x | X233: x | AF233: 12 | AH233: ĐT | AI233: 3 | AJ233: 45 | AK233: 32 | AL233: 6 | AN233: 6 | AO233: 1
+A234: 71 | B234: INT1339_CLC | C234: Ngôn ngữ lập trình C++ | D234: 99 | G234: 2 | H234: 2 | I234: 7 | J234: 5 | K234: 27 | L234: 35 | O234: KCN100356 | P234: Đỗ Thị Liên | T234: x | U234: x | V234: x | W234: x | X234: x | AF234: 25 | AG234: CNPM | AH234: CN | AI234: 3 | AJ234: 45 | AK234: 30 | AL234: 8 | AN234: 6 | AO234: 1
+B235: INT1339_CLC | C235: Ngôn ngữ lập trình C++ | D235: 99 | E235: 01 | G235: 3 | H235: 2 | I235: 7 | J235: 5 | K235: 27 | L235: 37 | O235: KCN100356 | P235: Đỗ Thị Liên | T235: x | U235: x | V235: x | AF235: 15 | AG235: CNPM | AH235: CN | AI235: 3 | AJ235: 45 | AK235: 30 | AL235: 8 | AN235: 6 | AO235: 1
+B236: INT1339_CLC | C236: Ngôn ngữ lập trình C++ | D236: 99 | E236: 02 | G236: 3 | H236: 2 | I236: 7 | J236: 3 | K236: 27 | L236: 37 | O236: KCN100356 | P236: Đỗ Thị Liên | W236: x | AF236: 3 | AG236: CNPM | AH236: CN | AI236: 3 | AJ236: 45 | AK236: 30 | AL236: 8 | AN236: 6 | AO236: 1
+B237: INT1339_CLC | C237: Ngôn ngữ lập trình C++ | D237: 99 | F237: 01 | G237: 4 | H237: 3 | I237: 12 | J237: 4 | K237: 27 | L237: Code.ptit.edu.vn | M237: Online | P237: Nguyễn Đình Hiến | U237: x | V237: x | W237: x | AF237: 12 | AG237: CNPM | AH237: CN | AI237: 3 | AJ237: 45 | AK237: 30 | AL237: 8 | AN237: 6 | AO237: 1
+A238: 72 | B238: INT1405 | C238: Các hệ thống phân tán | D238: 99 | G238: 6 | H238: 2 | I238: 7 | J238: 5 | K238: 27 | L238: 33 | M238: 33 | O238: KCN100968 | P238: Kim Ngọc Bách | T238: x | U238: x | V238: x | W238: x | X238: x | AF238: 25 | AG238: HTTT | AH238: CN | AI238: 3 | AJ238: 45 | AK238: 36 | AL238: 8 | AO238: 1
+B239: INT1405 | C239: Các hệ thống phân tán | D239: 99 | E239: 01 | G239: 7 | H239: 2 | I239: 7 | J239: 5 | K239: 27 | L239: 28 | O239: KCN100968 | P239: Kim Ngọc Bách | T239: x | U239: x | V239: x | AF239: 15 | AG239: HTTT | AH239: CN | AI239: 3 | AJ239: 45 | AK239: 36 | AL239: 8 | AO239: 1
+B240: INT1405 | C240: Các hệ thống phân tán | D240: 99 | E240: 02 | G240: 7 | H240: 2 | I240: 7 | J240: 4 | K240: 27 | L240: 28 | O240: KCN100968 | P240: Kim Ngọc Bách | W240: x | AF240: 4 | AG240: HTTT | AH240: CN | AI240: 3 | AJ240: 45 | AK240: 36 | AL240: 8 | AO240: 1
+A241: 73 | B241: ELE13101 | C241: Xử lý tín hiệu số | D241: 99 | G241: 4 | H241: 2 | I241: 7 | J241: 5 | K241: 28 | L241: 33 | O241: KDT100227 | P241: Trần Tuấn Anh | T241: x | U241: x | V241: x | W241: x | X241: x | AF241: 25 | AH241: ĐT | AI241: 3 | AJ241: 45 | AK241: 30 | AL241: 14 | AO241: 1
+B242: ELE13101 | C242: Xử lý tín hiệu số | D242: 99 | E242: 01 | G242: 5 | H242: 2 | I242: 7 | J242: 5 | K242: 28 | L242: 29 | M242: 29 | O242: KDT100227 | P242: Trần Tuấn Anh | T242: x | U242: x | V242: x | AF242: 15 | AH242: ĐT | AI242: 3 | AJ242: 45 | AK242: 30 | AL242: 14 | AO242: 1
+B243: ELE13101 | C243: Xử lý tín hiệu số | D243: 99 | E243: 02 | G243: 5 | H243: 2 | I243: 7 | J243: 4 | K243: 28 | L243: 29 | M243: 29 | O243: KDT100227 | P243: Trần Tuấn Anh | X243: x | AF243: 4 | AH243: ĐT | AI243: 3 | AJ243: 45 | AK243: 30 | AL243: 14 | AO243: 1
+A244: 74 | B244: ELE1423 | C244: Thiết kế hệ thống VLSI | D244: 99 | G244: 6 | H244: 1 | I244: 1 | J244: 5 | K244: 28 | L244: 34 | N244: vấn đáp | O244: KDT100232 | P244: Trương Cao Dũng | T244: x | U244: x | V244: x | W244: x | X244: x | AF244: 25 | AH244: ĐT | AI244: 2 | AJ244: 30 | AK244: 24 | AL244: 6 | AO244: 0
+B245: ELE1423 | C245: Thiết kế hệ thống VLSI | D245: 99 | E245: 01 | G245: 7 | H245: 1 | I245: 1 | J245: 5 | K245: 28 | L245: 27 | N245: vấn đáp | O245: KDT100232 | P245: Trương Cao Dũng | U245: x | AF245: 5 | AH245: ĐT | AI245: 2 | AJ245: 30 | AK245: 24 | AL245: 6 | AO245: 0
+A246: 75 | B246: BAS1153 | C246: Lịch sử Đảng cộng sản Việt Nam | D246: 99 | G246: 3 | H246: 2 | I246: 7 | J246: 5 | K246: 29 | L246: 38 | N246: Tự luận | O246: KCB100194 | P246: Đỗ Thị Diệu | T246: x | U246: x | V246: x | W246: x | X246: x | AF246: 25 | AG246: ML | AH246: CB | AI246: 2 | AJ246: 30 | AK246: 24 | AL246: 6 | AO246: 0
+B247: BAS1153 | C247: Lịch sử Đảng cộng sản Việt Nam | D247: 99 | E247: 01 | G247: 7 | H247: 2 | I247: 7 | J247: 5 | K247: 29 | L247: 29 | N247: Tự luận | O247: KCB100194 | P247: Đỗ Thị Diệu | U247: x | AF247: 5 | AG247: ML | AH247: CB | AI247: 2 | AJ247: 30 | AK247: 24 | AL247: 6 | AO247: 0
+A248: 76 | B248: INT1449 | C248: Phát triển ứng dụng cho các thiết bị di động | D248: 99 | G248: 2 | H248: 1 | I248: 1 | J248: 5 | K248: 29 | L248: 37 | O248: KCN100246 | P248: Nguyễn Hoàng Anh | T248: x | U248: x | V248: x | W248: x | X248: x | AF248: 25 | AG248: CNPM | AH248: CN | AI248: 3 | AJ248: 45 | AK248: 30 | AL248: 8 | AN248: 6 | AO248: 1
+B249: INT1449 | C249: Phát triển ứng dụng cho các thiết bị di động | D249: 99 | E249: 01 | G249: 3 | H249: 1 | I249: 1 | J249: 5 | K249: 29 | L249: 36 | O249: KCN100246 | P249: Nguyễn Hoàng Anh | T249: x | U249: x | V249: x | AF249: 15 | AG249: CNPM | AH249: CN | AI249: 3 | AJ249: 45 | AK249: 30 | AL249: 8 | AN249: 6 | AO249: 1
+B250: INT1449 | C250: Phát triển ứng dụng cho các thiết bị di động | D250: 99 | E250: 02 | G250: 3 | H250: 1 | I250: 1 | J250: 3 | K250: 29 | L250: 36 | O250: KCN100246 | P250: Nguyễn Hoàng Anh | W250: x | AF250: 3 | AG250: CNPM | AH250: CN | AI250: 3 | AJ250: 45 | AK250: 30 | AL250: 8 | AN250: 6 | AO250: 1
+B251: INT1449 | C251: Phát triển ứng dụng cho các thiết bị di động | D251: 99 | F251: 01 | G251: 6 | H251: 1 | I251: 2 | J251: 4 | K251: 29 | L251: 503 | M251: A3 | O251: KCN100246 | P251: Nguyễn Hoàng Anh | U251: x | V251: x | W251: x | AF251: 12 | AG251: CNPM | AH251: CN | AI251: 3 | AJ251: 45 | AK251: 30 | AL251: 8 | AN251: 6 | AO251: 1
+A252: 77 | B252: TEL1342 | C252: Cấu trúc dữ liệu và giải thuật | D252: 99 | G252: 2 | H252: 2 | I252: 7 | J252: 5 | K252: 29 | L252: 36 | O252: KVT100905 | P252: Nguyễn Hữu Cầm | T252: x | U252: x | V252: x | W252: x | X252: x | AF252: 25 | AH252: VT | AI252: 3 | AJ252: 45 | AK252: 32 | AL252: 8 | AN252: 4 | AO252: 1
+B253: TEL1342 | C253: Cấu trúc dữ liệu và giải thuật | D253: 99 | E253: 01 | G253: 3 | H253: 2 | I253: 7 | J253: 5 | K253: 29 | L253: 39 | O253: KVT100905 | P253: Nguyễn Hữu Cầm | T253: x | U253: x | V253: x | AF253: 15 | AH253: VT | AI253: 3 | AJ253: 45 | AK253: 32 | AL253: 8 | AN253: 4 | AO253: 1
+B254: TEL1342 | C254: Cấu trúc dữ liệu và giải thuật | D254: 99 | F254: 01 | G254: 6 | H254: 1 | I254: 2 | J254: 4 | K254: 29 | L254: 511 | M254: A3 | O254: KVT100905 | P254: Nguyễn Hữu Cầm | W254: x | X254: x | AF254: 8 | AH254: VT | AI254: 3 | AJ254: 45 | AK254: 32 | AL254: 8 | AN254: 4 | AO254: 1
+A255: 78 | B255: BAS1201 | C255: Đại số | D255: 99 | G255: 4 | H255: 1 | I255: 1 | J255: 5 | K255: 30 | L255: 35 | O255: KCB100224 | P255: Lê Bá Long | T255: x | U255: x | V255: x | W255: x | X255: x | AF255: 25 | AG255: TO | AH255: CB | AI255: 3 | AJ255: 45 | AK255: 36 | AL255: 8 | AO255: 1
+B256: BAS1201 | C256: Đại số | D256: 99 | E256: 01 | G256: 5 | H256: 1 | I256: 1 | J256: 5 | K256: 30 | L256: 37 | O256: KCB100224 | P256: Lê Bá Long | T256: x | U256: x | V256: x | AF256: 15 | AG256: TO | AH256: CB | AI256: 3 | AJ256: 45 | AK256: 36 | AL256: 8 | AO256: 1
+B257: BAS1201 | C257: Đại số | D257: 99 | E257: 02 | G257: 5 | H257: 1 | I257: 1 | J257: 4 | K257: 30 | L257: 37 | O257: KCB100224 | P257: Lê Bá Long | X257: x | AF257: 4 | AG257: TO | AH257: CB | AI257: 3 | AJ257: 45 | AK257: 36 | AL257: 8 | AO257: 1
+A258: 79 | B258: BAS1152 | C258: Chủ nghĩa xã hội khoa học | D258: 99 | G258: 3 | H258: 1 | I258: 1 | J258: 5 | K258: 31 | L258: 37 | N258: Tự luận | O258: KCB100201 | P258: Phạm Thị Khánh | T258: x | U258: x | V258: x | W258: x | X258: x | AF258: 25 | AG258: ML | AH258: CB | AI258: 2 | AJ258: 30 | AK258: 24 | AL258: 6 | AO258: 0
+B259: BAS1152 | C259: Chủ nghĩa xã hội khoa học | D259: 99 | E259: 01 | G259: 5 | H259: 2 | I259: 7 | J259: 5 | K259: 31 | L259: 30 | M259: 30 | N259: Tự luận | O259: KCB100201 | P259: Phạm Thị Khánh | U259: x | AF259: 5 | AG259: ML | AH259: CB | AI259: 2 | AJ259: 30 | AK259: 24 | AL259: 6 | AO259: 0
+A260: 80 | B260: ELE1309 | C260: Điện tử số | D260: 99 | G260: 2 | H260: 1 | I260: 1 | J260: 5 | K260: 31 | N260: vấn đáp | O260: KDT100233 | P260: Vũ Anh Đào | T260: x | U260: x | V260: x | W260: x | X260: x | AF260: 25 | AH260: ĐT | AI260: 3 | AJ260: 45 | AK260: 32 | AL260: 2 | AM260: 6 | AN260: 4 | AO260: 1
+B261: ELE1309 | C261: Điện tử số | D261: 99 | E261: 01 | G261: 5 | H261: 2 | I261: 7 | J261: 5 | K261: 31 | L261: 31 | M261: 31 | N261: vấn đáp | O261: KDT100233 | P261: Vũ Anh Đào | T261: x | U261: x | V261: x | AF261: 15 | AH261: ĐT | AI261: 3 | AJ261: 45 | AK261: 32 | AL261: 2 | AM261: 6 | AN261: 4 | AO261: 1
+B262: ELE1309 | C262: Điện tử số | D262: 99 | F262: 01 | G262: 2 | H262: 1 | I262: 2 | J262: 4 | K262: 31 | L262: 608 | M262: A3 | O262: KDT100233 | P262: Vũ Anh Đào | W262: x | X262: x | AF262: 8 | AH262: ĐT | AI262: 3 | AJ262: 45 | AK262: 32 | AL262: 2 | AM262: 6 | AN262: 4 | AO262: 1
+A263: 81 | B263: INT1341 | C263: Nhập môn trí tuệ nhân tạo | D263: 99 | G263: 2 | H263: 2 | I263: 7 | J263: 5 | K263: 32 | L263: 37 | O263: KCN100274 | P263: Vũ Hoài Thư | T263: x | U263: x | V263: x | W263: x | X263: x | AF263: 25 | AG263: KHMT | AH263: CN | AI263: 3 | AJ263: 45 | AK263: 36 | AL263: 8 | AO263: 1
+B264: INT1341 | C264: Nhập môn trí tuệ nhân tạo | D264: 99 | E264: 01 | G264: 3 | H264: 1 | I264: 5 | J264: 5 | K264: 32 | L264: 38 | O264: KCN100274 | P264: Vũ Hoài Thư | T264: x | U264: x | V264: x | AF264: 15 | AG264: KHMT | AH264: CN | AI264: 3 | AJ264: 45 | AK264: 36 | AL264: 8 | AO264: 1
+B265: INT1341 | C265: Nhập môn trí tuệ nhân tạo | D265: 99 | E265: 02 | G265: 3 | H265: 1 | I265: 5 | J265: 4 | K265: 32 | L265: 38 | O265: KCN100274 | P265: Vũ Hoài Thư | W265: x | AF265: 4 | AG265: KHMT | AH265: CN | AI265: 3 | AJ265: 45 | AK265: 36 | AL265: 8 | AO265: 1
+A266: 82 | B266: INT1332 | C266: Lập trình hướng đối tượng | D266: 99 | G266: 2 | H266: 1 | I266: 1 | J266: 5 | K266: 33 | L266: 38 | O266: KCN100248 | P266: Trịnh Thị Vân Anh | T266: x | U266: x | V266: x | W266: x | X266: x | AF266: 25 | AG266: CNPM | AH266: CN | AI266: 3 | AJ266: 45 | AK266: 30 | AL266: 8 | AN266: 6 | AO266: 1
+B267: INT1332 | C267: Lập trình hướng đối tượng | D267: 99 | E267: 01 | G267: 3 | H267: 1 | I267: 1 | J267: 5 | K267: 33 | L267: 39 | O267: KCN100248 | P267: Trịnh Thị Vân Anh | T267: x | U267: x | AF267: 10 | AG267: CNPM | AH267: CN | AI267: 3 | AJ267: 45 | AK267: 30 | AL267: 8 | AN267: 6 | AO267: 1
+B268: INT1332 | C268: Lập trình hướng đối tượng | D268: 99 | E268: 02 | G268: 3 | H268: 1 | I268: 1 | J268: 5 | K268: 33 | L268: 39 | O268: KCN100248 | P268: Trịnh Thị Vân Anh | V268: x | AF268: 5 | AG268: CNPM | AH268: CN | AI268: 3 | AJ268: 45 | AK268: 30 | AL268: 8 | AN268: 6 | AO268: 1
+B269: INT1332 | C269: Lập trình hướng đối tượng | D269: 99 | F269: 01 | G269: 4 | H269: 3 | I269: 12 | J269: 4 | K269: 33 | L269: Code.ptit.edu.vn | M269: Online | O269: KCN100248 | P269: Trịnh Thị Vân Anh | U269: x | V269: x | W269: x | AF269: 12 | AG269: CNPM | AH269: CN | AI269: 3 | AJ269: 45 | AK269: 30 | AL269: 8 | AN269: 6 | AO269: 1
+A270: 83 | B270: INT1427 | C270: Kiến trúc và thiết kế phần mềm | D270: 99 | G270: 4 | H270: 1 | I270: 5 | J270: 5 | K270: 33 | L270: 36 | O270: KCN100264 | P270: Nguyễn Mạnh Hùng | T270: x | U270: x | V270: x | W270: x | X270: x | AF270: 25 | AG270: CNPM | AH270: CN | AI270: 3 | AJ270: 45 | AK270: 36 | AL270: 8 | AO270: 1
+B271: INT1427 | C271: Kiến trúc và thiết kế phần mềm | D271: 99 | E271: 01 | G271: 5 | H271: 1 | I271: 5 | J271: 5 | K271: 33 | L271: 38 | O271: KCN100264 | P271: Nguyễn Mạnh Hùng | T271: x | U271: x | V271: x | AF271: 15 | AG271: CNPM | AH271: CN | AI271: 3 | AJ271: 45 | AK271: 36 | AL271: 8 | AO271: 1
+B272: INT1427 | C272: Kiến trúc và thiết kế phần mềm | D272: 99 | E272: 02 | G272: 5 | H272: 1 | I272: 5 | J272: 4 | K272: 33 | L272: 38 | O272: KCN100264 | P272: Nguyễn Mạnh Hùng | X272: x | AF272: 4 | AG272: CNPM | AH272: CN | AI272: 3 | AJ272: 45 | AK272: 36 | AL272: 8 | AO272: 1
+A273: 84 | B273: TEL1407 | C273: Kỹ thuật thông tin vô tuyến | D273: 99 | G273: 4 | H273: 1 | I273: 1 | J273: 5 | K273: 33 | L273: 37 | N273: Tự Luận | O273: KVT100292 | P273: Nguyễn Viết Đảm | T273: x | U273: x | V273: x | W273: x | X273: x | AF273: 25 | AG273: VT | AH273: VT | AI273: 3 | AJ273: 45 | AK273: 32 | AL273: 8 | AN273: 4 | AO273: 1
+B274: TEL1407 | C274: Kỹ thuật thông tin vô tuyến | D274: 99 | E274: 01 | G274: 5 | H274: 1 | I274: 1 | J274: 5 | K274: 33 | L274: 39 | N274: Tự Luận | O274: KVT100292 | P274: Nguyễn Viết Đảm | T274: x | U274: x | V274: x | AF274: 15 | AG274: VT | AH274: VT | AI274: 3 | AJ274: 45 | AK274: 32 | AL274: 8 | AN274: 4 | AO274: 1
+B275: TEL1407 | C275: Kỹ thuật thông tin vô tuyến | D275: 99 | F275: 01 | G275: 5 | H275: 2 | I275: 7 | J275: 4 | K275: 33 | L275: Lab-4G | M275: A2 | N275: Tự Luận | O275: KVT100292 | P275: Nguyễn Viết Đảm | V275: x | X275: x | AF275: 8 | AG275: VT | AH275: VT | AI275: 3 | AJ275: 45 | AK275: 32 | AL275: 8 | AN275: 4 | AO275: 1
+A276: 85 | B276: INT1358 | C276: Toán rời rạc 1 | D276: 99 | G276: 6 | H276: 2 | I276: 7 | J276: 5 | K276: 35 | L276: 34 | M276: 34 | O276: KCN100269 | P276: Đào Thị Thuý Quỳnh | T276: x | U276: x | V276: x | W276: x | X276: x | AF276: 25 | AG276: KHMT | AH276: CN | AI276: 3 | AJ276: 45 | AK276: 36 | AL276: 8 | AO276: 1
+B277: INT1358 | C277: Toán rời rạc 1 | D277: 99 | E277: 01 | G277: 5 | H277: 2 | I277: 7 | J277: 5 | K277: 35 | L277: 32 | M277: 32 | O277: KCN100269 | P277: Đào Thị Thuý Quỳnh | T277: x | U277: x | V277: x | AF277: 15 | AG277: KHMT | AH277: CN | AI277: 3 | AJ277: 45 | AK277: 36 | AL277: 8 | AO277: 1
+B278: INT1358 | C278: Toán rời rạc 1 | D278: 99 | E278: 02 | G278: 5 | H278: 2 | I278: 7 | J278: 4 | K278: 35 | L278: 32 | M278: 32 | O278: KCN100269 | P278: Đào Thị Thuý Quỳnh | X278: x | AF278: 4 | AG278: KHMT | AH278: CN | AI278: 3 | AJ278: 45 | AK278: 36 | AL278: 8 | AO278: 1
+A279: 86 | B279: BAS1160 | C279: Tiếng Anh (Course 3 Plus) | D279: 99 | G279: 6 | H279: 1 | I279: 1 | J279: 5 | K279: 37 | L279: 35 | N279: Tự luận | O279: KCB100216 | P279: Nguyễn Thị Thiết | T279: x | U279: x | V279: x | W279: x | X279: x | AF279: 25 | AG279: NN | AH279: CB | AI279: 2 | AJ279: 30 | AK279: 30 | AO279: 0
+B280: BAS1160 | C280: Tiếng Anh (Course 3 Plus) | D280: 99 | E280: 01 | G280: 4 | H280: 1 | I280: 1 | J280: 5 | K280: 37 | L280: 34 | N280: Tự luận | O280: KCB100216 | P280: Nguyễn Thị Thiết | X280: x | AF280: 5 | AG280: NN | AH280: CB | AI280: 2 | AJ280: 30 | AK280: 30 | AO280: 0
+A281: 87 | B281: INT13145 | C281: Kiến trúc máy tính | D281: 99 | G281: 4 | H281: 1 | I281: 5 | J281: 5 | K281: 38 | L281: 38 | O281: KCN100822 | P281: Đỗ Tiến Dũng | T281: x | U281: x | V281: x | W281: x | X281: x | AF281: 25 | AG281: KHMT | AH281: CN | AI281: 3 | AJ281: 45 | AK281: 36 | AL281: 8 | AO281: 1
+B282: INT13145 | C282: Kiến trúc máy tính | D282: 99 | E282: 01 | G282: 5 | H282: 1 | I282: 5 | J282: 5 | K282: 38 | L282: 40 | O282: KCN100822 | P282: Đỗ Tiến Dũng | T282: x | U282: x | V282: x | AF282: 15 | AG282: KHMT | AH282: CN | AI282: 3 | AJ282: 45 | AK282: 36 | AL282: 8 | AO282: 1
+B283: INT13145 | C283: Kiến trúc máy tính | D283: 99 | E283: 02 | G283: 5 | H283: 1 | I283: 5 | J283: 4 | K283: 38 | L283: 40 | O283: KCN100822 | P283: Đỗ Tiến Dũng | X283: x | AF283: 4 | AG283: KHMT | AH283: CN | AI283: 3 | AJ283: 45 | AK283: 36 | AL283: 8 | AO283: 1
+A284: 88 | B284: INT1433 | C284: Lập trình mạng | D284: 99 | G284: 2 | H284: 1 | I284: 1 | J284: 5 | K284: 39 | L284: 39 | O284: KCN100263 | P284: Đặng Ngọc Hùng | T284: x | U284: x | V284: x | W284: x | X284: x | AF284: 25 | AG284: CNPM | AH284: CN | AI284: 3 | AJ284: 45 | AK284: 30 | AL284: 8 | AN284: 6 | AO284: 1
+B285: INT1433 | C285: Lập trình mạng | D285: 99 | E285: 01 | G285: 3 | H285: 1 | I285: 1 | J285: 5 | K285: 39 | L285: 40 | O285: KCN100263 | P285: Đặng Ngọc Hùng | T285: x | U285: x | V285: x | AF285: 15 | AG285: CNPM | AH285: CN | AI285: 3 | AJ285: 45 | AK285: 30 | AL285: 8 | AN285: 6 | AO285: 1
+B286: INT1433 | C286: Lập trình mạng | D286: 99 | E286: 02 | G286: 3 | H286: 1 | I286: 1 | J286: 3 | K286: 39 | L286: 40 | O286: KCN100263 | P286: Đặng Ngọc Hùng | W286: x | AF286: 3 | AG286: CNPM | AH286: CN | AI286: 3 | AJ286: 45 | AK286: 30 | AL286: 8 | AN286: 6 | AO286: 1
+B287: INT1433 | C287: Lập trình mạng | D287: 99 | F287: 01 | G287: 8 | H287: 2 | I287: 7 | J287: 4 | K287: 39 | L287: 611 | M287: A3 | O287: KCN100263 | P287: Đặng Ngọc Hùng | U287: x | V287: x | W287: x | AF287: 12 | AG287: CNPM | AH287: CN | AI287: 3 | AJ287: 45 | AK287: 30 | AL287: 8 | AN287: 6 | AO287: 1
+A288: 89 | B288: BAS1122 | C288: Tư tưởng Hồ Chí Minh | D288: 99 | G288: 4 | H288: 2 | I288: 7 | J288: 5 | K288: 42 | L288: 34 | N288: Tự luận | O288: KCB100194 | P288: Đỗ Thị Diệu | T288: x | U288: x | V288: x | W288: x | X288: x | AF288: 25 | AG288: ML | AH288: CB | AI288: 2 | AJ288: 30 | AK288: 24 | AL288: 6 | AO288: 0
+B289: BAS1122 | C289: Tư tưởng Hồ Chí Minh | D289: 99 | E289: 01 | G289: 7 | H289: 2 | I289: 7 | J289: 5 | K289: 42 | L289: 29 | N289: Tự luận | O289: KCB100194 | P289: Đỗ Thị Diệu | V289: x | AF289: 5 | AG289: ML | AH289: CB | AI289: 2 | AJ289: 30 | AK289: 24 | AL289: 6 | AO289: 0
+A290: 90 | B290: BAS1151 | C290: Kinh tế chính trị Mác- Lênin | D290: 99 | G290: 4 | H290: 1 | I290: 1 | J290: 5 | K290: 42 | L290: 39 | N290: Tự luận | O290: KCB100205 | P290: Đào Mạnh Ninh | T290: x | U290: x | V290: x | W290: x | X290: x | AF290: 25 | AG290: ML | AH290: CB | AI290: 2 | AJ290: 30 | AK290: 24 | AL290: 6 | AO290: 0
+B291: BAS1151 | C291: Kinh tế chính trị Mác- Lênin | D291: 99 | E291: 01 | G291: 5 | H291: 1 | I291: 1 | J291: 5 | K291: 42 | L291: 27 | N291: Tự luận | O291: KCB100205 | P291: Đào Mạnh Ninh | V291: x | AF291: 5 | AG291: ML | AH291: CB | AI291: 2 | AJ291: 30 | AK291: 24 | AL291: 6 | AO291: 0
+A292: 92 | B292: INT1434 | C292: Lập trình Web | D292: 99 | G292: 2 | H292: 1 | I292: 1 | J292: 5 | K292: 43 | L292: 40 | O292: KCN101000 | P292: Nguyễn Quang Hưng | T292: x | U292: x | V292: x | W292: x | X292: x | AF292: 25 | AG292: HTTT | AH292: CN | AI292: 3 | AJ292: 45 | AK292: 30 | AL292: 8 | AN292: 6 | AO292: 1
+B293: INT1434 | C293: Lập trình Web | D293: 99 | E293: 01 | G293: 6 | H293: 2 | I293: 7 | J293: 5 | K293: 43 | L293: 35 | M293: 35 | O293: KCN101000 | P293: Nguyễn Quang Hưng | T293: x | U293: x | AF293: 10 | AG293: HTTT | AH293: CN | AI293: 3 | AJ293: 45 | AK293: 30 | AL293: 8 | AN293: 6 | AO293: 1
+B294: INT1434 | C294: Lập trình Web | D294: 99 | E294: 02 | G294: 6 | H294: 2 | I294: 7 | J294: 3 | K294: 43 | L294: 35 | M294: 35 | O294: KCN101000 | P294: Nguyễn Quang Hưng | V294: x | AF294: 3 | AG294: HTTT | AH294: CN | AI294: 3 | AJ294: 45 | AK294: 30 | AL294: 8 | AN294: 6 | AO294: 1
+B295: INT1434 | C295: Lập trình Web | D295: 99 | F295: 01 | G295: 5 | H295: 2 | I295: 7 | J295: 4 | K295: 43 | L295: 609 | M295: A3 | O295: KCN101000 | P295: Nguyễn Quang Hưng | U295: x | V295: x | X295: x | AF295: 12 | AG295: HTTT | AH295: CN | AI295: 3 | AJ295: 45 | AK295: 30 | AL295: 8 | AN295: 6 | AO295: 1
+A296: 92 | B296: ELE1319 | C296: Lý thuyết thông tin | D296: 99 | G296: 4 | H296: 2 | I296: 7 | J296: 5 | K296: 45 | L296: 35 | O296: KDT100239 | P296: Nguyễn Thị Hương Thảo | T296: x | U296: x | V296: x | W296: x | X296: x | AF296: 25 | AH296: ĐT | AI296: 3 | AJ296: 45 | AK296: 36 | AL296: 8 | AO296: 1
+B297: ELE1319 | C297: Lý thuyết thông tin | D297: 99 | E297: 01 | G297: 5 | H297: 2 | I297: 7 | J297: 5 | K297: 45 | L297: 33 | M297: 33 | O297: KDT100239 | P297: Nguyễn Thị Hương Thảo | T297: x | U297: x | V297: x | AF297: 15 | AH297: ĐT | AI297: 3 | AJ297: 45 | AK297: 36 | AL297: 8 | AO297: 1
+B298: ELE1319 | C298: Lý thuyết thông tin | D298: 99 | E298: 02 | G298: 5 | H298: 2 | I298: 7 | J298: 4 | K298: 45 | L298: 33 | M298: 33 | O298: KDT100239 | P298: Nguyễn Thị Hương Thảo | X298: x | AF298: 4 | AH298: ĐT | AI298: 3 | AJ298: 45 | AK298: 36 | AL298: 8 | AO298: 1
+A299: 93 | B299: BAS1224 | C299: Vật lý 1 và thí nghiệm | D299: 99 | G299: 6 | H299: 1 | I299: 1 | J299: 5 | K299: 51 | L299: 36 | N299: Tự luận | O299: KCB100214 | P299: Lê Thị Minh Thanh | T299: x | U299: x | V299: x | W299: x | X299: x | AF299: 25 | AG299: VL | AH299: CB | AI299: 4 | AJ299: 60 | AK299: 46 | AL299: 6 | AN299: 8 | AO299: 0
+B300: BAS1224 | C300: Vật lý 1 và thí nghiệm | D300: 99 | E300: 01 | G300: 7 | H300: 1 | I300: 1 | J300: 5 | K300: 51 | L300: 37 | N300: Tự luận | O300: KCB100214 | P300: Lê Thị Minh Thanh | T300: x | U300: x | V300: x | W300: x | X300: x | AF300: 25 | AG300: VL | AH300: CB | AI300: 4 | AJ300: 60 | AK300: 46 | AL300: 6 | AN300: 8 | AO300: 0
+B301: BAS1224 | C301: Vật lý 1 và thí nghiệm | D301: 99 | E301: 02 | G301: 2 | H301: 1 | I301: 1 | J301: 2 | K301: 51 | L301: 41 | N301: Tự luận | O301: KCB100214 | P301: Lê Thị Minh Thanh | T301: x | AF301: 2 | AG301: VL | AH301: CB | AI301: 4 | AJ301: 60 | AK301: 46 | AL301: 6 | AN301: 8 | AO301: 0
+B302: BAS1224 | C302: Vật lý 1 và thí nghiệm | D302: 99 | F302: 01 | G302: 8 | H302: 1 | I302: 2 | J302: 4 | K302: 17 | L302: 602 | M302: A3 | O302: KCB100214 | P302: Lê Thị Minh Thanh | U302: x | AF302: 4 | AG302: VL | AH302: CB | AI302: 4 | AJ302: 60 | AK302: 46 | AL302: 6 | AN302: 8 | AO302: 0
+B303: BAS1224 | C303: Vật lý 1 và thí nghiệm | D303: 99 | E303: 01 | F303: 01 | G303: 8 | H303: 1 | I303: 2 | J303: 4 | K303: 17 | L303: 606 | M303: A3 | O303: KCB100214 | P303: Lê Thị Minh Thanh | V303: x | AF303: 4 | AG303: VL | AH303: CB | AI303: 4 | AJ303: 60 | AK303: 46 | AL303: 6 | AN303: 8 | AO303: 0
+B304: BAS1224 | C304: Vật lý 1 và thí nghiệm | D304: 99 | E304: 02 | F304: 01 | G304: 8 | H304: 1 | I304: 2 | J304: 4 | K304: 17 | L304: 508 | M304: A3 | P304: Lê Thị Minh Thanh | W304: x
+B305: BAS1224 | C305: Vật lý 1 và thí nghiệm | D305: 99 | E305: 03 | F305: 01 | G305: 8 | H305: 1 | I305: 2 | J305: 4 | K305: 17 | L305: 502 | M305: A3 | P305: Lê Thị Minh Thanh | X305: x
+B306: BAS1224 | C306: Vật lý 1 và thí nghiệm | D306: 99 | F306: 02 | G306: 8 | H306: 2 | I306: 6 | J306: 4 | K306: 17 | L306: 602 | M306: A3 | P306: Lê Thị Minh Thanh | U306: x
+B307: BAS1224 | C307: Vật lý 1 và thí nghiệm | D307: 99 | E307: 01 | F307: 02 | G307: 8 | H307: 2 | I307: 6 | J307: 4 | K307: 17 | L307: 606 | M307: A3 | P307: Lê Thị Minh Thanh | V307: x
+B308: BAS1224 | C308: Vật lý 1 và thí nghiệm | D308: 99 | E308: 02 | F308: 02 | G308: 8 | H308: 2 | I308: 6 | J308: 4 | K308: 17 | L308: 508 | M308: A3 | P308: Lê Thị Minh Thanh | W308: x
+B309: BAS1224 | C309: Vật lý 1 và thí nghiệm | D309: 99 | E309: 03 | F309: 02 | G309: 8 | H309: 2 | I309: 6 | J309: 4 | K309: 17 | L309: 502 | M309: A3 | P309: Lê Thị Minh Thanh | X309: x
+B310: BAS1224 | C310: Vật lý 1 và thí nghiệm | D310: 99 | F310: 03 | G310: 2 | H310: 1 | I310: 2 | J310: 4 | K310: 17 | L310: 602 | M310: A3 | P310: Lê Thị Minh Thanh | U310: x
+B311: BAS1224 | C311: Vật lý 1 và thí nghiệm | D311: 99 | E311: 01 | F311: 03 | G311: 2 | H311: 1 | I311: 2 | J311: 4 | K311: 17 | L311: 606 | M311: A3 | P311: Lê Thị Minh Thanh | V311: x
+B312: BAS1224 | C312: Vật lý 1 và thí nghiệm | D312: 99 | E312: 02 | F312: 03 | G312: 2 | H312: 1 | I312: 2 | J312: 4 | K312: 17 | L312: 508 | M312: A3 | O312: KCB100214 | P312: Lê Thị Minh Thanh | W312: x | AF312: 4 | AG312: VL | AH312: CB | AI312: 4 | AJ312: 60 | AK312: 46 | AL312: 6 | AN312: 8 | AO312: 0
+B313: BAS1224 | C313: Vật lý 1 và thí nghiệm | D313: 99 | E313: 03 | F313: 03 | G313: 2 | H313: 1 | I313: 2 | J313: 4 | K313: 17 | L313: 502 | M313: A3 | O313: KCB100214 | P313: Lê Thị Minh Thanh | X313: x | AF313: 4 | AG313: VL | AH313: CB | AI313: 4 | AJ313: 60 | AK313: 46 | AL313: 6 | AN313: 8 | AO313: 0
+A314: 94 | B314: INT1340 | C314: Nhập môn công nghệ phần mềm | D314: 99 | G314: 4 | H314: 2 | I314: 7 | J314: 5 | K314: 56 | L314: 36 | O314: KCN100926 | P314: Ngô Tiến Đức | T314: x | U314: x | V314: x | W314: x | X314: x | AF314: 25 | AG314: CNPM | AH314: CN | AI314: 3 | AJ314: 45 | AK314: 36 | AL314: 8 | AO314: 1
+B315: INT1340 | C315: Nhập môn công nghệ phần mềm | D315: 99 | E315: 01 | G315: 7 | H315: 2 | I315: 7 | J315: 5 | K315: 56 | L315: 30 | O315: KCN100926 | P315: Ngô Tiến Đức | T315: x | U315: x | V315: x | AF315: 15 | AG315: CNPM | AH315: CN | AI315: 3 | AJ315: 45 | AK315: 36 | AL315: 8 | AO315: 1
+B316: INT1340 | C316: Nhập môn công nghệ phần mềm | D316: 99 | E316: 02 | G316: 7 | H316: 2 | I316: 7 | J316: 4 | K316: 56 | L316: 30 | O316: KCN100926 | P316: Ngô Tiến Đức | W316: x | AF316: 4 | AG316: CNPM | AH316: CN | AI316: 3 | AJ316: 45 | AK316: 36 | AL316: 8 | AO316: 1
+A317: 95 | B317: BAS1204 | C317: Giải tích 2 | D317: 99 | G317: 5 | H317: 2 | I317: 7 | J317: 5 | K317: 57 | L317: 34 | M317: 34 | O317: TG0059 | P317: Nguyễn Đình Dương | U317: x | V317: x | X317: x | AF317: 15 | AG317: TO | AH317: CB | AI317: 3 | AJ317: 45 | AK317: 37 | AL317: 8 | AO317: 0
+B318: BAS1204 | C318: Giải tích 2 | D318: 99 | E318: 01 | G318: 6 | H318: 1 | I318: 1 | J318: 5 | K318: 57 | L318: 37 | O318: TG0059 | P318: Nguyễn Đình Dương | T318: x | U318: x | V318: x | W318: x | X318: x | AF318: 25 | AG318: TO | AH318: CB | AI318: 3 | AJ318: 45 | AK318: 37 | AL318: 8 | AO318: 0
+B319: BAS1204 | C319: Giải tích 2 | D319: 99 | E319: 02 | G319: 7 | H319: 1 | I319: 1 | J319: 5 | K319: 57 | L319: 38 | O319: TG0059 | P319: Nguyễn Đình Dương | X319: x | AF319: 5 | AG319: TO | AH319: CB | AI319: 3 | AJ319: 45 | AK319: 37 | AL319: 8 | AO319: 0
+A320: 96 | B320: INT1339 | C320: Ngôn ngữ lập trình C++ | D320: 99 | G320: 2 | H320: 2 | I320: 7 | J320: 5 | K320: 59 | L320: 38 | O320: KCN100261 | P320: Nguyễn Đình Hiến | T320: x | U320: x | V320: x | W320: x | X320: x | AF320: 25 | AG320: CNPM | AH320: CN | AI320: 3 | AJ320: 45 | AK320: 30 | AL320: 8 | AN320: 6 | AO320: 1
+B321: INT1339 | C321: Ngôn ngữ lập trình C++ | D321: 99 | E321: 01 | G321: 3 | H321: 2 | I321: 7 | J321: 5 | K321: 59 | L321: 40 | O321: KCN100261 | P321: Nguyễn Đình Hiến | T321: x | U321: x | AF321: 10 | AG321: CNPM | AH321: CN | AI321: 3 | AJ321: 45 | AK321: 30 | AL321: 8 | AN321: 6 | AO321: 1
+B322: INT1339 | C322: Ngôn ngữ lập trình C++ | D322: 99 | E322: 02 | G322: 3 | H322: 2 | I322: 7 | J322: 3 | K322: 59 | L322: 40 | O322: KCN100261 | P322: Nguyễn Đình Hiến | V322: x | AF322: 3 | AG322: CNPM | AH322: CN | AI322: 3 | AJ322: 45 | AK322: 30 | AL322: 8 | AN322: 6 | AO322: 1
+B323: INT1339 | C323: Ngôn ngữ lập trình C++ | D323: 99 | F323: 01 | G323: 5 | H323: 3 | I323: 12 | J323: 4 | K323: 59 | L323: Code.ptit.edu.vn | M323: Online | O323: KCN100261 | P323: Nguyễn Đình Hiến | U323: x | V323: x | X323: x | AF323: 12 | AG323: CNPM | AH323: CN | AI323: 3 | AJ323: 45 | AK323: 30 | AL323: 8 | AN323: 6 | AO323: 1
+A324: 97 | B324: TEL1448 | C324: Lập trình hướng đối tượng | D324: 99 | G324: 4 | H324: 1 | I324: 1 | J324: 5 | K324: 87 | L324: 40 | O324: KVT100905 | P324: Nguyễn Hữu Cầm | T324: x | U324: x | V324: x | W324: x | X324: x | AF324: 25 | AH324: VT | AI324: 3 | AJ324: 45 | AK324: 32 | AL324: 4 | AN324: 8 | AO324: 1
+B325: TEL1448 | C325: Lập trình hướng đối tượng | D325: 99 | E325: 01 | G325: 5 | H325: 1 | I325: 1 | J325: 5 | K325: 87 | L325: 41 | O325: KVT100905 | P325: Nguyễn Hữu Cầm | T325: x | AF325: 5 | AH325: VT | AI325: 3 | AJ325: 45 | AK325: 32 | AL325: 4 | AN325: 8 | AO325: 1
+B326: TEL1448 | C326: Lập trình hướng đối tượng | D326: 99 | E326: 02 | G326: 5 | H326: 1 | I326: 1 | J326: 3 | K326: 87 | L326: 41 | O326: KVT100905 | P326: Nguyễn Hữu Cầm | U326: x | V326: x | AF326: 6 | AH326: VT | AI326: 3 | AJ326: 45 | AK326: 32 | AL326: 4 | AN326: 8 | AO326: 1
+B327: TEL1448 | C327: Lập trình hướng đối tượng | D327: 99 | F327: 01 | G327: 2 | H327: 1 | I327: 2 | J327: 4 | K327: 43 | L327: 609 | M327: A3 | O327: KVT100905 | P327: Nguyễn Hữu Cầm | W327: x | X327: x | AF327: 8 | AH327: VT | AI327: 3 | AJ327: 45 | AK327: 32 | AL327: 4 | AN327: 8 | AO327: 1
+B328: TEL1448 | C328: Lập trình hướng đối tượng | D328: 99 | F328: 02 | G328: 2 | H328: 2 | I328: 7 | J328: 4 | K328: 43 | L328: 609 | M328: A3 | O328: KVT100905 | P328: Nguyễn Hữu Cầm | W328: x | X328: x | AF328: 8 | AH328: VT | AI328: 3 | AJ328: 45 | AK328: 32 | AL328: 4 | AN328: 8 | AO328: 1
+A329: 98 | B329: INT1155 | C329: Tin học cơ sở 2 | D329: 99 | G329: 4 | H329: 2 | I329: 7 | J329: 5 | K329: 106 | L329: 37 | O329: KCN100261 | P329: Nguyễn Đinh Hiến | T329: x | U329: x | V329: x | W329: x | AF329: 20 | AG329: CNPM | AH329: CN | AI329: 2 | AJ329: 30 | AK329: 20 | AL329: 4 | AN329: 4 | AO329: 2
+B330: INT1155 | C330: Tin học cơ sở 2 | D330: 99 | E330: 01 | G330: 4 | H330: 2 | I330: 7 | J330: 4 | K330: 106 | L330: 37 | O330: KCN100261 | P330: Nguyễn Đinh Hiến | X330: x | AF330: 4 | AG330: CNPM | AH330: CN | AI330: 2 | AJ330: 30 | AK330: 20 | AL330: 4 | AN330: 4 | AO330: 2
+B331: INT1155 | C331: Tin học cơ sở 2 | D331: 99 | F331: 01 | G331: 5 | H331: 3 | I331: 12 | J331: 4 | K331: 32 | L331: Code.ptit.edu.vn | M331: Online | O331: KCN100261 | P331: Nguyễn Đinh Hiến | V331: x | AF331: 4 | AG331: CNPM | AH331: CN | AI331: 2 | AJ331: 30 | AK331: 20 | AL331: 4 | AN331: 4 | AO331: 2
+B332: INT1155 | C332: Tin học cơ sở 2 | D332: 99 | F332: 02 | G332: 6 | H332: 3 | I332: 12 | J332: 4 | K332: 32 | L332: Code.ptit.edu.vn | M332: Online | O332: KCN100261 | P332: Nguyễn Đinh Hiến | W332: x | AF332: 4 | AG332: CNPM | AH332: CN | AI332: 2 | AJ332: 30 | AK332: 20 | AL332: 4 | AN332: 4 | AO332: 2
+B333: INT1155 | C333: Tin học cơ sở 2 | D333: 99 | F333: 03 | G333: 5 | H333: 3 | I333: 12 | J333: 4 | K333: 32 | L333: Code.ptit.edu.vn | M333: Online | O333: KCN100261 | P333: Nguyễn Đinh Hiến | X333: x | AF333: 4 | AG333: CNPM | AH333: CN | AI333: 2 | AJ333: 30 | AK333: 20 | AL333: 4 | AN333: 4 | AO333: 2
+A334: 99.1 | B334: INT1306 | C334: Cấu trúc dữ liệu và giải thuật | D334: 99 | G334: 6 | H334: 1 | I334: 1 | J334: 5 | K334: 85 | L334: 38 | P334: Phạm Tuấn Minh | T334: x | U334: x | V334: x | W334: x | X334: x | AF334: 25 | AG334: CNPM | AH334: CN | AI334: 3 | AJ334: 45 | AK334: 31 | AL334: 8 | AN334: 6
+B335: INT1306 | C335: Cấu trúc dữ liệu và giải thuật | D335: 99 | E335: 01 | G335: 7 | H335: 1 | I335: 1 | J335: 5 | K335: 85 | L335: 38 | P335: Phạm Tuấn Minh | T335: x | U335: x | AF335: 10 | AG335: CNPM | AH335: CN | AI335: 3 | AJ335: 45 | AK335: 31 | AL335: 8 | AN335: 6
+B336: INT1306 | C336: Cấu trúc dữ liệu và giải thuật | D336: 99 | E336: 02 | G336: 7 | H336: 1 | I336: 1 | J336: 4 | K336: 85 | L336: 38 | P336: Phạm Tuấn Minh | V336: x | AF336: 4 | AG336: CNPM | AH336: CN | AI336: 3 | AJ336: 45 | AK336: 31 | AL336: 8 | AN336: 6
+A337: 99.1 | B337: INT1306 | C337: Cấu trúc dữ liệu và giải thuật | D337: 98 | G337: 2 | H337: 2 | I337: 7 | J337: 5 | K337: 85 | L337: 39 | O337: KCN100270 | P337: Nguyễn Mạnh Sơn | T337: x | U337: x | V337: x | W337: x | X337: x | AF337: 25 | AG337: CNPM | AH337: CN | AI337: 3 | AJ337: 45 | AK337: 31 | AL337: 8 | AN337: 6
+B338: INT1306 | C338: Cấu trúc dữ liệu và giải thuật | D338: 98 | E338: 01 | G338: 7 | H338: 2 | I338: 7 | J338: 5 | K338: 85 | L338: 31 | O338: KCN100270 | P338: Nguyễn Mạnh Sơn | T338: x | U338: x | AF338: 10 | AG338: CNPM | AH338: CN | AI338: 3 | AJ338: 45 | AK338: 31 | AL338: 8 | AN338: 6
+B339: INT1306 | C339: Cấu trúc dữ liệu và giải thuật | D339: 98 | E339: 02 | G339: 7 | H339: 2 | I339: 7 | J339: 4 | K339: 85 | L339: 31 | O339: KCN100270 | P339: Nguyễn Mạnh Sơn | V339: x | AF339: 4 | AG339: CNPM | AH339: CN | AI339: 3 | AJ339: 45 | AK339: 31 | AL339: 8 | AN339: 6
+B340: INT1306 | C340: Cấu trúc dữ liệu và giải thuật | D340: 99 | F340: 01 | G340: 2 | H340: 3 | I340: 12 | J340: 4 | K340: 42 | L340: Code.ptit.edu.vn | M340: Online | O340: KCN100270 | P340: Nguyễn Mạnh Sơn | U340: x | V340: x | W340: x | AF340: 12 | AG340: CNPM | AH340: CN | AI340: 3 | AJ340: 45 | AK340: 31 | AL340: 8 | AN340: 6
+B341: INT1306 | C341: Cấu trúc dữ liệu và giải thuật | D341: 99 | F341: 02 | G341: 3 | H341: 3 | I341: 12 | J341: 4 | K341: 42 | L341: Code.ptit.edu.vn | M341: Online | O341: KCN100270 | P341: Nguyễn Mạnh Sơn | U341: x | V341: x | W341: x | AF341: 12 | AG341: CNPM | AH341: CN | AI341: 3 | AJ341: 45 | AK341: 31 | AL341: 8 | AN341: 6
+B342: INT1306 | C342: Cấu trúc dữ liệu và giải thuật | D342: 99 | F342: 03 | G342: 4 | H342: 3 | I342: 12 | J342: 4 | K342: 42 | L342: Code.ptit.edu.vn | M342: Online | P342: Phạm Tuấn Minh | U342: x | V342: x | W342: x | AF342: 12 | AG342: CNPM | AH342: CN | AI342: 3 | AJ342: 45 | AK342: 31 | AL342: 8 | AN342: 6
+B343: INT1306 | C343: Cấu trúc dữ liệu và giải thuật | D343: 99 | F343: 04 | G343: 7 | H343: 3 | I343: 12 | J343: 4 | K343: 42 | L343: Code.ptit.edu.vn | M343: Online | P343: Phạm Tuấn Minh | U343: x | V343: x | W343: x | AF343: 12 | AG343: CNPM | AH343: CN | AI343: 3 | AJ343: 45 | AK343: 31 | AL343: 8 | AN343: 6

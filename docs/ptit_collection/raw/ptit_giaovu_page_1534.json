@@ -1,0 +1,100 @@
+{
+  "id": 1534,
+  "date": "2024-10-14T23:05:00",
+  "date_gmt": "2024-10-14T23:05:00",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?page_id=1534"
+  },
+  "modified": "2024-10-15T01:35:50",
+  "modified_gmt": "2024-10-15T01:35:50",
+  "slug": "thu-tuc-online",
+  "status": "publish",
+  "type": "page",
+  "link": "https://giaovu.ptit.edu.vn/quy-che-quy-dinh/thu-tuc-online/",
+  "title": {
+    "rendered": "Thủ tục Online"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"1534\" class=\"elementor elementor-1534\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-5d6abe6 e-flex e-con-boxed e-con e-parent\" data-id=\"5d6abe6\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-5e81568 elementor-widget elementor-widget-list-bai-viet-giaovu-3\" data-id=\"5e81568\" data-element_type=\"widget\" data-widget_type=\"list-bai-viet-giaovu-3.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t  \n            <ul class=\"posts-gv posts-gv-3 column-4\">\n                            </ul>\n            <div style=\"width: 100%; display: flex; flex-direction: column; align-items: center; gap: 30px\">\n    <img decoding=\"async\" src=\"/wp-content/images/empty-result.png\" width=\"200\"/>\n    <strong>Không có kết quả phù hợp !</strong>\n</div>\n\t\t\t                <!-- Pagination -->\n                                        \t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Hướng dẫn thủ tục hành chính, Các mẫu biểu sinh viên thường sử dụng Hướng dẫn thủ tục hành chính, Các mẫu biểu sinh viên thường sử dụng 07/10/2021 Thủ tục, mẫu biểu liên quan tới học phí, chế độ chính sách (14/11/2009 ) Thủ tục, mẫu biểu liên quan tới học phí, chế độ [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 1526,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit_layout_page",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-1534",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/pages/1534",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=1534"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/pages/1534/revisions"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/pages/1526"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=1534"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

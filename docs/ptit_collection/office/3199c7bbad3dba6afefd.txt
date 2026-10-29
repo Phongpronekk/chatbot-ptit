@@ -1,0 +1,116 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC CHƯƠNG TRÌNH PHÂN TÍCH DỮ LIỆU TRONG TÀI CHÍNH, KINH DOANH (NGÀNH TÀI CHÍNH NGÂN HÀNG)
+(Kèm theo Quyết định số        /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt): Tài chính ngân hàng
+- Tên ngành (tiếng Anh):Finace and Banking
+- Tên chương trình (tiếng Việt):Phân tích dữ liệu trong tài chính, kinh doanh
+- Tên chương trình (tiếng Anh):Data Analysis in Finance and Business
+- Trình độ đào tạo:Đại học
+- Mã ngành:7340201
+- Hình thức đào tạo:Chính quy
+MỤC TIÊU ĐÀO TẠO
+2.1. Mục tiêu chung (Goals)
+Chương trình đào tạo cử nhân Phân tích dữ liệu trong tài chính, kinh doanh (ngành Tài chính ngân hàng) nhằm đào tạo chuyên gia Phân tích và khai thác dữ liệu trong các lĩnh vực tài chính và kinh doanh, đáp ứng yêu cầu của nền kinh tế số. Sau khi tốt nghiệp, người học có nền tảng kiến thức vững chắc về tài chính, quản trị kinh doanh và khoa học dữ liệu; có khả năng vận dụng các phương pháp định lượng, mô hình phân tích va công cụ công nghệ để hỗ trợ ra quyết định trong doanh nghiệp và tổ chức tài chính. Đồng thời, chương trình phát triển tư duy phản biện, kỹ năng giao tiếp và làm việc chuyên nghiệp, ý thức đạo đức và trách nhiệm xã hội cũng như năng lực tự học và phát triển chuyên môn bền vững.
+Sinh viên ra trường sẽ nhận được bằng Cử nhân ngành Tài chính ngân hàng (định hướng Phân tích dữ liệu trong Tài chính, kinh doanh).
+ 2.2. Mục tiêu cụ thể (Program Objectives – POs):
+Chương trình đào tạo Phân tích dữ liệu trong tài chính, kinh doanh (ngành Tài chính ngân hàng) của Học viện Công nghệ Bưu chính Viễn thông nhằm:
+[PO1] Trang bị cho sinh viên nền tảng kiến thức vững chắc và có hệ thống về tài chính, ngân hàng, quản trị kinh doanh và khoa học dữ liệu để có thể phát triển năng lực chuyên môn sâu và hiểu biết rộng trong lĩnh vực tài chính – ngân hàng;
+[PO2] Phát triển năng lực phân tích dữ liệu, ứng dụng trí tuệ nhân tạo và các công nghệ số để giải quyết vấn đề tài chính – kinh doanh, từ xử lý dữ liệu đến triển khai mô hình và đánh giá kết quả; 
+[PO3] Hình thành tư duy phản biện, giúp sinh viên đánh giá, phân tích và phản biện các vấn đề, mô hình và kết luận trong lĩnh vực tài chính – kinh doanh dựa trên dữ liệu;
+[PO4] Phát triển kỹ năng giao tiếp chuyên nghiệp, trình bày rõ ràng kết quả phân tích và làm việc nhóm hiệu quả trong môi trường nghề nghiệp tài chính – kinh doanh; 
+[PO5] Bồi dưỡng phẩm chất đạo đức nghề nghiệp, ý thức tuân thủ pháp luật, tinh thần trách nhiệm cá nhân và cam kết phát triển bản thân để người học có thể thích ứng và thành công trong môi trường làm việc hiện đại.
+2.3. Vị trí làm việc sau tốt nghiệp
+Sau khi tốt nghiệp, sinh viên có đủ năng lực để đảm nhận các vị trí công việc sau:
+(a) Chuyên viên phân tích dữ liệu (Data Analyst), Chuyên viên phân tích kinh doanh (Business Analyst) tại các ngân hàng thương mại, công ty chứng khoán, công ty bảo hiểm, quỹ đầu tư, các tập đoàn kinh tế và doanh nghiệp, với nhiệm vụ xử lý số liệu, xây dựng báo cáo, phân tích xu hướng và hỗ trợ ra quyết định chiến lược.
+(b) Chuyên viên phân tích tài chính (Financial Analyst), Chuyên viên quản trị rủi ro trong các phòng ban Tài chính – Kế toán, Kiểm soát nội bộ, Quản trị rủi ro, hoặc Phòng Phân tích Đầu tư của các doanh nghiệp và tổ chức tài chính.
+(c) Chuyên viên dữ liệu/ Phân tích dữ liệu trong lĩnh vực Fintech và Ngân hàng số tại các công ty công nghệ tài chính, ngân hàng số, ví điện tử, nền tảng thanh toán.
+(d) Nghiên cứu viên/ Trợ lý nghiên cứu tại các viện nghiên cứu kinh tế, trung tâm phân tích chính sách, hoặc bộ phận Nghiên cứu & Phát triển (R&D) của các ngân hàng và tổ chức tài chính.
+(e) Giảng viên/ Chuyên viên đào tạo trong lĩnh vực tài chính, ngân hàng, phân tích dữ liệu tại các trường đại học, cao đẳng, hoặc trung tâm đào tạo chuyên nghiệp; hoặc tiếp tục học tập nâng cao trình độ ở bậc thạc sĩ, tiến sĩ trong và ngoài nước.
+(f) Tư vấn viên/ Chuyên gia tư vấn tại các công ty tư vấn tài chính, quản trị doanh nghiệp, chuyển đổi số, hoặc tự mình khởi nghiệp trong lĩnh vực cung cấp dịch vụ phân tích dữ liệu.
+CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (PLOs)
+Các chuẩn đầu ra (PLOs), mức độ năng lực và các chỉ báo (PIs) của chương trình đào tạo như sau:
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực*
+Các chỉ báo (PIs)
+PLO1. Áp dụng kiến thức khoa học cơ bản, tài chính, ngân hàng, kinh doanh, dữ liệu và công nghệ để giải quyết các vấn đề liên quan đến lĩnh vực phân tích dữ liệu tài chính kinh doanh
+C3
+
+PI 1.1.  Nhận diện được các vấn đề liên quan đến lĩnh vực phân tích dữ liệu tài chính, kinh doanh (C2).
+PI 1.2. Áp dụng được các kiến thức, công nghệ mô hình để giải quyết các vấn đề trong phân tích dữ liệu tài chính, kinh doanh (C3).
+PLO2. Thực hiện chính xác các kỹ thuật, kỹ năng chuyên môn để đáp ứng các yêu cầu trong phân tích dữ liệu tài chính, kinh doanh.
+C5, P3
+PI 2.1. Áp dụng được các kỹ thuật xử lý, tổ chức và quản lý dữ liệu tài chính – kinh doanh bằng các công cụ và ngôn ngữ phù hợp (P3).
+PI 2.2. Áp dụng đúng các kỹ thuật phân tích dữ liệu, thống kê, kinh tế lượng hoặc học máy cơ bản để giải quyết các bài toán tài chính – kinh doanh (P3).
+PI 2.3. Đánh giá, so sánh và lựa chọn các phương pháp hoặc mô hình phân tích dữ liệu dựa trên tiêu chí kỹ thuật và mục tiêu nghiệp vụ (C5).
+PLO3. Phản biện các luận điểm về một vấn đề trong lĩnh vực phân tích dữ liệu tài chính, kinh doanh.
+C5
+PI 3.1. Phân tích được các luận điểm liên quan đến dữ liệu, mô hình hoặc kết quả phân tích (C4).
+PI 3.2.  Đánh giá và phản biện được các kết luận trong báo cáo phân tích dữ liệu tài chính, kinh doanh (C5).
+PLO4. Giao tiếp hiệu quả trong môi trường chuyên nghiệp thông qua báo cáo phân tích dữ liệu và trình bày kết quả.
+C3, P3
+PI 4.1. Xây dựng được báo cáo phân tích dữ liệu phù hợp với yêu cầu chuyên môn (C3, P3).
+PI 4.2.  Trình bày được kết quả phân tích dữ liệu bằng hình thức trực quan và diễn đạt rõ ràng P3).
+PLO5. Thích ứng với các hoạt động trong môi trường làm việc nhóm để thực hiện các công việc phân tích dữ liệu tài chính, kinh doanh.
+A3, P3
+PI 5.1. Nhận thức được vai trò của bản thân trong nhóm phân tích dữ liệu (A2)
+PI 5.2.  Phối hợp hiệu quả với các thành viên trong nhóm để hoàn thành dự án phân tích dữ liệu (A3, P3).
+PLO6. Tuân thủ nguyên tắc pháp luật, bảo mật dữ liệu và chuẩn mực đạo đức nghề nghiệp trong hoạt động phân tích dữ liệu và tài chính, kinh doanh.
+C3, A2
+PI 6.1 Vận dụng các quy định pháp luật, chuẩn mực đạo đức và yêu cầu bảo mật dữ liệu (C3).
+PI 6.2 Tuân thủ được nguyên tắc pháp luật, bảo mật dữ liệu và chuẩn mực đạo đức nghề nghiệp khi xử lý dữ liệu (A2).
+* C: miền kiến thức; P: miền kỹ năng; A: miền thái độ.
+  Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom
+MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA VỚI MỤC TIÊU ĐÀO TẠO
+TT
+POs
+PLOs
+PO1
+PO2
+PO3
+PO4
+PO5
+1
+PLO1
+H
+M
+M
+M
+M
+2
+PLO2
+M
+H
+M
+M
+M
+3
+PLO3
+M
+M
+H
+M
+M
+4
+PLO4
+M
+H
+M
+H
+M
+5
+PLO5
+M
+M
+M
+H
+M
+6
+PLO6
+M
+M
+M
+M
+H
+(H: High – Mức độ cao; M: Medium – Mức độ trung bình)
+MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI PHẨM CHẤT NGƯỜI TỐT NGHIỆP VÀ CHUẨN ĐẦU RA CỦA CƠ SỞ GIÁO DỤC (HỌC VIỆN)
+(Ma trận liên kết chuẩn đầu ra của chương trình đào tạo (PLO) với phẩm chất người học (GA) và chuẩn đầu ra của cơ sở giáo dục (ULO) được thể hiện trong Phụ lục đính kèm)

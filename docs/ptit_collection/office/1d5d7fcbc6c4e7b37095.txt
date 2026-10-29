@@ -1,0 +1,22 @@
+PHỤ LỤC 2
+DANH MỤC CÁC MÔN HỌC DÙNG XÉT TUYỂN TRÌNH ĐỘ THẠC SĨ
+NGÀNH TRUYỀN THÔNG ĐẠI CHÚNG
+
+Môn Cơ sở ngành(Chọn 1 trong 3 môn)
+Môn Chuyên ngành(Chọn 1 trong 3 môn)
+Tên môn học
+Số TC
+Tên môn học
+Số TC
+Lý thuyết truyền thông
+3
+PR: Chiến lược và thực hành
+3
+Phương pháp nghiên cứu truyền thông
+3
+Truyền thông chính sách
+2
+Pháp luật và đạo đức truyền thông
+3
+Quản lý dự án truyền thông
+3

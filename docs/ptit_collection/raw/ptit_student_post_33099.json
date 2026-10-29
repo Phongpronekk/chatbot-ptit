@@ -1,0 +1,119 @@
+{
+  "id": 33099,
+  "date": "2025-06-15T09:12:02",
+  "date_gmt": "2025-06-15T09:12:02",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33099"
+  },
+  "modified": "2025-12-29T09:15:43",
+  "modified_gmt": "2025-12-29T09:15:43",
+  "slug": "thong-bao-khoa-hoc-thuat-toan-ung-dung-2024-do-samsung-tai-tro",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/06/15/thong-bao-khoa-hoc-thuat-toan-ung-dung-2024-do-samsung-tai-tro/",
+  "title": {
+    "rendered": "Thông báo khóa học “Thuật toán ứng dụng” 2025 do Samsung tài trợ"
+  },
+  "content": {
+    "rendered": "<p>Nằm trong khuôn khổ chương trình hợp tác giữa Học viện Công nghệ Bưu chính Viễn thông và Samsung Việt Nam, Học viện Công nghệ Bưu chính Viễn thông sẽ tổ chức các khóa ứng dụng thuật toán năm 2025.</p>\n<p>Các khóa học thuật toán do Samsung Việt Nam tài trợ 100% học phí.</p>\n<p><strong>Thời gian:</strong> dự kiến bắt đầu triển khai từ tháng 7-9 năm 2025</p>\n<p><strong>Đối dượng:</strong> Tất cả sinh viên Học viện, trong đó, ưu tiên các sinh viên chưa tham gia khóa học ứng dụng thuật toán nào.</p>\n<p>Học viện sẽ bố trí lớp riêng cho sinh viên ngành: Kỹ thuật Điện tử Viễn thông, Điện -Điện tử, Truyền thông Đa phương tiện, sinh viên khối ngành kinh tế.</p>\n<p>Nội dung:</p>\n<ul>\n<li>Cung cấp kiến thức cơ bản và nâng cao về thuật toán và các ứng dụng</li>\n<li>Nâng cao kỹ năng lập trình và tư duy giải quyết vấn đề</li>\n</ul>\n<p>Dựa trên số lượng và đối tượng sinh viên đăng ký, Học viện sẽ tổ chức các khóa học chia theo 02 nhóm trình độ:</p>\n<p><strong>Nhóm 1:</strong> Trình độ cơ bản, dành cho sinh viên không phải các ngành Công nghệ thông tin và An toàn thông tin, và các em sinh viên D24, D23 nhóm ngành Công nghệ thông tin, An toàn thông tin nhưng hiện tại vẫn chưa tự tin với lập trình cơ bản. Yêu cầu: Sinh viên đã có kiến thức về ít nhất một ngôn ngữ lập trình (C/C++; Java, Python)</p>\n<p><strong>Nhóm 2:</strong> Trình độ nâng cao,  dành cho sinh viên từ năm 2 đến năm cuối nhóm ngành Công nghệ thông tin, An toàn thông tin hoặc các bạn sinh viên ngành kỹ thuật khác có kỹ năng cơ bản tốt và muốn hướng tới các kỳ thi lập trình. Yêu cầu: sinh viên có  hiểu biết tốt về ngôn ngữ lập trình và thuật toán.</p>\n<p>Hình thức: Sinh viên được hoc lý thuyết kết hợp với luyện tập online thông qua hệ thống cổng thực hành.</p>\n<p>Sinh viên đăng ký hạn chót vào ngày 30/6/2024.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Nằm trong khuôn khổ chương trình hợp tác giữa Học viện Công nghệ Bưu chính Viễn thông và Samsung Việt Nam, Học viện Công nghệ Bưu chính Viễn thông sẽ tổ chức các khóa ứng dụng thuật toán năm 2025. Các khóa học thuật toán do Samsung Việt Nam tài trợ 100% học phí. Thời [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 32903,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33099",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33099",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33099"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33099/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32903"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33099"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33099"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33099"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+### Trang 1
+
+0 
+ 
+ 
+BỘ THÔNG TIN VÀ TRUYỀN THÔNG 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG  
+---------- 
+ 
+ 
+ 
+ 
+HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG 
+ĐIỂM RÈN LUYỆN  
+Hướng dẫn dành cho Ban cán sự trên Web 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội, 2024
+
+
+### Trang 2
+
+1 
+ 
+MỤC LỤC 
+I. ĐĂNG NHẬP.............................................................................................................. 2 
+II. MINH CHỨNG ĐIỂM RÈN LUYỆN .................................................................... 3 
+1. Xem danh sách minh chứng ................................................................................... 3 
+2. Thêm mới minh chứng ........................................................................................... 4 
+3. Chỉnh sửa minh chứng ........................................................................................... 5 
+4. Xoá minh chứng ..................................................................................................... 7 
+5. Duyệt minh chứng .................................................................................................. 7 
+6. Khôi phục trạng thái duyệt minh chứng ................................................................ 8 
+III. PHIẾU ĐIỂM RÈN LUYỆN ................................................................................. 9 
+1. Phiếu điểm rèn luyện ............................................................................................. 9 
+2. Biên bản cuộc họp ................................................................................................ 11 
+ 
+  
+
+### Trang 3
+
+ 
+ 
+2 
+ 
+I. ĐĂNG NHẬP 
+Bước 1: Truy cập vào trang website slink.ptit.edu.vn 
+Bước 2: Nhập email office 365 đã được học viện cấp để thực hiện đăng nhập  
+- Sau đó click vào Tiếp theo 
+ 
+Bước 3: Nhập mật khẩu, sau đó click vào Đăng nhập. 
+ 
+ Đăng nhập thành công. Màn hình Trang chủ hiển thị. 
+
+
+### Trang 4
+
+ 
+ 
+3 
+ 
+ 
+II. MINH CHỨNG ĐIỂM RÈN LUYỆN 
+1. Xem danh sách minh chứng 
+Bước 1: Ban cán sự chọn menu Lớp hành chính  
+ Hệ thống hiển thị chọn học kỳ, lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, ban cán sự chọn vào tab Điểm 
+rèn luyện -> Minh chứng 
+ Hệ thống hiển thị danh sách minh chứng sinh viên đã gửi về với 4 tiêu chí 
++ Công tác nội ngoaị trú; 
++ Tham gia công tác xã hội; 
++ Tuyên truyền tích cực về Trường/Khoa; 
++ Thành tích đặc biệt. 
+
+
+### Trang 5
+
+ 
+ 
+4 
+ 
+2. Thêm mới minh chứng 
+Bước 1: Ban cán sự chọn menu Lớp hành chính  
+ Hệ thống hiển thị chọn học kỳ, lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, ban cán sự chọn vào tab Điểm 
+rèn luyện -> Minh chứng 
+Bước 3: Người dùng chọn thao tác Thêm mới để thêm mới minh chứng cho sinh 
+viên 
+ 
+Bước 4: Màn khai báo minh chứng hiển thị, người dùng thực hiện khai báo thông 
+tin. Sau đó chọn thao tác Thêm mới  
+
+
+### Trang 6
+
+ 
+ 
+5 
+ 
+ 
+ Thêm mới minh chứng thành công. Trạng thái mặc định của minh chứng là 
+Đã duyệt 
+3. Chỉnh sửa minh chứng 
+Bước 1: Ban cán sự chọn menu Lớp hành chính  
+ Hệ thống hiển thị chọn học kỳ, lớp hành chính  
+ 
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, ban cán sự chọn vào tab Điểm 
+rèn luyện -> Minh chứng 
+
+
+### Trang 7
+
+ 
+ 
+6 
+ 
+Bước 3: Người dùng chọn thao tác Chỉnh sửa để sửa thông tin minh chứng cho 
+sinh viên 
+- Lưu ý: chỉ chỉnh sửa được bản ghi ở trạng thái Chờ xử lý 
+ 
+Bước 4: Hệ thống hiển thị màn chỉnh sửa thông tin minh chứng, người dùng thực 
+hiện chỉnh sửa thông tin, sau đó ấn vào nút Lưu lại 
+ 
+ Hệ thống thông báo Lưu thành công, người dùng cập nhật thành công thông 
+tin minh chứng 
+
+
+### Trang 8
+
+ 
+ 
+7 
+ 
+4. Xoá minh chứng 
+Bước 1: Người dùng ấn vào button Xóa ở cột Thao tác bản ghi minh chứng 
+- Lưu ý: chỉ xóa được minh chứng ở trạng thái Chờ xử lý 
+ 
+- Bước 2: Hệ thống hiển thị thông báo với nội dung “Bạn có chắc chắn muốn xoá 
+minh chứng này?”. Người dùng chọn OK để xác nhận xoá 
+ 
+ Hệ thống thông báo xoá thành công. Minh chứng được xoá khỏi danh sách. 
+5. Duyệt minh chứng 
+Bước 1: Người dùng click vào button Duyệt hoặc Từ chối ở cột Thao tác 
+ 
+Bước 2: Hệ thống hiển thị thông báo với nội dung “Bạn có chắc chắn muốn 
+duyệt minh chứng này?”. Người dùng chọn OK để xác nhận duyệt minh chứng 
+
+
+### Trang 9
+
+ 
+ 
+8 
+ 
+ 
+ Hệ thống thông báo cập nhật thành công, trạng thái của minh chứng được 
+chuyển thành Đã duyệt/Không duyệt 
+6. Khôi phục trạng thái duyệt minh chứng 
+- Sau khi thực hiện duyệt minh chứng, người dùng có thể khôi phục trạng thái xét 
+duyệt minh chứng. 
+Bước 1: Người dùng click vào Thao tác  minh chứng đã duyệt, sau đó ấn vào 
+button Chuyển về chờ xử lý ở cột Thao tác 
+ 
+Bước 2: Hệ thống hiển thị thông báo với nội dung “Bạn có chắc chắn muốn khôi 
+phục trạng thái minh chứng này?”. Người dùng chọn OK để xác nhận duyệt 
+minh chứng 
+ 
+ Hệ thống thông báo cập nhật thành công, trạng thái của minh chứng được 
+chuyển thành Chờ xử lý 
+
+
+### Trang 10
+
+ 
+ 
+9 
+ 
+III. PHIẾU ĐIỂM RÈN LUYỆN 
+1. Phiếu điểm rèn luyện 
+- Cán sự lớp học tập có thể thực hiện đánh giá phiếu điểm rèn luyện của sinh viên 
+khi đến thời gian đánh giá. 
+- Cán sự lớp có thể thực hiện đánh giá phiếu điểm rèn luyện đối với những phiếu 
+điểm sinh viên đã đánh giá và gửi lên. 
+Bước 1: Ban cán sự chọn menu Lớp hành chính  
+ Hệ thống hiển thị chọn học kỳ, lớp hành chính  
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, ban cán sự chọn vào tab Điểm 
+rèn luyện -> Phiếu điểm 
+ 
+ Thông tin phiếu điểm của sinh viên trong lớp kèm trạng thái hiển thị 
+Bước 3: Cán sự lớp chọn đánh giá 1 phiếu đánh giá điểm rèn luyện của sinh viên  
+ 
+Bước 4: Nhập thông tin đánh giá điểm rèn luyện của sinh viên vào ô của Ban cán 
+sự chấm điểm 
+ 
+
+
+### Trang 11
+
+ 
+ 
+10 
+ 
+ 
+Bước 5: Sau khi hoàn thiện nhập đủ thông tin, Cán sự lớp có thể Lưu và gửi sau 
+hoặc Gửi ngay thông tin phiếu điểm rèn luyện 
+- Lưu và gửi sau 
++ Người dùng ấn Lưu và gửi sau để lưu lại thông tin phiếu đã chấm điểm 
+ 
+ Lưu phiếu điểm rèn luyện thành công. Sau khi lưu phiếu, người dùng có thể 
+vào tiếp tục chỉnh sửa phiếu chấm điểm rèn luyện. 
+- Gửi 
++ Người dùng ấn Gửi để gửi thông tin xác nhận phiếu điểm của sinh viên 
+
+
+### Trang 12
+
+ 
+ 
+11 
+ 
+ 
+ Gửi phiếu điểm rèn luyện thành công, trạng thái chấm của ban cán sự sẽ là Đã 
+gửi. 
+2. Biên bản cuộc họp 
+- Cán sự lớp có thể thực hiện điền Biên bản cuộc họp thay Cố vấn học tập. 
+Bước 1: Ban cán sự chọn menu Lớp hành chính  
+ Hệ thống hiển thị chọn học kỳ, lớp hành chính  
+Bước 2: Hệ thống hiển thị thông tin lớp hành chính, ban cán sự chọn vào tab Điểm 
+rèn luyện -> Biên bản họp 
+-  
+Bước 3: Nhập thông tin biên bản cuộc họp 
+Bước 4: Ấn Lưu để thực hiện lưu thông tin biên bản cuộc họp. 
+ 

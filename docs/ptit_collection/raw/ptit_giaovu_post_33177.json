@@ -1,0 +1,125 @@
+{
+  "id": 33177,
+  "date": "2026-02-12T09:01:50",
+  "date_gmt": "2026-02-12T02:01:50",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33177"
+  },
+  "modified": "2026-02-12T09:01:50",
+  "modified_gmt": "2026-02-12T02:01:50",
+  "slug": "thong-bao-v-v-cap-nhat-ra-soat-diem-thi-hoc-ky-i-nam-hoc-2025-2026-tren-he-thong-qldt",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/thong-bao-v-v-cap-nhat-ra-soat-diem-thi-hoc-ky-i-nam-hoc-2025-2026-tren-he-thong-qldt/",
+  "title": {
+    "rendered": "Thông báo: V/v Cập nhật rà soát điểm thi học kỳ I năm học 2025-2026 trên hệ thống QLĐT"
+  },
+  "content": {
+    "rendered": "<div class=\"post-content\">\n<div class=\"post-content\">\n<div class=\"ck-content ng-star-inserted\">\n<div>\n<p data-start=\"211\" data-end=\"275\"><strong data-start=\"211\" data-end=\"275\">Kính gửi: Sinh viên các lớp đại học chính quy – Cơ sở Hà Nội</strong></p>\n<p data-start=\"277\" data-end=\"608\">Thực hiện kế hoạch đào tạo năm học 2025–2026, Trung tâm Khảo thí &amp; Đảm bảo chất lượng giáo dục phối hợp với Phòng Giáo vụ đang tiến hành cập nhật và rà soát điểm học kỳ I năm học 2025–2026 đối với các khóa 2021, 2022, 2023, 2024, 2025 và các khóa còn trong thời hạn đào tạo trên hệ thống Quản lý đào tạo (<a class=\"decorated-link\" href=\"https://qldt.ptit.edu.vn\" target=\"_new\" rel=\"noopener\" data-start=\"582\" data-end=\"606\">https://qldt.ptit.edu.vn</a>).</p>\n<p data-start=\"610\" data-end=\"880\">Trong thời gian thực hiện cập nhật và rà soát dữ liệu, điểm các học phần trên hệ thống có thể hiển thị tạm thời chưa chính xác hoặc chưa đầy đủ. Đề nghị sinh viên <strong data-start=\"773\" data-end=\"831\">không gửi đơn, email hoặc các hình thức kiến nghị khác</strong> liên quan đến điểm học phần trong thời gian này.</p>\n<p data-start=\"882\" data-end=\"1068\">Sau khi hoàn tất việc cập nhật và khóa dữ liệu điểm trên hệ thống QLĐT, Phòng Giáo vụ sẽ ban hành thông báo chính thức để sinh viên đăng nhập kiểm tra và thực hiện rà soát theo quy định.</p>\n<p data-start=\"1070\" data-end=\"1109\">Đề nghị sinh viên nghiêm túc thực hiện.</p>\n<p data-start=\"1111\" data-end=\"1128\"><strong data-start=\"1111\" data-end=\"1128\">Trân trọng./.</strong></p>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Sinh viên các lớp đại học chính quy – Cơ sở Hà Nội Thực hiện kế hoạch đào tạo năm học 2025–2026, Trung tâm Khảo thí &amp; Đảm bảo chất lượng giáo dục phối hợp với Phòng Giáo vụ đang tiến hành cập nhật và rà soát điểm học kỳ I năm học [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32452,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    7,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33177",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ket-qua-hoc-tap",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33177",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33177"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33177/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32452"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33177"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33177"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33177"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

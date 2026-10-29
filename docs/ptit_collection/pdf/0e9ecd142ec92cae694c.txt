@@ -1,0 +1,272 @@
+### Trang 1
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+NGÀNH TRÍ TUỆ NHÂN TẠO
+Các học phần tự chọn:
+1. Nhập môn robostics
+2. Lập trình song song
+3. Mô hình tạo sinh
+4. Mô hình học máy đồ thị và ứng dụng
+5. Hệ khuyến nghị
+6. Khai phá dữ liệu
+7. IoT và ứng dụng;
+8. Phân tích dữ liệu chuỗi thời gian
+9. Trí tuệ nhân tạo cho tính toán biên
+10. Các hệ thống phân tán
+Kiến thức chung
+Kiến thức KHTH-XH
+Kiến thức cơ sở 
+ngành
+Kiến thức Chuyên ngành
+Học phần tiên quyết
+Học phần học trước 
+HK1
+(11TC)
+HK2
+(20 TC)
+HK4
+(19TC)
+HK3
+(19TC)
+HK5
+(19 TC)
+HK6
+(20 TC)
+HK7
+(17 TC)
+HK8
+(17 TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh (Course 
+2) (4TC)
+Tiếng Anh (Course 
+3) (4TC)
+Tiếng Anh (Course 
+3 Plus) (2TC)
+Pháp luật luận 
+NCKH (2TC)
+Toán rời rạc 1 
+(3TC)
+Lý thuyết đồ thị 
+(3TC)
+Khoa học dữ liệu 
+cơ bản (3TC)
+Trí tuệ nhân tạo cơ 
+bản (3TC)
+Nền tảng phát triển 
+trí tuệ nhân tạo 
+(3TC)
+Nhập môn công 
+nghệ phần mềm 
+(3TC)
+Nhập môn Học 
+máy (3TC)
+Thị giác máy tính 
+(3TC)
+Xử lý ảnh (3TC)
+Nhập môn Học sâu 
+(3TC)
+Xử lý ngôn ngữ tự 
+nhiên (3TC)
+HK9
+(12 TC)
+Thực tập và tốt 
+nghiệp (12TC)
+Lập trình hướng 
+đối tượng (3TC)
+Lâp trình Web 
+(3TC)
+Học phần tự chọn 
+(3TC)
+Cấu trúc dữ liệu và 
+giải thuật (3TC)
+Mạng máy tính 
+(3TC)
+Mô hình ngôn ngữ 
+lớn (3TC)
+Kiến trúc máy tính 
+(3TC)
+Phương pháp lập 
+trình cơ bản (3TC)
+Cơ sở dữ liệu 
+(3TC)
+Điện tử số (3TC)
+Học tăng cường và 
+ứng dụng (3TC)
+Truy xuất thông tin 
+(3TC)
+Trí tuệ nhân tạo 
+cho an toàn bảo 
+mật TT (3TC)
+Phát triển ứng 
+dụng TTNT (3TC)
+Lịch sử Đảng cộng 
+sản VN (2TC)
+Thực tập cơ sở 
+(4TC)
+Đạo đức và chính 
+sách TTNT (3TC)
+Học phần tự chọn 
+(3TC)
+Tiếng Anh (Course 
+1) (4TC)
+Giải tích 2 (3TC)
+Vật lý ứng dụng 
+(4TC)
+Xác suất thống kê 
+(3TC)
+Lập trình Python 
+cơ bản (3TC)
+Pháp luật đại 
+cương (2TC)
+Giải tích 1 (3TC)
+Đại số (3TC)
+Lập trình Python 
+cơ bản (3TC)
+Pháp luật đại 
+cương (2TC)
+Giải tích 1 (3TC)
+Đại số (3TC)
+Công cụ triển khai 
+và vận hành ứng 
+dụng TTNT (3TC)
+Học phần tự chọn 
+(6TC)
+Các học phần tự chọn:
+1. Nhập môn robostics
+2. Lập trình song song
+3. Mô hình tạo sinh
+4. Mô hình học máy đồ thị và ứng dụng
+5. Hệ khuyến nghị
+6. Khai phá dữ liệu
+7. IoT và ứng dụng;
+8. Phân tích dữ liệu chuỗi thời gian
+9. Trí tuệ nhân tạo cho tính toán biên
+10. Các hệ thống phân tán
+Kiến thức chung
+Kiến thức KHTH-XH
+Kiến thức cơ sở 
+ngành
+Kiến thức Chuyên ngành
+Học phần tiên quyết
+Học phần học trước 
+HK1
+(11TC)
+HK2
+(20 TC)
+HK4
+(19TC)
+HK3
+(19TC)
+HK5
+(19 TC)
+HK6
+(20 TC)
+HK7
+(17 TC)
+HK8
+(17 TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh (Course 
+2) (4TC)
+Tiếng Anh (Course 
+3) (4TC)
+Tiếng Anh (Course 
+3 Plus) (2TC)
+Pháp luật luận 
+NCKH (2TC)
+Toán rời rạc 1 
+(3TC)
+Lý thuyết đồ thị 
+(3TC)
+Khoa học dữ liệu 
+cơ bản (3TC)
+Trí tuệ nhân tạo cơ 
+bản (3TC)
+Nền tảng phát triển 
+trí tuệ nhân tạo 
+(3TC)
+Nhập môn công 
+nghệ phần mềm 
+(3TC)
+Nhập môn Học 
+máy (3TC)
+Thị giác máy tính 
+(3TC)
+Xử lý ảnh (3TC)
+Nhập môn Học sâu 
+(3TC)
+Xử lý ngôn ngữ tự 
+nhiên (3TC)
+HK9
+(12 TC)
+Thực tập và tốt 
+nghiệp (12TC)
+Lập trình hướng 
+đối tượng (3TC)
+Lâp trình Web 
+(3TC)
+Học phần tự chọn 
+(3TC)
+Cấu trúc dữ liệu và 
+giải thuật (3TC)
+Mạng máy tính 
+(3TC)
+Mô hình ngôn ngữ 
+lớn (3TC)
+Kiến trúc máy tính 
+(3TC)
+Phương pháp lập 
+trình cơ bản (3TC)
+Cơ sở dữ liệu 
+(3TC)
+Điện tử số (3TC)
+Học tăng cường và 
+ứng dụng (3TC)
+Truy xuất thông tin 
+(3TC)
+Trí tuệ nhân tạo 
+cho an toàn bảo 
+mật TT (3TC)
+Phát triển ứng 
+dụng TTNT (3TC)
+Lịch sử Đảng cộng 
+sản VN (2TC)
+Thực tập cơ sở 
+(4TC)
+Đạo đức và chính 
+sách TTNT (3TC)
+Học phần tự chọn 
+(3TC)
+Tiếng Anh (Course 
+1) (4TC)
+Giải tích 2 (3TC)
+Vật lý ứng dụng 
+(4TC)
+Xác suất thống kê 
+(3TC)
+Lập trình Python 
+cơ bản (3TC)
+Pháp luật đại 
+cương (2TC)
+Giải tích 1 (3TC)
+Đại số (3TC)
+Công cụ triển khai 
+và vận hành ứng 
+dụng TTNT (3TC)
+Học phần tự chọn 
+(6TC)

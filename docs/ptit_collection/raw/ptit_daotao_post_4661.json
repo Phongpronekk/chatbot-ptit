@@ -1,0 +1,114 @@
+{
+  "id": 4661,
+  "date": "2026-04-23T14:13:28",
+  "date_gmt": "2026-04-23T07:13:28",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=4661"
+  },
+  "modified": "2026-04-23T14:13:28",
+  "modified_gmt": "2026-04-23T07:13:28",
+  "slug": "thong-bao-cap-bang-tot-nghiep-dot-1-thang-4-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/thong-bao-cap-bang-tot-nghiep-dot-1-thang-4-nam-2026/",
+  "title": {
+    "rendered": "Thông báo Cấp bằng tốt nghiệp &#8211; Đợt 1 Tháng 4 năm 2026"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: justify\"><span style=\"color: #000000\">Học viện Công nghệ Bưu chính Viễn thông thông báo cấp bằng tốt Đại học đợt 1 tháng 4.2026 cụ thể như sau:</span></p>\n<ul style=\"text-align: justify\">\n<li><span style=\"color: #000000\">Danh sách Sinh viên được cấp bằng <strong>Đại học </strong>(<em>chi tiết kèm theo)</em></span></li>\n</ul>\n<p style=\"text-align: justify\"><span style=\"color: #000000\">Danh sách Học viên và sinh viên được cấp bằng tốt nghiệp công bố tại mục <strong>Tin tức</strong> trên cổng thông tin điện tử của Học viện tại địa chỉ: <strong>https://daotao.ptit.edu.vn//</strong></span></p>\n<p style=\"text-align: justify\"><span style=\"color: #000000\"><strong><em>Học viện thông báo và đề nghị:</em></strong></span></p>\n<p>&nbsp;</p>\n<ul>\n<li style=\"text-align: justify\"><span style=\"color: #000000\">Sinh viên của cơ sở đào tạo phía Bắc không đến nhận bằng theo kế hoạch, hoàn hiện các thủ tục và nhận bằng tại phòng Phát bằng, tầng 2 nhà A1 vào các buổi chiều thứ 3, 5, 6 hàng tuần.</span></li>\n</ul>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/04/Thong-bao-D21-ky-thuat-Hanoi.pdf\">Thong bao D21 ky thuat-Hanoi</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo cấp bằng tốt Đại học đợt 1 tháng 4.2026 cụ thể như sau: Danh sách Sinh viên được cấp bằng Đại học (chi tiết kèm theo) Danh sách Học viên và sinh viên được cấp bằng tốt nghiệp công bố tại mục Tin tức trên [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13953,
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4661",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-page-dao-tao",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/4661",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=4661"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/4661/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4661"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=4661"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=4661"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

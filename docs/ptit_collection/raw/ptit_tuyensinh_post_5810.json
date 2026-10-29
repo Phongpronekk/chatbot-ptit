@@ -1,0 +1,125 @@
+{
+  "id": 5810,
+  "date": "2026-08-07T16:33:59",
+  "date_gmt": "2026-08-07T09:33:59",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5810"
+  },
+  "modified": "2026-08-07T16:33:59",
+  "modified_gmt": "2026-08-07T09:33:59",
+  "slug": "quyet-dinh-ve-viec-phe-duyet-danh-sach-thi-sinh-trung-tuyen-vao-dai-hoc-vua-lam-vua-hoc-dot-1-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/quyet-dinh-ve-viec-phe-duyet-danh-sach-thi-sinh-trung-tuyen-vao-dai-hoc-vua-lam-vua-hoc-dot-1-nam-2026/",
+  "title": {
+    "rendered": "Quyết định về việc Phê duyệt danh sách thí sinh trúng tuyển vào Đại học Vừa làm vừa học đợt 1 năm 2026."
+  },
+  "content": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo:</p>\n<ol>\n<li>Quyết định về việc Phê duyệt danh sách thí sinh trúng tuyển vào Đại học Vừa làm vừa học đợt 1 năm 2026. Phương thức xét tuyển : Xét tuyển thẳng. Chi tiết file đính kèm :<a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/qd-2386.pdf\">qd 2386</a></li>\n<li>Quyết định về việc Phê duyệt danh sách thí sinh trúng tuyển vào Đại học Vừa làm vừa học đợt 1 năm 2026. Phương thức xét tuyển : Dựa vào kết quả học tập 03 năm THPT. Chi tiết file đính kèm: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/QD-2387.pdf\">QD 2387</a></li>\n</ol>\n<p>Trân trọng!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo: Quyết định về việc Phê duyệt danh sách thí sinh trúng tuyển vào Đại học Vừa làm vừa học đợt 1 năm 2026. Phương thức xét tuyển : Xét tuyển thẳng. Chi tiết file đính kèm :qd 2386 Quyết định về việc Phê duyệt danh [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 5600,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    26
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5810",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_khac"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5810",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5810"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5810/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5813,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5810/revisions/5813"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5600"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5810"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5810"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5810"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

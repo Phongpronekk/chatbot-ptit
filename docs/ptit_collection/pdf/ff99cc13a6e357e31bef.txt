@@ -1,0 +1,858 @@
+### Trang 1
+
+ 
+ 
+ 
+   
+ 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HƯỚNG DẪN 
+ 
+ĐĂNG KÝ THÔNG TIN XÉT TUYỂN TRỰC TUYẾN 
+ĐẠI HỌC CHÍNH QUY NĂM 2026 
+(Phiên bản trên Website) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÀI LIỆU 
+Dùng cho thí sinh đăng ký xét tuyển trực tuyến theo Phương thức Xét 
+tuyển tài năng: Xét tuyển dựa vào h ồ sơ năng l ực (HSNL); Phương 
+thức xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc tế; 
+Phương thức Xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc 
+đánh giá tư duy; Phương thức xét tuyển kết hợp giữa Chứng chỉ tiếng 
+Anh quốc tế với kết quả học tập ở bậc THPT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội, tháng 4 năm 2026 
+ 
+  
+ 
+
+### Trang 2
+
+ 
+1 
+ 
+  
+
+### Trang 3
+
+ 
+2 
+ 
+LỜI NÓI ĐẦU 
+ 
+Học viện Công ngh ệ Bưu chính Vi ễn thông – trường đại học công l ập trực 
+thuộc Bộ Khoa học và Công nghệ, gồm Cơ sở đào tạo tại Hà Nội và Cơ sở tại Thành 
+phố Hồ Chí Minh và các Viện nghiên cứu khoa học – chuyển giao công nghệ. Học 
+viện thực hiện sứ mạng sáng tạo và chuyển giao tri thức cho xã hội thông qua việc 
+gắn kết các hoạt động giáo dục – đào tạo nguồn nhân lực chất lượng cao, nghiên 
+cứu phát tri ển và chuy ển giao khoa h ọc công ngh ệ, tri th ức mới trong lĩnh vực 
+thông tin và truyền thông đáp ứng thực tiễn phát triển và hội nhập quốc tế của đất 
+nước. 
+Học viện Công nghệ Bưu chính Viễn thông không ngừng nâng cao chất 
+lượng, phát triển quy mô đào tạo và mở rộng hoạt động nghiên cứu; tăng cường 
+hợp tác với các cơ quan tổ chức, cá nhân trong và ngoài nước góp phần đào tạo 
+nên những giá trị tri thức mới của Việt Nam, với đội ngũ chuyên nghiệp tâm huyết, 
+đủ bản lĩnh và năng lực hội nhập quốc tế. 
+Năm 2026, Học viện Công nghệ Bưu chính Viễn thông dự kiến tuyển sinh 
+sinh viên ở hai (02) Cơ sở đào tạo tại Hà Nội và Thành phố Hồ Chí Minh vào học 
+các ngành, chương trình đào tạo:  
+(1) Nhóm các chương trình đào tạo tài năng – thạc sĩ tích hợp cử nhân: 
+Kỹ thuật viễn thông; Kỹ thuật điện tử; Hệ thống thông tin; An toàn thông 
+tin; Khoa học máy tính. 
+(2) Nhóm các ngành, chương trình Kỹ thuật trọng điểm: Kỹ thuật Điện tử 
+viễn thông; Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn 
+thông); Kỹ thuật Điều khiển và tự động hóa; Công nghệ Kỹ thuật Điện, 
+điện tử; Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, 
+điện tử); Công nghệ thông tin; An toàn thông tin; Trí tuệ nhân tạo; Khoa 
+học máy tính (định hướng Khoa h ọc dữ liệu); Kỹ thuật dữ liệu (ngành 
+Mạng máy tính và truy ền thông d ữ liệu); Công nghệ thông tin Vi ệt - 
+Nhật; Công nghệ thông tin (Cử nhân định hướng ứng dụng); Kỹ thuật 
+Truyền thông Hàng không vũ tr ụ (ngành Kỹ thuật Điện tử viễn thông); 
+UAV và Robot di đ ộng tự hành (ngành Kỹ thuật Điều khiển và tự động 
+hóa) 
+(3) Nhóm các ngành, chương trình Báo chí và Truy ền thông: Báo chí; 
+Truyền thông đa phương ti ện; Công nghệ đa phương tiện; Thiết kế và 
+phát triển Game (ngành Công nghệ đa phương tiện). 
+(4) Nhóm các ngành, chương trình Kinh t ế và Qu ản lý : Quản tr ị kinh 
+doanh; Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh); 
+Thương mại điện tử; Marketing; Quan hệ công chúng (ngành Marketing); 
+
+### Trang 4
+
+ 
+3 
+ 
+Kế toán; Công nghệ tài chính (Fintech); Phân tích dữ liệu trong tài chính 
+kinh doanh (ngành Tài chính ngân hàng); Quản trị Đổi mới sáng tạo và 
+khởi nghiệp (ngành Quản trị kinh doanh); Logistics trong kinh t ế tầm 
+thấp (ngành Quản trị kinh doanh). 
+(5) Nhóm các chương trình Chất lượng cao: Công nghệ thông tin; An toàn 
+thông tin; Kế toán (chuẩn quốc tế ACCA); Truyền thông đa phương tiện; 
+Marketing. 
+Tài liệu hướng dẫn đăng ký thông tin xét tuyển này nhằm giúp thí sinh 
+dễ dàng, thuận lợi trong quá trình làm hồ sơ và đăng ký xét tuyển trực tuyến vào 
+Học viện theo Phương thức Xét tuyển tài năng: Xét tuyển dựa vào hồ sơ năng lực 
+(HSNL); Phương thức xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc 
+tế; Phương thức Xét tuyển dựa vào kết quả bài thi đánh giá năng l ực hoặc đánh 
+giá tư duy; Phương thức xét tuyển kết hợp giữa Chứng chỉ tiếng Anh quốc tế với 
+kết quả học tập ở bậc THPT. 
+  
+BAN CHỈ ĐẠO TUYỂN SINH 
+  
+
+### Trang 5
+
+ 
+4 
+ 
+MỤC LỤC 
+ 
+ 
+LỜI NÓI ĐẦU................................................................................................ 2 
+1. THÔNG TIN CHUNG .................................................................................. 6 
+1.1 Điều kiện tham gia xét tuyển của thí sinh: .................................................. 6 
+1.2. Đăng ký thông tin xét tuyển trên hệ thống xét tuyển của Học viện: ......... 8 
+1.3 Liên hệ và Hỗ trợ ....................................................................................... 8 
+2. DANH MỤC MINH CHỨNG ......................................................................... 9 
+3. HƯỚNG DẪN KHAI ĐĂNG KÝ THÔNG TIN XÉT TUYỂN TRỰC TUYẾN (ONLINE) ...... 10 
+3.1. Đăng ký, đăng nhập ................................................................................. 10 
+3.2. Khai báo thông tin hồ sơ đăng ký xét tuyển ............................................. 15 
+3.3 Khóa hồ sơ, In hồ sơ và Thanh toán ....................................................... 39 
+4. HƯỚNG DẪN THANH TOÁN LỆ PHÍ ĐKXT .................................................. 41 
+4.1. Thanh toán bằng phương thức Quét mã QR trên ứng dụng ngân hàng .... 41 
+4.2. Thanh toán chuyển khoản bằng smart-banking của BIDV ........................... 42 
+4.3. Thanh toán bằng Smart-banking của BIDV đối với người không dùng BIDV 43 
+4.4. Thanh toán bằng tiền mặt tại quầy giao dịch của các ngân hàng ................ 44 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+### Trang 6
+
+ 
+5 
+ 
+  
+
+### Trang 7
+
+ 
+6 
+ 
+1. THÔNG TIN CHUNG 
+1.1 Điều kiện tham gia xét tuyển của thí sinh: 
+1.1.1. Quy định chung: 
+- Đối tượng dự tuyển được xác định tại thời điểm xét tuyển (trước khi công bố kết quả 
+xét tuyển chính thức) là các thí sinh đã được công nhận tốt nghiệp trung học phổ thông 
+(THPT), trung học nghề của Việt Nam hoặc của nước ngoài được công nhận trình độ tương 
+đương với THPT, trung học nghề của Việt Nam do các đơn vị chức năng xác định hoặc đã 
+có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn 
+thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật; 
+- Đạt ngưỡng đầu vào theo quy định của Học viện; 
+- Có đủ sức khoẻ để học tập theo quy định hiện hành; 
+- Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định của Học viện; 
+- Đáp ứng các điều kiện khác theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và 
+Đào tạo và của Học viện. 
+1.1.2. Đối với Phương thức 1 - Xét tuyển tài năng: 
+Ngoài các yêu c ầu theo quy đ ịnh chung ở mục 1.1.1 thì thí sinh c ần có thêm một 
+trong các điều kiện như sau: 
+(1) Xét tuy ển thẳng và ưu tiên xét tuy ển: thí sinh đạt thành tích cao trong kỳ thi, 
+cuộc thi cấp quốc gia hoặc quốc tế theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo 
+và của Học viện (có Thông báo chi tiết riêng). 
+(2) Xét tuyển dựa vào hồ sơ năng lực (HSNL): thí sinh cần có thêm một trong 
+các điều kiện sau đây: 
+a) Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế (năm 2026, 2025, 
+2024) đối với các môn Toán, Vật lí, Hóa học hoặc Tin học; 
+b) Thí sinh đạt giải Khuyến khích hoặc đã tham gia kỳ thi chọn học sinh giỏi THPT cấp quốc 
+gia hoặc đạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi THPT cấp 
+Tỉnh, Thành phố trực thuộc Trung ương (TW) hoặc của Đại học Quốc gia Hà Nội, Đại học Quốc 
+gia thành phố Hồ Chí Minh, Đại học Huế, Trường Đại học Sư phạm Hà Nội, Trường Đại học Sư 
+phạm thành phố Hồ Chí Minh, Trường Đại học Vinh các môn Toán, Vật lí, Hóa học, Tin học (thí 
+sinh được đăng ký xét tuyển (ĐKXT) vào tất cả các ngành/chương trình) hoặc môn Tiếng Anh 
+(được ĐKXT vào các ngành/chương trình thuộc nhóm ngành Kinh doanh và Quản lý, nhóm 
+ngành Báo chí và Truyền thông) hoặc môn Ngữ văn (được ĐKXT vào ngành Báo chí hoặc 
+ngành Truyền thông đa phương tiện). Thời gian đạt giải không quá 3 năm tính tới thời 
+điểm đăng ký dự tuyển; 
+c) Là học sinh chuyên của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT 
+chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo 
+dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia các môn Toán, Vật 
+lí, Hóa học, Tin học (được  ĐKXT vào tất cả các ngành/ chương trình) hoặc môn Tiếng Anh 
+
+### Trang 8
+
+ 
+7 
+ 
+(được ĐKXT vào các ngành/ chương trình thuộc nhóm ngành Kinh doanh và Quản lý, nhóm 
+ngành Báo chí và Truyền thông) hoặc môn Ngữ văn (được ĐKXT vào ngành Báo chí và ngành 
+Truyền thông đa phương tiện). 
+1.1.3. Đối với Phương thức 2 - Xét tuyển dựa vào kết quả Chứng chỉ đánh giá 
+năng lực quốc tế (chứng chỉ SAT/ACT): 
+Ngoài các yêu cầu theo quy đ ịnh chung ở mục 1.1.1 thì thí sinh ph ải có Chứng chỉ 
+đánh giá năng l ực quốc tế SAT từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên, 
+trong thời hạn 02 năm (tính đến ngày đăng ký dự tuyển). 
+1.1.4. Đối với Phương thức 3 - Xét tuyển dựa vào kết quả bài thi đánh giá năng 
+lực (ĐGNL) hoặc đánh giá tư duy (ĐGTD): 
+Ngoài các yêu c ầu theo quy đ ịnh chung ở mục 1.1.1 thì thí sinh c ần có thêm một 
+trong các điều kiện sau đây: 
+a) Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2026 
+từ 50 điểm trở lên; 
+b) Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2026 
+từ 75 điểm trở lên; 
+c) Thí sinh có đi ểm thi đánh giá năng l ực của Đại học quốc gia Tp. H ồ Chí Minh (V-
+ACT) năm 2026 từ 600 điểm trở lên. 
+d) Thí sinh có điểm thi đánh giá năng lực của Trường Đại học Sư phạm Hà Nội (SPT) 
+năm 2026 từ 15 điểm trở lên; 
+Lưu ý:  
+1. Đối với bài thi ĐGNL của Đại học quốc gia Hà Nội (HSA) thí sinh chọn: 
+- Phần 3 - Khoa học: Thí sinh bắt buộc chọn tổ hợp có 2 chủ đề là Vật lí và Hóa học 
+- Phần 3 - Tiếng Anh: Thí sinh chỉ được ĐKXT vào các ngành/chương trình thuộc nhóm ngành 
+Kinh doanh và Quản lý, nhóm ngành Báo chí và Truyền thông. 
+2. Đối với bài thi đánh giá năng lực của Trường Đại học Sư phạm Hà Nội thí sinh phải đăng ký thi 
+các môn theo tổ hợp xét tuyển của Học viện. 
+1.1.5. Đối với Phương thức 4 - Xét tuyển kết hợp giữa chứng chỉ tiếng anh quốc 
+tế (chứng chỉ IELTS, TOEFL) với kết quả học tập ở  bậc THPT: 
+Ngoài các yêu c ầu theo quy đ ịnh chung ở mục 1.1.1 thì thí sinh c ần có Chứng chỉ 
+tiếng Anh quốc tế trong thời hạn (tính đến ngày đăng ký d ự tuyển) đạt IELTS 5.5 trở 
+lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên. 
+Lưu ý: Học viện không chấp nhận Chứng chỉ tiếng Anh quốc tế có Test Center với hình thức 
+là Home Edition. 
+1.1.6. Đối với Phương thức 5 - Xét tuyển dựa vào kết quả thi tốt nghiệp THPT 
+năm 2026: 
+
+### Trang 9
+
+ 
+8 
+ 
+Ngoài các yêu cầu theo quy định chung ở mục 1.1.1 thì thí sinh phải tham dự kỳ thi tốt 
+nghiệp THPT năm 2026 với các bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành 
+ĐKXT của Học viện. 
+Học viện sử dụng 05 tổ hợp xét tuyển là A00 (Toán – Lý – Hóa), A01 (Toán – Lý – 
+Anh), D01 (Toán – Văn – Anh), X06 (Toán – Lý – Tin học) và X26 (Toán – Tin học – Anh). 
+1.2. Đăng ký thông tin xét tuyển trên hệ thống xét tuyển của Học viện:  
+1.2.1. Đối tượng: Các thí sinh có nguyện vọng đăng ký xét tuyển vào đại học hệ chính 
+quy năm 2026 của Học viện Công nghệ Bưu chính Viễn thông với các Phương thức: 
+(1) Phương thức 1: Xét tuyển tài năng: Xét tuyển dựa vào hồ sơ năng lực (HSNL); 
+(2) Phương thức 2: Xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc tế 
+(chứng chỉ SAT/ACT); 
+(3) Phương thức 3: Xét tuyển dựa vào kết quả bài thi đánh giá năng lực (ĐGNL) hoặc 
+đánh giá tư duy (ĐGTD); 
+(4) Phương thức 4: Xét tuyển kết hợp giữa chứng chỉ tiếng anh qu ốc tế (chứng chỉ 
+IELTS, TOEFL) với kết quả học tập ở  bậc THPT. 
+1.2.2. Nội dung thực hiện: Để phục vụ công tác xét tuyển năm 2026, các thí sinh đăng 
+ký tài khoản sử dụng của hệ thống, khai báo các thông tin cá nhân, k ết quả và thành tích 
+học tập (kèm minh chứng), thực hiện đăng ký nguy ện vọng xét tuyển (tối đa 5 nguy ện 
+vọng) và khóa, nộp hồ sơ xét tuyển trên hệ thống (có hướng dẫn chi tiết riêng). 
+Lưu ý: Thí sinh sau khi đăng ký thông tin xét tuy ển trên h ệ thống xét tuy ển 
+của Học viện vẫn phải đăng ký nguyện vọng trên Hệ thống tuyển sinh của Bộ Giáo dục 
+và Đào tạo theo kế hoạch chung. 
+1.2.3. Địa chỉ đăng nhập Hệ thống: https://xettuyen.ptit.edu.vn.  
+1.2.4. Thời gian: Từ ngày 15/5/2026 đến ngày 20/6/2026 
+1.2.5. Lệ phí xét duyệt hồ sơ: 100.000/hồ sơ 
+1.3 Liên hệ và Hỗ trợ 
+- Thí sinh có thể truy cập cổng thông tin tuyển sinh tại địa chỉ:  
+hoặc https://tuyensinh.ptit.edu.vn 
+- Số điện thoại hỗ trợ: 024.33512252, 024.33528122, 028.38297220 
+- Website: https://ptit.edu.vn, https://tuyensinh.ptit.edu.vn  
+-    Email: tuyensinh@ptit.edu.vn 
+-    Fanpage: https://facebook.com/ptittuyensinh 
+-    Zalo: Học viện Công nghệ Bưu chính Viễn thông (ID 1260203497642986925) 
+- Địa điểm tiếp nhận hồ sơ đăng ký xét tuyển: 
+CƠ SỞ ĐÀO TẠO PHÍA BẮC (mã trường BVH): 
+Học viện Công nghệ Bưu chính Viễn thông 
+
+### Trang 10
+
+ 
+9 
+ 
+Số 96A Trần Phú, Phường Hà Đông, Thành phố Hà Nội 
+CƠ SỞ ĐÀO TẠO PHÍA NAM (mã trường BVS): 
+Học viện Công nghệ Bưu chính Viễn thông - Cơ sở Tp. Hồ Chí Minh 
+Số 11 Nguyễn Đình Chiểu, Phường Sài Gòn, Thành phố Hồ Chí Minh 
+2. DANH MỤC MINH CHỨNG 
+2.1. Đối với Phương thức Xét tuyển tài năng: Xét tuyển dựa vào hồ sơ năng lực 
+(HSNL)  
+a) Bản chụp Giấy chứng nhận đạt giải kỳ thi chọn học sinh giỏi quốc gia hoặc Giấy xác 
+nhận đã tham gia k ỳ thi chọn học sinh giỏi quốc gia hoặc Giấy chứng nhận đạt giải kỳ thi 
+chọn học sinh giỏi THPT cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) hoặc  của Đại học Quốc 
+gia Hà Nội, Đại học Quốc gia thành phố Hồ Chí Minh, Đại học Huế, Trường Đại học Sư phạm Hà Nội, 
+Trường Đại học Sư phạm thành phố Hồ Chí Minh, Trường Đại học Vinh. 
+b) Hoặc Giấy xác nhận là học sinh chuyên các môn Toán, Vật lí, Hóa học, Tin học, Tiếng 
+Anh, Ngữ văn của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên 
+thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại 
+học) hoặc  hệ chuyên thuộc các trường THPT trọng điểm quốc gia (nếu học bạ THPT không 
+ghi hệ chuyên). 
+c) Bản chụp Học bạ THPT, trong trường hợp thí sinh chưa xin được học bạ THPT thì có 
+thể thay thế bằng bản xác nhận kết quả học tập các môn học năm lớp 10, lớp 11, lớp 12 có 
+ký và đóng dấu của trường THPT; 
+d) Bản chụp Căn cước công dân; 
+e) Bản chụp các giấy tờ ưu tiên khác (nếu có). 
+2.2. Đối với Phương thức xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng 
+lực quốc tế (chứng chỉ SAT/ACT) 
+a) Bản chụp Chứng chỉ quốc tế SAT hoặc ACT còn trong thời hạn (tính đ ến ngày d ự 
+tuyển); 
+b) Bản chụp Căn cước công dân; 
+c) Bản chụp các giấy tờ ưu tiên khác (nếu có). 
+2.3. Đối với Phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực 
+hoặc đánh giá tư duy 
+a) Bản chụp Giấy báo điểm/kết quả thi đánh giá năng lực hoặc đánh giá tư duy. 
+b) Bản chụp Căn cước công dân; 
+c) Bản chụp các giấy tờ ưu tiên khác (nếu có); 
+2.4. Đối với Phương thức xét tuyển kết hợp giữa chứng chỉ tiếng Anh quốc tế 
+(chứng chỉ IELTS, TOEFL) với kết quả học tập ở  bậc THPT 
+a) Bản chụp Chứng chỉ tiếng Anh quốc tế còn trong thời hạn (tính đến ngày dự tuyển); 
+
+### Trang 11
+
+ 
+10 
+ 
+b) Bản sao hợp lệ Học bạ THPT, trong trường hợp thí sinh chưa xin được học bạ THPT 
+thì có thể thay thế bằng bản xác nhận kết quả học tập các môn học năm lớp 10, lớp 11, lớp 
+12 có ký và đóng dấu của trường THPT; 
+c) Bản chụp Căn cước công dân; 
+d) Bản chụp các giấy tờ ưu tiên khác (nếu có). 
+3. HƯỚNG DẪN KHAI ĐĂNG KÝ THÔNG TIN XÉT TUYỂN TRỰC TUYẾN (ONLINE) 
+Thí sinh truy cập vào Hệ  thống xét tuyển tại địa chỉ  https://xettuyen.ptit.edu.vn 
+để thực hiện đăng ký xét tuyển. 
+3.1. Đăng ký, đăng nhập 
+a. Tạo tài khoản sử dụng:  
+Thí sinh thực hiện các bước sau để tiến hành tạo và xác minh tài khoản. Cụ thể như 
+sau: 
+- Bước 1: Thí sinh click vào Đăng ký tài kho ản ở màn hình đăng nh ập để đăng ký tài 
+khoản. 
+ 
+- Bước 2: Màn hình hiển thị form mẫu đăng ký, thí sinh nhập thông tin của mình vào các 
+ô tương ứng để tạo tài khoản. Click vào Đăng ký cuối form để tạo tài khoản.  
+
+
+### Trang 12
+
+ 
+11 
+ 
+ 
+Màn hình hiển thị: 
+ 
+Nếu chắc chắn với các thông tin đăng ký bạn click vào OK, nếu có lỗi bạn click vào Hủy 
+để quay lại màn hình đăng ký. 
+- Bước 3: Sau khi đăng ký tài khoản hệ thống sẽ gửi thư kích hoạt vào tài khoản email mà 
+thí sinh đăng ký. Thí sinh đăng nhập vào email đã đăng ký tài khoản, click vào Kích hoạt 
+để kích hoạt tài khoản.  
+
+
+### Trang 13
+
+ 
+12 
+ 
+ 
+- Bước 4: Sau khi kích hoạt tài khoản thành công, thí sinh thực hiện truy cập vào hệ thống 
+với tài khoản vừa tạo. 
+ 
+ 
+
+
+### Trang 14
+
+ 
+13 
+ 
+b. Đăng nhập: Sau khi kích hoạt tài khoản trên mail, thí sinh quay lại hệ thống và 
+thực hiện đăng nhập 
+ 
+c. Chỉnh sửa thông tin tài khoản:  
+- Bước 1: Thí sinh ấn vào “Trang cá nhân” 
+ 
+- Bước 2: Thí sinh click vào thông tin cá nhân muốn chỉnh sửa,thực hiện chỉnh sửa  và ấn 
+lưu để hoàn tất việc chỉnh sửa 
+
+
+### Trang 15
+
+ 
+14 
+ 
+ 
+d. Đổi mật khẩu:  
+- Bước 1: Thí sinh ấn vào “Trang cá nhân” 
+ 
+- Bước 2: Thí sinh chọn tab Đổi mật khẩu. Màn hình đổi mật khẩu hiển thị 
+ 
+
+
+### Trang 16
+
+ 
+15 
+ 
+- Bước 3: Thí sinh dùng nhập mật khẩu mới, sau đó ấn Lưu 
+ 
+3.2. Khai báo thông tin hồ sơ đăng ký xét tuyển 
+Sau khi thí sinh đã định danh tài khoản thành công và đăng nhập vào hệ thống. Màn 
+hình hệ thống hiển thị  
+ 
+▪ Ở mục Xét tuyển trực tuyến thí sinh chọn “Xem chi tiết”   
+
+
+### Trang 17
+
+ 
+16 
+ 
+ 
+Màn hình hiển thị, chọn “Thêm mới hồ sơ” 
+ 
+▪ Màn hình sẽ hiển thị các Phương thức xét  tuyển năm 2026 của Học viện, thí sinh lựa 
+chọn Phương thức xét tuyển phù hợp. 
+
+
+### Trang 18
+
+ 
+17 
+ 
+ 
+▪ Phương thức 1: Xét tuyển tài năng: Xét tuyển dựa vào hồ sơ năng lực (HSNL), 
+thí sinh chọn ô 1   
+ 
+▪ Phương thức 2: Xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc 
+tế, thí sinh chọn ô 2  
+
+
+### Trang 19
+
+ 
+18 
+ 
+ 
+▪ Phương thức 3: Xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh 
+giá tư duy, thí sinh chọn ô 3   
+ 
+▪ Phương thức 4: Xét tuyển kết hợp giữa Chứng chỉ tiếng Anh quốc tế với kết 
+quả học tập ở bậc THPT, thí sinh chọn ô 4   
+
+
+### Trang 20
+
+ 
+19 
+ 
+ 
+➢ Chọn “Khai báo hồ sơ” để thực hiện khai báo hồ sơ xét tuyển 
+ 
+➢ Đối với Phương thức Xét tuyển tài năng màn hình hiển thị 
+
+
+### Trang 21
+
+ 
+20 
+ 
+ 
+➢ Đối với Phương thức Xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng 
+lực quốc tế màn hình hiển thị 
+ 
+
+
+### Trang 22
+
+ 
+21 
+ 
+➢ Đối với Phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực 
+hoặc đánh giá tư duy màn hình hiển thị 
+ 
+➢ Đối với Phương thức Xét tuyển kết hợp giữa Chứng chỉ tiếng Anh quốc tế 
+với kết quả học tập ở bậc THPT màn hình hiển thị 
+
+
+### Trang 23
+
+ 
+22 
+ 
+ 
+➢ Chọn “Tiếp theo” 
+ 
+➢ Thí sinh cần thực hiện đầy đủ 4 bước sau để khai báo và nộp hồ sơ. Học viện chỉ tiếp 
+nhận các hồ sơ đã khai báo đầy đủ thông tin và nộp hồ sơ trước ngày kết thúc đăng ký. 
+ 
+❖ Bước 1: Khai báo Thông tin cá nhân 
+Thí sinh cập nhật thông tin cá nhân bằng cách nhập chính xác và đầy đủ thông tin vào 
+các trường bên dưới. Sau đó chọn nút Bước 2/4 để đến bước tiếp theo. 
+
+
+### Trang 24
+
+ 
+23 
+ 
+ 
+❖ Bước 2: Thông tin học tập 
+
+
+### Trang 25
+
+ 
+24 
+ 
+ 
+Thí sinh nhập đầy đủ thông tin về trường THPT đang theo học 
+
+
+### Trang 26
+
+ 
+25 
+ 
+ 
+➢ Thí sinh điền thông tin về tỉnh/ TP, xã/ phường, tên trường. Hệ thống sẽ tự điền các 
+thông tin mã tỉnh và mã trường tương ứng. 
+➢ Đối tượng ưu tiên: Thí sinh lựa chọn đối tượng ưu tiên. 
++ Nếu không thuộc đối tượng ưu tiên: màn hình hiển thị 
+ 
++ Nếu thuộc đối tượng ưu tiên:  Thí sinh chọn đối tượng và up minh chứng kèm 
+theo 
+ 
+➢ Khu vực ưu tiên: Thí sinh khai báo tên trường, Hệ thống sẽ xác định khu vực ưu 
+tiên. 
+➢ Năm tốt nghiệp: Thí sinh điền năm tốt nghiệp 
+➢ Phương thức xét tuyển:  
+a. Xét tuyển tài năng:  
+ 
+Chọn Đối tượng xét tuyển 
+ 
+
+
+### Trang 27
+
+ 
+26 
+ 
+Thí sinh xác định mình thuộc đối tượng nào thì tích chọn đối tượng đó , với mỗi đối 
+tượng, hồ sơ khai báo cho thí sinh sẽ khác nhau. 
+Lưu ý: Thí sinh ch ỉ được chọn 1 đối tượng nếu có đủ thông tin và đ ạt điều 
+kiện đầu vào của các đối tượng đó. 
+• Đối với đối tượng Thí sinh xét tuyển thẳng và Thí sinh ưu tiên xét tuyển 
+ 
+Tùy loại giải thưởng sinh viên có thể chọn Giải học sinh giỏi hoặc Giải khoa học kỹ thuật 
+➢ Nếu Sinh viên chọn Giải học sinh giỏi 
+ 
+ 
+ 
+Chọn Giải Olympic quốc tế  hoặc giải Quốc gia, điền đầy đủ Thông tin về giải HSG 
+ 
+ 
+ 
+
+
+### Trang 28
+
+ 
+27 
+ 
+➢ Nếu Sinh viên chọn Giải khoa học kỹ thuật 
+ 
+ 
+Chọn Giải Quốc tế hoặc giải Quốc gia, điền đầy đủ Thông tin về giải KHKT 
+ 
+ 
+ 
+• Đối với đối tượng Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi 
+Olympic quốc tế các môn Toán, Vật lí, Hóa học, Tin học: 
+
+
+### Trang 29
+
+ 
+28 
+ 
+ 
+
+
+### Trang 30
+
+ 
+29 
+ 
+• Đối với đối tượng Thí sinh là học sinh chuyên của trường THPT chuyên: 
+ 
+ 
+• Đối với đối tượng Thí sinh sử dụng giải Học sinh giỏi Quốc gia/ Học sinh giỏi 
+Tỉnh/ Thành phố trực thuộc Trung ương/ Học sinh giỏi cấp trường đại học 
+
+
+### Trang 31
+
+ 
+30 
+ 
+ 
+
+
+### Trang 32
+
+ 
+31 
+ 
+b. Xét tuyển dựa vào kết quả chứng chỉ đánh giá năng lực quốc tế (chứng chỉ 
+SAT/ACT):  
+ 
+
+
+### Trang 33
+
+ 
+32 
+ 
+c. Xét tuyển dựa vào kết quả bài thi đánh giá năng lực (ĐGNL) hoặc đánh giá 
+tư duy (ĐGTD):  
+ 
+
+
+### Trang 34
+
+ 
+33 
+ 
+d. Xét tuy ển kết h ợp gi ữa ch ứng ch ỉ tiếng Anh qu ốc t ế (chứng ch ỉ IELTS, 
+TOEFL) với kết quả học tập ở bậc THPT 
+ 
+
+
+### Trang 35
+
+ 
+34 
+ 
+❖ Bước 3: Đăng ký nguyện vọng 
+➢ Thêm nguyện vọng: 
+• Màn hình danh sách nguyện vọng hiển thị 
+ 
+• Nhấn vào ô “Thêm nguyện vọng” 
+ 
+• Lựa chọn các thông tin “Phương thức/Đối tượng xét tuyển” phù hợp 
+• Sau đó, Thí sinh chọn thông tin Cơ sở đào tạo, Ngành đăng ký xét tuyển, Tổ hợp 
+đăng ký xét tuy ển (trừ Phương thức xét tuy ển dựa vào bài thi ĐGNL, ĐGTD ; 
+Phương thức xét tuy ển dựa vào k ết quả chứng chỉ đánh giá năng l ực quốc tế 
+(chứng chỉ SAT/ACT)). Sau đó, sinh viên nh ập nguyện vọng tương ứng -> ấn 
+“Lưu”. 
+• Lưu ý: Mỗi thí sinh được đăng ký tối đa 5 nguyện vọng/ phương thức. 
+
+
+### Trang 36
+
+ 
+35 
+ 
+ 
+ 
+➢ Thay đổi thứ tự nguyện vọng 
+Thí sinh có thể thay đổi thứ tự nguyện vọng bằng cách click vào nút mũi tên lên 
+hoặc xuống ở cột thao tác đối với mỗi nguyện vọng 
+ 
+Các bước thực hiện tương tự nếu sinh viên mu ốn thêm nguyện vọng khác. Thí sinh 
+được chọn tối đa 2 nguyện vọng để xét tuyển vào trường. 
+➢ Chỉnh sửa nguyện vọng 
+Thí sinh chọn biểu tượng  ở cuối hàng nguyện vọng mình muốn chỉnh sửa 
+
+
+### Trang 37
+
+ 
+36 
+ 
+ 
+ Màn hình chỉnh sửa hiển thị. Người dùng chỉnh sửa nội dung, sau đó ấn “Lưu”. 
+ 
+➢ Xóa nguyện vọng 
+Thí sinh chọn biểu tượng  ở cuối hàng nguyện vọng mình muốn xóa 
+
+
+### Trang 38
+
+ 
+37 
+ 
+ 
+ Chọn Có để thực hiện xóa nguyện vọng 
+ 
+❖ Bước 4: Rà soát và nộp hồ sơ 
+➢ Màn hình hiển thị tổng quan phiếu đăng ký xét tuyển mà sinh viên tạo sau 3 bước. 
+Thí sinh thực hiện kiểm tra lại thông tin của mình. 
+
+
+### Trang 39
+
+ 
+38 
+ 
+ 
+➢ Chỉnh sửa hồ sơ 
+Thí sinh chọn “Chỉnh sửa hồ sơ” thì sẽ hệ thống sẽ chuyển về giao diện Bước 1 để 
+thí sinh có thể thực hiện chỉnh sửa hồ sơ 
+
+
+### Trang 40
+
+ 
+39 
+ 
+ 
+3.3 Khóa hồ sơ, In hồ sơ và Thanh toán 
+Thí sinh chưa bắt buộc phải Khóa hồ sơ ngay lập tức khi khai báo hồ sơ để 
+có thể thực hiện cập nhật thông tin hồ sơ, thay đổi nguyện vọng trong thời gian 
+đăng ký xét tuyển. Chỉ Khóa hồ sơ khi đã đảm bảo khai báo đầy đủ thông tin hồ 
+sơ, không thay đổi nguyện vọng xét tuyển và trong thời gian đăng ký xét tuyển. 
+• Sau khi đã ch ắc chắn các thông tin trên h ồ sơ là chính xác. Thí sinh ch ọn vào 
+“Khóa hồ sơ” 
+ 
+Sau đó ấn “Xác nhận” để thực hiện khóa hồ sơ 
+ 
+Màn hình hiển thị 
+ 
+Lưu ý: Sau khi Khóa và nộp hồ sơ, thí sinh không thể thực hiện chỉnh sửa hồ sơ mà 
+chỉ có thể xem lại hồ sơ đã nộp. 
+❖ Thanh toán 
+Thí sinh chọn “Xem thông tin thanh toán” để thực hiện thanh toán lệ phí xét tuyển 
+
+
+### Trang 41
+
+ 
+40 
+ 
+ 
+Màn hình hiển thị, thí sinh lưu ý không quét mã QR trong hình tham khảo dưới đây, thí 
+sinh quét mã QR hiển thị ở hồ sơ của thí sinh: 
+ 
+• Thí sinh sử dụng ứng dụng ngân hàng và quét mã QR để thanh toán 
+• Thí sinh có thể tham khảo mẫu hướng dẫn thanh toán chi tiết đính kèm ở hướng 
+dẫn trên màn hình 
+
+
+### Trang 42
+
+ 
+41 
+ 
+4. HƯỚNG DẪN THANH TOÁN LỆ PHÍ ĐKXT 
+Sau khi thí sinh th ực hiện đăng ký xét tuy ển thành công, h ệ thống sẽ hiển thị thông tin 
+thanh toán của thí sinh với 3 mã thanh toán như hình dưới: (Mã thanh toán này chính là số tài 
+khoản thụ hưởng) 
+1. Mã QR: Quét mã QR đ ể hiển thị thông tin thanh toán liên ngân hàng v ới các ngân 
+hàng khác BIDV 
+2. Mã thanh toán cho BIDV : nhập số này vào phần mã khách hàng n ếu người dùng 
+sử dụng ngân hàng BIDV 
+3. Mã thanh toán cho ngân hàng khác: nhập số này vào phần số tài khoản thụ hưởng 
+nếu người dùng sử dụng ngân hàng khác BIDV 
+ 
+4.1. Thanh toán b ằng phương thức Quét mã QR trên ứng dụng ngân hàng 
+ 
+
+
+### Trang 43
+
+ 
+42 
+ 
+ 
+ 
+ 
+4.2. Thanh toán chuy ển khoản bằng smart-banking của BIDV 
+ 
+ 
+
+
+### Trang 44
+
+ 
+43 
+ 
+ 
+ 
+4.3. Thanh toán b ằng Smart-banking của BIDV đối với người không dùng BIDV  
+ 
+ 
+
+
+### Trang 45
+
+ 
+44 
+ 
+ 
+ 
+4.4. Thanh toán b ằng tiền mặt tại quầy giao dịch của các ngân hàng  
+ 
+
+
+### Trang 46
+
+ 
+45 
+ 
+ 
+Hoặc  
+ 
+
+
+### Trang 47
+
+ 
+46 
+ 
+ 
+ 
+---------------HẾT--------------- 

@@ -1,0 +1,119 @@
+{
+  "id": 5256,
+  "date": "2026-04-13T14:57:58",
+  "date_gmt": "2026-04-13T07:57:58",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5256"
+  },
+  "modified": "2026-04-13T14:57:58",
+  "modified_gmt": "2026-04-13T07:57:58",
+  "slug": "ky-thuat-du-lieu",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/ky-thuat-du-lieu/",
+  "title": {
+    "rendered": "Kỹ thuật dữ liệu"
+  },
+  "content": {
+    "rendered": "<p>Mùa tuyển sinh đang tới gần, chắc hẳn các bạn lớp 12 đang có những dự định riêng khi chọn ngành, chọn trường, bên cạnh đó cũng có những bạn đang phân vân không biết chọn ngành nghề phù hợp cũng như môi trường học tập tốt để theo đuổi ngành nghề của mình. Do đó, chương trình Trà chiều cùng trường P sẽ giải đáp thắc mắc cho những bạn nào còn phân vân không biết chọn ngành nghề gì cho phù hợp cũng như giới thiệu qua các ngành nghề tại Học viện Công nghệ Bưu chính Viễn thông.</p>\n<p><iframe title=\"Tổng quan về ngành học Kỹ thuật Dữ liệu - [Tuyển sinh PTIT]\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/J8GTiaCNwC0?start=20&#038;feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n<p>Brochure giới thiệu chương trình: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Ky-thuat-du-lieu.pdf\">Chương trình Kỹ thuật dữ liệu</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tổng quan về Chương trình Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5258,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    7
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5256",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_dinh_huong"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5256",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5256"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5256/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5258"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5256"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5256"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5256"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

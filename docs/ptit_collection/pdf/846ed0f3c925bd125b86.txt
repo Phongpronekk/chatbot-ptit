@@ -1,0 +1,316 @@
+### Trang 1
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT ĐIỆN TỬ - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(15 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(16 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp nghiên 
+cứu khoa học (2TC)
+Truyền thông số nâng 
+cao (3TC)
+Các chủ đề điện tử 
+hiện đại (3TC)
+Hệ thống nhúng và 
+công nghệ IoT tiên 
+tiến (3 TC)
+Quản lý dự án và đổi 
+mới sáng tạo (3TC)
+03 Học phần tự chọn 
+chuyên ngành B (9TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+02 Học phần tự chọn 
+cơ sở ngành A (6TC)
+02 Học phần tự chọn 
+chuyên ngành C 
+(4TC)
+Xử lý đa phương tiện 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Kỹ thuật robot và điều khiển thông minh (3TC);
+2. Quy trình sản xuất điện tử, vi mạch bán dẫn (3TC);
+3. Máy tính lượng tử (3TC);
+4. Công nghệ MEMS/NEMS (3TC);
+5. Công nghệ AIoT (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Công nghệ plasma trong chế tạo bán dẫn (3TC);
+2. Công nghệ màng mỏng và khoa học nano tiên tiến 
+(3TC);
+3. Học sâu và ứng dụng trong xử lý tín hiệu (3TC);
+4. Thiết kế hệ thống VLSI tiên tiến (3TC);
+5. Điện tử công nghiệp (3TC);
+6. Ứng dụng AI trong điện tử (3TC);
+7. Thị giác máy tính nâng cao (3TC);
+8. Chuyên đề điện tử y sinh (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. Kiểm tra và xác minh IC tiên tiến (2TC);
+2. Vật liệu và công nghệ bán dẫn tiên tiến (2TC);
+3. Công nghệ đóng gói vi mạch tiên tiến (2TC);
+4. Học sâu và thiết kế ngược cho vi mạch tích hợp (2TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT ĐIỆN TỬ - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(15 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(16 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp nghiên 
+cứu khoa học (2TC)
+Truyền thông số nâng 
+cao (3TC)
+Các chủ đề điện tử 
+hiện đại (3TC)
+Hệ thống nhúng và 
+công nghệ IoT tiên 
+tiến (3 TC)
+Quản lý dự án và đổi 
+mới sáng tạo (3TC)
+03 Học phần tự chọn 
+chuyên ngành B (9TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+02 Học phần tự chọn 
+cơ sở ngành A (6TC)
+02 Học phần tự chọn 
+chuyên ngành C 
+(4TC)
+Xử lý đa phương tiện 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Kỹ thuật robot và điều khiển thông minh (3TC);
+2. Quy trình sản xuất điện tử, vi mạch bán dẫn (3TC);
+3. Máy tính lượng tử (3TC);
+4. Công nghệ MEMS/NEMS (3TC);
+5. Công nghệ AIoT (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Công nghệ plasma trong chế tạo bán dẫn (3TC);
+2. Công nghệ màng mỏng và khoa học nano tiên tiến 
+(3TC);
+3. Học sâu và ứng dụng trong xử lý tín hiệu (3TC);
+4. Thiết kế hệ thống VLSI tiên tiến (3TC);
+5. Điện tử công nghiệp (3TC);
+6. Ứng dụng AI trong điện tử (3TC);
+7. Thị giác máy tính nâng cao (3TC);
+8. Chuyên đề điện tử y sinh (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. Kiểm tra và xác minh IC tiên tiến (2TC);
+2. Vật liệu và công nghệ bán dẫn tiên tiến (2TC);
+3. Công nghệ đóng gói vi mạch tiên tiến (2TC);
+4. Học sâu và thiết kế ngược cho vi mạch tích hợp (2TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT ĐIỆN TỬ - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(15 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(16 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp nghiên 
+cứu khoa học (2TC)
+Truyền thông số nâng 
+cao (3TC)
+Các chủ đề điện tử 
+hiện đại (3TC)
+Hệ thống nhúng và 
+công nghệ IoT tiên 
+tiến (3 TC)
+Quản lý dự án và đổi 
+mới sáng tạo (3TC)
+03 Học phần tự chọn 
+chuyên ngành B (9TC)
+Thực tập và Đề án tốt 
+nghiệp (15TC)
+02 Học phần tự chọn 
+cơ sở ngành A (6TC)
+02 Học phần tự chọn 
+chuyên ngành C 
+(4TC)
+Xử lý đa phương tiện 
+(3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Kỹ thuật robot và điều khiển thông minh (3TC);
+2. Quy trình sản xuất điện tử, vi mạch bán dẫn (3TC);
+3. Máy tính lượng tử (3TC);
+4. Công nghệ MEMS/NEMS (3TC);
+5. Công nghệ AIoT (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Công nghệ plasma trong chế tạo bán dẫn (3TC);
+2. Công nghệ màng mỏng và khoa học nano tiên tiến 
+(3TC);
+3. Học sâu và ứng dụng trong xử lý tín hiệu (3TC);
+4. Thiết kế hệ thống VLSI tiên tiến (3TC);
+5. Điện tử công nghiệp (3TC);
+6. Ứng dụng AI trong điện tử (3TC);
+7. Thị giác máy tính nâng cao (3TC);
+8. Chuyên đề điện tử y sinh (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. Kiểm tra và xác minh IC tiên tiến (2TC);
+2. Vật liệu và công nghệ bán dẫn tiên tiến (2TC);
+3. Công nghệ đóng gói vi mạch tiên tiến (2TC);
+4. Học sâu và thiết kế ngược cho vi mạch tích hợp (2TC).
+
+### Trang 2
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT ĐIỆN TỬ - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(15 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(16 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp nghiên 
+cứu khoa học (2TC)
+Truyền thông số nâng 
+cao (3TC)
+Chuyên đề nghiên 
+cứu 1 (3TC)
+Chuyên đề nghiên 
+cứu 4 (3 TC)
+Chuyên đề nghiên 
+cứu 3 (3TC)
+03 Học phần tự chọn 
+chuyên ngành B (9TC)
+Luận văn tốt nghiệp 
+(15TC)
+02 Học phần tự chọn 
+cơ sở ngành A (6TC)
+02 Học phần tự chọn 
+chuyên ngành C 
+(4TC)
+Chuyên đề nghiên 
+cứu 2 (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Kỹ thuật robot và điều khiển thông minh (3TC);
+2. Quy trình sản xuất điện tử, vi mạch bán dẫn (3TC);
+3. Máy tính lượng tử (3TC);
+4. Công nghệ MEMS/NEMS (3TC);
+5. Công nghệ AIoT (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Hệ thống nhúng và công nghệ IoT tiên tiến (3TC);
+2. Quản lý dự án và đổi mới sáng tạo (3TC);
+3. Học sâu và ứng dụng trong xử lý tín hiệu (3TC);
+4. Thiết kế hệ thống VLSI tiên tiến (3TC);
+5. Các chủ đề điện tử hiện đại (3TC);
+6. Ứng dụng AI trong điện tử (3TC);
+7. Xử lý đa phương tiện (3TC);
+8. Chuyên đề điện tử y sinh (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. Kiểm tra và xác minh IC tiên tiến (2TC);
+2. Vật liệu và công nghệ bán dẫn tiên tiến (2TC);
+3. Công nghệ đóng gói vi mạch tiên tiến (2TC);
+4. Học sâu và thiết kế ngược cho vi mạch tích hợp (2TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT ĐIỆN TỬ - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(15 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(16 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp nghiên 
+cứu khoa học (2TC)
+Truyền thông số nâng 
+cao (3TC)
+Chuyên đề nghiên 
+cứu 1 (3TC)
+Chuyên đề nghiên 
+cứu 4 (3 TC)
+Chuyên đề nghiên 
+cứu 3 (3TC)
+03 Học phần tự chọn 
+chuyên ngành B (9TC)
+Luận văn tốt nghiệp 
+(15TC)
+02 Học phần tự chọn 
+cơ sở ngành A (6TC)
+02 Học phần tự chọn 
+chuyên ngành C 
+(4TC)
+Chuyên đề nghiên 
+cứu 2 (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Kỹ thuật robot và điều khiển thông minh (3TC);
+2. Quy trình sản xuất điện tử, vi mạch bán dẫn (3TC);
+3. Máy tính lượng tử (3TC);
+4. Công nghệ MEMS/NEMS (3TC);
+5. Công nghệ AIoT (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Hệ thống nhúng và công nghệ IoT tiên tiến (3TC);
+2. Quản lý dự án và đổi mới sáng tạo (3TC);
+3. Học sâu và ứng dụng trong xử lý tín hiệu (3TC);
+4. Thiết kế hệ thống VLSI tiên tiến (3TC);
+5. Các chủ đề điện tử hiện đại (3TC);
+6. Ứng dụng AI trong điện tử (3TC);
+7. Xử lý đa phương tiện (3TC);
+8. Chuyên đề điện tử y sinh (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. Kiểm tra và xác minh IC tiên tiến (2TC);
+2. Vật liệu và công nghệ bán dẫn tiên tiến (2TC);
+3. Công nghệ đóng gói vi mạch tiên tiến (2TC);
+4. Học sâu và thiết kế ngược cho vi mạch tích hợp (2TC).

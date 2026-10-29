@@ -1,0 +1,119 @@
+{
+  "id": 5598,
+  "date": "2026-05-08T15:05:08",
+  "date_gmt": "2026-05-08T08:05:08",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5598"
+  },
+  "modified": "2026-05-08T15:05:08",
+  "modified_gmt": "2026-05-08T08:05:08",
+  "slug": "thong-bao-ve-viec-sua-doi-bo-sung-mot-so-noi-dung-cua-thong-bao-tuyen-sinh-dai-hoc-tu-xa-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-ve-viec-sua-doi-bo-sung-mot-so-noi-dung-cua-thong-bao-tuyen-sinh-dai-hoc-tu-xa-nam-2026/",
+  "title": {
+    "rendered": "Thông báo về việc sửa đổi, bổ sung một số nội dung của Thông báo tuyển sinh Đại học từ xa năm 2026"
+  },
+  "content": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông Thông báo về việc sửa đổi, bổ sung một số nội dung của Thông báo tuyển sinh Đại học từ xa năm 2026. Chi tiết trong file đính kèm: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/SDaotao_45826050815220.pdf\">SDaotao_45826050815220</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông Thông báo về việc sửa đổi, bổ sung một số nội dung của Thông báo tuyển sinh Đại học từ xa năm 2026. Chi tiết trong file đính kèm: SDaotao_45826050815220</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 5600,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    26
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5598",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_khac"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5598",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5598"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5598/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5600"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5598"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5598"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5598"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

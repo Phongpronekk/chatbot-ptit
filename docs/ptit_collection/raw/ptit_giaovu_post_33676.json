@@ -1,0 +1,129 @@
+{
+  "id": 33676,
+  "date": "2026-10-19T14:20:20",
+  "date_gmt": "2026-10-19T07:20:20",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33676"
+  },
+  "modified": "2026-10-19T16:59:48",
+  "modified_gmt": "2026-10-19T09:59:48",
+  "slug": "to-chuc-bien-che-tai-trung-tam-giao-duc-quoc-phong-an-cho-sinh-vien-khoa-2026-dot-1",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/to-chuc-bien-che-tai-trung-tam-giao-duc-quoc-phong-an-cho-sinh-vien-khoa-2026-dot-1/",
+  "title": {
+    "rendered": "Tổ chức biên chế tại Trung tâm giáo dục Quốc phòng an ninh cho sinh viên khóa 2026 (đợt 1)"
+  },
+  "content": {
+    "rendered": "<p>&#8211; Căn cứ kế hoạch đào tạo năm 2026-2027 của Trung tâm GDQP&amp;AN thuộc Trường Quân sự, Bộ Tư lệnh Thủ đô Hà Nội;</p>\n<p>&#8211; Căn cứ Kế hoạch đào tạo Giáo dục quốc phòng &#8211; An ninh cho khóa 2026 của Học viện;</p>\n<p>Phòng Giáo vụ thông báo về việc dự kiến tổ chức biên chế cho các lớp hệ Đại học chính quy Khóa 2026 – đợt 1 tham gia học phần Giáo dục quốc phòng, an ninh, như sau:</p>\n<p>+ Toàn đợt có 10 Đại đội, mỗi Đại đội có từ 120 đến 160 sinh viên, do một Thầy/ Cô là Cán bộ Trung tâm GDQP&amp;AN làm Đại đội trưởng;</p>\n<p>+ Các Trung đội Trưởng, Tiểu đội Trưởng sẽ được phân công khi Sinh viên đến tập trung học tập tại trung tâm.</p>\n<p>+ Biên chế Đại đội<strong>: <em>xem tại file đính kèm</em></strong><em>.</em></p>\n<p>* <em>Một số thông tin cụ thể hơn ( Chi tiết biên chế đến Trung đội, Tiểu đội; Phòng ở của các Đại đội, phòng ở từng cá nhân, vấn đề xin đổi phòng ở…) Sinh viên sẽ được phổ biến khi đến tập trung tại Trung tâm GDQP&amp;AN.</em></p>\n<p>Phòng Giáo vụ thông báo tới các sinh viên tham gia học đợt 1 để biết và thực hiện<strong>.</strong></p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/10/Danh_sach_bien_che_dai_doi_dot1.xlsx\">Danh_sach_bien_che_dai_doi_dot1</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>&#8211; Căn cứ kế hoạch đào tạo năm 2026-2027 của Trung tâm GDQP&amp;AN thuộc Trường Quân sự, Bộ Tư lệnh Thủ đô Hà Nội; &#8211; Căn cứ Kế hoạch đào tạo Giáo dục quốc phòng &#8211; An ninh cho khóa 2026 của Học viện; Phòng Giáo vụ thông báo về việc dự kiến tổ chức [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 98,
+  "featured_media": 32454,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33676",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33676",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/98"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33676"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33676/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33680,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33676/revisions/33680"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32454"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33676"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33676"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33676"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

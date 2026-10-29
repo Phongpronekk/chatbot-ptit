@@ -1,0 +1,204 @@
+### sheet1.xml
+A1: DANH SÁCH SINH VIÊN KHÓA 2025 ĐƯỢC BỐ TRÍ Ở KÝ TÚC XÁ B2 - HỌC KỲ I, NĂM HỌC 2025-2026
+A3: TT | B3: Họ và tên | C3: Năm sinh | D3: MSV | E3: Giới tính | F3: Mã SV | G3: Ngành học | H3: KTX | I3: Phòng | J3: Số thứ tự | K3: Ghi chú | L3: Thời gian | M3: Phòng
+A4: 1 | B4: Lê Thành Long | D4: B25DCAT082 | E4: Nam | G4: An toàn thông tin | H4: B2 | J4: 180 | L4: Chiều 03/9
+A5: 2 | B5: Lê Tiến Thành | D5: B25DCAT136 | E5: Nam | G5: An toàn thông tin | H5: B2 | J5: 164 | L5: Chiều 03/9
+A6: 3 | B6: Nguyễn Quang Minh | D6: B25DCAT094 | E6: Nam | G6: An toàn thông tin | H6: B2 | J6: 156 | L6: Chiều 03/9
+A7: 4 | B7: Đặng Duy Hưng | E7: Nam | G7: An toàn thông tin | H7: B2 | J7: 141 | L7: Chiều 03/9 | M7: 505
+A8: 5 | B8: Đặng Phương Uyên | D8: B25DCAT172 | E8: Nữ | G8: An toàn thông tin | H8: B2 | J8: 146 | L8: Chiều 03/9
+A9: 6 | B9: Nguyễn Hồng Hạnh | D9: B25DCAT061 | E9: Nữ | G9: An toàn thông tin | H9: B2 | J9: 129 | L9: Chiều 03/9
+A10: 7 | B10: Đặng Thành Danh | D10: B25DCAT024 | E10: Nam | G10: An toàn thông tin | H10: B2 | J10: 110 | L10: Chiều 03/9
+A11: 8 | B11: Phạm Đạt Anh | D11: B25DCAT010 | E11: Nam | G11: An toàn thông tin | H11: B2 | J11: 112 | L11: Chiều 03/9
+A12: 9 | B12: Nguyễn Thị Phương Thảo | D12: B25DCBC078 | E12: Nữ | G12: Báo chí | H12: B2 | J12: 192 | K12: Hộ cận ngèo | L12: Sáng 04/9
+A13: 10 | B13: Hoàng Thị Tuyết Nhung | D13: B25DCBC063 | E13: Nữ | G13: Báo chí | H13: B2 | J13: 227 | L13: Sáng 04/9
+A14: 11 | B14: Nguyễn Khắc Hiện | D14: B25DCPT073 | E14: Nam | G14: Báo chí | H14: B2 | J14: 217 | L14: Sáng 04/9
+A15: 12 | B15: Lê Thị Thắm | D15: B25DCBC080 | E15: Nữ | G15: Báo chí | H15: B2 | J15: 211 | L15: Sáng 04/9
+A16: 13 | B16: Nguyễn Thị Nhung | D16: B25DCBC064 | E16: Nữ | G16: Báo chí | H16: B2 | J16: 205 | K16: Hoàn cảnh khó khăn | L16: Sáng 04/9 | M16: 112
+A17: 14 | B17: Trịnh Thị Ngọc Bích | D17: B25DCBC013 | E17: Nữ | G17: Báo chí | H17: B2 | J17: 343 | L17: Sáng 04/9
+A18: 15 | B18: Nguyễn Khánh Huyền | D18: B25DCBC025 | E18: Nữ | G18: Báo chí | H18: B2 | J18: 384 | L18: Ngày 04/9
+A19: 16 | B19: Nguyễn Minh Phương | D19: B25DCPT171 | E19: Nữ | G19: CN ĐPT | H19: B2 | J19: 353 | L19: Sáng 04/9
+A20: 17 | B20: Trần Minh Hiếu | D20: B25DCPT070 | E20: Nam | G20: CN ĐPT | H20: B2 | J20: 322 | L20: Sáng 04/9
+A21: 18 | B21: Nguyễn Thị Huyền | D21: B25DCPT084 | E21: Nữ | G21: CN ĐPT | H21: B2 | J21: 320 | L21: Sáng 04/9
+A22: 19 | B22: Hoàng Thị Linh | D22: B25DCPT112 | E22: Nữ | G22: CN ĐPT | H22: B2 | J22: 200 | L22: Sáng 04/9
+A23: 20 | B23: Nguyễn Tấn Tài | D23: B25DCPT228 | E23: Nam | G23: CN ĐPT | H23: B2 | J23: 188 | K23: Gia đình có công CM | L23: Sáng 04/9
+A24: 21 | B24: Trần Công Hiếu | D24: B25DCPT069 | E24: Nam | G24: CN ĐPT | H24: B2 | J24: 184 | L24: Sáng 04/9
+A25: 22 | B25: Phi Thị Thu | D25: B25DCPT190 | E25: Nữ | G25: CN ĐPT | H25: B2 | J25: 226 | L25: Sáng 04/9
+A26: 23 | B26: Vũ Đức Anh | D26: B25DCPT022 | E26: Nam | G26: CN ĐPT | H26: B2 | J26: 303 | L26: Sáng 04/9
+A27: 24 | B27: Bế Thị Ngọc Diễm | D27: B25DCPT043 | E27: Nữ | G27: CN ĐPT | H27: B2 | J27: 388 | K27: Hoàn cảnh khó khăn | L27: Ngày 04/9
+A28: 25 | B28: Nguyễn Tiến Minh Tú | D28: B25DCPT234 | E28: Nam | G28: CN ĐPT | H28: B2 | J28: 333 | L28: Sáng 04/9
+A29: 26 | B29: Nguyễn Phương Nhi | D29: B25DCPT155 | E29: Nữ | G29: CN ĐPT | H29: B2 | J29: 375 | L29: Sáng 04/9
+A30: 27 | B30: Lý Trường Giang | D30: B25DCDT045 | E30: Nam | G30: CN KT Đ-ĐT | H30: B2 | J30: 354 | L30: Sáng 04/9
+A31: 28 | B31: Quách Nhật Minh | D31: B25DCDT134 | E31: Nam | G31: CN KT Đ-ĐT | H31: B2 | J31: 361 | L31: Sáng 04/9
+A32: 29 | B32: Nguyễn Việt Anh | D32: B25DCDT007 | E32: Nam | G32: CN KT Đ-ĐT | H32: B2 | J32: 359 | L32: Sáng 04/9
+A33: 30 | B33: Phan Quốc Thiện | D33: B25DCDT188 | E33: Nam | G33: CN KT Đ-ĐT | H33: B2 | J33: 349 | L33: Sáng 04/9
+A34: 31 | B34: Vũ Việt Anh | D34: B25DCDT017 | E34: Nam | G34: CN KT Đ-ĐT | H34: B2 | J34: 340 | L34: Sáng 04/9
+A35: 32 | B35: Mai Hoàng Vũ | D35: B25DCDT232 | E35: Nam | G35: CN KT Đ-ĐT | H35: B2 | J35: 352 | L35: Sáng 04/9
+A36: 33 | B36: Nguyễn Anh Tú | D36: B25DCDT224 | E36: Nam | G36: CN KT Đ-ĐT | H36: B2 | J36: 193 | L36: Sáng 04/9
+A37: 34 | B37: Nguyễn Thị Ngọc Mai | D37: B25DCDT125 | E37: Nữ | G37: CN KT Đ-ĐT | H37: B2 | J37: 185 | L37: Sáng 04/9
+A38: 35 | B38: Thân Minh Sơn | D38: B25DCDT184 | E38: Nam | G38: CN KT Đ-ĐT | H38: B2 | J38: 203 | L38: Sáng 04/9
+A39: 36 | B39: Đào Đức Trọng | D39: B25DCDT215 | E39: Nam | G39: CN KT Đ-ĐT | H39: B2 | J39: 210 | L39: Sáng 04/9
+A40: 37 | B40: Lưu Ngọc Trung Kiên | D40: B25DCDT111 | E40: Nam | G40: CN KT Đ-ĐT | H40: B2 | J40: 352 | L40: Sáng 04/9
+A41: 38 | B41: Nguyễn Khánh Hưng | D41: B25DCDT087 | E41: Nam | G41: CN KT Đ-ĐT | H41: B2 | J41: 370 | L41: Sáng 04/9
+A42: 39 | B42: Lương Văn An | D42: B25DCDT002 | E42: Nam | G42: CN KT Đ-ĐT | H42: B2 | J42: 306 | K42: Hoản cảnh khó khăn | L42: Sáng 04/9
+A43: 40 | B43: Nguyễn Công Minh | D43: B25DCVM078 | E43: Nam | G43: CN vi mạch bán dẫn | H43: B2 | J43: 222 | L43: Sáng 04/9
+A44: 41 | B44: Phạm Đức Thắng | D44: B25DCVM117 | E44: Nam | G44: CN vi mạch bán dẫn | H44: B2 | J44: 182 | L44: Sáng 04/9
+A45: 42 | B45: Nguyễn Công Thuận | D45: B25DCVM110 | E45: Nam | G45: CN vi mạch bán dẫn | H45: B2 | J45: 350 | L45: Sáng 04/9
+A46: 43 | B46: Trần Gia Huy | D46: B25DCVM046 | E46: Nam | G46: CN vi mạch bán dẫn | H46: B2 | J46: 348 | L46: Sáng 04/9
+A47: 44 | B47: Đỗ Khắc Gia Bảo | D47: B25DCVM017 | E47: Nam | G47: CN vi mạch bán dẫn | H47: B2 | J47: 213 | K47: An Giang | L47: Sáng 04/9
+A48: 45 | B48: Chu Văn Long | D48: B25DCCN273 | E48: Nam | G48: CNTT | H48: B2 | J48: 183 | L48: Sáng 04/9
+A49: 46 | B49: Mai Lâm Tùng | D49: B25DCCC253 | E49: Nam | G49: CNTT | H49: B2 | J49: 331 | L49: Sáng 04/9
+A50: 47 | B50: Trần Bảo Long | D50: B25DCCN277 | E50: Nam | G50: CNTT | H50: B2 | J50: 79 | L50: Sáng 03/9
+A51: 48 | B51: Trương Nhật Huy | D51: B25DCCN195 | E51: Nam | G51: CNTT | H51: B2 | J51: 76 | L51: Sáng 03/9
+A52: 49 | B52: Đinh Vũ Duy Anh | D52: B25DCCN053 | E52: Nam | G52: CNTT | H52: B2 | J52: 72 | L52: Sáng 03/9
+A53: 50 | B53: Nguyễn Tiến Đạt | D53: B25DCCN587 | E53: Nam | G53: CNTT | H53: B2 | J53: 65 | L53: Sáng 03/9
+A54: 51 | B54: Cấn Huy Long | D54: B25DCCN274 | E54: Nam | G54: CNTT | H54: B2 | J54: 61 | L54: Sáng 03/9
+A55: 52 | B55: Nguyễn Trọng Phú | D55: B25DCCN380 | E55: Nam | G55: CNTT | H55: B2 | J55: 57 | L55: Sáng 03/9
+A56: 53 | B56: Nguyễn Minh Thư | D56: B25DCVN079 | E56: Nữ | G56: CNTT | H56: B2 | J56: 55 | L56: Sáng 03/9
+A57: 54 | B57: Dương Quỳnh Hương | D57: B25DCCN227 | E57: Nữ | G57: CNTT | H57: B2 | J57: 54 | L57: Sáng 03/9
+A58: 55 | B58: Nguyễn Ngọc Tú | D58: B25DCCN530 | E58: Nam | G58: CNTT | H58: B2 | J58: 51 | L58: Sáng 03/9
+A59: 56 | B59: Trương Thanh Huy | E59: Nam | G59: CNTT | H59: B2 | J59: 53 | L59: Sáng 03/9
+A60: 57 | B60: Đặng Tiến Dũng | D60: B25DCCN137 | E60: Nam | G60: CNTT | H60: B2 | J60: 33 | L60: Sáng 03/9
+A61: 58 | B61: Hoàng Anh Tú | D61: B25DCCN525 | E61: Nam | G61: CNTT | H61: B2 | J61: 38 | L61: Sáng 03/9
+A62: 59 | B62: Đặng Huyền Trang | D62: B25DCCN486 | E62: Nữ | G62: CNTT | H62: B2 | J62: 279 | L62: Sáng 03/9
+A63: 60 | B63: Lưu Nam Hà | D63: B25DCCN202 | E63: Nam | G63: CNTT | H63: B2 | J63: 39 | L63: Sáng 03/9
+A64: 61 | B64: Nguyễn Văn Đức | D64: B25DCCN608 | E64: Nam | G64: CNTT | H64: B2 | J64: 27 | L64: Sáng 03/9
+A65: 62 | B65: Phan Minh Hưng | D65: B25DCCN222 | E65: Nam | G65: CNTT | H65: B2 | J65: 268 | L65: Sáng 03/9
+A66: 63 | B66: Nguyễn Bình Phương An | D66: B25DCCN001 | E66: Nữ | G66: CNTT | H66: B2 | J66: 26 | L66: Sáng 03/9
+A67: 64 | B67: Đoàn Văn Hoàng | E67: Nam | G67: CNTT | H67: B2 | J67: 22 | L67: Sáng 03/9
+A68: 65 | B68: Nguyễn Mậu Duy | D68: B25DCCN105 | E68: Nam | G68: CNTT | H68: B2 | J68: 8 | L68: Sáng 03/9
+A69: 66 | B69: Trương Thanh Quân | D69: B25DCCN421 | E69: Nam | G69: CNTT | H69: B2 | J69: 7 | L69: Sáng 03/9
+A70: 67 | B70: Quản Đức Anh | E70: Nam | G70: CNTT | H70: B2 | J70: 2 | L70: Sáng 03/9
+A71: 68 | B71: Trần Thị Trà My | D71: B25DCCN330 | E71: Nữ | G71: CNTT | H71: B2 | J71: 3 | L71: Sáng 03/9
+A72: 69 | B72: Lê Đức Mạnh | D72: B25DCCN333 | E72: Nam | G72: CNTT | H72: B2 | J72: 5 | L72: Sáng 03/9
+A73: 70 | B73: Nghiêm Hương Linh | D73: B25DCLQ045 | E73: Nữ | G73: CNTT | H73: B2 | J73: 28 | L73: Sáng 03/9
+A74: 71 | B74: Trần Thị Thu Trang | D74: B25DCCN | E74: Nữ | G74: CNTT | H74: B2 | J74: 122 | L74: Chiều 03/9
+A75: 72 | B75: Vũ Duy Hòa | D75: B25DCCE070 | E75: Nam | G75: CNTT | H75: B2 | J75: 118 | L75: Chiều 03/9
+A76: 73 | B76: Nguyễn Minh Hiệp | D76: B25DCCN167 | E76: Nam | G76: CNTT | H76: B2 | J76: 97 | L76: Chiều 03/9
+A77: 74 | B77: Vũ Huy Hoàng | E77: Nam | G77: CNTT | H77: B2 | L77: Chiều 03/9
+A78: 75 | B78: Lê Quang Minh Đức | D78: B25DCCE297 | E78: Nam | G78: CNTT CLC | H78: B2 | J78: 69 | K78: Gia đình có công CM | L78: Sáng 03/9 | M78: 504
+A79: 76 | B79: Phạm Đức Tín | D79: B25DCCE273 | E79: Nam | G79: CNTT CLC | H79: B2 | J79: 166 | L79: Chiều 03/9
+A80: 77 | B80: Đặng Thái Sơn | D80: B25DCCE234 | E80: Nam | G80: CNTT CLC | H80: B2 | J80: 167 | L80: Chiều 03/9
+A81: 78 | B81: Nguyễn Trần Gia Hưng | D81: B25DCCE094 | E81: Nam | G81: CNTT CLC | H81: B2 | J81: 162 | L81: Chiều 03/9
+A82: 79 | B82: Nguyễn Đức Anh | D82: B25DCCE016 | E82: Nam | G82: CNTT CLC | H82: B2 | J82: 145 | L82: Chiều 03/9
+A83: 80 | B83: Đỗ Duy Quyết | D83: B25DCCE215 | E83: Nam | G83: CNTT CLC | H83: B2 | J83: 127 | L83: Chiều 03/9
+A84: 81 | B84: Nguyễn Châu Anh | D84: B25DCCE007 | E84: Nữ | G84: CNTT CLC | H84: B2 | J84: 80 | K84: Hoàn cảnh khó khăn | L84: Chiều 03/9
+A85: 82 | B85: Trần Đăng | D85: B25DCCC283 | E85: Nam | G85: CNTT CLC | H85: B2 | J85: 119 | L85: Chiều 03/9
+A86: 83 | B86: Đỗ Quốc Anh | D86: B25DCCE023 | E86: Nam | G86: CNTT CLC | H86: B2 | J86: 138 | L86: Chiều 03/9
+A87: 84 | B87: Nguyễn Trọng Tuyên | E87: Nam | G87: CNTT ƯD | H87: B2 | J87: 330 | K87: 4 năm | L87: Sáng 04/9
+A88: 85 | B88: Vũ Tuấn Minh | D88: B25DCCC144 | E88: Nam | G88: CNTT ƯD | H88: B2 | J88: 297 | K88: 4 năm | L88: Sáng 04/9
+A89: 86 | B89: Đào Thanh Hoàng | D89: B25DCCC076 | E89: Nam | G89: CNTT ƯD | H89: B2 | J89: 339 | K89: 4 năm | L89: Sáng 04/9
+A90: 87 | B90: Nguyễn Lâm Nguyên | D90: B25DCCC156 | E90: Nam | G90: CNTT ƯD | H90: B2 | J90: 337 | K90: 4 năm | L90: Sáng 04/9
+A91: 88 | B91: Nguyễn Hải Long | D91: B25DCCC129 | E91: Nam | G91: CNTT ƯD | H91: B2 | J91: 335 | K91: 4 năm | L91: Sáng 04/9
+A92: 89 | B92: Trần Minh Quân | E92: Nam | G92: CNTT ƯD | H92: B2 | J92: 358 | K92: 4 năm | L92: Sáng 04/9
+A93: 90 | B93: Nguyễn Ngọc Ánh | D93: B25DCCC274 | E93: Nữ | G93: CNTT ƯD | H93: B2 | J93: 328 | K93: 4 năm | L93: Sáng 04/9
+A94: 91 | B94: Lê Duy Mạnh | E94: Nam | G94: CNTT ƯD | H94: B2 | J94: 308 | K94: 4 năm | L94: Sáng 04/9
+A95: 92 | B95: Phạm Đức Đỗ | E95: Nam | G95: CNTT ƯD | H95: B2 | J95: 309 | K95: 4 năm | L95: Sáng 04/9
+A96: 93 | B96: Đặng Quang Khải | D96: B25DCCC117 | E96: Nam | G96: CNTT ƯD | H96: B2 | J96: 305 | K96: 4 năm | L96: Sáng 04/9
+A97: 94 | B97: Nguyễn Thị Linh | D97: B25DCCC125 | E97: Nữ | G97: CNTT ƯD | H97: B2 | J97: 197 | K97: 4 năm | L97: Sáng 04/9
+A98: 95 | B98: Nguyễn Thiên Trường | D98: B25DCCC237 | E98: Nam | G98: CNTT ƯD | H98: B2 | J98: 221 | K98: 4 năm | L98: Sáng 04/9
+A99: 96 | B99: Đoàn Nhật Quang | D99: B25DCCC185 | E99: Nam | G99: CNTT ƯD | H99: B2 | J99: 351 | K99: 4 năm | L99: Sáng 04/9
+A100: 97 | B100: Phạm Tiến Nhật | D100: B25DCVN070 | E100: Nam | G100: CNTT Việt Nhật | H100: B2 | J100: 16 | L100: Sáng 03/9
+A101: 98 | B101: Nguyễn Bảo Trâm | D101: B25DCTC127 | E101: Nữ | G101: Công nghệ tài chính | H101: B2 | J101: 143 | L101: Chiều 03/9
+A102: 99 | B102: Phan Thị Hương Giang | D102: B25DCTC036 | E102: Nữ | G102: Công nghệ tài chính | H102: B2 | J102: 128 | L102: Chiều 03/9
+A103: 100 | B103: Nguyễn Đức Toàn | E103: Nam | G103: Công nghệ thông tin | H103: B2 | J103: 81 | L103: Sáng 03/9
+A104: 101 | B104: Mai Thế Bảo | D104: B25DCVN011 | E104: Nam | G104: Công nghệ thông tin- Việt Nhật | H104: B2 | J104: 165 | L104: Chiều 03/9
+A105: 102 | B105: Bùi Nhật Phong | D105: B25DCCC168 | E105: Nam | G105: Công nghệ thông tin-UDU | H105: B2 | J105: 261 | L105: Sáng 03/9
+A106: 103 | B106: Nguyễn Văn Đạt | D106: B25DCVT396 | E106: Nam | G106: Điện tử Viễn thông | H106: B2 | J106: 201 | K106: KV1 | L106: Sáng 04/9
+A107: 104 | B107: Đào Tú Trinh | D107: B25DCVT336 | E107: Nữ | G107: Điện tử Viễn thông | H107: B2 | J107: 341 | L107: Sáng 04/9
+A108: 105 | B108: Nguyễn Minh Vũ | D108: B25DCVT381 | E108: Nam | G108: Điện tử Viễn thông | H108: B2 | J108: 220 | L108: Sáng 04/9
+A109: 106 | B109: Công Thị Thùy Dung | D109: B24DCVT063 | E109: Nữ | G109: Điện tử viễn thông | H109: B2 | J109: 422 | L109: Chiều 04/9
+A110: 107 | B110: Nguyễn Đắc Nam Khánh | E110: Nam | G110: Điện tử viễn thông | H110: B2 | J110: 420 | L110: Chiều 04/9
+A111: 108 | B111: Nguyễn Tuấn Kiệt | E111: Nam | G111: Điện tử viễn thông | H111: B2 | J111: 412 | L111: Chiều 04/9
+A112: 109 | B112: Nguyễn Như Kiên | D112: B25DCVT180 | E112: Nam | G112: Điện tử viễn thông | H112: B2 | J112: 403 | L112: Chiều 04/9
+A113: 110 | B113: Bùi Mạnh Hùng | D113: B25DCVT135 | E113: Nam | G113: Điện tử viễn thông | H113: B2 | J113: 407 | L113: Chiều 04/9
+A114: 111 | B114: Ngô Quang Tuấn | E114: Nam | G114: Điện tử viễn thông | H114: B2 | J114: 404 | L114: Chiều 04/9
+A115: 112 | B115: Phạm Nhật Tân | D115: B25DCVT368 | E115: Nam | G115: Điện tử viễn thông | H115: B2 | J115: 235 | L115: Chiều 04/9
+A116: 113 | B116: Ngô Xuân Diệu | E116: Nam | G116: Điện tử viễn thông | H116: B2 | J116: 392 | L116: Chiều 04/9
+A117: 114 | B117: Nguyễn Văn Vũ | D117: B25DCVT383 | E117: Nam | G117: Điện tử viễn thông | H117: B2 | J117: 244 | L117: Chiều 04/9
+A118: 115 | B118: Ngô Đức Anh | D118: B25DCVT017 | E118: Nam | G118: Điện tử viễn thông | H118: B2 | J118: 247 | L118: Chiều 04/9
+A119: 116 | B119: Phạm Thiên Thành | E119: Nam | G119: Điện tử viễn thông | H119: B2 | J119: 414 | L119: Chiều 04/9
+A120: 117 | B120: Nhữ Văn Trường | D120: B25DCVT347 | E120: Nam | G120: Điện tử viễn thông | H120: B2 | J120: 431 | L120: Chiều 04/9
+A121: 118 | B121: Nguyễn Hoàng Minh | D121: B25DCVT218 | E121: Nam | G121: Điện tử viễn thông | H121: B2 | J121: 405 | L121: Chiều 04/9
+A122: 119 | B122: Đặng Trung Hậu | E122: Nam | G122: Điện tử viễn thông | H122: B2 | J122: 440 | L122: Chiều 04/9
+A123: 120 | B123: Bùi Thị Tú Uyên | D123: B25DCKT173 | E123: Nữ | G123: Kế toán | H123: B2 | J123: 163 | L123: Chiều 03/9
+A124: 121 | B124: Hoàng Đặng Mai Linh | E124: Nữ | G124: Kế toán | H124: B2 | J124: 137 | L124: Chiều 03/9
+A125: 122 | B125: Hoàng Nguyễn Khánh Linh | D125: B25DCKT055 | E125: Nữ | G125: Kế toán | H125: B2 | J125: 108 | L125: Chiều 03/9
+A126: 123 | B126: Vũ Thị Phương Linh | D126: B25DCKT070 | E126: Nữ | G126: Kế toán | H126: B2 | J126: 114 | L126: Chiều 03/9
+A127: 124 | B127: Hoàng Phương Loan | D127: B25DCKT072 | E127: Nữ | G127: Kế toán | H127: B2 | J127: 115 | L127: Chiều 03/9
+A128: 125 | B128: Nguyễn Hải Duyên | D128: B25DCKT021 | E128: Nữ | G128: Kế toán | H128: B2 | J128: 99 | L128: Chiều 03/9
+A129: 126 | B129: Trần Minh Vũ | D129: B25DCKE062 | E129: Nam | G129: Kế toán-chất lượng cao | H129: B2 | J129: 144 | L129: Chiều 03/9
+A130: 127 | B130: Lê Thiện Nhân | D130: B25DCKH096 | E130: Nam | G130: Khoa học máy tính | H130: B2 | J130: 174 | L130: Chiều 03/9
+A131: 128 | B131: Nguyễn Thị Thu Hằng | D131: B25DCKH054 | E131: Nữ | G131: Khoa học máy tính | H131: B2 | J131: 154 | L131: Chiều 03/9
+A132: 129 | B132: Vũ Minh Khang | D132: B25DCKH055 | E132: Nam | G132: Khoa học máy tính | H132: B2 | J132: 136 | L132: Chiều 03/9
+A133: 130 | B133: Hoàng Tuấn Minh | D133: B25DCKH079 | E133: Nam | G133: Khoa học máy tính | H133: B2 | J133: 126 | L133: Chiều 03/9
+A134: 131 | B134: Trần Quốc Mạnh | D134: B25DCKH088 | E134: Nam | G134: Khoa học máy tính | H134: B2 | J134: 113 | L134: Chiều 03/9
+A135: 132 | B135: Nguyễn Đức Mạnh | D135: B25DCKH087 | E135: Nam | G135: Khoa học máy tính | H135: B2 | J135: 98 | L135: Chiều 03/9
+A136: 133 | B136: Bùi Phương Mai | D136: B25DCKD057 | E136: Nữ | G136: Kỹ thuật dữ liệu | H136: B2 | J136: 417 | K136: Đồng Nai | L136: Chiều 04/9
+A137: 134 | B137: Đoàn Hướng Dương | D137: B25DCKD023 | E137: Nam | G137: Kỹ thuật dữ liệu | H137: B2 | J137: 400 | L137: Chiều 04/9
+A138: 135 | B138: Nguyễn Huy Hoàng | D138: B25DCKD028 | E138: Nam | G138: Kỹ thuật dữ liệu | H138: B2 | J138: 401 | L138: Chiều 04/9
+A139: 136 | B139: Hồ Đức Mạnh | D139: B25DCKD064 | E139: Nam | G139: Kỹ thuật dữ liệu | H139: B2 | J139: 250 | L139: Chiều 04/9
+A140: 137 | B140: Đặng Đăng Dương | E140: Nam | G140: Kỹ thuật dữ liệu | H140: B2 | J140: 232 | L140: Chiều 04/9
+A141: 138 | B141: Phan Tú Anh | E141: Nữ | G141: Logistics và quản trị | H141: B2 | J141: 13 | L141: Sáng 03/9
+A142: 139 | B142: Bùi Phương Thúy | D142: B25DCLQ075 | E142: Nữ | G142: Logistics và quản trị | H142: B2 | J142: 60 | L142: Sáng 03/9
+A143: 140 | B143: Trần Thị Mai Trang | E143: Nữ | G143: Marketing | H143: B2 | J143: 380 | L143: Sáng 04/9
+A144: 141 | B144: Phan Thị Ngọc Ánh | D144: B25DCMR246 | E144: Nữ | G144: Marketing | H144: B2 | J144: 49 | L144: Sáng 03/9
+A145: 142 | B145: Đoàn Như Quỳnh | D145: B25DCMR178 | E145: Nữ | G145: Marketing | H145: B2 | J145: 36 | L145: Sáng 03/9
+A146: 143 | B146: Nguyễn Thị Phương Thảo | D146: B25DCMR194 | E146: Nữ | G146: Marketing | H146: B2 | J146: 34 | L146: Sáng 03/9
+A147: 144 | B147: Trịnh Thị Thu Nga | D147: B25DCMR134 | E147: Nữ | G147: Marketing | H147: B2 | J147: 23 | L147: Sáng 03/9
+A148: 145 | B148: Nguyễn Hải Yến | D148: B25DCMR238 | E148: Nữ | G148: Marketing | H148: B2 | J148: 9 | L148: Sáng 03/9
+A149: 146 | B149: Nguyễn Trà My | D149: B25DCMR127 | E149: Nữ | G149: Marketing | H149: B2 | J149: 4 | L149: Sáng 03/9
+A150: 147 | B150: Phạm Nguyễn Bảo Vy | D150: B25DCMR233 | E150: Nữ | G150: Marketing | H150: B2 | J150: 120 | L150: Chiều 03/9
+A151: 148 | B151: Hoàng Tiến Đạt | D151: B25DCQC104 | E151: Nam | G151: Quan hệ công chúng | H151: B2 | J151: 63 | L151: Sáng 03/9
+A152: 149 | B152: Nguyễn Phương Mai | D152: B25DCQC051 | E152: Nữ | G152: Quan hệ công chúng | H152: B2 | J152: 24 | L152: Sáng 03/9
+A153: 150 | B153: Nguyễn Hà My | D153: B25DCQC058 | E153: Nữ | G153: Quan hệ công chúng | H153: B2 | J153: 25 | L153: Sáng 03/9
+A154: 151 | B154: Trần Triệu Hoa | D154: B25DCQT047 | E154: Nữ | G154: Quản trị kinh doanh | H154: B2 | J154: 394 | L154: Chiều 04/9
+A155: 152 | B155: Phạm Thị Thanh Phương | D155: B25DCQT145 | E155: Nữ | G155: Quản trị kinh doanh | H155: B2 | J155: 234 | L155: Chiều 04/9
+A156: 153 | B156: Nguyễn Thị Trà My | D156: B25DCQT111 | E156: Nữ | G156: Quản trị kinh doanh | H156: B2 | J156: 236 | L156: Chiều 04/9
+A157: 154 | B157: Phí Thị Ánh Ngọc | D157: B25DCQT131 | E157: Nữ | G157: Quản trị kinh doanh | H157: B2 | J157: 395 | L157: Chiều 04/9
+A158: 155 | B158: Hoàng Thu Trang | D158: B25DCQT171 | E158: Nữ | G158: Quản trị kinh doanh | H158: B2 | J158: 396 | L158: Chiều 04/9
+A159: 156 | B159: Phạm Hoàng Dương | D159: B25DCQT037 | E159: Nam | G159: Quản trị kinh doanh | H159: B2 | J159: 445 | L159: Chiều 04/9
+A160: 157 | B160: Nguyễn Việt Hưng | E160: Nam | G160: Quản trị kinh doanh | H160: B2 | J160: 386 | L160: Ngày 04/9
+A161: 158 | B161: Triệu Trà My | D161: B25DCKT087 | E161: Nữ | G161: Tài chính kế toán | H161: B2 | J161: 159 | L161: Chiều 03/9
+A162: 159 | B162: Hà Văn Sỹ | D162: B25DCGA147 | E162: Nam | G162: Thiết kế game | H162: B2 | J162: 379 | L162: Sáng 04/9
+A163: 160 | B163: Lê Thu Thanh Trúc | D163: B25DCGA166 | E163: Nữ | G163: Thiết kế game | H163: B2 | J163: 377 | L163: Sáng 04/9
+A164: 161 | B164: Hoàng Đăng Dương | D164: B25DCGA044 | E164: Nam | G164: Thiết kế game | H164: B2 | J164: 423 | L164: Chiều 04/9
+A165: 162 | B165: Nguyễn Văn Hiển | D165: B25DCGA053 | E165: Nam | G165: Thiết kế game | H165: B2 | J165: 418 | L165: Chiều 04/9
+A166: 163 | B166: Lưu Hà My | D166: B25DCGA122 | E166: Nữ | G166: Thiết kế game | H166: B2 | J166: 421 | L166: Chiều 04/9
+A167: 164 | B167: Phạm Ngọc Bình Nhi | D167: B25DCGA130 | E167: Nữ | G167: Thiết kế game | H167: B2 | J167: 416 | L167: Chiều 04/9
+A168: 165 | B168: Kiều Thị Phương Thanh | D168: B25DCGA148 | E168: Nữ | G168: Thiết kế game | H168: B2 | J168: 405 | L168: Chiều 04/9
+A169: 166 | B169: Trần Thế Tâm | E169: Nam | G169: Thiết kế game | H169: B2 | J169: 408 | L169: Chiều 04/9
+A170: 167 | B170: Cao Khánh Tùng | D170: B25DCGA177 | E170: Nam | G170: Thiết kế game | H170: B2 | J170: 407 | K170: Hoàn cảnh khó khăn | L170: Chiều 04/9
+A171: 168 | B171: Nguyễn Minh Tâm | D171: B25DCGA175 | E171: Nam | G171: Thiết kế game | H171: B2 | J171: 401 | L171: Chiều 04/9
+A172: 169 | B172: Chu Cao Đức Thành | D172: B25DCGA150 | E172: Nam | G172: Thiết kế game | H172: B2 | J172: 399 | L172: Chiều 04/9
+A173: 170 | B173: Nguyễn Văn Minh | E173: Nam | G173: Thiết kế game | H173: B2 | J173: 237 | K173: Cà Mau | L173: Chiều 04/9
+A174: 171 | B174: Bùi Thị Huyền Trang | E174: Nữ | G174: Thiết kế game | H174: B2 | J174: 240 | L174: Chiều 04/9
+A175: 172 | B175: Hồ Trần Phúc An | D175: B25DCGA001 | E175: Nam | G175: Thiết kế game | H175: B2 | J175: 443 | L175: Chiều 04/9
+A176: 173 | B176: Hoàng Thị Hương Nhài | E176: Nữ | G176: Thương mại điện tử | H176: B2 | J176: 406 | L176: Chiều 04/9
+A177: 174 | B177: Tô Thị Hà | D177: B25DCTM052 | E177: Nữ | G177: Thương mại điện tử | H177: B2 | J177: 229 | L177: Chiều 04/9
+A178: 175 | B178: Đào Thị Thúy | D178: B25DCTM127 | E178: Nữ | G178: Thương mại điện tử | H178: B2 | J178: 204 | L178: Chiều 04/9
+A179: 176 | B179: Nguyễn Ánh Nguyệt | D179: B25DCTM097 | E179: Nữ | G179: Thương mại điện tử | H179: B2 | J179: 242 | L179: Chiều 04/9
+A180: 177 | B180: Nguyễn Ngọc Khánh Linh | D180: B25DCTM072 | E180: Nữ | G180: Thương mại điện tử | H180: B2 | J180: 239 | L180: Chiều 04/9
+A181: 178 | B181: Đặng Thùy Diễm | D181: B25DCTM023 | E181: Nữ | G181: Thương mại điện tử | H181: B2 | K181: Hoàn cảnh khó khăn | L181: Chiều 04/9
+A182: 179 | B182: Nguyễn Ngọc Hùng | D182: B25DCTN050 | E182: Nam | G182: Trí tuệ nhân tạo | H182: B2 | J182: 125 | L182: Chiều 03/9
+A183: 180 | B183: Nguyễn Nhật Ánh  | D183: B25DCTN143 | E183: Nam | G183: Trí tuệ nhân tạo | H183: B2 | J183: 123 | L183: Chiều 03/9
+A184: 181 | B184: Đặng Viết An | D184: B25DCTN002 | E184: Nam | G184: Trí tuệ nhân tạo | H184: B2 | J184: 117 | L184: Chiều 03/9
+A185: 182 | B185: Đào Phúc Tiền | D185: B25DCTN121 | E185: Nam | G185: Trí tuệ nhân tạo | H185: B2 | J185: 100 | L185: Chiều 03/9
+A186: 183 | B186: Lê Văn Việt | D186: B25DCTN138 | E186: Nam | G186: Trí tuệ nhân tạo | H186: B2 | J186: 107 | L186: Chiều 03/9
+A187: 184 | B187: Đào Đức Thái | D187: B25DCTN113 | E187: Nam | G187: Trí tuệ nhân tạo | H187: B2 | J187: 104 | L187: Chiều 03/9
+A188: 185 | B188: Vũ Thị Thảo Ngân | D188: B25DCTV058 | E188: Nữ | G188: Trí tuệ nhân tạo vạn vật  | H188: B2 | J188: 426 | L188: Chiều 04/9
+A189: 186 | B189: Lưu Công Chung | D189: B25DCTV008 | E189: Nam | G189: Trí tuệ nhân tạo vạn vật  | H189: B2 | J189: 410 | L189: Chiều 04/9
+A190: 187 | B190: Phan Thị Mai Hương | D190: B25DCTT042 | E190: Nữ | G190: TT ĐPT | H190: B2 | J190: 336 | L190: Sáng 04/9
+A191: 188 | B191: Bùi Thị Thủy | E191: Nữ | G191: TT ĐPT | H191: B2 | J191: 362 | L191: Sáng 04/9
+A192: 189 | B192: Nguyễn Huy Minh | D192: B25DCVT219 | E192: Nam | G192: TT ĐPT | H192: B2 | J192: 307 | L192: Sáng 04/9
+A193: 190 | B193: Phạm Thị Mai Anh | D193: B25DCTT007 | E193: Nữ | G193: TT ĐPT | H193: B2 | J193: 300 | L193: Sáng 04/9
+A194: 191 | B194: Nguyễn Thùy Chi | D194: B25DCTT012 | E194: Nữ | G194: TT ĐPT | H194: B2 | J194: 212 | L194: Sáng 04/9
+A195: 192 | B195: Trần Hiếu Ngân | D195: B25DCTT063 | E195: Nữ | G195: TT ĐPT | H195: B2 | J195: 206 | L195: Sáng 04/9 | M195: 309 | N195: b5
+A196: 193 | B196: Vũ Hoàng Ngọc | D196: B25DCTE065 | E196: Nữ | G196: TT ĐPT | H196: B2 | J196: 344 | L196: Sáng 04/9
+A197: 194 | B197: Hoàng Quốc Huy | D197: B25DCTT030 | E197: Nam | G197: TT ĐPT | H197: B2 | J197: 376 | L197: Sáng 04/9
+A198: 195 | B198: Nguyễn Hoàng Sâm | D198: B25DCDK086 | E198: Nam | G198: Tự động hóa | H198: B2 | J198: 326 | L198: Sáng 04/9
+A199: 196 | B199: Hoàng Đình Trọng | D199: B25DCKH098 | E199: Nam | G199: Tự động hóa | H199: B2 | J199: 176 | L199: Chiều 03/9
+A200: 197 | B200: Nguyễn Phương Thảo | D200: B25DCPT203 | E200: Nữ | G200: CN ĐPT | J200: 202 | L200: Sáng 4/9
+### sheet2.xml
+A1: Tổng số chỗ ở | B1: Đã xếp | F1: Còn lại | J1: Bố trí khóa 2025 | K1: Còn lại
+B2: B1 | C2: B2 | D2: B5 | E2: Tổng | F2: B1 | G2: B2 | H2: B5 | I2: Tổng
+A3: 500 | B3: 21 | C3: 110 | D3: 45 | E3: 176 | F3: 30 | G3: 262 | H3: 31 | I3: 323 | J3: 160 | K3: 163

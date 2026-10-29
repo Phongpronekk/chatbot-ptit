@@ -1,0 +1,344 @@
+{
+  "measured_at": "2026-10-28T17:40:33.728785+00:00",
+  "scope": "10 development retrieval smoke cases, not held-out Recall@K or answer accuracy",
+  "llm_called": false,
+  "data_unchanged": true,
+  "data_sha256": {
+    "clb.md": "69191d5fd376d85a1d070ff808a8a660f0e6b4804a05ada1c8e440b906d8c22f",
+    "ktx.md": "092ed992d28eba9c1680073bb31da7e6de8c9d4b07c65f7b2f0d495fb14401e0",
+    "quy_che_chung.md": "def5aecd8b847127af640f64966b337e744c5aa2a26af5204d2edbf99f973bc5",
+    "thu_vien.md": "63494a75fa7751319b770550cb3da1670f9305b289564f46a142a5abaa2ecc98",
+    "thuc_tap_viec_lam.md": "4f88b6103fc881884c5698c47d8161254806565303d4fefa0140687ed1b33642"
+  },
+  "dataset_bytes": 26944,
+  "config": {
+    "RETRIEVAL_BACKEND": "vector",
+    "EMBEDDING_MODEL_NAME": "intfloat/multilingual-e5-small",
+    "RAG_TOP_K": "4",
+    "RAG_MIN_SCORE": "0.80"
+  },
+  "manifest": {
+    "collection": "ptit_1c771bfb104e4b8a976553f8c8d1b50b",
+    "fingerprint": "d3bcce44eaaa6ff8717cdb5452761920a094177051e42b7e113213680b578c18",
+    "config": {
+      "model": "intfloat/multilingual-e5-small",
+      "chunk_size": 400,
+      "overlap": 60,
+      "version": 2
+    },
+    "chunk_count": 69,
+    "document_count": 5,
+    "embedding_dimensions": 384,
+    "built_at": "2026-10-28T17:02:18.800359+00:00"
+  },
+  "passed": 10,
+  "total": 10,
+  "latency_ms": {
+    "mean": 32.362,
+    "median": 16.2535,
+    "p95_nearest_rank": 186.275,
+    "first_query": 186.275
+  },
+  "cases": [
+    {
+      "id": "T01-B2",
+      "question": "KTX B2 mức thu bao nhiêu một tháng?",
+      "expected_file": "ktx.md",
+      "expected_text": "250.000",
+      "pass": true,
+      "elapsed_ms": 186.275,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX B2, Cơ sở Đào tạo Hà Đông",
+          "score": 0.85254,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Quy trình đăng ký",
+          "score": 0.85149,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX B1, Cơ sở Đào tạo Hà Đông",
+          "score": 0.84884,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX Cơ sở Đào tạo Ngọc Trục",
+          "score": 0.84775,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        }
+      ]
+    },
+    {
+      "id": "T01-B1",
+      "question": "KTX B1 có bao nhiêu chỗ ở?",
+      "expected_file": "ktx.md",
+      "expected_text": "40 chỗ",
+      "pass": true,
+      "elapsed_ms": 17.09,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX B1, Cơ sở Đào tạo Hà Đông",
+          "score": 0.87942,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX B2, Cơ sở Đào tạo Hà Đông",
+          "score": 0.86828,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX Cơ sở Đào tạo Ngọc Trục",
+          "score": 0.86724,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Quy trình đăng ký",
+          "score": 0.85707,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        }
+      ]
+    },
+    {
+      "id": "T02-B2",
+      "question": "Ở ký túc xá B2 mỗi tháng phải đóng bao nhiêu tiền?",
+      "expected_file": "ktx.md",
+      "expected_text": "250.000",
+      "pass": true,
+      "elapsed_ms": 17.179,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX B2, Cơ sở Đào tạo Hà Đông",
+          "score": 0.88175,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX B1, Cơ sở Đào tạo Hà Đông",
+          "score": 0.88041,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Quy trình đăng ký",
+          "score": 0.87708,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX Cơ sở Đào tạo Ngọc Trục",
+          "score": 0.86876,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        }
+      ]
+    },
+    {
+      "id": "T01-NGOC",
+      "question": "Sinh viên ở KTX Ngọc Trục được hỗ trợ đi lại bao nhiêu?",
+      "expected_file": "ktx.md",
+      "expected_text": "150.000",
+      "pass": true,
+      "elapsed_ms": 19.639,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX Cơ sở Đào tạo Ngọc Trục",
+          "score": 0.90398,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Địa điểm, điều kiện cơ sở vật chất và số chỗ ở / KTX Cơ sở Đào tạo Ngọc Trục",
+          "score": 0.8806,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Đối tượng được ưu tiên xét ở nội trú (xét theo thứ tự 1-6)",
+          "score": 0.85986,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        },
+        {
+          "file": "ktx.md",
+          "title": "Ký túc xá - Bố trí chỗ ở nội trú (Khóa 2025, cơ sở Hà Nội) / Đối tượng được ưu tiên xét ở nội trú (xét theo thứ tự 1-6)",
+          "score": 0.85443,
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-bo-tri-sinh-vien-khoa-2025-noi-tru-o-cac-ky-tuc-xa-tai-co-so-dao-tao-ha-noi/"
+        }
+      ]
+    },
+    {
+      "id": "T01-CLB",
+      "question": "Chủ nhiệm CLB Lập trình PTIT là ai?",
+      "expected_file": "clb.md",
+      "expected_text": "Đặng Trung Hiếu",
+      "pass": true,
+      "elapsed_ms": 12.7,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "clb.md",
+          "title": "Câu lạc bộ sinh viên PTIT (Cơ sở Hà Nội)",
+          "score": 0.87283,
+          "url": "https://ptit.edu.vn/sinh-vien/cau-lac-bo-sinh-vien/"
+        },
+        {
+          "file": "clb.md",
+          "title": "Câu lạc bộ sinh viên PTIT (Cơ sở Hà Nội)",
+          "score": 0.86964,
+          "url": "https://ptit.edu.vn/sinh-vien/cau-lac-bo-sinh-vien/"
+        },
+        {
+          "file": "clb.md",
+          "title": "Câu lạc bộ sinh viên PTIT (Cơ sở Hà Nội)",
+          "score": 0.86797,
+          "url": "https://ptit.edu.vn/sinh-vien/cau-lac-bo-sinh-vien/"
+        },
+        {
+          "file": "clb.md",
+          "title": "Câu lạc bộ sinh viên PTIT (Cơ sở Hà Nội)",
+          "score": 0.86276,
+          "url": "https://ptit.edu.vn/sinh-vien/cau-lac-bo-sinh-vien/"
+        }
+      ]
+    },
+    {
+      "id": "T01-LIB",
+      "question": "Người ngoài Học viện có được mượn sách thư viện về nhà không?",
+      "expected_file": "thu_vien.md",
+      "expected_text": "không mượn về nhà",
+      "pass": true,
+      "elapsed_ms": 15.035,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "thu_vien.md",
+          "title": "Nội quy thư viện PTIT / 1. Những quy định chung",
+          "score": 0.89588,
+          "url": "https://lib.ptit.edu.vn/noi-quy-thu-vien/"
+        },
+        {
+          "file": "thu_vien.md",
+          "title": "Nội quy thư viện PTIT / 1. Những quy định chung",
+          "score": 0.88502,
+          "url": "https://lib.ptit.edu.vn/noi-quy-thu-vien/"
+        },
+        {
+          "file": "thu_vien.md",
+          "title": "Nội quy thư viện PTIT / 2. Nội quy phòng đọc / 2.2 Phòng đọc kho mở",
+          "score": 0.87995,
+          "url": "https://lib.ptit.edu.vn/noi-quy-thu-vien/"
+        },
+        {
+          "file": "thu_vien.md",
+          "title": "Nội quy thư viện PTIT / 3. Nội quy phòng mượn",
+          "score": 0.87979,
+          "url": "https://lib.ptit.edu.vn/noi-quy-thu-vien/"
+        }
+      ]
+    },
+    {
+      "id": "T01-OFFICE",
+      "question": "Phòng Giáo vụ tiếp sinh viên buổi sáng vào giờ nào?",
+      "expected_file": "quy_che_chung.md",
+      "expected_text": "08h30",
+      "pass": true,
+      "elapsed_ms": 16.092,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "quy_che_chung.md",
+          "title": "Hướng dẫn thủ tục hành chính cho sinh viên PTIT / I. Lịch tiếp sinh viên các phòng/trung tâm chức năng / 2. Phòng Chính trị & Công tác sinh viên (CT&CTSV)",
+          "score": 0.89883,
+          "url": "https://ptit.edu.vn/giaovu/cacus-mau-bieu-thong-tin-sinh-vien-thuong-su-dung"
+        },
+        {
+          "file": "quy_che_chung.md",
+          "title": "Hướng dẫn thủ tục hành chính cho sinh viên PTIT / I. Lịch tiếp sinh viên các phòng/trung tâm chức năng / 2. Phòng Chính trị & Công tác sinh viên (CT&CTSV)",
+          "score": 0.89779,
+          "url": "https://ptit.edu.vn/giaovu/cacus-mau-bieu-thong-tin-sinh-vien-thuong-su-dung"
+        },
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "title": "Thực tập tốt nghiệp tại PTIT / Thủ tục liên quan tại Phòng Giáo vụ / Phòng CT&CTSV",
+          "score": 0.88958,
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/"
+        },
+        {
+          "file": "quy_che_chung.md",
+          "title": "Hướng dẫn thủ tục hành chính cho sinh viên PTIT / I. Lịch tiếp sinh viên các phòng/trung tâm chức năng / 3. Trung tâm Khảo thí & Đảm bảo chất lượng giáo dục",
+          "score": 0.87427,
+          "url": "https://ptit.edu.vn/giaovu/cacus-mau-bieu-thong-tin-sinh-vien-thuong-su-dung"
+        }
+      ]
+    },
+    {
+      "id": "T01-INTERN",
+      "question": "Ai làm đầu mối cấp giấy giới thiệu thực tập?",
+      "expected_file": "thuc_tap_viec_lam.md",
+      "expected_text": "Ban cán sự lớp",
+      "pass": true,
+      "elapsed_ms": 16.415,
+      "backend": "vector",
+      "sources": [
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "title": "Thực tập tốt nghiệp tại PTIT / Quy trình chung (áp dụng mọi năm, khung thời gian cụ thể thay đổi theo từng khóa)",
+          "score": 0.84796,
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/"
+        },
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "title": "Thực tập tốt nghiệp tại PTIT / Thủ tục liên quan tại Phòng Giáo vụ / Phòng CT&CTSV",
+          "score": 0.83897,
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/"
+        },
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "title": "Thực tập tốt nghiệp tại PTIT / Thủ tục liên quan tại Phòng Giáo vụ / Phòng CT&CTSV",
+          "score": 0.82914,
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/"
+        },
+        {
+          "file": "thu_vien.md",
+          "title": "Nội quy thư viện PTIT / 1. Những quy định chung",
+          "score": 0.82485,
+          "url": "https://lib.ptit.edu.vn/noi-quy-thu-vien/"
+        }
+      ]
+    },
+    {
+      "id": "T05-SPACE",
+      "question": "quasar supernova astrophysics",
+      "expected_file": null,
+      "expected_text": null,
+      "pass": true,
+      "elapsed_ms": 11.756,
+      "backend": "vector",
+      "sources": []
+    },
+    {
+      "id": "T05-FOOD",
+      "question": "Cách làm bánh pizza hải sản?",
+      "expected_file": null,
+      "expected_text": null,
+      "pass": true,
+      "elapsed_ms": 11.442,
+      "backend": "vector",
+      "sources": []
+    }
+  ]
+}

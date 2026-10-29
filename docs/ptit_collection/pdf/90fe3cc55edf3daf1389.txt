@@ -1,0 +1,110 @@
+### Trang 1
+
+ 
+BỘ KHOA HỌC VÀ CÔNG NGHỆ 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+============ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÀI LIỆU HƯỚNG DẪN  
+DUYỆT PHIẾU ĐĂNG KÝ HỌC PHẦN 
+CHO CỐ VẤN HỌC TẬP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+
+
+### Trang 2
+
+Tài liệu hướng dẫn duyệt Phiếu đăng ký học phần cho cố vấn học tập 
+ 
+Học viện Công nghệ Bưu chính Viễn thông          Trang 2 
+ 
+I. ĐĂNG NHẬP:  
+- Cố vấn học tập (CVHT) đăng nhập vào web https://canbo.ptit.edu.vn bằng tài khoản 
+office 365 Học viện cấp. 
+ 
+ 
+- Đăng nhập thành công, giao diện trang chủ hiển thị 
+ 
+II. DUYỆT PHIẾU ĐĂNG KÝ HỌC PHẦN: 
+1. Kiểm tra Phiếu đăng ký học phần sinh viên lớp mình quản lý 
+- CVHT ấn vào menu Cố vấn học tập, sau đó chọn SV DK nhu cầu học phần 
+ 
+
+
+### Trang 3
+
+Tài liệu hướng dẫn duyệt Phiếu đăng ký học phần cho cố vấn học tập 
+ 
+Học viện Công nghệ Bưu chính Viễn thông          Trang 3 
+ 
+- Hệ thống hiển thị thông tin, trạng thái Phiếu đăng ký học phần của các sinh viên thuộc 
+lớp hành chính cố vấn học tập quản lý: 
+ 
+- CVHT có thể lọc trạng thái đăng ký của sinh viên để nhắc nhở, đôn đốc SV thực hiện đăng 
+ký nhu cầu học phần trong thời gian quy định: 
+• Chưa đăng ký: SV chưa thực hiện đăng ký Phiếu đăng ký học phần 
+• Chưa duyệt: SV đã đăng ký Phiếu đăng ký học phần 
+• Đã duyệt: SV đã được Cố vấn học tập duyệt Phiếu đăng ký học phần 
+ 
+- Kiểm tra, hiệu chỉnh Phiếu đăng ký học phần của sinh viên: 
+ 
+
+
+### Trang 4
+
+Tài liệu hướng dẫn duyệt Phiếu đăng ký học phần cho cố vấn học tập 
+ 
+Học viện Công nghệ Bưu chính Viễn thông          Trang 4 
+ 
++ CVHT thực hiện chỉnh sửa phiếu đăng ký của sinh viên và ghi chú chỉnh sửa (nếu cần) 
++ CVHT ấn “Lưu lại” để lưu thông tin chỉnh sửa Phiếu đăng ký học phần 
++ Theo tiến trình: các học phần theo đúng tiến trình học kỳ của sinh viên. 
++ Các học phần khác: SV tạm dừng quay lại học, hoặc học kỳ trước chưa đăng ký học phần có 
+thể tích chọn đăng ký một số học phần ngoài tiến trình học kỳ (không đăng ký học lại, cải thiện) 
+ 
+2. Phê duyệt Phiếu đăng ký học phần 
+Sau khi hoàn thành vi ệc kiểm tra, hiệu chỉnh các Phiếu đăng ký học phần của sinh viên 
+do CVHT quản lý, CVHT sẽ tiến hành phê duyệt, có 2 cách: 
+- Cách 1: CVHT xác nhận từng phiếu đăng ký của sinh viên, tích duyệt phiếu đăng ký ở cột 
+“Thao tác” , Ấn “OK” để xác nhận phiếu đăng ký của sinh viên, duyệt thành công “trạng thái” Phiếu 
+đăng ký học phần chuyển sang là “Đã duyệt” 
+ 
+
+
+### Trang 5
+
+Tài liệu hướng dẫn duyệt Phiếu đăng ký học phần cho cố vấn học tập 
+ 
+Học viện Công nghệ Bưu chính Viễn thông          Trang 5 
+ 
+- Cách 2: CVHT phê duyệt tất cả phiếu đăng ký học phần của sinh viên, chọn “Xác nhận 
+đăng ký”, Ấn “OK” để xác nhận phê duyệt tất cả Phiếu đăng ký học phần của sinh viên 
+ 
+Lưu ý: H ệ thống chỉ thực hiện duyệt những phiếu đăng ký học phần sinh viên đã g ửi 
+(trạng thái Chưa duyệt). CVHT có thể thực hiện việc kiểm tra, hiệu chỉnh, xét duyệt nhiều lần 
+trong thời quy định. 
+3. Xuất dữ liệu Phiếu đăng ký học phần của sinh viên 
+- CVHT chọn “Xuất dữ liệu chi tiết lớp” để lấy dữ liệu, in phiếu tổng hợp đăng ký học phần  
+ 
+*Mẫu kết quả tổng hợp phiếu đăng ký học phần:
+ 

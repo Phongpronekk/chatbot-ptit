@@ -1,0 +1,895 @@
+BỘ KHOA HỌC VÀ CÔNG NGHỆ-39115810160-39115810160
+HỌC VIỆN CÔNG NGHỆ
+BƯU CHÍNH VIỄN THÔNG
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc964565207645964565207645
+
+CHƯƠNG TRÌNH ĐÀO TẠO
+
+Tên chương trình:Kỹ thuật Điện tử
+Ngành đào tạo (tiếng Việt):Kỹ thuật Điện tử
+Ngành đào tạo (tiếng Anh): Electronic Engineering
+Trình độ đào tạo:Thạc sĩ
+Mã ngành: 8520203
+Hình thức đào tạo: Chính quy
+(Kèm theo Quyết định số … /QĐ-HV ngày … tháng … năm 2026 của Giám đốc Học viện)
+
+1. MỤC TIÊU
+1.1 Mục tiêu chung (Goals)
+Chương trình đào tạo trình độ Thạc sĩ ngành Kỹ thuật điện tử của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo nguồn nhân lực chất lượng cao, có kiến thức chuyên sâu, tư duy hệ thống, năng lực nghiên cứu, đổi mới sáng tạo và phát triển công nghệ trong lĩnh vực kỹ thuật điện tử; có khả năng giải quyết các vấn đề kỹ thuật phức tạp trong môi trường nghiên cứu, doanh nghiệp và hội nhập quốc tế; có phẩm chất đạo đức nghề nghiệp, trách nhiệm xã hội và năng lực học tập suốt đời.
+Chương trình được thiết kế theo hai định hướng đào tạo tách biệt, gồm:
+Định hướng nghiên cứu (Research-oriented track): tập trung phát triển năng lực nghiên cứu độc lập, tư duy học thuật, phân tích và giải quyết các vấn đề kỹ thuật chuyên sâu; phát triển công nghệ mới và thực hiện công bố khoa học theo quy định của Học viện trong lĩnh vực kỹ thuật điện tử.
+Định hướng ứng dụng (Application-oriented track): tập trung phát triển năng lực thiết kế, triển khai, tối ưu và quản lý các hệ thống điện tử tiên tiến; giải quyết các bài toán thực tiễn trong doanh nghiệp, cơ sở nghiên cứu và công nghiệp công nghệ cao thông qua hoạt động thực tập doanh nghiệp và đề án ứng dụng.
+1.2 Mục tiêu cụ thể (Program Objectives - POs): 
+PO1. Phát triển chuyên môn nghề nghiệp ở trình độ cao
+Vận dụng kiến thức chuyên sâu, liên ngành và công nghệ tiên tiến trong lĩnh vực kỹ thuật điện tử để thiết kế, phát triển, tích hợp, vận hành, tối ưu hoặc quản lý các hệ thống điện tử hiện đại, đáp ứng yêu cầu của doanh nghiệp, cơ sở nghiên cứu và cơ sở đào tạo.
+PO2. Phát triển năng lực nghiên cứu, đổi mới sáng tạo và giải quyết vấn đề kỹ thuật phức tạp
+Nghiên cứu độc lập, phân tích và giải quyết các vấn đề kỹ thuật phức tạp; đề xuất các giải pháp công nghệ mới; tham gia hoặc chủ trì các hoạt động nghiên cứu – phát triển (R&D), phát triển sản phẩm hoặc công bố kết quả nghiên cứu trong lĩnh vực kỹ thuật điện tử.
+PO3. Phát triển năng lực lãnh đạo kỹ thuật, hợp tác chuyên môn và thích ứng nghề nghiệp
+Làm việc hiệu quả trong môi trường chuyên nghiệp, đa ngành và quốc tế; có năng lực tổ chức, quản lý nhóm kỹ thuật hoặc dự án công nghệ; thích ứng với sự thay đổi nhanh của khoa học – công nghệ và nhu cầu của thị trường lao động.
+PO4. Phát triển phẩm chất nghề nghiệp, trách nhiệm xã hội và học tập suốt đời
+Tuân thủ đạo đức nghề nghiệp và chuẩn mực chuyên môn; có trách nhiệm xã hội; có năng lực tự học, tự nghiên cứu và tiếp tục phát triển chuyên môn ở trình độ cao hơn.
+2. CHUẨN ĐẦU RA (Learning Outcomes – LOs)
+Các chuẩn đầu ra (Learning Outcomes – LOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các LO và PI kèm theo được thiết kế theo chuẩn kiểm định quốc tế, với mức kiến thức và kỹ năng tương đương bậc 7 trong Khung trình độ quốc gia Việt Nam. Cụ thể, các LO và PI của chương trình đào tạo cho như bảng sau:
+Chuẩn đầu ra (LOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+LO1. Phân tích và giải quyết vấn đề kỹ thuật phức tạp trong lĩnh vực điện, điện tử bằng cách áp dụng các nguyên lý toán học, vật lý, khoa học và kỹ thuật.
+C4
+PI1.1. Phân tích vấn đề kỹ thuật phức tạp trong lĩnh vực điện, điện tử và xác định các tham số chính cần giải quyết. 
+PI1.2. Áp dụng các nguyên lý toán học, vật lý, khoa học và kỹ thuật để giải quyết vấn đề. 
+PI1.3. Đánh giá tính hợp lý của kết quả và lựa chọn phương án giải quyết phù hợp.
+LO2. Thiết kế hệ thống điện, điện tử đáp ứng một tập hợp các yêu cầu nhất định một cách hoàn chỉnh trong các ràng buộc kỹ thuật, kinh tế và môi trường.
+C6, P4
+PI2.1. Sử dụng thành thạo các công cụ kỹ thuật chuyên ngành trong lĩnh vực điện, điện tử, vi mạch bán dẫn phục vụ thiết kế. 
+PI2.2. Đánh giá các giải pháp thiết kế khả thi dựa trên các ràng buộc kỹ thuật, kinh tế và môi trường. 
+PI2.3. Thiết kế được hệ thống hoặc nguyên mẫu có hiệu suất và tham số đáp ứng các yêu cầu đặt ra.
+LO3. Đánh giá các hệ thống, thiết bị điện, điện tử, vi mạch bán dẫn; xây dựng thí nghiệm, thu thập và phân tích dữ liệu bằng các công cụ chuyên dụng để xác định giải pháp cho các vấn đề kỹ thuật liên quan.
+C5, P4
+PI3.1. Phân tích, giải thích được đặc điểm kỹ thuật và hiệu quả hoạt động của các hệ thống, thiết bị điện, điện tử, vi mạch bán dẫn. 
+PI3.2. Xây dựng kế hoạch thí nghiệm, sử dụng thành thạo các công cụ chuyên dụng để thu thập dữ liệu phục vụ đánh giá. 
+PI3.3. Phân tích kết quả thí nghiệm hoặc dữ liệu kỹ thuật để đưa ra kết luận chính xác và lựa chọn giải pháp khả thi.
+LO4. Trao đổi thông tin chính xác, hiệu quả và làm việc hiệu quả trong các nhóm đa ngành, biết cách hợp tác, tổ chức và điều phối để hoàn thành các dự án kỹ thuật phức tạp.
+P4, A4
+PI4.1. Xây dựng, trình bày và truyền đạt hiệu quả các tài liệu kỹ thuật và phi kỹ thuật phù hợp với đối tượng và ngữ cảnh. 
+PI4.2. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng công nghệ số và ngoại ngữ. 
+PI4.3. Phối hợp, phân công, lập kế hoạch và điều phối công việc nhóm hiệu quả để hoàn thành nhiệm vụ chuyên môn.
+LO5. Nhận biết trách nhiệm và đạo đức nghề nghiệp thông qua việc phân tích tác động của các giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội để bảo đảm tính bền vững.
+C4, A3
+PI5.1. Nhận diện và tuân thủ các yêu cầu về đạo đức nghề nghiệp, pháp luật và trách nhiệm xã hội trong hoạt động chuyên môn. 
+PI5.2. Phân tích tác động của các giải pháp kỹ thuật đến xã hội, kinh tế, môi trường và tính bền vững. 
+PI5.3. Đề xuất hoặc lựa chọn cách tiếp cận chuyên môn phù hợp với yêu cầu phát triển bền vững trong bối cảnh toàn cầu.
+(C: miền kiến thức; P: miền kỹ năng, A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+3. KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: 60 tín chỉ 
+4. ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO
+4.1. Đối tượng tuyển sinh
+- Có bằng tốt nghiệp đại học các ngành phù hợp theo quy định tại Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông;
+- Có năng lực tiếng Anh từ bậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương theo Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông;
+- Các điều kiện khác theo quy định tại Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông.
+4.2 Yêu cầu đầu vào: Đã tham dự kỳ tuyển sinh trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông và đủ điều kiện xét trúng tuyển trong kỳ tuyển sinh.
+5. QUY TRÌNH ĐÀO TẠO, ĐIỀU KIỆN TỐT NGHIỆP
+5.1. Quy trình đào tạo
+Chương trình đào tạo chuẩn được tổ chức thực hiện gồm 4 học kỳ, trong đó 3 học kỳ tích lũy kiến thức tại Học viện và 01 kỳ thực tập tốt nghiệp/nghiên cứu. Cuối khóa, cao học viên thực hiện Đề án/Luận văn tốt nghiệp.
+Định hướng nghiên cứu: học viên thực hiện nghiên cứu khoa học và luận văn thạc sĩ theo hướng nghiên cứu, có định hướng công bố khoa học theo quy định của Học viện; 
+Định hướng ứng dụng: học viên tham gia thực tập doanh nghiệp/cơ sở thực tế và thực hiện đề án tốt nghiệp theo hướng giải quyết các bài toán thực tiễn, phát triển giải pháp hoặc sản phẩm ứng dụng. 
+Học viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+5.2. Công nhận tốt nghiệp
+a) Yêu cầu để được công nhận tốt nghiệp:
+- Đã hoàn thành các học phần của chương trình đào tạo đạt yêu cầu từ 5,5 (theo thang điểm 10) trở lên;
+- Bảo vệ thành công luận văn/đề án, đạt điểm từ 5,5 (theo thang điểm 10) trở lên;
+- Có trình độ tiếng Anh đạt từ bậc 4 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương theo Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông;
+- Chấp hành đúng các quy chế, quy định hiện hành của Bộ GD&ĐT và của Học viện Công nghệ Bưu chính Viễn thông.
+b) Kết thúc khóa học, học viên được công nhận tốt nghiệp và cấp bằng Thạc sĩ ngành Kỹ thuật Điện tử khi đã hội tụ đủ các tiêu chuẩn theo Quy định tuyển sinh và đào tạo trình độ thạc sĩ của Học viện Công nghệ Bưu chính Viễn thông.
+6. THANG ĐIỂM: Theo thang điểm tín chỉ.
+Điểm chữ (A, B, C, D, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các môn học/học phần.
+
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+Điểm đạt
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+Không đạt
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+
+Dưới 4,0
+F
+0,0
+7. NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO
+7.1 Cấu trúc chương trình đào tạo 
+TT
+Khối kiến thức
+Số tín chỉ
+
+
+Định hướng ứng dụng
+Định hướng nghiên cứu
+I
+Khối  kiến thức chung
+8
+8
+II
+Khối kiến thức cơ sở ngành
+12
+12
+III
+Khối kiến thức chuyên ngành
+25
+25
+IV
+Khối kiến thức tốt nghiệp
+15
+15
+
+TỔNG CỘNG
+60
+60
+7.2 Nội dung chương trình đào tạo
+7.2.1 Khối kiến thức chung
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+1
+Triết học
+BAS4186
+3
+x
+
+1
+
+2
+Phương pháp nghiên cứu khoa học
+SKD4112
+2
+x
+
+1
+
+3
+Công cụ toán cho điện tử viễn thông
+BAS4102
+3
+x
+
+1
+
+
+Tổng:
+
+8
+
+
+
+
+7.2.2 Khối kiến thức cơ sở
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+4
+Truyền thông số nâng cao
+TEL4301
+3
+x
+
+1
+
+5
+Xử lý tín hiệu số nâng cao
+ELE4301
+3
+x
+
+1
+
+
+Các học phần tự chọn (chọn 2/5, tổng số 6TC)
+6
+Kỹ thuật rô bốt và điều khiển thông minh
+ELE4302
+3
+
+x 
+2
+ELE4301
+7
+Quy trình sản xuất điện tử, vi mạch bán dẫn
+ELE4303
+3
+
+x
+2
+
+8
+Máy tính lượng tử
+ELE4304
+3
+ 
+X
+2
+BAS4102
+9
+Công nghệ MEMS/NEMS
+ELE4305
+3
+ 
+X
+2
+
+10
+Công nghệ AIoT
+ELE4306
+3
+ 
+X
+2
+TEL4301
+
+Tổng:
+
+12 
+
+
+
+
+7.2.3 Khối kiến thức chuyên ngành
+7.2.3.1 Định hướng ứng dụng
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+11
+Các chủ đề điện tử hiện đại
+ELE4407
+3
+x
+
+2
+
+12
+Quản lý dự án và đổi mới sáng tạo 
+VLG4401
+3
+X
+
+2
+
+13
+Xử lý đa phương tiện
+ELE4409
+3
+x
+
+2
+ELE4301
+14
+Hệ thống nhúng và Công nghệ IoT tiên tiến
+ELE4410
+3
+x
+
+3
+TEL4301
+
+Các học phần tự chọn (chọn 3/8, tổng số 9 TC)
+15
+Thiết kế hệ thống VLSI tiên tiến
+ELE4411
+3
+ 
+X
+3
+ELE4303
+16
+Công nghệ màng mỏng và khoa học nano tiên tiến
+ELE4412
+3
+ 
+X
+3
+ELE4303
+17
+Công nghệ plasma trong chế tạo bán dẫn
+ELE4413
+3
+ 
+X
+3
+ELE4303
+18
+Học sâu và ứng dụng trong xử lý tín hiệu
+ELE4414
+3
+ 
+X
+3
+
+19
+Thị giác máy tính nâng cao
+ELE4415
+3
+ 
+X
+3
+ELE4301
+20
+Điện tử công nghiệp
+ELE4416
+3
+
+X
+3
+
+21
+Ứng dụng AI trong Điện tử
+ELE4417
+3
+
+X
+3
+
+22
+Chuyên đề điện tử y sinh
+ELE4418
+3
+
+X
+3
+ELE4301
+
+Các học phần tự chọn (chọn 2/4, tổng số 4 TC)
+23
+Kiểm tra và xác minh IC tiên tiến
+ELE4419
+2
+ 
+X
+3
+BAS4102
+24
+Vật liệu và công nghệ bán dẫn tiên tiến
+ELE4420
+2
+ 
+X
+3
+ELE4303
+25
+Công nghệ đóng gói vi mạch tiên tiến
+ELE4421
+2
+ 
+X
+3
+ELE4303
+26
+Học sâu và thiết kế ngược cho vi mạch tích hợp
+ELE4422
+2
+ 
+X
+3
+ELE4301
+
+Tổng
+
+25
+
+
+
+
+7.2.3.2 Định hướng nghiên cứu
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+11
+Chuyên đề nghiên cứu 1
+ELE4423
+3
+x
+
+2
+
+12
+Chuyên đề nghiên cứu 2
+ELE4424
+3
+x
+
+2
+
+13
+Chuyên đề nghiên cứu 3
+ELE4425
+3
+x
+
+2
+
+14
+Chuyên đề nghiên cứu 4
+ELE4426
+3
+x
+
+3
+
+
+Các học phần tự chọn (chọn 3/8, tổng số 9 TC)
+15
+Thiết kế hệ thống VLSI tiên tiến
+ELE4411
+3
+ 
+X
+3
+ELE4303
+16
+Ứng dụng AI trong Điện tử
+ELE4417
+3
+ 
+X
+3
+
+17
+Chuyên đề điện tử y sinh
+ELE4418
+3
+ 
+X
+3
+ELE4301
+18
+Học sâu và ứng dụng trong xử lý tín hiệu
+ELE4414
+3
+ 
+X
+3
+ELE4301
+19
+Các chủ đề điện tử hiện đại
+ELE4407
+3
+ 
+X
+3
+
+20
+Quản lý dự án và đổi mới sáng tạo 
+VLG4401
+3
+
+X
+3
+
+21
+Xử lý đa phương tiện
+ELE4409
+3
+
+X
+3
+ELE4301
+22
+Hệ thống nhúng và Công nghệ IoT tiên tiến
+ELE4410
+3
+
+X
+3
+TEL4301
+
+Các học phần tự chọn (chọn 2/4, tổng số 4 TC)
+23
+Công nghệ đóng gói vi mạch tiên tiến
+ELE4421
+2
+ 
+X
+3
+ELE4303
+24
+Kiểm tra và xác minh IC tiên tiến
+ELE4419
+2
+ 
+X
+3
+BAS4102
+25
+Vật liệu và công nghệ bán dẫn tiên tiến
+ELE4420
+2
+ 
+X
+3
+ELE4303
+26
+Học sâu và thiết kế ngược cho vi mạch tích hợp
+ELE4422
+2
+ 
+X
+3
+ELE4407
+
+Tổng
+
+25
+
+
+
+
+7.2.4 Khối kiến thức tốt nghiệp
+7.2.4.1 Định hướng ứng dụng
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+27
+Thực tập tốt nghiệp
+ELE4527
+6
+x
+
+4
+
+28
+Đề án tốt nghiệp
+ELE4528
+9
+x
+
+4
+
+
+Tổng
+
+15
+
+
+
+
+7.2.4.2 Định hướng nghiên cứu
+
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+27
+Luận văn tốt nghiệp
+ELE4529
+15
+x
+
+4
+
+
+Tổng
+
+15
+
+
+
+
+8. HƯỚNG DẪN THỰC HIỆN CHƯƠNG TRÌNH
+8.1 Kế hoạch học tập chuẩn (Chi tiết kèm theo)
+8.2 Tiến trình học tập chuẩn (Chi tiết kèm theo)
+9. MÔ TẢ TÓM TẮT CÁC HỌC PHẦN
+9.1 Khối kiến thức chung
+1. TRIẾT HỌC
+Mã môn học: BAS4186
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần được cấu trúc thành 4 chương: Chương 1 gồm các nội dung về đặc trưng của triết học phương Tây, triết học phương Đông (trong đó có tư tưởng triết học Việt Nam, ở mức giản lược nhất) và triết học Mác; Chương 2 gồm các nội dung nâng cao về triết học Mác-Lênin trong giai đoạn hiện nay và vai trò thế giới quan, phương pháp luận của nó; Chương 3 đi sâu hơn vào quan hệ tương hỗ giữa triết học với các khoa học, làm rõ vai trò thế giới quan và phương pháp luận của triết học đối với sự phát triển khoa học và đối với việc nhận thức, giảng dạy và nghiên cứu các đối tượng thuộc lĩnh vực khoa học tự nhiên và công nghệ; Chương 4 phân tích những vấn đề về vai trò của các khoa học đối với đời sống xã hội.
+2. PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC
+Mã môn học: SKD4112
+Số tín chỉ: 2
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp cho học viên những kiến thức về các phương pháp tiến hành thực hiện các loại hình nghiên cứu như đề tài khoa học công nghệ các cấp, luận văn tốt nghiệp… một cách có hệ thống và mang tính khoa học. Học phần được cấu trúc thành 6 chương: Tổng quan về khoa học và nghiên cứu khoa học; Trình tự logic của nghiên cứu khoa học; Xây dựng đề cương nghiên cứu khoa học; Phương pháp thu thập, xử lý thông tin; Viết báo cáo và trình bày kết quả nghiên cứu khoa học; Đánh giá công trình nghiên cứu khoa học.
+Học phần cũng giới thiệu các khái niệm và phương pháp thúc đẩy đổi mới sáng tạo, tư duy sáng tạo và chuyển giao kết quả nghiên cứu vào thực tiễn. Học phần giúp học viên phát triển năng lực nghiên cứu, tư duy phản biện và khả năng đề xuất các giải pháp sáng tạo trong lĩnh vực chuyên môn.
+3. CÔNG CỤ TOÁN CHO ĐIỆN TỬ VIỄN THÔNG
+Mã môn học: BAS4102
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung: (bộ môn Toán cập nhật)
+Học phần cung cấp các công cụ toán học quan trọng phục vụ cho việc phân tích, mô hình hóa và thiết kế các hệ thống điện tử viễn thông hiện đại. Nội dung môn học bao gồm các chủ đề như đại số tuyến tính và phân tích ma trận, giải tích và tối ưu hóa, xác suất và quá trình ngẫu nhiên, cũng như các phép biến đổi và công cụ phân tích tín hiệu như biến đổi Fourier. Các phương pháp toán học này được ứng dụng trong phân tích tín hiệu, mô hình hóa kênh truyền, đánh giá hiệu năng và thiết kế các thuật toán trong các hệ thống truyền thông số và vô tuyến. Học phần giúp học viên xây dựng nền tảng toán học vững chắc để nghiên cứu và phát triển các công nghệ điện tử viễn thông tiên tiến.
+9.2. Khối kiến thức cơ sở 
+4. TRUYỀN THÔNG SỐ NÂNG CAO
+Mã môn học: TEL4301
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Cung cấp cho học viên những kiến thức chuyên sâu và nâng cao về truyền thông số theo quan điểm hệ thống truyền và xử lý tín hiệu số nhằm nâng cao hiệu năng cũng như đảm bảo an toàn cho hệ thống truyền thông số. Học phần giới thiệu về mô hình hệ thống truyền thông số, các thành phần của hệ thống truyền thông số; các mô hình kênh và dung lượng kênh tương ứng trong thông tin số; các kỹ thuật cân bằng kênh; OFDM; MIMO; thông tin đa người dùng; các vấn đề an toàn, an ninh trong hệ thống truyền thông số…
+5. XỬ LÝ TÍN HIỆU SỐ NÂNG CAO
+Mã môn học: ELE4301
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung: 
+Xử lý tín hiệu số là nền tảng của nhiều công nghệ hiện đại như IoT và AI. Học phần cung cấp các phương pháp nâng cao trong xử lý tín hiệu số, tập trung vào các kỹ thuật hiện đại dựa trên đại số tuyến tính, tối ưu hóa và mô hình xác suất. Nội dung bao gồm phân tích tín hiệu ngẫu nhiên, xử lý đa tốc độ, ước lượng phổ, lọc thích nghi, và các phương pháp học máy trong xử lý tín hiệu. Học phần nhấn mạnh:
+Mô hình hóa tín hiệu bằng không gian vector
+Thuật toán ước lượng và tối ưu
+Ứng dụng trong truyền thông, IoT, xử lý tiếng nói/âm thanh, xử lý tín hiệu ảnh và   tín hiệu y sinh.
+6. KỸ THUẬT RÔ BỐT VÀ ĐIỀU KHIỂN THÔNG MINH
+Mã môn học: ELE4302
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học Kỹ thuật Rô-bốt và Điều khiển thông minh trang bị cho người học các kiến thức từ cơ bản đến nâng cao về cấu trúc, mô hình hóa và điều khiển các hệ thống rô-bốt công nghiệp và cơ điện tử thông minh.
+Nội dung học phần gồm bốn phần chính. Phần đầu cung cấp tổng quan về rô-bốt, bao gồm lịch sử phát triển, phân loại và các ứng dụng tiêu biểu trong công nghiệp và đời sống. Phần thứ hai tập trung vào cấu trúc và mô hình hóa rô-bốt, trình bày các thành phần của hệ thống, cơ cấu tay máy, bậc tự do, không gian làm việc, cùng các bài toán động học thuận, động học nghịch và động lực học. Phần thứ ba đề cập đến các phương pháp điều khiển rô-bốt và hệ phi tuyến, với các kỹ thuật hiện đại như điều khiển tối ưu, thích nghi và bền vững nhằm đảm bảo ổn định và nâng cao hiệu suất hệ thống. Phần cuối giới thiệu các phương pháp điều khiển thông minh, bao gồm ứng dụng thuật toán tối ưu, trí tuệ nhân tạo và các kỹ thuật tiên tiến trong thiết kế và triển khai hệ thống rô-bốt.
+Kết thúc học phần, người học có khả năng phân tích, mô hình hóa, thiết kế và triển khai các hệ thống rô-bốt và điều khiển thông minh, đồng thời vận dụng hiệu quả các công cụ và phương pháp hiện đại để giải quyết các bài toán kỹ thuật phức tạp trong lĩnh vực rô-bốt và tự động hóa.
+7. QUY TRÌNH SẢN XUẤT ĐIỆN TỬ, VI MẠCH BÁN DẪN
+Mã môn học: ELE4303 
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp kiến thức chuyên sâu về quy trình sản xuất vi mạch bán dẫn hiện đại, bao gồm cả giai đoạn front-end và back-end trong chuỗi giá trị IC từ fabless, foundry đến đóng gói (OSAT). Nội dung không chỉ đề cập đến các công nghệ chế tạo tiên tiến như quang khắc DUV/EUV, cấu trúc transistor FinFET, GAAFET, mà còn phân tích mối liên hệ giữa quy trình và node công nghệ với đặc tính của linh kiện điện tử như MOSFET, BJT, thiết bị công suất và linh kiện nano. Các kỹ thuật doping, oxy hóa, epitaxy nâng cao được xem xét dưới góc độ ảnh hưởng đến hiệu năng, tiêu thụ năng lượng và độ tin cậy của linh kiện. Bên cạnh đó, môn học mở rộng cả những nội dung về biến thiên công nghệ, khuyết tật. Học viên cũng được tiếp cận các phương pháp kiểm soát quy trình, đánh giá độ tin cậy và xu hướng sản xuất thông minh ứng dụng AI trong fab.
+8. MÁY TÍNH LƯỢNG TỬ
+Mã môn học: ELE4304  
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung: 
+Môn học này giới thiệu về lĩnh vực điện toán lượng tử dựa trên các nguyên tắc của cơ học lượng tử. Môn học sẽ giúp sinh viên khám phá các khái niệm nền tảng như qubit, cổng lượng tử, và các thuật toán lượng tử cơ bản, đồng thời tìm hiểu sự khác biệt cốt lõi giữa máy tính cổ điển và máy tính lượng tử. Môn học đặc biệt chú trọng đến việc liên hệ điện toán lượng tử với các ứng dụng tiềm năng trong kỹ thuật điện tử, từ thiết kế linh kiện mới, vật liệu lượng tử, đến các hệ thống truyền thông và cảm biến lượng tử. Sinh viên sẽ được trang bị nền tảng kiến thức và kỹ năng cần thiết để bước đầu khám phá và đóng góp vào lĩnh vực điện toán lượng tử đang phát triển nhanh chóng này.  
+9. CÔNG NGHỆ MEMS/NEMS
+Mã môn học: ELE4305
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học Công nghệ MEMS/NEMS (Micro-Electro-Mechanical Systems / Nano-Electro-Mechanical Systems) cung cấp kiến thức chuyên sâu về thiết kế, chế tạo và ứng dụng của các hệ thống vi cơ điện tử và nano. Mục tiêu của môn học là giúp sinh viên nắm vững các công nghệ hiện đại nhất, đồng thời phát triển kỹ năng giải quyết vấn đề trong lĩnh vực công nghệ cao. Những công nghệ này kết hợp giữa điện tử và cơ khí, cho phép tạo ra các thiết bị nhỏ gọn nhưng có khả năng hoạt động cao. 
+Nội dung học tập bao gồm việc nghiên cứu các thiết bị vi cơ và nano điện tử, ứng dụng của chúng trong các lĩnh vực như cảm biến, bộ chuyển đổi, thiết bị y tế, và các hệ thống nano trong tương lai. Môn học không chỉ trang bị kiến thức lý thuyết mà còn khuyến khích sinh viên thực hành và áp dụng các công nghệ mới vào thực tiễn.
+10. CÔNG NGHỆ AIOT
+Mã môn học: ELE4306
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học Công nghệ AIoT trang bị cho người học các kiến thức nền tảng và nâng cao về sự tích hợp giữa trí tuệ nhân tạo (Artificial Intelligence – AI) và Internet vạn vật (IoT) nhằm xây dựng các hệ thống thông minh có khả năng nhận thức, phân tích và ra quyết định dựa trên dữ liệu từ môi trường thực. Học phần tập trung vào vai trò của cảm biến thông minh (smart sensing) như cầu nối giữa thế giới vật lý và không gian số, kết hợp với các kỹ thuật học máy và học sâu để hình thành các hệ thống AIoT có khả năng nhận thức và thích ứng.
+ Nội dung học phần bao gồm tổng quan về kiến trúc AIoT, các công nghệ truyền thông và kết nối trong IoT, cùng với các kỹ thuật cảm biến như định vị và theo dõi (localization), cảm biến di động và thiết bị đeo (mobile and wearable sensing), cảm biến không dây và cảm biến âm thanh. Trên nền tảng đó, học phần giới thiệu các phương pháp trí tuệ nhân tạo áp dụng cho dữ liệu cảm biến, bao gồm xử lý dữ liệu, trích xuất đặc trưng và các mô hình học sâu nhằm nâng cao khả năng nhận dạng, dự đoán và phát hiện bất thường trong hệ thống IoT. Ngoài ra, học phần cũng đề cập đến các kiến trúc tính toán hiện đại như điện toán biên (Edge AI) và tích hợp AI vào các thiết bị IoT trong các ứng dụng thực tiễn như nhà thông minh, y tế số, an ninh và hệ thống tự động.
+Kết thúc học phần, người học có khả năng hiểu và phân tích kiến trúc hệ thống AIoT, nắm vững các nguyên lý cảm biến và phương pháp AI cho dữ liệu IoT, đồng thời có thể thiết kế và triển khai các ứng dụng AIoT thông minh phục vụ các bài toán thực tế trong công nghiệp và đời sống.
+9.3. Khối kiến thức chuyên ngành
+11. CÁC CHỦ ĐỀ ĐIỆN TỬ HIỆN ĐẠI
+Mã môn học: ELE4407 
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Khóa học này mô tả một lộ trình cho kỷ nguyên điện tử hiện đại, vượt qua sự suy giảm hiệu quả của việc thu nhỏ Silicon truyền thống để tiến vào lĩnh vực tích hợp Vượt định luật Moore. Khóa học sẽ giới thiệu và phân tích vật lý và nguyên lý chế tạo các vật liệu có chiều thấp—như ống nano carbon và chất bán dẫn 2D như MoS₂—cùng với việc tìm hiểu sâu về các kiến trúc phi Von Neumann, đặc biệt là các mảng điện trở nhớ thần kinh Neuromorphic memristor. Từ các mô hình hiệu quả cao của chất bán dẫn có dải năng lượng rộng (GaN và SiC) đến độ chính xác của giao diện lượng tử đông lạnh với qubits trong các thiết bị lượng tử và khả năng tương thích sinh học của các thiết bị điện tử hữu cơ của các cảm biến sinh học, các thiết bị thay thế sinh hóa. Chương trình học liên kết giữa khoa học vật liệu cơ bản và các công nghệ thiết kế hệ thống điện tử trong tương lai.
+12. QUẢN LÝ DỰ ÁN VÀ ĐỔI MỚI SÁNG TẠO 
+Mã môn học: VLG4401
+Số tín chỉ: 3
+Môn học tiên quyết: 
+Tóm tắt nội dung:
+Học phần được thiết kế nhằm trang bị tư duy chiến lược và kỹ năng lãnh đạo trong kỷ nguyên công nghệ. Học phần giúp học viên làm chủ các phương pháp quản lý dự án phức tạp, tối ưu hóa nguồn lực và quản trị rủi ro cho các dự án R&D, thiết lập hạ tầng công nghệ quy mô lớn. Đồng thời, học viên được rèn luyện năng lực đổi mới sáng tạo, ứng dụng tư duy thiết kế để thương mại hóa các nghiên cứu khoa học chuyên sâu thành sản phẩm ứng dụng thực tiễn. Học phần cũng tập trung phân tích tiến trình chuyển đổi số trong chuỗi giá trị ngành điện tử, xây dựng năng lực hoạch định chiến lược để học viên tự tin dẫn dắt sự thay đổi tại các viện nghiên cứu và doanh nghiệp công nghệ cao.
+13. XỬ LÝ ĐA PHƯƠNG TIỆN
+Mã môn học: ELE4409
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp các kiến thức chuyên sâu về nguyên lý biểu diễn, mã hóa và nén dữ liệu đa phương tiện bao gồm âm thanh, ảnh tĩnh và video số. Nội dung tập trung phân tích các thuật toán lõi và kiến trúc của các chuẩn nén hiện đại như JPEG, MP3, H264/AVC và HEVC. Bên cạnh đó, môn học cung cấp kiến thức về các giao thức truyền phát đa phương tiện qua mạng, các tham số đo lường mạng (QoS) và các phương pháp đánh giá chất lượng trải nghiệm (QoE) thực tế. 
+Kết thúc học phần, học viên có khả năng phân tích, thiết kế và mô phỏng các hệ thống xử lý và truyền tải đa phương tiện. Từ đó có thể đánh giá, đề xuất các giải pháp đáp ứng các yêu cầu giải quyết bài toán tối ưu hóa phức tạp trong các hệ thống truyền tin hiện đại.
+14. HỆ THỐNG NHÚNG VÀ CÔNG NGHỆ IOT TIÊN TIẾN
+Mã môn học: ELE4410
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học Hệ thống nhúng và Công nghệ IoT tiên tiến trang bị cho người học các kiến thức chuyên sâu về thiết kế, phát triển và tối ưu hóa các hệ thống nhúng thông minh, cũng như khả năng tích hợp các công nghệ Internet vạn vật (IoT) trong các ứng dụng thực tiễn.
+Nội dung học phần gồm bốn phần chính. Phần đầu giới thiệu tổng quan về hệ thống nhúng và IoT, bao gồm khái niệm, kiến trúc, xu hướng phát triển và các lĩnh vực ứng dụng trong công nghiệp, y tế, nông nghiệp và thành phố thông minh. Phần thứ hai tập trung vào cấu trúc phần cứng và phần mềm của hệ thống nhúng, trình bày các bộ vi điều khiển, vi xử lý, cảm biến, giao tiếp ngoại vi, cùng quy trình phát triển phần mềm nhúng thời gian thực. Phần thứ ba đề cập đến kiến trúc và giao thức truyền thông trong IoT, bao gồm các lớp mạng, các chuẩn truyền dữ liệu (MQTT, CoAP, LoRa, BLE, v.v.), bảo mật và quản lý năng lượng trong mạng cảm biến không dây. Phần cuối giới thiệu các công nghệ tiên tiến trong lĩnh vực, như điện toán biên (Edge Computing), trí tuệ nhân tạo trên thiết bị và kỹ thuật tích hợp hệ thống thông minh trong môi trường IoT quy mô lớn.
+Kết thúc học phần, người học có khả năng thiết kế và phát triển các hệ thống nhúng và IoT tiên tiến, biết cách lựa chọn và tích hợp phần cứng, phần mềm, và giao thức truyền thông phù hợp để xây dựng giải pháp IoT hiệu quả, an toàn và tối ưu. Ngoài ra, học viên có thể vận dụng các công cụ và công nghệ hiện đại để giải quyết các bài toán nghiên cứu và phát triển trong lĩnh vực điều khiển, tự động hóa và hệ thống thông minh.
+15. THIẾT KẾ HỆ THỐNG VLSI TIÊN TIẾN
+Mã môn học: ELE4411
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học “Thiết kế hệ thống VLSI tiên tiến” cung cấp cho học viên cao học các kiến thức chuyên sâu và cập nhật về phân tích, thiết kế và tối ưu các hệ thống vi mạch tích hợp quy mô lớn (VLSI) hiện đại. Học phần tập trung vào các vấn đề nâng cao như mô hình transistor và hiệu ứng công nghệ ở miền nanomet, thiết kế CMOS hiệu năng cao và công suất thấp, thiết kế logic số tiên tiến, cấu trúc bộ nhớ, liên kết trong chip (interconnect), cũng như phân tích định thời, công suất và độ tin cậy. Học viên được tiếp cận quy trình thiết kế vi mạch hoàn chỉnh từ mức đặc tả kiến trúc, mô tả phần cứng (RTL), tổng hợp logic, phân tích timing, tối ưu công suất, đến thiết kế vật lý và kiểm chứng sau layout. Đồng thời, học phần giới thiệu các xu hướng hiện đại như thiết kế SoC, IP-based design, phần cứng cho AI, hệ thống dị thể, và các vấn đề về kiểm thử và bảo mật phần cứng. Việc sử dụng các công cụ EDA chuyên sâu như Cadence, Synopsys và các ngôn ngữ mô tả phần cứng được tích hợp xuyên suốt trong học phần. Sau khi hoàn thành, học viên có khả năng phân tích yêu cầu hệ thống, đề xuất kiến trúc vi mạch, thiết kế và tối ưu các khối chức năng theo tiêu chí PPA (Power–Performance–Area), đồng thời đánh giá khả năng hiện thực và độ tin cậy của thiết kế. Học phần tạo nền tảng cho nghiên cứu chuyên sâu và làm việc trong các lĩnh vực thiết kế vi mạch, hệ thống nhúng, AI phần cứng và các trung tâm R&D trong ngành bán dẫn.
+16. KIỂM TRA VÀ XÁC MINH IC TIÊN TIẾN
+Mã môn học: ELE4419  
+Số tín chỉ: 2
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học “Kiểm thử và xác minh IC tiên tiến” cung cấp cho học viên cao học các kiến thức chuyên sâu về xác minh chức năng và kiểm thử các mạch tích hợp hiện đại. Học phần tập trung vào việc xây dựng môi trường kiểm chứng với SystemVerilog, UVM, phát triển testbench, tạo stimulus, kiểm tra tự động kết quả, phân tích waveform và đánh giá chất lượng xác minh dựa trên các chỉ số coverage. Bên cạnh đó, môn học cũng trang bị các kiến thức về Design for Testability (DFT) như scan chain, BIST, ATPG và các phương pháp phát hiện, phân tích lỗi trong quá trình thiết kế và sản xuất IC. Thông qua học phần, học viên có khả năng xây dựng môi trường verification chuyên nghiệp, kiểm tra và đánh giá độ tin cậy của thiết kế, đồng thời tiếp cận quy trình kiểm thử và xác minh IC theo định hướng công nghiệp.
+17. VẬT LIỆU VÀ CÔNG NGHỆ BÁN DẪN TIÊN TIẾN
+Mã môn học: ELE4420  
+Số tín chỉ: 02
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học Vật liệu và Công nghệ bán dẫn tiên tiến cung cấp kiến thức chuyên sâu về các loại vật liệu bán dẫn hiện đại và công nghệ chế tạo chúng. Sinh viên sẽ tìm hiểu về các loại bán dẫn như Gallium Nitride (GaN), gallium arsenide (GaAs) và các vật liệu mới như graphene và perovskite. Môn học cũng bao gồm các quy trình sản xuất tinh vi như doping, lithography, và etching, cũng như các phương pháp kiểm tra và đánh giá chất lượng của các vật liệu, linh kiện bán dẫn bằng các công cụ tiên tiến.
+18. CÔNG NGHỆ MÀNG MỎNG VÀ KHOA HỌC NANO TIÊN TIẾN
+Mã môn học: ELE4412 
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp kiến thức nâng cao về vật liệu và công nghệ màng mỏng trong vi điện tử và nanoelectronics, tập trung vào cơ chế vật lý – hóa học của quá trình hình thành màng và các mô hình tăng trưởng ở kích thước nano. Nội dung cốt lõi bao gồm cơ chế nucleation và growth kinetics, các kỹ thuật lắng đọng tiên tiến như ALD, MOCVD, sputtering, cùng các phương pháp đặc trưng vật liệu hiện đại như TEM, SEM, AFM, XRD và ellipsometry. Bên cạnh đó, học phần đi sâu vào các vật liệu nano thế hệ mới như graphene, vật liệu 2D (MoS₂), quantum dots, cũng như kỹ thuật thiết kế giao diện và dị cấu trúc trong CMOS, MEMS và optoelectronics. Học viên được trang bị khả năng phân tích cơ chế hình thành và đặc tính vật liệu, lựa chọn và thiết kế quy trình tạo màng phù hợp, đồng thời phát triển kỹ năng nghiên cứu, thí nghiệm và ứng dụng vật liệu nano trong các hệ thống vi mạch tiên tiến.
+19. CÔNG NGHỆ ĐÓNG GÓI VI MẠCH TIÊN TIẾN
+Mã môn học: ELE4421  
+Số tín chỉ: 2
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học Công nghệ đóng gói vi mạch tiên tiến sẽ cung cấp kiến thức về các công nghệ đóng gói và lắp ráp hiện đại, đáp ứng nhu cầu thu nhỏ kích thước và tăng cường hiệu suất của các hệ thống điện tử. Nội dung khóa học sẽ tập trung vào việc phân tích các loại gói IC khác nhau cùng sự phát triển của chúng, từ các giải pháp đóng gói 2.5D, 3D đến các kiểu đóng gói dị thể. Các xu hướng công nghệ mới như đóng gói ở mức wafer, công nghệ đóng gói 3D, fanout và đóng gói nhúng cũng sẽ được giới thiệu.
+Khóa học sẽ đào sâu vào quy trình sản xuất, vật liệu sử dụng và các khía cạnh thiết kế liên quan đến công nghệ này, đồng thời giải thích nguyên tắc lựa chọn vật liệu phù hợp cho các ứng dụng yêu cầu nhiệt độ thấp và hệ số giãn nở nhiệt thấp (CTE). Ngoài ra, sinh viên sẽ được tìm hiểu về các vấn đề liên quan đến độ tin cậy điện và cơ khí trong đóng gói tiên tiến, bao gồm nhiễu xuyên âm điện nhiệt, sự cố điện môi, ăn mòn điện hóa, ứng suất nhiệt và lỗi kết nối. Môn học không chỉ cung cấp kiến thức chuyên sâu về công nghệ đóng gói hiện đại và các xu hướng trong tương lai mà còn trang bị cho sinh viên những kỹ năng cần thiết để thiết kế, phân tích và tối ưu hóa các giải pháp đóng gói cho nhiều ứng dụng khác nhau.
+20. CÔNG NGHỆ PLASMA TRONG CHẾ TẠO BÁN DẪN
+Mã môn học: ELE4413
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp kiến thức chuyên sâu về công nghệ plasma trong chế tạo vi mạch bán dẫn, tập trung vào bản chất vật lý và hóa học của plasma cũng như vai trò của nó trong các công đoạn chế tạo bán dẫn ở cấp độ nano. Nội dung cốt lõi bao gồm vật lý plasma nhiệt độ thấp, plasma chemistry và kinetics, các kỹ thuật plasma etching (khắc dị hướng, tỉ lệ hình học cao) và lắng đọng tăng cường plasma (PECVD, ALD). Bên cạnh đó, học phần đề cập đến các vấn đề quan trọng như plasma processing, biến đổi bề mặt vật liệu, cùng các phương pháp mô hình hóa và mô phỏng plasma (fluid, kinetic models). Ứng dụng plasma trong các công nghệ tiên tiến như FinFET, TSV và cấu trúc 3D cũng được phân tích chi tiết. Sau khi hoàn thành học phần, học viên có khả năng mô hình hóa, phân tích được quá trình hóa lý xảy ra trong plasma, có hiểu biết về điều chỉnh và tối ưu quá trình phản ứng plasma, đánh giá ảnh hưởng của plasma đến vật liệu và thiết bị, đồng thời phát triển kỹ năng nghiên cứu và ứng dụng trong công nghệ bán dẫn hiện đại.
+21. HỌC SÂU VÀ THIẾT KẾ NGƯỢC CHO VI MẠCH TÍCH HỢP
+Mã môn học: ELE4422
+Số tín chỉ: 2
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học “Học sâu và thiết kế ngược cho vi mạch tích hợp” cung cấp cho học viên kiến thức nền tảng và chuyên sâu về trí tuệ nhân tạo (AI), học máy (ML) và học sâu (DL) trong thiết kế, tối ưu hóa và thiết kế ngược vi mạch tích hợp. Học viên được trang bị các phương pháp học máy như học có giám sát, học không giám sát, học tăng cường và các mô hình DL hiện đại như ANN, DNN, CNN, Transformer và Generative Models phục vụ các bài toán thiết kế vi mạch.
+Môn học tập trung vào ứng dụng AI trong thiết kế vi mạch số, vi mạch tương tự, vi mạch tín hiệu trộn và hệ thống VLSI, bao gồm tối ưu hóa layout CMOS, tối ưu hóa PPA, tự động hóa thiết kế EDA, tối ưu kiểm thử, phân tích độ tin cậy, tối ưu tham số thiết kế và thiết kế ngược vi mạch tích hợp. Đồng thời, học viên được tiếp cận các phương pháp thiết kế ngược dựa trên AI nhằm phân tích kiến trúc, nhận dạng chức năng và phát hiện bất thường trong thiết kế vi mạch.
+Sau khi hoàn thành học phần, học viên có khả năng ứng dụng AI và DL trong tối ưu hóa, tự động hóa và thiết kế ngược vi mạch tích hợp phục vụ nghiên cứu, phát triển công nghệ và thiết kế hệ thống vi mạch trong lĩnh vực bán dẫn.
+22.  HỌC SÂU VÀ ỨNG DỤNG TRONG XỬ LÝ TÍN HIỆU
+Mã môn học: ELE4414
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp nền tảng lý thuyết và phương pháp nâng cao về học sâu trong xử lý tín hiệu, kết hợp giữa các mô hình toán học truyền thống và các phương pháp học từ dữ liệu. Nội dung học phần bao gồm: biểu diễn tín hiệu trong không gian đặc trưng học được; các kiến trúc học sâu cho tín hiệu thời gian, ảnh và chuỗi (CNN, RNN, LSTM, Transformer); các phương pháp tối ưu hóa và huấn luyện mô hình; cũng như tích hợp giữa xử lý tín hiệu, học sâu và học thống kê.
+Học viên được phát triển năng lực phân tích và mô hình hóa các bài toán xử lý tín hiệu phức tạp bằng các phương pháp học sâu và mô hình toán học, đánh giá hiệu năng mô hình thông qua dữ liệu, thí nghiệm và các chỉ số định lượng, và thiết kế, triển khai và tối ưu các hệ thống xử lý tín hiệu dựa trên học sâu đáp ứng các ràng buộc thực tiễn.
+Học phần cũng yêu cầu học viên thực hiện các bài tập và dự án theo nhóm, qua đó phát triển năng lực trình bày, trao đổi học thuật và hợp tác trong môi trường đa ngành. Đồng thời, học viên được trang bị khả năng đánh giá các vấn đề đạo đức, tính minh bạch, độ tin cậy và tác động xã hội của các hệ thống học sâu trong xử lý tín hiệu.
+Thông qua các bài tập lập trình và dự án ứng dụng, học viên có khả năng nghiên cứu, phát triển và đánh giá các mô hình học sâu tiên tiến cho các bài toán như nhận dạng tiếng nói, xử lý ảnh và video, xử lý tín hiệu y sinh và các hệ thống truyền thông thông minh, sử dụng các công cụ và nền tảng chuyên dụng.
+
+23. THỊ GIÁC MÁY TÍNH NÂNG CAO
+Mã môn học: ELE4415
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp các phương pháp nâng cao trong thị giác máy tính, bao gồm cả tiếp cận truyền thống và hiện đại, hướng tới giải quyết các bài toán phức tạp trong lĩnh vực điện tử và hệ thống thông minh. Nội dung học phần bao gồm: hình học thị giác (camera model, epipolar geometry), tái tạo 3D (3D reconstruction), các mô hình học sâu (CNN, Vision Transformer), mô hình tạo sinh (Generative Models), và các phương pháp AI đa phương thức (Multimodal AI).
+Học viên được trang bị khả năng phân tích và mô hình hóa các bài toán thị giác máy tính phức tạp, đánh giá mô hình và hệ thống thông qua dữ liệu và thí nghiệm, đồng thời thiết kế và triển khai các giải pháp thị giác máy tính đáp ứng các ràng buộc thực tiễn. Học phần cũng yêu cầu học viên trình bày, báo cáo và làm việc nhóm trong các dự án nghiên cứu hoặc ứng dụng, và đánh giá các vấn đề đạo đức, tính minh bạch và tác động xã hội của các hệ thống AI/thị giác máy tính.
+Thông qua các bài tập lớn và dự án, học viên phát triển năng lực nghiên cứu, triển khai và đánh giá các hệ thống thị giác máy tính hiện đại, sử dụng các công cụ và nền tảng chuyên dụng, đáp ứng yêu cầu của các ứng dụng tiên tiến như xe tự hành, giám sát thông minh, robot và hệ thống AI đa phương thức.
+24. ĐIỆN TỬ CÔNG NGHIỆP
+Mã môn học: ELE4416
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Môn học “Điện tử công nghiệp” cung cấp cho học viên các kiến thức nền tảng và ứng dụng về các hệ thống, thiết bị và giải pháp điện tử được sử dụng trong môi trường công nghiệp hiện đại. Học phần tập trung vào các nội dung như linh kiện và mạch điện tử công suất, cảm biến và cơ cấu chấp hành, kỹ thuật giao tiếp và điều khiển, cũng như việc tích hợp các khối điện tử vào hệ thống tự động hóa và giám sát công nghiệp. Bên cạnh đó, môn học giúp người học hiểu được nguyên lý hoạt động, khả năng ứng dụng và yêu cầu vận hành của các thiết bị điện tử trong dây chuyền sản xuất và các hệ thống điều khiển công nghiệp. Thông qua học phần, học viên có khả năng phân tích, lựa chọn và ứng dụng các giải pháp điện tử phù hợp cho các bài toán đo lường, điều khiển và tự động hóa trong công nghiệp.
+25. ỨNG DỤNG AI TRONG ĐIỆN TỬ
+Mã môn học: ELE4417
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Khóa học này trình bày về vai trò của Trí tuệ Nhân tạo (AI) như một bộ công cụ nền tảng cho thiết kế hệ thống điện tử hiện đại, chuyển đổi tiêu chuẩn ngành từ các thuật toán dựa trên quy tắc sang tối ưu hóa dựa trên dữ liệu.Học viên sẽ được học về sự tích hợp của Học máy (ML) trên toàn bộ chuỗi thiết kế, từ Thiết kế Điện tử tự động (EDA) được tăng tốc bởi AI cho bố cục và định tuyến đến việc tổng hợp các kiến trúc mạng thần kinh trực tiếp trên FPGA và các NPU chuyên dụng. Các mô-đun chính bao gồm việc triển khai TinyML cho cảm biến biên siêu tiết kiệm năng lượng, xử lý tín hiệu số được tăng cường bởi học sâu (DL) và ứng dụng học tăng cường trong quản lý các hệ thống tự động. Bằng cách phân tích mô hình đồng thiết kế phần cứng-phần mềm, Học viên sẽ học cách thiết kế các hệ thống không chỉ hiệu suất cao mà còn thông minh, hướng tới sự phức tạp của thế hệ điện tử nhận thức (cognitive electronics) trong tương lai.
+26. CHUYÊN ĐỀ ĐIỆN TỬ Y SINH
+Mã môn học: ELE4418  
+Số tín chỉ: 3
+Môn học tiên quyết:
+Tóm tắt nội dung:
+Học phần cung cấp kiến thức chuyên sâu và cập nhật về các công nghệ điện tử trong lĩnh vực y sinh hiện đại, hướng tới phân tích, đánh giá và phát triển các hệ thống đo lường và xử lý tín hiệu sinh học trong các ứng dụng thực tiễn. Nội dung bao gồm: đặc tính và mô hình hóa tín hiệu sinh học; môi trường đo và các nguồn nhiễu; thiết kế và phân tích các mạch khuếch đại, lọc và thu nhận tín hiệu sinh học; cảm biến và hệ thống đo lường y sinh; cũng như các xu hướng tiên tiến như thiết bị đeo, điện tử sinh học và hệ thống tích hợp trí tuệ nhân tạo.
+Học phần giúp học viên phân tích và giải quyết các vấn đề kỹ thuật phức tạp trong hệ thống điện tử y sinh, đánh giá hiệu năng hệ thống thông qua mô hình, thí nghiệm và dữ liệu đo, và thiết kế hoặc đề xuất các giải pháp kỹ thuật đáp ứng các ràng buộc thực tiễn trong y sinh. Thông qua hình thức seminar, học viên thực hiện đọc, phân tích, phản biện và trình bày các công trình nghiên cứu khoa học, đồng thời phát triển năng lực giao tiếp học thuật và làm việc nhóm.
+Bên cạnh đó, học phần chú trọng đến đạo đức nghề nghiệp, an toàn y sinh và trách nhiệm xã hội, bao gồm các vấn đề về độ tin cậy, bảo mật dữ liệu y tế và tác động của công nghệ đến con người. Kết thúc học phần, học viên có khả năng nghiên cứu, triển khai và đánh giá các hệ thống điện tử y sinh hiện đại, sử dụng các công cụ và phương pháp chuyên ngành, đáp ứng yêu cầu của các ứng dụng chăm sóc sức khỏe thông minh.
+9.4. Khối kiến thức tốt nghiệp
+THỰC TẬP TỐT NGHIỆP 
+Mã học phần: ELE4527
+Số tín chỉ: 6
+Học phần tiên quyết: 
+Tóm tắt nội dung: 
+Học phần hỗ trợ học viên vận dụng các kiến thức và kỹ năng chuyên ngành đã tích lũy để tham gia giải quyết các bài toán thực tiễn trong lĩnh vực kỹ thuật điện tử tại doanh nghiệp, cơ sở nghiên cứu hoặc đơn vị ứng dụng công nghệ. Thông qua quá trình thực tập, học viên được rèn luyện năng lực phân tích, thiết kế, triển khai và tối ưu các giải pháp kỹ thuật; nâng cao kỹ năng làm việc chuyên nghiệp, phối hợp nhóm, tác phong công nghiệp và khả năng thích ứng với môi trường làm việc thực tế.
+Nội dung thực tập có thể được triển khai dưới sự phối hợp giữa Học viện với doanh nghiệp, cơ sở nghiên cứu hoặc chuyên gia kỹ thuật phù hợp, làm cơ sở cho việc thực hiện đề án tốt nghiệp theo định hướng ứng dụng.
+ĐỀ ÁN TỐT NGHIỆP 
+Mã học phần: ELE4528
+Số tín chỉ: 9
+Học phần tiên quyết: 
+Tóm tắt nội dung:
+Học phần giúp học viên vận dụng tổng hợp kiến thức chuyên ngành, kỹ năng kỹ thuật và năng lực nghiên cứu ứng dụng để giải quyết một bài toán thực tiễn hoặc phát triển một giải pháp/sản phẩm công nghệ trong lĩnh vực kỹ thuật điện tử.
+Đề án tốt nghiệp được thực hiện theo định hướng ứng dụng, ưu tiên các chủ đề gắn với nhu cầu của doanh nghiệp, cơ sở nghiên cứu hoặc đơn vị sử dụng lao động, có thể kết hợp giữa nghiên cứu, thiết kế, mô phỏng, chế tạo thử nghiệm, triển khai hoặc đánh giá hệ thống.
+Kết quả đề án được thể hiện thông qua báo cáo kỹ thuật, sản phẩm mẫu, giải pháp công nghệ hoặc kết quả triển khai thực tế, đồng thời học viên phải bảo vệ kết quả thực hiện trước Hội đồng đánh giá theo quy định.
+LUẬN VĂN TỐT NGHIỆP 
+Mã học phần: ELE4529
+Số tín chỉ: 15
+Học phần tiên quyết: 
+Tóm tắt nội dung:
+Học phần giúp học viên vận dụng kiến thức chuyên sâu, phương pháp nghiên cứu khoa học và năng lực nghiên cứu độc lập để giải quyết một vấn đề khoa học hoặc kỹ thuật chuyên sâu trong lĩnh vực kỹ thuật điện tử.
+Luận văn được thực hiện theo định hướng nghiên cứu, tập trung vào phân tích, mô hình hóa, thiết kế, đánh giá hoặc phát triển phương pháp, giải pháp và công nghệ mới; qua đó phát triển tư duy học thuật, năng lực nghiên cứu độc lập, kỹ năng phân tích, tổng hợp, viết báo cáo khoa học và trình bày kết quả nghiên cứu. Kết quả của luận văn phải được công bố trên các tạp chí hoặc hội thảo chuyên ngành có phản biện, với tổng điểm công trình khoa học đạt tối thiểu 0,5 điểm theo quy định của Hội đồng Giáo sư Nhà nước và các quy định hiện hành của Học viện Công nghệ Bưu chính Viễn thông.
+Học viên phải bảo vệ thành công luận văn trước Hội đồng đánh giá theo quy định hiện hành.
+
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+
+
+
+
+PGS.TS Trần Quang Anh

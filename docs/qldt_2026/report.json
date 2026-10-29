@@ -1,0 +1,72 @@
+{
+  "year": 2026,
+  "until": "2026-10-28",
+  "fetched_date": "2026-10-28",
+  "source": "https://qldt.ptit.edu.vn",
+  "groups": {
+    "Câu lạc bộ (CLB)": 0,
+    "Quy chế chung": 5,
+    "Ký túc xá": 0,
+    "Thư viện": 0,
+    "Thực tập / Việc làm": 0
+  },
+  "documents": [
+    {
+      "file": "qldt_2026_6380070589875245083.md",
+      "title": "Hướng dẫn sử dụng cổng thông tin điện tử quản lý đào tạo cho giảng viên và cố vấn học tập",
+      "publish_date": "2026-08-01",
+      "topic_group": "Quy chế chung",
+      "url": "https://qldt.ptit.edu.vn/#/home/listbaiviet/hd/page/1/baivietct/-6380070589875245083",
+      "attachments": [
+        {
+          "url": "https://qldt.ptit.edu.vn/api/fileManager/file/giangvien/HDSD-QLDT-GV-NEW.pdf",
+          "status": "text_extracted",
+          "pages": 7,
+          "file": "fa47f57995e5.pdf"
+        }
+      ]
+    },
+    {
+      "file": "qldt_2026_7377372250030488537.md",
+      "title": "Hướng dẫn sử dụng cổng thông tin điện tử quản lý đào tạo cho sinh viên",
+      "publish_date": "2026-07-01",
+      "topic_group": "Quy chế chung",
+      "url": "https://qldt.ptit.edu.vn/#/home/listbaiviet/hd/page/1/baivietct/-7377372250030488537",
+      "attachments": [
+        {
+          "url": "https://qldt.ptit.edu.vn/api/fileManager/file/sinhvien/QLSV/HDDKMH_V4.pdf",
+          "status": "text_extracted",
+          "pages": 12,
+          "file": "aeec573bc804.pdf"
+        }
+      ]
+    },
+    {
+      "file": "qldt_2026_9162684289428551228.md",
+      "title": "Mở hệ thống đăng ký lịch học, thời khóa biểu môn học đợt học kỳ phụ (hè) – năm học 2025-2026",
+      "publish_date": "2026-06-08",
+      "topic_group": "Quy chế chung",
+      "url": "https://qldt.ptit.edu.vn/#/home/listbaiviet/tb/page/1/baivietct/-9162684289428551228",
+      "attachments": []
+    },
+    {
+      "file": "qldt_2026_6820413794378007218.md",
+      "title": "Mở hệ thống đăng ký lịch học, thời khóa biểu môn học học kỳ 1 năm học 2026-2027",
+      "publish_date": "2026-05-28",
+      "topic_group": "Quy chế chung",
+      "url": "https://qldt.ptit.edu.vn/#/home/listbaiviet/tb/page/1/baivietct/-6820413794378007218",
+      "attachments": []
+    },
+    {
+      "file": "qldt_2026_8664042070636521594.md",
+      "title": "Mở hệ thống đăng ký lịch học, thời khóa biểu môn học đợt học lớp riêng Học kỳ 2 – năm học 2025-2026",
+      "publish_date": "2026-03-23",
+      "topic_group": "Quy chế chung",
+      "url": "https://qldt.ptit.edu.vn/#/home/listbaiviet/tb/page/1/baivietct/-8664042070636521594",
+      "attachments": []
+    }
+  ],
+  "errors": [],
+  "scope": "Public homepage posts only; no authenticated student notifications; publication-date filter.",
+  "listed_posts": 7
+}

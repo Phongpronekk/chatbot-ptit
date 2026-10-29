@@ -1,0 +1,123 @@
+{
+  "id": 32748,
+  "date": "2025-08-15T08:36:53",
+  "date_gmt": "2025-08-15T01:36:53",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32748"
+  },
+  "modified": "2025-08-15T08:40:52",
+  "modified_gmt": "2025-08-15T01:40:52",
+  "slug": "cap-nhat-lich-giang-day-hoc-tap-hoc-ky-1-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/cap-nhat-lich-giang-day-hoc-tap-hoc-ky-1-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Cập nhật lịch giảng dạy – học tập học kỳ 1 năm học 2025 &#8211; 2026"
+  },
+  "content": {
+    "rendered": "<p><strong><em><u>Kính gửi:</u></em></strong><strong>    &#8211;   Bộ môn Ngoại ngữ &#8211; khoa Cơ bản 1</strong></p>\n<p><strong>                     &#8211;   </strong><strong>Sinh viên các lớp</strong><strong> ĐHCQ</strong><strong> khoá 202</strong><strong>4</strong></p>\n<p>&nbsp;</p>\n<p>Thực hiện kế hoạch giảng dạy &#8211; học tập học kỳ 1 năm học 2025 &#8211; 2026 tại cơ sở đào tạo Hà Nội. Căn cứ kết quả đăng kí các lớp học phần và đăng kí xét miễn học/ miễn thi các học phần tiếng Anh của sinh viên khóa 2024 hệ Đại học chính quy. Phòng Giáo vụ thông báo cập nhật lịch giảng dạy &#8211; học tập các học phần tiếng Anh tổ chức trong học kỳ I năm học 2025 &#8211; 2026, cụ thể:</p>\n<ol>\n<li>Hủy kết quả đăng kí đối với sinh viên đã làm thủ tục xét miễn học/ miễn thi các học phần tiếng Anh tổ chức trong học kỳ I năm học 2025 &#8211; 2026;</li>\n<li>Hủy các lớp học phần tiếng Anh còn ít sinh viên đăng ký;</li>\n<li>Điều chỉnh đăng kí của sinh viên tại các lớp bị hủy sang các lớp học phần khác phù hợp với lịch của sinh viên;</li>\n</ol>\n<p>Lịch giảng dạy &#8211; học tập đã được cập nhật trên hệ thống QLĐT (qldt.ptit.edu.vn), đề nghị sinh viên truy cập tài khoản cá nhân để theo dõi và thực hiện.</p>\n<p><em>Trân trọng!</em></p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi:    &#8211;   Bộ môn Ngoại ngữ &#8211; khoa Cơ bản 1                      &#8211;   Sinh viên các lớp ĐHCQ khoá 2024 &nbsp; Thực hiện kế hoạch giảng dạy &#8211; học tập học kỳ 1 năm học 2025 &#8211; 2026 tại cơ sở đào tạo Hà Nội. Căn cứ kết quả đăng kí các lớp học [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32453,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    10,
+    9,
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32748",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dang-ky-hoc-phan-vi",
+    "category-ke-hoach-dao-tao",
+    "category-thoi-khoa-bieu-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32748",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32748"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32748/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32453"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32748"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32748"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32748"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

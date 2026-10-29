@@ -1,0 +1,70 @@
+### sheet1.xml
+A1:   | D1: DANH SÁCH SINH VIÊN DỰ THI KIỂM TRA PHÂN LOẠI TIẾNG ANH ĐẦU VÀO NĂM HỌC 2026
+A5: (Xin vui lòng điền đầy đủ thông tin vào tất cả các mục dưới đây)
+(Be sure to complete all items in the form)
+A6: Tên Đơn vị/Organization: | D6: Viện Kinh tế Bưu điện
+A7: Loại bài thi/Type of Test: | E7: TOEIC Placement
+A8: Địa chỉ /Address: 
+A9: Điện thoại/Tel:
+A10: Người đăng ký/Contact person: 
+A11: Người nhận bản mềm báo cáo điểm sau thi:
+A12: Người nhận Chứng chỉ điểm bản cứng:
+A13: Địa chỉ nhận Chứng chỉ điểm bản cứng:
+A15: STT No. | B15: Bài thi | C15: Họ và tên | D15: Tên | E15: Mã SV
+Code | F15: Lớp
+Class | G15: Ngày thi
+Test Date | H15: Giờ thi | I15: Giờ có mặt | J15: Phòng thi | K15: Ghi chú
+A16: 1 | B16: ITP Placement Online | C16: Quách Minh | D16: Lâm | E16: B26DCME067 | F16: D26CQME01-B | G16: 03/10/2026 | H16: Ca 1: 6:45-9:30 | I16: 06:30 | J16: Phòng 603 A3 | K16: Vắng thi đợt 1
+A17: 2 | B17: ITP Placement Online | C17: Vũ Tuấn | D17: Anh | E17: B26DCCE028 | F17: D26CQCE07-B | G17: 03/10/2026 | H17: Ca 1: 6:45-9:30 | I17: 06:30 | J17: Phòng 603 A3 | K17: Vắng thi đợt 1
+A18: 3 | B18: ITP Placement Online | C18: Hoàng Nam | D18: Phong | E18: B26DCAE133 | F18: D26CQAE03-B | G18: 03/10/2026 | H18: Ca 1: 6:45-9:30 | I18: 06:30 | J18: Phòng 603 A3 | K18: Vắng thi đợt 1
+A19: 4 | B19: ITP Placement Online | C19: Trần Minh | D19: Vân | E19: B26DCME143 | F19: D26CQME02-B | G19: 03/10/2026 | H19: Ca 1: 6:45-9:30 | I19: 06:30 | J19: Phòng 603 A3 | K19: Vắng thi đợt 1
+A20: 5 | B20: ITP Placement Online | C20: Lê Hoàng | D20: Anh | E20: B26DCCE013 | F20: D26CQCE06-B | G20: 03/10/2026 | H20: Ca 1: 6:45-9:30 | I20: 06:30 | J20: Phòng 603 A3 | K20: Vắng thi đợt 1
+A21: 6 | B21: ITP Placement Online | C21: Nguyễn Quang | D21: Liêm | E21: B26DCTE053 | F21: D26CQTE02-B | G21: 03/10/2026 | H21: Ca 1: 6:45-9:30 | I21: 06:30 | J21: Phòng 603 A3 | K21: Vắng thi đợt 1
+A22: 7 | B22: ITP Placement Online | C22: Trần Hà | D22: My | E22: B26DCTE071 | F22: D26CQTE02-B | G22: 03/10/2026 | H22: Ca 1: 6:45-9:30 | I22: 06:30 | J22: Phòng 603 A3 | K22: Vắng thi đợt 1
+A23: 8 | B23: ITP Placement Online | C23: Phạm Văn | D23: Hiếu | E23: B26DCAE064 | F23: D26CQAE04-B | G23: 03/10/2026 | H23: Ca 1: 6:45-9:30 | I23: 06:30 | J23: Phòng 603 A3 | K23: Vắng thi đợt 1
+A24: 9 | B24: ITP Placement Online | C24: Trần Quốc | D24: Huy | E24: B26DCCE121 | F24: D26CQCE02-B | G24: 03/10/2026 | H24: Ca 1: 6:45-9:30 | I24: 06:30 | J24: Phòng 603 A3 | K24: Vắng thi đợt 1
+A25: 10 | B25: ITP Placement Online | C25: Nguyễn Sỹ | D25: Mạnh | E25: B26DCCE164 | F25: D26CQCE03-B | G25: 03/10/2026 | H25: Ca 1: 6:45-9:30 | I25: 06:30 | J25: Phòng 603 A3 | K25: Vắng thi đợt 1
+A26: 11 | B26: ITP Placement Online | C26: Vũ Anh | D26: Thư | E26: B26DCKE056 | F26: D26CQKE02-B | G26: 03/10/2026 | H26: Ca 1: 6:45-9:30 | I26: 06:30 | J26: Phòng 603 A3 | K26: Chuyển thi
+A27: 12 | B27: TOEIC Placement Online | C27: Nguyễn Hoàng | D27: Anh | E27: B26DCCN031 | F27: D26CQCN07-B | G27: 03/10/2026 | H27: Ca 1: 6:45-9:30 | I27: 06:30 | J27: Phòng 601 A3 | K27: Vắng thi đợt 1
+A28: 13 | B28: TOEIC Placement Online | C28: Trần Thị Huyền | D28: My | E28: B26DCBC058 | F28: D26CQBC02-B | G28: 03/10/2026 | H28: Ca 1: 6:45-9:30 | I28: 06:30 | J28: Phòng 601 A3 | K28: Vắng thi đợt 1
+A29: 14 | B29: TOEIC Placement Online | C29: Phạm Đăng Tiến | D29: Dũng | E29: B26DCCN116 | F29: D26CQCN08-B | G29: 03/10/2026 | H29: Ca 1: 6:45-9:30 | I29: 06:30 | J29: Phòng 601 A3 | K29: Vắng thi đợt 1
+A30: 15 | B30: TOEIC Placement Online | C30: Lê Thị | D30: Thương | E30: B26DCBC087 | F30: D26CQBC01-B | G30: 03/10/2026 | H30: Ca 1: 6:45-9:30 | I30: 06:30 | J30: Phòng 601 A3 | K30: Vắng thi đợt 1
+A31: 16 | B31: TOEIC Placement Online | C31: Ninh Đức | D31: Quang | E31: B26THKH017 | F31: T26CQKH01-B | G31: 03/10/2026 | H31: Ca 1: 6:45-9:30 | I31: 06:30 | J31: Phòng 601 A3 | K31: Vắng thi đợt 1
+A32: 17 | B32: TOEIC Placement Online | C32: Nguyễn Đức | D32: Anh | E32: B26DCCN024 | F32: D26CQCN12-B | G32: 03/10/2026 | H32: Ca 1: 6:45-9:30 | I32: 06:30 | J32: Phòng 601 A3 | K32: Vắng thi đợt 1
+A33: 18 | B33: TOEIC Placement Online | C33: Nguyễn Đức | D33: Toàn | E33: B26DCGM048 | F33: D26CQGM01-B | G33: 03/10/2026 | H33: Ca 1: 6:45-9:30 | I33: 06:30 | J33: Phòng 601 A3 | K33: Vắng thi đợt 1
+A34: 19 | B34: TOEIC Placement Online | C34: Đoàn Trung | D34: Toàn | E34: B26DCCN627 | F34: D26CQCN03-B | G34: 03/10/2026 | H34: Ca 1: 6:45-9:30 | I34: 06:30 | J34: Phòng 601 A3 | K34: Vắng thi đợt 1
+A35: 20 | B35: TOEIC Placement Online | C35: Mai Tuấn | D35: Anh | E35: B26DCCN051 | F35: D26CQCN03-B | G35: 03/10/2026 | H35: Ca 1: 6:45-9:30 | I35: 06:30 | J35: Phòng 601 A3 | K35: Vắng thi đợt 1
+A36: 21 | B36: TOEIC Placement Online | C36: Nguyễn Bảo | D36: Minh | E36: B26DCAT160 | F36: D26CQAT05-B | G36: 03/10/2026 | H36: Ca 1: 6:45-9:30 | I36: 06:30 | J36: Phòng 601 A3 | K36: Vắng thi đợt 1
+A37: 22 | B37: TOEIC Placement Online | C37: Vũ Trung | D37: Kiên | E37: B26DCCN354 | F37: D26CQCN06-B | G37: 03/10/2026 | H37: Ca 1: 6:45-9:30 | I37: 06:30 | J37: Phòng 601 A3 | K37: Vắng thi đợt 1
+A38: 23 | B38: TOEIC Placement Online | C38: Nguyễn Ngọc | D38: Minh | E38: B26DCLT023 | F38: D26CQLT01-B | G38: 03/10/2026 | H38: Ca 1: 6:45-9:30 | I38: 06:30 | J38: Phòng 601 A3 | K38: Vắng thi đợt 1
+A39: 24 | B39: TOEIC Placement Online | C39: Nguyễn Phạm Tuấn | D39: Anh | E39: B26DCQT026 | F39: D26CQQT02-B | G39: 03/10/2026 | H39: Ca 1: 6:45-9:30 | I39: 06:30 | J39: Phòng 601 A3 | K39: Vắng thi đợt 1
+A40: 25 | B40: TOEIC Placement Online | C40: Đặng Việt | D40: Huy | E40: B26DCAT110 | F40: D26CQAT05-B | G40: 03/10/2026 | H40: Ca 1: 6:45-9:30 | I40: 06:30 | J40: Phòng 601 A3 | K40: Vắng thi đợt 1
+A41: 26 | B41: TOEIC Placement Online | C41: Nguyễn Bá | D41: Đức | E41: B26DCAT065 | F41: D26CQAT05-B | G41: 03/10/2026 | H41: Ca 1: 6:45-9:30 | I41: 06:30 | J41: Phòng 601 A3 | K41: Vắng thi đợt 1
+A42: 27 | B42: TOEIC Placement Online | C42: Chu Mạnh | D42: Thùy | E42: B26DCCN606 | F42: D26CQCN06-B | G42: 03/10/2026 | H42: Ca 1: 6:45-9:30 | I42: 06:30 | J42: Phòng 601 A3 | K42: Vắng thi đợt 1
+A43: 28 | B43: TOEIC Placement Online | C43: Phạm Minh | D43: Phúc | E43: B26DCAT200 | F43: D26CQAT05-B | G43: 03/10/2026 | H43: Ca 1: 6:45-9:30 | I43: 06:30 | J43: Phòng 601 A3 | K43: Vắng thi đợt 1
+A44: 29 | B44: TOEIC Placement Online | C44: Bùi Thành | D44: Long | E44: B26DCMR153 | F44: D26CQMR01-B | G44: 03/10/2026 | H44: Ca 1: 6:45-9:30 | I44: 06:30 | J44: Phòng 601 A3 | K44: Vắng thi đợt 1
+A45: 30 | B45: TOEIC Placement Online | C45: Đinh Trung | D45: Hiếu | E45: B26DCCN229 | F45: D26CQCN01-B | G45: 03/10/2026 | H45: Ca 1: 6:45-9:30 | I45: 06:30 | J45: Phòng 601 A3 | K45: Vắng thi đợt 1
+A46: 31 | B46: TOEIC Placement Online | C46: Nguyễn Huy | D46: Thắng | E46: B26DCCN589 | F46: D26CQCN01-B | G46: 03/10/2026 | H46: Ca 1: 6:45-9:30 | I46: 06:30 | J46: Phòng 601 A3 | K46: Vắng thi đợt 1
+A47: 32 | B47: TOEIC Placement Online | C47: Lương Đắc | D47: Bảo | E47: B26DCKD016 | F47: D26CQKD01-B | G47: 03/10/2026 | H47: Ca 1: 6:45-9:30 | I47: 06:30 | J47: Phòng 601 A3 | K47: Vắng thi đợt 1
+A48: 33 | B48: TOEIC Placement Online | C48: Nguyễn Duy Thế | D48: Tùng | E48: B26DCCN686 | F48: D26CQCN02-B | G48: 03/10/2026 | H48: Ca 1: 6:45-9:30 | I48: 06:30 | J48: Phòng 601 A3 | K48: Vắng thi đợt 1
+A49: 34 | B49: TOEIC Placement Online | C49: Hà Trần Đức | D49: Mạnh | E49: B26DCCC100 | F49: D26CQCC04-B | G49: 03/10/2026 | H49: Ca 1: 6:45-9:30 | I49: 06:30 | J49: Phòng 601 A3 | K49: Vắng thi đợt 1
+A50: 35 | B50: TOEIC Placement Online | C50: Phạm Anh | D50: Tâm | E50: B26DCCC148 | F50: D26CQCC03-B | G50: 03/10/2026 | H50: Ca 1: 6:45-9:30 | I50: 06:30 | J50: Phòng 601 A3 | K50: Vắng thi đợt 1
+A51: 36 | B51: TOEIC Placement Online | C51: Trần Gia | D51: Khoa | E51: B26DCUR037 | F51: D26CQUR01-B | G51: 03/10/2026 | H51: Ca 1: 6:45-9:30 | I51: 06:30 | J51: Phòng 601 A3 | K51: Vắng thi đợt 1
+A52: 37 | B52: TOEIC Placement Online | C52: Nguyễn Viên | D52: Chi | E52: B26DCLQ013 | F52: D26CQLQ01-B | G52: 03/10/2026 | H52: Ca 1: 6:45-9:30 | I52: 06:30 | J52: Phòng 601 A3 | K52: Vắng thi đợt 1
+A53: 38 | B53: TOEIC Placement Online | C53: Phạm Tiến | D53: Đạt | E53: B26DCVN020 | F53: D26CQVN02-B | G53: 03/10/2026 | H53: Ca 1: 6:45-9:30 | I53: 06:30 | J53: Phòng 601 A3 | K53: Đợt 1 vắng, xin chuyển thi
+A54: 39 | B54: TOEIC Placement Online | C54: Vũ Đức | D54: Huy | E54: B26DCTN065 | F54: D26CQTN02-B | G54: 03/10/2026 | H54: Ca 1: 6:45-9:30 | I54: 06:30 | J54: Phòng 601 A3 | K54: Vắng thi đợt 1
+A55: 40 | B55: TOEIC Placement Online | C55: Bùi Đại | D55: Dương | E55: B26DCTN029 | F55: D26CQTN02-B | G55: 03/10/2026 | H55: Ca 1: 6:45-9:30 | I55: 06:30 | J55: Phòng 601 A3 | K55: Vắng thi đợt 1
+A56: 41 | B56: TOEIC Placement Online | C56: Nguyễn Tuấn | D56: Anh | E56: B26DCTV008 | F56: D26CQTV02-B | G56: 03/10/2026 | H56: Ca 1: 6:45-9:30 | I56: 06:30 | J56: Phòng 601 A3 | K56: Vắng thi đợt 1
+A57: 42 | B57: TOEIC Placement Online | C57: Phạm Tiến | D57: Dũng | E57: B26DCTV023 | F57: D26CQTV01-B | G57: 03/10/2026 | H57: Ca 1: 6:45-9:30 | I57: 06:30 | J57: Phòng 601 A3 | K57: Vắng thi đợt 1
+A58: 43 | B58: TOEIC Placement Online | C58: Phạm Thành | D58: Nam | E58: B26DCTN125 | F58: D26CQTN02-B | G58: 03/10/2026 | H58: Ca 1: 6:45-9:30 | I58: 06:30 | J58: Phòng 601 A3 | K58: Vắng thi đợt 1
+A59: 44 | B59: TOEIC Placement Online | C59: Phạm Xuân | D59: Thành | E59: B26DCTN158 | F59: D26CQTN02-B | G59: 03/10/2026 | H59: Ca 1: 6:45-9:30 | I59: 06:30 | J59: Phòng 601 A3 | K59: Vắng thi đợt 1
+A60: 45 | B60: TOEIC Placement Online | C60: Nguyễn Tuấn | D60: Hùng | E60: B26DCVT186 | F60: D26CQVT04-B | G60: 03/10/2026 | H60: Ca 1: 6:45-9:30 | I60: 06:30 | J60: Phòng 601 A3 | K60: Vắng thi đợt 1
+A61: 46 | B61: TOEIC Placement Online | C61: Nguyễn Quang | D61: Dũng | E61: B26DCTN027 | F61: D26CQTN03-B | G61: 03/10/2026 | H61: Ca 1: 6:45-9:30 | I61: 06:30 | J61: Phòng 601 A3 | K61: Vắng thi đợt 1
+A62: 47 | B62: TOEIC Placement Online | C62: Lê Tuấn | D62: Long | E62: B26DCTC128 | F62: D26CQTC04-B | G62: 03/10/2026 | H62: Ca 1: 6:45-9:30 | I62: 06:30 | J62: Phòng 601 A3 | K62: Vắng thi đợt 1
+A63: 48 | B63: TOEIC Placement Online | C63: Đặng Long | D63: Phi | E63: B26DCTC168 | F63: D26CQTC04-B | G63: 03/10/2026 | H63: Ca 1: 6:45-9:30 | I63: 06:30 | J63: Phòng 601 A3 | K63: Vắng thi đợt 1
+A64: 49 | B64: TOEIC Placement Online | C64: Đỗ Khánh Duy | D64: Anh | E64: B26DCGA005 | F64: D26CQGA01-B | G64: 03/10/2026 | H64: Ca 1: 6:45-9:30 | I64: 06:30 | J64: Phòng 601 A3 | K64: Vắng thi đợt 1
+A65: 50 | B65: TOEIC Placement Online | C65: Phạm Thành | D65: Hưng | E65: B26DCVM085 | F65: D26CQVM01-B | G65: 03/10/2026 | H65: Ca 1: 6:45-9:30 | I65: 06:30 | J65: Phòng 601 A3 | K65: Vắng thi đợt 1
+A66: 51 | B66: TOEIC Placement Online | C66: Vũ Thanh | D66: Hằng | E66: B26DCGA050 | F66: D26CQGA02-B | G66: 03/10/2026 | H66: Ca 1: 6:45-9:30 | I66: 06:30 | J66: Phòng 601 A3 | K66: Vắng thi đợt 1
+A67: 52 | B67: TOEIC Placement Online | C67: Đoàn Văn | D67: Tiến | E67: B26DCBC088 | F67: D26CQBC02-B | G67: 03/10/2026 | H67: Ca 1: 6:45-9:30 | I67: 06:30 | J67: Phòng 601 A3 | K67: Chuyển thi
+C73: NGUYỄN MẠNH | D73: THẮNG
+C74: CAO DƯƠNG MINH | D74: GIANG

@@ -1,0 +1,44 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT CÁC HỌC PHẦN VỚI CÁC THIÊN HƯỚNG TÀI NĂNG
+CTĐT THẠC SĨ TÀI NĂNG NGÀNH KỸ THUẬT VIỄN THÔNG
+A3: TT | B3: MÃ HỌC PHẦN | C3: TÊN HỌC PHẦN | D3: HỌC KỲ | E3: Thiên hướng tài năng theo 
+Quyết định 2627/QĐ của Bộ GD&ĐT
+E4: Thiên hướng tài năng về 
+khoa học | F4: Thiên hướng tài năng về 
+công nghệ | G4: Thiên hướng tài năng về 
+kinh doanh
+A5: 1 | B5: BAS1226 | C5: Xác suất thống kê | D5: Kỳ 2 | E5: L | F5: L | G5: L
+A6: 2 | B6: TEL1368 | C6: Tín hiệu và hệ thống | D6: Kỳ 3 | E6: L | F6: L | G6: L
+A7: 3 | B7: TEL13122 | C7: Kiến trúc máy tính và vi xử lý | D7: Kỳ 3 | E7: L | F7: L | G7: L
+A8: 4 | B8: TEL1344 | C8: Lý thuyết truyền tin | D8: Kỳ 4 | E8: M | F8: L | G8: L
+A9: 5 | B9: TEL1340 | C9: Kỹ thuật lập trình | D9: Kỳ 5 | E9: L | F9: M | G9: L
+A10: 6 | B10: TEL1337 | C10: Toán rời rạc | D10: Kỳ 5 | E10: M | F10: M | G10: L
+A11: 7 | B11: TEL14124 | C11: Cơ sở học máy và trí tuệ nhân tạo | D11: Kỳ 5 | E11: M | F11: M  | G11: L
+A12: 8 | B12: TEL1343 | C12: Cơ sở dữ liệu | D12: Kỳ 6 | E12: L | F12: M | G12: L
+A13: 9 | B13: TEL1342 | C13: Cấu trúc dữ liệu và giải thuật | D13: Kỳ 6 | E13: M | F13: M | G13: L
+A14: 10 | B14: TEL1405 | C14: Kỹ thuật mạng truyền thông | D14: Kỳ 6 | E14: M | F14: M | G14: L
+A15: 11 | B15: TEL1406 | C15: Kỹ thuật thông tin quang | D15: Kỳ 6 | E15: M | F15: M | G15: L
+A16: 12 | B16: TEL1407 | C16: Kỹ thuật thông tin vô tuyến  | D16: Kỳ 6 | E16: M | F16: M | G16: L
+A17: 13 | B17: TEL1415 | C17: Thông tin di động  | D17: Kỳ 7 | E17: M | F17: H | G17: M
+A18: 14 | B18: TEL1409 | C18: Internet và các giao thức | D18: Kỳ 7 | E18: M | F18: H | G18: M
+A19: 15 | C19: Tự chọn 3 | D19: Kỳ 7 | E19: M | F19: H | G19: M
+A20: 16 | B20: TEL14125 | C20: Đồ án ngành | D20: Kỳ 7 | E20: H | F20: H | G20: M
+A21: 17 | B21: TEL1495 | C21: Mạng định nghĩa bằng phần mềm và công nghệ ảo hoá | D21: Kỳ 8 | E21: H | F21: H | G21: M
+A22: 18 | B22: TEL4433 | C22: Hệ thống thông minh | D22: Kỳ 8 | E22: H | F22: H | G22: M
+A23: 19 | B23: SKD4112 | C23: Phương pháp nghiên cứu khoa học  | D23: Kỳ 8 | E23: H | F23: M | G23: M
+A24: 20 | B24: TEL4308 | C24: Chuyên đề thạc sĩ 1 | D24: Kỳ 8 | E24: H
+A25: 21 | B25: TEL4302 | C25: Học máy ứng dụng | D25: Kỳ 9 | E25: H | F25: H | G25: H
+A26: 22 | B26: TEL4309 | C26: Chuyên đề thạc sĩ 2 | D26: Kỳ 9 | E26: H
+A27: 23 | B27: TEL4413 | C27: Hệ thống IoT tiên tiến | D27: Kỳ 9 | E27: H | F27: H | G27: H
+A28: 24 | C28: Tự chọn 1 | D28: Kỳ 9 | E28: H | F28: H | G28: H
+A29: 25 | C29: Tự chọn 2 | D29: Kỳ 9 | E29: H | F29: H | G29: H
+A30: 26 | C30: Tự chọn 3 | D30: Kỳ 9 | E30: H | F30: H | G30: H
+A31: 27 | B31: TEL4426 | C31: Chuyên đề thạc sĩ 3 | D31: Kỳ 9 | E31: H
+A32: 28 | B32: TEL4427 | C32: Chuyên đề thạc sĩ 4 | D32: Kỳ 9 | E32: H
+A33: 29 | B33: TEL15105 | C33: Thực tập tốt nghiệp | D33: Kỳ 10 | E33: H | F33: H | G33: H
+A34: 30 | B34: TEL4531 | C34: Luận văn tốt nghiệp | D34: Kỳ 10 | E34: H
+C35: Kỹ năng mềm 1 | D35: Kỳ 3 | E35: L | F35: L | G35: L
+C36: Kỹ năng mềm 2 | D36: Kỳ 4 | E36: M | F36: M | G36: L
+C37: Kỹ năng mềm 3 | D37: Kỳ 5 | E37: M | F37: M | G37: M
+A39: Ghi chú: 
+B40: L, M, H: mức độ đóng góp của học phần, tương ứng: Thấp (L-Low), Trung bình (M-Medium), Cao (H-High)

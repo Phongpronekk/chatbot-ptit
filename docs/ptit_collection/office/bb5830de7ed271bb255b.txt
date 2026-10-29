@@ -1,0 +1,431 @@
+ 
+PHỤ LỤC III: TỔNG HỢP DANH MỤC ĐỊNH HƯỚNG NGHIÊN CỨU VÀ DANH SÁCH NGƯỜI HƯỚNG DẪN KHOA HỌC CHO NGHIÊN CỨU SINH NĂM 2024
+(Kèm theo thông báo số      /TB-HV ngày         /2024 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông)
+
+Chuyên ngành Kỹ thuật điện tử
+TT
+Định hướng nghiên cứu
+Họ tên, học hàm, học vị của người có thể hướng dẫn NCS
+Số NCS có thể nhận năm 2024
+Ghi chú
+1
+Nâng cao hiệu năng mã hóa video cho các chuẩn H.264, HEVC; Mã hóa Video phân tán (Distributed Video Coding); Nhận dạng ảnh.
+TS. Vũ Hữu Tiến
+01
+
+2
+Mạng cảm biến không dây
+TS. Nguyễn Tất Bảo Thiện
+01
+
+3
+Xử lý tín hiệu (Âm thanh, hình ảnh); Kỹ thuật truyền hình
+TS. Nguyễn Thanh Bình
+01
+
+4
+Xử lý tín hiệu; Bảo mật thông tin
+TS. Nguyễn Lương Nhật
+01
+
+5
+Kỹ thuật mạng và vô tuyến
+TS. Nguyễn Quý Sỹ
+01
+
+6
+Lý thuyết thông tin và mã hóa
+TS. Ngô Đức Thiện
+01
+
+7
+Xử lý tín hiệu số, hệ thống nhúng, FPGA
+TS. Nguyễn Ngọc Minh
+01
+
+8
+Xử lý tín hiệu y sinh; Xử lý tín hiệu không dây; Thiết kế ứng dụng y sinh; Thuật toán tối ưu hóa; Máy học; Hệ thống phát hiện xâm nhập; Internet vạn vật; Internet vạn vật; Dữ liệu lớn; Truyền thông không dây.
+TS. Nguyễn Minh Tuấn
+01
+
+
+Chuyên ngành Kỹ thuật viễn thông
+TT
+Định hướng nghiên cứu
+Họ tên, học hàm, học vị của người có thể hướng dẫn NCS
+Số NCS có thể nhận năm 2024
+Ghi chú
+1
+Thông tin quang, mạng truyền tải quang
+TS. Vũ Tuấn Lâm
+01
+
+2
+An toàn, an ninh mạng
+PGS.TSKH. Hoàng Đăng Hải
+01
+
+3
+Nghiên cứu đề xuất các giải pháp nâng cao chất lượng/hiệu năng mạng truyền tải quang thế hệ mới (tập trung cho mạng chuyển mạch quang, trước mắt cho mạng OBS).
+PGS.TS. Bùi Trung Hiếu
+01
+
+4
+- Nghiên cứu các kỹ thuật định tuyến tìm đường ứng dụng trong viễn thông
+- Nghiên cứu kỹ thuật thông tin quang Coherent;
+- Nghiên cứu kỹ thuật khuếch đại quang Raman;
+- Nghiên cứu giải pháp IoT trong các ứng dụng liên ngành ;
+- Nghiên cứu giải pháp quản lý nhận dạng thông minh.
+TS. Trần Thiện Chính
+01
+
+
+5
+Phân tích và đánh giá hiệu năng mạng
+Thiết kế, quy hoạch và tối ưu mạng
+PGS.TS. Nguyễn Tiến Ban
+02
+
+6
+Mô hình hóa và điều khiển lưu lượng;
+Các giải pháp đảm bảo chất lượng mạng và dịch vụ;
+Định tuyến QoS;
+Mang định nghĩa phần mềm SDN;
+TS. Nguyễn Chiến Trinh
+
+
+01
+
+7
+Chất lượng dịch vụ và bảo mật mạng truyền thông không dây đa bước
+PGS. TS. Hoàng Trọng Minh
+
+01
+
+8
+Thiết kế, điều khiển và tối ưu hóa mạng; Công nghệ truyền thông quang
+PGS.TS. Lê Hải Châu
+
+01
+
+9
+Kỹ thuật truy nhập NOMA, truyền song công, bảo mật lớp vật lý, các kỹ thuật chuyển tiếp, massive MIMO, thu thập năng lượng vô tuyến
+
+GS. TS. Võ Nguyễn Quốc Bảo
+
+02
+
+10
+Kỹ thuật truy nhập NOMA, truyền song công, bảo mật lớp vật lý, các kỹ thuật chuyển tiếp, massive MIMO, thu thập năng lượng vô tuyến
+PGS.TS. Trần Trung Duy
+
+01
+
+11
+Thông tin quang sợi, quang phi tuyến, mạng tích hợp quang
+PGS.TS. Trương Cao Dũng
+01
+
+13
+Mạng cảm biến không dây, tách sóng, mã hóa/giải mã, truyền thông chuyển tiếp 
+PGS.TS. Lê Nhật Thăng
+02
+
+14
+Mạch cao tần, thiết kế ăn ten tiên tiến, các hệ thống vô tuyến thông minh.
+TS. Nguyễn Việt Hưng
+01
+
+15
+AI, Học máy, năng lượng tái tạo
+TS. Nguyễn Trọng Trung Anh
+01
+
+16
+AI, Học máy, năng lượng tái tạo
+TS. Trần Hà Nguyên
+01
+
+17
+Vô tuyến, mạng di động thế hệ mới
+TS. Nguyễn Văn Thăng
+01
+
+18
+Anten tiên tiến,  anten MIMO và mảng anten; Thu thập năng lượng vô tuyến; Vật liệu có cấu trúc đặc biệt (siêu vật liệu)
+TS. Dương Thị Thanh Tú
+01
+
+19
+Xử lý tín hiệu âm thanh và tiếng nói bao gồm phát triển các thuật toán, phương pháp để loại bỏ phản hồi âm thanh (Adaptive feedback cancellation), đặc biệt là cho các ứng dụng liên quan đến máy trợ thính; loại bỏ tiếng vọng (Acoustic echo cancellation); giảm nhiễu và nâng cao chất lượng tiếng nói (Noise reduction and speech enhancement); nhận dạng tiếng nói tự động (Automatic speech recognition); phát hiện âm thanh bất thường (Anomalous sound detection).
+TS. Trần Thị Thục Linh
+01
+
+20
+1. Công nghệ truyền sóng vô tuyến qua sợi quang; 2. Vấn đề an ninh mạng; 3. Mạng vạn vật kết nối IoT, 4. Các công nghệ định tuyến mới, 5. Các giao thức mạng.
+TS. Phạm Anh Thư
+01
+
+21
+Thiết kế và phân tích hiệu năng các hệ thống truyền thông không dây bao gồm: truyền thông quang qua không gian, truyền thông ánh sáng nhìn thấy, phân phối khoá lượng tử, truyền thông lai ghép FSO/RF
+TS. Phạm Thị Thúy Hiền
+02
+
+22
+Mô hình hóa, thiết kế và phân tích hiệu năng của các hệ thống đa truy nhập phân chia mã quang, truyền sóng vô tuyến qua sợi quang, quang không gian tự do (FSO), truyền thông lai ghép FSO/RF. An ninh mạng truyền thông dựa trên bảo mật lớp vật lý và truyền thông lượng tử. Các kỹ thuật nâng cao hiệu năng hệ thống truyền thông dựa trên tối ưu và AI/ML.
+PGS.TS. Đặng Thế Ngọc
+02
+
+
+Chuyên ngành Hệ thống thông tin
+TT
+Định hướng nghiên cứu
+Họ tên, học hàm, học vị của người có thể hướng dẫn NCS
+Số NCS có thể nhận năm 2024
+Ghi chú
+1
+Học máy và ứng dụng, khai phá dữ liệu, truy xuất thông tin, xử lý ngôn ngữ tự nhiên, tin sinh học.
+GS.TS. Từ Minh Phương
+02
+
+2
+Tương tác người – máy, tính toán khắp nơi, nhận dạng hoạt động người.
+PGS.TS. Phạm Văn Cường
+01
+
+3
+Học máy, khai phá dữ liệu.
+TS. Nguyễn Đình Hóa
+01
+
+4
+Công nghệ phần mềm, kiểm thử phần mềm.
+TS. Đỗ Thị Bích Ngọc
+01
+
+5
+Xử lý thông tin trên mạng xã hội và truyền thông trực tuyến;
+PGS.TS. Nguyễn Mạnh Hùng
+01
+
+6
+Xử lý ngôn ngữ tự nhiên và phát triển hệ thống phân tán
+TS. Phan Thị Hà
+01
+
+7
+Mô phỏng hệ thống.
+PGS.TS. Nguyễn Trọng Khánh
+01
+
+8
+Biểu diễn tri thức và suy diễn logic.
+TS. Phạm Hoàng Duy
+01
+
+9
+Nghiên cứu các kỹ thuật hiệu năng cao cho xử lý logs truy nhập mạng phụ vụ cho phát hiện mã độc và tấn công, xâm nhập
+
+PGS.TS. Hoàng Xuân Dậu
+
+01
+
+10
+- Nghiên cứu giải pháp bảo đảm an toàn thông tin cho xây dựng chính phủ số;
+- Nghiên cứu giải pháp xác thực điện tử ứng dụng trong thông tin điện tử;
+- Nghiên cứu giải pháp bảo mật và xác thực điện tử;
+- Nghiên cứu giải pháp bảo đảm kết nối liên thông giữa các hệ thống dịch vụ và cung cấp thông tin;
+- Nghiên cứu giải pháp ứng dụng công nghệ Smart kiểm soát thông tin;
+TS. Trần Thiện Chính
+01
+
+11
+Học máy, AI, mining, …
+TS.Tân Hạnh
+02
+
+12
+Học máy, thuật toán, trí tuệ nhân tạo
+TS. Nguyễn Duy Phương
+01
+
+14
+Xử lý ảnh, xử lý tín hiệu số, xử lý thuật toán và toán rời rạc
+TS. Nguyễn Tất Thắng
+01
+
+15
+Big data, học máy, Iot, Ứng dụng Android, Ứng dụng web
+TS. Đào Ngọc Phong
+01
+
+16
+Trí tuệ nhân tạo, học máy, xử lý ảnh, tra cứu ảnh dựa vào nội dung 
+TS. Đào Thị Thúy Quỳnh
+01
+
+17
+Công nghệ tri thức, khoa học dữ liệu đồ thị, web ngữ nghĩa, các hệ thống thông minh.
+PGS.TS. Hoàng Hữu Hạnh
+02
+
+18
+Học máy, thuật toán, trí tuệ nhân tạo
+TS. Dương Trần Đức
+01
+
+Chuyên ngành Kỹ thuật máy tính
+TT
+Định hướng nghiên cứu
+Họ tên, học hàm, học vị của người có thể hướng dẫn NCS
+Số NCS có thể nhận năm 2024
+Ghi chú
+1
+An toàn, an ninh mạng
+PGS.TSKH. Hoàng Đăng Hải
+01
+
+2
+Tương tác người-máy, tính toán khắp nơi, nhận dạng hoạt động người.
+PGS.TS. Phạm Văn Cường
+01
+
+3
+Học máy và khai phá dữ liệu
+PGS.TS. Nguyễn Mạnh Hùng
+01
+
+4
+Mô phỏng hệ thống.
+TS. Nguyễn Trọng Khánh
+01
+
+5
+- Kỹ thuật nhận dạng ảnh và video, Học máy và ứng dụng;
+- Mã hóa thông tin, các hệ thống nhúng.
+PGS. TS. Nguyễn Văn Thuỷ
+01
+
+6
+Plasmon nano-antenna và một số ứng dụng trong công nghệ thông tin hiện đại.
+TS. Lê Thị Minh Thanh
+01
+
+7
+Nghiên cứu sử dụng e-learning trên điện toán đám mây để đào tạo sinh viên ngành ICT.
+TS. Lê Thị Minh Thanh
+01
+
+8
+Trí tuệ nhân tạo và ứng dụng (trong xử lý ảnh, y tế…)
+TS. Nguyễn Tất Bảo Thiện
+01
+
+9
+An toàn thông tin, Blockchain.
+TS. Nguyễn Trung Thành
+01
+
+10
+An toàn thông tin
+PGS.TS. Đỗ Xuân Chợ
+02
+
+11
+Học máy, học sâu, khai phá và phân tích dữ liệu
+PGS.TS. Trần Tiến Công
+01
+
+
+Chuyên ngành Quản trị kinh doanh
+TT
+Định hướng nghiên cứu
+Họ tên, học hàm, học vị của người có thể hướng dẫn NCS
+Số NCS có thể nhận năm 2024
+Ghi chú
+1
+Trách nhiệm xã hội doanh nghiệp/ Khung năng lực cán bộ quản trị
+
+GS.TS. Bùi Xuân Phong
+
+01
+
+2
+- Ứng dụng các công cụ hiện đại trong Quản trị doanh nghiệp.
+- Phát triển thương mại điện tử trong doanh nghiệp
+PGS.TS. Nguyễn Thị Minh An
+
+01
+
+3
+- Quản trị kinh doanh (Năng lực cạnh tranh, Chuỗi giá trị, Quản trị chiến lược, Ứng dụng các lý thuyết quản trị kinh doanh mới..)
+- Marketing (Phát triển thị trường, Phát triển sản phẩm, Chiến lược Marketing, Marketing hỗn hợp, Hành vi mua hàng, Quản trị thương hiệu, Truyền thông marketing…)
+TS. Trần Thị Thập
+
+01
+
+4
+- Nghiên cứu về Cạnh tranh doanh nghiệp
+- Nghiên cứu về nguôn nhân lực  của doanh nghiệp
+TS. Trần Thị Hòa
+
+01
+
+5
+- Nghiên cứu về kế hoạch và chiến lược kinh doanh của doanh nghiệp
+- Nghiên cứu chất lượng và chất lượng  2ịch vụ
+
+TS. Vũ Trọng Phong
+
+01
+
+6
+Nghiên cứu về quản lý và quản trị trong doanh nghiệp
+TS .Trần Ngọc Minh
+01
+
+7
+Mô hình kinh tế Nash –Cournot và ứng dụng
+PGS.TS. Phạm Ngọc Anh
+01
+
+8
+Hợp tác công tư (PPP) trong các dự án công nghệ thông tin và truyền thông –ICT (chính phủ điện tử, smart city, các dự án ICT khác…); Quản trị tri thức trong các tổ chức nghiên cứu/giáo dục đào tạo
+PGS. TS. Đặng Thị Việt Đức
+
+
+02
+
+9
+Marketing (hành vi khách hàng, hình ảnh thương hiệu, truyền thông marketing,…), hành vi tổ chức
+PGS. TS. Nguyễn Thị Hoàng Yến
+02
+
+10
+Marketing (hành vi khách hàng, hình ảnh thương hiệu, truyền thông marketing,…), hành vi tổ chức
+TS. Nguyễn Bình Minh
+01
+
+11
+- Quản trị kinh doanh (Quản trị chiến lược, Ứng dụng các lý thuyết quản trị kinh doanh mới..)
+- Phát triển thương mại điện tử trong doanh nghiệp
+TS. Nguyễn Thùy Dung
+01
+
+12
+Quản trị doanh nghiệp
+PGS.TS. Nguyễn Văn Hậu
+02
+
+13
+Quản trị doanh nghiệp
+TS. Nguyễn Thị Việt Lê
+01
+
+14
+Quản trị doanh nghiệp
+TS. Vũ Quang Kết
+01
+
+
+

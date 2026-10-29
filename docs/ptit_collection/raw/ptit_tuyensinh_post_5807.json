@@ -1,0 +1,125 @@
+{
+  "id": 5807,
+  "date": "2026-08-06T09:10:04",
+  "date_gmt": "2026-08-06T02:10:04",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5807"
+  },
+  "modified": "2026-08-06T09:10:04",
+  "modified_gmt": "2026-08-06T02:10:04",
+  "slug": "thong-bao-diem-chuan-xet-trung-tuyen-dai-hoc-vua-lam-vua-hoc-dot-1-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-diem-chuan-xet-trung-tuyen-dai-hoc-vua-lam-vua-hoc-dot-1-nam-2026/",
+  "title": {
+    "rendered": "Thông báo điểm chuẩn xét trúng tuyển Đại học Vừa làm vừa học đợt 1 năm 2026"
+  },
+  "content": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo điểm chuẩn xét trúng tuyển Đại học Vừa làm vừa học đợt 1 năm 2026. Chi tiết ở file đính kèm:</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/SDaotao_45826080609420.pdf\">SDaotao_45826080609420</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo điểm chuẩn xét trúng tuyển Đại học Vừa làm vừa học đợt 1 năm 2026. Chi tiết ở file đính kèm: SDaotao_45826080609420</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 5600,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    26
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5807",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_khac"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5807",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5807"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5807/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5809,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5807/revisions/5809"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5600"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5807"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5807"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5807"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

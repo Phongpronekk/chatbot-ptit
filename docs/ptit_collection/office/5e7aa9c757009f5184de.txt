@@ -1,0 +1,95 @@
+### sheet1.xml
+A1: KẾ HOẠCH VÀ TIẾN TRÌNH HỌC TẬP CHUẨN
+A2: CHƯƠNG TRÌNH PHÂN TÍCH DỮ LIỆU TRONG TÀI CHÍNH, KINH DOANH
+A4: NĂM HỌC THỨ NHẤT | F4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Nhập môn Công nghệ số và Ứng dụng AI | C6: 2 | D6: HK1 | F6: 1 | G6: Kinh tế chính trị Mác-Lênin | H6: 2 | I6: HK3
+A7: 2 | B7: Toán cao cấp 1 | C7: 2 | D7: HK1 | F7: 2 | G7: Tiếng Anh (Course 2) | H7: 4 | I7: HK3
+A8: 3 | B8: Pháp luật và sở hữu trí tuệ | C8: 2 | D8: HK1 | F8: 3 | G8: Kế toán quản trị | H8: 3 | I8: HK3
+A9: 4 | B9: Cơ sở dữ liệu (Fintech) | C9: 3 | D9: HK1 | F9: 4 | G9: Tài chính tiền tệ | H9: 3 | I9: HK3
+A10: 5 | B10: Kinh tế học đại cương | C10: 4 | D10: HK1 | F10: 5 | G10: Nhập môn Khoa học dữ liệu | H10: 3 | I10: HK3
+D11: HK1 | F11: 6 | G11: Quản trị doanh nghiệp | H11: 3 | I11: HK3
+C12: 13 | H12: 18
+A13: 6 | B13: Triết học Mác-Lênin | C13: 3 | D13: HK2 | F13: 7 | G13: Chủ nghĩa xã hội khoa học | H13: 2 | I13: HK4
+A14: 7 | B14: Tiếng Anh (Course 1) | C14: 4 | D14: HK2 | F14: 8 | G14: Tiếng Anh (Course 3) | H14: 4 | I14: HK4
+A15: 8 | B15: Nguyên lý kế toán | C15: 3 | D15: HK2 | F15: 9 | G15: Tài chính doanh nghiệp  | H15: 3 | I15: HK4
+A16: 9 | B16: Lập trình Python trong kinh tế | C16: 3 | D16: HK2 | F16: 10 | G16: Phân tích nghiệp vụ kinh doanh | H16: 3 | I16: HK4
+A17: 10 | B17: Toán cao cấp 2 | C17: 2 | D17: HK2 | F17: 11 | G17: Lập trình ứng dụng trong tài chính, kinh doanh | H17: 3 | I17: HK4
+A18: 11 | B18: Lý thuyết xác suất thống kê | C18: 3 | D18: HK2 | F18: 12 | G18: Khoa học dữ liệu trong kinh tế và kinh doanh | H18: 3 | I18: HK4
+C19: 18 | H19: 18
+A21: NĂM HỌC THỨ BA | F21: NĂM HỌC THỨ TƯ
+A22: TT | B22: Tên môn học/học phần | C22: Số TC | D22: Học kỳ | F22: TT | G22: Tên môn học/học phần | H22: Số TC | I22: Học kỳ
+A23: 1 | B23: Tư tưởng Hồ Chí Minh | C23: 2 | D23: HK5 | F23: 1 | G23: Phát triển hệ thống thông minh kinh doanh (BI) | H23: 3 | I23: HK7
+A24: 2 | B24: Tiếng Anh (Course 3 Plus) | C24: 2 | D24: HK5 | F24: 2 | G24: Phân tích dữ liệu lớn tài chính | H24: 3 | I24: HK7
+A25: 3 | B25: Đầu tư tài chính  | C25: 3 | D25: HK5 | F25: 3 | G25: Quản trị rủi ro ngân hàng | H25: 3 | I25: HK7
+A26: 4 | B26: Trí tuệ nhân tạo trong tài chính | C26: 3 | D26: HK5 | F26: 4 | G26: Phân tích và lập kế hoạch tài chính  | H26: 3 | I26: HK7
+A27: 5 | B27: Nghiệp vụ ngân hàng thương mại | C27: 3 | D27: HK5 | F27: 5 | G27: 2 học phần tự chọn (chuyên ngành)** | H27: 6 | I27: HK7
+A28: 6 | B28: 2 học phần tự chọn (cơ sở ngành)* | C28: 6 | D28: HK5
+C29: 19 | H29: 18
+A31: 7 | B31: Lịch sử Đảng cộng sản Việt Nam | C31: 2 | D31: HK6
+A32: 8 | B32: Tài sản số và tài chính phi tập trung | C32: 3 | D32: HK6 | F32: 6 | G32: Thực tập | H32: 4 | I32: HK8
+A33: 9 | B33: Đề án phân tích dữ liệu | C33: 3 | D33: HK6 | F33: 7 | G33: Khóa luận | H33: 6 | I33: HK8
+A34: 10 | B34: An toàn bảo mật thông tin (Fintech) | C34: 3 | D34: HK6
+A35: 11 | B35: Quản lý và ứng dụng dữ liệu trong tài chính, kinh doanh | C35: 3 | D35: HK6
+A36: 12 | B36: Kinh tế lượng tài chính | C36: 3 | D36: HK6 | H36: 10
+C37: 17
+G38: TỔNG CỘNG: | H38: 131
+A40: (*) Các học phần tự chọn (cơ sở ngành) | F40: (**) Các học phần tự chọn (chuyên ngành)
+B41: Quản trị dự án Fintech | C41: 3 | G41: Ngân hàng số | H41: 3
+B42: Tài chính quốc tế | C42: 3 | G42: Hệ thống hoạch định nguồn lực doanh nghiệp (ERP) | H42: 3
+B43: Thương mại điện tử căn bản | C43: 3 | G43: Phân tích dữ liệu chuỗi cung ứng | H43: 3
+B44: Maketing căn bản | C44: 3 | G44: Phân tích chuỗi thời gian trong tài chính, kinh doanh | H44: 3
+B45: Hệ thống thanh toán điện tử | C45: 3
+B46: Kế toán ngân hàng thương mại  | C46: 3
+C47: 3
+### sheet2.xml
+A1: KẾ HOẠCH VÀ TIẾN TRÌNH HỌC TẬP 
+A2: CHƯƠNG TRÌNH ĐÀO TẠO PHÂN TÍCH DỮ LIỆU TRONG TÀI CHÍNH, KINH DOANH
+A4: NĂM HỌC THỨ NHẤT | F4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Nhập môn Công nghệ số và Ứng dụng AI | C6: 2 | D6: HK1 | F6: 1 | G6: Kinh tế chính trị Mác-Lênin | H6: 2 | I6: HK3
+A7: 2 | B7: Toán cao cấp 1 | C7: 2 | D7: HK1 | F7: 2 | G7: Tiếng Anh (Course 2) | H7: 4 | I7: HK3
+A8: 3 | B8: Pháp luật và sở hữu trí tuệ | C8: 2 | D8: HK1 | F8: 3 | G8: Kế toán quản trị | H8: 3 | I8: HK3
+A9: 4 | B9: Cơ sở dữ liệu (Fintech) | C9: 3 | D9: HK1 | F9: 4 | G9: Tài chính doanh nghiệp  | H9: 3 | I9: HK3
+A10: 5 | B10: Kinh tế học đại cương | C10: 4 | D10: HK1 | F10: 5 | G10: Nhập môn Khoa học dữ liệu | H10: 3 | I10: HK3
+F11: 6 | G11: Quản trị doanh nghiệp | H11: 3 | I11: HK3
+F12: 7 | G12: Lập trình ứng dụng trong tài chính, kinh doanh | H12: 3 | I12: HK3
+C13: 13 | H13: 21
+A15: 6 | B15: Triết học Mác-Lênin | C15: 3 | D15: HK2 | F15: 8 | G15: Chủ nghĩa xã hội khoa học | H15: 2 | I15: HK4
+A16: 7 | B16: Tiếng Anh (Course 1) | C16: 4 | D16: HK2 | F16: 9 | G16: Tiếng Anh (Course 3) | H16: 4 | I16: HK4
+A17: 8 | B17: Nguyên lý kế toán | C17: 3 | D17: HK2 | F17: 10 | G17: Đầu tư tài chính  | H17: 3 | I17: HK4
+A18: 9 | B18: Lập trình Python trong kinh tế | C18: 3 | D18: HK2 | F18: 11 | G18: Phân tích nghiệp vụ kinh doanh | H18: 3 | I18: HK4
+A19: 10 | B19: Toán cao cấp 2 | C19: 2 | D19: HK2 | F19: 12 | G19: Khoa học dữ liệu trong Kinh tế và Kinh doanh | H19: 3 | I19: HK4
+A20: 11 | B20: Lý thuyết xác suất thống kê | C20: 3 | D20: HK2 | F20: 13 | G20: Trí tuệ nhân tạo trong tài chính | H20: 3 | I20: HK4
+A21: 12 | B21: Tài chính tiền tệ | C21: 3 | D21: HK2 | F21: 14 | G21: Tự chọn 1 (cơ sở ngành) * | H21: 3 | I21: HK4
+C22: 21 | H22: 21
+A24: NĂM HỌC THỨ BA | F24: NĂM HỌC THỨ TƯ
+A25: TT | B25: Tên môn học/học phần | C25: Số TC | D25: Học kỳ | F25: TT | G25: Tên môn học/học phần | H25: Số TC | I25: Học kỳ
+A26: 1 | B26: Tư tưởng Hồ Chí Minh | C26: 2 | D26: HK5 | F26: 1 | G26: Tự chọn 2 (chuyên ngành)** | H26: 3 | I26: HK7
+A27: 2 | B27: Tiếng Anh (Course 3 Plus) | C27: 2 | D27: HK5 | F27: 2 | G27: Thực tập | H27: 4 | I27: HK7
+A28: 3 | B28: Tài sản số và tài chính phi tập trung | C28: 3 | D28: HK5 | F28: 3 | G28: Khóa luận | H28: 6 | I28: HK7
+A29: 4 | B29: Kinh tế lượng tài chính | C29: 3 | D29: HK5
+A30: 5 | B30: Nghiệp vụ ngân hàng thương mại | C30: 3 | D30: HK5
+A31: 6 | B31: Quản lý và ứng dụng dữ liệu trong tài chính, kinh doanh | C31: 3 | D31: HK5
+A32: 7 | B32: Phân tích và lập kế hoạch tài chính  | C32: 3 | D32: HK5
+A33: 8 | B33: Tự chọn 2 (cơ sở ngành)* | C33: 3 | D33: HK5
+C34: 22 | H34: 13
+A36: 9 | B36: Lịch sử Đảng cộng sản Việt Nam | C36: 2 | D36: HK6
+A37: 10 | B37: Quản trị rủi ro ngân hàng | C37: 3 | D37: HK6
+A38: 11 | B38: Đề án phân tích dữ liệu | C38: 3 | D38: HK6
+A39: 12 | B39: An toàn bảo mật thông tin (Fintech) | C39: 3 | D39: HK6
+A40: 13 | B40: Phát triển hệ thống thông minh kinh doanh (BI) | C40: 3 | D40: HK6
+A41: 14 | B41: Phân tích dữ liệu lớn tài chính | C41: 3 | D41: HK6
+A42: 15 | B42: Tự chọn 1 (chuyên ngành)** | C42: 3 | D42: HK6
+C43: 20
+G44: TỔNG CỘNG: | H44: 131
+B46: (*) Các học phần tự chọn (cơ sở ngành)
+ | G46: (**) Các học phần tự chọn (chuyên ngành)
+
+B47: Quản trị dự án Fintech | C47: 3 | G47: Ngân hàng số | H47: 3
+B48: Đổi mới sáng tạo và khởi nghiệp | C48: 3 | G48: Hệ thống hoạch định nguồn lực doanh nghiệp (ERP) | H48: 3
+B49: Tài chính quốc tế | C49: 3 | G49: Phân tích dữ liệu chuỗi cung ứng | H49: 3
+B50: Thương mại điện tử căn bản | C50: 3 | G50: Phân tích chuỗi thời gian trong tài chính, kinh doanh | H50: 3
+B51: Maketing căn bản | C51: 3
+B52: Hệ thống thanh toán điện tử | C52: 3
+B53: Kế toán ngân hàng thương mại  | C53: 3
