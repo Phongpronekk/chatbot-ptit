@@ -50,16 +50,19 @@ watch(() => [chat.activeId, chat.active?.messages.length, chat.sending], async (
         <div v-else-if="!chat.active?.messages.length && !chat.sending" class="empty-chat">
           <span class="ptit-mark" aria-hidden="true">P</span>
           <h2>Bắt đầu cuộc trò chuyện</h2>
-          <p>Nhập câu hỏi để tra cứu thông tin từ kho dữ liệu PTIT.</p>
+          <p>Nhập câu hỏi về PTIT hoặc nhấn + để hỏi đáp theo file PDF, Word, Excel.</p>
         </div>
         <MessageBubble v-for="message in chat.active?.messages" :key="message.id" :message="message" />
         <MessageBubble v-if="chat.pendingMessage" :message="chat.pendingMessage" />
         <article v-if="chat.sending" class="message assistant" role="status" aria-label="Chatbot đang suy nghĩ">
           <span class="ptit-mark message-avatar" aria-hidden="true">P</span>
-          <div class="message-content"><div class="bubble"><p>Thinking...</p></div></div>
+          <div class="message-content"><div class="bubble"><p>{{ chat.uploadingName ? `Đang tải và đọc ${chat.uploadingName}…` : 'Đang trả lời…' }}</p></div></div>
         </article>
       </div>
-      <ChatInput :busy="chat.busy" :sent-version="chat.sentVersion" :draft-to-restore="chat.draftToRestore" @send="chat.send" />
+      <ChatInput :key="chat.activeId" :busy="chat.busy" :sent-version="chat.sentVersion" :draft-to-restore="chat.draftToRestore"
+        :attachments="chat.draftAttachments" :has-file-context="chat.contextDocuments.length > 0" :source-scope="chat.sourceScope"
+        @send="chat.send" @attach="chat.queueFiles" @remove-attachment="chat.removeDraftAttachment"
+        @change-scope="chat.sourceScope = $event" />
     </main>
   </div>
 </template>

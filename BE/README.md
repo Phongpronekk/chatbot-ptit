@@ -84,7 +84,48 @@ Các API `/api/conversations`, `/api/conversations/{id}`, `/api/conversations/{i
 SQLite mặc định `BE/storage/chat.sqlite3`; lưu trọn lượt sau khi trả lời thành công, lỗi LLM trả 503.
 Cookie HttpOnly/SameSite=Lax tách lịch sử theo trình duyệt; chưa có đăng nhập tài khoản.
 Nguồn giữ URL, thời điểm thu thập, chủ đề, nội dung, ghi chú phạm vi. Snapshot không chứng minh còn hiệu lực.
-Mỗi câu hỏi độc lập, chưa rewrite theo lịch sử; API trả JSON, chưa có SSE streaming (mục tùy chọn trong tài liệu).
+Tra cứu kho PTIT vẫn xử lý từng câu hỏi độc lập. Hỏi đáp theo file dùng thêm bốn tin nhắn gần nhất
+để hiểu câu hỏi tiếp nối; API trả JSON, chưa có SSE streaming.
+
+## File trong bộ nhớ tạm
+
+FE có nút **+** để tải PDF, DOCX, XLSX, XLS. API cùng cookie/kiểm tra quyền với hội thoại:
+
+| API | Chức năng |
+| --- | --- |
+| POST `/api/conversations/{id}/documents` | Multipart, đúng một trường `file`; đọc file và trả metadata, không trả toàn bộ nội dung |
+| GET `/api/conversations/{id}/documents` | Danh sách file còn trong bộ nhớ tạm |
+| DELETE `/api/conversations/{id}/documents/{document_id}` | Xóa nội dung khỏi bộ nhớ tạm |
+| POST `/api/conversations/{id}/messages` | `document_ids` là file ứng viên, `attachment_ids` gắn file mới; `retrieval_scope`: `auto` (mặc định), `knowledge`, `documents` |
+
+FE chỉ chọn file vào bản nháp khi nhấn **+**; nhấn **Gửi** mới upload rồi gửi tin nhắn.
+GET hội thoại và POST tin nhắn trả thêm `documents`; mỗi tin nhắn có `attachments` gồm `id`, `filename`, `size`.
+Metadata đính kèm được lấy từ bộ nhớ đã kiểm tra quyền, lưu cùng lượt chat trong SQLite;
+các câu hỏi tiếp nối chỉ gửi `document_ids`, không gắn lại thẻ file vào tin nhắn mới.
+`attachment_ids` phải thuộc `document_ids` và cuộc trò chuyện. File mới gửi luôn dùng nhánh file.
+`message_routing.py` chọn nguồn từng câu: câu mới về PTIT như `ktx`/`BHYT` dùng kho PTIT;
+câu nhắc rõ file hoặc nối tiếp lượt file dùng nhánh file. Không giữ chế độ file chỉ vì chat từng tải file.
+Chọn `knowledge`/`documents` để yêu cầu nguồn cụ thể. File không còn hiệu lực trong nhánh file trả 410,
+còn câu mới về PTIT không bị chặn chỉ vì file ứng viên đã hết hạn. Lịch sử nhánh file chỉ lấy các lượt
+có nguồn thuộc file được chọn; lượt trả lời PTIT không được đưa vào ngữ cảnh file.
+Cột `messages.attachments` được bổ sung tự động khi khởi động, giữ nguyên tin nhắn cũ.
+Nguồn từ file có `document_id`, `location`,
+`source_file`, `content`, URL trống; FE hiển thị vị trí thay vì liên kết nguồn chính thức.
+File hết hạn/bị xóa/không thuộc hội thoại trả 410, không chuyển ngầm sang kho PTIT và không lưu lượt lỗi.
+Retry cùng `request_id` vẫn trả lượt đã lưu, kể cả file sau đó đã hết hạn.
+
+`BE/attachments.py` giữ văn bản trong RAM hai giờ kể từ lúc tải; cleanup mỗi phút và trước truy cập,
+xóa khi xóa hội thoại hoặc shutdown. Parser multipart giữ file trong RAM và chặn body quá giới hạn,
+không spool file gốc ra đĩa. Không persist file hoặc index vào Chroma.
+Lịch sử và đoạn trích đã dùng trong câu trả lời vẫn lưu SQLite; xóa hội thoại để xóa lịch sử.
+Kho tạm chỉ dùng trong **một process/worker**; restart làm mất file nhưng giữ hội thoại.
+
+Giới hạn: 10 MB/file, 5 file/hội thoại, 20 file/trình duyệt, 100 file/toàn process và tổng văn bản đã chia đoạn
+10 triệu ký tự. Giới hạn nội dung mỗi file 500.000 ký tự, Office giải nén 40 MB, PDF 300 trang,
+Excel 50 sheet × tối đa 20.000 dòng/200 cột. PDF scan cần OCR, không nhận file có mật khẩu;
+`.doc` cần chuyển `.docx`. XLSX giữ công thức như văn bản, không tính lại hay mở liên kết ngoài.
+Truy xuất BM25 không dấu; tóm tắt lấy đoạn mẫu theo file, không hứa đọc toàn bộ bảng lớn để tính tổng.
+Các đoạn được chọn và lịch sử ngắn dùng cùng provider/model; chưa có API key thì trả đoạn trích.
 
 ## Kiểm thử
 

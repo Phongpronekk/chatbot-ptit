@@ -120,10 +120,45 @@ Trong Swagger, thử `/api/rag/search` với:
 ```
 
 `llm_configured=true` chỉ xác nhận đã có cấu hình, không đảm bảo API key/quota/model đang hoạt động.
-Thử hỏi trên FE để kiểm tra toàn bộ luồng. FE hiển thị tin nhắn ngay và `Thinking...` trong khi chờ;
+Thử hỏi trên FE để kiểm tra toàn bộ luồng. FE hiển thị tin nhắn ngay và trạng thái chờ trả lời;
 hiện câu trả lời chỉ hiển thị sau khi BE nhận đầy đủ kết quả, chưa có streaming.
 
-## Cập nhật dữ liệu
+## Hỏi đáp theo file tải lên
+
+Nhấn nút **+** bên trái ô nhập để chọn một hoặc nhiều file **PDF, Word (.docx), Excel (.xlsx/.xls)**.
+File được chọn ở trạng thái **chờ gửi**, có thể nhấn **×** để bỏ khỏi bản nháp. Nhập câu hỏi rồi nhấn
+**Gửi**: lúc này file mới được tải lên, đọc và hiển thị **bên trong tin nhắn người dùng cùng câu hỏi**.
+Vùng nhập được xóa sau khi gửi; file đã gửi không ghim trên ô nhập. Có thể gửi chỉ file để yêu cầu tóm tắt.
+Câu trả lời có đoạn trích, tên file và vị trí trang/đoạn/bảng/sheet/dòng. Câu hỏi tiếp nối tự dùng file còn
+trong bộ nhớ khi có lời nhắc tới file hoặc câu nối tiếp phù hợp. Câu mới như `ktx`, `BHYT`, `học phí`
+tra kho PTIT, kể cả file vừa gửi có nhắc những từ đó. Bộ chọn **Nguồn cho câu hỏi này** có Tự động,
+Kho dữ liệu PTIT, File đã tải lên; lựa chọn chỉ áp dụng lượt gửi hiện tại rồi trở về Tự động.
+File mới đính kèm luôn được dùng cho chính câu hỏi gửi cùng file; không trộn mặc định mọi file cũ.
+Nếu gửi lỗi, file và câu hỏi
+được khôi phục để thử lại; file đã tải thành công trong lần gửi đó không bị tải trùng.
+
+FE hiển thị Markdown cho câu trả lời/đoạn trích (danh sách, chữ đậm, bảng, code), tắt HTML thô và ảnh từ xa.
+Các đoạn cùng URL hoặc cùng file được gom thành một nguồn có thể mở xem, giữ nguyên số trích dẫn.
+
+- Tối đa **5 file/cuộc trò chuyện**, **10 MB/file**, 500.000 ký tự nội dung/file; PDF tối đa 300 trang,
+  Excel tối đa 50 sheet, 20.000 dòng và 200 cột/sheet. File Office sau giải nén tối đa 40 MB.
+- Nội dung trích xuất chỉ ở **RAM của backend trong 2 giờ kể từ lúc tải**, tách riêng theo cookie trình duyệt
+  và cuộc trò chuyện. Xóa file/cuộc trò chuyện hoặc khởi động lại backend sẽ bỏ nội dung khỏi bộ nhớ tạm.
+  Không ghi file gốc vào ổ đĩa, không thêm file vào Chroma/kho PTIT. Chạy backend **một worker**;
+  nhiều worker/máy chủ cần kho tạm dùng chung trước khi triển khai.
+- Tên, kích thước file đính kèm, lịch sử câu hỏi, câu trả lời và **các đoạn đã trích dẫn** vẫn được lưu vào SQLite;
+  xóa file tạm không xóa lịch sử đã lưu. Muốn bỏ lịch sử, xóa cuộc trò chuyện.
+- Dùng LLM/provider đang cấu hình; các đoạn trích liên quan và một phần lịch sử được gửi tới provider.
+  Chưa có API key thì chỉ hiển thị kết quả tra cứu, chưa tổng hợp bằng LLM.
+- PDF scan/ảnh cần OCR trước; file có mật khẩu hoặc hỏng sẽ bị từ chối. Word `.doc` cần lưu thành `.docx`.
+  Công thức Excel được đọc như văn bản, không tính lại; không thực thi macro/liên kết ngoài.
+- Truy xuất file dùng BM25 không dấu và lấy đoạn mẫu cho yêu cầu tóm tắt; câu hỏi tiếp nối dùng tối đa
+  bốn tin nhắn gần nhất. File lớn chỉ đưa các đoạn chọn lọc vào LLM, không bảo đảm tổng hợp toàn bộ dòng
+  hay tính tổng chính xác khi dữ liệu vượt ngữ cảnh. File hết hạn cần tải lại.
+
+Sau khi cập nhật mã, cài lại `BE/requirements.txt` rồi khởi động lại BE và tải lại FE.
+
+## Cập nhật kho dữ liệu PTIT
 
 Sau khi thêm, sửa hoặc xóa tài liệu trong `data/`, chạy lại:
 

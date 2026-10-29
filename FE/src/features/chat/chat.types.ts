@@ -12,7 +12,11 @@ export interface Source {
   content: string
   note: string
   score: number
+  document_id?: string | null
+  location?: string
 }
+export type RetrievalScope = 'auto' | 'knowledge' | 'documents'
+
 export interface Message {
   id: string
   role: 'user' | 'assistant'
@@ -20,6 +24,18 @@ export interface Message {
   created_at: string
   mode: 'user' | 'retrieval_only' | 'llm'
   sources: Source[]
+  attachments: MessageAttachment[]
+  pending?: boolean
+}
+export interface MessageAttachment {
+  id: string
+  filename: string
+  size: number
+}
+export interface DraftAttachment {
+  id: string
+  file: File
+  uploaded?: Attachment
 }
 export interface ConversationSummary {
   id: string
@@ -29,6 +45,16 @@ export interface ConversationSummary {
 }
 export interface Conversation extends ConversationSummary {
   messages: Message[]
+  documents: Attachment[]
+}
+export interface Attachment {
+  id: string
+  filename: string
+  size: number
+  characters: number
+  chunk_count: number
+  created_at: string
+  expires_at: string
 }
 export interface Health {
   status: string

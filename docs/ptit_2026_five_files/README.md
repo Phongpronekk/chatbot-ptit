@@ -34,6 +34,9 @@ Mục đính kèm chỉ chứa liên kết gốc. Chưa OCR ảnh/PDF scan, chư
 
 ## Cập nhật và khôi phục
 
+Dữ liệu đã áp dụng được giữ tại `data/`. Thư mục `staged/` là kết quả trung gian tự tạo khi chạy
+bộ thu thập; không lưu thêm bản staging trùng với năm file đang dùng trong repository.
+
 Bản sao năm file trước thay đổi: `D:\chatbot-ptit\BE\storage\data_backups\20261029_010145`. Bộ dữ liệu thật hiện chỉ có năm file .md; bản sao lưu không nằm trong thư mục RAG.
 
 ```powershell

@@ -1,8 +1,9 @@
 import logging
 import os
+import asyncio
 from collections import Counter
 import time
-from contextlib import asynccontextmanager
+from contextlib import asynccontextmanager, suppress
 from pathlib import Path
 from uuid import UUID, uuid4
 
@@ -10,6 +11,9 @@ import httpx
 
 from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.concurrency import run_in_threadpool
+from starlette.datastructures import UploadFile
+from starlette.formparsers import MultiPartParser, MultiPartException
 from dotenv import load_dotenv
 
 # The backend's .env is the authoritative configuration, independent of cwd.
@@ -22,13 +26,17 @@ load_dotenv()
 
 if __package__:
     from .database import Database
+    from .attachments import DocumentMemory, DocumentError, MAX_FILE_BYTES, extract_document, clean_filename
     from .knowledge import Knowledge
-    from .schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch
+    from .message_routing import route_message, file_history
+    from .schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch, Attachment
 else:
     # `uvicorn main:app` / `python main.py` from inside BE.
     from database import Database
+    from attachments import DocumentMemory, DocumentError, MAX_FILE_BYTES, extract_document, clean_filename
     from knowledge import Knowledge
-    from schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch
+    from message_routing import route_message, file_history
+    from schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch, Attachment
 
 ROOT = Path(__file__).resolve().parents[1]
 logger = logging.getLogger(__name__)
@@ -90,6 +98,12 @@ def retrieval_disabled() -> bool:
 def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_store=None) -> FastAPI:
     database = Database(db_path or Path(os.getenv("CHAT_DB_PATH", str(ROOT / "BE/storage/chat.sqlite3"))))
     knowledge = Knowledge(data_dir or Path(os.getenv("DATA_DIR", str(ROOT / "data"))), rag_store=rag_store)
+    documents = DocumentMemory()
+
+    async def expire_documents():
+        while True:
+            await asyncio.sleep(60)
+            documents.cleanup()
 
     @asynccontextmanager
     async def lifespan(app):
@@ -98,13 +112,21 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
             logger.warning("DIRECT_OLLAMA_CHAT enabled: skipping knowledge.prepare() and indexing")
         else:
             knowledge.prepare()
-        yield
-        if not direct_ollama_enabled():
-            knowledge.close()
+        cleanup_task = asyncio.create_task(expire_documents())
+        try:
+            yield
+        finally:
+            cleanup_task.cancel()
+            with suppress(asyncio.CancelledError):
+                await cleanup_task
+            documents.clear()
+            if not direct_ollama_enabled():
+                knowledge.close()
 
     app = FastAPI(title="PTIT Chatbot API", version="1.0.0", lifespan=lifespan)
     app.state.database = database
     app.state.knowledge = knowledge
+    app.state.documents = documents
     origins = [item.strip() for item in os.getenv("CORS_ORIGINS", "http://localhost:5173,http://127.0.0.1:5173,http://127.0.0.1:5174").split(",") if item.strip()]
     app.add_middleware(CORSMiddleware, allow_origins=origins, allow_credentials=True,
                        allow_methods=["GET", "POST", "DELETE"], allow_headers=["Content-Type"])
@@ -241,7 +263,72 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
         conversation = database.get(str(identifier), request.state.owner)
         if conversation is None:
             raise HTTPException(404, "Không tìm thấy cuộc trò chuyện")
-        return normalize_conversation_modes(conversation)
+        result = normalize_conversation_modes(conversation)
+        result['documents'] = documents.list(request.state.owner, str(identifier))
+        return result
+
+    @app.get('/api/conversations/{identifier}/documents', response_model=list[Attachment], tags=['Files'])
+    def list_documents(identifier: UUID, request: Request):
+        return require_conversation(identifier, request)['documents']
+
+    @app.post('/api/conversations/{identifier}/documents', response_model=Attachment, status_code=201, tags=['Files'])
+    async def upload_document(identifier: UUID, request: Request):
+        """One multipart `file` (PDF/DOCX/XLSX/XLS), max 10 MB; text lives in RAM for 2 hours."""
+        require_conversation(identifier, request)
+        if not request.headers.get('content-type', '').lower().startswith('multipart/form-data'):
+            raise HTTPException(415, 'Gửi file bằng multipart/form-data, trường file.')
+        # Bound the entire multipart body before parsing; do not spool originals to disk.
+        limit = MAX_FILE_BYTES + 64 * 1024
+        try:
+            if int(request.headers.get('content-length', '0')) > limit:
+                raise HTTPException(413, 'Mỗi file tối đa 10 MB.')
+        except ValueError:
+            raise HTTPException(400, 'Content-Length không hợp lệ.')
+        body = bytearray()
+        async for block in request.stream():
+            if len(body) + len(block) > limit:
+                raise HTTPException(413, 'Mỗi file tối đa 10 MB.')
+            body.extend(block)
+
+        async def body_stream():
+            yield bytes(body)
+
+        class MemoryMultipartParser(MultiPartParser):
+            spool_max_size = limit
+            max_file_size = limit  # Compatibility with older Starlette versions.
+
+        form = None
+        try:
+            form = await MemoryMultipartParser(request.headers, body_stream(), max_files=1,
+                                               max_fields=0, max_part_size=limit).parse()
+            file = form.get('file')
+            if not isinstance(file, UploadFile):
+                raise HTTPException(422, 'Thiếu trường file tải lên.')
+            filename = clean_filename(file.filename)
+            raw = await file.read(MAX_FILE_BYTES + 1)
+            chunks = await run_in_threadpool(extract_document, filename, raw)
+            # Re-check ownership/existence after extraction, which can take time.
+            require_conversation(identifier, request)
+            return documents.add(request.state.owner, str(identifier), filename, len(raw), chunks)
+        except DocumentError as exc:
+            raise HTTPException(exc.status, str(exc))
+        except MultiPartException:
+            raise HTTPException(422, 'Mỗi lần tải lên một file bằng trường file; không gửi thêm trường dữ liệu.')
+        except HTTPException:
+            raise
+        except Exception:
+            logger.exception('Không xử lý được file tải lên')
+            raise HTTPException(422, 'Không đọc được file tải lên. Hãy kiểm tra định dạng và thử lại.')
+        finally:
+            if form is not None:
+                await form.close()
+
+    @app.delete('/api/conversations/{identifier}/documents/{document_id}', status_code=204, tags=['Files'])
+    def delete_document(identifier: UUID, document_id: UUID, request: Request):
+        require_conversation(identifier, request)
+        if not documents.delete(request.state.owner, str(identifier), str(document_id)):
+            raise HTTPException(404, 'Không tìm thấy file trong bộ nhớ tạm.')
+        return Response(status_code=204)
 
     @app.get("/api/conversations/{identifier}", response_model=Conversation)
     def get_conversation(identifier: UUID, request: Request):
@@ -251,30 +338,54 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
     def delete_conversation(identifier: UUID, request: Request):
         if not database.delete(str(identifier), request.state.owner):
             raise HTTPException(404, "Không tìm thấy cuộc trò chuyện")
+        documents.delete(request.state.owner, str(identifier))
         return Response(status_code=204)
 
     @app.post("/api/conversations/{identifier}/messages", response_model=Conversation)
     def send_message(identifier: UUID, payload: SendMessage, request: Request):
-        require_conversation(identifier, request)
+        current = require_conversation(identifier, request)
         request_id = str(payload.request_id)
         if database.has_request(str(identifier), request_id):
             return require_conversation(identifier, request)
+        document_ids = list(dict.fromkeys(str(item) for item in payload.document_ids))
+        attachment_ids = list(dict.fromkeys(str(item) for item in payload.attachment_ids))
+        if not set(attachment_ids).issubset(document_ids):
+            raise HTTPException(422, 'File đính kèm phải nằm trong danh sách file dùng để trả lời.')
+        available = {doc['id']: doc for doc in current['documents']}
+        if any(item not in available for item in attachment_ids):
+            raise HTTPException(410, 'File đính kèm đã hết hạn hoặc không thuộc cuộc trò chuyện này. Hãy tải lại file.')
+        attachments = [{key: available[item][key] for key in ('id', 'filename', 'size')}
+                       for item in attachment_ids]
+        scope = route_message(payload.message, payload.retrieval_scope, attachment_ids,
+                              document_ids, current['messages'])
+        if scope == 'documents' and not document_ids:
+            raise HTTPException(410, 'Không có file còn hiệu lực để trả lời. Hãy đính kèm hoặc tải lại file.')
         try:
-            if direct_ollama_enabled():
+            if scope == 'documents':
+                history = file_history(current['messages'], document_ids)
+                sources = documents.retrieve(request.state.owner, str(identifier),
+                    document_ids, payload.message, history)
+                answer, mode, sources = knowledge.answer_from_sources(payload.message, sources,
+                    history=history, uploaded=True)
+            elif direct_ollama_enabled():
                 answer, mode, sources = ask_ollama_direct(payload.message), "llm", []
             else:
 
                 answer, mode, sources = knowledge.answer(payload.message)
             # Validate response before persisting a complete turn atomically.
             sources = [Source.model_validate(source).model_dump() for source in sources]
+        except DocumentError as exc:
+            raise HTTPException(exc.status, str(exc))
         except Exception as exc:
             logger.exception("Không thể trả lời tin nhắn (%s): %s", type(exc).__name__, exc)
             raise HTTPException(503, "Dịch vụ trả lời chưa sẵn sàng. Vui lòng kiểm tra dữ liệu/cấu hình LLM hoặc thử lại sau.")
         conversation = database.save_turn(str(identifier), request.state.owner, request_id,
-                                          payload.message, answer, mode, sources)
+                                          payload.message, answer, mode, sources, attachments=attachments)
         if conversation is None:
             raise HTTPException(404, "Cuộc trò chuyện đã bị xóa")
-        return normalize_conversation_modes(conversation)
+        result = normalize_conversation_modes(conversation)
+        result['documents'] = documents.list(request.state.owner, str(identifier))
+        return result
 
     return app
 
