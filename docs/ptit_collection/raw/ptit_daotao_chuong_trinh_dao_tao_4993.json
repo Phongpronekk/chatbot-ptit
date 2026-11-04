@@ -1,0 +1,68 @@
+{
+  "id": 4993,
+  "date": "2026-05-23T14:55:48",
+  "date_gmt": "2026-05-23T07:55:48",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=4993"
+  },
+  "modified": "2026-06-14T08:04:31",
+  "modified_gmt": "2026-06-14T01:04:31",
+  "slug": "bachelor-of-engineering-in-electronics-and-telecommunications-engineering",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/en/chuong-trinh-dao-tao/bachelor-of-engineering-in-electronics-and-telecommunications-engineering/",
+  "title": {
+    "rendered": "BACHELOR OF ENGINEERING IN ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING"
+  },
+  "featured_media": 0,
+  "template": "",
+  "he_dao_tao": [],
+  "class_list": [
+    "post-4993",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/4993",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4993"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=4993"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

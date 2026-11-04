@@ -1,0 +1,78 @@
+{
+  "id": 3655,
+  "date": "2025-04-02T16:25:54",
+  "date_gmt": "2025-04-02T09:25:54",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=3655"
+  },
+  "modified": "2026-05-13T17:28:59",
+  "modified_gmt": "2026-05-13T10:28:59",
+  "slug": "chuong-trinh-logistics-va-quan-tri-chuoi-cung-ung",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-logistics-va-quan-tri-chuoi-cung-ung/",
+  "title": {
+    "rendered": "Chương trình Logistics và quản trị chuỗi cung ứng"
+  },
+  "featured_media": 3700,
+  "template": "",
+  "he_dao_tao": [
+    13985
+  ],
+  "class_list": [
+    "post-3655",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "he_dao_tao-nhom-cac-nganh-chuong-trinh-dao-tao-linh-vuc-kinh-te-kinh-doanh-va-quan-ly"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/3655",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3700"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=3655"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=3655"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

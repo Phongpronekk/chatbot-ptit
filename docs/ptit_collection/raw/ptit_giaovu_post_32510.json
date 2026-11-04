@@ -1,0 +1,127 @@
+{
+  "id": 32510,
+  "date": "2025-02-20T15:29:40",
+  "date_gmt": "2025-02-20T08:29:40",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32510"
+  },
+  "modified": "2025-02-20T15:30:39",
+  "modified_gmt": "2025-02-20T08:30:39",
+  "slug": "tu-van-chuyen-nganh-dao-tao-khoa-2022-nganh-cong-nghe-ky-thuat-dien-dien-tu",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/tu-van-chuyen-nganh-dao-tao-khoa-2022-nganh-cong-nghe-ky-thuat-dien-dien-tu/",
+  "title": {
+    "rendered": "Tư vấn chuyên ngành đào tạo khóa 2022 ngành  Công nghệ kỹ thuật Điện, điện tử."
+  },
+  "content": {
+    "rendered": "<p><strong>Kính gửi: Sinh viên các lớp D22CQDT</strong></p>\n<p>Căn cứ chương trình đào tạo và kế hoạch học tập năm học 2024-2025 và theo đề xuất chọn chuyên ngành đào tạo của các Khoa, phòng Giáo vụ thông báo tới các lớp liên quan về việc phân chuyên ngành như sau:</p>\n<ol>\n<li><strong>Các chuyên ngành đào tạo:</strong></li>\n</ol>\n<p>Công nghệ kỹ thuật Điện, điện tử tổng 200 sinh viên chia thành 3 chuyên ngành: Kỹ thuật điện tử máy tính, Xử lý tín hiệu và truyền thông, Thiết kế vi mạch.</p>\n<ol>\n<li><strong>Hỗ trợ và tư vấn chọn chuyên ngành:</strong></li>\n</ol>\n<p>Để tư vấn và định hướng cho sinh viên trong việc đăng ký chuyên ngành và cung cấp thông tin định hướng nghề nghiệp sau này, phòng Giáo vụ và Khoa Kỹ thuật Điện tử tổ chức buổi hội thảo “<em>Tư vấn và định hướng về đăng ký chuyên ngành</em>”  tại hội trường nhà A2. Cụ thể như sau:</p>\n<ul>\n<li>Thời gian: 18h00 thứ ba ngày 25/02/2025</li>\n<li>Địa điểm: Hội trường nhà A2.</li>\n<li>Thành phần tham gia: Lãnh đạo khoa Kỹ thuật Điện tử, toàn thể sinh viên Công nghệ kỹ thuật Điện, điện tử khóa 2022.</li>\n</ul>\n<p>Phòng Giáo vụ yêu cầu Ban cán sự và sinh viên các lớp liên quan thực hiện nghiêm túc kế hoạch trên.</p>\n<p><strong>Trân trọng thông báo!</strong></p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/02/2002TB-ve-dang-ky-chuyen-nganh-D22DT.doc\">Toàn văn thông báo + Cách đăng ký</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Sinh viên các lớp D22CQDT Căn cứ chương trình đào tạo và kế hoạch học tập năm học 2024-2025 và theo đề xuất chọn chuyên ngành đào tạo của các Khoa, phòng Giáo vụ thông báo tới các lớp liên quan về việc phân chuyên ngành như sau: Các chuyên ngành đào tạo: [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32452,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    9,
+    23,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32510",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ke-hoach-dao-tao",
+    "category-ke-hoach-phan-chuyen-nganh-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32510",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32510"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32510/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32452"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32510"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32510"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32510"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

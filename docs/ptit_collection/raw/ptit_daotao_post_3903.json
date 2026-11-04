@@ -1,0 +1,119 @@
+{
+  "id": 3903,
+  "date": "2025-12-02T09:25:31",
+  "date_gmt": "2025-12-02T02:25:31",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=3903"
+  },
+  "modified": "2025-12-02T09:25:31",
+  "modified_gmt": "2025-12-02T02:25:31",
+  "slug": "thong-bao-lich-tra-chung-chi-toeic-quoc-te-dot-thi-ngay-23-11-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/thong-bao-lich-tra-chung-chi-toeic-quoc-te-dot-thi-ngay-23-11-2025/",
+  "title": {
+    "rendered": "Thông báo lịch trả Chứng chỉ TOEIC quốc tế (đợt thi ngày 23/11/2025)"
+  },
+  "content": {
+    "rendered": "<ul>\n<li>Học viện Công nghệ Bưu chính Viễn thông thông báo <strong>Lịch trả Chứng chỉ TOEIC quốc tế (đợt thi ngày 23/11/2025) </strong>tại Học viện như sau:\n<ol>\n<li><strong>Lịch phát Chứng chỉ:</strong></li>\n</ol>\n<ul>\n<li>Thời gian:<strong> <em>Từ ngày 05/12/2025 đến ngày 09/12/2025</em></strong></li>\n</ul>\n<p><em>(Sáng: 9h30 &#8211; 11h30, Chiều: 14h30 &#8211; 17h00)</em></p>\n<ul>\n<li>Địa điểm:<strong> Ô số 3, Văn phòng Giao dịch 1 cửa, Học viện Công nghệ Bưu chính Viễn thông, Km10 đường Nguyễn Trãi, Hà Đông, Hà Nội</strong></li>\n<li>Điện thoại: 024.<strong>33528122</strong></li>\n<li>Website: https://daotao.ptit.edu.vn</li>\n</ul>\n<p><em><u>Lưu ý:</u></em><em> Khi đến nhận chứng chỉ, thí sinh phải mang theo CMND gốc.</em></p>\n<ol start=\"2\">\n<li><strong>Kết quả thi TOEIC được gửi về tài khoản slink của sinh viên.</strong></li>\n</ol>\n<p>Học viện Công nghệ Bưu chính Viễn thông xin trân trọng thông báo!</li>\n<li>Kết quả thi: <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/12/HV-CNBCVT-HN-TOEIC-thi-23.11.25.xlsx\">HV CNBCVT HN &#8211; TOEIC thi 23.11.25</a></li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo Lịch trả Chứng chỉ TOEIC quốc tế (đợt thi ngày 23/11/2025) tại Học viện như sau: Lịch phát Chứng chỉ: Thời gian: Từ ngày 05/12/2025 đến ngày 09/12/2025 (Sáng: 9h30 &#8211; 11h30, Chiều: 14h30 &#8211; 17h00) Địa điểm: Ô số 3, Văn phòng Giao dịch [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 3297,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-3903",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3903",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=3903"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3903/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3297"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=3903"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=3903"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=3903"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

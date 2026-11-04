@@ -1,0 +1,121 @@
+{
+  "id": 4596,
+  "date": "2025-06-24T17:04:24",
+  "date_gmt": "2025-06-24T10:04:24",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4596"
+  },
+  "modified": "2025-06-24T17:04:53",
+  "modified_gmt": "2025-06-24T10:04:53",
+  "slug": "thong-bao-ket-qua-xet-tuyen-va-quyet-dinh-trung-tuyen-trinh-do-thac-si-dot-1-nam-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-ket-qua-xet-tuyen-va-quyet-dinh-trung-tuyen-trinh-do-thac-si-dot-1-nam-2025/",
+  "title": {
+    "rendered": "THÔNG BÁO KẾT QUẢ XÉT TUYỂN VÀ QUYẾT ĐỊNH TRÚNG TUYỂN TRÌNH ĐỘ THẠC SĨ ĐỢT 1 NĂM 2025"
+  },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-4597 aligncenter\" src=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Untitled.jpg\" alt=\"\" width=\"628\" height=\"762\" srcset=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Untitled.jpg 628w, https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Untitled-247x300.jpg 247w\" sizes=\"(max-width: 628px) 100vw, 628px\" /></p>\n<p>DANH SÁCH THÍ SINH TRÚNG TUYỂN: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Danh-sach-trung-tuyen-THS-d1.2025.pdf\">Danh sach trung tuyen THS d1.2025</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>DANH SÁCH THÍ SINH TRÚNG TUYỂN: Danh sach trung tuyen THS d1.2025</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 4599,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25,
+    1
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4596",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc",
+    "category-uncategorized"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4596",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4596"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4596/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4599"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4596"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4596"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4596"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

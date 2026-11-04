@@ -1,0 +1,279 @@
+[
+  {
+    "query": "bao hiem  y te",
+    "elapsed_ms": 1526.47,
+    "accepted": 4,
+    "canonical": "bảo hiểm y tế",
+    "sources": [
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.89574,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.88699,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.88677,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+        "score": 0.87543,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/"
+      }
+    ]
+  },
+  {
+    "query": "bảo hiểm y tế",
+    "elapsed_ms": 39.49,
+    "accepted": 4,
+    "canonical": "bảo hiểm y tế",
+    "sources": [
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.89574,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.88699,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.88677,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+        "score": 0.87543,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/"
+      }
+    ]
+  },
+  {
+    "query": "bhyt",
+    "elapsed_ms": 51.73,
+    "accepted": 4,
+    "canonical": "bảo hiểm y tế",
+    "sources": [
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.89574,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.88699,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "Thông báo về việc gia hạn thẻ Bảo hiểm y tế năm học 2026 – 2027 đối với sinh viên Đại học chính quy khóa 2026",
+        "score": 0.88677,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/10/01/thong-bao-ve-viec-gia-han-the-bao-hiem-y-te-nam-hoc-2026-2027-doi-voi-sinh-vien-dai-hoc-chinh-quy-khoa-2026/"
+      },
+      {
+        "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+        "score": 0.87543,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/"
+      }
+    ]
+  },
+  {
+    "query": "ky tuc xa",
+    "elapsed_ms": 56.37,
+    "accepted": 4,
+    "canonical": "ký túc xá",
+    "sources": [
+      {
+        "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+        "score": 0.89072,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+      },
+      {
+        "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+        "score": 0.89101,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+      },
+      {
+        "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+        "score": 0.88034,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+      },
+      {
+        "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+        "score": 0.88561,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/"
+      }
+    ]
+  },
+  {
+    "query": "ktx",
+    "elapsed_ms": 53.04,
+    "accepted": 4,
+    "canonical": "ký túc xá",
+    "sources": [
+      {
+        "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+        "score": 0.89072,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+      },
+      {
+        "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+        "score": 0.89101,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+      },
+      {
+        "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+        "score": 0.88034,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/"
+      },
+      {
+        "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+        "score": 0.88561,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/"
+      }
+    ]
+  },
+  {
+    "query": "hoc phi",
+    "elapsed_ms": 70.79,
+    "accepted": 4,
+    "canonical": "học phí",
+    "sources": [
+      {
+        "title": "Thông báo về việc thu hồ sơ xét miễn, giảm học phí và hỗ trợ chi phí học tập Học kỳ 2 năm học 2025 – 2026",
+        "score": 0.88751,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-ve-viec-thu-ho-so-xet-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-2-nam-hoc-2025-2026/"
+      },
+      {
+        "title": "Thông báo về việc chi miễn giảm học phí, hỗ trợ chi phí học tập và cấp bù học phí học kỳ 2 năm học 2025-2026 cho sinh viên hệ đại học chính quy của Học viện",
+        "score": 0.82512,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-ve-viec-chi-mien-giam-hoc-phi-ho-tro-chi-phi-hoc-tap-va-cap-bu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-he-dai-hoc-chinh-quy-cua-hoc-vien/"
+      },
+      {
+        "title": "Thông báo về việc thu hồ sơ miễn, giảm học phí và hỗ trợ chi phí học tập Học kỳ 1 năm học 2026 – 2027",
+        "score": 0.8241,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/09/09/thong-bao-ve-viec-thu-ho-so-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/"
+      },
+      {
+        "title": "Thu học phí, học lại lớp ghép kỳ I năm học 2026-2027 Chương trình đào tạo đại trà trình độ đại học cơ sở Đào tạo Hà Nội",
+        "score": 0.89134,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/thu-hoc-phi-hoc-lai-lop-ghep-ky-i-nam-hoc-2026-2027-chuong-trinh-dao-tao-dai-tra-trinh-do-dai-hoc-co-so-dao-tao-ha-noi/"
+      }
+    ]
+  },
+  {
+    "query": "thuc tap tot nghiep",
+    "elapsed_ms": 80.39,
+    "accepted": 4,
+    "canonical": "thực tập tốt nghiệp",
+    "sources": [
+      {
+        "title": "Samsung Việt Nam tuyển dụng sinh viên tốt nghiệp Đại học & thực tập sinh",
+        "score": 0.88234,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/04/20/samsung-viet-nam-tuyen-dung-sinh-vien-tot-nghiep-dai-hoc-thuc-tap-sinh/"
+      },
+      {
+        "title": "Kế hoạch tổ chức thực tập tích lũy khối kiến thức tốt nghiệp các lớp: đại học chính quy khóa 2022-2027 (các ngành: ATTT, KT ĐTVT, CNTT, CLC-CNTT, CNKT Đ-ĐT, CNĐPT)",
+        "score": 0.8851,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/"
+      },
+      {
+        "title": "Samsung Việt Nam tuyển dụng sinh viên tốt nghiệp Đại học & thực tập sinh",
+        "score": 0.89495,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/04/20/samsung-viet-nam-tuyen-dung-sinh-vien-tot-nghiep-dai-hoc-thuc-tap-sinh/"
+      },
+      {
+        "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026 / II. Đối tượng và điều kiện tuyển dụng",
+        "score": 0.88181,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/"
+      }
+    ]
+  },
+  {
+    "query": "tttn",
+    "elapsed_ms": 71.05,
+    "accepted": 4,
+    "canonical": "thực tập tốt nghiệp",
+    "sources": [
+      {
+        "title": "Samsung Việt Nam tuyển dụng sinh viên tốt nghiệp Đại học & thực tập sinh",
+        "score": 0.88234,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/04/20/samsung-viet-nam-tuyen-dung-sinh-vien-tot-nghiep-dai-hoc-thuc-tap-sinh/"
+      },
+      {
+        "title": "Kế hoạch tổ chức thực tập tích lũy khối kiến thức tốt nghiệp các lớp: đại học chính quy khóa 2022-2027 (các ngành: ATTT, KT ĐTVT, CNTT, CLC-CNTT, CNKT Đ-ĐT, CNĐPT)",
+        "score": 0.8851,
+        "score_type": "cosine_similarity",
+        "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/"
+      },
+      {
+        "title": "Samsung Việt Nam tuyển dụng sinh viên tốt nghiệp Đại học & thực tập sinh",
+        "score": 0.89495,
+        "score_type": "cosine_similarity",
+        "url": "https://student.ptit.edu.vn/2026/04/20/samsung-viet-nam-tuyen-dung-sinh-vien-tot-nghiep-dai-hoc-thuc-tap-sinh/"
+      },
+      {
+        "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026 / II. Đối tượng và điều kiện tuyển dụng",
+        "score": 0.88181,
+        "score_type": "cosine_similarity",
+        "url": "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/"
+      }
+    ]
+  },
+  {
+    "query": "quasar supernova astrophysics",
+    "elapsed_ms": 28.29,
+    "accepted": 0,
+    "canonical": "quasar supernova astrophysics",
+    "sources": []
+  },
+  {
+    "query": "cach lam banh pizza",
+    "elapsed_ms": 39.42,
+    "accepted": 0,
+    "canonical": "cach lam banh pizza",
+    "sources": []
+  },
+  {
+    "query": "bao hiem that nghiep",
+    "elapsed_ms": 45.0,
+    "accepted": 0,
+    "canonical": "bao hiem that nghiep",
+    "sources": []
+  }
+]

@@ -1,0 +1,63 @@
+HƯỚNG DẪN HỌC TRỰC TUYẾN
+CHO SINH VIÊN TRÊN TRANS
+Bước 1: Tải phần mềm cần thiết
+- PC/ laptop: https://zoom.us/vi/download tải về và cài đặt bản tương ứng
+- Điện thoại/ Máy tính bảng: vào App store trên iOS, Play store trên Android tải về và cài đặt Zoom
+Bước 2: Sử dụng trình duyệt truy cập vào web: https://app.hoptructuyen.vn
+*Đăng nhập bằng tài khoản Học viện đã cấp (gửi qua email)
+
+
+*Bấm vào “Student” để nhập thông tin lớp
+
+
+ *Nhập các thông tin:
+- 88888888xx là số hiệu phòng học – TranS ID (sinh viên xem tại QLĐT)
+
+- Click “Tham gia họp” để tham gia lớp học
+*Lưu ý Giáo viên phải ở trong phòng trước thì học viên mới vào được do vậy nếu bạn nhận được thông báo Chủ tọa (hoặc giáo viên) chưa vào phòng thì vui lòng đợi. 
+
+*Trường hợp sinh viên chưa có tài khoản, có thể tạo tài khoản bằng số điện thoại, email, hoặc vào nhanh tự do,  đặt tên theo mẫu: Họ và Tên – Mã sinh viên (VD: Nguyễn Văn A - B25DCCN999 ) để tham gia học tập
+2600960155194000
+
+2049145152336500
+
+
+* Linh dự phòng nếu không thể vào học bằng các cách trên: https://vaohoc.hoptructuyen.vn/
+- Nhập Trans ID và họ tên theo mẫu ở trên để vào lớp.
+
+
+(*) Cách xem TranS ID của lớp học: 
+Bước 1: Đăng nhập vào trang https://qldt.ptit.edu.vn 
+Bước 2: Chọn Tab “Xem thời khóa biểu tuần”. Số hiệu TransID chính là tên phòng học như hình dưới: ví dụ Phòng: 8888888807
+
+Nếu bạn sử dụng máy tính hoặc máy MAC có thể TranS sẽ hỏi thêm như hình sau: 
+
+Bạn hãy tích vào ô cuối có chữ “Automaticaly join audio ...” sau đó bấm nút màu xanh “Join Audio Conference via Mic & Speaker”. Từ lần sau App sẽ nhớ và đưa bạn thẳng vào phòng khi giáo viên đã mở phòng. 
+Nếu bạn dùng smartphone để học thì bước này App sẽ hỏi có cho phép ứng dụng truy cập microphone và camera, bạn nhớ chọn tất cả đều là OK (Đồng ý) 
+
+Vì lý do bảo mật một số điện thoại có thể sẽ hỏi thêm cho phép chạy App này mở quyền vẽ trên ứng dụng không hoặc Cho phép hiển thị trên ứng dụng khác thì bạn bật cho phép chạy và chọn dòng menu trên cùng có chữ “Call via Device Audio”khi App yêu cầu cách thức sử dụng âm thanh của thiết bị để chính thức vào phòng. Khi này bạn sẽ nhìn thấy Video của giáo viên còn nếu giáo viên chưa vào thì App báo “Chủ tọa vừa vào phòng vui lòng đợi” bạn cứ đợi để App tự đưa bạn vào.  
+Sau khi vào được phòng học, Học viên sẽ thấy giao diện màn hình như sau nếu là dùng máy tính hoặc máy MAC: 
+
+
+Start Video: GV nhìn thấy HS Chat Giơ tay/ Vỗ tay/ Like
+Stop Video: GV không nhìn thấy HS 
+Chọn Mute: GV sẽ không nghe được tiếng HS 
+Chọn Unmute: GV sẽ nghe được tiếng HS 
+Ngoài nghe giáo viên giảng dạy và chia sẻ tài liệu trực tuyến, Học viêncó thể tương tác với giáo viên thông qua 2 hình thức là giơ tay xin phát biểu (Raise hand) và chat để trả lời câu hỏi. 
+Với máy tính để đăng ký giơ tay phát biểu, Học viênchọn vào mục Reactions. 
+Với smartphone để giơ tay vào mục More ở góc dưới màn hình điện thoại (nếu không thấy thì bạn chạm tay vào màn hình để hiện ra các menu): Chọn Raise hand (Giơ tay)/ Lower Hand (Hạ tay) để GV biết học viên có ý kiến nếu Giáo viên tắt mic của toàn bộ lớp. 
+
+
+Với giao diện trên mobile sẽ có các nút lệnh như trên từ trên xuống dưới gồm: 
++ Leave: Là nút để thoát khỏi phòng học 
++ Mute: Tắt míc của bạn, khi ấy sẽ có dấu gạch đỏ báo mic đang tắt. Nếu bạn nói chuyện với giáo viên mà giáo viên không nghe được thì do mic của bạn tắt, bạn cần chạm vào nút này để mở lại mic. Khuyến nghị khi học bạn nên tắt mic để không ảnh hưởng tới lớp, khi nào bạn cần phát biểu thì hãy bật mic. 
++ Stop Video: Tắt camera, khi ấy sẽ có dấu gạch đỏ và giáo viên sẽ không thấy Video của bạn. Đôi khi đường truyền kém bạn nên tắt video của mình để chất lượng âm thanh và hình ảnh từ giáo viên được tốt hơn. 
+710184-93389  + Share: Dùng để share tài liệu, ảnh từ máy của bạn nếu được giáo viên yêu cầu. 
+ 
+ 
++ Participant: Danh sách tất cả học viên và giảng viên trong phòng. 
++ More: Chứa một số' lệnh khác như Raise hand, Lower hand ... 
+CHÚ Ý 
+- Sinh viên dùng điện thoại có thể quay ngang điện thoại để thấy màn hình to hơn và rõ hơn. 
+- Tự hiệu chỉnh nút tăng giảm âm lượng để có âm thanh phù hợp. 
+- Nhớ chọn nút "Thoát" để đóng TranS khi kết thúc buổi học. 

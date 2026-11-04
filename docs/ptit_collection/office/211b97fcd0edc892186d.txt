@@ -1,0 +1,2066 @@
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+HỌC VIỆN CÔNG NGHỆ 
+BƯU CHÍNH VIỄN THÔNG
+57721440640
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+81343420955
+CHƯƠNG TRÌNH ĐÀO TẠO 
+Tên chương trình (tiếng Việt): Hệ thống thông tin
+Tên chương trình (tiếng Anh):Information Systems
+Ngành đào tạo (tiếng Việt): Hệ thống thông tin
+Ngành đào tạo (tiếng Anh): Information Systems
+Trình độ đào tạo:   Thạc sĩ (Thạc sĩ tích hợp)
+Mã ngành:8480104
+Hình thức đào tạo:Chính quy
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+
+MỤC TIÊU  
+1.1. Mục tiêu chung 
+Chương trình đào tạo Thạc sĩ tài năng ngành Hệ thống thông tin của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo người học có phẩm chất chính trị, đạo đức, sức khỏe; có kiến thức, kỹ năng thực hành nghề nghiệp; có năng lực học thuật vượt trội, khả năng nghiên cứu khoa học, tư duy sáng tạo; có tiềm năng trở thành chuyên gia, nhà nghiên cứu, đổi mới công nghệ trong lĩnh vực hệ thống thông tin, công nghệ thông tin; có năng lực hội nhập quốc tế và tinh thần học tập suốt đời; có khả năng thích nghi với môi trường làm việc đa ngành; có ý thức trách nhiệm nghề nghiệp, đáp ứng yêu cầu phát triển kinh tế, xã hội.
+Chương trình đào tạo Thạc sĩ tài năng ngành Hệ thống thông tin nhằm cụ thể hóa tiêu chuẩn chung cho người tốt nghiệp của Học viện đó là:
+ULO1 Tri thức – Sáng tạo – Khởi nghiệp (Subject Expertise – Innovation - Entrepreneurship): Khả năng xác định, phân tích và giải quyết vấn đề trong lĩnh vực chuyên môn một cách hiệu quả trong bối cảnh nhất định bằng cách áp dụng các kiến thức và nguyên tắc liên quan, hướng tiếp cận đổi mới sáng tạo và các công nghệ tiên tiến có thể có, đồng thời xem xét các mục tiêu phát triển bền vững và cơ hội khởi nghiệp. 
+ULO2 Đạo đức – Trách nhiệm nghề nghiệp (Professional ethics - Responsibilities): Khả năng vận dụng các nguyên tắc đạo đức và trách nhiệm nghề nghiệp trong thực hành nghề nghiệp, cũng như cân nhắc các yếu tố có ảnh hưởng ở cấp độ địa phương và toàn cầu. 
+ULO3 Giao tiếp – Hợp tác – Quản lý (Communication – Collaboration - Management): Khả năng giao tiếp và thực hiện công việc nhóm một cách hiệu quả nhằm đạt được các mục tiêu nghề nghiệp, cũng như quản lý các hoạt động chuyên môn dựa trên tư duy khởi nghiệp. 
+1.2 Mục tiêu cụ thể  
+Mục tiêu cụ thể của chương trình đào tạo Thạc sĩ tài năng ngành Hệ thống thông tin của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo thạc sĩ Hệ thống thông tin có: 
+PO1: Khả năng áp dụng kiến thức và kỹ năng của mình để đạt được thành công trong sự nghiệp và/hoặc theo học tập ở bậc sau đại học để lấy bằng tiến sĩ, hoặc các bằng cấp khác cao hơn;
+PO2: Khả năng cư xử có đạo đức và trách nhiệm, sẽ luôn được cập nhật thông tin thông qua giáo dục liên tục và sẽ tham gia đầy đủ vào các hoạt động nghề nghiệp và xã hội; 
+PO3: Khả năng giao tiếp hiệu quả và hoạt động thành công trong các nhóm đa ngành.
+PO4: Khả năng làm việc chuyên nghiệp với tư cách là người lãnh đạo hoặc thành viên chủ chốt trong các dự án nghiên cứu liên quan đến hệ thống thông tin, công nghệ thông tin.
+CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (PLOs)
+Các chuẩn đầu ra (Program Learning Outcomes – PLOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các PLO và PI kèm theo được thiết kế theo chuẩn quốc tế. Cụ thể, các PLO và PI của chương trình đào tạo cho như bảng sau:
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1: Nhận diện được vấn đề và đề xuất giải pháp — bao gồm giải pháp ứng dụng công nghệ số và trí tuệ nhân tạo (AI) — để giải quyết vấn đề liên quan đến công nghệ thông tin.
+
+C4
+PI1.1 Phát biểu bài toán và các yêu cầu.
+
+C4/P3
+PI1.2 Phân tích các giải pháp tính toán, bao gồm giải pháp ứng dụng công nghệ số và AI, để giải quyết bài toán.
+
+C4/P3
+PI1.3 Lựa chọn giải pháp phù hợp dựa trên các nguyên lý tính toán và công nghệ số/AI hiện có để giải quyết bài toán.
+PLO2: Giao tiếp hiệu quả bằng ngôn ngữ phù hợp (bao gồm cả ngoại ngữ) trong nhiều bối cảnh chuyên nghiệp khác nhau.
+C3/P3
+PI2.1 Thể hiện kỹ năng giao tiếp bằng văn bản hiệu quả bằng tiếng Việt và ít nhất một ngoại ngữ theo chuẩn ngoại ngữ đầu ra của chương trình. 
+
+C3/P3
+PI2.2 Trình bày các vấn đề một cách hiệu quả trong bài thuyết trình miệng.
+PLO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức.
+
+C3/P3
+PI3.1 Áp dụng các nguyên tắc pháp lý và đạo đức nghề nghiệp khi giải quyết các vấn đề có liên quan đến nghề nghiệp.
+
+C3/A3
+PI3.2 Thể hiện nhận thức về tầm quan trọng của quyền riêng tư, bảo mật, bản quyền và đạo đức AI, trong lĩnh vực CNTT.
+PLO4: Làm việc hiệu quả với vai trò thành viên hoặc trưởng nhóm trong các hoạt động phù hợp với lĩnh vực chuyên môn của chương trình đào tạo.
+A2
+PI4.1 Phối hợp và chia sẻ công việc trong nhóm chuyên môn lĩnh vực CNTT.
+
+P3
+PI4.2 Hoàn thành nhiệm vụ ở các vai trò khác nhau trong nhóm chuyên môn lĩnh vực CNTT.
+PLO5: Thực hiện được dự án nghiên cứu và phát triển, độc lập hoặc theo nhóm, trong lĩnh vực hệ thống thông tin, thể hiện khả năng tự học và thích ứng với công nghệ mới.
+C6
+PI5.1 Thiết kế được giải pháp thực hiện cho dự án, trên cơ sở tự cập nhật kiến thức và công nghệ mới (bao gồm AI) phù hợp với bài toán.
+
+P4
+PI5.2 Cài đặt và Triển khai được giải pháp đã chọn cho dự án, thể hiện khả năng thích ứng khi công nghệ hoặc yêu cầu thay đổi trong quá trình thực hiện.
+PLO6. Tạo ra được các sản phẩm, giải pháp hoặc tri thức có giá trị.
+C5
+PI6.1. Đánh giá được tính hiệu quả của giải pháp đề xuất so với các giải pháp liên quan đã có 
+
+C6
+PI6.2. Tạo ra được kết quả, sản phẩm đáp ứng mục tiêu và yêu cầu của bài toán đặt ra.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: 180 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO: 
+4.1 Đối tượng tuyển sinh là học sinh trung học phổ thông (THPT)
+Đối tượng dự tuyển đáp ứng quy định của Quy chế tuyển sinh trình độ đại học do Bộ Giáo dục & Đào tạo và Học viện ban hành và các yêu cầu sau đây:
+a) Xét tuyển thẳng với đối tượng sau: người học đã tốt nghiệp THPT hoặc trình độ tương đương, đồng thời đoạt giải Nhất, Nhì hoặc Ba trong kỳ thi học sinh giỏi quốc gia hoặc kỳ thi Olympic quốc tế các môn Toán, Vật lý, Hóa học, Tin học; thời điểm không quá 03 năm tính đến thời điểm xét tuyển thẳng;
+b) Đối với phương thức xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT, thí sinh phải đáp ứng các yêu cầu sau:
+- Thí sinh có tham dự kỳ thi tốt nghiệp THPT với một trong các tổ hợp môn xét tuyển là Toán, Lý, Hóa (A00); hoặc Toán, Lý, Anh (A01) hoặc Toán, Lý, Tin (X06) hoặc Toán, Tin, Anh (X26); 
+- Có tổng điểm xét tuyển nằm trong top 20% điểm xét tuyển cao nhất toàn quốc trong cùng tổ hợp;
+- Các yêu cầu khác theo Đề án tuyển sinh đại học chính quy hằng năm của Học viện.
+4.2 Đối tượng chuyển tiếp: là sinh viên đang học hoặc đã tốt nghiệp đại học chính quy ngành hệ thống thông tin hoặc các ngành đào tạo cùng nhóm ngành với ngành hệ thống thông tin của Học viện Công nghệ Bưu chính Viễn thông và đáp ứng các yêu cầu sau:
+- Có điểm trung bình tích luỹ tính đến thời điểm đăng ký xét tuyển đạt 3,2 (theo thang điểm 4) hoặc tương đương trở lên. 
+QUY TRÌNH ĐÀO TẠO, ĐIỀU KIỆN TỐT NGHIỆP
+5.1. Quy trình đào tạo
+Chương trình đào tạo được thực hiện trong 05 năm gồm 10 học kỳ, trong đó 9 học kỳ tích lũy kiến thức tại Học viện và 1 kỳ tốt nghiệp, bao gồm thực tập chuyên sâu tại cơ sở (phòng lab, tổ chức, doanh nghiệp) và làm luận văn hoặc đề án tốt nghiệp
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+5.2. Điều kiện tốt nghiệp
+5.2.1. Các yêu cầu chung
+- Hoàn thành chương trình đào tạo với điểm học phần đạt từ 4,0 (theo thang điểm 10) trở lên đối với phần kiến thức trình độ đại học và đạt từ 5,5 (theo thang điểm 10) trở lên đối với phần kiến thức trình độ thạc sĩ trong thời gian quy định;
+- Bảo vệ thành công luận văn/đề án tốt nghiệp, đạt điểm từ 5,5/10 trở lên;
+- Có trình độ tiếng Anh đạt từ bậc 4 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương.
+5.2.2. Các yêu cầu theo thiên hướng tài năng
+Người học phải đạt được một trong các thiên hướng tài năng như sau:
+a) Thiên hướng tài năng về khoa học, cần đạt một trong các tiêu chí sau:
++) Tham gia các nhóm nghiên cứu thuộc lĩnh vực hệ thống thông tin hoặc công nghệ thông tin và có công bố khoa học, trong đó là tác giả chính hoặc đồng tác giả của ít nhất một bài báo, hoặc báo cáo khoa học quốc tế uy tín (trong danh mục WoS/Scopus), có xác nhận về đóng góp chuyên môn.
++) Tham gia và hoàn thành các khoá học về phương pháp nghiên cứu, học thuật chuyên sâu và công cụ phân tích hiện đại, đồng thời có minh chứng về kết quả nghiên cứu thông qua báo cáo tại hội thảo có phản biện, sản phẩm nghiên cứu được ứng dụng – chuyển giao, hoặc được hội đồng chuyên môn đánh giá cao.
+b) Thiên hướng tài năng về công nghệ, cần đạt một trong các tiêu chí sau:
++) Tham gia các nhóm nghiên cứu phát triển sản phẩm, hoặc dự án nghiên cứu phát triển có tiềm năng ứng dụng thực tiễn hoặc thương mại hoá; là tác giả chính hoặc đồng tác giả của ít nhất một sáng chế hoặc giải pháp hữu ích đã được nộp đơn và chấp nhận hợp lệ.
++) Đóng vai trò chủ đạo trong việc triển khai và hiện thực hóa kết quả nghiên cứu, thông qua hoạt động chuyển giao công nghệ, ứng dụng tại doanh nghiệp, hoặc được ghi nhận tại các cuộc thi, hội thảo khoa học – công nghệ uy tín, đồng thời thể hiện năng lực đổi mới sáng tạo và khả năng thương mại hóa sản phẩm.
+c) Thiên hướng tài năng về kinh doanh, quản trị và lãnh đạo, cần đạt một trong các tiêu chí sau:
++) Tham gia và giữ vai trò nòng cốt trong các dự án thực tiễn như xây dựng kế hoạch kinh doanh, vận hành mô hình doanh nghiệp mô phỏng hoặc tư vấn chiến lược cho tổ chức; đồng thời chịu trách nhiệm chính hoặc đại diện trình bày ít nhất một đề án kinh doanh xuất sắc tại các cuộc thi học thuật, khởi nghiệp hoặc đổi mới sáng tạo ở cấp quốc gia hoặc quốc tế.
++) Thể hiện tư duy quản trị chiến lược và năng lực quyết định trong môi trường phức tạp, thông qua việc xây dựng và triển khai các giải pháp sáng tạo, khả thi và thích ứng với bối cảnh thực tiễn; đồng thời chứng minh năng lực lãnh đạo và điều phối hiệu quả trong tập thể hoặc tổ chức.
+5.3 Kết thúc khóa học, sinh viên được công nhận tốt nghiệp và được cấp đồng thời 2 văn bằng là Thạc sĩ ngành Hệ thống thông tin và Cử nhân ngành Công nghệ thông tin hệ chính quy khi đã hội tụ đủ các tiêu chuẩn theo quy chế đào tạo đại học, thạc sĩ theo học chế tín chỉ và các yêu cầu tốt nghiệp nêu trên.
+THANG ĐIỂM: Theo thang điểm tín chỉ
+6.1. Phần kiến thức trình độ đại học
+Điểm chữ (A, B, C, D, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các Học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+Không đạt
+Dưới 4,0
+F
+0,0
+Loại đạt không ghi mức (áp dụng cho các học phần đạt, không tính vào điểm trung bình học tập): Từ 5,0 điểm trở lên, điểm chữ là P
+6.2. Phần kiến thức trình độ thạc sĩ
+Thực hiện theo thang điểm tín chỉ, trong đó điểm chữ (A, B, C, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các Học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+Không đạt
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+
+Dưới 4,0
+F
+0,0
+NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO
+7.1 Cấu trúc chương trình đào tạo
+STT
+Khối kiến thức
+Số tín chỉ
+A.
+Phần kiến thức trình độ đại học
+120
+1.
+Kiến thức giáo dục đại cương
+48
+1.1.
+Khối kiến thức chung
+30
+I.1.1.1
+Lý luận chính trị
+11
+I.1.1.2
+Tiếng Anh
+14
+I.1.1.3
+Tin học
+5
+1.2
+Khối kiến thức khoa học tự nhiên và xã hội
+18
+2.
+Kiến thức giáo dục chuyên nghiệp
+72
+2.1
+Khối kiến thức cơ sở
+48
+2.2
+Khối kiến thức chuyên ngành
+18
+2.3
+Thực tập tốt nghiệp
+6
+B.
+Phần kiến thức trình độ thạc sĩ
+60
+1.
+Khối kiến thức cơ sở ngành
+24
+2.
+Khối kiến thức chuyên ngành
+
+2.1
+Định hướng ứng dụng
+21
+2.2
+Định hướng nghiên cứu
+21
+3.
+Tốt nghiệp thạc sĩ
+
+3.1
+Định hướng ứng dụng (Thực tập và Đề án tốt nghiệp)
+15
+3.2
+Định hướng nghiên cứu (Luận văn tốt nghiệp)
+15
+Tổng cộng
+180
+7.2 Nội dung chương trình
+A. Phần kiến thức trình độ đại học
+7.2.1. Khối kiến thức chung
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn 
+
+
+1
+Triết học Mác - Lênin
+BAS1150
+3
+x
+ 
+1
+ 
+2
+Kinh tế chính trị Mác - Lênin
+BAS1151
+2
+x
+ 
+2
+ 
+3
+Chủ nghĩa xã hội khoa học
+BAS1152
+2
+x 
+ 
+3
+ 
+4
+Tư tưởng Hồ Chí Minh
+BAS1122
+2
+x
+ 
+4
+ 
+5
+Lịch sử Đảng cộng sản Việt Nam
+BAS1153 
+2
+x 
+ 
+5
+ 
+6
+Tiếng Anh (Course 1) (*)
+BAS1157
+4
+x
+ 
+2
+ 
+7
+Tiếng Anh (Course 2)
+BAS1158
+4
+x
+ 
+3
+ 
+8
+Tiếng Anh (Course 3)
+BAS1159
+4
+x
+ 
+4
+ 
+9
+Tiếng Anh (Course 3 Plus)
+BAS1160
+2
+x 
+ 
+5
+ 
+10
+Nhập môn công nghệ số và ứng dụng AI
+INT11205
+2
+x
+
+1
+
+11
+Nhập môn tin học và lập trình
+INT11117
+3
+x
+
+1
+ 
+ 
+Tổng:
+ 
+30
+ 
+ 
+ 
+ 
+Giáo dục thể chất và Giáo dục quốc phòng
+1
+Giáo dục thể chất 1
+BAS1106
+2
+x
+
+1
+
+2
+Giáo dục thể chất 2
+BAS1107
+2
+x
+
+2
+
+3
+Giáo dục quốc phòng
+BAS1105
+7,5
+x
+
+1
+
+Kiến thức các môn kỹ năng (chọn 3/4)
+1
+Kỹ năng tạo lập văn bản tiếng Việt
+SKD1103
+1
+
+x
+2-4
+ 
+2
+Kỹ năng thuyết trình 
+SKD1101
+1
+
+x
+2-4
+ 
+3
+Kỹ năng làm việc nhóm 
+SKD1102
+1
+
+x
+2-4
+ 
+4
+Kỹ năng đổi mới sáng tạo
+SKD1111
+1
+
+x
+2-4
+
+5
+Kỹ năng lập kế hoạch và tổ chức thực hiện công việc
+SKD1104
+1
+
+x
+2-4
+
+6
+Kỹ năng giao tiếp
+SKD1104
+1
+
+x
+2-4
+
+7
+Kỹ năng tư duy sáng tạo
+SKD1107
+1
+
+x
+2-4
+
+(*) Điều kiện để đăng ký học phần tiếng Anh Course 1 trong chương trình là sinh viên phải đạt trình độ tiếng Anh từ 225 điểm theo bài thi TOEIC Placement Test trở lên; các sinh viên chưa đạt mức điểm trên sẽ phải hoàn thành học phần tiếng Anh bổ trợ Course 0 (mã BAS1156). Kế hoạch học tập Học phần tiếng Anh thực hiện theo chương trình chi tiết riêng.
+7.2.2. Kiến thức khoa học tự nhiên và xã hội
+TT
+Tên học phần
+Mã số học phần
+Số  tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn 
+
+
+12
+Giải tích 1
+BAS1203
+3
+x
+
+1
+ 
+13
+Giải tích 2
+BAS1204
+3
+x
+
+2
+BAS1203 
+14
+Đại số
+BAS1201 
+3
+x
+
+1
+
+15
+Vật lý ứng dụng
+BAS1270
+4
+x
+
+2
+ 
+16
+Xác suất thống kê
+BAS1269 
+3
+x
+
+3
+ 
+17
+Pháp luật và sở hữu trí tuệ
+BSA12117
+2
+x
+
+3
+ 
+ 
+Tổng:
+ 
+18
+ 
+ 
+ 
+ 
+7.2.3 Khối kiến thức giáo dục chuyên nghiệp
+7.2.3.1. Kiến thức cơ sở
+TT
+Tên học phần
+Mã số học phần
+Số  tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn 
+
+
+18
+Điện tử số 
+(Digital Electronics)
+ELE1309
+3
+x
+
+4
+
+19
+An toàn bảo mật hệ thống thông tin
+INT1303
+3 
+x
+
+5
+
+20
+Toán rời rạc 1
+(Discrete Mathematics 1)
+INT1358
+3
+x
+
+2
+INT11117
+21
+Toán rời rạc 2
+(Discrete Mathematics 2)
+INT1359
+3
+x
+
+3
+INT1358
+22
+Ngôn ngữ lập trình C++
+(C++ Programming Language)
+INT1339
+3
+x
+
+2
+INT11117
+23
+Cấu trúc dữ liệu và giải thuật
+(Data structure and algorithms)
+INT1306
+3
+x
+
+3
+INT11117
+24
+Cơ sở dữ liệu
+(Databases)
+INT1313
+3
+x
+
+4
+INT11117
+25
+Kiến trúc máy tính
+(Computer Architecture)
+INT13145
+3
+x
+
+3
+INT11117
+26
+Hệ điều hành
+(Operating System)
+INT1319
+3
+x
+
+4
+INT11117
+27
+Lập trình hướng đối tượng
+(Object-oriented Programming)
+INT1332
+3
+x
+
+4
+INT11117
+28
+Mạng máy tính
+(Computer Networks)
+INT1336
+3
+x
+
+5
+INT11117
+29
+Nhập môn công nghệ phần mềm
+(Introduction to Software Engineering)
+INT1340
+3
+x
+
+5
+INT11117
+30
+Nhập môn trí tuệ nhân tạo
+(Introduction to Artificial Intelligence)
+INT1341
+3 
+x
+
+4
+INT11117
+31
+Phân tích và thiết kế hệ thống thông tin (Information System Analysis and Design)
+INT1342
+3 
+x
+
+6
+INT1340
+32
+Lập trình Web
+(Web Programming)
+INT1434
+3
+x
+
+5
+INT1332
+33
+Thực tập cơ sở 
+(Foundational Internship)
+INT13147
+3
+x
+
+6
+INT11117
+ 
+Tổng:
+
+48
+
+
+
+
+7.2.3.2. Kiến thức chuyên ngành
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học
+kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+34
+Kho dữ liệu và khai phá dữ liệu (Data warehouse and mining)
+INT1422
+3
+x
+
+5
+INT1313
+35
+Phát triển hệ thống thương mại điện tử (E-commerce systems development)
+INT1446
+3
+x
+
+6
+INT1340
+36
+IOT và ứng dụng
+(IOT and Applications)
+INT14149
+3
+x
+
+6
+INT1336
+37
+Thực tập tốt nghiệp (bậc đại học)
+(Industrial Internship)
+INT15196
+6
+x
+
+7
+INT13147
+Học phần tự chọn chuyên ngành bậc cử nhân (chọn 3/8)
+A1
+Triển khai và vận hành hệ thống
+(System deployment and operations)
+INT14211
+3
+
+x
+6,7
+INT1340
+A2
+Cơ sở dữ liệu phân tán
+(Distributed Database)
+INT14148
+3
+
+x
+6,7
+INT1313
+A3
+Phát triển hệ thống thông tin quản lý (Information management system development)
+INT1445
+3
+
+x
+6,7
+INT1340
+A4
+Phân tích và trực quan hóa dữ liệu
+(Data Analysis and Visualization)
+INT14210
+3
+
+x
+6,7
+BAS1269
+A5
+Phát triển ứng dụng cho các thiết bị di động
+(Mobile application development)
+INT1449
+3
+
+x
+6,7
+INT1340
+A6
+Hệ cơ sở dữ liệu đa phương tiện
+(Multimedia Database)
+INT1418
+3
+
+x
+6,7
+INT1313
+A7
+Học máy
+(Machine Learning)
+INT14153
+3
+
+x
+6,7
+INT1341
+A8
+Quản lý dự án phần mềm
+(Software project management)
+INT14189
+3
+
+x
+6,7
+INT1340
+ 
+Tổng:
+
+24
+
+
+
+
+B. Phần kiến thức trình độ thạc sĩ
+7.2.4. Kiến thức cơ sở
+7.2.4.1. Định hướng ứng dụng
+TT
+Tên học phần
+Mã số học phần
+Số  tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn 
+
+
+41
+Tính toán phân tán 
+(Distributed Computing)
+INT4334
+3
+x
+
+7
+
+42
+Phương pháp nghiên cứu khoa học 
+(Methodologies of scientific research)
+SKD4112
+2
+x
+
+7
+
+43
+Công cụ toán cho công nghệ thông tin 
+(Mathematic Tools for Information Technology)
+INT41218
+2
+x
+
+7
+
+44
+Thuật toán nâng cao 
+(Advanced Algorithms)
+INT4326
+2
+x
+
+7
+
+45
+Các hệ thống Cơ sở dữ liệu (Database Systems)
+INT4327
+3
+x
+
+8
+INT1313
+46
+Dữ liệu lớn 
+(Big Data)
+INT4355
+3
+x
+
+8
+INT1313
+
+Các học phần tự chọn (chọn 3/8 học phần)
+B1
+Tìm kiếm và truy xuất thông tin
+(Information Retrieval)
+INT4328
+3
+
+x
+8
+INT4326
+B2
+Các kỹ thuật tối ưu (Optimization Techniques)
+INT4329
+3
+
+x
+8
+INT41218
+B3
+Phương pháp phân tích số liệu thống kê 
+(Statistical analysis methods)
+INT4330
+3
+
+x
+8
+INT41218
+B4
+Nhận dạng mẫu 
+(Patterns Recognition)
+INT4331
+3
+
+x
+8
+
+B5
+Khai phá dữ liệu nâng cao (Advanced Data Mining)
+INT4332
+3
+
+x
+8
+INT1313
+B6
+Các mô hình lập trình tiên tiến (Advanced Programming Paradigms)
+INT4333
+3
+
+x
+8
+INT4326
+B7
+Hệ điều hành mạng 
+(Network Operating Systems)
+INT4335
+3
+
+x
+8
+
+
+Tổng:
+
+24
+
+
+
+
+7.2.4.2. Định hướng nghiên cứu
+TT
+Tên học phần
+Mã số học phần
+Số  tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn 
+
+
+41
+Tính toán phân tán 
+(Distributed Computing)
+INT4334
+3
+x
+
+7
+
+42
+Phương pháp nghiên cứu khoa học 
+(Methodologies of scientific research)
+SKD4112
+2
+x
+
+7
+
+43
+Công cụ toán cho công nghệ thông tin 
+(Mathematic Tools for Information Technology)
+INT41218
+2
+x
+
+7
+
+44
+Thuật toán nâng cao 
+(Advanced Algorithms)
+INT4326
+2
+x
+
+7
+
+45
+Các hệ thống Cơ sở dữ liệu (Database Systems)
+INT4327
+3
+x
+
+8
+INT1313
+46
+Dữ liệu lớn 
+(Big Data)
+INT4355
+3
+x
+
+8
+INT1313
+47
+Chuyên đề nghiên cứu HTTT 1
+INT4336
+6
+x
+
+8
+SKD4112
+
+Các học phần tự chọn (chọn 1/8 học phần)
+B1
+Tìm kiếm và truy xuất thông tin (Information Retrieval)
+INT4328
+3
+
+x
+8
+INT4326
+B2
+Các kỹ thuật tối ưu 
+(Optimization Techniques)
+INT4329
+3
+
+x
+8
+INT41218
+B3
+Phương pháp phân tích số liệu thống kê 
+(Statistical analysis methods)
+INT4330
+3
+
+x
+8
+INT41218
+B4
+Nhận dạng mẫu 
+(Patterns Recognition)
+INT4331
+3
+
+x
+8
+
+B5
+Khai phá dữ liệu nâng cao (Advanced Data Mining)
+INT4332
+3
+
+x
+8
+INT1313
+B6
+Các mô hình lập trình tiên tiến (Advanced Programming Paradigms)
+INT4333
+3
+
+x
+8
+INT4326
+B7
+Hệ điều hành mạng 
+(Network Operating Systems)
+INT4335
+3
+
+x
+8
+
+
+Tổng:
+
+24
+
+
+
+
+7.2.5. Kiến thức chuyên ngành
+7.2.5.1. Định hướng ứng dụng
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+50
+Điện toán đám mây 
+(Clouds Computing)
+INT4437
+3
+x
+
+8
+INT1336
+51
+Các hệ thống IoT hiện đại (Modern IoT Systems)
+INT4438
+3
+x
+
+9
+INT1336
+52
+Kiến trúc hệ thống thông tin (Information System Architecture)
+INT4439
+3
+x
+
+9
+
+
+Các học phần tự chọn (chọn 4/8 học phần)
+C1
+Thiết kế và tối ưu mạng (Network Design and Optimization)
+INT4440
+3
+
+x
+9
+INT1336
+C2
+An toàn hệ thống thông tin (Information System Security)
+SEC4342
+3
+
+x
+9
+
+C3
+Tối ưu và vận hành HTTT (Operation and Optimization in information system)
+INT4441
+3
+
+x
+9
+INT4327
+C4
+Blockchain trong HTTT (Blockchain in information systems)
+INT4442
+3
+
+x
+9
+
+C5
+Mô hình hóa và mô phỏng các hệ thống phức tạp 
+(Modeling and Simulation of Complex Systems)
+INT4443
+3
+
+x
+9
+
+C6
+Kiểm thử các HTTT (Information Systems Testing)
+INT4444
+3
+
+x
+9
+
+C7
+Quản trị mạng 
+(Network Administration )
+INT4445
+3
+
+x
+9
+INT1336
+C8
+Hệ thống thông tin doanh nghiệp 
+(Enterprises Information Systems)
+INT4446
+3
+
+x
+9
+INT4327
+
+Tổng
+
+21
+
+
+
+
+7.2.5.2. Định hướng nghiên cứu
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+50
+Điện toán đám mây 
+(Clouds Computing)
+INT4437
+3
+x
+
+8
+INT1336
+51
+Các hệ thống IoT hiện đại (Modern IoT Systems)
+INT4438
+3
+x
+
+9
+INT1336
+52
+Kiến trúc hệ thống thông tin (Information System Architecture)
+INT4439
+3
+x
+
+9
+
+53
+Chuyên đề nghiên cứu HTTT 2
+INT4447
+6
+x
+
+9
+INT4336
+
+Các học phần tự chọn (chọn 2/4 học phần)
+C1
+Trí tuệ nhân tạo trong HTTT (AI in information systems)
+INT4448
+3
+
+x
+9
+INT1341
+C2
+Hệ thống thông tin tác tử (Agentic Information System)
+INT4449
+3
+
+x
+9
+
+C3
+Khai phá tri thức và Phân tích dữ liệu 
+(Knowledge mining and data analytics)
+INT4450
+3
+
+x
+9
+INT4327
+C4
+Quản trị nghiệp vụ thông minh nâng cao 
+(Advanced Business Intelligence)
+INT4451
+3
+
+x
+9
+
+
+Tổng
+
+21
+
+
+
+
+7.2.6. Tốt nghiệp
+Định hướng ứng dụng
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+53
+Thực tập tốt nghiệp (bậc thạc sĩ)
+INT4552
+6
+x
+
+10
+
+54
+Đề án tốt nghiệp 
+(Master Project for Information Systems)
+INT4553
+9
+x
+
+10
+
+
+Tổng
+
+15
+
+
+
+
+Định hướng nghiên cứu
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+54
+Luận văn thạc sĩ hệ thống thông tin 
+(Master Thesis for Information Systems)
+INT4554
+15
+x
+
+10
+INT4447
+
+Tổng
+
+15
+
+
+
+
+8. HƯỚNG DẪN TỔ CHỨC THỰC HIỆN CHƯƠNG TRÌNH
+8.1. Kế hoạch học tập chuẩn (Chi tiết kèm theo)
+8.2 Tiến trình học tập chuẩn (Chi tiết kèm theo)
+8.3. Danh sách các học phần tiên quyết, trước sau (Chi tiết kèm theo)
+8.4. Phương thức tổ chức đào tạo
+Chương trình đào tạo được tổ chức theo định hướng với các học phần cốt lõi và các học phần tài năng gắn với các LAB nghiên cứu dưới sự hướng dẫn của các giảng viên có trình độ chuyên môn cao; bên cạnh đó là các hoạt động bổ trợ, tăng cường kỹ năng cũng như lồng ghép với chứng chỉ nghề nghiệp chuyên môn. Cụ thể:
+Các học phần cốt lõi: gồm các học phần cơ sở và chuyên ngành quan trọng được tổ chức dạy – học theo lớp riêng. Phương pháp giảng dạy được định hướng lấy người học làm trung tâm, áp dụng các phương pháp giảng dạy hiện đại như: Học tập dựa trên vấn đề, Học tập dựa trên dự án, Học tập dựa trên seminar chuyên đề, Học tập dựa trên nghiên cứu, có bổ sung các kiến thức chuyên sâu, một số học phần được giảng dạy song ngữ (tiếng Việt kết hợp tiếng Anh), tăng thời lượng tự học, thực hành, giao tiếp, hoạt động nhóm và sáng tạo. Phương pháp đánh giá theo năng lực người học, thực hiện liên tục trong suốt quá trình, đánh giá đa chiều, có phản biện học thuật, liên hệ với sản phẩm và môi trường thực tiễn.  Danh mục các học phần cốt lõi như Phụ lục 1.1 kèm theo.
+Các học phần tài năng: Là các học phần đặc thù được thiết kế riêng trong khuôn khổ chương trình Thạc sĩ tài năng nhằm nâng cao kiến thức, định hướng chuyên sâu, xây dựng nền tảng nghiên cứu và phát triển dự án, sản phẩm. Các học phần này được định hướng đáp ứng nhu cầu nhân lực chất lượng cao cho thị trường ICT. Danh mục các học phần tài năng như Phụ lục 1.2 kèm theo.
+Các hoạt động ngoại khoá: Là hoạt động học thuật, kỹ năng hoặc giao lưu học hỏi được tổ chức ngoài khung thời khóa biểu chính khóa, tập trung vào các xu hướng nhằm tăng cường kỹ năng toàn diện cho sinh viên của chương trình tài năng, tiếp cận công nghệ và kiến thức tiên tiến, môi trường làm việc và phát triển sau này. Danh mục các hoạt động ngoại khoá như Phụ lục 1.2 kèm theo.
+Các học phần kỹ năng mềm: bồi dưỡng năng lực khởi nghiệp, tư duy đổi mới sáng tạo về công nghệ, kỹ năng lãnh đạo, giao tiếp chuyên nghiệp, và các kỹ năng mềm cần thiết khác. Các học phần này góp phần hình thành tư duy chiến lược và khả năng thích ứng trong môi trường liên ngành ICT. Danh mục các học phần kỹ năng mềm như Phụ lục 1.2 kèm theo.
+Các chứng chỉ chuyên môn nghề nghiệp: Gồm các chứng chỉ chuyên môn, nghiệp vụ do các cơ quan, tổ chức, doanh nghiệp có uy tín trong nước và quốc tế cấp, phù hợp với lĩnh vực Hệ thống thông tin và Công nghệ thông tin. Người học đạt được các chứng chỉ này có thể được xem xét công nhận, quy đổi kết quả học tập đối với các học phần có nội dung và chuẩn đầu ra tương đương theo quy định của Học viện. Danh mục các chứng chỉ chuyên môn nghề nghiệp và các học phần được công nhận quy đổi kết quả học tập được quy định tại Phụ lục 1.3 kèm theo.
+8.5. Phương pháp giảng dạy và kiểm tra đánh giá
+Phương pháp giảng dạy và kiểm tra đánh giá được thiết kế và cụ thể hoá trong đề cương chi tiết của từng học phần. Cụ thể, sau đây là phương pháp giảng dạy và kiểm tra đánh giá được thực hiện với các học phần cốt lõi:
+a. Các phương pháp giảng dạy
+- Học tập dựa trên vấn đề (Problem-based Learning): rèn luyện tư duy hệ thống, năng lực phân tích – tổng hợp – phản biện; phát triển kỹ năng làm việc nhóm và giao tiếp. 
+- Học tập dựa trên dự án (Project-based Learning): gắn kết lý thuyết – thực tiễn, phát triển năng lực giải quyết vấn đề thực tế, khởi nghiệp và sáng tạo.
+- Học tập dựa trên seminar chuyên đề (Seminar-based Learning): phát triển kỹ năng thuyết trình, tư duy phản biện, năng lực lãnh đạo.
+- Học tập dựa trên nghiên cứu (Research-based Learning): chuyển vai trò của sinh viên từ người tiếp thu kiến thức thành người tạo ra tri thức mới.
+b. Các phương pháp đánh giá
+- Đánh giá dựa trên năng lực người học: chuyển trọng tâm từ đánh giá ghi nhớ kiến thức sang đánh giá năng lực phân tích, đánh giá và sáng tạo trong bối cảnh thực tiễn.
+- Tăng cường đánh giá quá trình học tập một cách thường xuyên, liên tục: khuyến khích nỗ lực học tập bền vững và phát triển năng lực tự học.
+- Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp: đánh giá khả năng vận dụng, tổng hợp kiến thức, kỹ năng và phẩm chất của người học để giải quyết các vấn đề thực tiễn thông qua các sản phẩm như: bài tập thiết kế, mô hình, báo cáo kỹ thuật, dự án liên ngành…
+- Đánh giá đa chiều, có phản biện học thuật: đánh giá các năng lực bậc cao, tư duy phản biện, giao tiếp học thuật và khả năng điều chỉnh theo phản hồi.
+- Đánh giá trong môi trường thực tiễn: đánh giá toàn diện năng lực vận dụng kiến thức, khả năng thích ứng, làm việc nhóm, tự đánh giá và phát triển nghề nghiệp trong bối cảnh công việc thực tế tại doanh nghiệp, phòng thí nghiệm, hoặc cơ sở thực tập.
+9. MÔ TẢ TÓM TẮT CÁC HỌC PHẦN
+9.1. Các học phần của phần chương trình cử nhân
+9.1.1. Khối kiến thức chung
+Triết học Mác - Lênin
+- Mã học phần: BAS1150
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần được cấu trúc thành ba chương: Chương 1, trình bày những nét khái quát nhất về triết học, triết học Mác – Lênin, vai trò của triết học Mác – Lênin trong đời sống xã hội; Chương 2, trình bày những nội dung cơ bản của chủ nghĩa duy vật biện chứng, gồm vấn đề vật chất và ý thức, phép biện chứng duy vật, lý luận nhận thức của chủ nghĩa duy vật biện chứng; Chương 3, trình bày những nội dung cơ bản của chủ nghĩa duy vật lịch sử, gồm vấn đề hình thái kinh tế xã hội, giai cấp và dân tộc, nhà nước và cách mạng xã hội, triết học về con người. Với nội dung chính là nghiên cứu những quy luật vận động, phát triển chung nhất của tự nhiên, xã hội và tư duy, triết học Mác – Lê nin xây dựng thế giới quan và phương pháp luận chung nhất của nhận thức khoa học và thực tiễn cách mạng. Đây là điều kiện tiên quyết để nghiên cứu toàn bộ hệ thống lý luận của chủ nghĩa Mác-lênin, đồng thời là điều kiện tiên quyết để vận dụng nó một cách sáng tạo trong hoạt động nhận thức và hoạt động thực tiễn nhằm giải quyết những vấn đề mà đời sống xã hội của đất nước, của thời đại đang đặt ra.
+Kinh tế chính trị Mác - Lênin
+- Mã học phần: BAS1151
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần gồm 6 chương cung cấp cho người học những kiến thức về kinh tế chính trị Mác - Lênin trong bối cảnh phát triển kinh tế của đất nước và thế giới hiện nay như vấn đề về: đối tượng, phương pháp, chức năng của kinh tế chính trị Mác - Lênin, hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường, lý luận của C. Mác về giá trị thặng dư, tích lũy tư bản, các hình thức biểu hiện của giá trị thặng dư, cạnh tranh và độc quyền trong nền kinh tế thị trường, nền kinh tế thị trường định hướng xã hội chủ nghĩa và quan hệ lợi ích kinh tế ở Việt Nam, công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế của Việt Nam... Với yêu cầu cơ bản là đảm bảo tính hệ thống, khoa học cập nhật tri thức mới, gắn với thực tiễn.
+Chủ nghĩa xã hội khoa học
+- Mã học phần: BAS1152
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Ngoài chương 1 nhằm trình bày những vấn đề cơ bản có tính nhập môn về quá trình hình thành và phát triển của Chủ nghĩa xã hội khoa học và một số vấn đề chung của học phần, nội dung học phần được cấu trúc thành 6 chương: từ chương 2 đến chương 7 trình bày những nội dung cơ bản của Chủ nghĩa xã hội khoa học theo mục tiêu môn học, bao gồm những nội dung cơ bản về sứ mệnh lịch sử của giai cấp công nhân, về chủ nghĩa xã hội và con đường quá độ đi lên chủ nghĩa xã hội, về dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa, về cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội, về vấn đề dân tộc và tôn giáo trong thời kỳ quá độ đi lên chủ nghĩa xã hội, về vấn đề gia đình trong thời kỳ quá độ đi lên chủ nghĩa xã hội.
+Lịch sử Đảng cộng sản Việt Nam
+- Mã học phần: BAS1153
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần gồm 4 chương cung cấp cho người học những kiến thức về đối tượng, mục đích, nhiệm vụ, phương pháp nghiên cứu, học tập môn Lịch sử Đảng và những kiến thức cơ bản, cốt lõi, hệ thống về sự ra đời của Đảng (1920-1930), quá trình Đảng lãnh đạo cuộc đấu tranh giành chính quyền (1930-1940), lãnh đạo hai cuộc kháng chiến, hoàn thành giải phóng dân tộc, thống nhất đất nước (1945-1975), lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975-2018)... Qua đó khẳng định các thành công, nêu các hạn chế, tổng kết rút kinh nghiệm về sự lãnh đạo cách mạng của Đảng để giúp người học nâng cao nhận thức, niềm tin đối với Đảng và khả năng vận dụng kiến thức đã học vào thực tiễn công tác, góp phần xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
+Tư tưởng Hồ Chí Minh
+- Mã học phần: BAS1122
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Nội dung học phần được cấu trúc thành 6 chương, cung cấp cho sinh viên kiến thức cơ bản về khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh; về cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội; về Đảng Cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân; Tư tưởng Hồ Chí Minh về Đại đoàn kết toàn dân tộc và đoàn kết quốc tế; về văn hóa, đạo đức, con người.
+Tiếng Anh (Course 1)
+- Mã học phần: BAS1157
+- Số tín chỉ: 4
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 1) là chương trình học 4 kỹ năng kết hợp (đọc, nói, viết, nghe). Học phần cung cấp cho sinh viên những kiến thức cơ bản về:  Các hiện tượng ngữ pháp tiếng Anh dành cho người mới bắt đầu như động từ to be, thời hiện tại đơn, quá khứ đơn, quá khứ tiếp diễn, danh từ đếm được và không đếm được, tính từ và trạng từ đơn giản, các cấu trúc câu đơn,…; Những từ vựng được sử dụng trong các tình huống hàng ngày và để nói về các chủ đề quen thuộc của cuộc sống như mua sắm, sức khỏe, thể thao, ăn uống, gia đình, nơi ở, sở thích, kỳ nghỉ và du lịch ; Cách phát âm phụ âm, nguyên âm, từ và trọng âm từ, ngữ điệu câu trần thuật và câu hỏi. Các kỹ năng ngôn ngữ đọc, nghe, nói, viết với độ khó tương ứng Bậc 2 theo khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam (hay Bậc A2 theo khung tham chiếu Châu Âu).
+Tiếng Anh (Course 2)
+- Mã học phần: BAS1158
+- Số tín chỉ: 4
+- Học phần tiên quyết: 
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 2) được tiến hành theo mô hình học tập kết hợp: học tập trực tiếp kết hợp học tập trực tuyến.  Học phần này cung cấp cho sinh viên những kiến thức cơ bản về:  Các hiện tượng ngữ pháp tiếng Anh như quá khứ tiếp diễn, hiện tại hoàn thành, hiện tại hoàn thành tiếp diễn, các thì tương lai, sự hòa hợp giữa chủ ngữ và động từ, dạng của động từ, câu điều kiện, câu bị động, mệnh đề quan hệ. mệnh đề danh từ, mệnh đề tính ngữ, động từ khuyết thiếu; Những từ vựng được sử dụng trong các tình huống hàng ngày và thực hành hội thoại nói về các chủ đề quen thuộc của cuộc sống như ăn uống, đi mua sắm, du lịch, thời tiết, học tập, giáo dục, công việc, nghệ thuật và giải trí, các dịp đặc biệt, tiết kiệm năng lượng, ngân hàng, công nghệ thông tin… Các kỹ năng ngôn ngữ đọc, nghe, nói, viết với độ khó tương ứng Bậc 2 theo khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam, hay Bậc A2 theo khung tham chiếu Châu Âu). Luyện tập với các phần trong bài thi TOEIC quốc tế.
+Tiếng Anh (Course 3)
+- Mã học phần: BAS1159
+- Số tín chỉ: 4
+- Học phần tiên quyết: 
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 3) được tiến hành theo mô hình học tập kết hợp: học tập trực tiếp kết hợp học tập trực tuyến. Học phần này cung cấp cho sinh viên những kiến thức cơ bản về:  Các hiện tượng ngữ pháp tiếng Anh như hiện tại đơn, quá khứ đơn, hiện tại tiếp diễn, hiện tại hoàn thành, các mệnh đề tính từ và các trạng ngữ chỉ thời gian, nơi chốn cách viết câu mở đoạn và câu kết đoạn trong một đoạn văn và phát triển viết một đoạn văn hoàn chỉnh bao gồm câu chủ đề, các câu triển khai trong đoạn và câu kết đoạn; Những từ vựng được sử dụng trong các tình huống hàng ngày và thực hành hội thoại nói về các chủ đề quen thuộc của cuộc sống, các hoạt động cuối tuần, các loại phương tiện giao thông, làm thế nào để giữ sức khỏe, phim ảnh, du lịch... Các kỹ năng ngôn ngữ đọc, nghe, nói, viết với độ khó tương ứng Bậc 2 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, hay Bậc A2 theo khung tham chiếu Châu Âu; Cấu trúc của bài thi TOEIC quốc tế.
+Tiếng Anh (Course 3 Plus)
+- Mã học phần: BAS1160
+- Số tín chỉ: 2
+- Học phần tiên quyết: 
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 3 Plus) được thực hiện theo định hướng luyện thi TOEIC. Học phần này được thiết kế với mục đích giúp sinh viên tạo được sự chuyển tiếp giữa việc nâng cao năng lực tiếng Anh với định hướng bài thi TOEIC. Các tài liệu bổ trợ trong học phần này được lựa chọn kỹ lưỡng, tạo được sự tương thích với 7 phần của bài thi.
+Nhập môn CÔNG NGHỆ SỐ và ỨNG DỤNG AI
+- Mã học phần: INT11205
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần Nhập môn Công nghệ số và Ứng dụng AI cung cấp cho sinh viên những kiến thức và kỹ năng nền tảng về công nghệ số trong bối cảnh chuyển đổi số và sự phát triển mạnh mẽ của trí tuệ nhân tạo. Học phần góp phần hình thành tư duy công nghệ, nâng cao nhận thức về vai trò của công nghệ số và mở rộng khả năng ứng dụng AI dựa trên những kiến thức, kỹ năng và trải nghiệm mà sinh viên đã được trang bị ở các bậc học trước.
+Nội dung học phần bao gồm các kiến thức cơ bản về công nghệ số, kỹ năng sử dụng các nền tảng và công cụ văn phòng phổ biến như Microsoft Office, cùng với việc khai thác một số công cụ trí tuệ nhân tạo thông dụng như ChatGPT, Copilot, Canva AI và Notion AI. Thông qua các bài giảng, bài tập thực hành và hoạt động trải nghiệm, sinh viên được hướng dẫn sử dụng các công cụ số và AI để tìm kiếm, xử lý, trình bày thông tin, hỗ trợ học tập và giải quyết các nhiệm vụ thực tiễn. Học phần đồng thời chú trọng rèn luyện thái độ học tập tích cực, khả năng tư duy, tinh thần chủ động và ý thức vận dụng công nghệ nhằm nâng cao hiệu quả học tập và công việc.
+Kết thúc học phần, sinh viên có khả năng nhận biết và trình bày được những vấn đề cơ bản, cập nhật về công nghệ số và ứng dụng trí tuệ nhân tạo; sử dụng hiệu quả các công cụ văn phòng phục vụ học tập và công việc; đồng thời biết lựa chọn, khai thác các công cụ AI phù hợp để hỗ trợ quá trình học tập, xử lý thông tin và giải quyết các nhiệm vụ trong thực tiễn. Những kiến thức và kỹ năng được trang bị trong học phần là nền tảng để sinh viên học tập hiệu quả các học phần cơ sở ngành và chuyên ngành trong các giai đoạn tiếp theo.
+NHẬP MÔN TIN HỌC VÀ LẬP TRÌNH
+- Mã môn học: INT11117
+- Số tín chỉ: 3
+- Tóm tắt nội dung môn học 
+Nhập môn tin học và lập trình là học phần bắt buộc thuộc học kỳ 1, năm học thứ  nhất. Học phần cung cấp những kiến thức nền tảng về tin học và lập trình cho sinh viên đại học. Nội dung học phần giúp sinh viên hiểu các khái niệm cơ bản về dữ liệu và thông tin, tổ chức và kiến trúc máy tính, bộ nhớ, thiết bị nhập/xuất, hệ điều hành và môi trường phát triển phần mềm. Đồng thời, học phần trang bị tư duy thuật toán và kỹ năng giải quyết vấn đề thông qua việc phân tích bài toán, thiết kế, kiểm thử và hiện thực hóa thuật toán bằng ngôn ngữ lập trình Python.
+Bên cạnh các kiến thức lập trình cơ bản như kiểu dữ liệu, cấu trúc điều khiển, hàm, mô-đun, xử lý tệp và lập trình hướng đối tượng, sinh viên còn được thực hành phát triển các ứng dụng đơn giản với Python. Các nội dung ứng dụng bao gồm lập trình giao diện đồ họa, lập trình Web, kết nối và thao tác cơ sở dữ liệu, lập trình mạng và phân tích dữ liệu cơ bản. Sau khi hoàn thành học phần, sinh viên có khả năng phân tích bài toán, thiết kế thuật toán, xây dựng chương trình Python và vận dụng kiến thức lập trình để giải quyết các bài toán thực tiễn.
+Pháp luật VÀ SỞ HỮU TRÍ TUỆ 
+- Mã học phần: BSA12117
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản về nhà nước và pháp luật nói chung, nhà nước và pháp luật Việt Nam; các quy định của những ngành luật cơ bản và sở hữu trí tuệ trong hệ thống pháp luật Việt Nam.
+9.1.2. Khối kiến thức khoa học tự nhiên và xã hội
+Giải tích 1  
+- Mã học phần: BAS1203
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức sau: Tập số và dãy số: Tập số thực và tập số phức, dãy số và giới hạn của dãy số; Phép tính vi phân của hàm số một biến số: Hàm số, giới hạn, liên tục, đạo hàm, vi phân, các định lý về giá trị trung bình  và các ứng dụng; Phép tính tích phân: Tích phân bất định, tích phân xác định và tích phân suy rộng, các ứng dụng của tích phân; Lý thuyết chuỗi: Chuỗi số, chuỗi số dương, chuỗi số có dấu bất kỳ, chuỗi hàm số, chuỗi lũy thừa và chuỗi Fourier.
+Giải tích 2
+- Mã học phần: BAS1204
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức sau: Phép tính vi phân của hàm nhiều biến; Tích phân của hàm nhiều biến: Tích phân phụ thuộc tham số. Tích phân bội. Tích phân đường, tích phân mặt và các ứng dụng; Phương trình và hệ phương trình vi phân.
+Đại số 
+- Mã học phần: BAS1201
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức sau: Suy diễn logic hình thức; Lý thuyết tập hợp, ánh xạ; Cấu trúc đại số Boole; Công cụ đại số tuyến tính, bao gồm không gian véc tơ, ma trận, định thức, hệ phương trình tuyến tính, ánh xạ tuyến tính, tích vô hướng không gian véc tơ Euclide và dạng toàn phương.
+Vật lý ứng dụng
+- Mã học phần: BAS1270
+- Số tín chỉ: 4
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần bao gồm: (1) Lý thuyết: Các kiến thức cơ bản về Cơ – Điện – Từ – Quang, với các nội dung chính: cơ học, điện trường tĩnh, từ trường không đổi, trường điện từ và sóng điện từ, quang học sóng, thuyết tương đối, quang học lượng tử, cơ học lượng tử, nguyên tử; và (2) Thực hành: bao gồm các bài thực hành về điện trường biến thiên theo thời gian, chuyển động của electron trong điện-từ trường, hiện tượng nhiễu xạ ánh sáng, hiện tượng quang điện.
+Xác suất thống kê 
+- Mã học phần: BAS1269
+- Số tín chỉ: 3
+- Học phần tiên quyết: 
+- Tóm tắt nội dung: 
+Học phần bao gồm: (1) Phần lý thuyết xác suất nghiên cứu tính quy luật của các hiện tượng ngẫu nhiên: Biến cố, xác suất của biến cố, các quy tắc tính xác suất. Biến ngẫu nhiên, véc tơ ngẫu nhiên. Các đặc trưng của biến ngẫu nhiên và véc tơ ngẫu nhiên. Luật số lớn và định lý giới hạn trung tâm; và (2) Phần toán thống kê: Cơ sở lý thuyết mẫu; Các bài toán ước lượng và kiểm định giả thiết thống kê.
+9.1.3. Khối kiến thức cơ sở ngành
+ĐIỆN TỬ SỐ
+- Mã môn học: ELE1309
+- Số tín chỉ: 3.
+- Học phần tiên quyết: 
+- Tóm tắt nội dung:
+Môn học này giới thiệu một cách có hệ thống các khái niệm cơ bản về điện tử kỹ thuật số, trình bày cho họ các mạch điện tử kỹ thuật số điển hình với giải thích đầy đủ từ các cổng logic kỹ thuật số cơ bản đến các mạch tổ hợp và tuần tự, đồng thời cung cấp cho họ các phương pháp cơ bản để phân tích và thiết kế mạch điện tử kỹ thuật số. Sinh viên sẽ hiểu các nguyên tắc cơ bản của thiết kế logic tổ hợp và tuần tự. Sinh viên cũng củng cố kỹ năng của mình về cách thiết kế một máy tính đa năng, bắt đầu với các cổng logic đơn giản đến các mạch kỹ thuật số phức tạp.
+AN TOÀN VÀ BẢO MẬT HỆ THỐNG THÔNG TIN
+- Mã môn học: INT1303
+- Số tín chỉ: 3.
+- Học phần tiên quyết: 
+- Tóm tắt nội dung:
+Mục tiêu của học phần là trang bị cho sinh viên các kiến thức và kỹ năng cơ bản về an toàn thông tin, an toàn hệ thống thông tin và mạng. Nội dung của học phần bao gồm: (1) các khái niệm và nguyên tắc cơ bản về đảm bảo an toàn thông tin, an toàn máy tính, an toàn hệ thống thông tin và mạng; (2) các dạng tấn công, xâm nhập thường gặp và các dạng phần mềm độc hại; (3) các giải pháp, kỹ thuật và công cụ phòng chống, đảm bảo an toàn thông tin, hệ thống và mạng; và (4) vấn đề quản lý an toàn thông tin, chính sách, pháp luật và đạo đức an toàn thông tin.
+TOÁN RỜI RẠC 1
+- Mã môn học: INT 1358
+- Số tín chỉ: : 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung:
+Học phần Toán rời rạc 1 là học phần nền tảng trong chương trình đào tạo ngành Khoa học máy tính, cung cấp cho sinh viên các kiến thức cơ bản về toán học rời rạc và vai trò của lĩnh vực này trong khoa học máy tính và kỹ thuật máy tính. Học phần giúp sinh viên hình thành tư duy logic, tư duy thuật toán và khả năng mô hình hóa các bài toán có cấu trúc rời rạc. Nội dung học phần tập trung nghiên cứu các đối tượng rời rạc, các tập hợp hữu hạn hoặc đếm được, mối quan hệ giữa các tập hợp và các quá trình được thực hiện qua một số hữu hạn các bước.
+Các chủ đề chính của học phần bao gồm các nguyên lý đếm, phương pháp liệt kê, quan hệ và các cấu trúc toán học rời rạc cơ bản. Sinh viên được tiếp cận nhiều phương pháp khác nhau để phân tích và giải quyết các bài toán đếm, liệt kê, tối ưu hóa và các bài toán tổ hợp thường gặp. Thông qua các bài giảng, bài tập và hoạt động giải quyết vấn đề, sinh viên có cơ hội vận dụng kiến thức toán học để mô hình hóa, phân tích và tìm lời giải cho các bài toán trong khoa học máy tính và kỹ thuật.
+Học phần góp phần phát triển cho sinh viên khả năng suy luận logic, tư duy trừu tượng, kỹ năng chứng minh và năng lực lựa chọn phương pháp phù hợp để giải quyết các bài toán rời rạc. Những kiến thức và kỹ năng được trang bị trong học phần là cơ sở quan trọng để sinh viên tiếp tục nghiên cứu các lĩnh vực như cấu trúc dữ liệu và giải thuật, lý thuyết đồ thị, cơ sở dữ liệu, trí tuệ nhân tạo, tối ưu hóa và an toàn thông tin.
+Kết thúc học phần, sinh viên có khả năng nhận diện và mô hình hóa các bài toán rời rạc, áp dụng các nguyên lý và phương pháp toán học phù hợp để giải quyết các bài toán đếm, liệt kê và tối ưu hóa, đồng thời vận dụng kiến thức đã học vào việc phân tích và phát triển các giải pháp trong khoa học máy tính và kỹ thuật.
+TOÁN RỜI RẠC 2
+- Mã môn học: INT 1359
+- Số tín chỉ: : 3
+- Học phần tiên quyết: INT1358
+- Tóm tắt nội dung
+Học phần Toán rời rạc 2 là học phần thuộc khối kiến thức cơ sở ngành của chương trình đào tạo ngành Khoa học máy tính, cung cấp cho sinh viên các kiến thức nâng cao về toán học rời rạc và các ứng dụng của chúng trong khoa học máy tính và kỹ thuật máy tính. Học phần tập trung nghiên cứu cấu trúc đồ thị, mô hình đồ thị và các phương pháp biểu diễn đồ thị trong lập trình máy tính, qua đó giúp sinh viên hiểu cách mô hình hóa và giải quyết các bài toán có cấu trúc mạng.
+Nội dung học phần bao gồm các thuật toán tìm kiếm trên đồ thị, tìm đường đi ngắn nhất giữa hai đỉnh, xử lý các đồ thị đặc biệt như đồ thị Euler và đồ thị Hamilton, xây dựng cây khung, cây khung tối ưu và xác định luồng cực đại trong mạng. Thông qua các bài giảng, bài tập phân tích và thực hành lập trình, sinh viên được tiếp cận nhiều phương pháp khác nhau để thiết kế, triển khai và đánh giá các thuật toán hiệu quả dựa trên đồ thị nhằm giải quyết các bài toán thực tiễn.
+Kết thúc học phần, sinh viên có khả năng mô hình hóa các bài toán bằng đồ thị, lựa chọn phương pháp biểu diễn phù hợp, thiết kế và triển khai các thuật toán tìm kiếm, tìm đường đi, xây dựng cây khung và tối ưu hóa luồng mạng. Học phần đồng thời góp phần phát triển tư duy logic, tư duy thuật toán, khả năng phân tích độ phức tạp và kỹ năng lựa chọn giải pháp phù hợp cho các bài toán trong khoa học máy tính và kỹ thuật.
+NGÔN NGỮ LẬP TRÌNH C++
+- Mã môn học         : INT 1339
+- Số tín chỉ:             : 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung
+Môn học này cung cấp cho người học các kiến thức lập trình cấu trúc, lập trình hướng đối tượng và lập trình nâng cao bằng ngôn ngữ lập trình C++. Đối với lập trình cấu trúc trong C++, người học được cung cấp những kỹ năng liên quan đến cấu trúc lệnh, cấu trúc dữ liệu và cấu trúc chương trình. Đối với lập trình hướng đối tượng trong C++, người học sẽ được cung cấp những kỹ năng liên quan đến đối tượng, lớp, quyền truy cập đến thành viên của lớp, thiết kế lớp, kế thừa, đa hình và một số vấn đề liên quan. Đối với lập trình nâng cao trong C++, người học được cung cấp những kỹ năng xây dựng ứng dụng lớn và khả năng tích hợp với các ứng dụng khác. Kết thúc môn học này, người học có thể lập trình để giải quyết các bài toán trong thực tế bằng ngôn ngữ lập trình C++.
+CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+- Mã môn học         : INT 1306
+- Số tín chỉ:             : 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung
+Môn học này giới thiệu cho sinh viên những kiến thức quan trọng về thuật toán và cấu trúc dữ liệu. Đối với mỗi thuật toán, người học cần làm chủ được phương pháp biểu diễn thuật toán, ước lượng được độ phức tạp thuật toán, cài đặt thuật toán, phương pháp thực nghiệm và ứng dụng của thuật toán. Đối với mỗi cấu trúc dữ liệu, người học cần nắm vững được định nghĩa, phương pháp biểu diễn, các thao tác trên cấu trúc dữ liệu và ứng dụng của cấu trúc dữ liệu. Kết thúc học phần này, người học có thể làm chủ được phương pháp biểu diễn một đối tượng ở thế giới thực thành dữ liệu trong hệ thống máy tính cùng với các thao tác, giải thuật trên nó. Sử dụng các kiến thức thu được trong giải quyết những vấn đề quan trọng của Công nghệ thông tin.
+CƠ SỞ DỮ LIỆU
+- Mã môn học: INT 1313
+-  Số tín chỉ (TC): 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung môn học
+Học phần Cơ sở dữ liệu là học phần bắt buộc thuộc khối kiến thức cơ sở ngành trong chương trình đào tạo ngành Công nghệ thông tin. Học phần cung cấp kiến thức nền tảng về dữ liệu, hệ cơ sở dữ liệu, kiến trúc hệ quản trị cơ sở dữ liệu, các mô hình dữ liệu và quy trình thiết kế cơ sở dữ liệu cho một bài toán thực tế.
+Nội dung học phần giúp sinh viên nắm được mô hình thực thể - liên kết, mô hình quan hệ, đại số quan hệ, phụ thuộc hàm, chuẩn hóa và ngôn ngữ truy vấn SQL. Trên cơ sở đó, sinh viên có khả năng phân tích yêu cầu dữ liệu, thiết kế lược đồ cơ sở dữ liệu, cài đặt các truy vấn và xây dựng một hệ cơ sở dữ liệu đơn giản phục vụ ứng dụng thực tế. 
+KIẾN TRÚC MÁY TÍNH
+- Mã học phần:        INT 13145
+- Số tín chỉ: 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung
+Học phần Kiến trúc máy tính là học phần thuộc khối kiến thức cơ sở ngành của chương trình đào tạo ngành Khoa học máy tính, cung cấp cho sinh viên những kiến thức nền tảng về kiến trúc, tổ chức và nguyên lý hoạt động của hệ thống máy tính. Học phần giúp sinh viên hiểu được mối quan hệ giữa phần cứng, tập lệnh và quá trình thực thi chương trình, qua đó hình thành nền tảng cần thiết để tiếp tục nghiên cứu các hệ thống máy tính và công nghệ phần cứng hiện đại.
+Nội dung học phần bao gồm kiến trúc tổng thể của máy tính; cấu trúc, chức năng và các thành phần của bộ xử lý trung tâm; tập lệnh máy tính và đường dữ liệu của CPU; hệ thống bộ nhớ và các thành phần như ROM, RAM, bộ nhớ đệm và thiết bị lưu trữ. Bên cạnh đó, sinh viên được tìm hiểu các công nghệ lưu trữ như RAID, NAS và SAN; hệ thống bus, thiết bị ngoại vi và cơ chế trao đổi dữ liệu giữa các thành phần trong máy tính. Học phần đồng thời giới thiệu các kiến trúc máy tính hiện đại như hệ thống đa bộ xử lý và kiến trúc đa lõi.
+Kết thúc học phần, sinh viên có khả năng mô tả cấu trúc và nguyên lý hoạt động của các thành phần chính trong hệ thống máy tính; phân tích quá trình thực thi lệnh và sự phối hợp giữa bộ xử lý, bộ nhớ, hệ thống bus và thiết bị ngoại vi. Đồng thời, sinh viên có thể nhận biết, so sánh và đánh giá các mô hình tổ chức bộ nhớ, lưu trữ và xử lý hiện đại, làm cơ sở cho việc học tập các học phần như hệ điều hành, mạng máy tính, hệ thống nhúng và điện toán hiệu năng cao.
+HỆ ĐIỀU HÀNH
+- Mã môn học: INT1319
+- Số tín chỉ (TC): 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung
+Học phần Hệ điều hành là học phần bắt buộc, thuộc khối kiến thức cơ sở ngành của chương trình đào tạo ngành Khoa học máy tính, trang bị cho sinh viên những kiến thức nền tảng về các nguyên lý, khái niệm và cơ chế hoạt động của hệ điều hành trong hệ thống máy tính. Học phần không tập trung vào cách sử dụng một hệ điều hành cụ thể mà giúp sinh viên hiểu được cấu trúc, đặc điểm chung và vai trò của hệ điều hành trong việc quản lý, điều phối các tài nguyên phần cứng và hỗ trợ thực thi chương trình.
+Nội dung học phần bao gồm các vấn đề cơ bản về cấu trúc hệ điều hành, quản lý tiến trình, lập lịch CPU, đồng bộ và phối hợp giữa các tiến trình; quản lý bộ nhớ vật lý, bộ nhớ ảo; tổ chức tệp, thư mục và quản lý hệ thống tệp. Thông qua các bài giảng, bài tập và hoạt động thực hành, sinh viên được tìm hiểu một số thành phần quan trọng của hệ điều hành, phân tích các cơ chế quản lý tài nguyên và từng bước xây dựng một số mô-đun hệ điều hành đơn giản.
+Kết thúc học phần, sinh viên có khả năng trình bày và phân tích các nguyên lý hoạt động cơ bản của hệ điều hành, giải thích cơ chế quản lý tiến trình, bộ nhớ và hệ thống tệp, đồng thời vận dụng kiến thức để giải quyết các bài toán quản lý tài nguyên trong hệ thống máy tính. Sinh viên cũng có khả năng thiết kế, triển khai và đánh giá một số mô-đun hệ điều hành đơn giản, làm nền tảng cho việc nghiên cứu các lĩnh vực như lập trình hệ thống, hệ thống phân tán, an toàn thông tin và điện toán hiệu năng cao.
+LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
+- Mã môn học:                    INT 1332
+- Số tín chỉ:             3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung
+Học phần Lập trình hướng đối tượng trang bị cho người học những kiến thức nền tảng và tư duy hệ thống về phương pháp luận phát triển phần mềm theo hướng đối tượng (OOP). Nội dung môn học tập trung nghiên cứu bốn nguyên lý cốt lõi bao gồm tính đóng gói, tính kế thừa, tính đa hình, tính trừu tượng và cách hiện thực hóa chúng trên nền tảng ngôn ngữ Java. Sinh viên sẽ được rèn luyện chuyên sâu kỹ năng thiết kế cấu trúc lớp (Class), quản lý bộ nhớ đối tượng, xử lý ngoại lệ (Exception), và cấu trúc lại mã nguồn thông qua Java Collections Framework. Bên cạnh đó, học phần cũng giới thiệu các kỹ thuật nâng cao như xử lý luồng dữ liệu vào/ra (I/O Stream), lập trình đa luồng cơ bản (Multithreading) và xây dựng giao diện người dùng trực quan. Kết thúc khóa học, người học có đủ năng lực phân tích các bài toán thực tế để phát triển độc lập các phần mềm hướng đối tượng có cấu trúc chặt chẽ, tối ưu và dễ dàng mở rộng.
+MẠNG MÁY TÍNH
+- Mã môn học: INT1336
+- Số tín chỉ (TC): 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung môn học
+Học phần Mạng máy tính là học phần bắt buộc thuộc khối kiến thức cơ sở ngành trong chương trình đào tạo các ngành Công nghệ thông tin, Khoa học máy tính. Học phần cung cấp kiến thức nền tảng và hệ thống về kiến trúc và nguyên lý hoạt động của mạng máy tính và Internet theo cách tiếp cận phân tầng từ trên xuống (top-down). Sinh viên bắt đầu từ việc tìm hiểu các ứng dụng mạng phổ biến như web, thư điện tử và chia sẻ file, từ đó từng bước khám phá các cơ chế và giao thức ở các tầng thấp hơn trong việc hỗ trợ truyền thông dữ liệu.
+Nội dung học phần giúp sinh viên hiểu rõ mối quan hệ giữa các tầng trong kiến trúc mạng, bao gồm tầng ứng dụng, tầng giao vận, tầng mạng và tầng liên kết dữ liệu, cũng như vai trò của các giao thức trong việc đảm bảo truyền dữ liệu tin cậy, hiệu quả và an toàn. Bên cạnh đó, nội dung học cũng nhấn mạnh các nguyên lý cốt lõi như truyền dữ liệu tin cậy, điều khiển tắc nghẽn, định tuyến và quản lý tài nguyên mạng, đồng thời liên hệ với hệ thống Internet hiện đại.
+NHẬP MÔN CÔNG NGHỆ PHẦN MỀM
+- Mã môn học:        INT 1340
+- Số tín chỉ:             3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung
+Môn học này giúp người học nắm được các khái niệm và phương pháp kĩ thuật liên quan đến tiến trình phát triển phần mềm, bắt đầu từ lấy yêu cầu, phân tích, thiết kế, cài đặt, kiểm thử, triển khai và bảo trì. Ngoài ra còn giúp người học nắm được các vấn đề liên quan trong phản triển phần mềm như khía cạnh kinh tế, công nghệ và sử dụng tài nguyên nhân lực…
+Sau khi học môn học này, người học được trang bị khả năng áp dụng các phương pháp kĩ thuật trong các pha phát triển vào phát triển một phần mềm thực tế. Có khả năng sử dụng các công cụ UML để vẽ các sơ đồ, biểu đồ tương ứng với các pha phát triển. Đồng thời đọc hiểu được tài liệu kĩ thuật phát triển phần mềm do người khác đã viết theo chuẩn UML. Ngoài ra, người học còn được trang bị kĩ năng phối hợp nhóm giữa các pha và giữa các phần công việc khác nhau; kĩ năng đọc hiểu tài liệu chuyên ngành công nghệ phần mềm bằng Tiếng Anh. Người học cũng được cập nhật các mô hình phát triển phần mềm hiện đại, cùng với việc ứng dụng các công cụ trí tuệ nhân tạo.
+NHẬP MÔN TRÍ TUỆ NHÂN TẠO
+- Mã môn học:  INT1341
+- Số tín chỉ (TC):  3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung môn học
+Môn học này giới thiệu cho sinh viên các kiến thức cơ bản về biểu diễn, tìm kiếm và giải quyết vấn đề cũng như các phương pháp học tập của trí tuệ nhân tạo. Các phương pháp tìm kiếm và giải quyết vấn đề được áp dụng trong nhiều hệ thống công nghiệp, dân dụng, y tế, tài chính, robot và thông tin. Học sinh sẽ nghiên cứu các câu hỏi về hệ thống AI như: cách biểu diễn kiến thức, cách tạo chuỗi hành động phù hợp một cách hiệu quả và cách tìm kiếm giữa các phương án để tìm ra giải pháp tối ưu hoặc gần tối ưu. Học sinh cũng sẽ khám phá cách đối phó với sự không chắc chắn trên thế giới và cách học hỏi từ dữ liệu và kinh nghiệm.
+PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG THÔNG TIN
+- Mã môn học:        INT 1342
+- Số tín chỉ:             3
+- Học phần tiên quyết: INT1340
+- Tóm tắt nội dung
+Học phần này giúp người học nắm được các khái niệm và phương pháp kĩ thuật liên quan đến tiến trình phát triển phần mềm, nắm vững được các đặc trưng của các kiểu hệ phần mềm, hiểu rõ các pha thu thập yêu cầu, phân tích, thiết kế, lựa chọn công nghệ. Học phần này cũng trang bị cho người học kỹ năng áp dụng các phương pháp kĩ thuật trong các pha phát triển vào một phần mềm ứng dụng. Đồng thời, người học cũng thành thạo sử dụng các công cụ để vẽ các biểu đồ tương ứng với các pha phát triển và có khả năng phối hợp nhóm giữa các pha và giữa các phần công việc khác nhau. Kết thúc học phần, người học có đủ năng lực phân tích các bài toán thực tế để thiết kế nên giải pháp hệ thống thông tin hoàn chỉnh, tối ưu và khả thi. 
+LẬP TRÌNH WEB
+- Mã môn học: INT 1434
+- Số tín chỉ: 3
+- Học phần tiên quyết: INT1332
+- Tóm tắt nội dung 
+Học phần Lập trình Web thuộc nhóm kiến thức cơ sở ngành bắt buộc của CTĐT Đại học ngành Công nghệ thông tin. Học phần cung cấp cho sinh viên các kiến thức và kỹ năng cơ bản để phát triển ứng dụng trên nền tảng Web. 
+Nội dung môn học bao gồm việc xây dựng giao diện người dùng với HTML, CSS và JavaScript, cũng như tìm hiểu cách phát triển ứng dụng theo mô hình client–server với các ngôn ngữ và công nghệ phổ biến. Sinh viên được làm quen với một số framework hiện đại như React, Angular, Node.js, Spring hoặc Laravel. Bên cạnh đó, học phần còn giới thiệu các khái niệm cơ bản về triển khai và vận hành ứng dụng Web. Thông qua các bài tập và dự án thực hành, sinh viên có khả năng xây dựng và phát triển các ứng dụng Web đơn giản phục vụ nhu cầu thực tế.
+THỰC TẬP CƠ SỞ
+- Mã môn học: INT13147
+- Số tín chỉ: 3
+- Học phần tiên quyết: INT11117
+- Tóm tắt nội dung 
+Thực tập cơ sở là môn học thuộc khối học tập cơ sở, thường được thực hiện ở kỳ học thứ 6 trong tiến trình học tập của khóa học. Trong môn học này, người học được tìm hiểu các công nghệ/ kỹ thuật/kiến thức mới mà các doanh nghiệp đang cần nhưng chưa kịp cập nhật trong chương trình đào tạo. Người học tìm hiểu theo đề tài của mình và báo cáo, trao đổi với giáo viên hướng dẫn hằng tuần. Cuối đợt thực tập, người học sẽ báo cáo kết quả mình tìm hiểu được thông qua quyển báo cáo và chương trình demo áp dụng.
+9.1.4. Khối kiến thức chuyên ngành
+KHO DỮ LIỆU VÀ KHAI PHÁ DỮ LIỆU
+- Mã môn học: INT 1422
+- Số tín chỉ (TC): 3
+- Học phần tiên quyết: INT1313
+- Tóm tắt nội dung
+Học phần cung cấp các kiến thức nền tảng về kho dữ liệu và khai phá dữ liệu trong các hệ thống thông tin hiện đại. Sinh viên được tìm hiểu vai trò của kho dữ liệu trong việc lưu trữ, tích hợp và tổ chức dữ liệu phục vụ phân tích, hỗ trợ ra quyết định và nghiệp vụ thông minh. Học phần giới thiệu các mô hình dữ liệu đa chiều, quy trình tích hợp dữ liệu (ETL/ELT), các kiến trúc dữ liệu hiện đại như kho dữ liệu (Data Warehouse) và hồ dữ liệu (Data Lakehouse), cùng với việc sử dụng một số công cụ phân tích và trực quan hóa dữ liệu phổ biến như Power BI.
+Bên cạnh đó, học phần trang bị các kiến thức và kỹ năng cơ bản về khai phá dữ liệu, bao gồm quy trình khám phá tri thức từ dữ liệu, tiền xử lý dữ liệu và các kỹ thuật khai phá dữ liệu phổ biến. Thông qua các bài tập và dự án thực hành, sinh viên có khả năng xây dựng môi trường dữ liệu phục vụ phân tích, khai thác tri thức từ dữ liệu và vận dụng các phương pháp phân tích dữ liệu để hỗ trợ giải quyết các bài toán thực tiễn trong doanh nghiệp và tổ chức.
+PHÁT TRIỂN HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ
+- Mã môn học: INT 1446
+- Số tín chỉ (TC): 3 
+- Học phần tiên quyết: INT1340
+- Tóm tắt nội dung:
+Học phần Phát triển hệ thống thương mại điện tử cung cấp cho sinh viên các kiến thức cơ bản về mô hình, công nghệ, nền tảng và ứng dụng của thương mại điện tử trong môi trường kinh doanh số. Nội dung học phần bao gồm tổng quan về thương mại điện tử và thị trường điện tử; các mô hình ứng dụng như bán lẻ điện tử, thương mại điện tử B2B, chính phủ điện tử, học tập điện tử và kinh tế chia sẻ; các nền tảng thương mại điện tử hiện đại như thương mại di động, IoT, thương mại điện tử thông minh và thương mại xã hội. Học phần cũng đề cập đến các dịch vụ hỗ trợ như tiếp thị số, thanh toán điện tử, bảo mật, quản lý chuỗi cung ứng, cùng các vấn đề chiến lược, pháp lý, đạo đức và xã hội trong thương mại điện tử. Ngoài ra, sinh viên được trang bị kiến thức cơ bản về kiến trúc, cơ sở dữ liệu, phân tích, thiết kế và đánh giá các hệ thống, website thương mại điện tử.
+IOT VÀ ỨNG DỤNG
+- Mã môn học:  INT14149
+- Số tín chỉ (TC): 3 
+- Học phần tiên quyết: INT1336
+- Tóm tắt nội dung
+Học phần IoT và ứng dụng cung cấp cho sinh viên những kiến thức và kỹ năng về cảm biến, thu nhận, xử lý và phân tích dữ liệu dựa trên nền tảng IoT. Học phần tập trung vào các nội dung chính gồm tổng quan IoT, kiến trúc và thành phần hệ thống, cảm biến và thiết bị thông minh, giao thức và công nghệ truyền thông, thiết kế và phát triển giải pháp IoT, quản lý và phân tích dữ liệu IoT, bảo mật và quyền riêng tư, cùng các ứng dụng tiêu biểu như nhà thông minh, đô thị thông minh, y tế, nông nghiệp và công nghiệp thông minh. Học phần giúp sinh viên có khả năng phân tích, lựa chọn công nghệ, thiết kế và đánh giá các giải pháp IoT tích hợp nhằm giải quyết các bài toán thực tiễn, đồng thời nhận diện các yêu cầu về kết nối, dữ liệu, an toàn thông tin và khả năng triển khai trong môi trường thực tế.
+9.2. Các học phần của phần chương trình thạc sĩ
+9.2.1. Khối kiến thức cơ sở ngành
+TÍNH TOÁN PHÂN TÁN
+-      Mã học phần:   INT4334            
+-      Số tín chỉ:             3                   
+-      Tóm tắt nội dung học phần
+Học phần “Tính toán phân tán” thuộc nhóm kiến thức cơ sở ngành tự chọn, được giảng dạy vào học kỳ 2 của CTĐT thạc sĩ hệ thống thông tin/khoa học máy tính. Học phần cung cấp các nguyên lý và mô hình nền tảng của tính toán phân tán, làm cơ sở cho việc phân tích và thiết kế các hệ thống phân tán hiện đại. Nội dung học phần bao gồm các mô hình hệ thống, các thuật toán phân tán tiêu biểu, cũng như các vấn đề cốt lõi như đồng bộ hóa, loại trừ lẫn nhau, bài toán đồng thuận, phát hiện bế tắc và cơ chế phục hồi lỗi. Bên cạnh đó, học phần đề cập đến các phương pháp đảm bảo tính nhất quán và độ tin cậy trong môi trường phân tán. Sau khi hoàn thành học phần, người học có khả năng phân tích và đánh giá các thuật toán phân tán, thiết kế giải pháp phối hợp và đồng bộ giữa các tiến trình, đồng thời vận dụng các nguyên lý đã học vào việc xây dựng và tối ưu hệ thống phân tán trong thực tiễn.
+CÔNG CỤ TOÁN CHO CÔNG NGHỆ THÔNG TIN
+- Mã học phần: INT41218
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên những kiến thức cơ bản liên quan đến các phương pháp toán sử dụng trong công nghệ thông tin, bao gồm Máy Turing và phân lớp các bài toán; Tập mờ, tập thô và ứng dụng; Quá trình Markov và mô hình Markov ẩn; và Các phương pháp toán tối ưu.
+THUẬT TOÁN NÂNG CAO  
+- Mã học phần: INT4326
+- Số tín chỉ: 2
+- Học phần tiên quyết: Không 
+- Tóm tắt nội dung: 
+Học phần Thuật toán nâng cao là một học phần thuộc thuộc khối kiến thức cơ sở ngành. Học phần này tập trung vào các kiến thức nâng cao về thuật toán và áp dụng thuật toán trong bài toán thực tế. Theo đó, người học sẽ được trang bị các kiến thức nền tảng về cơ sở thuật toán, độ phức tạp của thuật toán. Các kiến thức về thuật toán nâng cao, thuật toán áp dụng trong trí tuệ nhân tạo, học máy, học sâu cũng được trang bị cho người học. Học phần này cũng trang bị cho người học kỹ năng để áp dụng thuật toán trong một số bài toán thực tế.
+CÁC HỆ THỐNG CƠ SỞ DỮ LIỆU 
+-   Mã học phần: INT4327
+-   Số tín chỉ: 3
+-   Học phần tiên quyết: INT1313 
+-   Tóm tắt nội dung:
+Học phần “Các hệ thống cơ sở dữ liệu” thuộc nhóm kiến thức cơ sở ngành tự chọn của CTĐT thạc sĩ hệ thống thông tin/khoa học máy tính. Học phần cung cấp kiến thức chuyên sâu về kiến trúc, thiết kế và quản lý các hệ thống cơ sở dữ liệu hiện đại phục vụ các ứng dụng quy mô lớn. Nội dung tập trung vào các cơ chế xử lý dữ liệu trong hệ quản trị cơ sở dữ liệu theo mô hình dữ liệu quan hệ, tối ưu truy vấn, quản lý giao tác, đảm bảo tính nhất quán và khả năng mở rộng của hệ thống dữ liệu. Bên cạnh mô hình cơ sở dữ liệu quan hệ, học phần giới thiệu các mô hình dữ liệu hiện đại như NoSQL, cơ sở dữ liệu phân tán và hệ thống dữ liệu trên nền tảng điện toán đám mây.
+DỮ LIỆU LỚN 
+-   Mã học phần: INT4355
+-   Số tín chỉ: 3
+-   Học phần tiên quyết: INT1313 
+-   Tóm tắt nội dung:
+Học phần Dữ liệu lớn cung cấp cho sinh viên các kiến thức nền tảng và kỹ năng cơ bản về thu thập, lưu trữ, xử lý và phân tích dữ liệu quy mô lớn. Nội dung học phần bao gồm các đặc trưng của dữ liệu lớn, kiến trúc hệ thống dữ liệu lớn, các mô hình lưu trữ dữ liệu như Data Warehouse và Data Lake, cùng quy trình xử lý dữ liệu từ thu thập đến phân tích. Học phần giới thiệu nền tảng Hadoop, hệ thống lưu trữ phân tán HDFS và mô hình lập trình MapReduce trong xử lý dữ liệu lớn. Bên cạnh đó, sinh viên được tìm hiểu các kỹ thuật khai phá dữ liệu, phân tích dữ liệu văn bản, xử lý dữ liệu đồ thị và các ứng dụng thực tiễn của dữ liệu lớn. Học phần cũng cập nhật các công nghệ hiện đại trong hệ sinh thái dữ liệu lớn như Apache Spark, cơ sở dữ liệu NoSQL, quy trình ETL, xử lý dữ liệu thời gian thực với Kafka và Spark Streaming. Thông qua bài tập lớn theo nhóm, sinh viên có khả năng thiết kế, triển khai và đánh giá các giải pháp xử lý và phân tích dữ liệu lớn cho các bài toán thực tế. 
+CHUYÊN ĐỀ NGHIÊN CỨU HỆ THỐNG THÔNG TIN 1 
+-   Mã học phần: INT4336
+-   Số tín chỉ: 3
+-   Học phần tiên quyết: SKD4112
+-   Tóm tắt nội dung:
+Học phần Chuyên đề nghiên cứu HTTT 1 thuộc nhóm kiến thức cơ sở ngành, phần kiến thức bậc thạc sĩ Hệ thống thông tin định hướng nghiên cứu, với mục tiêu chính là hình thành và củng cố năng lực nghiên cứu cho học viên. 
+Học phần cung cấp nền tảng định hướng nghiên cứu trong lĩnh vực Hệ thống thông tin, giúp học viên tiếp cận các chủ đề cốt lõi và xu hướng hiện đại như: kiến trúc hệ thống, quản trị dữ liệu, hệ thống thông minh, bảo mật và đạo đức trong Công nghệ thông tin. Nội dung học phần tập trung vào việc phát triển tư duy nghiên cứu thông qua đọc hiểu và phân tích tài liệu khoa học, xác định vấn đề và đề xuất hướng giải quyết ở mức khái niệm.
+Trong giai đoạn đầu (~20 tiết), chuyên đề sẽ giới thiệu các lĩnh vực nghiên cứu chính của Hệ thống thông tin và phương pháp tiếp cận bài toán, đồng thời hướng dẫn học viên tập trung vào các kỹ năng nghiên cứu như: tìm kiếm tài liệu, phân tích bài báo, xác định khoảng trống nghiên cứu và xây dựng đề xuất nghiên cứu. Giai đoạn sau (~70 tiết), học viên thực hiện dự án nhóm, bao gồm lựa chọn chủ đề, đề xuất giải pháp, thiết kế mô hình và trình bày kết quả ở mức thử nghiệm cơ bản.
+9.2.2. Khối kiến thức chuyên ngành
+ĐIỆN TOÁN ĐÁM MÂY 
+-   Mã học phần: INT4437
+-   Số tín chỉ: 3
+-   Học phần tiên quyết: INT1336 
+-   Tóm tắt nội dung:
+Học phần Điện toán đám mây cung cấp các kiến thức nền tảng và nâng cao về điện toán đám mây, bao gồm các mô hình dịch vụ và triển khai đám mây, hạ tầng ảo hóa, công nghệ vùng chứa (container) và các nền tảng điều phối ứng dụng. Học phần giúp sinh viên hiểu và vận dụng các nguyên lý thiết kế, xây dựng và triển khai hệ thống trên môi trường đám mây, đáp ứng các yêu cầu về hiệu năng, tính sẵn sàng, khả năng mở rộng và độ tin cậy.
+Bên cạnh đó, học phần trang bị các kiến thức và kỹ năng về triển khai, vận hành và quản trị hệ thống theo kiến trúc dịch vụ vi mô (microservices), quy trình tích hợp và triển khai liên tục (CI/CD) và nền tảng Kubernetes. Sinh viên được tiếp cận các kỹ thuật bảo mật, giám sát, sao lưu, khôi phục và tối ưu hóa hệ thống, đồng thời tìm hiểu một số xu hướng mới trong điện toán đám mây nhằm nâng cao năng lực thiết kế và triển khai các giải pháp đám mây trong thực tiễn.
+CÁC HỆ THỐNG IOT HIỆN ĐẠI 
+-   Mã học phần: INT4438
+-   Số tín chỉ: 3
+-   Học phần tiên quyết: INT1336 
+-   Tóm tắt nội dung:
+Học phần “Các hệ thống IoT hiện đại” thuộc chương trình đào tạo Thạc sĩ Hệ thống thông tin, nằm trong nhóm kiến thức chuyên ngành. Học phần cung cấp các nguyên lý, kiến trúc và công nghệ nền tảng của các hệ thống Internet vạn vật (IoT) hiện đại, đồng thời giới thiệu xu hướng tích hợp IoT với truyền thông dữ liệu và trí tuệ nhân tạo trong các hệ thống thông minh.
+Nội dung học phần bao gồm: tổng quan hệ sinh thái IoT; kiến trúc hệ thống IoT; thiết bị IoT (cảm biến và cơ cấu chấp hành); phân tích hệ thống hướng sự kiện; hệ thống IoT công nghiệp (Industrial Internet of Things); các vấn đề về an toàn và bảo mật, kiểm thử bảo mật hệ thống IoT; sự phát triển của trí tuệ nhân tạo trong mạng IoT (AIoT) và các hệ thống truyền thông dữ liệu cho mạng AIoT. Học phần nhằm trang bị cho học viên kiến thức và kỹ năng phân tích, thiết kế và triển khai các ứng dụng IoT thông minh, lựa chọn công nghệ phù hợp và tích hợp các kỹ thuật học máy trong các hệ thống IoT thực tế.
+KIẾN TRÚC HỆ THỐNG THÔNG TIN 
+-   Mã học phần: INT4439
+-   Số tín chỉ: 3
+-   Học phần tiên quyết: Không (khuyến nghị đã học các học phần về CSDL, hệ thống phân tán, mạng máy tính)
+-   Tóm tắt nội dung:
+Học phần trang bị kiến thức nền tảng và phương pháp tiếp cận về Kiến trúc tổng thể doanh nghiệp (Enterprise Architecture - EA) trong phân tích, quy hoạch, thiết kế và quản trị hệ thống thông tin ở quy mô tổ chức/doanh nghiệp. Học viên được giới thiệu vai trò của EA trong việc liên kết chiến lược tổ chức – nghiệp vụ – dữ liệu – ứng dụng – hạ tầng công nghệ, từ đó hỗ trợ chuyển đổi số, tích hợp hệ thống và nâng cao hiệu quả vận hành.
+Nội dung học phần tập trung vào các mô hình và khung kiến trúc tổng thể phổ biến (ví dụ: tư duy kiến trúc theo lớp, kiến trúc nghiệp vụ, kiến trúc dữ liệu, kiến trúc ứng dụng, kiến trúc công nghệ; các framework như TOGAF ở mức khái quát), nguyên tắc kiến trúc, lộ trình phát triển kiến trúc, chuẩn hóa và tài liệu hóa kiến trúc. Học phần cũng đề cập các vấn đề thực tiễn như tích hợp liên thông hệ thống, quản trị dữ liệu dùng chung, lựa chọn mô hình triển khai (on-premise/cloud/hybrid), an toàn thông tin, khả năng mở rộng và tính bền vững của kiến trúc.
+CHUYÊN ĐỀ NGHIÊN CỨU HỆ THỐNG THÔNG TIN 2 
+-   Mã học phần: INT4447
+-   Số tín chỉ: 6
+-   Học phần tiên quyết: INT4336
+-   Tóm tắt nội dung:
+Học phần Chuyên đề nghiên cứu HTTT 2 thuộc nhóm kiến thức chuyên ngành, phần kiến thức bậc thạc sĩ Hệ thống thông tin định hướng nghiên cứu. Học phần là bước phát triển nâng cao, yêu cầu học viên thực hiện một nghiên cứu chuyên sâu cụ thể về Hệ thống thông tin như dữ liệu lớn, trí tuệ nhân tạo, hệ thống phân tán, hoặc an toàn trong hệ thống thông tin. Nội dung học phần tập trung vào việc triển khai một quy trình nghiên cứu hoàn chỉnh, từ xác định bài toán, đề xuất phương pháp đến thực hiện thực nghiệm và đánh giá kết quả theo chuẩn khoa học.
+Trong giai đoạn đầu (~20 tiết), học viên xác định bài toán nghiên cứu cụ thể, thực hiện khảo sát tổng quan tài liệu chuyên sâu (từ các bài báo/công trình được công bố trên các tạp chí/hội nghị uy tín) và xây dựng baseline. Giai đoạn sau (~70 tiết), tập trung vào đề xuất phương pháp nghiên cứu (có so sánh hoặc cải tiến), thiết kế thực nghiệm (với các độ đo đánh giá rõ ràng), triển khai thực nghiệm và phân tích kết quả, đồng thời hoàn thiện báo cáo dưới dạng chuẩn của một bài báo khoa học (IEEE/ACM).
+9.2.3. Khối kiến thức tốt nghiệp
+THỰC TẬP TỐT NGHIỆP (Bậc thạc sĩ)
+- Mã học phần: INT4552 
+- Số tín chỉ: 6
+- Học phần tiên quyết: 
+- Tóm tắt nội dung: 
+Học phần Thực tập tốt nghiệp là học phần bắt buộc nằm trong khối kiến thức tốt nghiệp của chương trình đào tạo Thạc sĩ ngành Hệ thống thông tin định hướng ứng dụng. Để tham gia học tốt được học phần này, người học cần nắm vững các nội dung lý thuyết và thực hành đã tích lũy từ các học phần trước đó để có thể áp dụng vào môi trường làm việc thực tế tại các tổ chức/doanh nghiệp. Danh sách các công ty và vị trí thực tập sẽ được duy trì để cung cấp các cơ hội thực tập cho học viên. Quy trình tuyển chọn toàn diện sẽ được thực hiện thông qua phỏng vấn trực tiếp và lựa chọn tại công ty. Học viên cũng có thể đề xuất các đợt thực tập, nhưng những đề xuất này sẽ cần phải được thiết lập giữa Khoa CNTT và các công ty, đơn vị, trước khi các cơ hội thực tập được cung cấp cho học viên.
+Mục tiêu của học phần Thực tập tốt nghiệp là để giúp học viên phát triển các kỹ năng cần thiết để làm việc chuyên nghiệp ở môi trường doanh nghiệp, các cơ quan nhà nước và các đơn vị có liên quan. Trong quá trình thực tập, học viên sẽ làm việc trực tiếp tại các đơn vị tiếp nhận thực tập dưới sự hướng dẫn của giảng viên và cán bộ hướng dẫn tại đơn vị. Học viên có cơ hội áp dụng kiến thức đã học ở nhà trường vào các tình huống chuyên nghiệp thực tế. Ngoài công việc thực tập đã được phân công tại đơn vị, học viên có nhiệm vụ học hỏi kinh nghiệm của cán bộ hướng dẫn, tham khảo tài liệu kỹ thuật chuyên ngành và hoàn thành báo cáo kết quả thực tập. Kết quả thực tập của học viên sẽ được ghi nhận dựa trên giá trị kinh nghiệm học tập được đánh giá theo thể hiện về mặt học thuật của học viên. 
+ĐỀ ÁN THẠC SĨ HỆ THỐNG THÔNG TIN 
+- Mã học phần: INT4553
+- Số tín chỉ: 9
+- Học phần tiên quyết: 
+- Tóm tắt nội dung:
+Học phần Đề án thạc sĩ hệ thống thông tin dành cho học viên theo định hướng ứng dụng, nhằm tổng hợp và vận dụng kiến thức đã học để giải quyết một bài toán thực tiễn trong lĩnh vực hệ thống thông tin tại cơ quan, doanh nghiệp hoặc tổ chức. Đề án nhấn mạnh khả năng phân tích vấn đề, lựa chọn công nghệ/phương pháp phù hợp, thiết kế giải pháp, triển khai thử nghiệm và đánh giá hiệu quả ứng dụng.
+Nội dung thực hiện đề án thường bao gồm: xác định bối cảnh và nhu cầu thực tiễn; phân tích hiện trạng và yêu cầu; khảo sát và tổng quan các giải pháp liên quan; đề xuất phương án kỹ thuật/công nghệ; thiết kế hệ thống, dữ liệu hoặc quy trình; xây dựng mô hình/phần mềm/chức năng thử nghiệm; kiểm thử, đánh giá kết quả và đề xuất hướng hoàn thiện. Đề án có thể theo các hướng như xây dựng hệ thống thông tin, tích hợp dữ liệu và ứng dụng, tối ưu quy trình nghiệp vụ, triển khai nền tảng hỗ trợ ra quyết định, hoặc ứng dụng AI/analytics trong HTTT.
+Kết quả học phần là báo cáo đề án, sản phẩm hoặc mô hình minh chứng (nếu có), và phần bảo vệ trước hội đồng. Tiêu chí đánh giá tập trung vào tính ứng dụng, tính khả thi, mức độ hoàn thiện của giải pháp và hiệu quả đối với bài toán thực tế.
+LUẬN VĂN THẠC SĨ HỆ THỐNG THÔNG TIN   
+- Mã học phần: INT4554
+- Số tín chỉ: 15
+- Học phần tiên quyết: INT4447
+- Tóm tắt nội dung:
+Học phần Luận văn thạc sĩ hệ thống thông tin dành cho học viên theo định hướng nghiên cứu, nhằm rèn luyện năng lực nghiên cứu độc lập và thực hiện một công trình nghiên cứu có cơ sở khoa học trong lĩnh vực hệ thống thông tin. Học viên thực hiện đầy đủ quy trình nghiên cứu từ xác định vấn đề, tổng quan tài liệu, xây dựng mục tiêu/câu hỏi nghiên cứu, lựa chọn phương pháp, thiết kế nghiên cứu, thu thập và phân tích dữ liệu, thực nghiệm/đánh giá kết quả đến viết và bảo vệ luận văn.
+Luận văn có thể tập trung vào các hướng nghiên cứu trong HTTT như kiến trúc hệ thống thông tin, quản trị dữ liệu, tích hợp hệ thống, phân tích dữ liệu và hỗ trợ ra quyết định, tối ưu vận hành HTTT, bảo mật trong HTTT, hoặc ứng dụng các công nghệ mới (AI, blockchain, cloud, big data) trong bối cảnh hệ thống thông tin. Học viên cần thể hiện được tính khoa học, tính logic, độ tin cậy của phương pháp nghiên cứu, khả năng phân tích – đánh giá kết quả và mức độ đóng góp về mặt học thuật hoặc thực tiễn.
+Kết quả học phần là bản luận văn thạc sĩ đáp ứng quy định đào tạo sau đại học và bảo vệ trước hội đồng. Học phần nhấn mạnh chuẩn mực học thuật, đạo đức nghiên cứu và năng lực công bố/chuyển giao kết quả nghiên cứu (nếu có).
+10. MA TRẬN LIÊN KẾT CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA (Chi tiết như Phụ lục kèm theo)
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+
+
+
+
+PGS.TS. Trần Quang Anh
+
+PHỤ LỤC 1.1. DANH MỤC CÁC HỌC PHẦN CỐT LÕI CỦA CHƯƠNG TRÌNH
+TT
+Mã và tên học phần
+Phương pháp giảng dạy
+Phương pháp đánh giá
+Học kỳ
+1
+Cấu trúc dữ liệu và giải thuật (INT1306)
+- Học tập dựa trên vấn đề.
+- Học tập dựa trên seminar chuyên đề
+
+- Đánh giá dựa trên năng lực người học
+3
+2
+Kiến trúc máy tính (INT13145)
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học
+4
+3
+Cơ sở dữ liệu (INT1313)
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học 
+4
+4
+Lập trình hướng đối tượng (INT1332)
+- Học tập dựa trên vấn đề
+- Học tập dựa trên seminar chuyên đề
+
+- Đánh giá dựa trên năng lực người học
+
+4
+5
+Hệ điều hành (INT1319)
+
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học
+
+4
+6
+Mạng máy tính (INT1336)
+
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học
+
+4 
+
+7
+Nhập môn trí tuệ nhân tạo (INT1341)
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học 
+
+5 
+
+8
+Nhập môn công nghệ phần mềm (INT1340)
+- Học tập dựa trên vấn đề
+- Học tập dựa trên dự án 
+
+- Đánh giá dựa trên năng lực người học
+
+5
+9
+Lập trình Web (INT1434)
+
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học
+6 
+10
+Phân tích và thiết kế hệ thống thông tin (INT1342)
+- Học tập dựa trên vấn đề 
+- Học tập dựa trên dự án
+- Đánh giá dựa trên năng lực người học
+6
+11
+IoT và ứng dụng (INT14149)
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học
+6
+
+12
+Dữ liệu lớn (INT4355)
+- Học tập dựa trên dự án
+- Đánh giá dựa trên năng lực người học
+- Dự án nhóm + bảo vệ
+8
+13
+Tính toán phân tán (INT4334)
+
+- Học tập dựa trên vấn đề 
+
+- Đánh giá dựa trên năng lực người học
+- Dự án nhóm + bảo vệ 
+8
+
+
+14
+Khai phá dữ liệu nâng cao (INT4332)
+- Học tập dựa trên dự án
+- Đánh giá dựa trên năng lực người học
+- Dự án nhóm + bảo vệ
+8
+15
+Kiến trúc hệ thống thông tin (INT4439)
+- Học tập dựa trên dự án
+- Đánh giá dựa trên năng lực người học
+- Dự án nhóm + bảo vệ
+9
+
+
+
+PHỤ LỤC 1.2. DANH MỤC CÁC HỌC PHẦN TÀI NĂNG, HOẠT ĐỘNG NGOẠI KHOÁ VÀ KỸ NĂNG BỔ TRỢ
+TT
+Tên học phần
+Mô tả mục tiêu của học phần
+Thời gian đào tạo
+Đơn vị tổ chức
+I. HỌC PHẦN TÀI NĂNG 
+
+Thuật toán ứng dụng nâng cao
+Cung cấp cho sinh viên các kiến thức về các thuật toán nâng cao như: xử lí xâu: Hashing, KMP, quy hoạch động….
+Năm học thứ nhất, năm học thứ hai 
+Khoa CNTT, Lab NITS
+
+
+Chương trình Toán dành cho sinh viên Công nghệ thông tin
+Cung cấp cho sinh viên các kiến thức toán đặc thù dành cho ngành Công nghệ thông tin như: Đại số tuyến tính, Giải tích và tối ưu hóa, Xác suất thống kê trong CS….
+Năm học thứ nhất, năm học thứ hai
+Khoa CNTT, Lab NITS
+
+II. HOẠT ĐỘNG NGOẠI KHÓA
+
+Cuộc thi lập trình theo chuẩn ACM ICPC
+Tham gia các cuộc thi ACM ICPC các cấp ở trong nước và quốc tế, gồm cả online và onsite
+ Từ năm học thứ nhất  
+Khoa CNTT, Lab NITS
+
+
+NITS Residency Program
+Chương trình nghiên cứu chuyên sâu dành cho sinh viên ngành Công nghệ thông tin. Kế thừa ưu điểm từ các mô hình AI Residency hàng đầu (VinAI, FPT AI), chương trình được tinh chỉnh cho môi trường đại học, tập trung vào “thời điểm vàng” để sớm hình thành tư duy và năng lực nghiên cứu chuẩn quốc tế
+Từ năm học thứ 2
+Khoa CNTT, Lab NITS
+
+
+Trường hè Quốc tế (International Summer School)
+Đồng tổ chức và đưa sinh viên tham gia các chương trình Summer School với đối tác quốc tế. Ví dụ: PTIT Summer School, KAIST International Summer School (Hàn Quốc), NUS Summer School (Singapore),…
+Từ năm học thứ 3
+Khoa CNTT, Lab NITS
+
+
+Trải nghiệm thăm quan doanh nghiệp
+Tổ chức cho sinh viên tham quan, học hỏi trực tiếp tại doanh nghiệp. Ví dụ như Microsoft, NAB office tour…
+Từ năm học thứ 3
+Khoa CNTT, Lab NITS
+
+
+Trại hè nghiên cứu về Hệ thống thông tin, Dữ liệu và Trí tuệ nhân tạo
+Sinh viên tham gia các chương trình nghiên cứu chuyên sâu, workshop và hoạt động thực hành dưới sự hướng dẫn của giảng viên, nhà khoa học và chuyên gia trong các lĩnh vực Hệ thống thông tin, dữ liệu, trí tuệ nhân tạo và các công nghệ số hiện đại; qua đó tiếp cận các vấn đề nghiên cứu mới, hình thành ý tưởng và định hướng nghiên cứu chuyên sâu.
+Từ năm học thứ 2
+Khoa CNTT, Lab NITS
+
+Tham gia hội thảo, workshop và hội nghị khoa học chuyên ngành
+Tạo điều kiện cho sinh viên tham dự các hội thảo, workshop, seminar và hội nghị khoa học trong nước, quốc tế thuộc lĩnh vực Hệ thống thông tin và Công nghệ thông tin; cập nhật tri thức, công nghệ mới, nâng cao kỹ năng trình bày, trao đổi và phản biện học thuật.
+Từ năm học thứ 2
+Khoa CNTT, Lab NITS
+
+Dự án nghiên cứu và phát triển Hệ thống thông tin liên kết doanh nghiệp
+Sinh viên tham gia các dự án nghiên cứu và phát triển giải pháp Hệ thống thông tin giải quyết bài toán thực tế của doanh nghiệp dưới sự hướng dẫn của giảng viên và chuyên gia doanh nghiệp. Kết quả có thể được phát triển thành sản phẩm, giải pháp ứng dụng, bài báo khoa học, hồ sơ sở hữu trí tuệ hoặc dự án đổi mới sáng tạo.
+Từ năm học thứ 3
+Khoa CNTT, Lab NITS và doanh nghiệp đối tác
+III. HOẠT ĐỘNG KỸ NĂNG
+
+Workshop chuẩn bị phỏng vấn BigTech
+Trang bị cho sinh viên các kỹ năng cần thiết để phỏng vấn vào các tập đoàn công nghệ lớn: Git nâng cao, LeetCode & Coding Interview, System Design, Behavioral Interview, Mock Interview.
+Từ năm học thứ 2
+Khoa CNTT, Lab NITS
+
+
+Reading Group & Seminar nghiên cứu
+Tổ chức đọc và phân tích các bài báo khoa học top-tier hàng tuần cùng các chuyên gia nghiên cứu (A2i2 - Deakin University, các giảng viên PTIT). Sinh viên trình bày seminar về tiến độ nghiên cứu và các chủ đề chuyên sâu.
+Từ năm học thứ 2 
+Khoa CNTT, Lab NITS
+
+
+Tiếng Anh học thuật và giao tiếp quốc tế
+Trang bị và rèn luyện kỹ năng sử dụng tiếng Anh trong môi trường học thuật và nghề nghiệp quốc tế, bao gồm viết thư trao đổi chuyên môn, chuẩn bị CV và hồ sơ học thuật, trình bày nghiên cứu, tham gia seminar, trao đổi và phản biện bằng tiếng Anh.
+Từ năm học thứ 2
+Khoa CNTT, Lab NITS
+
+Kỹ năng nghiên cứu và viết báo cáo khoa học
+Trang bị cho sinh viên các kỹ năng xác định vấn đề nghiên cứu, tìm kiếm và tổng quan tài liệu, thiết kế thực nghiệm, phân tích kết quả, trình bày và viết báo cáo, bài báo khoa học theo các chuẩn mực học thuật.
+Từ năm học thứ 3
+Khoa CNTT, Lab NITS
+
+Kỹ năng quản lý dự án công nghệ
+Phát triển năng lực lập kế hoạch, tổ chức, phối hợp, quản lý tiến độ, nguồn lực và rủi ro trong các dự án Hệ thống thông tin và Công nghệ thông tin; tăng cường năng lực làm việc nhóm và lãnh đạo nhóm dự án.
+Từ năm học thứ 3
+Khoa CNTT, Lab NITS
+
+Kỹ năng khởi nghiệp và đổi mới sáng tạo
+Trang bị tư duy đổi mới sáng tạo, kỹ năng nhận diện vấn đề và cơ hội, xây dựng giải pháp, sản phẩm số, phát triển mô hình kinh doanh và trình bày ý tưởng nhằm hỗ trợ sinh viên chuyển hóa kết quả nghiên cứu và công nghệ thành sản phẩm hoặc dự án khởi nghiệp.
+Từ năm học thứ 3
+Khoa CNTT, Lab NITS
+
+Đạo đức nghiên cứu và liêm chính học thuật
+Trang bị kiến thức về đạo đức nghiên cứu, liêm chính học thuật, bản quyền và sở hữu trí tuệ; phòng tránh đạo văn, giả mạo dữ liệu; sử dụng AI có trách nhiệm trong học tập và nghiên cứu.
+Từ năm học thứ 4
+Khoa CNTT, Lab NITS
+
+PHỤ LỤC 1.3. DANH MỤC CÁC CHỨNG CHỈ NGHỀ NGHIỆP VÀ CÁC HỌC PHẦN ĐƯỢC CÔNG NHẬN QUY ĐỔI KẾT QUẢ HỌC TẬP
+TT
+Tên chứng chỉ/khóa học
+Đơn vị cấp
+Ghi chú
+1
+Oracle Database SQL Certified Associate
+Oracle
+Chứng chỉ xác nhận kiến thức nền tảng về cơ sở dữ liệu quan hệ và ngôn ngữ SQL - phù hợp với các học phần về Cơ sở dữ liệu.
+2
+Microsoft Certified: Azure Database Administrator Associate (DP-300)
+Microsoft
+Chứng chỉ chứng minh năng lực vận hành hệ thống cơ sở dữ liệu đám mây, đảm bảo hiệu năng, tính sẵn sàng và an toàn dữ liệu trong môi trường doanh nghiệp - phù hợp với các học phần về Cơ sở dữ liệu.
+3
+Oracle Certified Professional (OCP) Database Administrator
+Oracle
+Chứng chỉ chứng minh kiến thức và kỹ năng vận hành, duy trì và đảm bảo tính sẵn sàng của các hệ thống cơ sở dữ liệu Oracle trong môi trường thực tế - phù hợp với các học phần về Cơ sở dữ liệu.
+4
+Microsoft Power BI Data Analyst Associate (PL-300)
+Microsoft
+Chứng chỉ xác nhận khả năng xây dựng dashboard, mô hình dữ liệu và báo cáo hỗ trợ ra quyết định - phù hợp với các học phần về Phân tích và trực quan hóa dữ liệu.
+5
+Google Cloud Professional Data Engineer
+Google
+Chứng chỉ xác nhận năng lực thiết kế, triển khai và vận hành các hệ thống dữ liệu lớn, bao gồm thu thập, lưu trữ, xử lý và khai thác dữ liệu trên nền tảng Google Cloud - phù hợp với học phần Dữ liệu lớn.
+6
+CCNA (Cisco Certified Network Associate)
+
+Hoặc:
+
+CCNP (Cisco Certified Network Professional)
+
+Cisco
+Chứng chỉ mạng nền tảng CCNA được công nhận rộng rãi, bao phủ TCP/IP, IPv6, định tuyến, chuyển mạch, bảo mật cơ bản và tự động hóa mạng. 
+Chứng chỉ CCNP (tiếp theo của chứng chỉ CCNA) chứng nhận khả năng triển khai, quản lý và xử lý sự cố các hệ thống mạng doanh nghiệp quy mô lớn.
+Hai chứng chỉ này phù hợp với các học phần về mạng máy tính.
+7
+Professional Scrum Master I (PSM I)
+Scrum.org
+Chứng chỉ xác nhận kiến thức và khả năng áp dụng Scrum trong phát triển phần mềm và quản lý dự án Agile. Phù hợp với các môn Quản lý dự án phần mềm, Phân tích thiết kế hệ thống thông tin. 
+8
+Microsoft Azure AI Fundamentals (AI-900)
+Microsoft
+Chứng chỉ xác nhận hiểu biết về AI, Học máy, Thị giác máy tính và AI tạo sinh trên Azure - phù hợp với các môn Nhập môn trí tuệ nhân tạo, AI trong Hệ thống thông tin.
+Các chứng chỉ chuyên môn nghề nghiệp được công nhận
+TT
+Chứng chỉ chuyên môn nghề nghiệp
+Học phần được công nhận quy đổi
+1
+Oracle Database SQL Certified Associate
+Cơ sở dữ liệu – INT1313
+2
+Microsoft Certified: Azure Database Administrator Associate (DP-300)
+Các hệ thống cơ sở dữ liệu - INT4327
+3
+Oracle Certified Professional (OCP) Database Administrator
+Cơ sở dữ liệu – INT1313
+Các hệ thống cơ sở dữ liệu - INT4327
+4
+Microsoft Power BI Data Analyst Associate (PL-300)
+Phân tích và trực quan hóa dữ liệu - INT14210
+5
+Google Cloud Professional Data Engineer
+Dữ liệu lớn – INT4355
+6
+CCNA (Cisco Certified Network Associate)
+Hoặc:
+CCNP (Cisco Certified Network Professional)
+Quản trị mạng - INT4445
+7
+Professional Scrum Master I (PSM I)
+Quản lý dự án phần mềm - INT14189
+8
+Microsoft Azure AI Fundamentals (AI-900)
+Trí tuệ nhân tạo trong Hệ thống thông tin - INT4448
+

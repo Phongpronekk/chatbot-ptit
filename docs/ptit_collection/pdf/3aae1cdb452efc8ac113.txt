@@ -1,0 +1,306 @@
+### Trang 1
+
+HK1
+(13 TC)
+HK2
+(19TC)
+HK4
+(18TC)
+HK3
+(18TC)
+HK5
+(19TC)
+HK6
+(17TC)
+HK7
+(18TC)
+HK8
+(10TC)
+Tài sản số và Tài 
+chính phi tập 
+trung (3TC)
+Tiếng Anh 
+Course 1
+ (4TC)
+Tiếng Anh 
+Course 2
+ (4TC)
+Tiếng Anh 
+Course 3 
+(4TC)
+Nhập môn Công 
+nghệ số và AI 
+(2TC)
+Cơ sở dữ liệu 
+(Fintech) (3TC)
+Toán cao cấp 1 
+(2TC)
+Toán cao cấp 2 
+(2TC)
+Pháp luật Và Sở 
+hữu trí tuệ (2TC)
+Lý thuyết xác 
+suất và thống kê 
+(3TC)
+02 học phần tự 
+chọn (6TC) (*)
+Nhập môn Khoa 
+học dữ liệu
+(3TC)
+Kinh tế học đại 
+cương (4TC)
+Thực tập và tốt 
+nghiệp (10TC)
+(hoặc các học 
+phần thay thế tốt 
+nghiệp)
+Phân tích nghiệp 
+vụ kinh doanh 
+(3TC)
+Lập trình Python 
+trong kinh tế 
+(3TC)
+Khoa học dữ liệu 
+trong kinh tế và 
+KD (3TC)
+Tài chính doanh 
+nghiệp (3TC)
+Nghiệp vụ ngân 
+hàng thương mại 
+(3TC)
+Lập trình ứng 
+dụng trong TC, 
+KD (3TC)
+An toàn bảo mật 
+thông tin 
+(Fintech) (3TC)
+Phân tích dữ liệu 
+lớn trong tài 
+chính (3TC)
+Kế toán quản trị 
+(3TC)
+Bắt buộc chung
+Bắt buộc chung nhóm ngành
+Kiến thức cơ sở ngành
+Kiến thức Chuyên ngành
+Học phần tiên quyết
+Học phần học trước 
+TIẾN TRÌNH HỌC TẬP CHUẨN 
+Chương trình Phân tích dữ liệu trong tài chính, kinh doanh (ngành Tài chính ngân hàng) 
+Tài chính tiền tệ 
+(3TC)
+Kinh tế lượng tài 
+chính (3TC)
+Tri tuệ nhân tạo 
+trong tài chính 
+(3TC)
+Quản lý và ứng 
+dụng dữ liệu 
+trong TC (3TC)
+Nguyên lý kế 
+toán (3TC)
+Quản trị rủi ro 
+ngân hàng (3TC)
+Các học phần tự chọn (*):
+1. Quản trị dự án Fintech (3TC)  
+2. Tài chính quốc tế (3TC)
+3. Thương mại điện tử căn bản (3TC)
+4. Marketing căn bản (3TC)
+5. Hệ thống thanh toán điện tử (3TC)
+6. Kế toán ngân hàng thương mại (3TC)
+7. Đổi mới sáng tạo tài chính (3TC)
+Quản trị doanh 
+nghiệp (3TC)
+Đầu tư tài chính 
+(3TC)
+02 học phần tự 
+chọn (6TC) (**)
+Tiếng Anh 
+Course 3 Plus 
+(2TC)
+Phát triển hệ 
+thống thông minh 
+KD (BI) (3TC)
+Đề án Phân tích 
+dữ liệu (2TC)
+Phân tích và lập 
+kế hoạch tài 
+chính (3TC)
+Triết học
+Mác-Lênin 
+(3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Lịch sử Đảng 
+cộng sản VN 
+(2TC)
+Triết học
+Mác-Lênin 
+(3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Lịch sử Đảng 
+cộng sản VN 
+(2TC)
+Các học phần tự chọn (**):
+1. Ngân hàng số (3TC)  
+2. Hệ thống hoạch định nguồn lực doanh 
+nghiệp (ERP) (3TC)
+3. Phân tích chuỗi cung ứng (3TC)
+4. Phân tích chuỗi thời gian trong tài 
+chính, kinh doanh (3TC)
+`
+HK1
+(13 TC)
+HK2
+(19TC)
+HK4
+(18TC)
+HK3
+(18TC)
+HK5
+(19TC)
+HK6
+(17TC)
+HK7
+(18TC)
+HK8
+(10TC)
+Tài sản số và Tài 
+chính phi tập 
+trung (3TC)
+Tiếng Anh 
+Course 1
+ (4TC)
+Tiếng Anh 
+Course 2
+ (4TC)
+Tiếng Anh 
+Course 3 
+(4TC)
+Nhập môn Công 
+nghệ số và AI 
+(2TC)
+Cơ sở dữ liệu 
+(Fintech) (3TC)
+Toán cao cấp 1 
+(2TC)
+Toán cao cấp 2 
+(2TC)
+Pháp luật Và Sở 
+hữu trí tuệ (2TC)
+Lý thuyết xác 
+suất và thống kê 
+(3TC)
+02 học phần tự 
+chọn (6TC) (*)
+Nhập môn Khoa 
+học dữ liệu
+(3TC)
+Kinh tế học đại 
+cương (4TC)
+Thực tập và tốt 
+nghiệp (10TC)
+(hoặc các học 
+phần thay thế tốt 
+nghiệp)
+Phân tích nghiệp 
+vụ kinh doanh 
+(3TC)
+Lập trình Python 
+trong kinh tế 
+(3TC)
+Khoa học dữ liệu 
+trong kinh tế và 
+KD (3TC)
+Tài chính doanh 
+nghiệp (3TC)
+Nghiệp vụ ngân 
+hàng thương mại 
+(3TC)
+Lập trình ứng 
+dụng trong TC, 
+KD (3TC)
+An toàn bảo mật 
+thông tin 
+(Fintech) (3TC)
+Phân tích dữ liệu 
+lớn trong tài 
+chính (3TC)
+Kế toán quản trị 
+(3TC)
+Bắt buộc chung
+Bắt buộc chung nhóm ngành
+Kiến thức cơ sở ngành
+Kiến thức Chuyên ngành
+Học phần tiên quyết
+Học phần học trước 
+TIẾN TRÌNH HỌC TẬP CHUẨN 
+Chương trình Phân tích dữ liệu trong tài chính, kinh doanh (ngành Tài chính ngân hàng) 
+Tài chính tiền tệ 
+(3TC)
+Kinh tế lượng tài 
+chính (3TC)
+Tri tuệ nhân tạo 
+trong tài chính 
+(3TC)
+Quản lý và ứng 
+dụng dữ liệu 
+trong TC (3TC)
+Nguyên lý kế 
+toán (3TC)
+Quản trị rủi ro 
+ngân hàng (3TC)
+Các học phần tự chọn (*):
+1. Quản trị dự án Fintech (3TC)  
+2. Tài chính quốc tế (3TC)
+3. Thương mại điện tử căn bản (3TC)
+4. Marketing căn bản (3TC)
+5. Hệ thống thanh toán điện tử (3TC)
+6. Kế toán ngân hàng thương mại (3TC)
+7. Đổi mới sáng tạo tài chính (3TC)
+Quản trị doanh 
+nghiệp (3TC)
+Đầu tư tài chính 
+(3TC)
+02 học phần tự 
+chọn (6TC) (**)
+Tiếng Anh 
+Course 3 Plus 
+(2TC)
+Phát triển hệ 
+thống thông minh 
+KD (BI) (3TC)
+Đề án Phân tích 
+dữ liệu (2TC)
+Phân tích và lập 
+kế hoạch tài 
+chính (3TC)
+Triết học
+Mác-Lênin 
+(3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Lịch sử Đảng 
+cộng sản VN 
+(2TC)
+Các học phần tự chọn (**):
+1. Ngân hàng số (3TC)  
+2. Hệ thống hoạch định nguồn lực doanh 
+nghiệp (ERP) (3TC)
+3. Phân tích chuỗi cung ứng (3TC)
+4. Phân tích chuỗi thời gian trong tài 
+chính, kinh doanh (3TC)
+`

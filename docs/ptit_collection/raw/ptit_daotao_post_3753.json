@@ -1,0 +1,121 @@
+{
+  "id": 3753,
+  "date": "2025-05-05T23:12:12",
+  "date_gmt": "2025-05-05T16:12:12",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=3753"
+  },
+  "modified": "2025-05-05T23:39:46",
+  "modified_gmt": "2025-05-05T16:39:46",
+  "slug": "van-ban-hop-nhat-quy-che-tuyen-sinh-dai-hoc-chinh-quy-nam-2025-cua-bo-giao-duc-va-dao-tao",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/van-ban-hop-nhat-quy-che-tuyen-sinh-dai-hoc-chinh-quy-nam-2025-cua-bo-giao-duc-va-dao-tao/",
+  "title": {
+    "rendered": "Văn bản hợp nhất Quy chế tuyển sinh đại học chính quy của Bộ Giáo dục và Đào tạo"
+  },
+  "content": {
+    "rendered": "<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/VAN-BAN-HOP-NHAT-QUY-CHE-TUYEN-SINH-2025-BGD.pdf\">VAN BAN HOP NHAT QUY CHE TUYEN SINH 2025 &#8211; BGD</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>VAN BAN HOP NHAT QUY CHE TUYEN SINH 2025 &#8211; BGD</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 3394,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13962,
+    13960
+  ],
+  "tags": [],
+  "class_list": [
+    "post-3753",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-quy-che-quy-dinh",
+    "category-dt_tin-tuc-tuyen-sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=3753"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3753/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3394"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=3753"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=3753"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=3753"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

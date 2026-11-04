@@ -1,0 +1,161 @@
+{
+  "chunk_count": 1459,
+  "data_hashes_match": true,
+  "cases": [
+    {
+      "question": "Đăng ký bổ sung ở nội trú tại các KTX Hà Đông tháng 9/2026",
+      "expected_file": "ktx.md",
+      "found_expected": true,
+      "sources": [
+        {
+          "file": "ktx.md",
+          "url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "publish_date": "2026-09-16",
+          "score": 0.94031
+        },
+        {
+          "file": "ktx.md",
+          "url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "publish_date": "2026-09-16",
+          "score": 0.93461
+        },
+        {
+          "file": "ktx.md",
+          "url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "publish_date": "2026-09-16",
+          "score": 0.93313
+        },
+        {
+          "file": "ktx.md",
+          "url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "publish_date": "2026-09-16",
+          "score": 0.93134
+        }
+      ]
+    },
+    {
+      "question": "Thư viện PTIT thông báo lịch phục vụ bạn đọc trong dịp hè năm 2026",
+      "expected_file": "thu_vien.md",
+      "found_expected": true,
+      "sources": [
+        {
+          "file": "thu_vien.md",
+          "url": "https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/",
+          "publish_date": "2026-06-29",
+          "score": 0.94358
+        },
+        {
+          "file": "thu_vien.md",
+          "url": "https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/",
+          "publish_date": "2026-06-29",
+          "score": 0.943
+        },
+        {
+          "file": "thu_vien.md",
+          "url": "https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/",
+          "publish_date": "2026-06-29",
+          "score": 0.93947
+        },
+        {
+          "file": "thu_vien.md",
+          "url": "https://lib.ptit.edu.vn/huong-dan-quy-trinh-su-dung-thu-vien-so-ptit-2026/",
+          "publish_date": "2026-09-04",
+          "score": 0.89525
+        }
+      ]
+    },
+    {
+      "question": "Tiếp sức mùa thi 2026",
+      "expected_file": "clb.md",
+      "found_expected": true,
+      "sources": [
+        {
+          "file": "clb.md",
+          "url": "https://ptit.edu.vn/tiep-suc-mua-thi-2026-khi-tinh-than-ptit-duoc-lan-toa-tu-nhung-viec-lam-gian-di/",
+          "publish_date": "2026-06-11",
+          "score": 0.91183
+        },
+        {
+          "file": "clb.md",
+          "url": "https://ptit.edu.vn/tiep-suc-mua-thi-2026-khi-tinh-than-ptit-duoc-lan-toa-tu-nhung-viec-lam-gian-di/",
+          "publish_date": "2026-06-11",
+          "score": 0.90816
+        },
+        {
+          "file": "clb.md",
+          "url": "https://ptit.edu.vn/tiep-suc-mua-thi-2026-khi-tinh-than-ptit-duoc-lan-toa-tu-nhung-viec-lam-gian-di/",
+          "publish_date": "2026-06-11",
+          "score": 0.90722
+        },
+        {
+          "file": "clb.md",
+          "url": "https://ptit.edu.vn/tiep-suc-mua-thi-2026-khi-tinh-than-ptit-duoc-lan-toa-tu-nhung-viec-lam-gian-di/",
+          "publish_date": "2026-06-11",
+          "score": 0.90516
+        }
+      ]
+    },
+    {
+      "question": "Kế hoạch thực tập khóa 2023-2027 năm 2026",
+      "expected_file": "thuc_tap_viec_lam.md",
+      "found_expected": true,
+      "sources": [
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/",
+          "publish_date": "2026-04-16",
+          "score": 0.91863
+        },
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/",
+          "publish_date": "2026-04-16",
+          "score": 0.9158
+        },
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dai-hoc-chinh-quy-khoa-2022-2027-cac-nganh-attt-kt-dtvt-cntt-clc-cntt-cnkt-d-dt-cndpt/",
+          "publish_date": "2026-04-16",
+          "score": 0.91364
+        },
+        {
+          "file": "thuc_tap_viec_lam.md",
+          "url": "https://giaovu.ptit.edu.vn/ke-hoach-to-chuc-thuc-tap-tich-luy-khoi-kien-thuc-tot-nghiep-cac-lop-dhcq-khoa-2023-2027-nganh-ke-toan-fintech-qtkd-tmdt-marketing-tt-dpt-bao-chi-va-cu-nhan-cntt/",
+          "publish_date": "2026-10-22",
+          "score": 0.91232
+        }
+      ]
+    },
+    {
+      "question": "Thu hồ sơ miễn giảm học phí học kỳ 1 năm học 2026-2027",
+      "expected_file": "quy_che_chung.md",
+      "found_expected": true,
+      "sources": [
+        {
+          "file": "quy_che_chung.md",
+          "url": "https://student.ptit.edu.vn/2026/09/09/thong-bao-ve-viec-thu-ho-so-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/",
+          "publish_date": "2026-09-09",
+          "score": 0.93184
+        },
+        {
+          "file": "quy_che_chung.md",
+          "url": "https://student.ptit.edu.vn/2026/09/09/thong-bao-ve-viec-thu-ho-so-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/",
+          "publish_date": "2026-09-09",
+          "score": 0.92725
+        },
+        {
+          "file": "quy_che_chung.md",
+          "url": "https://student.ptit.edu.vn/2026/09/09/thong-bao-ve-viec-thu-ho-so-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/",
+          "publish_date": "2026-09-09",
+          "score": 0.92397
+        },
+        {
+          "file": "quy_che_chung.md",
+          "url": "https://ptit.edu.vn/thong-bao-ve-viec-thu-ho-so-xet-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-2-nam-hoc-2025-2026/",
+          "publish_date": "2026-02-09",
+          "score": 0.92329
+        }
+      ]
+    }
+  ]
+}

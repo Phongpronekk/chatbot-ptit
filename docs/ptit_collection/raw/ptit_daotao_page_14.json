@@ -1,0 +1,106 @@
+{
+  "id": 14,
+  "date": "2024-08-07T02:03:46",
+  "date_gmt": "2024-08-07T02:03:46",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=14"
+  },
+  "modified": "2026-06-16T23:38:25",
+  "modified_gmt": "2026-06-16T16:38:25",
+  "slug": "tong-quan-hoc-vien",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/gioi-thieu/tong-quan-hoc-vien/",
+  "title": {
+    "rendered": "Tổng quan Học viện"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"14\" class=\"elementor elementor-14\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3ce4160 e-flex e-con-boxed e-con e-parent\" data-id=\"3ce4160\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-66c40ba elementor-widget elementor-widget-heading\" data-id=\"66c40ba\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Ý nghĩa Logo của Học viện</h2>\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-3812242 elementor-widget elementor-widget-image\" data-id=\"3812242\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"665\" height=\"374\" src=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/Slide-16_9-1.png\" class=\"attachment-large size-large wp-image-16\" alt=\"\" srcset=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/Slide-16_9-1.png 665w, https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/Slide-16_9-1-300x169.png 300w\" sizes=\"(max-width: 665px) 100vw, 665px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f0a9a7f elementor-widget elementor-widget-text-editor\" data-id=\"f0a9a7f\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<h5>1. Hình khối của logo</h5><p>&#8211; Logo của Học viện thể hiện hình ảnh cô đọng nhất về Học viện. Khối Logo của Học viện bao gồm hình tròn và hình vuông. Theo quan niệm Á Đông, hình tròn tượng trưng cho sự sinh tồn vĩnh cửu của tự nhiên, nói lên sự đầy đủ, thịnh vượng và phát triển. Cũng theo ý nghĩa triết học Phương Đông, logo Học viện thể hiện mối quan hệ cơ bản: Thiên (tròn) – Địa (vuông) – Nhân (Học viện); trong đó Học viện là trung tâm. Cấu trúc logo mở thể hiện Học viện gắn liền với thực tiễn, với xã hội và luôn phát triển không ngừng.<br />&#8211; Ba vòng tròn quyện vào nhau và chuyển hóa sang nhau thể hiện 3 gắn kết: Đào tạo – Nghiên cứu – Sản xuất Kinh doanh.<br />&#8211; Hình ảnh quyển sách mở rộng và mô hình cấu trúc nguyên tử: biểu tượng 2 hoạt động chính của Học viện là đào tạo và nghiên cứu<br />&#8211; Chữ PTIT (tên viết tắt tiếng Anh của Học viện – Posts &amp; Telecoms Institute of Technology) đồng thời là Bưu chính (P), Viễn thông (T) và Công nghệ thông tin (IT) – 3 lĩnh vực nghiên cứu và đào tạo của Học viện</p><h5>2. Màu sắc logo</h5><p>Logo Học viện lấy màu đỏ làm chủ đạo và ngôi sao vàng biểu trưng cho cờ Tổ quốc Việt Nam.</p>\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>/*! elementor &#8211; v3.22.0 &#8211; 26-06-2024 */ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]&gt;a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px} Ý nghĩa Logo của Học viện /*! elementor &#8211; v3.22.0 &#8211; 26-06-2024 */ .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=&#8221;.svg&#8221;]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block} 1. Hình khối của logo &#8211; Logo của Học viện thể hiện hình ảnh cô đọng nhất về Học viện. Khối Logo của [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 373,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit-sibling",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-14",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/14",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=14"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/14/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5116,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/14/revisions/5116"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/373"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=14"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

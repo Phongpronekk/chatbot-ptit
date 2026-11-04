@@ -1,0 +1,119 @@
+{
+  "id": 33096,
+  "date": "2025-10-02T08:35:44",
+  "date_gmt": "2025-10-02T08:35:44",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33096"
+  },
+  "modified": "2025-12-29T08:43:03",
+  "modified_gmt": "2025-12-29T08:43:03",
+  "slug": "khoa-hoc-cong-nghe-5g-6g-va-ai-trong-vien-thong",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/10/02/khoa-hoc-cong-nghe-5g-6g-va-ai-trong-vien-thong/",
+  "title": {
+    "rendered": "Khóa học “Công nghệ 5G/6G và AI trong viễn thông”"
+  },
+  "content": {
+    "rendered": "<p>Thực hiện chương trình hợp tác giữa Học viện và Samsung Việt Nam, khoa Viễn thông 1 sẽ tổ chức các khoa học về “Công nghệ 5G/6G và AI trong viễn thông”:</p>\n<p>Thời gian: Bắt đầu khai giảng từ tháng 11/2025</p>\n<ul class=\"KsbFXc U6u95\" data-processed=\"true\">\n<li data-hveid=\"CAMQAA\"><span class=\"T286Pc\" data-sfc-cp=\"\"><strong class=\"Yjhzub\">Đơn vị tổ chức:</strong> Khoa Viễn thông 1 (VT1).</span></li>\n<li data-hveid=\"CAMQAQ\"><span class=\"T286Pc\" data-sfc-cp=\"\"><strong class=\"Yjhzub\">Thời gian:</strong> Khai giảng vào ngày 26/11/2025, các buổi học diễn ra sau đó.</span></li>\n<li data-hveid=\"CAMQAg\"><span class=\"T286Pc\" data-sfc-cp=\"\"><strong class=\"Yjhzub\">Đối tượng:</strong> Sinh viên năm 3, 4 ngành Viễn thông (và có thể các chuyên ngành liên quan).</span></li>\n<li data-hveid=\"CAMQAw\"><span class=\"T286Pc\" data-sfc-cp=\"\"><strong class=\"Yjhzub\">Nội dung nổi bật:</strong></span>\n<ul class=\"KsbFXc U6u95\">\n<li data-hveid=\"CAMQBA\"><span class=\"T286Pc\" data-sfc-cp=\"\">Cung cấp kiến thức nền tảng và chuyên sâu về 5G, 6G và ứng dụng AI.</span></li>\n<li data-hveid=\"CAMQBQ\"><span class=\"T286Pc\" data-sfc-cp=\"\">Thực hành Đo kiểm mạng di động 5G với sự tham gia của chuyên gia thực tế.</span></li>\n</ul>\n</li>\n<li data-hveid=\"CAMQBg\"><span class=\"T286Pc\" data-sfc-cp=\"\"><strong class=\"Yjhzub\">Mục tiêu:</strong> Nâng cao kỹ năng thực tế, giúp sinh viên tiếp cận công nghệ viễn thông hiện đại, đáp ứng yêu cầu thị trường lao động.</span><span class=\"uJ19be notranslate\" data-wiz-uids=\"xkbqac_18,xkbqac_19,xkbqac_1a\"><span class=\"vKEkVd\" data-animation-atomic=\"\" data-wiz-attrbind=\"class=xkbqac_18/TKHnVd;\"> <button class=\"rBl3me\" data-amic=\"true\" data-icl-uuid=\"ba33aeab-2ab7-45b7-bcda-144bbd692738\" aria-label=\"Xem các đường liên kết có liên quan\" data-wiz-attrbind=\"disabled=xkbqac_18/C5gNJc;class=xkbqac_18/UpSNec;\" data-ved=\"2ahUKEwiAyaGjsuKRAxUdh1YBHdfSLwcQye0OegQIAxAH\"></button></span></span></li>\n</ul>\n<div class=\"Y3BBE\" data-sfc-cp=\"\" data-hveid=\"CAQQAA\" data-processed=\"true\">Đây là một hoạt động đào tạo chuyên môn hóa, giúp sinh viên PTIT có trải nghiệm và kiến thức quý báu về các công nghệ viễn thông tương lai.</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thực hiện chương trình hợp tác giữa Học viện và Samsung Việt Nam, khoa Viễn thông 1 sẽ tổ chức các khoa học về “Công nghệ 5G/6G và AI trong viễn thông”: Thời gian: Bắt đầu khai giảng từ tháng 11/2025 Đơn vị tổ chức: Khoa Viễn thông 1 (VT1). Thời gian: Khai giảng vào ngày 26/11/2025, [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 32903,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33096",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33096",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33096"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33096/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32903"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33096"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33096"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33096"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

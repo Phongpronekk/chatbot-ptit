@@ -1,0 +1,125 @@
+{
+  "id": 33368,
+  "date": "2026-07-11T02:54:00",
+  "date_gmt": "2026-07-11T02:54:00",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33368"
+  },
+  "modified": "2026-07-11T02:54:00",
+  "modified_gmt": "2026-07-11T02:54:00",
+  "slug": "thong-bao-khen-thuong-sinh-vien-hoc-ky-i-nam-hoc-2025-2026-co-so-dao-tao-ha-noi",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/07/11/thong-bao-khen-thuong-sinh-vien-hoc-ky-i-nam-hoc-2025-2026-co-so-dao-tao-ha-noi/",
+  "title": {
+    "rendered": "Thông báo: Khen thưởng sinh viên học kỳ I năm học 2025-2026 (Cơ sở đào tạo Hà Nội)"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: justify\">Căn cứ Quyết định số 1960/QĐ-HV ngày 08/7/2026 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc khen thưởng sinh viên học kỳ I năm học 2025-2026 hệ Đại học chính quy – Cơ sở đào tạo Hà Nội;<br />\nHọc viện Công nghệ Bưu chính Viễn thông thông báo công nhận danh hiệu thi đua và mức khen thưởng cụ thể cho các tập thể lớp và sinh viên đạt thành tích xuất sắc trong học kỳ I năm học 2025-2026 như sau:<br />\n1. Danh hiệu thi đua và Khen thưởng:<br />\n• 15 tập thể lớp đạt danh hiệu Tập thể lớp xuất sắc<br />\n• 324 sinh viên đạt danh hiệu sinh viên Xuất sắc<br />\n• 2.754 sinh viên đạt danh hiệu sinh viên giỏi<br />\n2. Danh sách khen thưởng chi tiết tại đây: <a href=\"https://ptit.edu.vn/wp-content/uploads/2026/07/DS-khen-thuong-1.pdf\">DS khen thuong 1</a><br />\nHọc viện chúc mừng các tập thể lớp và các em sinh viên đã đạt thành tích cao trong học tập cũng như rèn luyện trong học kỳ vừa qua. Chúc các em tiếp tục giữ vững phong độ và đạt kết quả cao hơn nữa trong các học kỳ tiếp theo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Quyết định số 1960/QĐ-HV ngày 08/7/2026 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc khen thưởng sinh viên học kỳ I năm học 2025-2026 hệ Đại học chính quy – Cơ sở đào tạo Hà Nội; Học viện Công nghệ Bưu chính Viễn thông thông báo công nhận [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 81,
+  "featured_media": 33369,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33368",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33368",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/81"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33368"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33368/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33370,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33368/revisions/33370"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33369"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33368"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33368"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33368"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

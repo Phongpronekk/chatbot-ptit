@@ -1,0 +1,106 @@
+{
+  "id": 274,
+  "date": "2024-08-07T14:05:31",
+  "date_gmt": "2024-08-07T07:05:31",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=274"
+  },
+  "modified": "2026-06-16T23:38:26",
+  "modified_gmt": "2026-06-16T16:38:26",
+  "slug": "doi-ngu-can-bo-phong-dao-tao",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/gioi-thieu/doi-ngu-can-bo-phong-dao-tao/",
+  "title": {
+    "rendered": "Đội ngũ cán bộ (Phòng Đào tạo)"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"274\" class=\"elementor elementor-274\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-99deaa6 e-flex e-con-boxed e-con e-parent\" data-id=\"99deaa6\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-715fbf1 elementor-widget elementor-widget-heading\" data-id=\"715fbf1\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Ban lãnh đạo phòng</h2>\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-3716bf0 elementor-widget elementor-widget-text-editor\" data-id=\"3716bf0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<p>1.Ông Đặng Văn Tùng (Quyền trưởng phòng)<br>2.Bà Nguyễn Thị Hồng Huệ (Phó trưởng phòng)</p>\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b0ce6c3 elementor-widget elementor-widget-heading\" data-id=\"b0ce6c3\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Chức vụ khác</h2>\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e07e4ff elementor-widget elementor-widget-text-editor\" data-id=\"e07e4ff\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<p>1.Bà Đinh Thị Bích Hạnh (CV Tuyển sinh chính quy)<br />2.Bà Phạm Hải Quỳnh (CV Tuyển sinh phi chính quy)<br />3.Bà Hoàng Thị Nương (CV Tư vấn tuyển sinh)<br />4.Bà Nguyễn Thị Tuyết (CV Quản lý xét tốt nghiệp)<br />5.Bà Tô Thị Ngọc Hà (CV Quản lý cấp phát văn bằng)<br />6.Ông Bùi Đình Phúc (CV Tuyển sinh chính quy)</p>\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>/*! elementor &#8211; v3.22.0 &#8211; 26-06-2024 */ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]&gt;a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px} Ban lãnh đạo phòng 1.Ông Đặng Văn Tùng (Quyền trưởng phòng)2.Bà Nguyễn Thị Hồng Huệ (Phó trưởng phòng) À l&#8217;heure où chaque nouvel acteur cherche à se distinguer, https://horus-casino.space y parvient sans recourir aux artifices habituels. Le tableau de bord centralise [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 8,
+  "featured_media": 0,
+  "parent": 373,
+  "menu_order": 3,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit-sibling",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-274",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/274",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/8"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=274"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/274/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5121,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/274/revisions/5121"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/373"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=274"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

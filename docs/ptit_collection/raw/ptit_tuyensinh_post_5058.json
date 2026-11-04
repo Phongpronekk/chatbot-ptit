@@ -1,0 +1,119 @@
+{
+  "id": 5058,
+  "date": "2026-04-09T12:03:52",
+  "date_gmt": "2026-04-09T05:03:52",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5058"
+  },
+  "modified": "2026-04-10T09:32:18",
+  "modified_gmt": "2026-04-10T02:32:18",
+  "slug": "hoc-bong-mien-50-hoc-phi-trong-nam-hoc-thu-nhat",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/hoc-bong-mien-50-hoc-phi-trong-nam-hoc-thu-nhat/",
+  "title": {
+    "rendered": "HỌC BỔNG MIỄN 50% HỌC PHÍ TRONG NĂM HỌC THỨ NHẤT"
+  },
+  "content": {
+    "rendered": "<p><span style=\"color: #000000\">Năm 2026, Học viện Công nghệ Bưu chính Viễn thông cấp <strong>tối đa 300 suất</strong> học bổng miễn 50% học phí trong năm học thứ nhất cho đối tượng là các thí sinh đoạt giải trong kỳ thi học sinh giỏi hoặc đạt kết quả cao trong kỳ thi tốt nghiệp THPT năm 2026;</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Năm 2026, Học viện Công nghệ Bưu chính Viễn thông cấp tối đa 300 suất học bổng miễn 50% học phí trong năm học thứ nhất cho đối tượng là các thí sinh đoạt giải trong kỳ thi học sinh giỏi hoặc đạt kết quả cao trong kỳ thi tốt nghiệp THPT năm 2026;</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5161,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    29
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5058",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_chuong-trinh-hoc-bong"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5058",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5058"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5058/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5161"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5058"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5058"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5058"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

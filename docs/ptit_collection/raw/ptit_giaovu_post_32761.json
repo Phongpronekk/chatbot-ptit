@@ -1,0 +1,123 @@
+{
+  "id": 32761,
+  "date": "2025-08-25T08:34:23",
+  "date_gmt": "2025-08-25T01:34:23",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32761"
+  },
+  "modified": "2025-08-25T08:34:23",
+  "modified_gmt": "2025-08-25T01:34:23",
+  "slug": "nghi-le-quoc-khanh-nam-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/nghi-le-quoc-khanh-nam-2025/",
+  "title": {
+    "rendered": "Nghỉ Lễ Quốc khánh năm 2025"
+  },
+  "content": {
+    "rendered": "<p>&#8211; Căn cứ Kế hoạch đào tạo năm học 2025-2026 của Học viện.</p>\n<p>&#8211; Căn cứ Thông báo của Học viện về việc nghỉ Lễ Quốc khánh năm 2025.</p>\n<p>Phòng Giáo vụ thông báo tới các Khoa đào tạo 1, các Viện nghiên cứu và các lớp sinh viên hệ Đại học chính quy <strong>lịch nghỉ Lễ Quốc khánh năm 2025</strong> như sau:</p>\n<p>&#8211; Thời gian nghỉ: Từ thứ Bảy ngày 30/8/2025 tới ngày thứ Ba 02/9/2025.</p>\n<p>&#8211; Từ ngày thứ Tư 03/9/2025, sinh viên quay trở lại Học viện học tập theo Kế hoạch và Thời khóa biểu đã ban hành.</p>\n<p>Phòng Giáo vụ thông báo tới các Khoa đào tạo 1, các Viện nghiên cứu, các Đơn vị có liên quan và các lớp sinh viên biết để cùng phối hợp triển khai thực hiện.</p>\n<p><strong>Trân trọng thông báo!</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>&#8211; Căn cứ Kế hoạch đào tạo năm học 2025-2026 của Học viện. &#8211; Căn cứ Thông báo của Học viện về việc nghỉ Lễ Quốc khánh năm 2025. Phòng Giáo vụ thông báo tới các Khoa đào tạo 1, các Viện nghiên cứu và các lớp sinh viên hệ Đại học chính quy lịch [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32452,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32761",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32761",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32761"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32761/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32452"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32761"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32761"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32761"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

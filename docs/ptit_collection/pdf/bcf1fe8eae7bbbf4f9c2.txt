@@ -1,0 +1,358 @@
+### Trang 1
+
+Tên Đơn vị/Organization:
+TOEIC 
+Placement
+Người nhận bản mềm báo cáo điểm sau thi:
+Người nhận Chứng chỉ điểm bản cứng:
+Địa chỉ nhận Chứng chỉ điểm bản cứng:
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chú
+1 Nam Vũ Quốc An 08 03 2008 B26VHCN010 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+2 Nam Bùi Đức Anh 24 03 2007 B26VHCN042 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+3 Nam Hoàng Đức Anh 22 08 2008 B26VHCN007 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+4 Nữ Ngô Thị Phương Anh 17 04 2008 B26VHTT025 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+5 Nữ Nguyễn Lê Hà Anh 14 07 2008 B26VHTT018 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+6 Nữ Nguyễn Ngọc Tâm Anh 16 03 2008 B26VHTT030 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+7 Nữ Phạm Diệp Anh 15 03 2008 B26VHTT009 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+8 Nam Tô Duy Anh 18 05 2008 B26VHCN050 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+9 Nữ Trần Thị Lan Anh 03 02 2008 B26VHQT023 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+10 Nam Trần Xuân Bách 03 01 2008 B26VHTT027 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+11 Nam Chu Chí Bằng 07 08 2008 B26VHTT056 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+12 Nữ Bạch Thúy Bình 12 10 2008 B26VHCN023 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+Điện thoại/Tel:
+Người đăng 
+ký/Contact 
+Danh sách chi tiết/List of entrants :
+Họ và tên
+(Xin vui lòng điền đầy đủ thông tin vào tất cả các mục dưới đây)
+(Be sure to complete all  items in the form)
+Viện Kinh tế Bưu điện
+Loại bài thi/Type of Test: TOEIC Listening & Reading
+Địa chỉ /Address : 
+ 
+Mã hiệu: IIG.TCT.QT.21-BM.01
+Lần ban hành:01
+Ngày ban hành: 18/8/2022
+Ngày hiệu lực: 25/8/2022
+
+
+### Trang 2
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+13 Nam Lê Nam Bình 28 12 2008 B26VHTT014 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+14 Nữ Phạm Minh Châu 03 08 2008 B26VHQT026 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+15 Nữ Tạ Yến Chi 10 07 2008 B26VHTT049 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+16 Nam Nguyễn Công Chính 16 02 2008 B26VHCN009 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+17 Nam Vũ Anh Đức 02 04 2008 B26VHCN029 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+18 Nam Nguyễn Đức Dũng 02 10 2008 B26VHCN046 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+19 Nam Lê Minh Dương 02 03 2008 B26VHQT020 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+20 Nam Ngô Đại Dương 01 01 2008 B26VHCN053 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+21 Nam Nguyễn Ngọc Duy 06 01 2008 B26VHQT036 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+22 Nam Hoàng Tiến Hưng 19 03 2008 B26VHCN008 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+23 Nam Tạ Gia Khôi 12 02 2008 B26VHCN035 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+24 Nam Trần Trung Kiên 07 08 2008 B26VHCN016 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+25 Nữ Nguyễn Cù Phương Linh 25 01 2008 B26VHQT016 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+26 Nữ Nguyễn Nhật Linh 21 09 2007 B26VHQT029 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+27 Nữ Phạm Thùy Linh 16 01 2008 B26VHCN040 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+28 Nữ Phạm Trà Mi 05 10 2007 B26VHTT041 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+29 Nữ Trần Thị Trà My 03 11 2008 B26VHTT055 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+30 Nam Nguyễn Trọng Nghĩa 24 06 2005 B26VHTT033 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+31 Nữ Vũ Thị Tuyết Nhi 09 02 2008 B26VHTT023 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+32 Nam Nguyễn An Phú 28 06 2008 B26VHCN044 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+33 Nam Tạ Văn Phú 29 10 2008 B26VHCN001 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+34 Nam Hoàng Trần Minh Quân 02 12 2008 B26VHVT002 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+35 Nữ Nguyễn Như Quỳnh 10 10 2007 B26VHTT048 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+
+### Trang 3
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+36 Nam Vũ Thành Tâm 02 02 2008 B26VHQT012 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+37 Nam Khiếu Đức Thành 01 02 2008 B26VHCN057 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+38 Nữ Đặng Minh Thư 17 10 2008 B26VHTT005 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+39 Nam Bùi Đình Thuận 14 08 2008 B26VHQT031 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+40 Nữ Dương Hà Trang 13 12 2008 B26VHTT021 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+41 Nam Lâm Nhất Trung 20 01 2008 B26VHTT032 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+42 Nam Phạm Thành Trung 01 07 2008 B26VHCN033 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+43 Nam Dương Tuấn Tú 17 11 2008 B26VHCN030 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+44 Nam Nguyễn Huy Tuấn 11 04 2008 B26VHCN022 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+45 Nam Vương Anh Vũ 04 02 2008 B26VHCN045 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 601 A3
+46 Nam Lưu Đức Anh 31 10 2008 B26VHVT005 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+47 Nam Nguyễn Đăng Tuấn Anh 02 11 2008 B26VHCN041 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+48 Nam Nguyễn Đức Anh 23 10 2008 B26VHCN037 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+49 Nữ Nguyễn Phương Anh 29 10 2008 B26VHQT014 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+50 Nữ Tô Thị Hà Chi 25 10 2005 B26VHTT047 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+51 Nam Nguyễn Văn Đạt 27 09 2007 B26VHTT035 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+52 Nam Phạm Tiến Đạt 06 04 2006 B26VHVT012 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+53 Nam Nguyễn Đắc Dương 02 02 2008 B26VHQT027 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+54 Nam Trần Đình Hải 02 07 2008 B26VHCN005 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+55 Nữ Nguyễn Thị Thúy Hiển 21 08 2008 B26VHTT026 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+56 Nam Phạm Duy Hiển 04 04 2008 B26VHCN038 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+57 Nam Bùi Huy Hoàng 20 11 2008 B26VHCN026 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+58 Nam Ngô Hoàng 05 06 2008 B26VHCN015 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+
+### Trang 4
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+59 Nam Nguyễn Huy Hoàng 25 08 2008 B26VHVT009 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+60 Nữ Phạm Thị Cẩm Hồng 25 09 2006 B26VHCN027 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+61 Nữ Nguyễn Trần Minh Hương 12 08 2008 B26VHTT004 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+62 Nam Nguyễn Như Huy 10 01 2008 B26VHCN003 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+63 Nam Nguyễn Quang Huy 29 03 2008 B26VHQT017 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+64 Nữ Đỗ Hà Linh 13 09 2008 B26VHTT044 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+65 Nữ Nguyễn Thùy Linh 24 01 2008 B26VHCN049 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+66 Nữ Nguyễn Hồng Ngọc 08 01 2008 B26VHQT009 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+67 Nam Đỗ Anh Nguyên 02 08 2008 B26VHVT003 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+68 Nam Nguyễn Hoàng Nguyên 01 12 2008 B26VHQT006 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+69 Nam Nguyễn Hoàng Nhật 12 02 2008 B26VHVT011 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+70 Nam Trần Thanh Phong 09 02 2008 B26VHVT008 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+71 Nam Võ Thành Sang 30 11 2007 B26VHCN059 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+72 Nam Nguyễn Hoàng Sơn 22 09 2008 B26VHQT030 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+73 Nam Lê An Quốc Thái 05 03 2008 B26VHQT025 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+74 Nữ Nguyễn Thị Hương Thảo 03 09 2008 B26VHCN025 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+75 Nữ Phùng Bảo Trang 12 09 2007 B26VHTT052 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+76 Nam Đoàn Văn Trường 14 01 2008 B26VHCN006 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+77 Nữ Vương Phương Uyên 17 12 2008 B26VHTT007 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+78 Nam Hoàng Quốc Việt 10 09 2008 B26VHVT004 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+79 Nam Bùi Đức Vinh 07 05 2007 B26VHCN043 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+80 Nam Trần Huy Vũ 23 06 2003 B26VHQT024 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 603 A3
+81 Nữ Hà Nhật Anh 15 05 2008 B26VHCN031 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+
+### Trang 5
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+82 Nam Phạm Hoàng Anh 04 02 2008 B26VHQT010 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+83 Nam Vũ Đức Anh 04 03 2008 B26VHCN055 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+84 Nam Hà Việt Gia Bách 24 06 2008 B26VHTT039 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+85 Nữ Lê Nguyễn Thanh Bình 16 10 2007 B26VHCN018 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+86 Nam Nguyễn Đức Cảnh 24 04 2008 B26VHCN054 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+87 Nữ Nguyễn Thị Mai Chi 31 08 2007 B26VHTT037 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+88 Nữ Phạm Thị Khánh Chi 27 07 2008 B26VHCN013 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+89 Nam Trương Trọng Chí 04 07 2008 B26VHCN039 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+90 Nam Dương Thành Công 27 12 2008 B26VHQT004 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+91 Nam Nguyễn Hữu Công 15 08 2008 B26VHQT028 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+92 Nam Đỗ Đăng Đạt 06 01 2008 B26VHTT043 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+93 Nam Nguyễn Tuấn Đạt 02 06 2008 B26VHTT011 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+94 Nam Phan Tiến Đạt 02 01 2008 B26VHCN024 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+95 Nữ Nguyễn Huyền Diệu 31 07 2008 B26VHQT005 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+96 Nam Kiều Văn Doanh 16 12 2008 B26VHCN012 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+97 Nam Triệu Hùng Đức 15 09 2008 B26VHTT054 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+98 Nữ Nguyễn Thị Mỹ Duyên 08 10 2008 B26VHTT022 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+99 Nữ Hồ Hương Giang 11 01 2008 B26VHTT024 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+100 Nam Trần Đình Hải 28 04 2008 B26VHCN036 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+101 Nữ Nguyễn Thị Mỹ Hảo 20 09 2008 B26VHTT020 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+102 Nam Nguyễn Hữu Hùng 21 04 2008 B26VHVT007 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+103 Nam Nguyễn Nhật Huy 01 12 2008 B26VHQT033 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+104 Nữ Nguyễn Thị Ngọc Mai 15 06 2008 B26VHTT046 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+
+### Trang 6
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+105 Nam Nguyễn Văn Minh 27 11 2008 B26VHQT037 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+106 Nam Nguyễn Bỉnh Minh Nghĩa 07 09 2008 B26VHTT013 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+107 Nam Nguyễn Thành Nghĩa 04 09 2008 B26VHQT011 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+108 Nam Lê Đình Ngọc 11 12 2008 B26VHCN019 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+109 Nữ Nguyễn Bích Ngọc 04 04 2008 B26VHTT042 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+110 Nam Nguyễn Văn Nhàn 03 03 2008 B26VHVT001 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+111 Nam Vũ Tráng Mạnh Phát 08 11 2008 B26VHVT006 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+112 Nam Nguyễn Bùi Vũ Phong 31 10 2008 B26VHCN002 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+113 Nam Phạm Đức Phúc 16 08 2008 B26VHVT010 D26VHVT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+114 Nữ Nguyễn Phạm Hà Phương 09 06 2008 B26VHCN020 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+115 Nam Dương Mạnh Quang 04 08 2008 B26VHQT015 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+116 Nữ Dương Minh Thảo 26 09 2008 B26VHQT001 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+117 Nữ Trương Quỳnh Thơ 14 01 2008 B26VHQT007 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+118 Nữ Trịnh Quỳnh Thư 30 05 2008 B26VHQT018 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+119 Nữ Dương Huyền Trang 29 05 2008 B26VHQT022 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+120 Nam Nguyễn Hữu Tuấn 18 02 2008 B26VHCN028 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+121 Nam Hoàng Anh Tùng 03 09 2008 B26VHCN051 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+122 Nữ Lê Thị Tuyết 16 06 2008 B26VHTT051 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+123 Nam Nguyễn Đức Việt 22 06 2008 B26VHTT012 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+124 Nam Bùi Quang Vinh 08 04 2008 B26VHCN032 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+125 Nam Cao Mạnh Vinh 17 01 2008 B26VHCN014 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 609 A3
+126 Nam Lê Trường An 16 12 2008 B26VHTT015 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+127 Nữ Đỗ Phương Anh 05 11 2008 B26VHTT010 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+
+### Trang 7
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+128 Nữ Nguyễn Kiều Anh 09 11 2008 B26VHQT035 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+129 Nữ Nguyễn Ngọc Diệp Anh 12 09 2008 B26VHTT002 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+130 Nam Nguyễn Ngọc Ánh 18 06 2008 B26VHQT019 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+131 Nữ Trịnh Ngọc Ánh 20 05 2007 B26VHTT016 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+132 Nữ Trương Ngọc Ánh 04 01 2008 B26VHTT008 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+133 Nam Mai Nguyễn Gia Bảo 30 04 2008 B26VHQT032 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+134 Nam Vũ Tiến Đạt 20 06 2008 B26VHCN056 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+135 Nữ Trần Thái Hà 20 08 2008 B26VHTT028 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+136 Nam Nguyễn Anh Hào 10 12 2008 B26VHCN017 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+137 Nam Nguyễn Mậu Minh Hiếu 20 01 2008 B26VHTT034 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+138 Nam Dương Hoàng Huy 07 04 2008 B26VHCN048 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+139 Nam Ngô Hồng Khanh 01 04 2008 B26VHCN052 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+140 Nam Đặng Trung Kiên 05 08 2008 B26VHTT045 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+141 Nam Chử Hoàng Lâm 31 03 2008 B26VHQT013 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+142 Nữ Nguyễn Phương Linh 02 12 2007 B26VHTT029 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+143 Nam Cao Đức Lương 21 09 2008 B26VHCN058 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+144 Nữ Nguyễn Thị Khánh Ly 07 03 2008 B26VHCN021 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+145 Nữ Nguyễn Ngọc Mai 26 01 2008 B26VHQT003 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+146 Nữ Nguyễn Huyền Nhi 22 08 2008 B26VHQT021 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+147 Nam Lê Đức Phong 06 07 2007 B26VHQT034 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+148 Nam Thái Nhật Quang 05 11 2008 B26VHTT001 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+149 Nam Nguyễn Đức Thắng 24 07 2007 B26VHCN047 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+150 Nam Trần Ngọc Thức 25 07 2008 B26VHTT050 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+
+### Trang 8
+
+STT 
+No.
+Giới tính/
+Gender
+Ngày 
+sinh
+Date
+Tháng 
+sinh
+Month
+Năm 
+sinh
+Year
+Mã SV
+Code
+Lớp
+Class
+Ngày thi
+Test Date Ca thi Giờ TS có mặt Phòng thi Ghi chúHọ và tên
+151 Nữ Nguyễn Thanh Thùy 16 07 2008 B26VHTT053 D26VHTT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+152 Nam Nguyễn Việt Toàn 02 06 2008 B26VHQT008 D26VHQT01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+153 Nam Nguyễn Đình Trưởng 16 06 2008 B26VHCN034 D26VHCN01-B 18-Sep-26 Ca 4: 16:30-19:15 16:15 Phòng 611 A3
+Danh sách này phải tuyệt đối chính xác. Nếu tại ngày thi, giám thị phát hiện thông tin thí sinh trên danh sách không trùng với thông tin trên giấy tờ tùy 
+thân của thí sinh, thí sinh sẽ không được dự thi và không được hoàn trả lệ phí thi.
+The information included in this list must be completely accurate. If such information is found different from that in the test taker's ID on the test date, 
+Danh sách này phải được gửi cho IIG Việt Nam trước ngày thi muộn nhất 15 ngày làm việc.
+This list must be summited to IIG Vietnam no less than 15 working days.
+Trần Đình Nam
+Danh sách có 153 người.
+This list comprises 153 test takers.

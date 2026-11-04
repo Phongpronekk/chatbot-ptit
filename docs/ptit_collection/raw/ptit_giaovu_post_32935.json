@@ -1,0 +1,125 @@
+{
+  "id": 32935,
+  "date": "2025-10-08T16:58:06",
+  "date_gmt": "2025-10-08T09:58:06",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32935"
+  },
+  "modified": "2025-10-08T16:58:06",
+  "modified_gmt": "2025-10-08T09:58:06",
+  "slug": "cap-nhat-diem-thi-hoc-ky-ii-nam-hoc-2024-2025-tren-he-thong-qldt",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/cap-nhat-diem-thi-hoc-ky-ii-nam-hoc-2024-2025-tren-he-thong-qldt/",
+  "title": {
+    "rendered": "Cập nhật điểm thi học kỳ II năm học 2024-2025 trên hệ thống QLĐT"
+  },
+  "content": {
+    "rendered": "<div class=\"post-content\">\n<div class=\"ck-content ng-star-inserted\">\n<div>\n<p><i><strong>Kính gửi: </strong></i> <strong>Sinh viên các lớp đại học chính quy – cơ sở Hà Nội</strong></p>\n<p>Thực hiện kế hoạch đào tạo năm học 2024-2025, Trung tâm Khảo thí &amp; ĐBCLGD và Phòng Giáo vụ đã hoàn thành việc cập nhật điểm học kỳ II năm học 2024-2025 các khóa 2020, 2021, 2022, 2023, 2024 và các khóa khác còn hạn đào tạo trên hệ thống Quản lý đào tạo (https://qldt.ptit.edu.vn).</p>\n<p>Phòng Giáo vụ yêu cầu các sinh viên đăng nhập vào hệ thống QLĐT kiểm tra, rà soát điểm của mình.</p>\n<p>Các trường hợp sai lệch thông tin về điểm đề nghị sinh viên gửi email (phải gửi từ email được Học viện cấp) đến cô Hoàng Kim Cúc – phòng Giáo vụ – hkcuc@ptit.edu.vn trước 17h00 ngày 17/10/2025 để được xem xét giải quyết.</p>\n<p>Lưu ý: Nội dung email sinh viên phải ghi rõ các thông tin thắc mắc, kèm số điện thoại liên lạc.</p>\n<p>Trân trọng ./.</p>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi:  Sinh viên các lớp đại học chính quy – cơ sở Hà Nội Thực hiện kế hoạch đào tạo năm học 2024-2025, Trung tâm Khảo thí &amp; ĐBCLGD và Phòng Giáo vụ đã hoàn thành việc cập nhật điểm học kỳ II năm học 2024-2025 các khóa 2020, 2021, 2022, 2023, 2024 và [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32454,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    7,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32935",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ket-qua-hoc-tap",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32935",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32935"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32935/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32454"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32935"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32935"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32935"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": 33635,
+  "date": "2026-09-29T09:06:59",
+  "date_gmt": "2026-09-29T02:06:59",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33635"
+  },
+  "modified": "2026-09-29T09:06:59",
+  "modified_gmt": "2026-09-29T02:06:59",
+  "slug": "phat-the-sinh-vien-doi-voi-cac-sinh-vien-he-dai-hoc-chinh-quy-cac-khoa-truoc-dang-ky-lam-lai-the-hk-i-2026-2027",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/phat-the-sinh-vien-doi-voi-cac-sinh-vien-he-dai-hoc-chinh-quy-cac-khoa-truoc-dang-ky-lam-lai-the-hk-i-2026-2027/",
+  "title": {
+    "rendered": "Phát thẻ sinh viên đối với các sinh viên hệ Đại học chính quy các khóa trước đăng ký làm lại thẻ HK I 2026-2027"
+  },
+  "content": {
+    "rendered": "<p>Phòng Giáo vụ thông báo cấp, phát thẻ sinh viên cho các trường hợp sinh viên thuộc các lớp Đại học chính quy các khóa đã đăng ký làm lại thẻ trong học kỳ I năm học 2026-2027 như sau:</p>\n<p>&#8211; Thời gian: từ thứ 4 ngày 30/09/2026</p>\n<p>&#8211; Thủ tục thực hiện: Sinh viên mang theo CCCD <strong>trực tiếp</strong> đến nhận thẻ tại Văn phòng một cửa.</p>\n<p>Đối với các trường hợp bị nhầm lẫn thông tin yêu cầu làm đơn đề nghị chỉnh sửa và nộp bổ sung ảnh thẻ trước ngày 08/10/2026 tại ô số 5 – Văn phòng một cửa.</p>\n<p>Trân trọng thông báo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Phòng Giáo vụ thông báo cấp, phát thẻ sinh viên cho các trường hợp sinh viên thuộc các lớp Đại học chính quy các khóa đã đăng ký làm lại thẻ trong học kỳ I năm học 2026-2027 như sau: &#8211; Thời gian: từ thứ 4 ngày 30/09/2026 &#8211; Thủ tục thực hiện: Sinh viên [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 98,
+  "featured_media": 32452,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33635",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33635",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/98"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33635"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33635/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33636,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33635/revisions/33636"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32452"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33635"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33635"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33635"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 33469,
+  "date": "2026-09-17T10:27:38",
+  "date_gmt": "2026-09-17T10:27:38",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33469"
+  },
+  "modified": "2026-09-17T10:27:38",
+  "modified_gmt": "2026-09-17T10:27:38",
+  "slug": "thong-bao-ve-viec-thuc-hien-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-ii-nam-hoc-2025-2026-tren-he-thong-ptit-s-link",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/09/17/thong-bao-ve-viec-thuc-hien-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-ii-nam-hoc-2025-2026-tren-he-thong-ptit-s-link/",
+  "title": {
+    "rendered": "Thông báo về việc thực hiện đánh giá kết quả rèn luyện sinh viên  học kỳ II, năm học 2025-2026 trên hệ thống PTIT S-Link"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Quyết định số 589/QĐ-HV ngày 28/04/2023 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông (Học viện) về việc ban hành Quy định Công tác sinh viên trình độ đại học, hình thức chính quy tại Học viện;</p>\n<p>Căn cứ kế hoạch số 748/KH-HV ngày 11/08/2025 của Học viện về việc đánh giá kết quả rèn luyện của sinh viên năm học 2025-2026 trên phần mềm trực tuyến PTIT S-Link;</p>\n<p>Học viện thông báo đến các lớp sinh viên tổ chức thực hiện đánh giá kết quả rèn luyện học kỳ II năm học 2025-2026, cụ thể như sau:</p>\n<ol>\n<li><strong> Đối tượng</strong>: tất cả sinh viên hệ đại học chính quy các khóa 2022 khối kỹ thuật và khóa 2023 đến 2025.</li>\n<li><strong> Thời gian thực hiện đánh giá: Từ ngày 18/9/2026 đến hết ngày 09/10/2026 </strong>trên hệ thống PTIT S-Link tại địa chỉ: <a href=\"https://slink.ptit.edu.vn/\">https://slink.ptit.edu.vn/</a> <em>(sinh viên không đánh giá trên app PTIT S-Link)</em></li>\n</ol>\n<p>Chi tiết vui lòng đọc file đính kèm: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/1616TB_HV.pdf\">1616TB_HV</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Quyết định số 589/QĐ-HV ngày 28/04/2023 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông (Học viện) về việc ban hành Quy định Công tác sinh viên trình độ đại học, hình thức chính quy tại Học viện; Căn cứ kế hoạch số 748/KH-HV ngày 11/08/2025 của Học viện về việc [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 92,
+  "featured_media": 33471,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    17
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33469",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-tin-tuc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33469",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/92"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33469"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33469/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33472,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33469/revisions/33472"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33471"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33469"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33469"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33469"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

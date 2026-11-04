@@ -1,0 +1,119 @@
+{
+  "id": 5131,
+  "date": "2026-06-17T18:24:33",
+  "date_gmt": "2026-06-17T11:24:33",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5131"
+  },
+  "modified": "2026-06-17T18:24:33",
+  "modified_gmt": "2026-06-17T11:24:33",
+  "slug": "hello-world-249675",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/hello-world-249675/",
+  "title": {
+    "rendered": "hello world"
+  },
+  "content": {
+    "rendered": "<p>hello world!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>hello world</p>\n",
+    "protected": false
+  },
+  "author": 99,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "video",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5131",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-video",
+    "hentry",
+    "category-uncategorized",
+    "post_format-post-format-video"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5131",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/99"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5131"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5131/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5132,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5131/revisions/5132"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5131"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5131"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5131"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

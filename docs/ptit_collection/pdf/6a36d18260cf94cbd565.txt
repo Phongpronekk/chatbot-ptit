@@ -1,0 +1,2830 @@
+### Trang 1
+
+ 
+2 
+ 
+BỘ KHOA HỌC VÀ CÔNG NGHỆ 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+______________________________________ 
+ 
+BÁO CÁO THƯỜNG NIÊN 
+Năm 2024 
+ 
+I. THÔNG TIN CHUNG 
+1. Tên cơ sở giáo dục: 
+ HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+ POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY 
+2. Địa chỉ trụ sở chính và các địa chỉ hoạt động khác của cơ sở giáo dục, điện thoại, 
+địa chỉ thư điện tử, cổng thông tin điện tử hoặc trang thông tin điện tử của cơ sở giáo dục 
+(sau đây gọi chung là cổng thông tin điện tử). 
+TRỤ SỞ CHÍNH 
+122 Hoàng Quốc Việt, Phường Nghĩa Đô, Tp. Hà Nội 
+HỌC VIỆN CƠ SỞ TẠI TP. HỒ CHÍ MINH 
+11 Nguyễn Đình Chiểu, P. Sài Gòn, TP Hồ Chí Minh 
+CƠ SỞ ĐÀO TẠO PHÍA BẮC 
+Km 10 Đường Nguyễn Trãi, Phường Hà Đông, Tp. Hà Nội 
+CƠ SỞ ĐÀO TẠO PHÍA NAM 
+97 Man Thiện, Phường Tăng Nhơn Phú, TP. Hồ Chí Minh 
+Cổng thông tin điện tử: https://portal.ptit.edu.vn/ 
+Địa chỉ thư điện tử: vanphong@ptit.edu.vn 
+3. Loại hình của cơ sở giáo dục, cơ quan/ tổ chức quản lý trực tiếp hoặc chủ sở 
+hữu; tên nhà đầu tư thành lập cơ sở giáo dục, thuộc quốc gia/ vùng lãnh thổ (đối với cơ sở 
+giáo dục có vốn đầu tư nước ngoài); danh sách tổ chức và cá nhân góp vốn đầu tư (nếu 
+có):  
+Học viện Công nghệ Bưu chính Viễn thông là cơ sở giáo dục đại học công lập thuộc hệ 
+thống giáo dục quốc dân, được thành lập theo Quyết định số 516/QĐ-TTg ngày 11/7/1997 
+của Thủ tướng Chính phủ và là đơn vị sự nghiệp trực thuộc Bộ Thông tin và Truyền thông 
+4. Sứ mạng, tầm nhìn, mục tiêu của cơ sở giáo dục. 
+4.1. Sứ mạng 
+Sáng tạo và chuyển giao tri thức cho xã hội thông qua việc gắn kết các hoạt động đào 
+tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học và chuyển giao công nghệ 
+
+### Trang 2
+
+ 
+trong lĩnh vực thông tin, truyền thông và công nghệ số, góp phần xây dựng đất nước Việt 
+Nam hùng cường. 
+4.2. Tầm nhìn 
+Đến năm 2030, Học viện Công nghệ Bưu chính Viễn thông là trường đại học hàng đầu 
+Việt Nam về quy mô, chất lượng đào tạo, nghiên cứu khoa học; là hình mẫu tiên phong về 
+chuyển đổi số trong giáo dục đại học, trở thành trường đại học hàng đầu của khu vực, nằm 
+trong nhóm trường đại học hàng đầu châu Á, nhóm 5 trường đại học hàng đầu Đông Nam 
+Á về công nghệ số. 
+4.3. Giá trị cốt lõi 
+Tiên phong – Sáng tạo; Chất lượng - Hiệu quả; Uy tín - Trách nhiệm; Tận tuỵ - Nghĩa 
+tình. 
+4.4. Triết lý giáo dục: “Tri thức - Sáng tạo - Đạo đức - Trách nhiệm” 
+Đây là phương châm xuyên suốt định hướng cho các hoạt động đào tạo, nghiên cứu của 
+Học viện hướng tới mục tiêu đào tạo ra những con người “vừa có tài vừa có đức” để đóng 
+góp cho sự phát triển chung của ngành, của đất nước, của nhân loại. Trong đó: 
+Tri thức: Tri thức là tài sản lớn nhất của một trường đại học trong vai trò là trung tâm 
+đào tạo nguồn nhân lực chất lượng cao. Mỗi cá nhân muốn thành tài tất yếu phải trải qua 
+quá trình tích lũy tri thức. Sáng tạo và chuyển giao tri thức là sứ mệnh của Học viện Công 
+nghệ Bưu chính Viễn thông. Vì vậy, yêu cầu đầu tiên trong quá trình giáo dục tại Học viện 
+là giúp người học tích lũy đủ về tri thức. 
+Sáng tạo: Sáng tạo là khả năng tạo ra cái mới và có ích cho thực tiễn từ những tri thức 
+mà con người tích lũy được. Sáng tạo là cách sử dụng tri thức, vận dụng tri thức để hiểu 
+được, quản lý được và dự báo được những thay đổi đang diễn ra trong xã hội. Điề u này 
+đặc biệt quan trọng khi xã hội đang thay đổi ngày một nhanh chóng như hiện nay. 
+Đạo đức: Đạo đức là những chuẩn mực tốt đẹp trong tính cách của con người, mang 
+đậm giá trị truyền thông tốt đẹp của con người nói chung và người Việt Nam nói riêng. 
+Hoạt động đào tạo của Học viện hướng tới tạo ra những con người mang đậm giá trị văn 
+hóa của dân tộc, của ngành trong hoạt động giáo dục của Học viện Công nghệ Bưu chính 
+Viễn thông. 
+Trách nhiệm: Trách nhiệm là lý trí quan trọng để mỗi cá nhân trở nên có ích cho xã hội. 
+Giáo dục phải giúp con người biết có trách nhiệm với bản thân, với gia đình, với cộng 
+đồng, với đất nước… 
+5. Tóm tắt quá trình hình thành và phát triển của cơ sở giáo dục. 
+07/09/1953 Thành lập trường Đại học Bưu điện - Vô tuyến điện 
+17/09/1966 Thành lập Viện Khoa học Kỹ thuật Bưu điện RIPT 
+08/04/1975 Thành lập Viện Kinh tế Bưu điện ERIPT 
+
+### Trang 3
+
+ 
+4 
+ 
+28/05/1988 Thành lập Trung tâm Đào tạo Bưu chính Viễn thông II (PTTC2) 
+11/07/1997 Thành lập Học viện Công nghệ Bưu chính Viễn thông theo quyết 
+định số 516/TTg của Thủ tướng Chính phủ ngày 11 tháng 7 năm 
+1997 trên cơ sở sắp xếp lại 4 đơn vị thành viên thuộc Tổng Công 
+ty Bưu chính Viễn thông Việt Nam, nay là Tập đoàn Bưu chính 
+Viễn thông Việt Nam bao gồm: 
+Trung tâm Đào tạo Bưu chính Viễn thông 1 
+Trung tâm Đào tạo Bưu chính Viễn thông 2 
+Viện Khoa học kỹ thuật Bưu điện 
+Viện Kinh tế Bưu điện. 
+17/09/1997 Công bố Quyết định thành lập Học viện Công nghệ BCVT 
+22/3/1999 Thành lập Trung tâm Công nghệ thông tin CDIT (nay là Viện Công 
+nghệ Thông tin và Truyền thông CDIT) trực thuộc Học viện 
+1/7/2014 Thực hiện Quyết định của Thủ tướng Chính phủ, Bộ trưởng Bộ 
+Thông tin và Truyền thông đã ban hành Quyết định số 878/QĐ -
+BTTTT điều chuyển quyền quản lý Học viện từ Tập đoàn Bưu chính 
+Viễn thông Việt Nam về Bộ Thông tin và Truyền thông. Học viện 
+Công nghệ Bưu  chính Viễn thông , là đơn vị sự nghiệp trực thuộc 
+Bộ. Học viện thực hiện chức năng đào tạo đại học, sau đại học, 
+nghiên cứu khoa học, đào tạo bồi dưỡng ngắn hạn, tư vấn và chuyển 
+giao công nghệ. Là trường đại học, đơn vị nghiên cứu, phát triển 
+nguồn nhân lực trọng điểm của Ngành thông tin và truyền thông. 
+6. Thông tin người đại diện pháp luật hoặc người phát ngôn hoặc người đại diện 
+để liên hệ, bao gồm:  
+Họ và tên: PGS.TS. Đặng Hoài Bắc 
+Chức vụ: Giám đốc 
+Địa chỉ nơi làm việc: 122 Hoàng Quốc Việt, Phường Nghĩa Đô, Tp. Hà Nội 
+Số điện thoại: (024) 37.540.408 
+Địa chỉ thư điện tử: bacdh@ptit.edu.vn  
+7. Tổ chức bộ máy: 
+a) Quyết định thành lập, cho phép thành lập, sáp nhập, chia, tách, cho phép hoạt 
+động giáo dục, đình chỉ hoạt động giáo dục của cơ sở giáo dục hoặc phân hiệu của cơ 
+sở giáo dục (nếu có); 
+- Quyết định số 516/TTg ngày 11/7/1997 của Thủ tướng Chính phủ về việc thành lập 
+Học viện Công nghệ Bưu chính Viễn thông. 
+ 
+
+### Trang 4
+
+ 
+b) Quyết định công nhận hội đồng trường, chủ tịch hội đồng trường và danh sách 
+thành viên hội đồng trường; 
+- Quyết định số 1508/QĐ-BTTTT ngày 03/9/2020 của Bộ Thông tin và Truyền thông 
+về việc công nhận Hội đồng học viện Học viện Công nghệ Bưu chính Viễn thông 
+nhiệm kỳ 2020-2025. 
+- Quyết định số 1509/QĐ-BTTTT ngày 03/9/2020 của Bộ Thông tin và Truyền thông 
+về việc công nhận Chủ tịch Hội đồng học viện Học viện Công nghệ Bưu chính Viễn 
+thông nhiệm kỳ 2020-2025. 
+- Danh sách thành viên Hội đồng học viện: 
+TT Họ tên Vị trí công tác 
+1 GS.TS. Từ Minh Phương Chủ tịch Hội đồng học viện 
+2 ThS. Nguyễn Chí Thành Thư ký Hội đồng, Trưởng phòng Giáo vụ 
+3 PGS.TS. Đặng Hoài Bắc Thành viên, Bí thư Đảng ủy, Giám đốc Học viện 
+4 PGS.TS. Trần Quang Anh Thành viên, Phó Giám đốc Học viện, Chủ tịch Công đoàn 
+5 TS. Tân Hạnh Thành viên, nguyên Phó Giám đốc Học viện. 
+6 TS. Vũ Tuấn Lâm Thành viên, nguyên Phó Giám đốc Học viện. 
+7 PGS.TS. Nguyễn Tiến Ban Thành viên, Trưởng khoa Viễn thông 1 
+8 TS. Nguyễn Duy Phương Thành viên, Trưởng khoa Công nghệ thông tin 1 
+9 ThS. Đặng Thu Hà Thành viên, Trưởng phòng TCCB-LĐ 
+10 TS. Nguyễn Trung Kiên Thành viên, Phó Giám đốc Học viện 
+11 Sinh viên Hà Mạnh Dũng Thành viên, Sinh viên D22 ngành Công nghệ thông tin -
+Đại diện Đoàn TNCSHCM Học viện 
+12 Ông Triệu Minh Long Thành viên, Phó giám đ ốc Học viện chiến lược và khoa 
+học công nghệ, Bộ Khoa học và Công nghệ 
+13 TS. Nguyễn Thiện Nghĩa Thành viên, Vụ trưởng Vụ Hợp tác quốc tế, Bộ Khoa học 
+và Công nghệ 
+14 TS. Nguyễn Thị Kim Phụng Thành viên, Nguyên Vụ trưởng Vụ Giáo dục đại học, Bộ 
+GD&ĐT 
+15 Ông Nguyễn Trung Chính Thành viên, Chủ tịch Hội đồng Quản trị Tập đoàn CMC 
+16  Ông Huỳnh Quang Liêm Thành viên, T ổng giám đ ốc Tập đoàn Bưu chính Vi ễn 
+thông Việt Nam VNPT 
+17 Ông Tào Đức Thắng Thành viên, Chủ tịch kiêm Tổng giám đốc Viettel 
+c) Quyết định điều động, bổ nhiệm, công nhận hiệu trưởng, phó hiệu trưởng, giám 
+đốc, phó giám đốc hoặc thủ trưởng, phó thủ trưởng cơ sở giáo dục; 
+- Quyết định Giám đốc Học viện đối với PGS.TS Đặng Hoài Bắc: Quyết định số 
+828/QĐ-BTTTT ngày 04/5/ 2023 của Bộ Thông tin và Truyền thông về việc công 
+nhận Giám đốc Học viện Công nghệ Bưu chính Viễn thông. 
+- Quyết định Phó giám đốc Học viện đối với PGS.TS Trần Quang Anh: Nghị quyết số 
+
+### Trang 5
+
+ 
+6 
+ 
+196/NQ-HĐHV ngày 05/5/2025 của Hội đồng học viện Học viện Công nghệ Bưu 
+chính Viễn thông về việc bổ nhiệm lại Phó Giám đốc Học viện nhiệm kỳ 2020-2025.  
+- Quyết định Phó giám đốc Học viện đối với TS. Nguyễn Trung Kiên: Nghị quyết số 
+155/NQ-HĐHV ngày 20/8/2024 của Hội đồng học viện Học viện Công nghệ Bưu 
+chính Viễn thông về việc bổ nhiệm Phó Giám đốc Học viện nhiệm kỳ 2020-2025.  
+d) Quy chế tổ chức và hoạt động của cơ sở giáo dục; chức năng, nhiệm vụ, quyền 
+hạn của cơ sở giáo dục và của các đơn vị thuộc, trực thuộc, thành viên (nếu có); sơ đồ 
+tổ chức bộ máy của cơ sở giáo dục; 
+- Quy chế tổ chức và hoạt động của Học viện: Nghị quyết số 22/NQ -HĐHV ngày 12 
+tháng 4 năm 2021 của Hội đồng Học viện về việc ban hành Quy chế tổ chức và hoạt 
+động của Học viện Công nghệ Bưu chính Viễn thông. 
+- Các đơn vị thuộc Học viện: 
++ Tổ chức cán bộ - Lao động: Quyết định số: 800/QĐ-HV ngày 05/11/2015 của Học 
+viện về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ 
+chức của phòng Tổ chức cán bộ - Lao động.  
++ Văn phòng Học viện: Quyết định số: 833/QĐ -HV ngày 18/11/2015 của Học viện 
+về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức 
+của Văn phòng. 
++ Phòng Đào tạo: Quyết định số: 834/QĐ-HV ngày 18/11/2015 của Học viện về việc 
+thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của phòng 
+Đào tạo. 
++ Phòng Kế hoạch - Đầu tư: Quyết định số: 835/QĐ -HV ngày 18/11/2015 của Học 
+viện về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ 
+chức của phòng Kế hoạch - Đầu tư. 
++ Phòng Tài chính – Kế toán: Quyết định số: 836/QĐ-HV ngày 18/11/2015 của Học 
+viện về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ 
+chức của phòng Tài chính – Kế toán. 
++ Phòng Giáo vụ: Quyết định số 901/QĐ -TCCB ngày 05/11/2013 của Học viện về 
+việc bổ sung chức năng, nhiệm vụ và đổi tên phòng Quản lý Kế hoạch đào tạo 
+thành phòng Giáo vụ. 
++ Quyết định số: 621/QĐ-HV ngày 08/8/2018 của Học viện về việc quy định chức 
+năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của phòng Giáo vụ.  
++ Phòng Chính trị và Công tác Sinh viên: Quyết định số 894/QĐ -TCCB ngày 
+05/11/2013 của Học viện về việc thành lập phòng Chính trị và Công tác Sinh viên. 
++ Quyết định số 622/QĐ -HV ngày 08/8/2018 của Học viện về việc quy định chức 
+năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của phòng Chính trị và Công tác sinh 
+viên.  
++ Phòng Quản lý Khoa học công nghệ và Hợp tác quốc tế: Quyết định số 897/QĐ -
+
+### Trang 6
+
+ 
+HV ngày 05/11/2013 của Học viện về việc thành lập phòng Quản lý Khoa học 
+Công nghệ và Hợp tác quốc tế.  
++ Quyết định số 971/QĐ-HV ngày 01/11/2018 của Học viện về việc quy định chức 
+năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của phòng Quản lý Khoa học Công 
+nghệ và Hợp tác quốc tế.  
++ Trung tâm Đào tạo quốc tế: Quyết định số 521/QĐ -HV ngày 12/6/2017 của Học 
+viện về việc thành lập Trung tâm Đào tạo Quốc tế. 
++ Trung tâm Dịch vụ: Quyết định số 129/QĐ -HV ngày 01/3/2018 của Học viện về 
+việc thành lập Trung tâm Dịch vụ.  
++ Quyết định số 219/QĐ -HV ngày 28/3/2018 của Học viện về việc ban hành Quy 
+chế tạm thời tổ chức và hoạt động của Trung tâm Dịch vụ.  
++ Trung tâm Thí nghiệm thực hành: Quyết định số 693/QĐ-HV ngày 01/8/2016 của 
+Học viện về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu 
+tổ chức của Trung tâm Thí nghiệm thực hành.  
++ Trung tâm Khảo thí và Đảm bảo chất lượng giáo dục: Quyết định số: 1035/QĐ -
+HV ngày 05/12/2008 của Học viện về việc thành lập Trung tâm Khảo thí và Đảm 
+bảo Chất lượng giáo dục.  
++ Quyết định số: 970/QĐ-HV ngày 01/11/2018 của Học viện về việc quy định chức 
+năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Khảo thí và Đảm bảo 
+Chất lượng giáo dục.  
++ Khoa đào tạo Sau đại học: Quyết định số: 672/QĐ -HV ngày 01/8/2017 của Học 
+viện về việc đổi tên Khoa Quốc tế và Đào tạo sau đại học và quy định chức năng, 
+nhiệm vụ, quyền hạn và cơ cấu tổ chức của Khoa Đào tạo sau đại học.  
++ Khoa Đa phương tiện: Quyết định số 265/QĐ -HV ngày 15/3/2016 của Học viện 
+về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức 
+của khoa Đa phương tiện.  
++ Khoa Viễn thông I: Quyết định số 213/QĐ -TCCB/HV ngày 25/3/1999 của Học 
+viện về việc thành lập khoa Viễn thông 1. 
++ Quyết định số: 39/QĐ -HV ngày 11/01/2016 của Học viện về việc ban hành Quy 
+định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của khoa Viễn thông 1.  
++ Khoa Cơ bản I: Quyết định số 211/QĐ -TCCB/HV ngày 25/3/1999 của Học viện 
+về việc thành lập khoa Cơ bản I. 
++ Quyết định số: 36/QĐ -HV ngày 11/01/2016 của Học viện về việc ban hành Quy 
+định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của khoa Cơ bản 1. 
++ Khoa Kỹ thuật Điện tử I: Quyết định số 212/QĐ -TCCB/HV ngày 25/3/1999 của 
+Học viện về việc thành lập khoa Kỹ thuật điện tử I. 
++ Quyết định số: 37/QĐ-HV ngày 11/01/2016 của Học viện về việc ban hành Quy định 
+chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của khoa Kỹ thuật điện tử 1 
+
+### Trang 7
+
+ 
+8 
+ 
++ Khoa Công nghệ Thông tin I: Quyết định số 215/QĐ -TCCB/HV ngày 25/3/1999 
+của Học viện về việc thành lập khoa Công nghệ Thông tin I.  
++ Quyết định số: 38/QĐ -HV ngày 11/01/2016 của Học viện về việc ban hành Quy 
+định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của khoa Công nghệ thông 
+tin 1.  
++ Khoa Quản trị Kinh doanh I: Quyết định số 214/QĐ -TCCB/HV ngày 25/3/1999 
+của Học viện về việc thành lập khoa Quản trị Kinh doanh I.  
++ Quyết định số: 40/QĐ -HV ngày 11/01/2016 của Học viện về việc ban hành Quy 
+định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của khoa Quản trị kinh 
+doanh 1. 
++ Khoa Tài chính Kế toán I: Quyết định số 661/QĐ-TCCB ngày 16/9/2010 của Học 
+viện về việc thành lập khoa Tài chính Kế toán I.  
++ Quyết định số: 41/QĐ -HV ngày 11/01/2016 của Học viện về việc ban hành Quy 
+định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của khoa Tài chính kế 
+toán 1. 
++ Khoa An toàn Thông tin: Quyết định số 45/NQ -HĐHV ngày 29/12/2021 của Hội 
+đồng Học viện về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và 
+cơ cấu tổ chức của Khoa An toàn thông tin.  
++ Khoa Trí tuệ nhân tạo: Nghị quyết số 148/NQ -HĐHV ngày 22/07/2024 của Hội 
+đồng Học viện về việc thành lập và quy định chức năng, nhiệm vụ, quyền hạn và 
+cơ cấu tổ chức của Khoa Trí tuệ nhân tạo. 
++ Viện Lãnh đạo, Quản trị và Quản lý Việt Nam: Nghị quyết số 181/NQ -HĐHV 
+ngày 03/02/2025 của Hội đồng Học viện về việc thành lập Viện Lãnh đạo, Quản 
+trị và Quản lý Việt Nam. 
+- Các đơn vị trực thuộc Học viện: 
++ Viện Khoa học Kỹ thuật Bưu điện: 
+✓ Quyết định của Hội đồng Chính phủ số 180 -CP ngày 17/9/1966 của Hội đồng 
+Chính phủ Thành lập Viện nghiên cứu khoa học, kỹ thuật Bưu điện và truyền 
+thanh. 
+✓ Quyết định số 296/QĐ-TCCB ngày 09/4/1993 của Tổng cục Bưu điện về việc đổi 
+tên Viện Khoa học và Kỹ thuật Bưu điện  thành Viện Khoa học Kỹ thuật Bưu 
+điện. 
+✓ Quyết định số 674/QĐ -HV ngày 25/7/2016 của Học viện về việc ban hành tạm 
+thời Quy chế tổ chức và hoạt động của Viện Khoa học Kỹ thuật Bưu điện. 
++ Viện Kinh tế Bưu điện: 
+✓ Quyết định số 812/QĐ ngày 28/5/1975 của Tổng cục Bưu điện về việc Thành lập 
+Viện kinh tế và quy hoạch Bưu điện. 
+✓ Quyết định số 2308/QĐ ngày 20/12/1979 của Tổng Cục trưởng Tổng cục bưu 
+
+### Trang 8
+
+ 
+điện thành lập Viện Kinh tế Bưu điện trực thuộc Tổng Công ty Bưu chính Viễn 
+thông Việt Nam. 
+✓ Quyết định 635/QĐ-TCCBL-LĐ ngày 22/3/1999 của Tổng Công ty Bưu chính 
+Viễn thông Việt Nam về việc tổ chức lại Viện Kinh tế Bưu điện đặt trực thuộc 
+Học viện Công nghệ Bưu chính Viễn thông.  
+✓ Quyết định số 673/QĐ -HV ngày 25/7/2016 của Học viện về việc ban hành tạm 
+thời Quy chế tổ chức và hoạt động của Viện Kinh tế Bưu điện.  
++ Viện Công nghệ Thông tin và truyền thông CDIT: 
+✓ Quyết định số 636/QĐ-TCCB-LĐ ngày  22/3/1999 của Tổng Công ty Bưu chính 
+Viễn thông Việt Nam về việc Thành lập Trung tâm công nghệ thông tin trực 
+thuộc Học viện Công nghệ Bưu chính Viễn thông 
+✓ Quyết định số 1973/QĐ-VNPT-TCCB ngày 07/12/2011 của Tập đoàn Bưu chính 
+Viễn thông Việt Nam về việc đổi tên Trung tâm công nghệ thông tin thành Viện 
+Công nghệ Thông tin và truyền thông CDIT. 
+✓ Quyết định số 672/QĐ -HV ngày 25/7/2016 của Học viện về việc ban hành tạm 
+thời Quy chế tổ chức và hoạt động của Viện Công nghệ Thông tin và truyền thông 
+CDIT. 
++ Trung tâm Đào tạo BCVTI:  
+✓ Quyết định số 297/QĐ -TCCB-LĐ ngày 05/4/1989 của Tổng Cục trưởng Tổng 
+cục Bưu điện thành lập Trung tâm Đào tạo Bưu chính Viễn thông I trực thuộc 
+Tổng Công ty Bưu chính Viễn thông Việt Nam 
+✓ Quyết định số 632/QĐ-TCCB-LĐ ngày  22/3/1999 của Tổng Công ty Bưu chính 
+Viễn thông Việt Nam về việc Tổ chức lại Trung tâm Đào tạo Bưu chính Viễn 
+thông I trực thuộc Học viện Công nghệ Bưu chính Viễn thông.  
+✓ Quyết định số 670/QĐ-HV ngày 25/7/2016 của Học viện về việc ban hành tạm thời 
+Quy chế tổ chức và hoạt động của Trung tâm Đào tạo Bưu chính Viễn thông I. 
++ Trung tâm Đào tạo BCVTII:  
+✓ Quyết định số 1051/QĐ-TCCB-LĐ ngày 25/8/1988 của Tổng Cục trưởng Tổng 
+cục Bưu điện về việc thành lập Trung tâm Đào tạo Bưu chính Viễn thông II trực 
+thuộc Tổng Công ty Bưu chính Viễn thông Việt Nam. 
+✓ Quyết định 633/QĐ -TCCB-LĐ ngày 22/3/1999 của Tổng Công ty Bưu chính 
+Viễn thông Việt Nam về việc Tổ chức lại Trung tâm đào tạo Bưu chính Viễn 
+thông II đặt trực thuộc Học viện Công nghệ Bưu chính Viễn thông. 
+✓ Quyết định số 671/QĐ -HV ngày 25/7/2016 của Học viện về việc ban hành tạm 
+thời Quy chế tổ chức và hoạt động của Trung tâm Đào tạo Bưu chính Viễn thông 
+II. 
++ Trung tâm Đào tạo BCVT: Nghị quyết số 180/NQ -HĐHV ngày 03/02/2025 của 
+Hội đồng Học viện về việc sát nhập Trung tâm Đào tạo Bưu chính viễn thông II 
+
+### Trang 9
+
+ 
+10 
+ 
+vào Trung tâm Đào tạo Bưu chính Viễn thông I trực thuộc Học viện. Đổi tên Trung 
+tâm Đào tạo Bưu chính Viễn thông I thành Trung tâm Đào tạo Bưu chính Viễn 
+thông 
+đ) Quyết định thành lập, sáp nhập, chia tách, giải thể các đơn vị thuộc, trực thuộc, 
+thành viên (nếu có); 
+e) Họ và tên, chức vụ, điện thoại, địa chỉ thư điện tử, địa ch ỉ nơi làm việc, nhiệm vụ, 
+trách nhiệm của lãnh đạo cơ sở giáo dục và lãnh đạo các đơn vị thuộc, trực thuộc, 
+thành viên của cơ sở giáo dục (nếu có). 
+TT Họ và tên Chức vụ/Chức danh Điện thoại Email Chuyên ngành đào tạo 
+1 Từ Minh Phương Chủ tịch Hội đồng học viện 0913507508 phuongtm@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+2 Đặng Hoài Bắc Giám đốc Học viện 0903284728 bacdh@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+3 Trần Quang Anh Phó Giám đốc Học viện 0983996236 tqanh@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+4 Nguyễn Trung Kiên Phó Giám đốc Học viện 0903245000 kiennt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+5 Trần Vũ Hải Chánh Văn phòng Học viện 0903259040 haitv@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+6 Lê Thị Cẩm Thuần Phó chánh Văn phòng Học viện 0917507337 thuanltc@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+7 Nguyễn Mạnh Hùng Phó chánh Văn phòng Học viện 0903416217 hungnm@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+8 Đặng Thu Hà Trưởng phòng TCCB - Lao động 0904118828 hadt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+9 Phạm Lê Huy Phó Trưởng phòng TCCB - Lao động 0902996696 huypl@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+10 Đỗ Hải Yến Trưởng phòng Chính trị và CTSV 0948688080 yendh@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+11 Nguyễn Thị Nhiễu Phó Trưởng phòng Chính trị và CTSV 0826068488 nhieunt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+12 Đặng Văn Tùng 
+Phó Trưởng phòng 
+– Phụ trách phòng 
+Đào tạo 
+0912337788 tungdv@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+13 Nguyễn Thị Hồng Huệ Phó Trưởng phòng Đào tạo 0912262694 huenth@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+14 Ngô Đức Thiện Trưởng phòng Quản lý KHCN và HTQT 0912928928 thiennd@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+15 Đỗ Trung Anh 
+Phó Trưởng phòng 
+Quản lý KHCN và 
+HTQT 
+0913869328 anhdt@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+16 Nguyễn Việt Hưng 
+Phó Trưởng phòng 
+Quản lý KHCN và 
+HTQT 
+0969545289 nvhung_vt1@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+
+### Trang 10
+
+ 
+TT Họ và tên Chức vụ/Chức danh Điện thoại Email Chuyên ngành đào tạo 
+17 Đặng Bích Ngọc 
+Trưởng phòng Tài 
+chính - Kế toán 
+Kế toán trưởng Học 
+viện 
+0912756769 ngocdb@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+18 Nguyễn Hải Hà Phó trưởng phòng Tài chính - Kế toán 0914512259 hanh@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+19 Nguyễn Minh Chi Phó trưởng phòng Tài chính - Kế toán 0912466080 chinm@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+20 Đinh Hồng Hải 
+Phó Trưởng phòng - 
+Phụ trách phòng Kế 
+hoạch - Đầu tư 
+0906233468 haidh@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+21 Trần Hoàng Sơn Phó Trưởng phòng Kế hoạch - Đầu tư 0913003678 sonth@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+22 Đỗ Mạnh Hùng Phó Trưởng phòng Kế hoạch - Đầu tư 0912529429 hungdm@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+23 Nguyễn Chí Thành Trưởng phòng Giáo vụ 0912453327 thanhnc@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+24 Ngô Xuân Thành Phó Trưởng phòng Giáo vụ 0913053636 thanhnx@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+25 Trần Thị Mỹ Hạnh 
+Trưởng trung tâm 
+Khảo thí và 
+ĐBCLGD 
+0936456368 hanhtm@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+26 Phạm Phú Tài 
+Phó trưởng trung 
+tâm Khảo thí và 
+ĐBCLGD 
+0913053114 taipp@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+27 Nguyễn Quý Sỹ 
+Trưởng Trung tâm 
+Thí nghiệm - Thực 
+hành 
+0913394091 synq@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+28 Nguyễn Đức Việt 
+Phó Trưởng Trung 
+tâm Thí nghiệm - 
+Thực hành 
+0904362626 vietnd@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+29 Phạm Vũ Minh Tú 
+Phó Giám đốc, Phụ 
+trách Trung tâm 
+Đào tạo Quốc tế 
+0904592738 tupvm@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+30 Nguyễn Xuân Trường 
+Phó giám đốc, phụ 
+trách Trung tâm 
+Dich  vụ 
+0913319659 truongnx@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+31 Lê Nhật Thăng Trưởng khoa Đào tạo Sau đại học 0932158468 thangln@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+32 Phạm Ngọc Anh Trưởng khoa Cơ bản 1 0912316141 anhpn@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+33 Nguyễn Trung Hiếu Trưởng khoa Kỹ thuật điện tử 1 0916566268 hieunt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+34 Nguyễn Duy Phương Trưởng khoa Công nghệ thông tin 1 0913575442 phuongnd@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+35 Phạm Văn Cường Trưởng khoa Trí tuệ nhân tạo 0944643166 cuongpv@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+
+### Trang 11
+
+ 
+12 
+ 
+TT Họ và tên Chức vụ/Chức danh Điện thoại Email Chuyên ngành đào tạo 
+36 Hoàng Xuân Dậu Trưởng khoa An toàn thông tin 0904534390 dauhx@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+37 Nguyễn Tiến Ban Trưởng khoa Viễn thông 1 0904110109 bannt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+38 Đặng Thế Ngọc Phó Trưởng khoa Viễn thông 1 0918686517 ngocdt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+39 Nguyễn Chiến Trinh Phó Trưởng khoa Viễn thông 1 0915400946 trinhnc@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+40 Đặng Thị Việt Đức Trưởng khoa Tài chính kế toán 1 0914932612 ducdtv@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+41 Nguyễn Văn Hậu Phó Trưởng khoa Tài chính kế toán 1 0933132286 haunv@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+42 Vũ Trọng Phong Trưởng khoa Quản trị kinh doanh 1 0912099811 phongvt@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+43 Trần Thị Thập 
+Phó Trưởng khoa 
+Quản trị kinh doanh 
+1 
+0912212929 thaptt@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+44 Lê Thị Hằng 
+Phó Trưởng khoa, 
+Phụ trách khoa Đa 
+phương tiện 
+0904826618 hanglt@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+45 Nguyễn Xuân Hải Trưởng khoa Cơ bản 2. 0913157226  nxhai@ptithcm.edu.vn 11 Nguyễn Đình Chiểu, P. Sài Gòn, TP HCM 
+46 Nguyễn Hồng Quân Phó trưởng khoa Cơ bản 2 0988942043  hongquan@ptithcm.edu.vn 11 Nguyễn Đình Chiểu, P. Sài Gòn, TP HCM 
+47 Nguyễn Hồng Sơn Trưởng khoa Công nghệ thông tin 2 0913717565 ngson@ptithcm.edu.vn  11 Nguyễn Đình Chiểu, P. Sài Gòn, TP HCM 
+48 Huỳnh Trọng Thưa 
+Phó Trưởng khoa 
+Công nghệ thông tin 
+2 
+0909899791 htthua@ptithcm.edu.vn  
+11 Nguyễn Đình 
+Chiểu, P. Sài 
+Gòn, TP HCM 
+49 Nguyễn Thanh Bình 
+Phó Trưởng khoa 
+phụ trách khoa Kỹ 
+thuật điện tử 2 
+0918850555  thanhbinh68@gmail.com 
+11 Nguyễn Đình 
+Chiểu, P. Sài 
+Gòn, TP HCM 
+50 Trần Đình Thuần 
+Phó Trưởng khoa – 
+Phụ trách khoa Viễn 
+thông 2 
+0913803864 tdthuan@ptithcm.edu.vn  
+11 Nguyễn Đình 
+Chiểu, P. Sài 
+Gòn, TP HCM 
+51 Ngô Quốc Dũng 
+Viện Trưởng Viện 
+Khoa học kỹ thuật 
+bưu điện 
+0985061316 dungnq@ptit.edu.vn 
+Số 122 Hoàng 
+Quốc Việt, Nghĩa 
+Đô, Hà Nội 
+52 Trần Thiện Chính 
+Phó viện Trưởng 
+Viện Khoa học kỹ 
+thuật bưu điện 
+0913000255 chinhtt@ptit.edu.vn 
+Số 122 Hoàng 
+Quốc Việt, Nghĩa 
+Đô, Hà Nội 
+53 Trần Đình Nam Viện Trưởng Viện Kinh tế Bưu điện 0904964368 namtd@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+54 Nguyễn Thị Hoàng Yến Phó viện Trưởng Viện Kinh tế Bưu điện 0912483379 yennth@ptit.edu.vn 96A Trần Phú, Hà Đông, Hà Nội 
+
+### Trang 12
+
+ 
+TT Họ và tên Chức vụ/Chức danh Điện thoại Email Chuyên ngành đào tạo 
+55 Nguyễn Kim Quang 
+Phó viện Trưởng 
+viện Viện Công 
+nghệ thông tin và 
+Truyền thông 
+0913230313 quangnk@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+56 Cao Minh Thắng 
+Phó viện Trưởng 
+viện – Phụ trách 
+Viện CNTT và 
+Truyền thông 
+0936133144 thangcm@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+57 Đoàn Hiếu 
+Giám đốc Trung 
+tâm Đào tạo bưu 
+chính viễn thông 
+0934683131 doanhieu@ptit.edu.vn 
+96A Trần Phú, 
+Hà Đông, Hà Nội 
+58 Lương Hoàng Phước 
+Phó Giám đốc 
+Trung tâm Đào tạo 
+bưu chính viễn 
+thông 
+0913992888 lhphuoc@ptit.edu.vn 
+11 Nguyễn Đình 
+Chiểu, P. Sài 
+Gòn, TP HCM 
+8. Các văn bản khác của cơ sở giáo dục: Chiến lược phát triển của cơ sở giáo dục; 
+quy chế dân chủ ở cơ sở của cơ sở giáo dục; các nghị quyết của hội đồng trường; quy 
+định về quản lý hành chính, nhân sự, tài chính; chính sách thu hút, phát triển đội ngũ 
+nhà giáo và cán bộ quản lý giáo dục; kế hoạch và thông báo tuy ển dụng của cơ sở 
+giáo dục và các quy định, quy chế nội bộ khác (nếu có). 
+- Nghị quyết số 42/NQ -HĐHV ngày 25/11/2021 của Hội đồng Học viện về việc ban 
+hành Chiến lược phát triển Học viện Công nghệ Bưu chính Viễn thông giai đoạn 
+2021-2025, tầm nhìn 2030. 
+- Nghị quyết số 10/NQ-HĐHV ngày 27/10/2020 của Hội đồng Học viện ban hành Quy 
+chế tổ chức và hoạt động của Hội đồng học viện Học viện Công nghệ Bưu chính Viễn 
+thông.  
+- Nghị quyết số 04/NQ-HĐHV ngày 13/10/2020  của Hội đồng Học viện về việc Thông 
+qua kế hoạch hoạt động và phân công nhiệm vụ cho các thành viên Hội đồng học 
+viện Học viện Công nghệ Bưu chính Viễn thông nhiệm kỳ 2020-2025. 
+- Nghị quyết số 30/NQ -HĐHV ngày 04/8/2021 của Hội đồng Học viện về việc ban 
+hành Quy chế Thực hiện dân chủ trong hoạt động của Học viện Công nghệ Bưu chính 
+Viễn thông.  
+- Nghị quyết số 54/NQ -HĐHV ngày 18/01/2023 của Hội đồng Học viện về việc ban 
+hành Quy chế tuyển dụng viên chức và người lao động của Học viện Công nghệ Bưu 
+chính Viễn thông. 
+- Nghị quyết số 58/NQ -HĐHV ngày 22/02/2023 của Hội đồng Học viện về việc ban 
+hành Quy chế tài chính của Học viện Công nghệ Bưu chính Viễn thông. 
+- Quyết định số 647/QĐ-HV ngày 27/7/2017 của Học viện ban hành Quy chế Đào tạo, 
+bồi dưỡng đối với cán bộ, viên chức, người lao động thuộc Học viện Công nghệ Bưu 
+chính Viễn thông.  
+
+### Trang 13
+
+ 
+14 
+ 
+- Quyết định số 513/QĐ -HV ngày 18/6/2021 của Học viện ban hành Quy  định chính 
+sách hỗ trợ kinh phí viên chức, người lao động trong Học viện Công nghệ Bưu chính 
+Viễn thông được cử đi đào tạo Tiến sĩ trong nước giai đoạn 2021-2025. 
+II. ĐỘI NGŨ GIẢNG VIÊN, CÁN BỘ QUẢN LÝ VÀ NHÂN VIÊN 
+1. Các chỉ số đánh giá về đội ngũ giảng viên toàn thời gian4 
+TT Chỉ số đánh giá Năm báo cáo5 (2024) Năm trước liền kề năm báo cáo6 (2023) 
+  BVH BVS  
+1 Tỉ lệ người học quy đổi trên giảng viên 37.69 31,12 19,54 
+2 Tỉ lệ giảng viên cơ hữu trong độ tuổi lao động 91.15% 93.53% 71,27 
+3 Tỉ lệ giảng viên có trình độ tiến sĩ 50% 23.02% 43,27% 
+2. Thống kê đội ngũ giảng viên toàn thời gian theo các lĩnh vực đào tạo7 
+TT Đội ngũ giảng viên Số lượng Trình độ Chức danh Đại học Thạc sĩ Tiến sĩ PGS GS 
+1 Giảng viên toàn thời gian 620 47 308 265 46 6 
+  Cơ sở đào tạo phía Bắc 468 44 192 232 44 6 
+  Cơ sở đào tạo phía Nam 152 3 116 33 2 0 
+1.1 Lĩnh vực Kinh doanh và quản lý 155 13 84 58 12 2 
+  Cơ sở đào tạo phía Bắc 121 11 59 51 11 2 
+  Cơ sở đào tạo phía Nam 34 2 25 7 1 0 
+1.2 Lĩnh vực Máy tính và công nghệ thông tin 218 15 96 107 18 2 
+  Cơ sở đào tạo phía Bắc 178 14 69 95 18 2 
+  Cơ sở đào tạo phía Nam 40 1 27 12 0 0 
+1.3 Lĩnh vực Công nghệ kỹ thuật 70 1 34 35 4 1 
+  Cơ sở đào tạo phía Bắc 43 1 12 30 4 1 
+  Cơ sở đào tạo phía Nam 27 0 22 5 0 0 
+1.4 Lĩnh vực Kỹ thuật 79 4 36 39 7 0 
+  Cơ sở đào tạo phía Bắc 53 4 14 35 6 0 
+  Cơ sở đào tạo phía Nam 26 0 22 4 1 0 
+1.5 Lĩnh vực Báo chí và thông tin 98 14 58 26 5 1 
+  Cơ sở đào tạo phía Bắc 73 14 38 21 5 1 
+  Cơ sở đào tạo phía Nam 25 0 20 5 0 0 
+
+### Trang 14
+
+ 
+TT Đội ngũ giảng viên Số lượng Trình độ Chức danh Đại học Thạc sĩ Tiến sĩ PGS GS 
+2 Giảng viên cơ hữu trong độ tuổi lao động 440 28 240 172 23 2 
+  Cơ sở đào tạo phía Bắc 345 26 167 152 21 2 
+  Cơ sở đào tạo phía Nam 95 2 73 20 2 0 
+2.1 Lĩnh vực Kinh doanh và quản lý 114 8 69 37 5 0 
+  Cơ sở đào tạo phía Bắc 91 7 51 33 4 0 
+  Cơ sở đào tạo phía Nam 23 1 18 4 1 0 
+2.2 Lĩnh vực Máy tính và CNTT 162 10 76 76 11 2 
+  Cơ sở đào tạo phía Bắc 141 9 63 69 11 2 
+  Cơ sở đào tạo phía Nam 21 1 13 7 0 0 
+2.3 Lĩnh vực Công nghệ kỹ thuật 51 0 25 26 2 0 
+  Cơ sở đào tạo phía Bắc 33 0 10 23 2 0 
+  Cơ sở đào tạo phía Nam 18 0 15 3 0 0 
+2.4 Lĩnh vực Kỹ thuật 46 3 26 17 5 0 
+  Cơ sở đào tạo phía Bắc 30 3 11 16 4 0 
+  Cơ sở đào tạo phía Nam 16 0 15 1 1 0 
+2.5 Lĩnh vực Báo chí và thông tin 67 7 44 16 0 0 
+  Cơ sở đào tạo phía Bắc 50 7 32 11 0 0 
+  Cơ sở đào tạo phía Nam 17 0 12 5 0 0 
+3. Thống kê đội ngũ cán bộ quản lý và nhân viên khối hành chính và hỗ trợ8 
+TT Chỉ số Năm báo cáo (2024) Năm trước liền kề năm báo cáo (2023) 
+1 Số cán bộ quản lý khối hành chính và hỗ trợ 17 17 
+2 Số nhân viên khối hành chính và hỗ trợ 255 270 
+3 Tỉ lệ cán bộ quản lý và nhân viên khối hành chính và hỗ trợ trên tổng số giảng viên toàn thời gian 43,87% 52,18% 
+III. CƠ SỞ VẬT CHẤT 
+1. Các chỉ số đánh giá về cơ sở vật chất9 
+TT Chỉ số đánh giá 
+Năm báo cáo 
+(2024) 
+Năm trước liền kề 
+năm báo cáo 
+(2023) 
+BVH BVS BVH BVS 
+1 Diện tích đất/người học (m2) Từ 2030 mới tính 9,38 9,38 
+
+### Trang 15
+
+ 
+16 
+ 
+TT Chỉ số đánh giá 
+Năm báo cáo 
+(2024) 
+Năm trước liền kề 
+năm báo cáo 
+(2023) 
+BVH BVS BVH BVS 
+2 Diện tích sàn/người học (m2) 3,6 3,09 4,23 
+3 Tỉ lệ giảng viên có chỗ làm việc riêng biệt 73,7% 92,1% 75% 83,6% 
+4 Số đầu sách/ngành đào tạo 568,8 400 10.444/25 
+5 Số bản sách/người học 7,7 1626,3 50.613/17.912 
+6 Tỉ lệ học phần sẵn sàng giảng dạy trực tuyến 51,81% 30,01% 50% 
+7 Tốc độ Internet/1.000 người học (Mbps) 287,7 343,3 245 2.060 
+2. Diện tích đất và diện tích sàn xây dựng phục vụ đào tạo10 
+TT Địa điểm Địa chỉ Diện tích đất (m2) Diện tích sàn (m2) 
+1 Trụ sở chính 122 Hoàng Quốc Việt, 
+P. Nghĩa Đô, TP Hà Nội 
+2140  
+1.1 Nhà làm việc 02 tầng   1.536 
+1.2 Nhà làm việc 07 tầng   3.241 
+1.3 Hệ thống sân đường   910 
+2 Cơ sở đào tạo phía Bắc    
+2.1 Cơ sở Hà Đông Phường Hà Đông, 
+Thành phố Hà Nội 
+55.133  
+2.1.1 Nhà A1   4.955 
+2.1.2 Nhà A2   15.340 
+2.1.3 Nhà A3   6.600 
+2.1.4 Nhà B1   3.396 
+2.1.5 Nhà B2   4.035 
+2.1.6 Nhà B5   3.660 
+2.1.7 Nhà  B9   378 
+2.1.8 Nhà hội trường A1   307 
+2.1.9 Sân Thể thao B5   2.500 
+2.1.10 Sân bê tông B17   660 
+2.1.11 Sân bóng truyền sau A2   855 
+2.1.12 Vườn hoa sau A1   320 
+2.1.13 Nhà B15   388 
+2.1.14 Trung tâm khởi nghiệp B16   307 
+2.1.15 Nhà ăn Học viện   853 
+2.1.16 Văn phòng giao dịch 1 cửa   140 
+2.1.17 Nhà trực cổng chính   28 
+
+### Trang 16
+
+ 
+TT Địa điểm Địa chỉ Diện tích đất (m2) Diện tích sàn (m2) 
+2.2 Ngọc Trục - Nam Từ Liêm Thôn Ngọc Trục, P. Đại 
+Mỗ, TP Hà Nội 
+6.191  
+2.2.1 Nhà Hiệu bộ - lớp học   10.335 
+2.2.2 Ký túc xá   6.176 
+2.3 Trung tâm Công nghệ cao Hòa Lạc Khu Công nghệ cao Hòa 
+Lạc 
+13.000  
+2.3.1 Nhà đào tạo   5.650 
+2.3.2 Nhà làm việc + phòng học   5.750 
+3 Cơ sở đào tạo phía Nam    
+3.1 Cơ sở 11 Nguyễn Đình Chiểu Số 11 Nguyễn Đình 
+Chiểu, P. Sài Gòn, TP 
+Hồ Chí Minh 
+4.451  
+3.1.1 Nhà lớp học Q1-A   3.992 
+3.1.2 Nhà làm việc Q1-B   824 
+3.1.3 Nhà làm việc Q1-C   1.084 
+3.1.4 Nhà kho Q1 + Nhà máy phát điện   435 
+3.1.5 Nhà làm việc Q1-YT   60 
+3.1.6 Phòng học khu A (TT2)   222 
+3.2 Nhà KTX Q1-5C (TT2) Số 5C Nguyễn Đình 
+Chiểu, Phường Sài Gòn, 
+TP Hồ Chí Minh 
+663,6 2.349 
+3.3 Cơ sở TP Thủ Đức 1 Số 97 Man Thiện, P. 
+Tăng Nhơn Phú, TP. Hồ 
+Chí Minh 
+39.510  
+3.3.1 Nhà số 3-Nhà E   4.764 
+3.3.2 Nhà số 1-Hội trường và Câu lạc bộ   2.800 
+3.3.3 Phòng học Q9-A   2.940 
+3.3.4 Phòng học Q9-D   3.648 
+3.3.5 Nhà làm việc Q9-A   893 
+3.3.6 Nhà làm việc Q9-B   1.998 
+3.3.7 Nhà KTX Q9-C   6.626 
+3.3.8 Nhà hội trường Q9 (D)   330 
+3.3.9 Nhà KTX Q9-B   588 
+3.3.10 Nhà KTX Q9-C   1.320 
+3.3.11 Nhà KTX tạm Q9   1.805 
+3.4 Cơ sở TP Thủ Đức 2 Số 97 Man Thiện, 
+P.Tăng Nhơn Phú, TP. 
+Hồ Chí Minh 
+19.203  
+
+### Trang 17
+
+ 
+18 
+ 
+TT Địa điểm Địa chỉ Diện tích đất (m2) Diện tích sàn (m2) 
+3.5 Nhà làm việc 270/10 An Dương 
+Vương, P. Chợ Quán, 
+TP Hồ Chí Minh 
+276  
+3.6 Nhà làm việc Khu đất tại số 9 Nguyễn 
+Đình Chiểu, P. Sài Gòn, 
+TP Hồ Chí Minh 
+126  
+Tổng cộng 140.694 114.998 
+3. Các hạng mục cơ sở vật chất được đầu tư mới trong năm 
+TT Hạng mục đầu tư Địa điểm11 Kinh phí  
+1 Xây mới   
+2 Nâng cấp tòa nhà   
+2.1 
+Làm đường nội bộ và hạ tầng kỹ thuật kết nối từ 
+nhà A1 tới KTX B1 
+96A Trần Phú, Hà 
+Đông, Hà Nội 1.800.000.000 
+2.2 Sửa chữa Ký túc xá B2 96A Trần Phú, Hà Đông, Hà Nội 14.500.000.000 
+2.3 Sửa chữa tầng G,5,6,7,8 nhà A2 96A Trần Phú, Hà Đông, Hà Nội 9.300.498.000 
+2.4 Sửa chữa ký túc xá tại 97 Man Thiện, TP Hồ Chí Minh 97 Man Thiện, P. Tăng Nhơn Phú, TP. Hồ Chí Minh 14.785.000.000 
+2.5 Sửa chữa khu giảng đường, khu sinh hoạt chung cho sinh viên của HV tại TP Hồ Chí Minh 97 Man Thiện, P. Tăng Nhơn Phú, TP. Hồ Chí Minh 8.215.000.000 
+2.6 Sửa chữa phòng ghi danh Trung tâm II 
+11 Nguyễn Đình 
+Chiểu, P. Sài Gòn, 
+TP Hồ Chí Minh 
+200.000.000 
+3 Đầu tư mới phòng thí nghiệm   
+4 Nâng cấp phòng thí nghiệm   
+Tổng cộng 48.800.498.000 
+IV. KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC 
+1. Kiểm định cơ sở giáo dục 
+- Tên tổ chức kiểm định (tên đầy đủ và tên viết tắt):  Trung tâm Kiểm định chất lượng 
+giáo dục - Hiệp hội các trường đại học, cao đẳng Việt Nam (CEA-AVU&C) 
+- Tiêu chuẩn kiểm định được áp dụng: Tiêu chuẩn chất lượng giáo dục do Bộ Trưởng 
+Bộ Giáo dục và Đào tạo ban hành 
+- Mức độ đạt kiểm định: 
+
+### Trang 18
+
+ 
+ +) Đảm bảo chất lượng về chiến lược: 3,91 
+ +) Đảm bảo chất lượng về hệ thống: 3,93 
+ +) Đảm bảo chất lượng về thực hiện chức năng: 3,96 
+ +) Kết quả hoạt động: 3,92 
+(Không có tiêu chí nào có điểm trung bình dưới 2,0) 
+- Thời gian hiệu lực: từ ngày 19 tháng 01 năm 2024 đến ngày 19 tháng 01 năm 2028 
+2. Danh mục chương trình đào tạo được kiểm định 
+TT Mã ngành Tên ngành Tên chương trình Tên tổ chức kiểm định Thời gian hiệu lực 
+1 7480201 Công nghệ thông tin Công nghệ thông tin 
+Trung tâm Kiểm 
+định chất lượng 
+giáo dục - Hiệp hội 
+các trường đại học, 
+cao đẳng Việt Nam 
+(CEA-AVU&C) 
+Từ 06/08/2024 
+đến 06/08/2028 
+2 7520207 Kỹ thuật điện tử viễn thông Kỹ thuật điện tử viễn thông nt Từ 06/08/2024 đến 06/08/2028 
+3 7510301 Công nghệ kỹ thuật Điện, điện tử Công nghệ kỹ thuật Điện, điện tử nt Từ 28/09/2024 đến 28/09/2028 
+4 7340301 Kế toán Kế toán nt Từ 28/09/2024 đến 28/09/2028 
+5 7340101 Quản trị kinh doanh Quản trị kinh doanh nt Từ 28/09/2024 đến 28/09/2028 
+6 7340115 Marketing Marketing nt Từ 28/09/2024 đến 28/09/2028 
+7 7329001 Công nghệ đa phương tiện Công nghệ đa phương tiện nt Từ 27/05/2024 đến 27/05/2029 
+8 7320104 Truyền thông đa phương tiện Truyền thông đa phương tiện nt Từ 27/05/2024 đến 27/05/2029 
+9 7480202 An toàn thông tin An toàn thông tin nt Từ 27/05/2024 đến 27/05/2029 
+10 7340122 Thương mại điện tử Thương mại điện tử nt Từ 27/05/2024 đến 27/05/2029 
+V. KẾT QUẢ TUYỂN SINH VÀ ĐÀO TẠO  
+1. Các chỉ số đánh giá về tuyển sinh và đào tạo12 
+
+### Trang 19
+
+ 
+20 
+ 
+TT Chỉ số đánh giá 
+Năm báo cáo 
+(2024) 
+Năm trước 
+liền kề năm 
+báo cáo 
+(2023) BVH BVS 
+1 Tỉ lệ nhập học trung bình 3 năm 81,5% 74,8% 77.19% 
+2 Tỉ số tăng giảm quy mô đào tạo 3 năm 78,1% 38,6% 19% 
+3 Tỉ lệ thôi học 2,4% 4,76% 0.10% 
+4 Tỉ lệ thôi học năm đầu 2,29% 0,18% 0.05% 
+5 Tỉ lệ tốt nghiệp 76,2% 64,2% 88,99% 
+6 Tỉ lệ tốt nghiệp đúng hạn 61,7% 46,7% 68,1%  
+7 Tỉ lệ người học hài lòng với giảng viên 94,2% 93,3% 88,47% 
+8 Tỉ lệ người tốt nghiệp hài lòng tổng thể 84,7% 85,8% 82.75 
+9 Tỉ lệ người tốt nghiệp có việc làm đúng chuyên môn 88,3% 80,9% 79.44 
+2. Quy mô đào tạo, tuyển mới và tốt nghiệp năm 2024 
+STT Trình độ/ lĩnh vực/ ngành đào tạo Đang học Tuyển mới Tốt nghiệp Tỷ lệ việc làm13 
+A SAU ĐẠI HỌC 519 258 73  
+1 Tiến sĩ 74 33 14  
+1.1 Lĩnh vực Kinh doanh và Quản lý 24 9 7  
+1.1.1 Ngành Quản trị kinh doanh 24 9 4 - 
+1.2 Lĩnh vực Máy tính và Công nghệ thông tin 31 14 4  
+1.2.1 Ngành Kỹ thuật máy tính 23 10 1 - 
+1.2.2 Ngành Hệ thống thông tin 8 4 3 - 
+1.3 Kỹ thuật 19 10 6  
+1.3.1 Ngành Kỹ thuật điện tử 7 5 1 - 
+1.3.2 Ngành Kỹ thuật viễn thông 12 3 5 - 
+2 Thạc sĩ 445 225 59  
+2.1 Lĩnh vực Kinh doanh và Quản lý 105 42 10  
+2.1.1 Ngành Quản trị kinh doanh 105 42 10 - 
+2.2 Lĩnh vực Máy tính và Công nghệ thông tin 278 153 30  
+2.2.1 Ngành Khoa học máy tính 98 48 11  
+2.2.2 Ngành Hệ thống thông tin 180 105 19 - 
+2.3 Kỹ thuật 62 30 19  
+2.3.1 Ngành Kỹ thuật điện tử 22 7 8 - 
+2.3.2 Ngành Kỹ thuật viễn thông 40 23 11 - 
+B ĐẠI HỌC 17.701 7.138 2.969  
+1 Chính quy 14.148 5.513 2.860  
+1.1 Các ngành/chương trình đào tạo đặc thù có nhu cầu cao về nhân lực trình độ đại học 3.584 2.199 1.057  
+1.1.1 Lĩnh vực Máy tính và Công nghệ thông tin 3.584 2.199 1.057  
+
+### Trang 20
+
+ 
+STT Trình độ/ lĩnh vực/ ngành đào tạo Đang học Tuyển mới Tốt nghiệp Tỷ lệ việc làm13 
+1.1.1.1 Ngành Công nghệ thông tin 4.731 1.579 804 92.96% 
+1.1.1.2 Ngành An toàn thông tin 1.279 385 253 93.94% 
+1.1.1.3 Ngành Khoa học máy tính 388 131 - - 
+1.1.1.4 Ngành Mạng máy tính và truyền thông dữ liệu 186 104 - - 
+1.2 Các ngành đào tạo (trừ ngành đào tạo đặc thù có nhu cầu cao về nhân lực trình độ đại học) 10.564 3.314 1.083  
+1.2.1 Lĩnh vực Kinh doanh và Quản lý 4.503 1.412 799  
+1.2.1.1 Ngành Quản trị kinh doanh 1.024 298 190 91.10% 
+1.2.1.2 Ngành Thương mại điện tử 514 150 109 87.32% 
+1.2.1.3 Ngành Marketing 1.486 527 241 93.81% 
+1.2.1.4 Ngành Kế toán 1.023 317 259 92.78% 
+1.2.1.5 Ngành Công nghệ tài chính (Fintech) 456 120 - - 
+1.2.2 Công nghệ kỹ thuật 1.274 397 220  
+1.2.2.1 Ngành CN kỹ thuật Điện, điện tử 1.274 397 220 91.79% 
+1.2.3 Lĩnh vực Kỹ thuật 2.597 752 417  
+1.2.3.1 Ngành Kỹ thuật Điện tử viễn thông 2.040 512 417 90.17% 
+1.2.3.2 Ngành Công nghệ Inernet vạn vật (IoT) 174 74 - - 
+1.2.3.3 Ngành Kỹ thuật Điều khiển và tự động hóa 383 166 - - 
+1.2.4 Lĩnh vực Báo chí và Thông tin 2.190 753 367  
+1.2.4.1 Ngành Báo chí 217 85 - - 
+1.2.4.2 Ngành Công nghệ đa phương tiện 517 526 283 90.19% 
+1.2.4.3 Ngành Truyền thông đa phương tiện 1.456 142 84 92.86% 
+2 Vừa làm vừa học 1.370 240 3  
+2.1 Lĩnh vực Kinh doanh và Quản lý 512 75 2  
+2.1.1 Ngành Quản trị kinh doanh 512 75 2  
+2.2 Lĩnh vực Máy tính và Công nghệ thông tin 815 165 0  
+2.2.1 Ngành Công nghệ thông tin 815 165 0  
+2.3 Lĩnh vực Kỹ thuật 43 0 1  
+2.3.1 Ngành Kỹ thuật Điện tử viễn thông 43 0 1  
+3 Từ xa 2.183 1.385 106  
+3.1 Lĩnh vực Kinh doanh và Quản lý 369 185 69  
+3.1.1 Ngành Quản trị kinh doanh 369 185 69  
+3.2 Lĩnh vực Máy tính và Công nghệ thông tin 1.620 1.074 35  
+3.2.1 Ngành Công nghệ thông tin 1.620 1.074 35  
+3.3 Lĩnh vực Kỹ thuật 194 126 2  
+3.3.1 Ngành Kỹ thuật Điện tử viễn thông 194 126 2  
+VI. KẾT QUẢ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ  
+1. Thông tin về kết quả hoạt động khoa học và công nghệ trong năm, tính cho 
+
+### Trang 21
+
+ 
+22 
+ 
+toàn cơ sở giáo dục và phân theo lĩnh vực khoa học và công nghệ: 
+a) Danh mục dự án, đề tài hoặc nhiệm vụ khoa học công nghệ do cơ sở giáo dục 
+chủ trì: Tên dự án, đề tài, nhiệm vụ; cấp quản lý; người chủ trì và các thành viên tham gia; 
+đối tác trong nước và quốc tế; thời gian thực hiện; kinh phí thực hiện; tóm tắt kết qu ả và 
+sản phẩm đạt được; 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+1 Nghiên cứu thiết kế chế tạo thiết bị 
+Fronthaul Gateway (FHG) trong mạng di 
+động 5G theo cấu trúc O-RAN 
+TS. Nguyễn Văn 
+Thành 
+Nhà nước   
+2 Nghiên cứu xây dựng nền tảng Chính quyền 
+điện tử triển khai tại địa phương dựa trên 
+phương thức tiếp cận mới hình thành sinh 
+thái số kết nối chính quyền - doanh nghiệp 
+- người dân 
+PGS.TS. Đặng 
+Hoài Bắc 
+Nhà nước   
+3 Nâng cao hiệu quả chẩn đoán bệnh tim sử 
+dụng trí tuệ nhân tạo và điện tâm đồ 
+TS. Nguyễn 
+Minh Tuấn 
+Nhà nước   
+4 Thiết kế các mạng phi mặt đất dựa trên 
+truyền thông quang không gian tự do có tốc 
+độ dữ liệu cao và tiết kiệm năng lượng được 
+hỗ trợ bởi các bề mặt phản xạ thông minh 
+và truyền tải năng lượng không dây 
+PGS.TS. Đặng 
+Thế Ngọc 
+Nhà nước   
+5 Bài toán cân bằng trên tập điểm bất động: 
+Thuật toán và ứng dụng 
+PGS.TS. Phạm 
+Ngọc Anh 
+Nhà nước   
+6 Nghiên cứu, thử nghiệm Bộ chỉ tiêu đo 
+lường kinh tế số tại Hải Phòng 
+TS. Đinh Chí 
+Hiếu 
+Đề tài cấp Sở 
+Hải phòng 
+  
+7 Xây dựng các giải pháp chuyển đổi số nông 
+thôn cho mô hình Xã nông thôn mới thông 
+minh và Xã thương mại điện tử với đặc thù 
+của tỉnh Đắk Lắk 
+PGS.TS. Hoàng 
+Hữu Hạnh 
+Đề tài cấp Sở 
+Daklak 
+  
+8 Nghiên cứu đề xuất giải pháp thúc đẩy phát 
+triển kinh tế số trên địa bàn tỉnh Đắk Lắk 
+đến năm 2030 
+PGS.TS. Đặng 
+Thị Việt Đức 
+Đề tài cấp Sở 
+Daklak 
+  
+9 Nghiên cứu công nghệ truyền thông siêu tin 
+cậy và độ trễ thấp (URLLC) với truyền 
+thông gói ngắn trong mạng 6G hỗ trợ IoT 
+Phạm Anh Thư Cấp Bộ   
+10 Nghiên cứu giải pháp mạng phi mặt đất 
+(NTN) ứng dụng trong truyền thông vô 
+tuyến thế hệ sau 
+Đặng Thế Ngọc Cấp Bộ   
+11 Nghiên cứu rà soát và hoàn thiện QCVN 
+73:2013/BTTTT “Quy chuẩn kỹ thuật quốc 
+gia về thiết bị vô tuyến cự ly ngắn dải tần 25 
+MHz - 1 GHz” 
+Ngô Hán Chiêu Cấp Bộ   
+
+### Trang 22
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+12 Nghiên cứu rà soát và hoàn thiện QCVN 
+96:2015/BTTTT “Quy chuẩn kỹ thuật quốc 
+gia về tương thích điện từ đối với thiết bị vô 
+tuyến cự ly ngắn dải tần từ 9 KHz đến 40 
+GHz” 
+Trần Trung 
+Phong 
+Cấp Bộ   
+13 Nghiên cứu rà soát và hoàn thiện 
+QCVN94:2015/BTTTT “Quy chuẩn kỹ 
+thuật quốc gia về tương thích điện từ đối với 
+thiết bị thông tin băng siêu rộng” 
+Trần Quốc 
+Hưng 
+Cấp Bộ   
+14 Nghiên cứu, đề xuất các giải pháp phát triển 
+hệ sinh thái dữ liệu mở của các cơ quan nhà 
+nước cho doanh nghiệp tại Việt Nam 
+Đặng Thị Việt 
+Đức 
+Cấp Bộ   
+15 Nghiên cứu, đề xuất các giải pháp ứng dụng 
+công nghệ học máy chưng cất (knowledge 
+distillation) ở Việt nam.  
+Phạm Văn 
+Cường 
+Cấp Bộ   
+16 Nghiên cứu ứng dụng công nghệ học máy 
+và nền tảng Internet vạn vật (IoT) giám sát, 
+phân tích và cảnh báo bất thường về tim 
+mạch dựa trên tín hiệu điện tâm đồ hỗ trợ 
+chăm sóc sức khoẻ từ xa cho người cao tuổi 
+Lê Hải Châu Cấp Bộ   
+17 Nghiên cứu và xây dựng ứng dụng nhận 
+diện cảm xúc dựa trên giao diện máy tính -
+não sử dụng tín hiệu điện não đồ (EEG) và 
+trí tuệ nhân tạo. 
+Nguyễn Minh 
+Tuấn 
+Cấp Bộ   
+18 Nghiên cứu hệ thống hóa các tiêu chuẩn 
+quốc tế trong lĩnh vực thông tin và truyền 
+thông và đề xuất hoàn thiện hệ thống tiêu 
+chuẩn, quy chuẩn kỹ thuật của Việt Nam 
+TS. Trần Thiện 
+Chính 
+Cấp Bộ   
+19 Nghiên cứu rà soát, cập nhật TCVN 
+8705:2011 Công nghệ thông tin - Đánh giá 
+sản phẩm phần mềm - Phần 1: Tổng quát 
+Vũ Hồng Sơn Cấp Bộ   
+20 Nghiên cứu rà soát, cập nhật TCVN 
+8706:2011 Công nghệ thông tin - Đánh giá 
+sản phẩm phần mềm - Phần 2: Quy trình 
+dành cho bên đánh giá 
+Phạm Đình 
+Chung 
+Cấp Bộ   
+21 Nghiên cứu rà soát, cập nhật TCVN 
+8707:2011 Công nghệ thông tin - Đánh giá 
+sản phẩm phần mềm - Phần 3: Quy trình 
+dành cho người phát triển 
+Vi Thị Hồng 
+Loan 
+Cấp Bộ   
+22 Nghiên cứu và xây dựng ứng dụng phát hiện 
+tấn công có chủ đích (APT) dựa trên phân 
+tích kết nối bất thường sử dụng trí tuệ nhân 
+tạo.  
+Đỗ Xuân Chợ Cấp Bộ   
+
+### Trang 23
+
+ 
+24 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+23 Nghiên cứu xây dựng thử nghiệm thiết bị 
+phát hiện xâm nhập (IDS) ứng dụng kỹ 
+thuật học máy cho các hệ thống IoT   
+Nguyễn Chiến 
+Trinh 
+Cấp Bộ   
+24 Nghiên cứu, xây dựng hệ thống hỗ trợ thu 
+thập, cảnh báo và quản lý tiêu chuẩn, quy 
+chuẩn phục vụ cho Bộ Thông tin và Truyền 
+thông 
+Ngô Quốc Dũng Cấp Bộ   
+25 Nghiên cứu, xây dựng mô hình học sâu giải 
+quyết bài toán nhận dạng ảnh khuôn mặt 
+thật và giả phục vụ quản lý nội dung trên 
+Internet 
+Trần Quý Nam Cấp Bộ   
+26 Nghiên cứu xây dựng các tiêu chuẩn quốc 
+gia về các chỉ số chất lượng chính (KPI) liên 
+quan đến hiệu suất sử dụng điện và môi 
+trường của Trung tâm dữ liệu 
+ThS. Nguyễn 
+Việt Dũng 
+Cấp Bộ   
+27 Nghiên cứu phát triển bộ công cụ phần mềm 
+dạy ngôn ngữ ký hiệu cho người khiếm 
+thính dựa trên ứng dụng của game hóa 
+Trần Thị Ngọc 
+Bích 
+Cấp Bộ   
+28 Nghiên cứu xây dựng một số trò chơi điện 
+tử theo mô hình LEAP (Nghe - Học - Chơi) 
+cho người khiếm thị 
+Nguyễn Phương 
+Anh 
+Cấp Bộ   
+29 Nghiên cứu chế tạo thiết bị đồng hồ đeo tay 
+hỗ trợ nhận diện giọng nói và cảnh báo cho 
+người khiếm thính 
+Trần Duy Hiếu Cấp Bộ   
+30 Nghiên cứu , chế tạo thử nghiệm thiết bị 
+ngoại vi điều hướng cơ bản, tương tác (giải 
+trí, học tập...) trên máy tính, hoạt động 
+thông qua cách thức vận động vùng đầu, cổ 
+của người khiếm khuyết vận động chi trên 
+Nguyễn Văn 
+Chương 
+Cấp Bộ   
+31 Khảo sát một số mô hình ẩn dụ ý niệm trong 
+chương trình tiếng Anh English Discovery 
+và ứng dụng vào hoạt động giảng dạy tiếng 
+Anh tại Học viện Công nghệ bưu chính viễn 
+thông 
+Vũ Thị Sâm Cấp Học viện   
+32 Nghiên cứu về chiến lược ngôn từ bất lịch 
+sự trong giao tiếp tiếng Anh 
+Nguyễn Thị 
+Phương Nhung 
+Cấp Học viện   
+33 Nghiên cứu về ảnh hưởng của việc phân bổ 
+thời gian cho các hoạt động trước đọc đối 
+với kỹ năng đọc hiểu của sinh viên 
+Phạm Thị 
+Nguyên Thư 
+Cấp Học viện   
+34 Nghiên cứu tác phẩm “Đạo đức cách mạng” 
+của Hồ Chí Minh và ý nghĩa của tác phẩm 
+đối với giáo dục đạo đức cho sinh viên hiện 
+nay 
+Đỗ Thị Diệu Cấp Học viện   
+
+### Trang 24
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+35 Nghiên cứu những tư tưởng cơ bản trong tác 
+phẩm "Dân chủ và giáo dục" của John 
+Dewey và ý nghĩa của nó 
+Phạm Minh Ái Cấp Học viện   
+36 Nghiên cứu thái độ vô cảm của con cái trong 
+gia đình Việt Nam hiện nay 
+Phạm Thị 
+Khánh 
+Cấp Học viện   
+37 Nghiên cứu lựa chọn bài tập nâng cao hiệu 
+quả đập bóng nhanh trước mặt ở vị trí số 3 
+của nam sinh viên đội tuyển Bóng chuyền 
+Học viện Công nghệ Bưu chính Viễn thông 
+Nguyễn Đức 
+Thịnh 
+Cấp Học viện   
+38 Nghiên cứu cơ sở lý luận và kinh nghiệm 
+thực tiễn về vai trò Nhà nước đối với phát 
+triển du lịch. 
+Đào Mạnh Ninh Cấp Học viện   
+39 Nghiên cứu ứng dụng bài tập phát triển sức 
+bền tốc độ cho nam sinh viên đội tuyển Cầu 
+lông Học viện Công nghệ Bưu chính Viễn 
+thông 
+Nguyễn Phú 
+Trung 
+Cấp Học viện   
+40 Nghiên cứu ứng dụng bài tập nâng cao hiệu 
+quả kỹ thuật chuyền bóng thấp tay trước mặt 
+cho nữ sinh viên Học viện Công nghệ Bưu 
+chính Viễn thông 
+Nguyễn Duy 
+Trường 
+Cấp Học viện   
+41 Nghiên cứu sự tán xạ không đàn hồi của ánh 
+sáng và ứng dụng phân tích định lượng. 
+Nguyễn Thị 
+Thúy Liễu 
+Cấp Học viện   
+42 Nghiên cứu lựa chọn bài tập nâng cao thành 
+tích đẩy tạ lưng hướng ném cho nữ sinh viên 
+đội tuyển điền kinh Học viện Công nghệ 
+Bưu chính Viễn thông 
+Trương Kim 
+Liên 
+Cấp Học viện   
+43 Nghiên cứu đối chiếu đặc trưng ngữ nghĩa 
+của kết cấu gây khiến có động từ "make" 
+trong tiếng Anh và "làm" trong tiếng Việt 
+Đỗ Thị Phương 
+Thúy 
+Cấp Học viện   
+44 Nghiên cứu và xây dựng bộ bài luyện thi 
+theo chuẩn TOEFL ITP phần Cấu trúc ngữ 
+pháp và Diễn đạt 
+Nguyễn Thị 
+Thiết 
+Cấp Học viện   
+45 Ứng dụng chuyển đổi số trong giảng dạy 
+Vật lý ở Học viện Công nghệ Bưu chính 
+Viễn thông 
+Lê Thị Minh 
+Thanh 
+Cấp Học viện   
+46 Nghiên cứu tính tích cực và năng lực sử 
+dụng ngôn ngữ của sinh viên trong các giờ 
+học nói tiếng Anh tại Học viện Công nghệ 
+Bưu chính Viễn thông 
+Lê Thị Hồng 
+Hạnh 
+Cấp Học viện   
+47 Định lý biểu diễn dương của Putinar Hoàng Phi Dũng Cấp Học viện   
+
+### Trang 25
+
+ 
+26 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+48 Nghiên cứu thuật toán giải bài toán bất đẳng 
+thức biến phân trên tập nghiệm của bài toán 
+điểm bất động chung tách với đa tập đầu ra 
+Trần Việt Anh Cấp Học viện   
+49 Nghiên cứu giải pháp và xây dựng hệ thống 
+đánh giá tự động môn học lập trình mạng 
+ThS. Đặng Ngọc 
+Hùng 
+Cấp Học viện   
+50 Nghiên cứu xây dựng phần mềm mô phỏng 
+hoạt động của các giải thuật cơ bản trong 
+môn học Các hệ thống phân tán 
+ThS. Nguyễn 
+Xuân Anh 
+Cấp Học viện   
+51 Xây dựng công cụ hỗ trợ công tác truyền 
+thông về khoa Công nghệ thông tin 1 
+TS. Nguyễn Thị 
+Mai Trang 
+Cấp Học viện   
+52 Nghiên cứu phát triển bộ câu hỏi và test -
+case học phần Nhập môn trí tuệ nhân tạo 
+triển khai trên hệ thống thực hành trực tuyến 
+ThS. Vũ Hoài 
+Thư 
+Cấp Học viện   
+53 Xây dựng bộ câu hỏi và test -case đánh giá 
+học phần Toán rời rạc 2 trên cổng thực hành 
+trực tuyến 
+TS. Vũ Văn 
+Thỏa 
+Cấp Học viện   
+54 Nghiên cứu xây dựng thử nghiệm hệ thống 
+thực hành, chấm điểm tự động cho nhóm 
+môn môn Cơ sở dữ liệu, thử nghiệm với 
+môn Cơ sở dữ liệu 
+PGS.TS. 
+Nguyễn Trọng 
+Khánh 
+Cấp Học viện   
+55 Nghiên cứu một số phương pháp phân cụm 
+bản tin và ứng dụng trong quản lý thông tin 
+mạng 
+TS. Dương Trần 
+Đức 
+Cấp Học viện   
+56 Nghiên cứu phương pháp khuyến nghị tin 
+tức trên cổng thông tin điện tử dựa trên dữ 
+liệu phiên sử dụng mạng lưới thần kinh đồ 
+thị (Graph Neuron Network) 
+ThS. Nguyễn 
+Hoàng Anh 
+Cấp Học viện   
+57 Nghiên cứu phương pháp xây dựng hệ tư 
+vấn dựa vào ngữ cảnh 
+TS. Đỗ Thị Liên Cấp Học viện   
+58 Nghiên cứu phương pháp phát hiện tấn công 
+mạng dựa trên mạng nơ-ron đồ thị 
+TS. Nguyễn Thị 
+Thanh Thủy 
+Cấp Học viện   
+59 Nghiên cứu phương pháp sinh câu h ỏi trắc 
+nghiệm tự động 
+ThS. Ngô Tiến 
+Đức 
+Cấp Học viện   
+60 Nghiên cứu cải tiến độ chính xác tra cứu ảnh 
+dựa vào nội dung theo tiếp cận mạng nơ ron 
+tích chập đồ thị 
+TS. Đào Thị 
+Thúy Quỳnh 
+Cấp Học viện   
+61 Kết hợp cơ chế tự chú ý trong Transformer 
+với mạng nơ ron chú ý đồ thị cho nâng cao 
+hiệu năng nhận dạng ảnh nha khoa 
+ThS. Nguyễn 
+Văn Tiến 
+Cấp Học viện   
+
+### Trang 26
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+62 Nghiên cứu phép tách bảo toàn thông tin 
+trong cơ sở dữ liệu quan hệ với thông tin 
+không chính xác 
+ThS. Nguyễn 
+Đình Hiến 
+Cấp Học viện   
+63 Nghiên cứu xây dựng phương án thành lập 
+khoa đào tạo đại học ngành Trí tuệ nhân tạo 
+tại Học viện Công nghệ BCVT 
+PGS.TS. Phạm 
+Văn Cường 
+Cấp Học viện   
+64 Nghiên cứu phương pháp phát hiện lỗ hổng 
+mã nguồn dựa trên phân tích đặc trưng mã 
+nguồn và trí tuệ nhân tạo 
+PGS.TS. Đỗ 
+Xuân Chợ 
+Cấp Học viện   
+65 Nghiên cứu phát hiện mã độc JavaScript sử 
+dụng học sâu 
+PGS.TS. Hoàng 
+Xuân Dậu 
+Cấp Học viện   
+66 Nghiên cứu phương pháp phát hiện mã độc 
+trên hệ điều hành Android dựa trên học máy 
+ThS. Vũ Minh 
+Mạnh 
+Cấp Học viện   
+67 Nghiên cứu phát hiện tấn công web sử dụng 
+các bộ dữ liệu không cân bằng 
+ThS. Ninh Thị 
+Thu Trang 
+Cấp Học viện   
+68 Nghiên cứu xây dựng hệ thống đăng nhập 
+website S -Link demo thông qua thẻ sinh 
+viên gắn chip tương tác NFC với mobile app 
+không sử dụng Username và Password 
+TS. Trần Tuấn 
+Anh 
+Cấp Học viện   
+69 Nghiên cứu thiết kế bộ chuyển mạch 
+thermo-optic ba mode dẫn sóng E11, E12, 
+E21 dựa trên giao thoa kế Mach-Zehnder và 
+giao thoa đa mode trên nền quang tử silic 
+PGS.TS. Trương 
+Cao Dũng 
+Cấp Học viện   
+70 Nghiên cứu phương pháp và thuật toán lý 
+thuyết điều khiển làm giảm nhiễu định kỳ 
+bằng cách sử dụng bộ quan sát nhiễu 
+TS. Mai Thị 
+Nghĩa 
+Cấp Học viện   
+71 Nghiên cứu mô hình thể hiện các cảm xúc 
+phức tạp bằng cách sử dụng màu sắc dành 
+cho Robot 
+ThS. Đào Thanh 
+Huyền 
+Cấp Học viện   
+72 Nghiên cứu cải tiến thuật toán tối ưu tốc độ 
+- biến dạng (RDO) cho mã hóa video 
+TS. Nguyễn Thị 
+Hương Thảo 
+Cấp Học viện   
+73 Nghiên cứu giải pháp nâng cao hiệu quả hỗ 
+trợ chẩn đoán y tế từ tín hiệu điện tâm đồ 
+(ECG) 
+ThS. Phạm Văn 
+Sự 
+Cấp Học viện   
+74 Nghiên cứu xây dựng phương pháp điều chế 
+vector không gian cho biến tần đa bậc tổng 
+quát 
+TS. Đỗ Duy 
+Hiệp 
+Cấp Học viện   
+75 Nghiên cứu nâng cao hiệu suất phổ tần mã 
+không gian - thời gian điều chế không gian 
+ứng dụng trong các hệ thống thông tin vô 
+tuyến thế hệ mới. 
+TS. Lê Minh 
+Tuấn 
+Cấp Học viện   
+
+### Trang 27
+
+ 
+28 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+76 Nghiên cứu, đề xuất thuật toán để giảm 
+phản hồi âm thanh trong máy trợ thính dựa 
+trên dịch tần số và tính chất thưa thớt của 
+đường phản hồi âm thanh 
+TS.Trần Thục 
+Linh 
+Cấp Học viện   
+77 Nghiên cứu giải pháp sàng lọc một số bệnh 
+tim mạch tại biên dựa trên tín hiệu ECG 
+ThS. Lương 
+Công Duẩn 
+Cấp Học viện   
+78 Nghiên cứu giải pháp phân loại thiết bị và 
+giám sát công suất tiêu thụ dựa trên NILM 
+KS. Nguyễn 
+Quang Biên 
+Cấp Học viện   
+79 Nghiên cứu và đề xuất giải pháp sửa lỗi của 
+hệ thống thông tin quang dựa vào mô hình 
+học sâu 
+KS. Trần Thị 
+Thanh Thủy 
+Cấp Học viện   
+80 Nghiên cứu, tính toán, thiết kế hệ thống điều 
+khiển lực đẩy cho quạt đẩy điện 
+ThS. Đinh 
+Quang Ngọc 
+Cấp Học viện   
+81 Nghiên cứu xây dựng mô hình toán học, 
+thuật toán và phần mềm giải bài toán bắn 
+đón trong máy tính điều khiển hỏa lực có 
+tính đến các đại lượng hiệu chỉnh 
+TS. Trịnh Trung 
+Hiếu 
+Cấp Học viện   
+82 Nghiên cứu bộ dự đoán Smith và ứng dụng 
+trong hệ thống điều khiển tự động 
+ThS. Vũ Anh 
+Đào 
+Cấp Học viện   
+83 Nghiên cứu, xây dựng điện cực carbon phát 
+hiện protein dựa trên hạt nano vàng và 
+phương pháp miễn dịch. 
+TS. Trần Thị 
+Thúy Hà 
+Cấp Học viện   
+84 Nghiên cứu các hình thức thể hiện của báo 
+nhúng và xu hướng ứng dụng hiện nay 
+ThS. Bùi Vân 
+Anh 
+Cấp Học viện   
+85 Nghiên cứu các kỹ thuật tương tác của 
+người dùng trong môi trường thực tại tăng 
+cường 
+ThS. Nguyễn 
+Thị Thanh Tâm 
+Cấp Học viện   
+86 Nghiên cứu ứng dụng công nghệ thực tế 
+tăng cường (AR) trong truyền thông thị giác 
+trên các phương tiện truyền thông xã hội 
+phổ biến 
+ThS. Nguyễn 
+Đình Sơn 
+Cấp Học viện   
+87 Nghiên cứu các yếu tố của mỹ thuật trên 
+môi trường Báo điện tử Việt Nam. 
+ThS. Hà Thị 
+Hồng Ngân 
+Cấp Học viện   
+88 Nghiên cứu vai trò của phản biện thông qua 
+chuyên mục "Điểm tuần" của Đài Truyền 
+Hình Việt Nam 
+TS. Đỗ Hải 
+Hoàn 
+Cấp Học viện   
+89 Nghiên cứu các hình thức tương tác của 
+công nghệ thực tế ảo tăng cường (AR) đối 
+với trải nghiệm người dùng dựa trên lý 
+thuyết Chấp nhận công nghệ (TAM) 
+ThS. Nguyễn 
+Cảnh Châu 
+Cấp Học viện   
+
+### Trang 28
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+90 Nghiên cứu và đề xuất kỹ thuật cải tiến hiệu 
+năng mã hóa Video theo chuẩn H.266/VVC 
+TS. Vũ Hữu 
+Tiến 
+Cấp Học viện   
+91 Nghiên cứu thực trạng Podcast tin tức trên 
+báo mạng điện tử ở Việt Nam hiện nay 
+ThS. Lê Tuấn 
+Anh 
+Cấp Học viện   
+92 Nghiên cứu cách tiếp cận giao tiếp hiệu quả 
+trong Quan hệ công chúng 
+ThS. Nguyễn 
+Vân Anh 
+Cấp Học viện   
+93 Nghiên cứu xu hướng siêu tác phẩm báo chí 
+(mega story) trên báo điện tử tại Việt Nam 
+hiện nay. 
+ThS. Vương 
+Khánh Ly 
+Cấp Học viện   
+94 Nghiên cứu hoạt động quan hệ công chúng 
+của các trường đại học (qua một số trường 
+hợp cụ thể) 
+TS. Lê Thị Hằng Cấp Học viện   
+95 Nghiên cứu hình thức truyền thông tuyển 
+sinh đại học trên báo điện tử Việt nam 
+ThS. Trần Thị 
+Tuyết Nhung 
+Cấp Học viện   
+96 Nghiên cứu ứng dụng công nghệ AI trong 
+một số công cụ thiết kế đồ họa hiện nay 
+ThS. Nguyễn 
+Thị Hoài 
+Phương 
+Cấp Học viện   
+97 Nghiên cứu các công cụ xử lý và đánh giá 
+chất lượng ảnh video dựa theo phương pháp 
+đánh giá chủ quan 
+TS. Phí Công 
+Huy 
+Cấp Học viện   
+98 Ảnh hưởng của thông điệp trong xử lý 
+khủng hoảng truyền thông 
+ThS. Trần Ngọc 
+Trang Ninh 
+Cấp Học viện   
+99 Nghiên cứu xu hướng sử dụng video trên 
+báo điện tử tại Việt Nam hiện nay 
+ThS. Vũ Thùy 
+Linh 
+Cấp Học viện   
+100 Nghiên cứu cơ hội và thách thức trong lĩnh 
+vực phát triển Game tại Việt nam 
+ThS. Đỗ Văn 
+Hanh 
+Cấp Học viện   
+101 Nghiên cứu phát triển hệ thống KIT thực 
+hành chuyên sâu IoT cho sinh viên ngành 
+Điện tử viễn thông. 
+TS. Nguyễn 
+Trọng Trung 
+Anh 
+Cấp Học viện   
+102 Nghiên cứu giải pháp giảm tải hiệu quả cho 
+các hệ thống IoT được hỗ trợ bởi tính toán 
+biên 
+PGS.TS. 
+Nguyễn Tiến 
+Ban 
+Cấp Học viện   
+103 Nghiên cứu giải pháp tăng hiệu quả của hệ 
+thống phát hiện ngã dựa trên cảm biến trên 
+điện thoại thông minh 
+TS. Ngô Thị 
+Thu Trang 
+Cấp Học viện   
+104 Thiết kế hệ thống phân phối khóa lượng tử 
+cho truyền thông quang không dây dưới 
+nước 
+TS. Vũ Quang 
+Minh 
+Cấp Học viện   
+
+### Trang 29
+
+ 
+30 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+105 Nghiên cứu phương pháp tối ưu công suất 
+cho các máy thu 5G sử dung công nghệ AI 
+TS. Bùi Quang 
+Chung 
+Cấp Học viện   
+106 Phân tích hiệu năng giải pháp truyền thông 
+không dây ứng dụng mặt phản xạ thông 
+minh cấu hình được (RIS) 
+PGS.TS. Lê Hải 
+Châu 
+Cấp Học viện   
+107 Nghiên cứu ứng dụng công nghệ học máy 
+trong phân tích dữ liệu gene và chẩn đoán 
+bệnh nhiễm trùng máu 
+TS. Nguyễn 
+Chiến Trinh 
+Cấp Học viện   
+108 Nghiên cứu mô hình học máy để nâng cao 
+hiệu suất chẩn đoán rối loạn nhịp  tim 
+ThS. Khuất văn 
+Đức 
+Cấp Học viện   
+109 Cải tiến phương pháp học liên kết trong 
+mạng điện toán biên đa truy nhập 
+TS. Hoàng Thị 
+Thu 
+Cấp Học viện   
+110 Phương pháp lựa chọn gene nổi bật nâng 
+cao hiệu quả chẩn đoán nhiễm trùng máu 
+dựa trên học sâu 
+TS. Nguyễn 
+Minh Tuấn 
+Cấp Học viện   
+111 Nghiên cứu ứng dụng công nghệ học máy 
+trong phân tích gene hỗ trợ chẩn đoán bệnh 
+ThS. Vũ Đức 
+Long 
+Cấp Học viện   
+112 Nghiên cứu giải pháp truyền phối hợp trong 
+hệ thống hỗ trợ bề mặt thông minh có thể tái 
+cấu hình (RIS) cho mạng 6G 
+TS. Lê Thanh 
+Thủy 
+Cấp Học viện   
+113 Nghiên cứu hệ thống 6G truyền thông siêu 
+tin cậy và độ trễ thấp (URLL) có khả năng 
+tái cấu hình (RIS) và truyền thông gói ngắn 
+(SPC) 
+TS. Nguyễn 
+Viết Đảm 
+Cấp Học viện   
+114 Đánh giá hiệu năng mạng cảm biến quang 
+FBG kết hợp với mạng cự li dài WDM cho 
+IoT 
+TS. Cao Hồng 
+Sơn 
+Cấp Học viện   
+115 Đánh giá hiệu năng bảo mật lớp vật lý cho 
+truyền thông quang đư ợc h ỗ trợ bởi RIS 
+trong môi trường nước 
+TS. Nguyễn Văn 
+Thăng 
+Cấp Học viện   
+116 Nghiên cứu cải thiện hiệu năng kỹ thuật 
+massive MIMO cho hệ thống truyền thông 
+vệ tinh quỹ đạo thấp 
+TS. Nguyễn 
+Viết Minh 
+Cấp Học viện   
+117 Nghiên cứu cấu trúc bức xạ hình vành khăn 
+và ứng dụng cho thiết kế anten trong hệ 
+thống giao thông thông minh 
+TS. Dương Thị 
+Thanh Tú 
+Cấp Học viện   
+118 Nghiên cứu thiết kế bộ lọc khoang cộng 
+hưởng cải thiện hiệu năng cho phần vô 
+tuyến của trạm gốc 5G 
+TS. Nguyễn 
+Việt Hưng 
+Cấp Học viện   
+
+### Trang 30
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+119 Nghiên cứu thuật toán thông minh phân loại 
+nhịp tim để phát hiện bất thường tim mạch 
+dựa trên tín hiệu điện tâm đồ 
+ThS. Nguyễn 
+Hữu Cầm 
+Cấp Học viện   
+120 Ứng dụng quá trình ngẫu nhiên và học máy 
+phát triển mô hình dự báo thị trường tài 
+chính 
+ThS. Nguyễn 
+Thành Trung 
+Cấp Học viện   
+121 Phân tích quỹ đường truyền cho hệ thống 
+FSO vệ tinh chuyển tiếp dựa trên HAP trong 
+khu vực nhiệt đới 
+TS. Nguyễn Thị 
+Thu Nga 
+Cấp Học viện   
+122 Nghiên cứu, phân tích đánh giá giải pháp 
+đảm bảo an toàn định tuyến trong mạng cảm 
+biến không dây đa phương tiện 
+ThS. Trần Huy 
+Long 
+Cấp Học viện   
+123 Nghiên cứu ứng dụng tường lửa mã nguồn 
+mở pfSense trong quản lý truy cập mạng tại 
+phòng thí nghiệm thực hành 
+ThS. Đặng Trần 
+Lê Anh 
+Cấp Học viện   
+124 Nghiên cứu công nghệ học máy và ứng 
+dụng trong hệ thống phát hiện xâm nhập của 
+IoT 
+ThS. Bùi 
+Trường Sơn 
+Cấp Học viện   
+125 Dự báo năng lượng và hiệu suất tấm pin mặt 
+trời 
+ThS. Nguyễn 
+Đình Long 
+Cấp Học viện   
+126 Nghiên cứu phát triển hệ sinh thái khởi 
+nghiệp tại Việt Nam 
+ThS. Dương 
+Thúy Hằng 
+Cấp Học viện   
+127 Nghiên cứu các yếu tố ảnh hưởng đến kết 
+quả học tập của sinh viên Khoa Quản trị 
+Kinh doanh 1, Học viện Công nghệ Bưu 
+chính Viễn thông. 
+TS. Lê Thị Ngọc 
+Diệp 
+Cấp Học viện   
+128 Nghiên cứu tác động của quản trị nguồn 
+nhân lực xanh đến hành vi xanh của nhân 
+viên tại các khách sạn 4 -5 sao trên địa bàn 
+thành phố Hà Nội 
+TS. Nguyễn Thị 
+Hồng 
+Cấp Học viện   
+129 Nghiên cứu phát triển bán lẻ hợp kênh 
+(Omni-channel) của các doanh nghiệp 
+Thương mại Điện tử tại Việt Nam 
+TS. Trần Thị 
+Thập 
+Cấp Học viện   
+130 Nghiên cứu phòng ngừa rủi ro pháp lý trong 
+hoạt động giao nhận và vận chuyển hàng 
+hóa tại Việt Nam 
+TS. Trần Đoàn 
+Hạnh 
+Cấp Học viện   
+131 Nghiên cứu phát triển dịch vụ chứng thực 
+chữ ký số tại Việt Nam 
+TS. Vũ Trọng 
+Phong 
+Cấp Học viện   
+132 Nghiên cứu giải pháp đẩy mạnh hoạt động 
+truyền thông marketing tại Học viện Công 
+nghệ Bưu chính Viễn thông 
+ThS. Lê Thị 
+Bích Ngọc 
+Cấp Học viện   
+
+### Trang 31
+
+ 
+32 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+133 Phát triển văn hóa doanh nghiệp tại Tổng 
+công ty bưu điện Việt Nam 
+ThS. Phạm Thị 
+Minh Lan 
+Cấp Học viện   
+134 Nghiên cứu ứng dụng công nghệ trong quản 
+lý kho ngoại quan của doanh nghiệp 
+Logistics Việt Nam 
+TS. Trần Thị 
+Hòa 
+Cấp Học viện   
+135 Nghiên cứu văn hóa giao tiếp với khách 
+hàng trên các kênh bán hàng của một số 
+doanh nghiệp bán lẻ trực tuyến ngành thực 
+phẩm tại Việt Nam 
+TS. Nguyễn 
+Thùy Dung 
+Cấp Học viện   
+136 Nghiên cứu ảnh hưởng của văn hóa tổ chức 
+tới động lực làm việc của người lao động tại 
+Học viện Công nghệ Bưu chính Viễn thông 
+TS. Nguyễn Thị 
+Thanh Huyền 
+Cấp Học viện   
+137 Đánh giá các nhân tố bên trong ảnh hưởng 
+đến hiệu quả kinh doanh của các doanh 
+nghiệp công nghệ niêm yết trên sàn chứng 
+khoán HoSE và HNX 
+PGS.TS. 
+Nguyễn Văn 
+Hậu 
+Cấp Học viện   
+138 Nghiên cứu đặc tính tài sản trú ẩn an toàn 
+của tiền mã hóa 
+ThS. Đặng 
+Phong Nguyên 
+Cấp Học viện   
+139 Nghiên cứu đánh giá năng lực số của giảng 
+viên Học viện công nghệ Bưu chính viễn 
+thông 
+TS. Nguyễn Thị 
+Chinh Lam 
+Cấp Học viện   
+140 Nghiên cứu khả năng ứng dụng trí tuệ nhân 
+tạo (AI) trong dự báo giá cổ phiếu 
+ThS. Trần Quốc 
+Khánh 
+Cấp Học viện   
+141 Đánh giá các yếu tố tác động đến việc áp 
+dụng tài chính xanh tại các doanh nghiệp 
+nhỏ và vừa Việt Nam 
+TS. Lê Thị Ánh Cấp Học viện   
+142 Nghiên cứu mức độ chấp nhận công nghệ 
+InsurTech của doanh nghiệp bảo hiểm tại 
+Việt Nam 
+TS. Nguyễn Thị 
+Vân Anh 
+Cấp Học viện   
+143 Nghiên cứu sử dụng phương pháp đường 
+bao dữ liệu (DEA) và kỹ thuật học máy để 
+đánh giá và dự báo hiệu quả hoạt động của 
+các ngân hàng thương mại Việt Nam 
+PGS.TS. Đỗ 
+Quang Hưng 
+Cấp Học viện   
+144 Phân tích xu hướng ứng dụng dữ liệu lớn 
+của các tổ chức tài chính trên thế giới và bài 
+học kinh nghiệm cho Việt Nam 
+ThS. Nguyễn 
+Hương Anh 
+Cấp Học viện   
+145 Nghiên cứu tác động của lợi nhuận giữ lại 
+đến kết quả hoạt động của các doanh nghiệp 
+Công nghệ thông tin và truyền thông niêm 
+yết tại Việt Nam 
+TS. Vũ Quang 
+Kết 
+Cấp Học viện   
+
+### Trang 32
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+146 Nghiên cứu hiệu quả kinh doanh của các 
+doanh nghiệp ngành điện niêm yết tại Việt 
+Nam 
+TS. Phạm Duy 
+Khánh 
+Cấp Học viện   
+147 Nghiên cứu mô hình phát hiện gian lận báo 
+cáo tài chính tại các doanh nghiệp niêm yết 
+trên sàn chứng khoán Việt Nam 
+TS. Nguyễn Thị 
+Việt Lê 
+Cấp Học viện   
+148 Nghiên cứu ứng dụng công nghệ số trong 
+Quản trị danh mục khách hàng tại Ngân 
+hàng thương mại cổ phần Đại Chúng Việt 
+Nam 
+TS. Trần Thị 
+Thanh Thúy 
+Cấp Học viện   
+149 Xây dựng phần mềm đánh giá tự động kiến 
+thức, kỹ năng làm bài tập lớn môn Kiến trúc 
+máy tính 
+TS. Nguyễn 
+Quý Sỹ 
+Cấp Học viện   
+150 Nghiên cứu thiết kế module cảm biến thông 
+minh không dây đa năng cho hệ thống AIoT   
+TS. Nguyễn Tài 
+Tuyên 
+Cấp Học viện   
+151 Thiết kế modul xử lý dữ liệu và  giao tiếp 
+máy tính cho bài thí nghiệm " Khảo sát hiện 
+tượng Quang - Điện" 
+TS. Nguyễn 
+Đức Việt 
+Cấp Học viện   
+152 Ước lượng DOA với giải thuật MUSIC và 
+ứng dụng 
+TS. Nguyễn 
+Đức Minh 
+Cấp Học viện   
+153 Nghiên cứu điều tra những nhân tố tác động 
+đến chuyển đổi số của doanh nghiệp ở Việt 
+Nam 
+ThS. Nguyễn 
+Ngọc Anh 
+Cấp Học viện   
+154 Nghiên cứu các yếu tố ảnh hưởng đến việc 
+ứng dụng thương mại điện tử trong các 
+doanh nghiệp nhỏ và vừa trên địa bàn thành 
+phố Hà Nội 
+ThS. Trần 
+Hương Giang 
+Cấp Học viện   
+155 Nghiên cứu những nhân tố ảnh hưởng tới 
+hành vi tiêu dùng xa xỉ kín đáo tại Việt Nam 
+ThS. Nguyễn 
+Bảo Ngọc 
+Cấp Học viện   
+156 Nghiên cứu tác động của thông tin truyền 
+thông và đánh giá trực tuyến đến ý định mua 
+các thiết bị gia dụng tiết kiệm điện 
+ThS. Lê Bảo 
+Ngọc 
+Cấp Học viện   
+157 Nghiên cứu vai trò của sự cam kết mối quan 
+hệ và niềm tin tới hành vi của người tiêu 
+dùng trong môi trường thương mại điện tử 
+ThS. Nguyễn 
+Hoàng Giang 
+Cấp Học viện   
+158 Nghiên cứu kiểm định thang đo Khả năng 
+thích ứng nghề nghiệp với  sinh viên Học 
+viện Công nghệ Bưu chính Viễn thông 
+ThS. Nguyễn 
+Thị Kim Chi 
+Cấp Học viện   
+
+### Trang 33
+
+ 
+34 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+159 Nghiên cứu các yếu tố bất lợi ảnh hưởng 
+đến ý định du lịch làng nghề truyền thống 
+tại Hà Nội 
+ThS. Nguyễn 
+Thị Phương 
+Dung 
+Cấp Học viện   
+160 Nghiên cứu ứng dụng khung năng lực nhằm 
+phát triển nguồn nhân lực trong tổ chức 
+TS. Từ Thảo 
+Hương Giang 
+Cấp Học viện   
+161 Nghiên cứu ảnh hưởng của sự chứng thực 
+của người nổi tiếng đến thái độ và ý định 
+mua các sản phẩm mỹ phẩm thuần chay 
+ThS. Vũ Việt 
+Tiến 
+Cấp Học viện   
+162 Nghiên cứu tích hợp phần mềm mô phỏng 
+vào Game engine để hỗ trợ xây dựng các bài 
+giảng ảo 
+ThS. Đinh Văn 
+Dũng 
+Cấp Học viện   
+163 Nghiên cứu, chế tạo thiết bị hỗ trợ nhận 
+diện, báo cáo sự kiện bất thường mất chúa 
+trong thùng ong 
+KS. Trần Duy 
+Hiếu 
+Cấp Học viện   
+164 Nghiên cứu ứng dụng phương pháp trò chơi 
+hóa (gamification) trong đào tạo môn học 
+ngành thương mại điện tử tại Học viện Công 
+nghệ Bưu chính Viễn thông 
+ThS. Nguyễn 
+Thanh Toàn 
+Cấp Học viện   
+165 Nghiên cứu mô hình phòng thí nghiệm 
+thực-ảo hỗn hợp trong đào tạo thí nghiệm 
+thực hành ngành điện tử 
+ThS. Nguyễn 
+Đức Hoàng 
+Cấp Học viện   
+166 Nghiên cứu và xây dựng quy trình đo kiểm 
+đánh giá chất lượng dịch vụ truy nhập 
+internet trên mạng viễn thông di động mặt 
+đất 5G theo QCVN 126:2021/BTTTT 
+Trần Trung 
+Phong 
+Cấp Học viện   
+167 Nghiên cứu và xây dựng quy trình đo phơi 
+nhiễm trường điện từ của trạm gốc điện 
+thoại di động mặt đất công cộng theo 
+QCVN 08:2022/BTTTT 
+Trịnh Bảo 
+Khánh 
+Cấp Học viện   
+168 Nghiên cứu, xây dựng Quy trình, bài đo tiếp 
+đất theo QCVN 9:2016/BTTTT và chống 
+sét theo QCVN 32:2020/BTTTT cho trung 
+tâm dữ liệu, công trình viễn thông 
+Vũ Hồng Sơn Cấp Học viện   
+169 Nghiên cứu xây dựng công cụ thu thập danh 
+mục tiêu chuẩn của các tổ chức tiêu chuẩn 
+hóa quốc tế (ISO, IEC, ITU) trong lĩnh vực 
+thông tin và truyền thông 
+Phạm Tiến 
+Dũng 
+Cấp Học viện   
+170 Nghiên cứu, xây dựng hệ thống công nhận 
+kết quả học tập và chuyển đổi tín chỉ tại Học 
+viện Công nghệ Bưu chính Viễn thông 
+ThS. Đặng Văn 
+Tùng 
+Cấp Học viện   
+
+### Trang 34
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+171 Nghiên cứu, xây dựng bộ tiêu chí đánh giá 
+năng lực lãnh đạo quản lý của viên chức cấp 
+Phòng tại Học viện Công nghệ Bưu chính 
+Viễn thông 
+ThS. Đặng Thu 
+Hà 
+Cấp Học viện   
+172 Nghiên cứu mô hình hợp tác quốc tế phục 
+vụ đ ịnh hư ớng đào tạo bậc đại học cho 
+người Việt Nam tại Hàn Quốc 
+ThS. Nguyễn 
+Thị Thu Nga 
+Cấp Học viện   
+173 Khảo sát, đánh giá hoạt động sử dụng khóa 
+học trực tuyến tích hợp cho hệ đào tạo chất 
+lượng cao ngành marketing tại Học viện 
+TS. Phạm Vũ 
+Minh Tú 
+Cấp Học viện   
+174 Nghiên cứu xây dựng mô hình tổ chức đào 
+tạo dành cho đối tượng lãnh đạo và quản lý 
+cấp cao tại Học viện Công nghệ BCVT 
+TS. Đoàn Hiếu Cấp Học viện   
+175 Sự tồn tại nghiệm của bài toán tối ưu véctơ 
+với các giả thiết không lồi 
+TS. Nguyễn 
+Xuân Hải 
+Cấp Học viện   
+176 Sự tồn tại dòng cân bằng cho mạng giao 
+thông đa mục tiêu. 
+TS. Nguyễn 
+Hồng Quân 
+Cấp Học viện   
+177 Tính chất tập nghiệm cho bài toán trò chơi 
+đa mục tiêu tổng quát 
+TS. Nguyễn Văn 
+Hưng 
+Cấp Học viện   
+178 Tính hữu hạn của tập iđêan nguyên tố đối 
+liên kết của môđun đồng điều địa phương 
+theo một cặp iđêan 
+TS. Đỗ Ngọc 
+Yến 
+Cấp Học viện   
+179 Di chúc của Chủ tịch Hồ Chí Minh về giáo 
+dục, bồi dưỡng thế hệ cách mạng cho đời 
+sau và việc thực hiện tư tưởng này của 
+Người trong sự nghiệp đổi mới đất nước 
+ThS. Lê H'Vinh Cấp Học viện   
+180 Phát huy tính năng động và sáng tạo trong 
+việc nâng cao ý thức tự học của sinh viên 
+Học viện Công nghệ Bưu chính Viễn thông 
+TS. Nguyễn Thị 
+Tri Lý 
+Cấp Học viện   
+181 Nghiên cứu lựa chọn một số bài tập phát 
+triển sức bền tốc độ cho nam sinh viên câu 
+lạc bộ bóng rổ Học viện Công nghệ Bưu 
+chính Viễn thông cơ sở tại Thành phố Hồ 
+Chí Minh 
+ThS. Nguyễn 
+Xuân Hiệp 
+Cấp Học viện   
+182 Nghiên cứu đánh giá sự biến đổi thể lực của 
+nam sinh viên câu lạc bộ bóng đá Học viện 
+Công nghệ Bưu chính Viễn thông cơ sở tại 
+Thành phố Hồ Chí Minh sau một chu kỳ 
+luyện 
+ThS. Huỳnh 
+Minh Cường 
+Cấp Học viện   
+183 Đánh giá hiệu năng hệ thống truyền gói tin 
+ngắn dưới sự hỗ trợ của mặt phản xạ thông 
+minh vừa phản xạ và truyền qua đồng thời 
+(STAR-IRS) qua kênh truyền fading 
+Rayleigh 
+ThS. Nguyễn 
+Thị Yến Linh 
+Cấp Học viện   
+
+### Trang 35
+
+ 
+36 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+184 Nghiên cứu sự tác động của nhiệt ảnh 
+hưởng đến sự suy thoái quang thông của 
+WLED 
+ThS. Nguyễn 
+Thị Phương 
+Loan 
+Cấp Học viện   
+185 Nghiên cứu ảnh hưởng của nhận dạng giọng 
+nói tự động đến phát âm tiếng Anh của sinh 
+viên trong lớp học đảo ngược tại PTIT 
+(Investigating the effect of automatic 
+speech recognition on PTIT students' 
+features of English pronunciation in a 
+flipped classroom) 
+ThS. Nguyễn 
+Đại Phong 
+Cấp Học viện   
+186 Nghiên cứu tác động của Chatbot lên kĩ 
+năng Đọc hiểu tiếng Anh của sinh viên 
+không chuyên 
+ThS. Đinh 
+Nguyễn Thanh 
+Nhàn 
+Cấp Học viện   
+187 Nghiên cứu những khó khăn và giải pháp 
+cho việc luyện tập bài thi TOEIC thông qua 
+Tiktok. (Challenges and solutions for 
+practicing TOEIC through Tiktok videos: 
+Students' and Teachers' Perceptions at 
+Tertiary Level) 
+ThS. Dương 
+Trần Thủy Trinh 
+Cấp Học viện   
+188 Nghiên cứu hiệu quả của dạy học theo dự án 
+trong việc nâng cao kỹ năng ngôn ngữ và kỹ 
+năng mềm cho sinh viên đại học 
+ThS. Trần Thị 
+Kim Quý 
+Cấp Học viện   
+189 Đặc điểm ngôn ngữ của thư tín thương mại 
+Tiếng Anh so sánh với thư tín thương mại 
+Tiếng Việt. Ứng dụng trong việc giảng dạy 
+kĩ năng Writing tại PTIT cơ sở TP.HCM 
+ThS. Trần Thị 
+Vân 
+Cấp Học viện   
+190 Nghiên cứu graph database cho mục đích 
+lưu trữ dữ liệu đa phương tiện 
+ThS. Nguyễn 
+Ngọc Duy 
+Cấp Học viện   
+191 Phân tích và cải thiện hiệu năng mạng LoRa 
+với sự giúp đỡ của mặt phản xạ thông minh 
+và công cụ hình học ngẫu nhiên 
+TS. Nguyễn Thị 
+Tuyết Hải 
+Cấp Học viện   
+192 Nghiên cứu giải pháp đánh giá lược đồ 
+UML mô hình hóa một hệ thống trên máy 
+tính 
+ThS. Nguyễn 
+Anh Hào 
+Cấp Học viện   
+193 Phát triển trò chơi giáo dục thú vị về lập 
+trình cơ bản 
+ThS. Lê Minh 
+Hóa 
+Cấp Học viện   
+194 Nghiên cứu phương pháp xây dựng bài thi 
+dạng Cryptography trong các cuộc thi CTF 
+ThS. Phan 
+Nghĩa Hiệp 
+Cấp Học viện   
+195 Nghiên cứu nhu cầu tài nguyên tính toán 
+của Transformer trong phân loại ảnh 
+ThS. Nguyễn 
+Trung Hiếu 
+Cấp Học viện   
+196 Ứng dụng thuật toán CNN nhận diện khuôn 
+mặt trong hệ thống IoT nhà thông minh 
+ThS. Phan 
+Thanh Hy 
+Cấp Học viện   
+
+### Trang 36
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+197 Nghiên cứu phương pháp xây dựng bài thi 
+Binary cho các cuộc thi CTF theo thể thức 
+Jeopardy 
+ThS. Đàm Minh 
+Lịnh 
+Cấp Học viện   
+198 Ứng dụng hình tượng Rồng thời Trần trong 
+thiết kế nhân vật truyện tranh lịch sử 
+ThS. Nguyễn 
+Tất Mão 
+Cấp Học viện   
+199 Nghiên cứu phương pháp Multi -Model của 
+cơ sở dữ liệu OrientDB 
+ThS. Nguyễn 
+Thị Bích 
+Nguyên 
+Cấp Học viện   
+200 Xây dựng giải pháp nhận dạng bảng điểm 
+viết tay  
+ThS. Nguyễn 
+Văn Sáu 
+Cấp Học viện   
+201 Nghiên cứu khả năng cải tiến Transformer 
+dựa trên sự tương đồng với Graph Neural 
+Network 
+TS. Nguyễn 
+Hồng Sơn 
+Cấp Học viện   
+202 Xây dựng cơ sở dữ liệu Thông tin Sức khỏe 
+điện tử 
+ThS. Lê Hà 
+Thanh 
+Cấp Học viện   
+203 Nghiên c ứu m ô hình h ọc s âu nh ằm ph át 
+hiện ảnh giấu tin. 
+ThS. Nguyễn 
+Hoàng Thành 
+Cấp Học viện   
+204 Nghiên cứu giải pháp bảo vệ thông tin nhạy 
+cảm với Secure QR Code 
+TS. Huỳnh 
+Trọng Thưa 
+Cấp Học viện   
+205 Ứng dụng Hoa văn Thuỷ ba Lý Trần vào 
+thiết kế bao bì đương đại. 
+ThS. Huỳnh Thị 
+Tuyết Trinh 
+Cấp Học viện   
+206 Nghiên cứu ứng dụng công nghệ dữ liệu lớn 
+vào phân tích và dự báo trễ trong ngành 
+hàng không 
+ThS. Huỳnh 
+Trung Trụ 
+Cấp Học viện   
+207 Ứng dụng chữ viết vào thiết kế Poster trong 
+ngành thiết kế đa phương tiện 
+ThS. Trần Thị 
+Nhã Vi 
+Cấp Học viện   
+208 Nghiên cứu các yếu tố ảnh hưởng đến hiệu 
+quả hoạt động kinh doanh xét trên khía cạnh 
+tài chính của các doanh nghiệp nhỏ và vừa 
+trên địa bàn Tp.Hồ Chí Minh 
+ThS. Dương 
+Nguyễn Uyên 
+Minh 
+Cấp Học viện   
+209 Đánh giá các yếu tố quan trọng ảnh hưởng 
+đến chuyển đổi số của các doanh nghiệp 
+trong lĩnh vực Công nghệ Thông tin và 
+Truyền thông (ICT) 
+PGS. TS 
+Nguyễn Văn 
+Phước 
+Cấp Học viện   
+210 Nghiên cứu tác động quyền số của giỏ hàng 
+hóa đến chỉ số giá  tiêu dùng (Consumer 
+Price Index – CPI) 
+ThS. Đỗ Như 
+Lực 
+Cấp Học viện   
+211 Đánh giá các yếu tố ảnh hưởng đến chi tiêu 
+cho ứng dụng di động của khách hàng tại 
+Thành phố Hồ Chí Minh 
+ThS. Nguyễn 
+Trung Thành 
+Cấp Học viện   
+
+### Trang 37
+
+ 
+38 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+212 Tổ chức công tác kế toán quản trị tại các 
+trường Đại học công lập thực hiện cơ chế tự 
+chủ tài chính ở  Thành phố Hồ Chí Minh 
+ThS. Trần Thị 
+Nhật Hà 
+Cấp Học viện   
+213 Ảnh hưởng của sức hấp dẫn thương hiệu 
+nhà tuyển dụng đến ý định ứng tuyển của 
+sinh viên Học viện Công nghệ Bưu chính 
+Viễn thông Cơ sở tại Thành phố Hồ Chí 
+Minh 
+ThS. Nguyễn 
+Thị Phương Hảo 
+Cấp Học viện   
+214 Đánh giá các yếu tố ảnh hưởng đến việc áp 
+dụng chuẩn mực báo cáo tài chính quốc tế 
+(IFRS) của các doanh nghiệp niêm yết tại sở 
+giao dịch chứng khoán 
+ThS. Trần Quốc 
+Hùng 
+Cấp Học viện   
+215 Ảnh hưởng của truyền miệng điện tử 
+eWOM đến hình ảnh thương hiệu và ý định 
+lựa chọn sản phẩm của khách hàng tại 
+Thành phố Hồ Chí Minh  
+TS. Nguyễn Thị 
+Thanh Hương 
+Cấp Học viện   
+216 Đánh giá sự hài lòng của khách hàng về chất 
+lượng dịch vụ Digibank khu vực Thành Phố 
+Hồ Chí Minh 
+ThS. Nguyễn 
+Bảo Lâm 
+Cấp Học viện   
+217 Khám phá cấu trúc sở thích của khách hàng 
+tại TP. Hồ Chí Minh đối với mỹ phẩm chăm 
+sóc da thuần chay: tiếp cận bằng phương 
+pháp phân tích kết hợp 
+ThS. Trần Thị 
+Khánh Li 
+Cấp Học viện   
+218 Tác động của giá trị quảng cáo qua phương 
+tiện truyền thông xã hội đến hành vi mua 
+ngẫu hứng trực tuyến của người tiêu dùng 
+tại Thành phố Hồ Chí Minh 
+ThS. Lê Nguyễn 
+Nam Trân 
+Cấp Học viện   
+219 Phân tích một số cơ hội và thách thức đối 
+với thị trường chứng khoán Việt Nam hiện 
+nay 
+ThS. Đỗ Duy 
+Trọng 
+Cấp Học viện   
+220 Nhận diện các yếu tố ảnh hưởng đến việc sử 
+dụng ví điện tử của người tiêu dùng tại khu 
+vực Thành phố Hồ Chí Minh 
+ThS. Nguyễn 
+Thị Hải Uyên 
+Cấp Học viện   
+221 Đo lường mức độ tác động của các yếu tố 
+đến ý định sử dụng hình thức thanh toán 
+không dùng tiền mặt của khách hàng tại 
+Thành phố Hồ Chí Minh 
+ThS. Trần 
+Thanh Trà 
+Cấp Học viện   
+222 Các nhân tố ảnh hưởng đến mức độ công bố 
+thông tin trách nhiệm xã hội, phát triển bền 
+vững của các doanh nghiệp niêm yết trong 
+chỉ số VN100 ở Việt Nam 
+ThS. Lê Hoàng 
+Mai 
+Cấp Học viện   
+
+### Trang 38
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+223 Tác động của digital marketing đến ý định 
+chọn trường đại học của người học tại TP 
+Thủ Đức, Thành phố Hồ Chí Minh 
+TS. Võ Thị 
+Phương Nhung 
+Cấp Học viện   
+224 Mối liên hệ giữa hai chỉ báo đo lường mức 
+độ hợp tác nghiên cứu quốc tế: đồng tác giả 
+ấn phẩm khoa học và đồng tác giả sáng chế 
+TS. Nguyễn 
+Xuân Bá 
+Cấp Học viện   
+225 Giải pháp thúc đẩy công tác chuyển đổi số 
+tại các ngân hàng thương mại hướng tới 
+ngân hàng số tại Việt Nam năm 2030 
+ThS. Nguyễn 
+Hoàng Thanh 
+Cấp Học viện   
+226 Đánh giá hiệu suất của các hệ thống truy cập 
+IoT qua vệ tinh khi chia sẻ phổ vô tuyến với 
+các mạng mặt đất. 
+ThS. Lê Chu 
+Khẩn 
+Cấp Học viện   
+227 Thiết kế và lắp đặt mạch giám sát từ xa phụ 
+tải điện (đo điện áp, dòng điện, công suất, 
+tần số) hộ gia đình. 
+ThS. Lê Duy 
+Khánh 
+Cấp Học viện   
+228 Nghiên cứu NB -IoT và ứng dụng NB -IoT 
+trong thành phố thông minh 
+ThS. Phạm 
+Quốc Hợp 
+Cấp Học viện   
+229 Nghiên cứu về kiến trúc chức năng mạng 
+SDN và ứng dụng 
+ThS. Nguyễn 
+Khánh Toàn 
+Cấp Học viện   
+230 Đánh giá xác suất dừng và xác suất mất bảo 
+mật cho mạng đa người dùng sử dụng bề 
+mặt phản xạ thông minh và kỹ thuật tạo 
+nhiễu nhân tạo với sự xuất hiện của nhiều 
+nút nghe lén 
+ThS. Phạm 
+Minh Quang 
+Cấp Học viện   
+231 Thiết kế và đánh giá hiệu năng mô hình 
+chuyển tiếp kết hợp vệ tinh-trạm mặt đất sử 
+dụng mã Fountain và NOMA cho mạng 
+quảng bá đa người dùng 
+ThS. Nguyễn 
+Văn Hiền 
+Cấp Học viện   
+232 Đánh giá hiệu năng mạng chuyển tiếp trong 
+vô tuyến nhận thức dạng nền với truyền 
+thông gói tin ngắn sử dụng phương pháp 
+học sâu 
+ThS. Huỳnh 
+Văn Hóa 
+Cấp Học viện   
+233 Nghiên cứu và đánh giá hiệu năng của công 
+nghệ Network Slicing trong mạng di động 
+5G 
+ThS. Phạm 
+Thanh Đàm 
+Cấp Học viện   
+234 Nghiên cứu kiến trúc single-node sen sor và 
+ứng dụng trong mạng cảm biến không dây 
+và ứng dụng 
+ThS. Đỗ Văn 
+Việt Em 
+Cấp Học viện   
+235 Nghiên cứu đề xuất xây dựng Cloud 
+Computing Lab tại HV Cơ sở tại Thành phố 
+Hồ Chí Minh 
+ThS. Trần Đình 
+Thuần 
+Cấp Học viện   
+
+### Trang 39
+
+ 
+40 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+236 Thiết kế và mô phỏng hệ thống IoT trên 
+Cisco Packet Tracer 
+ThS. Phan 
+Thanh Toản 
+Cấp Học viện   
+237 Thiết kế, xây dựng module thực hành kỹ 
+thuật lập trình PLC bằng Tia Portal và 
+FluidSim cho ngành Kỹ thuật điều khiển và 
+Tự động hóa. 
+Th.S Đoàn Công 
+Anh 
+Cấp Học viện   
+238 Điều khiển bù điện áp lưới dùng bộ điều hòa 
+chất lượng điện năng đồng nhất (UPQC) 
+trong trường hợp tải phi tuyến và sụt áp 
+nguồn 
+ThS. Hồ Nhựt 
+Minh 
+Cấp Học viện   
+239 Thiết kế vi mạch cho bộ phát hiện tần số và 
+pha 
+TS. Phạm Thị 
+Đan Ngọc 
+Cấp Học viện   
+240 Ứng dụng thuật toán Tối Ưu Hóa Bầy Đàn 
+(PSO) để tối ưu hóa Bộ điều khiển bậc hai 
+tuyến tính (LQR) trên mô hình hệ Bánh 
+Quay Trên Con Lắc Ngược. 
+Ths. Nguyễn 
+Bình Hậu 
+Cấp Học viện   
+241 Ứng dụng phương pháp kiểm soát năng 
+lượng và điều khiển tối ưu tuyến tính hóa 
+bậc hai (LQR) để thực hiện Swing -Up và 
+cân bằng cho hệ Bánh Quay Trên Con Lắc 
+Ngược. 
+Ths. Trần Đình 
+Đạt 
+Cấp Học viện   
+242 Nghiên cứu kỹ thuật giấu tin thích nghi 
+trong video stereo 
+TS. Nguyễn 
+Lương Nhật 
+Cấp Học viện   
+243 Nghiên cứu hiệu năng mạng chuyển tiếp hai 
+chiều sử dụng bề mặt phản xạ thông minh 
+và mã Fountain 
+PGS. TS. Trần 
+Trung Duy 
+Cấp Học viện   
+244 Nghiên cứu mạng chuyển tiếp hai chiều cho 
+mạng IoT sử dụng mã Rateless và kỹ thuật 
+khử nhiễu tuần tự (SIC) 
+ThS. Nguyễn 
+Lan Anh 
+Cấp Học viện   
+245 Nâng cao hiệu năng mạng bảo mật lớp vật 
+lý đa chặng với kỹ thuật định tuyến cộng tác 
+TS. Nguyễn 
+Thanh Bình 
+Cấp Học viện   
+246 Thiết kế vi mạch dao động điều khiển bằng 
+điện áp (VCO) 
+ThS. Phạm Thế 
+Duy 
+Cấp Học viện   
+247 Phân tích âm thanh tim dùng phương pháp 
+biến đổi Holo-Hilbert 
+ThS. Trần 
+Quang Thuận 
+Cấp Học viện   
+248 Nghiên cứu xây dựng phương pháp và công 
+cụ đánh giá mức độ ứng dụng công nghệ số 
+cho doanh nghiệp Việt Nam 
+PGS.TS. Đỗ 
+Quang Hưng 
+Cấp Học viện   
+249 Nghiên cứu và dự báo kinh tế số Việt Nam 
+và các tỉnh/thành phố tới năm 2030  
+TS. Trần Đình 
+Nam 
+Cấp Học viện   
+
+### Trang 40
+
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+250 Nghiên cứu xây dựng công cụ đo lường tỷ 
+trọng kinh tế số tại các tỉnh và thành phố ở 
+Việt Nam 
+PGS.TS. Đặng 
+Thị Việt Đức 
+Cấp Học viện   
+251 Nghiên cứu và ứng dụng phương pháp đào 
+tạo kết hợp cho công tác giảng dạy các môn 
+lý luận chính trị tại Học viện Công nghệ 
+Bưu chính Viễn thông 
+ThS. Đào Mạnh 
+Ninh 
+Cấp Học viện   
+252 Nghiên cứu phát triển hệ thống giám sát thi 
+phòng máy tại phòng máy sử dụng trí tuệ 
+nhân tạo   
+TS. Vũ Hoài 
+Nam 
+Cấp Học viện   
+253 Nghiên cứu phát triển robot thu gom rác tự 
+động ứng dụng trí tuệ nhân tạo tại Học viện 
+Công nghệ Bưu chính Viễn thông 
+TS. Bùi Quang 
+Chung 
+Cấp Học viện   
+254 Nghiên cứu xây dựng cổng thông tin việc 
+làm tại Học viện Công nghệ Bưu chính Viễn 
+thông 
+ThS. Vũ Văn 
+Thương 
+Cấp Học viện   
+255 Nghiên cứu xây dựng hệ thống kiểm soát an 
+ninh ứng dụng công nghệ trí tuệ nhân tạo tại 
+Thư viện của Học viện Công nghệ Bưu 
+chính Viễn thông 
+ThS. Nguyễn 
+Việt Dung 
+Cấp Học viện   
+256 Nghiên cứu phát triển hệ thống h ỗ trợ 
+checkin phục vụ sự kiện ứng d ụng công 
+nghệ trí tuệ nhân tạo 
+TS. Phan Lý 
+Huỳnh 
+Cấp Học viện   
+257 Nghiên cứu phát triển ứng dụng phòng họp 
+không giấy tờ 
+ThS. Trần Vũ 
+Hải 
+Cấp Học viện   
+258 Nghiên cứu, xây dựng mô hình hệ thống nhà 
+kính nông nghiệp thông minh ứng dụng 
+công nghệ truyền thông không dây diện 
+rộng Lora 
+ThS. Trương 
+Minh Đức 
+Cấp Học viện   
+259 Nghiên cứu xây d ựng mô hình hệ tri thức 
+đào tạo Lãnh đạo và Quản lý – MBA ứng 
+dụng trí tuệ nhân tạo 
+TS. Nguyễn 
+Anh Hoàng 
+Cấp Học viện   
+260 Nghiên cứu nâng cấp hệ thống trợ lý ảo Ami 
+theo hướng tương tác thời gian thực nhằm 
+nâng cao tính thân thiện với sinh viên 
+TS. Nguyễn 
+Việt Hưng 
+Cấp Học viện   
+261 Nghiên cứu xây dựng hệ thống cố vấn học 
+tập số cho sinh viên quốc tế tại Học viện 
+Công nghệ Bưu chính Viễn thông 
+TS. Phạm Vũ 
+Minh Tú 
+Cấp Học viện   
+262 Nghiên cứu giải pháp hỗ trợ cải tiến phương 
+pháp đ ào t ạo c ác môn h ọc L ập tr ình ứng 
+dụng các công nghệ phát triển nội dung và 
+tăng cường tương tác 
+ThS. Nguyễn 
+Mạnh Sơn 
+Cấp Học viện   
+
+### Trang 41
+
+ 
+42 
+ 
+TT Tên đề tài Người chủ trì Cấp quản lý Ghi chú 
+263 Nghiên cứu, phát triển hệ thống phân tích 
+và đánh giá thông tin nhằm hỗ trợ tổng hợp 
+thông tin truy ền thông tại Học viện Công 
+nghệ Bưu chính Viễn thông 
+PGS.TS, Đỗ 
+Xuân Chợ 
+Cấp Học viện   
+264 Nghiên cứu xây dựng hệ thống thu thập 
+thông tin giảng dạy trí tuệ nhân tạo (AI) 
+TS. Trần Tiến 
+Công 
+Cấp Học viện   
+265 Nghiên cứu xây dựng phương án thành lập 
+Trung tâm xuất sắc đào tạo và nghiên cứu 
+tại Học viện 
+TS. Lê Thị Hằng Cấp Học viện   
+266 Nghiên cứu thiết kế và phát triển giải pháp 
+đọc thông tin căn cư ớc công dân, ph ục vụ 
+cho tự động hóa nhập liệu thông tin ngư ời 
+dùng 
+ThS. Nguyễn 
+Văn Hinh 
+Cấp Học viện   
+267 Nghiên cứu và xây dựng giải pháp ứng dụng 
+K8S để xây dựng lộ trình triển khai hệ thống 
+đại học số của Học viện dưới dạng nền tảng 
+ThS. Vũ Thị 
+Lan Hương 
+Cấp Học viện   
+268 Nghiên cứu thiết kế và phát triển hệ thống 
+quản lý hoạt động đăng ký tham dự sự kiện 
+TS. Nguyễn 
+Mạnh Dũng 
+Cấp Học viện   
+269 Nghiên cứu v à xây d ựng gi ải pháp th ẻ số 
+phục vụ công tác quản lý sinh viên tại Học 
+viện Công nghệ Bưu chính Viễn thông 
+ThS. Nguyễn 
+Minh Tuân 
+Cấp Học viện   
+270 Nghiên cứu xác định các công nghệ tiềm 
+năng và nhiệm vụ khoa học cần thực hiện 
+cho việc hỗ trợ xây dựng Chiến lược Khoa 
+học công nghệ trong lĩnh vực ICT của Việt 
+Nam giai đoạn 2025-2035 
+TS. Nguyễn 
+Đức Hoàng 
+Cấp Học viện   
+b) Số lượng công trình khoa học được công bố trên các ấn phẩm quốc tế có uy tín và 
+các công bố khoa học khác; số lượng bằng độc quyền sáng chế, giải pháp hữu ích được 
+cấp:  243 
+c) Các kết quả chuyển giao tri thức, chuyển giao công nghệ, hỗ trợ khởi nghiệp (nếu 
+có). 
+2. Các chỉ số đánh giá về hoạt động khoa học và công nghệ14 
+TT Chỉ số đánh giá 
+Năm báo cáo (2024) Năm trước liền 
+kề năm báo cáo 
+(2023) BVH BVS 
+1 Tỉ trọng thu khoa học-công nghệ 8,7 5% 5,20% 
+2 Số công bố khoa học/giảng viên 0,82 0,63 0,84 
+3 Số công bố WoS, Scopus/ giảng viên 0,5 0 0,19 
+3. Các đề tài nghiên cứu khoa học thực hiện trong năm 2024 
+
+### Trang 42
+
+ 
+TT Đề tài nghiên cứu khoa học Số lượng Kinh phí thực hiện trong năm 
+1 Đề tài cấp Nhà nước 5 6.964  
+2 Đề tài cấp bộ, tỉnh 25 6.955 
+3 Đề tài cấp cơ sở 240 7.942 
+4 Đề tài hợp tác doanh nghiệp (trong nước) 1 488 
+5 Đề tài hợp tác quốc tế 1 2.000 
+ Tổng số 272 511.861 
+4. Kết quả công bố khoa học, công nghệ 
+TT Công trình công bố Năm báo cáo (2024) Năm trước liền kề năm báo cáo (2023) 
+1 
+Tổng số bài báo khoa học được HĐGSNN công nhận 
+không nằm trong danh mục WoS, Scopus và bằng 
+độc quyền giải pháp hữu ích 
+233 169 
+2 Tổng số công bố WoS, Scopus tất cả các lĩnh vực 228 100 
+3 
+Tổng số sách chuyên khảo, số tác phẩm nghệ thuật và 
+thành tích thể dục th ể thao đạt giải thưởng quốc gia, 
+quốc tế 
+3 190 
+4 Tổng số bằng độc quyền sáng chế 0 0 
+5 Tổng số bằng độc quyền giải pháp hữu ích 0 0 
+VII. KẾT QUẢ TÀI CHÍNH  
+1. Thu chi tài chính 
+1.1. Tình hình tài chính của cơ sở giáo dục trong năm tài chính trước liền kề thời 
+điểm báo cáo theo quy định pháp luật, trong đó có cơ cấu các khoản thu, chi hoạt động 
+như sau: 
+Học viện là đơn vị sự nghiệp giáo dục, tự chủ chi thường xuyên và chi đầu tư, không 
+sử dụng ngân sách nhà nước đã được Thủ tướng Chính phủ phê duyệt đề án thí điểm cơ 
+chế tự chủ tại Quyết định số 222/QĐ-TTg ngày 06/02/2016. Theo đó, cơ chế tài chính của 
+Học viện là cơ chế doanh nghiệp và quỹ tiền lương được xác định theo doanh nghiệp. 
+Thực hiện Nghị định số 60/2021/NĐ -CP ngày 21/6/2021 của Chính phủ, căn cứ 
+khoản 3 Điều 40, Học viện tiếp tục thực hiện cơ chế tự chủ của đơn vị nhóm 1, là đơn vị 
+tự chủ chi thường xuyên và chi đầu tư, không sử dụng ngân sách nhà nước, thực hiện cơ 
+chế tài chính doanh nghiệp và quỹ tiền lương được xác định theo doanh nghiệp. 
+a) Các khoản thu phân theo: Nguồn kinh phí (ngân sách nhà nước, hỗ trợ c ủa nhà 
+đầu tư; học phí, lệ phí và các khoản thu khác từ người học; kinh phí tài trợ và hợp đồng 
+
+### Trang 43
+
+ 
+44 
+ 
+với bên ngoài; nguồn thu khác) và loại hoạt động (giáo dục và đào tạo; kho a học và công 
+nghệ; hoạt động khác). (số liệu chi tiết tại mục 3.Kết quả thu chi hoạt động). 
+b) Các khoản chi phân theo: Chi tiền lương và thu nhập (lương, phụ cấp, lương tăng 
+thêm và các khoản chi khác có tính chất như lương cho giáo viên, giảng viên, cán bộ quản 
+lý, nhân viên,...); chi cơ sở vật chất và dịch vụ (chi mua sắm, duy tu sửa chữa, bảo dư ỡng 
+và vận hành cơ sở vật chất, trang thiết bị, thuê mướn các dịch vụ phục vụ trực tiếp cho hoạt 
+động giáo dục, đào tạo, nghiên cứu, phát triển đội ngũ,...); chi hỗ trợ người học (học bổng, 
+trợ cấp, hỗ trợ sinh hoạt, hoạt động phong trào, thi đua, khen thưởng,...); chi khác. (số liệu 
+chi tiết tại mục 3.Kết quả thu chi hoạt động). 
+1.2. Các khoản thu và mức thu đối với người học, bao gồm: học phí, lệ phí, tất cả 
+các khoản thu và mức thu ngoài học phí, lệ phí (nếu có) trong năm học và dự kiến cho 
+từng năm học tiếp theo của cấp học hoặc khóa học của cơ sở giáo dục trước khi tuyển 
+sinh, dự tuyển. 
+Học viện đã xây dựng và ban hành mức thu học phí đối với các hệ đào tạo dài hạn 
+theo quy định của Nghị định 81/2021/NĐ-CP ngày 27/8/2021 của Chính phủ Quy định về 
+cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và 
+chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, 
+đào tạo; Nghị định số 97/ 2024/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của 
+Nghị định số 81/2021/NĐ -CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ 
+chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính 
+sách miễn, giảm học phí, hỗ tr ợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào 
+tạo. 
+1.3. Chính sách và kết quả thực hiện chính sách hằng năm về trợ cấp và miễn, 
+giảm học phí, học bổng đối với người học. 
+Học viện đã thực hiện chi các chế độ chính sách cho người học từ nguồn ngân sách 
+nhà nước cấp và nguồn chi phí tự chủ thưởng xuyên của đơn vị để chi các loại học bổng, 
+trợ cấp, miễn giảm học phí, hỗ trợ chi phí học tập, khen thưởng, hoạt động phong trào và  
+các khoản chi hỗ trợ khác cho người học, với tổng kinh phí chi năm 2024 là 44,667 tỷ 
+đồng. 
+1.4. Số dư các quỹ theo quy định, kế cả quỹ đặc thù (nếu có). 
+1.5. Các nội dung công khai tài chính khác thực hiện theo quy định của pháp 
+luật về tài chính, ngân sách, kế toán, kiểm toán, dân chủ cơ sở. 
+Học viện thực hiện công khai thực hiện dự toán ngân sách nhà nước và kết quả tài 
+chính hàng năm sau khi kết thúc năm tài chính theo đúng quy định. 
+Hàng năm, Học viện thực hiện kiểm toán độc lập về kiểm toán báo cáo tài chính 
+sau khi kết thúc năm tài chính. 
+
+### Trang 44
+
+ 
+2. Các chỉ số đánh giá về tài chính15 
+TT Chỉ số đánh giá Năm báo cáo (2024) Năm trước liền kề năm báo cáo (2023) 
+BVH BVS  
+1 Biên độ hoạt động trung bình 3 năm 14,8% 7,99% 12,51% 
+2 Chỉ số tăng trưởng bền vững 18,94% 26,49% 15,55% 
+3. Kết quả thu chi hoạt động16 
+Đơn vị tính: Tỷ đồng. 
+TT Chỉ số thống kê 
+Năm báo cáo (2024) Năm trước liền kề năm 
+báo cáo 
+(2023) BVH BVS 
+A TỔNG THU HOẠT ĐỘNG 491.522      109.595    499,737    
+I Hỗ trợ chi thường xuyên từ Nhà nước/nhà đầu tư 0 0   
+II Thu giáo dục và đào tạo 438.64 107.872    452,558    
+1 Học phí, lệ phí từ người học 378.101 92.3    382,372    
+2 Hợp đồng, tài trợ từ NSNN 4.791 0.5        6,168    
+3 Hợp đồng, tài trợ từ bên ngoài 2.583 0        2,208    
+4 Thu khác 53.165 15.072      61,810    
+III Thu khoa học và công nghệ 35.488 1.335      25,964    
+1 Hợp đồng, tài trợ từ NSNN 17.114 0.25      10,270    
+2 Hợp đồng, tài trợ từ bên ngoài 0.907 0        2,819    
+3 Thu khác 17.467 1.085      12,875    
+IV Thu khác (thu nhập ròng) 17.394 0.388      21,215    
+B TÔNG CHI HOẠT ĐỘNG 378.101 92.3    431,357    
+I Chi lương, thu nhập 414.419 103.583    196,358    
+1 Chi phí tiền lương cho CB, VC, NLĐ 189.281 55.489   176,826    
+2 Các khoản chi khác cho CB, VC, NLĐ 94.364 34.14      19,532    
+II Chi cơ sở vật chất và dịch vụ 94.917 21.349    188,778    
+1 Chi cho đào tạo 184.82 38.867      91,826    
+2 Chi cho nghiên cứu 70.017 10.414      24,859    
+3 Chi cho phát triển đội ngũ 33.44 0        2,051    
+4 Chi phí chung và chi khác 2.022 0      70,042    
+III Chi hỗ trợ người học 79.341 28.453      44,667    
+1 Chi học bổng và hỗ trợ học tập 39.027 8.928     34,636    
+
+### Trang 45
+
+ 
+46 
+ 
+TT Chỉ số thống kê 
+Năm báo cáo (2024) Năm trước liền kề năm 
+báo cáo 
+(2023) BVH BVS 
+2 Chi hoạt động nghiên cứu 35.694 8.901        0,296    
+3 Chi hoạt động khác 0.271 0        9,735    
+IV Chi khác 3.062 0.027        1,554    
+C CHÊNH LỆCH THU CHI 1.291 0.299      68,380    
+ Chênh lệch thu chi/Tổng thu 77.1 6.01  
+ 
+VIII. KẾT QUẢ THỰC HIỆN CÁC NHIỆM VỤ TRỌNG TÂM KHÁC17 
+  
+ 
+ 

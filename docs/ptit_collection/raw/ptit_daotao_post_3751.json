@@ -1,0 +1,119 @@
+{
+  "id": 3751,
+  "date": "2025-04-28T10:57:21",
+  "date_gmt": "2025-04-28T03:57:21",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=3751"
+  },
+  "modified": "2025-04-28T10:57:21",
+  "modified_gmt": "2025-04-28T03:57:21",
+  "slug": "thong-bao-lich-tra-chung-chi-toeic-quoc-te-dot-thi-ngay-20-04-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/thong-bao-lich-tra-chung-chi-toeic-quoc-te-dot-thi-ngay-20-04-2025/",
+  "title": {
+    "rendered": "Thông báo lịch trả Chứng chỉ TOEIC quốc tế (đợt thi ngày 20/04/2025)"
+  },
+  "content": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo Lịch trả Chứng chỉ TOEIC quốc tế (đợt thi ngày 20/04/2025) tại Học viện như sau:<br />\n1.\tLịch phát Chứng chỉ:<br />\n&#8211;\tThời gian: \tTừ ngày 06/05/2025 đến ngày 08/05/2025<br />\n(Sáng: 8h30 &#8211; 11h30, Chiều: 14h00 &#8211; 17h00)<br />\n&#8211;\tĐịa điểm: Ô số 6, Văn phòng Giao dịch 1 cửa, Học viện Công nghệ Bưu chính Viễn thông, Km10 đường Nguyễn Trãi, Hà Đông, Hà Nội<br />\n&#8211;\tĐiện thoại: \t024.33528122<br />\n&#8211;\tWebsite: \thttps://daotao.ptit.edu.vn<br />\nLưu ý: Khi đến nhận chứng chỉ, thí sinh phải mang theo CMND gốc.<br />\n2.\tThí sinh có thể tra cứu kết quả thi TOEIC tại địa chỉ:<br />\nhttps://slink.ptit.edu.vn/tra-cuu-ket-qua-thi<br />\nHọc viện Công nghệ Bưu chính Viễn thông xin trân trọng thông báo! </p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo Lịch trả Chứng chỉ TOEIC quốc tế (đợt thi ngày 20/04/2025) tại Học viện như sau: 1. Lịch phát Chứng chỉ: &#8211; Thời gian: Từ ngày 06/05/2025 đến ngày 08/05/2025 (Sáng: 8h30 &#8211; 11h30, Chiều: 14h00 &#8211; 17h00) &#8211; Địa điểm: Ô số 6, Văn [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 3297,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-3751",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=3751"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/3751/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3297"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=3751"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=3751"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=3751"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": 4866,
+  "date": "2026-05-13T23:31:16",
+  "date_gmt": "2026-05-13T16:31:16",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=4866"
+  },
+  "modified": "2026-05-15T15:29:12",
+  "modified_gmt": "2026-05-15T08:29:12",
+  "slug": "digital-learning",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/en/digital-learning/",
+  "title": {
+    "rendered": "Digital Learning"
+  },
+  "content": {
+    "rendered": "<div style=\"font-size: 16px;line-height: 1.6;color: #333;font-family: 'Segoe UI', Roboto, Arial, sans-serif\">\n<h1 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">Overview</h1>\n<p style=\"margin: 0 0 8px 0\">PTIT promotes digital transformation in education through modern learning systems, blended learning approaches, and digital academic services.</p>\n<p style=\"margin: 0 0 8px 0\">The Institute continuously enhances digital learning environments to support:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\">Flexible and student-centered education;</li>\n<li style=\"margin-bottom: 6px\">Digital competencies and innovative instructional design;</li>\n<li style=\"margin-bottom: 0\">Lifelong learning and evidence-based quality improvement.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">1. Learning Management Systems (LMS) &amp; Blended Learning</h5>\n<p style=\"margin: 0 0 8px 0\">PTIT applies comprehensive digital platforms to support integrated learning models:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>LMS Platforms:</strong> Managing course delivery, materials, and online interactions;</li>\n<li style=\"margin-bottom: 6px\"><strong>Blended Learning:</strong> Combining face-to-face, hybrid, and project-based learning;</li>\n<li style=\"margin-bottom: 0\"><strong>Flexibility:</strong> Enhancing learner engagement through anytime-anywhere access.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">2. Digital Resources and Assessment</h5>\n<p style=\"margin: 0 0 8px 0\">Students have access to a rich ecosystem of digital tools and resources:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Digital Assets:</strong> Access to digital libraries, online databases, and multimedia content;</li>\n<li style=\"margin-bottom: 6px\"><strong>Digital Assessment:</strong> Online quizzes, computer-based testing, and e-submissions;</li>\n<li style=\"margin-bottom: 0\"><strong>Academic Integrity:</strong> Utilizing plagiarism detection and digital rubrics aligned with OBE.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">3. Virtual Labs, Faculty Development, and Analytics</h5>\n<p style=\"margin: 0 0 8px 0\">The Institute leverages advanced technology to drive academic success:</p>\n<ul style=\"margin: 0 0 12px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Virtual Labs:</strong> Simulation systems and specialized platforms for practical learning;</li>\n<li style=\"margin-bottom: 6px\"><strong>Faculty Training:</strong> Enhancing digital teaching competencies and innovative pedagogy;</li>\n<li style=\"margin-bottom: 0\"><strong>Learning Analytics:</strong> Monitoring student engagement and assessment data for continuous improvement.</li>\n</ul>\n<p style=\"margin: 32px 0 0 0;text-align: center;font-style: italic;color: #666\">Empowering the future through digital excellence and smart university governance.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Overview PTIT promotes digital transformation in education through modern learning systems, blended learning approaches, and digital academic services. The Institute continuously enhances digital learning environments to support: Flexible and student-centered education; Digital competencies and innovative instructional design; Lifelong learning and evidence-based quality improvement. 1. Learning Management Systems (LMS) &amp; Blended Learning PTIT applies comprehensive digital [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 77,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-4866",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4866",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/77"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=4866"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4866/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4866"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

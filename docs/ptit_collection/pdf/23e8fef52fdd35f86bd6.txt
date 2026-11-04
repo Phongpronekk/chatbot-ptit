@@ -1,0 +1,523 @@
+### Trang 1
+
+  1/24 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+HỆ THỐNG QUẢN LÝ THI TỐT NGHIỆP THPT  
+TÀI LIỆU HƯỚNG DẪN SỬ DỤNG 
+(Dành cho thí sinh) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội, 07/2025 
+
+### Trang 2
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  2/24 
+MỤC LỤC 
+1. GIỚI THIỆU .................................................................................................................... 3 
+1.1. Mục đích và ý nghĩa của Tài liệu ............................................................................. 3 
+1.2. Phạm vi áp dụng ....................................................................................................... 3 
+1.3. Các thuật ngữ và từ viết tắt ....................................................................................... 3 
+2. TỔNG QUAN VỀ SẢN PHẨM ...................................................................................... 3 
+2.1. Tổng quan về sản phẩm ............................................................................................ 3 
+2.2. Đầu mối hỗ trợ, hướng dẫn sử dụng ......................................................................... 3 
+2.3. Các nội dung khác .................................................................................................... 3 
+3. GIỚI THIỆU CÁC CHỨC NĂNG ................................................................................ 3 
+3.1. Các chức năng trong Phân hệ ................................................................................... 3 
+4. HƯỚNG DẪN SỬ DỤNG CÁC CHỨC NĂNG HỆ THỐNG ..................................... 4 
+4.1. Tra cứu thông tin ...................................................................................................... 4 
+4.1.1. Tra cứu mã xét tuyển đợt tuyển sinh ....................................................................... 4 
+4.1.2. Tra cứu điểm thi ĐGNL/Tư duy/… ......................................................................... 6 
+4.1.3. Tra cứu thông tin tuyển thẳng ................................................................................ 7 
+4.1.4. Tra cứu kết quả sơ tuyển ........................................................................................ 7 
+4.1.5. Tra cứu kết quả xét tuyển và xác nhận nhập học ................................................... 8 
+4.2. Danh sách chứng chỉ ngoại ngữ................................................................................ 9 
+4.2.1. Thêm chứng chỉ ngoại ngữ bổ sung ........................................................................ 9 
+4.3. Đăng ký thông tin xét tuyển sinh ............................................................................ 11 
+4.3.1. Thêm nguyện vọng ................................................................................................ 11 
+4.3.2. Sửa nguyện vọng ................................................................................................... 15 
+4.3.3. Xóa nguyện vọng .................................................................................................. 17 
+4.3.4. Xếp theo thứ tự nguyện vọng ................................................................................ 19 
+4.3.5. Xuất danh sách nguyện vọng ................................................................................ 21 
+4.3.6. Thanh toán ............................................................................................................ 22 
+4.3.7. In biên lai .............................................................................................................. 22 
+4.3.8. Lịch sử giao dịch .................................................................................................. 23 
+ 
+  
+
+### Trang 3
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  3/24 
+1. GIỚI THIỆU 
+1.1. Mục đích và ý nghĩa của Tài liệu 
+Tài liệu này được xây dựng nhằm hướng dẫn người dùng là Thí sinh  sử dụng 
+được các chức năng trong giai đoạn đăng ký nguyện vọng trực tuyến. 
+1.2. Phạm vi áp dụng 
+Tài liệu này áp dụng cho các Thí sinh 
+1.3. Các thuật ngữ và từ viết tắt 
+STT Cụm từ Từ viết tắt 
+1 Điểm tiếp nhận hồ sơ Điểm TNHS 
+2 Chứng minh thư nhân dân CMND 
+3 Phiếu đăng ký PĐK 
+4 Định danh cá nhân ĐDCN 
+2. TỔNG QUAN VỀ SẢN PHẨM 
+2.1. Tổng quan về sản phẩm 
+Hệ thống được thực hiện theo yêu cầu từ Bộ Giáo dục và Đào tạo triển khai việc đăng 
+ký nguyện vọng của thí sinh để phục vụ triển khai công tác xét tuyển sinh Đại học, 
+Cao đẳng. 
+2.2. Đầu mối hỗ trợ, hướng dẫn sử dụng 
+Trong quá trình thực hiện, các vấn đề về thao tác liên quan đến sản phẩm/ứng dụng, 
+người dùng thí sinh liên hệ đến Tổng đài 18008000 nhánh số 2 
+2.3. Các nội dung khác 
+- Các quy tắc hiển thị của chương trình / hệ thống: màn hình với các nội dung 
+ràng buộc có dấu * đỏ, hoặc Label hiển thị màu khác để nhận dạng, các page size cho 
+Báo cáo (A3, A4, A5)..... 
+- Các định dạng đã được làm rõ từ quá trình lấy yêu cầu của người sử dụng như: 
+kiểu ngày – tháng, kiểu số, số số lẻ,....... 
+3. GIỚI THIỆU CÁC CHỨC NĂNG  
+3.1. Các chức năng trong Phân hệ 
+
+### Trang 4
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  4/24 
+STT Chức năng Mô tả Đối tượng sử dụng 
+1  Tra cứu mã xét 
+tuyển đợt tuyển sinh 
+Chức năng cho phép Tra cứu 
+mã xét tuyển đợt tuyển sinh 
+Thí sinh 
+2  Tra cứu điểm 
+DDGNL/Tư duy/.. 
+Tra cứu điểm ĐGNL/Tư 
+duy/.. 
+Thí sinh 
+3  Tra cứu thông tin 
+tuyển thẳng 
+Tra cứu thông tin tuyển 
+thẳng 
+Thí sinh 
+4  Tra cứu kết quả sơ 
+tuyển 
+Tra cứu kết quả sơ tuyển Thí sinh 
+5  Tra cứu kết quả xét 
+tuyển và xác nhận 
+nhập học 
+Tra cứu kết quả xét tuyển và 
+xác nhận nhập học 
+Thí sinh 
+6  Thêm chứng chỉ 
+ngoại ngữ bổ sung 
+Thêm chứng chỉ ngoại ngữ 
+bổ sung 
+Thí sinh 
+7  Thêm nguyện vọng Thêm nguyện vọng Thí sinh 
+8  Sửa nguyện vọng Sửa nguyện vọng Thí sinh 
+9  Xóa nguyện vọng Xóa nguyện vọng Thí sinh 
+10  Xếp theo thứ tự 
+nguyện vọng 
+Xếp theo thứ tự nguyện vọng Thí sinh 
+11  Xuất danh sách 
+nguyện vọng 
+Xuất danh sách nguyện vọng Thí sinh 
+12  Thanh toán Thanh toán Thí sinh 
+13  In biên lai In biên lai Thí sinh 
+14  Lịch sửa giao dịch Lịch sửa giao dịch Thí sinh 
+4. HƯỚNG DẪN SỬ DỤNG CÁC CHỨC NĂNG HỆ THỐNG 
+4.1. Tra cứu thông tin 
+4.1.1. Tra cứu học bạ THPT 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng tra cứu học bạ THPT 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Tra cứu/ Tra cứu học bạ THPT 
+b) Các bước thực hiện 
+
+### Trang 5
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  5/24 
+Bước 1: Sau khi đăng nhập, thí sinh truy cập menu Tra cứu/ Tra cứu học bạ THPT 
+ 
+Bước 2: Nhấn vào Lớp 10, 11, 12 để xem thông tin học bạ THPT theo từng lớp 
+ 
+4.1.2. Tra cứu mã xét tuyển đợt tuyển sinh 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng tra cứu thông tin mã xét tuyển 
+theo đợt tuyển sinh 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Tra cứu/ Tra cứu mã xét tuyển đợt tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập, thí sinh truy cập menu Tra cứu/ Tra cứu mã xét tuyển 
+đợt tuyển sinh
+
+
+### Trang 6
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  6/24 
+ 
+Bước 2: Chọn trường cần tra cứu thông tin nhấn Tìm kiếm, hệ thống hiển thị danh 
+sách mã xét tuyển đợt tuyển sinh của trường tìm kiếm 
+ 
+4.1.3. Tra cứu điểm thi ĐGNL/Tư duy/… 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng tra cứu thông tin điểm 
+ĐGNL/Tư duy/…mà các cơ sở tổ chức thi nhập lên hệ thống 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Tra cứu/ Tra cứu điểm thi ĐGNL/Tư duy/…. 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập, thí sinh truy cập menu Tra cứu /Tra cứu điểm thi 
+ĐGNL/Tư duy/… 
+ 
+Bước 2: Thông tin điểm ĐGNL/Tư duy/… được hiển thị trên màn hình, thí sinh có thể 
+tìm kiếm theo Mã đơn vị tổ chức thi, tên đơn vị tổ chức thi bằng nhập các thông tin và 
+
+
+### Trang 7
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  7/24 
+nhấn Tra cứu ở khu vực tìm kiếm 
+ 
+4.1.4. Tra cứu thông tin tuyển thẳng 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng tra cứu thông tin tuyển thẳng 
+theo Quy chế tuyển sinh 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Tra cứu/ Tra cứu thông tin tuyển thẳng 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập, thí sinh truy cập menu Tra cứu/ Tra cứu thông tin 
+tuyển thẳng 
+ 
+ 
+4.1.5. Tra cứu kết quả sơ tuyển 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng tra cứu kết quả sơ tuyển mà các 
+trường Đại học Cao đẳng tổ chức sơ tuyển nhập lên 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Tra cứu/ Tra cứu thông tin tuyển thẳng 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập, thí sinh truy cập menu Tra cứu/Tra cứu kết quả sơ 
+tuyển 
+
+
+### Trang 8
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  8/24 
+Bước 2: Thông tin kết quả sơ tuyển được hiển thị trên màn hình, thí sinh có thể tìm 
+kiếm theo Mã trường, Mã xét tuyển bằng cách nhập các thông tin vào và nhấn Tra 
+cứu.  
+ 
+4.1.6. Tra cứu kết quả xét tuyển và xác nhận nhập học 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng tra cứu kết quả xét tuyển và xác 
+nhận nhập học trực tuyến 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Tra cứu/ Tra cứu kết quả xét tuyển 
+b) Các bước thực hiện 
+Bước 1: thí sinh truy cập menu Tra cứu/Tra cứu kết quả xét tuyển sinh 
+Màn hình hiển thị kết quả xét tuyển mà các trường Đại học, Cao đẳng sau khi xét 
+tuyển xong nhập kết quả Đỗ/Trượt lên hệ thống 
+Mỗi trường mà thí sinh đăng ký xét tuyển chỉ có 1 kết quả là Đỗ hoặc Trượt. Nếu kết 
+quả là Trượt có nghĩa là thí sinh trượt tất cả các nguyện vọng đã đăng ký vào trường. 
+
+
+### Trang 9
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  9/24 
+ 
+Bước 2: Thí sinh nhấn nút Xác nhận nhập học đối với nguyện vọng trường Đại học, 
+Cao đẳng nhập kết quả xét tuyển là Đỗ 
+ 
+ 
+Bước 3: Hệ thống hiển thị hộp thoại xác nhận, nhấn Đồng ý 
+ 
+Bước 4: Kiểm tra lại trạng thái Đã nhập học 
+ 
+Trạng thái thông tin của thí sinh “Đã nhập học” nghĩa là thí sinh đã xác nhận 
+nhập học thành công và trường Đại học đã nhận được thông tin xác nhận nhập học của 
+thí sinh. Khi đã xác nhận nhập học xong, thí sinh sẽ không được Hủy xác nhận nhập 
+học, nếu muốn Hủy xác nhận nhập học phải liên hệ với trường Đại học đó để được giải 
+quyết. 
+4.2. Danh sách chứng chỉ ngoại ngữ 
+4.2.1. Thêm chứng chỉ ngoại ngữ bổ sung 
+
+
+### Trang 10
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  10/24 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng thêm chứng chỉ ngoại ngữ bổ 
+sung phục vụ cho việc xét tuyển sinh Đại học-Cao đẳng 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Danh sách chứng chỉ ngoại ngữ 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Danh sách chứng chỉ 
+ngoại ngữ 
+Danh sách dưới đây hiển thị cả chứng chỉ ngoại ngữ thí sinh đã nhập khi đăng ký dự 
+thi tốt nghiệp THPT và nhập bổ sung khi đăng ký nguyện vọng thí sinh. 
+Thí sinh chỉ nhập bổ sung các chứng chỉ để xét tuyển sinh Đại học, Cao đẳng. 
+ 
+Bước 2: Nhấn nút Thêm chứng chỉ, hệ thống hiển thị hộp thoại thêm chứng chỉ ngoại 
+ngữ bổ sung 
+ 
+Bước 3: Chọn loại chứng chỉ trong danh sách, nhập điểm thi/bậc chứng chỉ , thêm 
+
+
+### Trang 11
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  11/24 
+minh chứng chứng chỉ ngoại ngữ và bấm Lưu thông tin  
+Trường hợp có nhiều loại chứng chỉ thí sinh nhấn nhiều file minh chứng, thí sinh 
+ghép thành một file để đẩy lên hệ thống 
+ 
+Bước 4: Hệ thống hiển thị màn hình xác nhận, nhấn Xác nhận 
+ 
+4.3. Đăng ký thông tin xét tuyển sinh 
+4.3.1. Thêm nguyện vọng 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng thêm nguyện vọng xét tuyển 
+sinh 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét 
+tuyển sinh 
+
+
+### Trang 12
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  12/24 
+ 
+Bước 2: Trên màn hình 1. Danh sách nguyện vọng trúng tuyển thẳng, hệ thống hiển 
+thị sẵn các nguyện vọng trúng tuyển thẳng (thí sinh đăng ký nguyện vọng trúng tuyển 
+thẳng nếu có nhu cầu cùng với các nguyện vọng khác theo lịch chung)  
+Thí sinh tích chọn nguyện vọng trúng tuyển thẳng (nếu có nhu cầu đăng ký nguyện 
+vọng tuyển thẳng), nhập thứ tự nguyện vọng tuyển thẳng theo nhu cầu rồi nhấn nút 
+Tiếp theo. 
+ 
+Bước 3: Trên màn hình 2. Thêm nguyện vọng, thí sinh xem lại các nguyện vọng đã 
+chọn. Lưu ý các nguyện vọng không có trạng thái Đã ghi nhận NV ở màn hình 2 là các 
+nguyện vọng chưa được lưu 
+
+
+### Trang 13
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  13/24 
+ 
+Thí sinh có thể nhấn nút Thêm nguyện vọng để thêm nguyện vọng tại màn hình 2. 
+Thêm nguyện vọng 
+ 
+Hoặc Sửa nguyện vọng/Xóa nguyện vọng bằng cách nhân icon Thêm/Sửa nguyện 
+vọng tại màn hình 2. Thêm nguyện vọng 
+ 
+Bước 4: Nhấn nút Tiếp theo trên màn hình 2.Thêm nguyện vọng 
+
+
+### Trang 14
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  14/24 
+ 
+Bước 5: Tại màn hình 3. Nhập OTP. Thí sinh soạn tin nhắn lấy mã OTP theo hướng 
+dẫn. Sau đó nhập mã xác thực và nhấn nút Xác nhận đăng ký 
+ 
+Bước 6: Thí sinh kiểm tra các nguyện vọng đã được đăng ký tại màn hình 4. Xem 
+danh sách nguyện vọng đã đăng ký để kiểm tra lại thông tin đăng ký 
+ 
+
+
+### Trang 15
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  15/24 
+4.3.2. Sửa nguyện vọng 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng sửa thông tin nguyện vọng xét 
+tuyển sinh 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét 
+tuyển sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký thí sinh nhấn 
+Sửa để sửa nguyện vọng 
+ 
+Bước 2: Thí sinh sửa thông tin nguyện vọng và nhấn Lưu thông tin 
+
+
+### Trang 16
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  16/24 
+ 
+Bước 3: Nhấn nút Tiếp theo trên màn hình 2. Thêm nguyện vọng 
+ 
+Bước 4: Tại màn hình 3. Nhập OTP. Thí sinh soạn tin nhắn lấy mã OTP theo hướng 
+dẫn. Sau đó nhập mã xác thực và nhấn nút Xác nhận đăng ký 
+
+
+### Trang 17
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  17/24 
+ 
+Bước 5: Thí sinh kiểm tra các nguyện vọng đã được đăng ký tại màn hình 4. Xem 
+danh sách nguyện vọng đã đăng ký để kiểm tra lại thông tin đăng ký 
+ 
+4.3.3. Xóa nguyện vọng 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng xóa nguyện vọng xét tuyển sinh 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét 
+tuyển sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký để xem lại các 
+nguyện vọng đã được ghi nhận. Thí sinh nhấn Xóa để xóa nguyện vọng 
+
+
+### Trang 18
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  18/24 
+ 
+Bước 2: Hệ thống hiển thị màn hình xác nhận xóa nguyện vọng, thí sinh nhấn nút Xóa  
+ 
+Bước 3: Tại màn hình 3. Nhập OTP. Thí sinh soạn tin nhắn lấy mã OTP theo hướng 
+dẫn. Sau đó nhập mã xác thực và nhấn nút Xác nhận đăng ký 
+ 
+Bước 4: Thí sinh kiểm tra các nguyện vọng đã được đăng ký tại màn hình 4. Xem 
+danh sách nguyện vọng đã đăng ký để kiểm tra lại thông tin đăng ký 
+
+
+### Trang 19
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  19/24 
+ 
+4.3.4. Xếp theo thứ tự nguyện vọng 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng thay đổi thứ tự nguyện vọng của 
+các nguyện vọng đã được ghi nhận 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét 
+tuyển sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký, thí sinh nhấn 
+Xếp theo thứ tự NV 
+ 
+Bước 2: Thí sinh thực hiện sửa thứ tự nguyện vọng mong muốn 
+
+
+### Trang 20
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  20/24 
+ 
+Bước 2: Sau khi sửa thông tin, thí sinh nhấn Tiếp theo trên màn hình 2.Thêm nguyện 
+vọng 
+ 
+Bước 3: Tại màn hình 3. Nhập OTP. Thí sinh soạn tin nhắn lấy mã OTP theo hướng 
+dẫn. Sau đó nhập mã xác thực và nhấn nút Xác nhận đăng ký 
+
+
+### Trang 21
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  21/24 
+ 
+Bước 5: Thí sinh kiểm tra các nguyện vọng đã được đăng ký tại màn hình 4. Xem 
+danh sách nguyện vọng đã đăng ký để kiểm tra lại thông tin đăng ký 
+ 
+4.3.5. Xuất danh sách nguyện vọng 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng xuất file danh sách nguyện vọng 
+đã đăng ký 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét 
+tuyển sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký, thí sinh nhấn 
+Xuất danh sách 
+
+
+### Trang 22
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  22/24 
+ 
+4.3.6. Thanh toán 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng thanh toán nguyện vọng trực 
+tuyến 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét tuyển 
+sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký thí sinh nhấn nút 
+Thanh toán và xem hướng dẫn thanh toán chi tiết trong tài liệu HDSD thanh toán trực 
+tuyến 
+ 
+4.3.7.  In biên lai 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng in biên lai thanh toán nguyện 
+
+
+### Trang 23
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  23/24 
+vọng trực tuyến 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét tuyển 
+sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký thí sinh nhấn nút In 
+biên lai và xem hướng dẫn chi tiết trong tài liệu HDSD thanh toán trực tuyến 
+ 
+4.3.8. Lịch sử giao dịch 
+a) Mục đích, ý nghĩa của chức năng 
+- Mục đích sử dụng: Chức năng cho phép người dùng xem lịch sử giao dịch sau khi 
+thanh toán nguyện vọng 
+- Đối tượng sử dụng: Thí sinh 
+- Đường dẫn chức năng: Đăng ký thông tin xét tuyển sinh 
+b) Các bước thực hiện 
+Bước 1: Sau khi đăng nhập hệ thống, thí sinh truy cập menu Đăng ký thông tin xét 
+tuyển sinh. Tại màn hình 4. Xem danh sách nguyện vọng đã đăng ký, thí sinh nhấn 
+Lịch sử giao dịch 
+
+
+### Trang 24
+
+Tài liệu Hướng Dẫn Sử Dụng  
+                                                                                                                  24/24 
+ 

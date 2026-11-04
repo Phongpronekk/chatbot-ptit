@@ -1,0 +1,29 @@
+### sheet1.xml
+A1: Ma trận liên kết chuẩn đầu ra CTĐT (LOs) và phẩm chất người tốt nghiệp (GA) và chuẩn đầu ra CSGD (ULO)
+A2: GA, ULO 
+
+
+
+
+
+
+PLOs | B2: GA1 | E2: GA2  | H2: GA3
+B3: ULO1  | E3: ULO2 | H3: ULO3
+B4: UPI 1.1 Xác định và phân tích các vấn đề, áp dụng các kiến ​​thức và nguyên lý liên quan để giải quyết vấn đề trong lĩnh vực chuyên môn. | C4: UPI 1.2 Đưa ra ý tưởng, chấp nhận rủi ro, nhận biết cơ hội, phát triển các giải pháp khả thi trong bối cảnh cụ thể, xem xét các mục tiêu phát triển bền vững để đưa ra quyết định trong quá trình giải quyết vấn đề cũng như nhận diện các cơ hội khởi nghiệp tiềm năng. | D4: UPI 1.3 Ứng dụng các phương pháp và công nghệ tiên tiến trong việc giải quyết vấn đề và ra quyết định. | E4: UPI 2.1 Nhận biết và mô tả trách nhiệm nghề nghiệp trong hành động và những hậu quả tiềm ẩn của chúng. | F4: UPI 2.2 Nhận biết và mô tả các vấn đề đạo đức liên quan đến môi trường nghề nghiệp. | G4: UPI 2.3 Đưa ra các nhận định có cơ sở dựa trên các nguyên tắc pháp lý và đạo đức cũng như trên trách nhiệm nghề nghiệp, có xem xét đến các yếu tố tác động đến địa phương và toàn cầu. | H4: UPI 3.1 Hoạt động hiệu quả với tư cách là thành viên hoặc lãnh đạo của một nhóm để đạt được mục tiêu chung. | I4: UPI 3.2 Áp dụng các kỹ năng giao tiếp bằng lời nói, văn bản và kỹ thuật số phù hợp để chia sẻ thông tin một cách hiệu quả với nhiều đối tượng khác nhau. | J4: UPI 3.3 Thể hiện khả năng quản lý các hoạt động chuyên môn với tư duy khởi nghiệp.
+A5: PLO1 | C5: H | E5: H | F5: H | G5: H | J5: M
+A6: PLO2 | I6: H | J6: M
+A7: PLO3 | E7: M | F7: M | H7: H | I7: H | J7: H
+A8: PLO4 | B8: H
+A9: PLO5 | B9: H | D9: H
+A10: PLO6 | B10: H | D10: H
+A11: PLO7 | B11: H | C11: H | D11: H | E11: H | G11: H | J11: M
+A13:    Ghi chú: 
+A14: Phẩm chất người tốt nghiệp (GA) bao gồm: | C14: GA1:  Tri thức - Sáng tạo - Khởi nghiệp (Subjective Expertise - Innovation- Entrepreneurship)
+C15: GA2:  Đạo đức - Trách nhiệm nghề nghiệp (Professional Ethics - Responsibility)
+C16: GA3: Giao tiếp - Hợp tác - Quản lý (Communication - Collaboration - Management)
+A17: Chuẩn đầu ra CSGD (ULO) bao gồm: | C17: ULO1: Khả năng xác định, phân tích và giải quyết vấn đề trong lĩnh vực chuyên môn một cách hiệu quả trong các bối cảnh nhất định bằng cách áp dụng các kiến thức và nguyên tắc liên quan, hướng tiếp cận đổi mới sáng tạo và các công nghệ tiên tiến có thể có, đồng thời xem xét các mục tiêu phát triển bền vững và cơ hội khởi nghiệp.
+C18: ULO2: Khả năng vận dụng các nguyên tắc đạo đức và trách nhiệm nghề nghiệp trong thực hành nghề nghiệp, cũng như cân nhắc các yếu tố có thể ảnh hưởng ở cấp độ địa phương và toàn cầu
+C19: ULO3: Khả năng giao tiếp và thực hiện công việc nhóm một cách hiệu quả nhằm đạt được các mục tiêu nghề nghiệp, cũng như quản lý các hoạt động chuyên môn dựa trên tư duy khởi nghiệp.
+A20: Các mức độ liên kết/đóng góp của LOs:  | C20: L: mức độ liên quan/đóng góp thấp
+C21: M: mức độ liên quan/đóng góp trung bình
+C22: H: mức độ liên quan/đóng góp cao

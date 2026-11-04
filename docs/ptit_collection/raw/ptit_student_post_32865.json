@@ -1,0 +1,119 @@
+{
+  "id": 32865,
+  "date": "2025-04-26T06:24:14",
+  "date_gmt": "2025-04-26T06:24:14",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=32865"
+  },
+  "modified": "2025-05-06T22:43:12",
+  "modified_gmt": "2025-05-06T22:43:12",
+  "slug": "samsung-viet-nam-thong-bao-ke-hoach-tuyen-dung-nhan-vien-chinh-thuc-va-thuc-tap-sinh-dot-1-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/04/26/samsung-viet-nam-thong-bao-ke-hoach-tuyen-dung-nhan-vien-chinh-thuc-va-thuc-tap-sinh-dot-1-2025/",
+  "title": {
+    "rendered": "Samsung Việt Nam thông báo kế hoạch tuyển dụng nhân viên chính thức và Thực tập sinh đợt 1, 2025"
+  },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-32866 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-scaled.jpg\" alt=\"\" width=\"1774\" height=\"2560\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-scaled.jpg 1774w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-208x300.jpg 208w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-709x1024.jpg 709w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-768x1108.jpg 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-1064x1536.jpg 1064w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/ssung-1419x2048.jpg 1419w\" sizes=\"(max-width: 1774px) 100vw, 1774px\" /></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 32903,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32865",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32865",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=32865"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32865/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32903"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32865"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=32865"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=32865"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

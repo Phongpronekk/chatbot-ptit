@@ -1,0 +1,25 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: TRÌNH ĐỘ THẠC SĨ, NGÀNH  CÔNG NGHỆ THÔNG TIN ĐỊNH HƯỚNG TRÍ TUỆ NHÂN TẠO
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | E4: TT | F4: Tên môn học/học phần | G4: Số TC | H4: Học kỳ
+A5: 1 | B5: Triết học | C5: 3 | D5: HK1 | E5: 1 | F5: Trí tuệ nhân tạo trong Kỹ nghệ phần mềm  | G5: 2 | H5: HK3
+A6: 2 | B6: Công cụ toán cho công nghệ thông tin | C6: 2 | D6: HK1 | E6: 2 | F6: Phát triển ứng dụng Trí tuệ nhân tạo | G6: 3 | H6: HK3
+A7: 3 | B7: Phương pháp nghiên cứu khoa học | C7: 2 | D7: HK1 | E7: 3 | F7: Triển khai và vận hành hệ thống Trí tuệ nhân tạo  | G7: 3 | H7: HK3
+A8: 4 | B8: Thuật toán nâng cao | C8: 2 | D8: HK1 | E8: 4 | F8: Tự chọn chuyên ngành B | G8: 3 | H8: HK3
+A9: 5 | B9: Các hệ thống CSDL | C9: 3 | D9: HK1
+D10: HK1
+C11: 12 | G11: 11
+A13: 6 | B13: Tự chọn cơ sở ngành A1 | C13: 3 | D13: HK2 | E13: 5 | F13: Thực tập tốt nghiệp | G13: 6 | H13: HK4
+A14: 7 | B14: Tự chọn cơ sở ngành A2 | C14: 3 | D14: HK2 | E14: 6 | F14: Đề án tốt nghiệp | G14: 9 | H14: HK4
+A15: 8 | B15: Tự chọn cơ sở ngành A3 | C15: 3 | D15: HK2
+A16: 9 | B16: Nhận dạng mẫu | C16: 3 | D16: HK2
+C18: 12 | G18: 15
+F20: TỔNG CỘNG CTĐT: | G20: 50
+A22: A | B22: Các học phần tự chọn cơ sở ngành | E22: B | F22: Các học phần tự chọn chuyên ngành
+A23: 1 | B23: Tìm kiếm và truy xuất thông tin | C23: 3 | E23: 1 | F23: Các hệ thống tác tử | G23: 3
+A24: 2 | B24: Các kỹ thuật tối ưu | C24: 3 | E24: 2 | F24: Nguyên lý chuyển đổi Trí tuệ nhân tạo | G24: 3
+A25: 3 | B25: Phương pháp phân tích số liệu thống kê | C25: 3 | E25: 3 | F25: Kiến trúc hệ thống thông tin | G25: 3
+A26: 4 | B26: Các mô hình lập trình tiên tiến | C26: 3 | E26: 4 | F26: Tối ưu và vận hành hệ thống thông tin | G26: 3
+A27: 5 | B27: Khai phá dữ liệu nâng cao | C27: 3 | E27: 5 | F27: Quản trị nghiệp vụ thông minh nâng cao | G27: 3
+A28: 6 | B28: Dữ liệu lớn | C28: 3 | E28: 6 | F28: Kiểm thử các hệ thống thông tin | G28: 3
+A29: 7 | B29: Tính toán phân tán | C29: 3

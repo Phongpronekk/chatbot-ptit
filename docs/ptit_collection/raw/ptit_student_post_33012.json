@@ -1,0 +1,119 @@
+{
+  "id": 33012,
+  "date": "2025-09-07T22:22:58",
+  "date_gmt": "2025-09-07T22:22:58",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33012"
+  },
+  "modified": "2025-09-07T22:22:58",
+  "modified_gmt": "2025-09-07T22:22:58",
+  "slug": "ai-chuan-quoc-te-tai-ptit-hai-chuyen-gia-tu-dai-hoc-ung-dung-hang-dau-bi-truc-tiep-dao-tao",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/09/07/ai-chuan-quoc-te-tai-ptit-hai-chuyen-gia-tu-dai-hoc-ung-dung-hang-dau-bi-truc-tiep-dao-tao/",
+  "title": {
+    "rendered": "AI chuẩn quốc tế tại PTIT: Hai chuyên gia từ Đại học Ứng dụng hàng đầu Bỉ trực tiếp đào tạo"
+  },
+  "content": {
+    "rendered": "<p data-start=\"289\" data-end=\"717\">Ngày 05/9/2025, tại cơ sở đào tạo Hà Nội, Học viện Công nghệ Bưu chính Viễn thông (PTIT) đã tổ chức buổi học đặc biệt <strong>“AI chuẩn quốc tế”</strong> dành cho sinh viên các ngành Trí tuệ nhân tạo, Khoa học máy tính và Công nghệ thông tin. Chương trình có sự tham gia giảng dạy trực tiếp của hai chuyên gia quốc tế đến từ Howest – Đại học Ứng dụng hàng đầu Bỉ, mang đến cho sinh viên trải nghiệm học tập chuẩn châu Âu ngay tại PTIT.</p>\n<p data-start=\"755\" data-end=\"994\">Buổi học được thiết kế theo tinh thần <em data-start=\"793\" data-end=\"823\">“Học đúng – Thực hành chuẩn”</em>, giúp sinh viên tránh các lỗi phổ biến khi triển khai đồ án AI như lựa chọn mô hình quá phức tạp nhưng dữ liệu không chuẩn, hoặc để LLM tạo ra câu trả lời thiếu căn cứ.</p>\n<div id=\"attachment_33013\" style=\"width: 1610px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-33013\" class=\"wp-image-33013 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-11.png\" alt=\"\" width=\"1600\" height=\"1067\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-11.png 1600w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-11-300x200.png 300w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-11-1024x683.png 1024w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-11-768x512.png 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-11-1536x1024.png 1536w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /><p id=\"caption-attachment-33013\" class=\"wp-caption-text\">TS. Dieter De Preester đang thuyết giảng</p></div>\n<h3 data-start=\"996\" data-end=\"1025\"><span style=\"font-size: 12pt\"><strong data-start=\"1000\" data-end=\"1023\">Vector Search &amp; RAG</strong></span></h3>\n<p data-start=\"1026\" data-end=\"1396\">Hai chuyên gia đã giới thiệu quá trình chuyển từ tìm kiếm theo từ khóa sang tìm kiếm theo ngữ nghĩa, hướng dẫn cách tạo và đánh giá embedding, lưu trữ – truy vấn dữ liệu trên vector database, cũng như cách kết hợp LLM với dữ liệu riêng qua pipeline RAG. Sinh viên được quan sát <strong data-start=\"1304\" data-end=\"1322\">demo trực tiếp</strong> và được cung cấp <strong data-start=\"1340\" data-end=\"1353\">bộ mã mẫu</strong> để có thể thực hành ngay trong buổi học.</p>\n<div id=\"attachment_33014\" style=\"width: 1610px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-33014\" class=\"wp-image-33014 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-13.png\" alt=\"\" width=\"1600\" height=\"1067\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-13.png 1600w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-13-300x200.png 300w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-13-1024x683.png 1024w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-13-768x512.png 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-13-1536x1024.png 1536w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /><p id=\"caption-attachment-33014\" class=\"wp-caption-text\">TS. Wouter Gevaert</p></div>\n<h3 data-start=\"1398\" data-end=\"1428\"><span style=\"font-size: 12pt\"><strong data-start=\"1402\" data-end=\"1426\">Generative AI &amp; LLMs</strong></span></h3>\n<p data-start=\"1429\" data-end=\"1734\">Sinh viên được trang bị bức tranh toàn cảnh về các mô hình hiện đại như Transformer, Autoencoder, GAN, Diffusion, cùng nguyên tắc ứng dụng đúng mục đích. Phần học còn nhấn mạnh kỹ năng prompting có cấu trúc, nguyên tắc AI có trách nhiệm, giúp sinh viên triển khai dự án hiệu quả và đúng chuẩn học thuật.</p>\n<p data-start=\"1429\" data-end=\"1734\">Sinh viên tham gia khóa học đã được nắm vững checklist thực hành mạch lạc, có thể áp dụng ngay cho bài tập và đồ án; Sở hữu bộ mã mẫu và tài liệu tham khảo chi tiết, giúp tiếp thu kiến thức sâu nhưng không bị quá tải; Được truyền cảm hứng sáng tạo và định hướng rõ ràng cho các dự án AI cá nhân.</p>\n<p data-start=\"2120\" data-end=\"2361\">Không chỉ dừng ở kiến thức chuyên môn, buổi học còn là cầu nối giúp sinh viên giao lưu, trao đổi trực tiếp với chuyên gia Howest, chia sẻ về các dự án AI đang triển khai và tìm hiểu thêm về cơ hội học bổng, chương trình trao đổi sinh viên.</p>\n<div id=\"attachment_33015\" style=\"width: 1610px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-33015\" class=\"wp-image-33015 size-full\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-3.png\" alt=\"\" width=\"1600\" height=\"1067\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-3.png 1600w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-3-300x200.png 300w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-3-1024x683.png 1024w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-3-768x512.png 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/09/howest-3-1536x1024.png 1536w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /><p id=\"caption-attachment-33015\" class=\"wp-caption-text\">Toàn cảnh buổi học</p></div>\n<p data-start=\"2363\" data-end=\"2775\">Đặc biệt, ngay từ đầu năm 2026, PTIT và Howest sẽ chính thức triển khai chương trình trao đổi sinh viên quy mô đầu tiên, dự kiến có 10–15 sinh viên Howest sang học tập và làm dự án AI tại PTIT, và 10–15 sinh viên PTIT sang Bỉ tham dự môn học <em data-start=\"2609\" data-end=\"2627\">Industry Project</em>. Đây là cơ hội hiếm có để sinh viên hai bên cùng trải nghiệm môi trường đào tạo ứng dụng, mở rộng mạng lưới học tập – nghiên cứu xuyên biên giới.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 05/9/2025, tại cơ sở đào tạo Hà Nội, Học viện Công nghệ Bưu chính Viễn thông (PTIT) đã tổ chức buổi học đặc biệt “AI chuẩn quốc tế” dành cho sinh viên các ngành Trí tuệ nhân tạo, Khoa học máy tính và Công nghệ thông tin. Chương trình có sự tham gia giảng [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 33015,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    17
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33012",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-tin-tuc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33012",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33012"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33012/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33015"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33012"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33012"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33012"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

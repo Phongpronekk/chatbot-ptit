@@ -1,0 +1,94 @@
+{
+  "id": 4860,
+  "date": "2026-05-13T23:00:37",
+  "date_gmt": "2026-05-13T16:00:37",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=4860"
+  },
+  "modified": "2026-05-15T15:26:46",
+  "modified_gmt": "2026-05-15T08:26:46",
+  "slug": "undergraduate-admissions-scheme",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/en/undergraduate-admissions-scheme/",
+  "title": {
+    "rendered": "Undergraduate Admissions Scheme"
+  },
+  "content": {
+    "rendered": "<div style=\"font-size: 16px;line-height: 1.6;color: #333;font-family: 'Segoe UI', Roboto, Arial, sans-serif\">\n<h1 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">Overview</h1>\n<p style=\"margin: 0 0 8px 0\">The Posts and Telecommunications Institute of Technology (PTIT) offers undergraduate admission schemes designed to ensure fairness, transparency, and academic quality for all applicants.</p>\n<p style=\"margin: 0 0 8px 0\">PTIT currently provides undergraduate programmes in Engineering, ICT, Business Management, Journalism, and Multimedia Communication at both Hanoi and Ho Chi Minh City campuses.</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\">Hanoi Campus: Main headquarters and primary training hub;</li>\n<li style=\"margin-bottom: 0\">Ho Chi Minh City Campus: Strategic Southern training center.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">1. Diverse Admission Methods</h5>\n<p style=\"margin: 0 0 8px 0\">PTIT applies multiple flexible admission methods to select talented students:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Talent-Based Admission:</strong> For prize winners and students from specialized high schools;</li>\n<li style=\"margin-bottom: 6px\"><strong>International Standardized Tests:</strong> Using SAT, ACT, or international English certificates (IELTS, TOEFL);</li>\n<li style=\"margin-bottom: 6px\"><strong>Competency Assessments:</strong> Accepting results from VNU Hanoi (HSA), VNU HCM, and HUST (TSA);</li>\n<li style=\"margin-bottom: 0\"><strong>National Graduation Exam:</strong> Based on the results of the Vietnamese National High School Graduation Examination.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">2. Admission Combinations and Requirements</h5>\n<p style=\"margin: 0 0 8px 0\">Applicants must satisfy upper secondary education requirements and specific subject combinations:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Key Combinations:</strong> A00 (Math, Phys, Chem), A01 (Math, Phys, Eng), D01 (Math, Lit, Eng), X06, and X26;</li>\n<li style=\"margin-bottom: 6px\"><strong>Eligibility:</strong> Must graduate from upper secondary education and comply with annual PTIT admission regulations;</li>\n<li style=\"margin-bottom: 0\"><strong>Special Support:</strong> Scholarships are available for exceptional students and national award winners.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">3. Application Process and Transparency</h5>\n<p style=\"margin: 0 0 8px 0\">The application process is digitized through the PTIT Admissions Portal:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Registration:</strong> Complete online registration and document submission;</li>\n<li style=\"margin-bottom: 6px\"><strong>Evaluation:</strong> Transparent results announcement and enrollment confirmation;</li>\n<li style=\"margin-bottom: 0\"><strong>Digital Services:</strong> Tuition fees and application schedules are updated real-time on the portal.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">4. Commitments and Guidelines</h5>\n<p style=\"margin: 0 0 32px 0\">PTIT is committed to ensuring academic integrity and providing equal access to high-quality education. Detailed schedules and guidelines are announced annually to support student success.</p>\n<p style=\"margin: 0 0 0 0\">Through these systematic admission methods, PTIT continues to attract and nurture the finest talents in digital technology and management in Vietnam.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Overview The Posts and Telecommunications Institute of Technology (PTIT) offers undergraduate admission schemes designed to ensure fairness, transparency, and academic quality for all applicants. PTIT currently provides undergraduate programmes in Engineering, ICT, Business Management, Journalism, and Multimedia Communication at both Hanoi and Ho Chi Minh City campuses. Hanoi Campus: Main headquarters and primary training hub; [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 77,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-4860",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4860",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/77"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=4860"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4860/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4860"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

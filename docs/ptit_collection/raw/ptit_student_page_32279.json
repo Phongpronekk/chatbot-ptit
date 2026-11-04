@@ -1,0 +1,94 @@
+{
+  "id": 32279,
+  "date": "2025-01-19T18:30:16",
+  "date_gmt": "2025-01-19T18:30:16",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?page_id=32279"
+  },
+  "modified": "2025-01-21T19:27:57",
+  "modified_gmt": "2025-01-21T19:27:57",
+  "slug": "bieu-mau",
+  "status": "publish",
+  "type": "page",
+  "link": "https://student.ptit.edu.vn/bieu-mau/",
+  "title": {
+    "rendered": "Biểu mẫu"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"32279\" class=\"elementor elementor-32279\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9230a11 e-flex e-con-boxed e-con e-parent\" data-id=\"9230a11\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-6b90b1b elementor-widget elementor-widget-ova_doc_items\" data-id=\"6b90b1b\" data-element_type=\"widget\" data-settings=\"{&quot;posts_per_page&quot;:10,&quot;cate&quot;:&quot;all&quot;}\" data-widget_type=\"ova_doc_items.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n<div class=\"ova-doc-items\">\n\t\t\t<ul class=\"document-list\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"item\">\n\t\t\t\t\t<div class=\"item-wrap\">\n\t\t\t\t\t\t<div class=\"info\">\n\t\t\t\t\t\t\t<a href=\"#\" class=\"view\"\n\t\t\t\t\t\t\tdata-id=\"32701\"\n\t\t\t\t\t\t\taria-label=\"View file\"\n\t\t\t\t\t\t\ttitle=\"View file\">\n\t\t\t\t\t\t\t\t<span class=\"loader\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h3 class=\"title\">\n\t\t\t\t\t\t\t\t<a href=\"https://student.ptit.edu.vn/ova_doc/quy-che-quy-dinh/\"\n\t\t\t\t\t\t\t\t\ttitle=\"Quy chế quy định\">\n\t\t\t\t\t\t\t\t\tQuy chế quy định\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<a href=\"https://student.ptit.edu.vn/ova_doc/quy-che-quy-dinh/\" class=\"icon\" title=\"Download file\"\n\t\t\t\t\t\t\taria-label=\"Download file\"\n\t\t\t\t\t\t\tdata-id=\"32701\">\n\t\t\t\t\t\t\t<i class=\"gimonticon-download\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"item\">\n\t\t\t\t\t<div class=\"item-wrap\">\n\t\t\t\t\t\t<div class=\"info\">\n\t\t\t\t\t\t\t<a href=\"#\" class=\"view\"\n\t\t\t\t\t\t\tdata-id=\"32593\"\n\t\t\t\t\t\t\taria-label=\"View file\"\n\t\t\t\t\t\t\ttitle=\"View file\">\n\t\t\t\t\t\t\t\t<span class=\"loader\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h3 class=\"title\">\n\t\t\t\t\t\t\t\t<a href=\"https://student.ptit.edu.vn/ova_doc/bieu-mau-sinh-vien/\"\n\t\t\t\t\t\t\t\t\ttitle=\"Biểu mẫu sinh viên\">\n\t\t\t\t\t\t\t\t\tBiểu mẫu sinh viên\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<a href=\"https://student.ptit.edu.vn/ova_doc/bieu-mau-sinh-vien/\" class=\"icon\" title=\"Download file\"\n\t\t\t\t\t\t\taria-label=\"Download file\"\n\t\t\t\t\t\t\tdata-id=\"32593\">\n\t\t\t\t\t\t\t<i class=\"gimonticon-download\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"item\">\n\t\t\t\t\t<div class=\"item-wrap\">\n\t\t\t\t\t\t<div class=\"info\">\n\t\t\t\t\t\t\t<a href=\"#\" class=\"view\"\n\t\t\t\t\t\t\tdata-id=\"32287\"\n\t\t\t\t\t\t\taria-label=\"View file\"\n\t\t\t\t\t\t\ttitle=\"View file\">\n\t\t\t\t\t\t\t\t<span class=\"loader\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h3 class=\"title\">\n\t\t\t\t\t\t\t\t<a href=\"https://student.ptit.edu.vn/ova_doc/huong-dan-thu-tuc-hanh-chinh-cac-mau-bieu-sinh-vien-thuong-su-dung/\"\n\t\t\t\t\t\t\t\t\ttitle=\"Hướng dẫn thủ tục hành chính, Các mẫu biểu sinh viên thường sử dụng\">\n\t\t\t\t\t\t\t\t\tHướng dẫn thủ tục hành chính, Các mẫu biểu sinh viên thường sử dụng\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<a href=\"https://student.ptit.edu.vn/ova_doc/huong-dan-thu-tuc-hanh-chinh-cac-mau-bieu-sinh-vien-thuong-su-dung/\" class=\"icon\" title=\"Download file\"\n\t\t\t\t\t\t\taria-label=\"Download file\"\n\t\t\t\t\t\t\tdata-id=\"32287\">\n\t\t\t\t\t\t\t<i class=\"gimonticon-download\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t<div class=\"ova-doc-modal\" aria-label=\"Popup Window\"></div>\n</div>\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tài liệu 2 Hướng dẫn thủ tục hành chính, Các mẫu biểu sinh viên thường sử dụng</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit_layout_page",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-32279",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/pages/32279",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=32279"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/pages/32279/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32279"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

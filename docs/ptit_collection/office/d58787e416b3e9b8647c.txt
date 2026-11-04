@@ -1,0 +1,84 @@
+### sheet1.xml
+A1: BIỂU ĐỒ KẾ HOẠCH ĐÀO TẠO NĂM HỌC 2025 - 2026
+Q2: (Phê duyệt kèm theo Quyết định số 420 /QĐ-HV ngày 18/04/2025 của Giám đốc Học viện)
+A4: TT | B4: THÁNG | D4: 08/2025 | G4: 09/2025 | K4: 10/2025 | P4: 11/2025 | T4: 12/2025 | X4: 01/2026 | AC4: 02/2026 | AG4: 03/2026 | AK4: 04/2026 | AP4: 05/2026 | AT4: 06/2026 | AX4: 07/2026 | BB4: 08/2026 | BD4: GHI CHÚ
+B5: TUẦN | D5: 1 | E5: 2 | F5: 3 | G5: 4 | H5: 5 | I5: 6 | J5: 7 | K5: 8 | L5: 9 | M5: 10 | N5: 11 | O5: 12 | P5: 13 | Q5: 14 | R5: 15 | S5: 16 | T5: 17 | U5: 18 | V5: 19 | W5: 20 | X5: 21 | Y5: 22 | Z5: 23 | AA5: 24 | AB5: 25 | AC5: 26 | AD5: 27 | AE5: 28 | AF5: 29 | AG5: 30 | AH5: 31 | AI5: 32 | AJ5: 33 | AK5: 34 | AL5: 35 | AM5: 36 | AN5: 37 | AO5: 38 | AP5: 39 | AQ5: 40 | AR5: 41 | AS5: 42 | AT5: 43 | AU5: 44 | AV5: 45 | AW5: 46 | AX5: 47 | AY5: 48 | AZ5: 49 | BA5: 50 | BB5: 51 | BC5: 52
+B6: NGÀY | C6: Bắt đầu | D6: 11 | E6: 18 | F6: 25 | G6: 1 | H6: 8 | I6: 15 | J6: 22 | K6: 29 | L6: 6 | M6: 13 | N6: 20 | O6: 27 | P6: 3 | Q6: 10 | R6: 17 | S6: 24 | T6: 1 | U6: 8 | V6: 15 | W6: 22 | X6: 29 | Y6: 5 | Z6: 12 | AA6: 19 | AB6: 26 | AC6: 2 | AD6: 9 | AE6: 16 | AF6: 23 | AG6: 2 | AH6: 9 | AI6: 16 | AJ6: 23 | AK6: 30 | AL6: 6 | AM6: 13 | AN6: 20 | AO6: 27 | AP6: 4 | AQ6: 11 | AR6: 18 | AS6: 25 | AT6: 1 | AU6: 8 | AV6: 15 | AW6: 22 | AX6: 29 | AY6: 6 | AZ6: 13 | BA6: 20 | BB6: 27 | BC6: 3
+B7: NỘI DUNG | C7: Kết thúc | D7: 17 | E7: 24 | F7: 31 | G7: 7 | H7: 14 | I7: 21 | J7: 28 | K7: 5 | L7: 12 | M7: 19 | N7: 26 | O7: 02 | P7: 9 | Q7: 16 | R7: 23 | S7: 30 | T7: 7 | U7: 14 | V7: 21 | W7: 28 | X7: 4 | Y7: 11 | Z7: 18 | AA7: 25 | AB7: 1 | AC7: 8 | AD7: 15 | AE7: 22 | AF7: 1 | AG7: 8 | AH7: 15 | AI7: 22 | AJ7: 29 | AK7: 5 | AL7: 12 | AM7: 19 | AN7: 26 | AO7: 3 | AP7: 10 | AQ7: 17 | AR7: 24 | AS7: 31 | AT7: 7 | AU7: 14 | AV7: 21 | AW7: 28 | AX7: 5 | AY7: 12 | AZ7: 19 | BA7: 26 | BB7: 2 | BC7: 9
+A8: A. HOẠT ĐỘNG TUYỂN SINH | AD8: NGHỈ TẾT NGUYÊN ĐÁN
+A9: 1 | B9: Nghiên cứu sinh | J9: XT | K9: XT | L9: XT | M9: XT | AB9: TBTS | AC9: TBTS
+A10: 2 | B10: Thạc sỹ
+A11: - | B11: 2025 ( đợt 2) | K11: T/XT | L11: T/XT | M11: T/XT | N11: T/XT
+A12: - | B12: 2026 (đợt 1) | AP12: T/XT | AQ12: T/XT | AR12: T/XT | AS12: T/XT
+A13: 3 | B13: Đại học chính quy | Y13: TBTS | Z13: TBTS | AW13: TTS | AX13: TTS | BD13: Theo lịch của Bộ GD&ĐT
+A14: 4 | B14: VLVH | P14: TTS | Q14: TTS | R14: NH | S14: NH
+A15: 5 | B15: Đại học từ xa | T15: XT | U15: XT | AJ15: XT | AK15: XT | BD15: Xét tuyển: 12/2025 , 04/2026
+A16: 6 | B16: Cao đẳng Nghề | T16: XT | U16: XT | AJ16: XT | AK16: XT | BD16: Xét tuyển: 12/2025 , 04/2026
+G17: KÝ HIỆU | M17: Tiếp nhận hồ sơ | W17: Xử lý sau khi thi tuyển sinh | AI17: TBTS | AK17: Thông báo tuyển sinh | AS17: TTS | AU17: Thi tuyển sinh
+M18: Tiếp nhận hồ sơ, ôn thi, học bổ sung kiến thức | W18: Xử lý hồ sơ tuyển sinh | AI18: XT | AK18: Xét tuyển
+A19: B. TỔ CHỨC ĐÀO TẠO
+A20: I | B20: Nghiên cứu sinh | D20: BCCĐ | E20: BCCĐ | F20: BCCĐ | G20: BCCĐ | M20: BCCĐ | N20: BCCĐ | O20: BCCĐ | P20: BCCĐ | U20: BCCĐ | V20: BCCĐ | W20: BCCĐ | X20: BCCĐ | AM20: BCCĐ | AN20: BCCĐ | AO20: BCCĐ | AP20: BCCĐ | AV20: BCCĐ | AW20: BCCĐ | AX20: BCCĐ | AY20: BCCĐ
+A21: II | B21: Thạc sỹ
+A22: 1 | B22: Khóa 2023
+A23: - | B23: Ngành QTKD | W23: BV | X23: BV
+A24: 2 | B24: Khóa 2024 (Đợt 1)
+A25: - | B25: Các ngành Kỹ thuật | W25: BV | X25: BV
+A26: - | B26: Ngành QTKD | G26: K4 | AT26: BV | AU26: BV
+A27: 3 | B27: Khóa 2024 (Đợt 2)
+A28: - | B28: Các ngành Kỹ thuật | G28: K3 | AT28: BV | AU28: BV
+A29: - | B29: Ngành QTKD | G29: K3 | X29: K4
+A30: 4 | B30: Khóa 2025 
+A31: - | B31: Đợt 1 | D31: K1 | X31: K2 | AK31: K3
+A32: - | B32: Đợt 2 | S32: NH | T32: K1 | AK32: K2
+A33: 5 | B33: Khóa 2026 
+A34: - | B34: Đợt 1 | AV34: NH | AW34: NH | AX34: K1
+A35: III | B35: Đại học chính quy
+A36: 1 | B36: Khóa 2021
+A37: - | B37: Các ngành  CNTT - ĐTVT - ATTT -  ĐT -  CNĐPT | G37: x | T37: TN | U37: ĐA/KL/LV | Z37: XTN
+A38: 2 | B38: Khóa 2022
+A39: - | B39: Ngành QTKD - KT - TC- MR - TMĐT - TTĐPT - BC | D39: K7 - ĐCĐK | H39: XCH | U39: T | V39: T | W39: T | X39: T | Z39: TT | AA39: TT | AB39: TT | AC39: TT | AF39: TT | AG39: TT | AI39: X | AU39: TN | AV39: ĐA/KL/LV | AY39: XTN
+A40: - | B40: Ngành  CNTT - KHMT - ATTT - VT - ĐT - CNĐPT | D40: K7 - ĐCĐK | H40: XCH | U40: T/ĐK (K8) | V40: T/ĐK (K8) | W40: T/ĐK (K8) | X40: T/ĐK (K8) | Y40: ĐCĐK | Z40: K8 | AG40: XCH | AS40: T | AT40: T | AU40: T | AV40: T | AW40: TT | AX40: TT | AY40: TT | AZ40: TT | BA40: TT | BB40: TT | BC40: TT | BD40: Thực tập 7 tuần đến 9/8/2026
+A41: 3 | B41: Khóa 2023  | D41: K5 - ĐCĐK | E41: ĐCĐK | H41: XCH | U41: T/ĐK (K6) | V41: T/ĐK (K6) | W41: T/ĐK (K6) | X41: T/ĐK (K6) | Y41: ĐCĐK | Z41: K6 | AG41: XCH | AS41: T/ ĐK (KP) | AT41: T / ĐK | AU41: T / ĐK | AV41: T / ĐK | AX41: N/KP | AY41: N/KP | AZ41: N/KP | BA41: N/KP | BB41: N/KP | BC41: N/KP | BD41: Đăng ký Kỳ 7: tháng 5-6/2026
+A42: 4 | B42: Khóa 2024 | D42: K3 - ĐCĐK | E42: ĐCĐK | H42: XCH | U42: T/ĐK (K4) | V42: T/ĐK (K4) | W42: T/ĐK (K4) | X42: T/ĐK (K4) | Y42: ĐCĐK | Z42: K4 | AG42: XCH | AS42: T/ ĐK (KP) | AT42: T / ĐK | AU42: T / ĐK | AV42: T / ĐK | AX42: N/KP | AY42: N/KP | AZ42: N/KP | BA42: N/KP | BB42: N/KP | BC42: N/KP | BD42: Đăng ký Kỳ 5: tháng 5-6/2026
+A43: 5 | B43: Khóa 2025 (Dự kiến) | H43: NH (Đ1) | I43: Tuần CD | J43:  K1 | M43:  NH (Đ2) | AA43: T | AB43: T/ ĐK (K2) | AC43: T/ ĐK (K2) | AF43: K2 | AS43: ĐK (KP) | AT43: ĐK  | AU43: ĐK  | AV43: ĐK  | AW43: T | AX43: T | AY43: T | AZ43: T | BA43: N/KP | BB43: N/KP | BC43: N/KP | BD43: Đăng ký Kỳ 3: tháng 6-7/2026
+A44: IV | B44: Đại học Vừa làm vừa học (Cs phía Bắc)
+A45: 1 | B45: Khóa 2022 | D45: K7 | X45: T | Y45: T | AA45: K8 | AX45: N | AY45: N | AZ45: N | BA45: N | BB45: N | BC45: N
+A46: 2 | B46: Khóa 2023 | D46: K5 | X46: T | Y46: T | AA46: K6 | AX46: N | AY46: N | AZ46: N | BA46: N | BB46: N | BC46: N
+A47: 3 | B47: Khóa 2024  | D47: K3 | X47: T | Y47: T | AA47: K4 | AC47: K4 | AX47: N | AY47: N | AZ47: N | BA47: N | BB47: N | BC47: N
+A48: 4 | B48: Khóa 2025 (Dự kiên) | N48: K1 | AF48: T | AG48: T | AH48: T | AI48: K2 | BA48: T | BB48: T | BC48: T
+A49: V | B49: Đại học từ xa 5 năm (Cơ sở phía Bắc)
+A50: 1 | B50: Khóa 2021
+A51: - | B51: Ngành CNTT, ĐTVT | D51: TT | E51: TT | F51: TT | G51: TT | H51: TT | I51: TT | J51: TT | K51: TT | L51: X | M51: X | N51: X | O51: X | P51: X | AL51: XTN | AM51: XTN | AR51: XCB | AS51: XCB
+A52: 2 | B52: Khóa 2022
+A53: - | B53: Ngành QTKD | D53: K7 | AH53: TT | AI53: TT | AJ53: TT | AK53: TT | AL53: TT | AM53: TT | AN53: TT | AO53: TT | AP53: X | AQ53: X | AR53: X | AS53: X | AT53: X
+A54: - | B54: Ngành CNTT, ĐTTT | D54: K7 | AG54: K8
+A55: 3 | B55: Khóa 2023 | D55: K5 | AG55: K6
+A56: 4 | B56: Khóa 2024 | D56: K3 | AG56: K4
+A57: 5 | B57: Khóa 2025 (Dự kiến)
+A58: - | B58: Đợt 1 | D58: T (K1) | E58: T (K1) | F58: T (K1) | L58: K2 | M58: T (K2)
+A59: - | B59: Đợt 2 | D59: K1 | L59: K2 | M59: T (K2)
+A60: VI | B60: Đại học từ xa 2,5 năm (Cs phía Bắc)
+A61: 1 | B61: Khóa 2025 (Dự kiến)
+A62: - | B62: Đợt 1 | D62: NH | E62: K1 | Q62: T (K1) | R62: T (K1) | AG62: K2
+A63: - | B63: Đợt 2 | K63: NH | L63: K1 | Y63: T (K1) | Z63: T (K1) | AG63: K2
+A64: VII | B64: Đại học Vừa làm vừa học (Cs phía Nam)
+A65: 1 | B65: Khóa 2024  | D65: K3 | X65: T | Y65: T | Z65: T | AF65: K4 | BA65: T | BB65: T | BC65: T
+A66: 2 | B66: Khóa 2025 (Dự kiến) | D66: K1 | AB66: T | AC66: T | AF66: K2
+A67: VIII | B67: Đại học từ xa 5 năm (Cs phía Nam)
+A68: 1 | B68: Khóa 2022 | D68: K8 | AF68: TT | AG68: TT | AH68: TT | AI68: TT | AJ68: TT | AK68: X | AZ68: XTN
+A69: 2 | B69: Khóa 2025 (Dự kiến)  
+A70: - | B70: Đợt 1 | G70: NH | H70: K1 | T70: NH | U70: K1 | AN70: T (K1) | AO70: K2
+A71: - | B71: Đợt 2 | W71: NH | X71: K1 | AN71: T (K1) | AO71: K2
+A72: IX | B72: Đại học từ xa 2,5 năm (Cs phía Nam)
+A73: 1 | B73: Khóa 2025 (Dự kiến)  
+A74: - | B74: Đợt 1 | G74: NH | H74: K1 | AN74: T (K1) | AO74: K2
+A75: - | B75: Đợt 2 | Q75: NH | R75: K1 | AN75: T (K1) | AO75: K2
+C77: KÝ HIỆU
+E79: Học chính khóa | L79: DT | M79: Dự trữ | S79: N | T79: Nghỉ hè | AB79: X | AD79: Xét điều kiện báo cáo tốt nghiệp | AK79: Ghi chú:  | AM79: - Các ngày lễ trong năm được nghỉ theo qui định của Nhà nước
+E80: Học và thi xen kẽ | L80: ĐA/KL/LV | M80: Đồ án/ khóa luận/ Luận văn tốt nghiệp | S80: NH | T80: Nhập học | AB80: XCB | AD80: Xét cấp phát, ký văn bằng | AM80: - Thời gian nghỉ hè (06 tuần) từ 29/06/2026 đến 09/08/2026
+E81: Thực hiện ĐA/KL/Ôn thi TN | L81: ĐC | M81: Thực hiện đề cương luận văn tốt nghiệp | S81: PB | T81: Phản biện đồ án/ khóa luận tốt nghiệp | AB81: XCH | AD81: Xét cảnh báo học vụ
+C82: BC | D82: Báo cáo thực tập | L82: ĐCĐK | M82: Điều chỉnh đăng ký môn học | S82: T | T82: Thi | AB82: XNH | AD82: Xét ngừng học, thôi học
+C83: BCCĐ | D83: Báo cáo chuyên đề | L83: ĐK | M83: Đăng ký môn học | S83: TL | T83: Thi lại | AB83: XTN | AD83: Xét tốt nghiệp
+C84: BV | D84: Bảo vệ đồ án/khóa luận/luận văn TN | L84: ĐTN | M84: Đăng ký tích lũy khối kiến thức tốt nghiệp | S84: TL(TK) | T84: Thi lại toàn khóa (Thi vét)
+C85: BVĐC | D85: Bảo vệ đề cương | L85: KP | M85: Học kỳ phụ | S85: TN | T85: Thi tốt nghiệp
+C86: CT | D86: Chính trị, tuần lễ công dân đầu khóa | L86: Kx-y | M86: Kỳ học thứ x - đợt thứ y | S86: TT | T86: Thực tập

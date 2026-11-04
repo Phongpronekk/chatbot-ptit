@@ -1,0 +1,73 @@
+{
+  "id": 32810,
+  "date": "2025-04-02T07:08:04",
+  "date_gmt": "2025-04-02T07:08:04",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?post_type=quy_che_quy_dinh&#038;p=32810"
+  },
+  "modified": "2025-04-02T07:13:10",
+  "modified_gmt": "2025-04-02T07:13:10",
+  "slug": "quy-dinh-ve-van-hoa-hoc-duong-va-chuan-muc-ung-xu-cua-nguoi-hoc",
+  "status": "publish",
+  "type": "quy_che_quy_dinh",
+  "link": "https://student.ptit.edu.vn/quy-che-quy-dinh/quy-dinh-ve-van-hoa-hoc-duong-va-chuan-muc-ung-xu-cua-nguoi-hoc/",
+  "title": {
+    "rendered": "Quy định về văn hóa học đường và chuẩn mực ứng xử của người học"
+  },
+  "template": "",
+  "co_quan_ban_hanh": [],
+  "loai_van_ban": [],
+  "class_list": [
+    "post-32810",
+    "quy_che_quy_dinh",
+    "type-quy_che_quy_dinh",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/quy_che_quy_dinh/32810",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/quy_che_quy_dinh"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/quy_che_quy_dinh"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32810"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "co_quan_ban_hanh",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/co_quan_ban_hanh?post=32810"
+      },
+      {
+        "taxonomy": "loai_van_ban",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/loai_van_ban?post=32810"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

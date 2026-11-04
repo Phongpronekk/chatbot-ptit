@@ -1,0 +1,28 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: CHƯƠNG TRÌNH ĐÀO TẠO THẠC SỸ NGÀNH QUẢN TRỊ KINH DOANH 
+A4: NĂM HỌC THỨ NHẤT | F4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học | C6: 3 | D6: HK1 | F6: 1 | G6: Tự chọn chuyên ngành | H6: 3 | I6: HK3
+A7: 2 | B7: Phương pháp nghiên cứu khoa học | C7: 2 | D7: HK1 | F7: 2 | G7: Tự chọn chuyên ngành | H7: 3 | I7: HK3
+A8: 3 | B8: Kinh tế học quản trị  | C8: 3 | D8: HK1 | F8: 3 | G8: Tự chọn chuyên ngành | H8: 3 | I8: HK3
+A9: 4 | B9: Công cụ Toán cho Kinh doanh và Quản lý | C9: 2 | D9: HK1 | F9: 4 | G9: Đạo đức kinh doanh và Phát triển bền vững  | H9: 3 | I9: HK3
+A10: 5 | B10: Lãnh đạo và Hành vi tổ chức  | C10: 3 | D10: HK1
+A11: 6 | B11: Tự chọn cơ sở | C11: 3 | D11: HK1
+C13: 16 | H13: 12
+A15: 1 | B15: Kinh doanh điện tử  | C15: 3 | D15: HK2 | G15: Thực tập tốt nghiệp | H15: 8
+A16: 2 | B16: Chiến lược Kinh doanh nâng cao | C16: 3 | D16: HK2 | F16: 1 | G16: Đề án Tốt nghiệp | H16: 9 | I16: HK4
+A17: 3 | B17: Ra quyết định quản trị dựa trên dữ liệu  | C17: 3 | D17: HK2
+A18: 4 | B18: Quản trị nguồn nhân lực chiến lược | C18: 3 | D18: HK2
+A19: 5 | B19: Tự chọn cơ sở | C19: 3 | D19: HK2
+C22: 15 | H22: 17
+G24: TỔNG CỘNG: | H24: 60
+B26: Các học phần tự chọn cơ sở: | F26: Lựa chọn Nhóm học phần chuyên ngành (theo nhóm)
+A27: 1 | B27: Quản lý chuỗi cung ứng bền vững | C27: 3 | G27: Nhóm Khởi nghiệp và đổi mới sáng tạo:
+A28: 2 | B28: Quản trị sự thay đổi trong kỷ nguyên số | C28: 3 | F28: 1 | G28: Khởi nghiệp và Phát triển Start-up  | H28: 3
+A29: 3 | B29: Quản trị Marketing chiến lược | C29: 3 | F29: 2 | G29: Tư duy thiết kế và Đổi mới  | H29: 3
+A30: 4 | B30: Quản trị tài chính chiến lược | C30: 3 | F30: 3 | G30: Phát triển mô hình kinh doanh  | H30: 3
+G31: Nhóm Kinh doanh số:
+F32: 1 | G32: Chiến lược chuyển đổi số  | H32: 3
+F33: 2 | G33: Mô hình kinh doanh & Phương pháp Lean Startup  | H33: 3
+F34: 3 | G34: Phân tích kinh doanh và Trí tuệ dữ liệu  | H34: 3

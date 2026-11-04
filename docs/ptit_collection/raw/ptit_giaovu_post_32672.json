@@ -1,0 +1,120 @@
+{
+  "id": 32672,
+  "date": "2025-05-30T07:28:49",
+  "date_gmt": "2025-05-30T00:28:49",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32672"
+  },
+  "modified": "2025-06-10T11:50:38",
+  "modified_gmt": "2025-06-10T04:50:38",
+  "slug": "ke-hoach-giang-day-hoc-tap-hoc-ky-i-nam-hoc-2025-2026-du-kien",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/ke-hoach-giang-day-hoc-tap-hoc-ky-i-nam-hoc-2025-2026-du-kien/",
+  "title": {
+    "rendered": "Kế hoạch giảng dạy học tập học kỳ I năm học 2025-2026 (dự kiến)"
+  },
+  "content": {
+    "rendered": "<p><strong>Phòng Giáo vụ thông báo:</strong></p>\n<p>Căn cứ khung chương trình đào tạo hiện hành;</p>\n<p>Căn cứ kế hoạch đào tạo năm học 2025-2026;</p>\n<p>Căn cứ phân công giảng dạy của Khoa/ Bộ môn/ Trung tâm. Phòng Giáo vụ thông báo kế hoạch giảng dạy, học tập học kỳ I năm học 2025-2026, cụ thể:</p>\n<p><em>Sinh viên download file kèm.</em></p>\n<p>Đề nghị sinh viên nghiên cứu kỹ file lịch học, thời khóa biểu sắp xếp các phương án hợp lý để đăng ký lịch học trên QLĐT theo kế hoạch đăng ký của Học viện.</p>\n<p>Trân trọng ./.</p>\n<p><strong><em>Tải về:</em></strong></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/05/0528_TKB_HK1_NAM_HOC_2025_20261-1.xlsx\">TKB_HK1_NAM_HOC_2025_2026( Dự kiến)</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Phòng Giáo vụ thông báo: Căn cứ khung chương trình đào tạo hiện hành; Căn cứ kế hoạch đào tạo năm học 2025-2026; Căn cứ phân công giảng dạy của Khoa/ Bộ môn/ Trung tâm. Phòng Giáo vụ thông báo kế hoạch giảng dạy, học tập học kỳ I năm học 2025-2026, cụ thể: Sinh [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    9,
+    14,
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32672",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-ke-hoach-dao-tao",
+    "category-thoi-khoa-bieu-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32672",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32672"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32672/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32672"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32672"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32672"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+### sheet1.xml
+A1: BỘ THÔNG TIN VÀ TRUYỀN THÔNG | D1: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+A2: HỌC VIỆN CÔNG NGHỆ | D2: Độc lập - Tự do - Hạnh phúc
+A3: BƯU CHÍNH VIỄN THÔNG
+A5: DANH SÁCH SINH VIÊN LỚP ĐẠI HỌC CHUYÊN NGÀNH 
+A6: RÔ BỐT VÀ TRÍ TUỆ NHÂN TẠO
+A7: KHÓA 2023-2028 (LỚP D23DKRB)
+A8: (Ban hành kèm theo quyết định số: …….../QĐ-HV ngày ……... tháng 11 năm 2025)
+A10: TT | B10: Mã sinh viên | C10: Họ | D10: Tên | E10: Lớp cũ | F10: Ghi chú
+A11: 1 | B11: B23DCDK012 | C11: Phạm Tuấn | D11: Anh | E11: D23CQDK01-B
+A12: 2 | B12: B23DCDK007 | C12: Nguyễn Hữu Hoàng | D12: Anh | E12: D23CQDK01-B
+A13: 3 | B13: B23DCDK006 | C13: Nguyễn Hoàng | D13: Anh | E13: D23CQDK01-B
+A14: 4 | B14: B23DCDK011 | C14: Phạm Trung Đức | D14: Anh | E14: D23CQDK01-B
+A15: 5 | B15: B23DCDK010 | C15: Phạm Quốc | D15: Anh | E15: D23CQDK01-B
+A16: 6 | B16: B23DCDK022 | C16: Nguyễn Đình | D16: Cường | E16: D23CQDK01-B
+A17: 7 | B17: B23DCDK038 | C17: Nguyễn Phúc Đăng | D17: Dương | E17: D23CQDK01-B
+A18: 8 | B18: B23DCDK042 | C18: Nguyễn Hoàng | D18: Giang | E18: D23CQDK01-B | F18: không đăng ký
+A19: 9 | B19: B23DCDK048 | C19: Nguyễn Duy | D19: Hiệp | E19: D23CQDK01-B
+A20: 10 | B20: B23DCDK050 | C20: Dương Trần Trung | D20: Hiếu | E20: D23CQDK01-B | F20: không đăng ký
+A21: 11 | B21: B23DCDK058 | C21: Trịnh Quốc | D21: Hùng | E21: D23CQDK01-B | F21: không đăng ký
+A22: 12 | B22: B23DCDK061 | C22: Nguyễn Quang | D22: Hưng | E22: D23CQDK01-B
+A23: 13 | B23: B23DCDK062 | C23: Nguyễn Thành | D23: Hưng | E23: D23CQDK01-B
+A24: 14 | B24: B23DCDK060 | C24: Lê Quang | D24: Hưng | E24: D23CQDK01-B
+A25: 15 | B25: B23DCDK065 | C25: Vũ Ngọc | D25: Hưng | E25: D23CQDK01-B
+A26: 16 | B26: B23DCDK094 | C26: Nguyễn Xuân | D26: Nhật | E26: D23CQDK01-B
+A27: 17 | B27: B23DCDK099 | C27: Tạ Văn | D27: Phan | E27: D23CQDK01-B
+A28: 18 | B28: B23DCDK113 | C28: Lưu Giang | D28: Sơn | E28: D23CQDK01-B
+A29: 19 | B29: B23DCDK115 | C29: Hoàng Anh | D29: Tài | E29: D23CQDK01-B
+A30: 20 | B30: B23DCDK200 | C30: Cao Văn | D30: Tuấn | E30: D23CQDK01-B | F30: không đăng ký
+A31: 21 | B31: B23DCDK124 | C31: Phạm Thị | D31: Thanh | E31: D23CQDK01-B
+A32:          Danh sách gồm 21 sinh viên
+E34: KT. GIÁM ĐỐC
+E35:  PHÓ GIÁM ĐỐC
+E40: PGS. TS. Trần Quang Anh
+### sheet2.xml
+A1: BỘ THÔNG TIN VÀ TRUYỀN THÔNG | D1: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+A2: HỌC VIỆN CÔNG NGHỆ | D2: Độc lập - Tự do - Hạnh phúc
+A3: BƯU CHÍNH VIỄN THÔNG
+A5: DANH SÁCH SINH VIÊN LỚP ĐẠI HỌC CHUYÊN NGÀNH 
+A6: ĐIỀU KHIỂN VÀ TỰ ĐỘNG HÓA
+A7: KHÓA 2023-2028 (LỚP D23DKDK)
+A8: (Ban hành kèm theo quyết định số: …….../QĐ-HV ngày ……... tháng 11 năm 2025)
+A10: TT | B10: Mã sinh viên | C10: Họ | D10: Tên | E10: Lớp cũ | F10: Ghi chú
+A11: 1 | B11: B23DCDK002 | C11: Dương Hải | D11: An | E11: D23CQDK01-B
+A12: 2 | B12: B23DCDK003 | C12: Nguyễn Nhật | D12: An | E12: D23CQDK01-B
+A13: 3 | B13: B23DCDK004 | C13: Phạm Tuấn | D13: An | E13: D23CQDK01-B
+A14: 4 | B14: B23DCDK008 | C14: Nguyễn Thế | D14: Anh | E14: D23CQDK01-B
+A15: 5 | B15: B23DCDK009 | C15: Phạm Đình | D15: Anh | E15: D23CQDK01-B
+A16: 6 | B16: B23DCDK017 | C16: Nguyễn Trần Khánh | D16: Bảo | E16: D23CQDK01-B
+A17: 7 | B17: B23DCDK019 | C17: Hoàng Công | D17: Chính | E17: D23CQDK01-B
+A18: 8 | B18: B23DCDK037 | C18: Nguyễn Ngọc Hải | D18: Dương | E18: D23CQDK01-B
+A19: 9 | B19: B23DCDK029 | C19: Vũ Quốc | D19: Đạt | E19: D23CQDK01-B
+A20: 10 | B20: B23DCDK026 | C20: Nguyễn Thành | D20: Đạt | E20: D23CQDK01-B
+A21: 11 | B21: B23DCDK028 | C21: Nguyễn Tiến | D21: Đạt | E21: D23CQDK01-B
+A22: 12 | B22: B23DCDK024 | C22: Lưu Quang | D22: Đăng | E22: D23CQDK01-B
+A23: 13 | B23: B23DCDK033 | C23: Lê Anh | D23: Đức | E23: D23CQDK01-B
+A24: 14 | B24: B23DCDK034 | C24: Phạm Văn | D24: Đức | E24: D23CQDK01-B
+A25: 15 | B25: B23DCDK045 | C25: Nguyễn Văn | D25: Hải | E25: D23CQDK01-B
+A26: 16 | B26: B23DCDK044 | C26: Nguyễn Thọ | D26: Hải | E26: D23CQDK01-B
+A27: 17 | B27: B23DCDK047 | C27: Hoàng Văn | D27: Hậu | E27: D23CQDK01-B
+A28: 18 | B28: B23DCDK052 | C28: Phan Đức | D28: Hiếu | E28: D23CQDK01-B
+A29: 19 | B29: B23DCDK054 | C29: Phạm Nguyễn Huy | D29: Hoàng | E29: D23CQDK01-B
+A30: 20 | B30: B23DCDK053 | C30: Nguyễn Huy | D30: Hoàng | E30: D23CQDK01-B
+A31: 21 | B31: B23DCDK066 | C31: Dương Đức | D31: Huy | E31: D23CQDK01-B
+A32: 22 | B32: B23DCDK068 | C32: Thái Bá | D32: Khải | E32: D23CQDK01-B
+A33: 23 | B33: B23DCDK072 | C33: Nguyễn Duy | D33: Khánh | E33: D23CQDK01-B
+A34: 24 | B34: B23DCDK080 | C34: Ngô Thành | D34: Long | E34: D23CQDK01-B
+A35: 25 | B35: B23DCDK081 | C35: Đoàn Văn | D35: Mạnh | E35: D23CQDK01-B
+A36: 26 | B36: B23DCDK083 | C36: Nguyễn Văn | D36: Minh | E36: D23CQDK01-B
+A37: 27 | B37: B23DCDK089 | C37: Vũ Hoài | D37: Nam | E37: D23CQDK01-B
+A38: 28 | B38: B23DCDK088 | C38: Trần Phương | D38: Nam | E38: D23CQDK01-B
+A39: 29 | B39: B23DCDK091 | C39: Lại Thế | D39: Ngọc | E39: D23CQDK01-B
+A40: 30 | B40: B23DCDK108 | C40: Vũ Đức | D40: Phúc | E40: D23CQDK01-B
+A41: 31 | B41: B23DCDK111 | C41: Đặng Thế | D41: Quang | E41: D23CQDK01-B
+A42: 32 | B42: B23DCDK135 | C42: Nguyễn Quang | D42: Tiến | E42: D23CQDK01-B
+A43: 33 | B43: B23DCDK136 | C43: Đồng Đăng | D43: Tình | E43: D23CQDK01-B
+A44: 34 | B44: B23DCDK143 | C44: Trần Văn | D44: Tú | E44: D23CQDK01-B
+A45: 35 | B45: B23DCDK142 | C45: Dương Anh | D45: Tú | E45: D23CQDK01-B
+A46: 36 | B46: B23DCDK144 | C46: Đinh Ngọc | D46: Tuân | E46: D23CQDK01-B
+A47: 37 | B47: B23DCDK146 | C47: Nguyễn Bá Anh | D47: Tuấn | E47: D23CQDK01-B
+A48: 38 | B48: B23DCDK151 | C48: Phạm Thanh | D48: Tùng | E48: D23CQDK01-B
+A49: 39 | B49: B23DCDK120 | C49: Nguyễn Thị | D49: Thắm | E49: D23CQDK01-B
+A50: 40 | B50: B23DCDK132 | C50: Đỗ Đức | D50: Thuỷ | E50: D23CQDK01-B
+A51: 41 | B51: B23DCDK141 | C51: Nguyễn Quốc | D51: Trường | E51: D23CQDK01-B
+A52: 42 | B52: B23DCDK138 | C52: Lê Văn | D52: Trường | E52: D23CQDK01-B
+A53: 43 | B53: B23DCDK154 | C53: Đào Đại | D53: Vượng | E53: D23CQDK01-B
+A54:          Danh sách gồm 43 sinh viên
+E56: KT. GIÁM ĐỐC
+E57:  PHÓ GIÁM ĐỐC
+E62: PGS. TS. Trần Quang Anh

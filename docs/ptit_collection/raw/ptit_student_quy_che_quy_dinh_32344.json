@@ -1,0 +1,79 @@
+{
+  "id": 32344,
+  "date": "2025-01-21T13:43:10",
+  "date_gmt": "2025-01-21T13:43:10",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?post_type=quy_che_quy_dinh&#038;p=32344"
+  },
+  "modified": "2025-01-21T13:43:10",
+  "modified_gmt": "2025-01-21T13:43:10",
+  "slug": "quy-dinh-ve-quy-trinh-in-quan-ly-phoi-van-bang-chung-chi",
+  "status": "publish",
+  "type": "quy_che_quy_dinh",
+  "link": "https://student.ptit.edu.vn/quy-che-quy-dinh/quy-dinh-ve-quy-trinh-in-quan-ly-phoi-van-bang-chung-chi/",
+  "title": {
+    "rendered": "Quy định về quy trình in, quản lý phôi văn bằng, chứng chỉ"
+  },
+  "template": "",
+  "co_quan_ban_hanh": [
+    15
+  ],
+  "loai_van_ban": [
+    16
+  ],
+  "class_list": [
+    "post-32344",
+    "quy_che_quy_dinh",
+    "type-quy_che_quy_dinh",
+    "status-publish",
+    "hentry",
+    "co_quan_ban_hanh-hoc-vien",
+    "loai_van_ban-quyet-dinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/quy_che_quy_dinh/32344",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/quy_che_quy_dinh"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/quy_che_quy_dinh"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32344"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "co_quan_ban_hanh",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/co_quan_ban_hanh?post=32344"
+      },
+      {
+        "taxonomy": "loai_van_ban",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/loai_van_ban?post=32344"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 32908,
+  "date": "2025-05-16T09:49:23",
+  "date_gmt": "2025-05-16T09:49:23",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=32908"
+  },
+  "modified": "2025-05-16T09:49:23",
+  "modified_gmt": "2025-05-16T09:49:23",
+  "slug": "thong-bao-ket-qua-cuoc-thi-tim-hieu-nghi-quyet-57-chu-de-tuoi-tre-ptit-voi-nghi-quyet-57-khat-vong-vi-tuong-lai-viet-nam-hung-cuong",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2025/05/16/thong-bao-ket-qua-cuoc-thi-tim-hieu-nghi-quyet-57-chu-de-tuoi-tre-ptit-voi-nghi-quyet-57-khat-vong-vi-tuong-lai-viet-nam-hung-cuong/",
+  "title": {
+    "rendered": "Thông báo kết quả cuộc thi tìm hiểu Nghị Quyết 57 chủ đề “Tuổi trẻ PTIT với Nghị quyết 57-  Khát vọng vì tương lai Việt Nam hùng cường”"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: justify\">Ban tổ chức cuộc thi tìm hiểu Nghị Quyết 57 chủ đề “Tuổi trẻ PTIT với Nghị quyết 57-  Khát vọng vì tương lai Việt Nam hùng cường” thông báo kết quả cuộc thi. Theo đó, sau gần 1 tháng phát động và triển khai, cuộc thi đã thu hút gần 1.700 lượt sinh viên dự thi. Ban Tổ chức đã quyết định trao 3 giải thưởng tập thể, 116 giải thưởng cá nhân, bao gồm 1 giải Nhất, 2 Giải Nhì, 3 Giải Ba, 10 Giải Khuyến khích và 100 giải Phong trào cho các tập thể và sinh viên tham gia cuộc thi (có danh sách kèm theo<strong><b>: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/05/659QD_HV-1-qd-khen-thuong.pdf\">659QD_HV (1)-qd khen thuong</a>).</b></strong></p>\n<p style=\"text-align: justify\">Học viện sẽ chuyển khoản tiền khen thưởng vào số tài khoản của các sinh viên đạt giải trong khoảng thời gian từ ngày 19/5/2025-26/5/2025.<br />\n• Đối với 100 sinh viên đạt giải phong trào, sinh viên sẽ nhận giấy khen và quà tặng tại văn phòng 1 cửa ô số 3 từ ngày 22/5/2025-23/5/2025 (thứ 5, 6) trong giờ hành chính.<br />\n• Đối với khen thưởng tập thể: Học viện sẽ liên hệ đại diện BCS lớp đến nhận trực tiếp tại trường.</p>\n<p style=\"text-align: justify\">Trân trọng thông báo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ban tổ chức cuộc thi tìm hiểu Nghị Quyết 57 chủ đề “Tuổi trẻ PTIT với Nghị quyết 57-  Khát vọng vì tương lai Việt Nam hùng cường” thông báo kết quả cuộc thi. Theo đó, sau gần 1 tháng phát động và triển khai, cuộc thi đã thu hút gần 1.700 lượt sinh viên [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 15,
+  "featured_media": 32771,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32908",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32908",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/15"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=32908"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/32908/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/32771"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=32908"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=32908"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=32908"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

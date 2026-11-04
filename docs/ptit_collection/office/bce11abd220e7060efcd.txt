@@ -1,0 +1,103 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO 
+TRÌNH ĐỘ THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG
+(Kèm theo Quyết định số      /QĐ-HV ngày     tháng     năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt): Kỹ thuật Viễn thông
+- Tên ngành (tiếng Anh): Telecommunications Engineering
+- Tên chương trình (tiếng Việt):Kỹ thuật Viễn thông
+- Tên chương trình (tiếng Anh): Telecommunications Engineering
+- Trình độ đào tạo: Thạc sĩ
+- Mã ngành: 8520208
+- Thời gian đào tạo: 1,5 - 2,0 năm
+- Hình thức đào tạo: Chính quy
+2. MỤC TIÊU 
+2.1 Mục tiêu chung (Goals)
+Chương trình đào tạo Thạc sĩ ngành Kỹ thuật Viễn thông của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm phát triển nguồn nhân lực có trình độ cao, có nền tảng mạnh về khoa học và công nghệ, có năng lực tự nghiên cứu và phát triển công nghệ tương xứng với trình độ đào tạo bậc thạc sĩ; có khả năng sáng tạo và học tập suốt đời, thích nghi với môi trường làm việc; có đạo đức và trách nhiệm nghề nghiệp, đáp ứng yêu cầu phát triển kinh tế - xã hội và hội nhập quốc tế.
+2.2 Mục tiêu cụ thể (Program Objectives - POs)
+PO1. Phát triển vững chắc nghề nghiệp chuyên môn: Sau khi tốt nghiệp, học viên có thể làm việc chuyên sâu trong lĩnh vực kỹ thuật viễn thông, áp dụng thành công các công nghệ mới trong thiết kế, phát triển, vận hành và quản lý hệ thống viễn thông tại các doanh nghiệp.
+PO2. Phát triển khả năng làm việc nhóm, sáng tạo và có tố chất lãnh đạo: sau khi tốt nghiệp, học viên có khả năng thích ứng tốt trong môi trường làm việc chuyên nghiệp, có thể quản lý và phát triển các dự án kỹ thuật, đưa ra các giải pháp tiến tiến, hiệu quả, nghiên cứu, sáng tạo trong lĩnh vực kỹ thuật viễn thông.
+PO3. Phát triển chuyên môn, ý thức học tập suốt đời: Sau khi tốt nghiệp, học viên có khả năng tiếp tục phát triển bản thân và chuyên môn, liên tục tự học, tham gia các chương trình đào tạo chuyên sâu, tổ chức nghiên cứu, hoặc tiếp tục học tập ở trình độ cao hơn.
+PO4. Phát triển nhận thức về trách nhiệm xã hội và đạo đức nghề nghiệp: Sau khi tốt nghiệp, học viên sẽ hình thành ý thức coi trọng các giá trị đạo đức nghề nghiệp, đồng thời đóng góp vào sự phát triển bền vững của xã hội.
+
+2.3. Vị trí làm việc sau tốt nghiệp:
+Học viên tốt nghiệp thạc sĩ ngành Kỹ thuật Viễn thông là những ứng viên tiềm năng cho các vị trí công việc sau:
+Chuyên gia tư vấn, thiết kế trong các tổ chức, doanh nghiệp có liên quan đến lĩnh vực viễn thông và công nghệ thông tin;
+Chuyên gia kỹ thuật, vận hành, giám sát trong các doanh nghiệp sở hữu và khai thác hạ tầng truyền thông và các doanh nghiệp triển khai hệ thống ICT trong điều hành sản xuất, kinh doanh;
+Chuyên gia phát triển ứng dụng, phân tích dữ liệu/ viễn thông trong các hệ thống viễn thông và ICT của các doanh nghiệp và tổ chức;
+Chuyên gia nghiên cứu phát triển (R&D) trong các doanh nghiệp, tập đoàn ICT trong nước và quốc tế;
+Doanh nhân, nhà quản lý, điều hành trong lĩnh vực viễn thông, công nghệ thông tin; 
+Cán bộ giảng dạy, nghiên cứu trong các viện nghiên cứu, trường đại học, ...
+3. CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (Learning Outcomes – LOs)
+Các chuẩn đầu ra (Learning Outcomes – LOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các LO và PI kèm theo được thiết kế theo chuẩn kiểm định quốc tế, với mức kiến thức và kỹ năng tương đương bậc 7 trong Khung trình độ quốc gia Việt Nam. Cụ thể, các LO và PI của chương trình đào tạo cho như bảng sau:
+Chuẩn đầu ra (LOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+LO1. Xác định và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý của kỹ thuật, khoa học và toán học. trong lĩnh vực kỹ thuật viễn thông.
+C4, P3
+PI1.1. Phân loại được bài toán cần giải quyết, chỉ ra các tham số chính cần xác định.
+PI1.2. Áp dụng kiến thức, mô hình và phương pháp giải quyết được vấn đề kỹ thuật phức tạp thuộc lĩnh vực điện tử viễn thông.
+LO2. Thu thập dữ liệu, phân tích, đánh giá, tổng hợp các hệ thống, quy trình, giải pháp kỹ thuật trong lĩnh vực kỹ thuật viễn thông. 
+C5, A2
+PI2.1. Phân tích, xác định và đánh giá được tham số hoạt động của các phần tử, mạch thành phần trong hệ thống thiết bị điện tử viễn thông.
+PI2.2. Phân tích, tổng hợp và đánh giá dữ liệu thu thập và quy trình kỹ thuật trong hệ thống viễn thông. 
+LO3. Đổi mới, sáng tạo, thiết kế giải pháp kỹ thuật tiên tiến trong lĩnh vực viễn thông, có xem xét đến các yếu tố rủi ro và cơ hội.
+C6, P3, A4
+PI3.1.Vận dụng công cụ kỹ thuật chuyên ngành, thiết kế giải pháp có xem xét đến các vấn đề về rủi ro và cơ hội để giải quyết vấn đề phức tạp.
+PI3.2. Phân tích, đánh giá và tự tổng hợp các kiến thức mới trong lĩnh vực điện tử viễn thông.
+LO4. Làm việc hiệu quả trong các nhóm đa ngành, có tư duy và khả năng phản biện, biết cách điều hành, hợp tác và trao đổi thông tin, trình bầy ý tưởng hiệu quả để hoàn thành các dự án kỹ thuật phức tạp.
+P4, A4
+PI4.1. Xây dựng và trình bày được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định.
+PI4.2. Xác định mục tiêu và thời hạn, lập kế hoạch, phối hợp, phân công và chia sẻ công việc trong nhóm hiệu quả, có khả năng thích ứng và cam kết hoàn thành nhiệm vụ. 
+PI4.3. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ.
+LO5. Nhận biết trách nhiệm và đạo đức nghề nghiệp khi xử lý các tình huống kỹ thuật trong lĩnh vực kỹ thuật viễn thông và đưa ra các ý tưởng, đánh giá,  phát triển các giải pháp khả thi trong đó có xem xét tác động trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội, nhận diện các cơ hội khởi nghiệp tiềm năng.
+C4, A3
+PI5.1. Nhận biết trách nhiệm đạo đức, quy định pháp luật, quy định nghề nghiệp trong các tình huống kỹ thuật.
+PI5.2. Phân tích được tác động, đưa ra các ý tưởng, đánh giá, phát triển giải pháp kỹ thuật khả thi đối với xã hội, kinh tế và môi trường.
+
+
+
+(C: miền kiến thức; P: miền kỹ năng, A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+4. MA TRẬN CHUẨN ĐẦU RA VỚI MỤC TIÊU ĐÀO TẠO
+TT
+             Mục tiêu
+CĐR
+PO1
+PO2
+PO3
+PO4
+1.
+LO1
+x
+
+x
+
+2.
+LO2
+x
+x
+x
+
+3.
+LO3
+x
+x
+x
+x
+4.
+LO4
+x
+x
+
+
+5.
+LO5
+
+
+x
+x
+
+
+
+
+

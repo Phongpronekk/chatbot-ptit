@@ -1,0 +1,123 @@
+{
+  "id": 32933,
+  "date": "2025-10-08T16:37:46",
+  "date_gmt": "2025-10-08T09:37:46",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32933"
+  },
+  "modified": "2025-10-08T16:37:46",
+  "modified_gmt": "2025-10-08T09:37:46",
+  "slug": "ke-hoach-giang-day-va-hoc-tap-tu-ngay-9-10-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/ke-hoach-giang-day-va-hoc-tap-tu-ngay-9-10-2025/",
+  "title": {
+    "rendered": "Kế hoạch giảng dạy và học tập từ ngày 9/10/2025"
+  },
+  "content": {
+    "rendered": "<p>Kính gửi: Các Sinh viên CSĐT Phía Bắc</p>\n<p>Căn cứ vào tình hình thời tiết đã có nhiều thuận lợi, Phòng Giáo vụ thông báo từ thứ năm ngày 09/10/2025 các hoạt động giảng dạy – học tập sẽ trở lại bình thường theo kế hoạch. Thời khóa biểu được cập nhật trên phần mềm qldt.ptit.edu.vn và Slink.</p>\n<p>Trường hợp một số Sinh viên nếu không thể di chuyển đến Học viện vì tình huống bất khả kháng do trong vùng ngập lụt, chủ động báo cáo với giảng viên phụ trách lớp môn học để được hỗ trợ và hướng dẫn phù hợp.</p>\n<p>Trân trọng!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Các Sinh viên CSĐT Phía Bắc Căn cứ vào tình hình thời tiết đã có nhiều thuận lợi, Phòng Giáo vụ thông báo từ thứ năm ngày 09/10/2025 các hoạt động giảng dạy – học tập sẽ trở lại bình thường theo kế hoạch. Thời khóa biểu được cập nhật trên phần mềm [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32450,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32933",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32933",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32933"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32933/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32450"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32933"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32933"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32933"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

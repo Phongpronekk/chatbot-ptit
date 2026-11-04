@@ -1,0 +1,125 @@
+{
+  "id": 5650,
+  "date": "2026-10-07T15:34:52",
+  "date_gmt": "2026-10-07T08:34:52",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5650"
+  },
+  "modified": "2026-10-07T15:37:12",
+  "modified_gmt": "2026-10-07T08:37:12",
+  "slug": "5650-2",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/5650-2/",
+  "title": {
+    "rendered": "Thông báo kết quả kiểm tra phân loại trình độ tiếng Anh đầu vào đối với sinh viên đại học hệ Chính quy khoá 2026 (Đợt 2) &#8211; Cơ sở đào tạo phía Bắc"
+  },
+  "content": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo về kết quả kiểm tra phân loại trình độ tiếng Anh đầu vào đối với sinh viên đại học hệ chính quy khóa 2026 (đợt 2) – Cơ sở đào tạo phía Bắc.</p>\n<p><strong>1. Cách 1:</strong> Kết quả chi tiết của từng sinh viên được thông báo qua tài khoản Slink của sinh viên.</p>\n<p><strong>2. Cách 2: S</strong>inh viên <strong>tra cứu kết quả </strong>kiểm tra phân loại trình độ tiếng Anh đầu vào đối với sinh viên đại học hệ chính quy khóa 2026 – Cơ sở đào tạo phía Bắc như sau:</p>\n<p>&#8211; Địa chỉ tra cứu: <a href=\"https://tracuu.ptit.edu.vn/\">https://tracuu.ptit.edu.vn/</a></p>\n<p>&#8211; Thí sinh tra cứu theo CCCD để biết thông tin kết quả kiểm tra của mình.</p>\n<p>3. Chi tiết kết quả thi trong file đính kèm:</p>\n<p>&#8211; Kết quả thi TOEIC PLACEMENT: <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/BC-TOEIC-PLACEMENT-HV-BCVT-3.10.26.xlsx\">BC TOEIC PLACEMENT HV BCVT 3.10.26</a></p>\n<p>&#8211; Kết quả thi TOEFL ITP PLACEMENT: <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/BC-ITP-PLACEMENT-HV-BCVT-03.10.26.xlsx\">BC ITP PLACEMENT HV BCVT 03.10.26</a></p>\n<p>Trân trọng!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông thông báo về kết quả kiểm tra phân loại trình độ tiếng Anh đầu vào đối với sinh viên đại học hệ chính quy khóa 2026 (đợt 2) – Cơ sở đào tạo phía Bắc. 1. Cách 1: Kết quả chi tiết của từng sinh viên được [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 4008,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5650",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5650"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5650/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5655,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5650/revisions/5655"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/4008"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5650"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5650"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5650"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

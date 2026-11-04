@@ -1,0 +1,116 @@
+TT
+Ngành tuyển sinh
+Ngành đúng, phù hợp
+Ngành gần và các môn học bổ sung kiến thức
+Ghi chú
+
+
+
+Ngành gần
+Môn bổ sung kiến thức
+Số tiết
+
+4
+An toàn thông tinMã số chuyên ngành:8480202
+- An toàn thông tin
+- An ninh mạng
+- Hoặc các ngành/ chuyên ngành không có tên nêu trên nhưng có chương trình đào tạo khác với chương trình đào tạo đại học ngành An toàn thông tin của Học viện dưới 10% tổng số tiết hoặc đơn vị học trình hoặc tín chỉ của khối kiến thức ngành.
+Nhóm 1: Các ngành, chuyên ngành gần
+- Công nghệ thông tin
+- Hệ thống thông tin- Kỹ thuật phần mềm
+- Công nghệ phần mềm
+- Truyền thông và mạng máy tính
+- Truyền dữ liệu và mạng máy tính- Khoa học máy tính
+- Khoa học dữ liệu
+- Trí tuệ nhân tạo
+- Kỹ thuật mật mã
+- Hoặc các ngành/ chuyên ngành không có tên trong Nhóm 1 nêu trên nhưng có chương trình đào tạo khác với chương trình đào tạo đại học ngành An toàn thông tin của Học viện từ 10-20% tổng số tiết hoặc đơn vị học trình hoặc tín chỉ của khối kiến thức ngành
+
+Nhóm 1:
+ 
+ 
+
+
+
+
+1. Cơ sở an toàn thông tin (3TC)
+45
+ 
+
+
+
+
+2. Mật mã học cơ sở (3TC)
+45
+ 
+
+
+
+
+3. Hệ điều hành Windows và Linux/Unix (3TC)
+45
+ 
+
+
+
+
+4. Mạng máy tính (3TC)
+45
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+Nhóm 2: Các ngành, chuyên ngành khác
+- Kỹ thuật điện tử, truyền thông;
+- Kỹ thuật điện tử viễn thông;
+- Công nghệ kỹ thuật điện tử, truyền thông;
+- Công nghệ kỹ thuật điện tử viễn thông;
+- Kỹ thuật máy tính;
+- Công nghệ kỹ thuật máy tính;
+- Điện tử tin học;
+- Kỹ thuật điều khiển và tự động hóa;
+- Công nghệ kỹ thuật điều khiển và tự động hóa
+- Kỹ thuật điện, điện tử;
+- Công nghệ kỹ thuật điện, điện tử;
+- Kỹ thuật điện tử
+- Tin học quản lý;
+- Toán tin; Toán - Tin học;
+- Tin học ứng dụng
+- Hệ thống thông tin kinh tế 
+- Hoặc các ngành/ chuyên ngành không có tên trong Nhóm 1, 2 nêu trên nhưng có chương trình đào tạo khác với chương trình đào tạo đại học ngành An toàn thông tin của Học viện từ 20-40% tổng số tiết hoặc đơn vị học trình hoặc tín chỉ của khối kiến thức ngành
+Nhóm 2:
+ 
+ 
+
+
+
+
+Ngoài 4 môn học như Nhóm 1 phải học thêm 3 môn sau:
+
+
+
+
+1. Cấu trúc dữ liệu và giải thuật (3TC)
+45
+ 
+
+
+
+
+2. Python cho An toàn thông tin (3TC)
+45
+ 
+
+
+
+
+3. Hợp ngữ và dịch ngược (3TC)
+45
+ 

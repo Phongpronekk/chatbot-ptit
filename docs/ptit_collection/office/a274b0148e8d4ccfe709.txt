@@ -1,0 +1,49 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT CÁC HỌC PHẦN VỚI CÁC THIÊN HƯỚNG TÀI NĂNG
+CTĐT THẠC SĨ TÀI NĂNG NGÀNH AN TOÀN THÔNG TIN
+A3: TT | B3: MÃ HỌC PHẦN | C3: TÊN HỌC PHẦN | D3: HỌC KỲ | E3: Thiên hướng tài năng theo 
+Quyết định 2627/QĐ của Bộ GD&ĐT
+E4: Thiên hướng tài năng về 
+khoa học | F4: Thiên hướng tài năng về 
+công nghệ | G4: Thiên hướng tài năng về 
+kinh doanh
+A5: 1 | B5: SEC1101 | C5: Nhập môn lập trình và ATTT | D5: Kỳ 1 | E5: L | F5: L | G5: L
+A6: 2 | B6: INT1336 | C6: Mạng máy tính | D6: Kỳ 2 | E6: L | F6: L | G6: L
+A7: 3 | B7: SEC1304 | C7: Cơ sở an toàn thông tin | D7: Kỳ 2 | E7: L | F7: L | G7: L
+A8: 4 | B8: SEC1302 | C8: Python cho An toàn thông tin | D8: Kỳ 3 | E8: L | F8: L | G8: L
+A9: 5 | B9: SEC1305 | C9: Hệ điều hành Windows và Linux/Unix | D9: Kỳ 3 | E9: L | F9: L | G9: L
+A10: 6 | B10: SEC1306 | C10: Mật mã học cơ sở | D10: Kỳ 4 | E10: L | F10: L | G10: L
+A11: 7 | B11: SEC1303 | C11: Hợp ngữ và dịch ngược | D11: Kỳ 4 | E11: L | F11: L | G11: L
+A12: 8 | C12: Kỹ năng mềm 1 | D12: Kỳ 4 | E12: L | F12: L | G12: L
+A13: 9 | B13: SEC1414 | C13: Phân tích mã độc | D13: Kỳ 5 | E13: M | F13: M | G13: M
+A14: 10 | B14: SEC1411 | C14: An toàn ứng dụng web và cơ sở dữ liệu | D14: Kỳ 5 | E14: M | F14: M | G14: M
+A15: 11 | B15: SEC1307 | C15: Thực tập cơ sở | D15: Kỳ 5 | E15: M | F15: M | G15: M
+A16: 12 | C16: Kỹ năng mềm 2 | D16: Kỳ 5 | E16: M | F16: M | G16: M
+A17: 13 | B17: SEC1408 | C17: Kiểm thử xâm nhập | D17: Kỳ 6 | E17: M | F17: M | G17: M
+A18: 14 | B18: SEC1410 | C18: Quản lý và đánh giá an toàn thông tin | D18: Kỳ 6 | E18: M | F18: M | G18: M
+A19: 15 | B19: SEC1412 | C19: Giám sát an toàn mạng | D19: Kỳ 6 | E19: M | F19: M | G19: M
+A20: 16 | B20: SEC1416 | C20: Ứng dụng AI trong ATTT | D20: Kỳ 6 | E20: H | F20: H | G20: H
+A21: 17 | B21: SEC1415 | C21: Nhập môn DevOps | D21: Kỳ 6 | E21: H | F21: H | G21: H
+A22: 18 | C22: Kỹ năng mềm 3 | D22: Kỳ 6 | E22: H | F22: H | G22: H
+A23: 19 | B23: SKD4112 | C23: Phương pháp nghiên cứu khoa học | D23: Kỳ 7 | E23: L | F23: L | G23: L
+A24: 20 | B24: INT41218 | C24: Công cụ toán cho công nghệ thông tin | D24: Kỳ 7 | E24: M | F24: M | G24: M
+A25: 21 | B25: SEC4344 | C25: Công nghệ Blockchain | D25: Kỳ 7 | E25: M | F25: M | G25: M
+A26: 22 | B26: SEC4453 | C26: Phân tích mã độc nâng cao | D26: Kỳ 7 | E26: H | F26: H | G26: H
+A27: 23 | B27: SEC4459 | C27: Điều tra số | D27: Kỳ 7 | E27: H | F27: H | G27: H
+A28: 24 | B28: SEC4455 | C28: Giám sát an toàn mạng nâng cao | D28: Kỳ 8 | E28: H | F28: H | G28: H
+A29: 25 | B29: SEC4351 | C29: Chuyên đề thạc sĩ 1 | D29: Kỳ 8 | E29: H
+A30: 26 | B30: SEC4352 | C30: Chuyên đề thạc sĩ 2 | D30: Kỳ 8 | E30: H
+A31: 27 | B31: SEC4345 | C31: An toàn điện toán đám mây | D31: Kỳ 8 | F31: H | G31: H
+A32: 28 | B32: SEC4346 | C32: An toàn cho IoT | D32: Kỳ 8 | F32: H | G32: H
+A33: 29 | B33: SEC4454 | C33: Kiểm thử xâm nhập nâng cao | D33: Kỳ 9 | E33: H | F33: H | G33: H
+A34: 30 | B34: SEC4464 | C34: Chuyên đề thạc sĩ 3 | D34: Kỳ 9 | E34: H
+A35: 31 | B35: SEC4465 | C35: Chuyên đề thạc sĩ 4 | D35: Kỳ 9 | E35: H
+A36: 32 | B36: SEC4456 | C36: Các chủ đề hiện đại trong ATTT | D36: Kỳ 9 | F36: H | G36: H
+A37: 33 | B37: SEC4462 | C37: Đảm bảo an toàn cho AI | D37: Kỳ 9 | F37: H | G37: H
+A38: 34 | B38: SEC4460 | C38: An toàn web nâng cao | D38: Kỳ 9 | F38: H | G38: H
+A39: 35 | B39: SEC4457 | C39: Tấn công và phòng thủ mạng | D39: Kỳ 9 | F39: H | G39: H
+A40: 36 | B40: SEC1525 | C40: Thực tập tốt nghiệp | D40: Kỳ 10 | E40: H | F40: H | G40: H
+A41: 37 | B41: SEC4567 | C41: Đề án tốt nghiệp | D41: Kỳ 10 | F41: H | G41: H
+A42: 38 | B42: SEC4568 | C42: Luận văn tốt nghiệp | D42: Kỳ 10 | E42: H
+A44: Ghi chú: 
+B45: L, M, H: mức độ đóng góp của học phần, tương ứng: Thấp (L-Low), Trung bình (M-Medium), Cao (H-High)

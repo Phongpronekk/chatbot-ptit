@@ -1,0 +1,252 @@
+### Trang 1
+
+1 
+ 
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ  
+ĐẠI HỌC NGÀNH TRÍ TUỆ NHÂN TẠO 
+(Kèm theo Quyết định số       /QĐ-HV ngày       tháng      năm 2025 của Giám đốc Học viện) 
+ 
+GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO  
+- Tên ngành (tiếng Việt):   Trí tuệ nhân tạo 
+- Tên ngành (tiếng Anh):   Artificial Intelligence 
+- Tên chương trình (tiếng Việt): Trí tuệ nhân tạo  
+- Tên chương trình (tiếng Anh): Artificial Intelligence 
+- Trình độ đào tạo:    Đại học 
+- Mã ngành:     7480107 
+- Thời gian đào tạo (chuẩn): 4.5 năm 
+- Tên văn bằng:   Kỹ sư Trí tuệ nhân tạo 
+- Hình thức đào tạo:    Chính quy 
+ 
+1. MỤC TIÊU ĐÀO TẠO 
+1.1 Mục tiêu chung (Goals) 
+Chương trình đào tạo ngành Trí tuệ nhân tạo (TTNT) của Học viện Công nghệ Bưu 
+chính Viễn thông được thiết kế nhằm đào tạo nhân lực trình độ Đại học (Kỹ sư) ngành Trí 
+tuệ nhân tạo trong bối cảnh hội nhập quốc tế và chuyển đổi số. Sinh viên tốt nghiệp được 
+trang bị các kỹ năng nghề nghiệp trong tương lai về Trí tuệ nhân tạo và Khoa học máy tính 
+bao gồm cả chuyên môn, phẩm chất chính trị, đạo đức nghề nghiệp, và kỹ năng mềm. Nội 
+dung đào tạo kết hợp giữa lý thuyết và thực tiễn, nhằm giúp học viên ứng dụng hiệu quả 
+các kiến thức về Trí tuệ nhân tạo  vào giải quyết các bài toán  thực tế. Đồng thời, chương 
+trình đào tạo ngành Trí tuệ nhân tạo nằm trong chiến lược phát triển của Học viện với triết 
+lý giáo dục “Tri thức – Sáng tạo – Đạo đức - Trách nhiệm” hướng tới mục tiêu đào tạo 
+nguồn nhân lực “vừa có tài vừa có đức” để đóng góp cho sự phát triển chung của đất nước 
+và nhân loại. 
+1.2 Mục tiêu cụ thể (Program Objectives - POs)   
+1.2.1 Mục tiêu đào tạo 
+PO1: Sinh viên tốt nghiệp có khả năng áp dụng kiến thức và kỹ năng của mình để thành 
+công trong sự nghiệp và/hoặc lấy được bằng cấp cao hơn. 
+PO2: Sinh viên tốt nghiệp sẽ cư xử có đạo đức và có trách nhiệm, đồng thời sẽ luôn được 
+cập nhật thông tin, tham gia đầy đủ vào nghề nghiệp và xã hội của họ. 
+
+### Trang 2
+
+2 
+ 
+PO3: Sinh viên tốt nghiệp sẽ giao tiếp hiệu quả và hoạt động thành công trong các nhóm 
+đa ngành. 
+PO4: Sinh viên tốt nghiệp sẽ làm việc chuyên nghiệp trong một số lĩnh vực: xử lý ngôn 
+ngữ tự nhiên, thị giác máy tính, phân tích dữ liệu, nghiên cứu trí tuệ nhân tạo, xây dựng 
+và thiết kế phần mềm ứng dụng trí tuệ nhân tạo. 
+1.2.2 Vị trí làm việc sau tốt nghiệp: 
+Sinh viên sau khi tốt nghiệp ngành  Trí tuệ nhân tạo và nắm vững các kĩ năng từ cơ 
+bản đến chuyên ngành thì có thể làm việc ở một trong các vị trí việc làm sau: 
+− Kỹ sư xử lý ngôn ngữ tự nhiên (NLP Engineer): Phát triển và triển khai các mô 
+hình, thuật toán, kỹ thuật về NLP đặc biệt là các mô hình ngôn ngữ lớn (LLMs)  
+và Mô hình tạo sinh (GenAI), huấn luyện và tinh chỉnh các mô hình ngôn ngữ. 
+− Kỹ sư Thị giác máy tính (CV Engineer): Phát triển và triển khai các mô hình học 
+máy/học sâu để xử lý hình ảnh và video  cho các bài toán thị giác máy tính. Phân 
+tích và tiền xử lý dữ liệu hình ảnh/video, cải thiện chất lượng đầu vào cho các mô 
+hình. Tích hợp các thuật toán thị giác máy tính vào các ứng dụng thực tế.  
+− Chuyên viên phân tích dữ liệu (Data Analyst): phân tích các dữ liệu lớn của văn 
+bản hoặc hình ảnh để đưa ra các thống kê hữu ích cho doanh nghiệp, trực quan 
+hóa dữ liệu để từ đó đưa ra các quyết định quan trọng mang tính chiến lược, xây 
+dựng các mô hình dự đoán dựa trên nguồn dữ liệu thực tế. 
+− Chuyên gia nghiên cứu về Trí tuệ nhân tạo (AI Research Scientist): làm việc trong 
+bộ phận Research and Development (R&D) của các tổ chức để nghiên cứu về  các 
+mô hình, thuật toán, công nghệ mới nhằm giải quyết bài toán thực tiễn. Đây là vị 
+trí yêu cầu nắm vững các kiến thức nền tảng của học máy, học sâu. 
+− Chuyên viên phát triển phần mềm Trí tuệ nhân tạo (AI Software Developer): tích 
+hợp các mô hình Trí tuệ nhân tạo vào các ứng dụng, nâng cao hiệu quả hoạt động 
+của các hệ thống phần mềm và phần cứng . Đây là vị trí yêu cầu nắm vững các 
+công đoạn xây dựng một mô hình hoàn chỉnh từ chuẩn bị dữ liệu, xây dựng mô 
+hình, triển khai, sử dụng thành thạo các công cụ và nền tảng phát triển ứng dụng 
+Trí tuệ nhân tạo. 
+2. CHUẨN ĐẦU RA VÀ CHỈ BÁO CHẤT LƯỢNG (Learning Outcomes – LOs and 
+Performance Indicators – PIs) 
+Chuẩn đầu ra (LOs) Chỉ báo (PIs) 
+LO1: Nhận diện được vấn 
+đề và các giải pháp có thể để 
+giải quyết vấn đề liên quan 
+đến trí tuệ nhân tạo. 
+PI 1.1: Hiểu bài toán và các yêu cầu  
+PI 1.2: Đề xuất và phân tích giải pháp tính toán giải quyết 
+bài toán 
+
+### Trang 3
+
+3 
+ 
+Chuẩn đầu ra (LOs) Chỉ báo (PIs) 
+PI 1.3: Xác định giải pháp phù hợp dựa trên các nguyên 
+lý tính toán để giải quyết bài toán. 
+LO2: Giao tiếp hiệu quả 
+trong nhiều bối cảnh chuyên 
+nghiệp khác nhau. 
+PI 2.1: Xây dựng được các dạng tài liệu kỹ thuật và phi 
+kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định. 
+PI 2.2: Chuẩn bị và trình bày các bài thuyết trình thành 
+thạo. 
+PI 2.3: Giao tiếp và thực hiện hiệu quả các hoạt động 
+chuyên môn bằng ngoại ngữ. 
+LO3: Nhận thức được trách 
+nhiệm nghề nghiệp và đưa ra 
+những đánh giá sáng suốt 
+dựa trên các nguyên tắc pháp 
+lý và đạo đức. 
+PI 3.1: Thể hiện được hiểu biết các lý thuyết và các quy 
+định thực thi đạo đức cơ bản quan trọng trong hoạt động 
+Trí tuệ nhân tạo; Nhận thức được các kết quả về đạo đức 
+của các quyết định và các hành động trong lĩnh vực Trí 
+tuệ nhân tạo ; Đảm bảo tuân thủ các quy định pháp lý 
+trong thiết kế và cài đặt hệ thống. 
+PI 3.2: Cho thấy được tính minh bạch trong các công 
+việc liên quan đến báo cáo lỗi, các hạn chế hoặc các xung 
+đột lợi ích trong công việc về Trí tuệ nhân tạo; Chịu trách 
+nhiệm cho các quyệt định và các kết quả của các dự án 
+hoặc các nhiệm vụ. 
+LO4: Hoạt động hiệu quả 
+với tư cách là thành viên 
+hoặc lãnh đạo một nhóm 
+tham gia vào các hoạt động 
+phù hợp với chuyên môn trí 
+tuệ nhân tạo. 
+PI 4.1: Phối hợp, chia sẻ công việc trong một nhóm. 
+PI 4.2: Hoàn thành nhiệm vụ trong các vai trò khác nhau 
+của nhóm. 
+LO5: Thực hiện được một 
+công đoạn của quy trình phát 
+triển một dự án về Trí tuệ 
+nhân tạo. 
+PI 5.1: Xác định được mong muốn và yêu cầu của người 
+dùng trong việc phát triển mô hình Trí tuệ nhân tạo  
+và/hoặc phần mềm ứng dụng Trí tuệ nhân tạo. 
+PI 5.2: Có thể tham gia vào ít nhất một trong các công 
+đoạn: phân tích yêu cầu, thiết kế, cài đặt, kiểm thử và 
+triển khai mô hình Trí tuệ nhân tạo  và/hoặc phần mềm  
+ứng dụng Trí tuệ nhân tạo. 
+
+### Trang 4
+
+4 
+ 
+Chuẩn đầu ra (LOs) Chỉ báo (PIs) 
+PI 5.3: Có thể viết tài liệu dự án phát triển mô hình Trí 
+tuệ nhân tạo  và/hoặc phần mềm  ứng dụng Trí  tuệ nhân 
+tạo. 
+3. MA TRẬN CHUẨN ĐẦU RA VỚI MỤC TIÊU ĐÀO TẠO 
+TT 
+CĐR 
+ 
+Mục tiêu LO1 LO2 LO3 LO4 LO5 
+1 PO1 H L L L H 
+2 PO2 M L H M M 
+3 PO3 M H H H M 
+4 PO4 H L L L H 
+Chú thích về mức độ liên kết giữa Chuẩn đầu ra và Mục tiêu đào tạo: 
+− H: Mức cao 
+− M: Mức trung bình 
+− L: Mức thấp 
+Liên kết giữa nhóm kiến thức và chuẩn đầu ra: 
+ 
+Dựa trên chương trình học "Computer Science Curricula 2023" của đội ngũ Association 
+for Computing Machinery (ACM), liên kết với IEEE -Computer Society (IEEE -CS) và 
+Association for the Advancement of Artificial Intelligence (AAAI), chương trình ngành 
+TTNT được xây dựng và chia thành 5 khối kiến thức chính: 
+
+
+### Trang 5
+
+5 
+ 
+1. Lập trình: Sinh viên sẽ nắm vững nền tảng về các khái niệm lập trình cơ bản, bao 
+gồm biến, kiểu dữ liệu, toán t ử, luồng điều khi ển và hàm, t ừ đó có th ể viết các 
+chương trình đơn giản và giải quyết các vấn đề lập trình cơ bản. Sinh viên sẽ thành 
+thạo trong việc sử dụng các cấu trúc dữ liệu thiết yếu như m ảng, danh sách và t ừ 
+điển, hiểu cách l ựa chọn và tri ển khai c ấu trúc phù h ợp cho t ừng bài toán c ụ thể. 
+Ngoài ra, sinh viên s ẽ học về các thuật toán thông d ụng như tìm ki ếm và sắp xếp, 
+đồng thời có được sự hiểu biết cơ bản về độ phức tạp thuật toán và ảnh hưởng của 
+nó đến hiệu suất chương trình. 
+Với trọng tâm là các kỹ năng lập trình tốt, sinh viên sẽ phát triển kỹ năng kiểm thử, 
+gỡ lỗi và viết sao cho dễ đọc, dễ bảo trì, đồng thời sử dụng các môi trường phát triển 
+tích hợp (IDE) đa năng và các công c ụ liên quan như công c ụ phát hiện và gỡ lỗi 
+(debugger). Hơn nữa, họ sẽ áp dụng các thuật toán khác nhau đ ể giải quyết nhiều 
+vấn đề, đánh giá mức độ phù hợp của các phương pháp tiếp cận khác nhau dựa trên 
+các yêu cầu và ràng buộc cụ thể. 
+2. Toán và giải thuật: Sinh viên sẽ được Trang bị kiến thức cơ bản và nâng cao v ề 
+thuật toán như toán r ời rạc, xác suất, thống kê, đại số tuyến tính, các thuật toán và 
+chiến lược, độ phức tạp. Sinh viên sẽ học cách thiết kế các thuật toán hiệu quả bằng 
+cách sử dụng các chiến lược như chia đ ể trị và lập trình động, đồng thời hiểu sâu 
+hơn về độ phức tạp thuật toán và giới hạn tính toán. 
+3. Khai phá và trực quan hóa dữ liệu: Sinh viên sẽ nắm vững quy trình vòng đời dữ 
+liệu. Kiến thức này là rất quan trọng để quản lý quy mô và độ phức tạp của các tập 
+dữ liệu lớn, một yếu tố cốt lõi trong "khai thác dữ liệu lớn" (Big Data mining). Sinh 
+viên sẽ khám phá các hệ thống NoSQL và hiểu được những lợi ích của chúng trong 
+việc xử lý dữ liệu phi cấu trúc và dữ liệu bán cấu trúc, tìm hiểu về các kho dữ liệu 
+dạng cặp khóa-giá trị, cơ sở dữ liệu tài liệu và cơ sở dữ liệu đồ thị. 
+Sinh viên cũng sẽ nghiên cứu các phương pháp quản lý khối lượng dữ liệu lớn, bao 
+gồm cơ sở dữ liệu phân tán và hệ thống đám mây, điều cần thiết cho việc xử lý và 
+phân tích các tập dữ liệu lớn. Các khái niệm phân tích dữ liệu sẽ được đề cập, thông 
+qua đó, sinh viên sẽ phát triển kỹ năng quản lý và xử lý các tập dữ liệu lớn một cách 
+hiệu quả, lựa chọn các công cụ lưu trữ và xử lý dữ liệu phù hợp và trực quan hóa dữ 
+liệu một cách hợp lý. 
+4. Học máy: Sinh viên sẽ phát triển sự hiểu biết toàn diện về học máy bằng cách học 
+cách định nghĩa và minh họa các nhiệm vụ đa dạng như học có giám sát, học không 
+giám sát, đồng thời xác định loại phù hợp cho các vấn đề cụ thể. Sinh viên sẽ nắm 
+vững các khái niệm chính, bao gồm định lý "no free lunch", cũng như h ọc cách áp 
+dụng hiệu quả các thuật toán học có giám sát đơn gi ản như hồi quy tuy ến tính và 
+cây quyết định. 
+Sinh viên sẽ hiểu và giải quyết vấn đề quá khớp (overfitting), đồng thời thành thạo 
+trong vi ệc đánh giá mô hình thông qua các ch ỉ số hiệu su ất, ma tr ận nh ầm l ẫn 
+(confusion matrix) và phương pháp ki ểm định chéo (cross -validation). Phần giới 
+
+### Trang 6
+
+6 
+ 
+thiệu về mạng nơ-ron sẽ bao gồm cấu trúc, quá trình hu ấn luyện và ứng dụng của 
+chúng. 
+Sinh viên sẽ khám phá các vấn đề đạo đức trong học máy, chẳng hạn như thiên vị, 
+quyền riêng tư, tính công b ằng và kh ả năng giải thích, thông qua các nghiên c ứu 
+tình huống thực tế. Cuối cùng, họ sẽ áp dụng các kỹ thuật học máy để giải quyết các 
+vấn đề cơ bản sử dụng học máy trong y học, kinh tế. 
+5. Học sâu: cung cấp cho sinh viên nền tảng vững chắc về mạng nơron, tập trung vào 
+cấu trúc, chức năng và quy trình huấn luyện của chúng. Sinh viên sẽ được giới thiệu 
+về mạng nơron sinh (generative neural networks), hiểu về khả năng của chúng trong 
+việc tạo ra nội dung như văn bản, hình ảnh và âm nhạc. 
+Chương trình bao g ồm các ki ến trúc h ọc sâu cơ b ản, chẳng hạn như m ạng truyền 
+thẳng sâu (deep feed-forward networks), minh họa cách thông tin đư ợc truyền qua 
+các lớp để trích xuất các đặc trưng phức tạp, và mạng nơron tích chập (CNNs), rất 
+hiệu quả trong việc xử lý các cấu trúc dữ liệu dạng lưới và đặc biệt hữu ích cho nhận 
+diện hình ảnh và thị giác máy tính. Sinh viên cũng sẽ học cách trực quan hóa và giải 
+thích các biểu diễn đặc trưng mà mạng nơron sâu đã h ọc được, từ đó cung cấp cái 
+nhìn về cách mô hình hoạt động. 
+Từ các khối kiến thức tổng hợp được như trên, các môn trong chương trình có thể được 
+nhóm lại thành 5 nhóm kiến thức chính như sau: 
+1. Toán và khối kiến thức chung: Giải tích 1, Giải tích 2, Đại số tuyến tính, Xác suất 
+thống kê, Vật lý ứng dụng, Khối kiến thức chung 
+2. Cơ sở Khoa học máy tính: Kiến trúc máy tính, Mạng máy tính, Cơ sở dữ liệu, Điện 
+tử số, Xử lý ảnh, Các hệ thống phân tán, Cấu trúc dữ liệu và giải thuật, nhập môn 
+Công nghệ phần mềm, Toán rời rạc, Lý thuyết đồ thị 
+3. Lập trình: Phương pháp lập trình cơ bản, Lập trình Python cơ bản, Lập trình hướng 
+đối tượng, Lập trình Web, Lập trình song song 
+4. Cơ sở Trí tuệ nhân tạo: Trí tu ệ nhân tạo cơ b ản, Khoa h ọc dữ liệu cơ b ản, Học 
+máy, Học sâu, Khai phá d ữ liệu lớn, Đạo đức và chính sách TTNT, N ền tảng phát 
+triển TTNT, Truy xuất thông tin, Thực tập cơ sở. 
+5. Chuyên ngành Trí tuệ nhân tạo: Phân tích dữ liệu chuỗi thời gian, Thị giác máy 
+tính, Xử lý ngôn ngữ tự nhiên, Trí tuệ nhân tạo cho an toàn bảo mật thông tin, Học 
+tăng cường và ứng dụng, Mô hình h ọc máy đ ồ thị và ứng dụng, Hệ khuyến nghị, 
+Mô hình tạo sinh, Công cụ triển khai và vận hành ứng dụng TTNT, Phát triển ứng 
+dụng TTNT, Nhập môn robotics, IoT và ứng dụng, Mô hình ngôn ng ữ lớn, TTNT 
+cho tính toán biên 
+4. BẢN ĐỒ CHƯƠNG TRÌNH DẠY HỌC (Instruction on Designing Curriculum 
+Map) Chi tiết kèm theo 
+ 

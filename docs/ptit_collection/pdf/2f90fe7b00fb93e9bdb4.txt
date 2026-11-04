@@ -1,0 +1,85 @@
+### Trang 1
+
+1  
+NỘI DUNG SPhO 
+I. LỰC VÀ CHUYỂN ĐỘNG 
+1. Ba định luật Newton về chuyển động. 
+2. Các định lý động lượng; định luật bảo toàn động lượng. 
+3. Chuyển động của vật rắn. 
+4. Moment lực; moment quán tính. 
+5. Thế năng, động năng. 
+6. Định lý động năng; bảo toàn cơ năng. 
+7. Va chạm. 
+8. Động năng vật rắn. 
+9. Moment động lượng, định luật bảo toàn moment động lượng. 
+10. Lực hấp dẫn và thế hấp dẫn. 
+11. Chuyển động trong trường hấp dẫn. 
+II. DAO ĐỘNG VÀ SÓNG 
+1. Khái niệm về dao động, các đại lượng đặc trưng của dao động. 
+2. Khái niệm về sóng, các đại lượng đặc trưng của sóng. 
+3. Hiệu ứng Doppler. 
+III. KHÍ LÝ TƯỞNG 
+1. Phương trình trạng thái khí lý tưởng. 
+2. Phương trình cơ bản thuyết động học phân tử. 
+3. Phân bố Maxwell. 
+4. Tốc độ trung bình, tốc độ căn trung bình bình phương, tốc độ có xác suất cực đại. 
+5. Phân bố Maxwell-Bolztmann. 
+6. Nội năng khí lý tưởng. 
+IV. NHIỆT ĐỘNG LỰC HỌC 
+1. Định lý I nhiệt động lực học. 
+2. Định lý II nhiệt động lực học. 
+3. Khái niệm entropy. 
+4. Biến thiên entropy của các quá trình của khí lý tưởng và quá trình chuyển thể đơn giản. 
+5. Chu trình Carnot; hiệu suất các chu trình. 
+V. KHÍ THỰC 
+1. Phương trình Van der Waals. 
+2. Nội năng của khí thực; hiệu ứng Joule-Thompson. 
+VI. TRƯỜNG ĐIỆN 
+1. Định luật Coulomb. 
+2. Điện thông; điện cảm; định lý O-G đối với điện trường. 
+3. Điện trường, cường độ điện trường, điện thế. 
+4. Trạng thái cân bằng tĩnh điện. 
+5. Hiện tượng điện hưởng. 
+6. Điện dung vật dẫn, điện dung tụ điện. 
+7. Năng lượng điện trường. 
+
+### Trang 2
+
+2  
+VII. TRƯỜNG TỪ 
+1. Tương tác từ của dòng điện. 
+2. Từ trường, cảm ứng từ, từ thông. 
+3. Lực từ, hạt tích điện chuyển động trong từ trường, momen lực từ; công của lực từ. 
+4. Sự từ hóa. 
+5. Chất thuận từ, nghịch từ, sắt từ. 
+VIII. CẢM ỨNG ĐIỆN TỪ 
+1. Hiện tượng cảm ứng điện từ. 
+2. Các định luật cảm ứng điện từ. 
+3. Hiện tượng tự cảm. 
+4. Năng lượng từ trường. 
+IX. DAO ĐỘNG VÀ SÓNG ĐIỆN 
+1. Dao động điện từ riêng. 
+2. Dao động điện từ tắt dần. 
+3. Dao động điện từ cưỡng bức và hiện tượng cộng hưởng. 
+4. Các phương trình Maxwell, sóng điện từ. 
+5. Sự phát xạ các sóng điện từ; phổ điện từ. 
+X. QUANG HỌC SÓNG 
+1. Giao thoa ánh sáng. 
+2. Nhiễu xạ Fresnel, nhiễu xạ một khe và phân bố cường độ trong nhiễu xạ một khe; nhiễu 
+xạ tia X trên tinh thể. 
+3. Nhiễu xạ nhiều khe; cách tử nhiễu xạ. 
+4. Phân cực ánh sáng: hiện tượng, định luật Malus và độ phân cực. 
+5. Laser và ứng dụng 
+XI. LƯỢNG TỬ ÁNH SÁNG 
+1. Thuvết lượng tử ánh sáng. 
+2. Hiệu ứng quang điện. 
+3. Hiệu ứng Compton, nhiễu xạ electron. 
+4. Bức xạ vật đen; định luật Stefan-Boltzmann; công thức Planck. 
+5. Sóng de Broglie. 
+XII. VẬT LÝ NGUYÊN TỬ VÀ HẠT NHÂN 
+1. Mẫu Bohr của nguyên tử hydrogen. 
+2. Các trạng thái lượng tử của nguyên tử hydrogen. 
+3. Sự lượng tử hóa của mômen động lượng và mômen từ, hiệu ứng Zeemann thường. 
+4. Năng lượng liên kết hạt nhân. 
+5. Hiện tượng phóng xạ. 
+6. Phản ứng hạt nhân. 

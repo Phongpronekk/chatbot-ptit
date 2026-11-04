@@ -1,0 +1,127 @@
+{
+  "id": 33455,
+  "date": "2026-09-09T03:07:12",
+  "date_gmt": "2026-09-09T03:07:12",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33455"
+  },
+  "modified": "2026-09-09T03:07:12",
+  "modified_gmt": "2026-09-09T03:07:12",
+  "slug": "thong-bao-ve-viec-thu-ho-so-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-1-nam-hoc-2026-2027",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/09/09/thong-bao-ve-viec-thu-ho-so-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/",
+  "title": {
+    "rendered": "Thông báo về việc thu hồ sơ miễn, giảm học phí và hỗ trợ chi phí học tập Học kỳ 1 năm học 2026 &#8211; 2027"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Nghị quyết số 22/NQ-HĐHV ngày 12/4/2021 của Hội đồng học viện Học viện Công nghệ Bưu chính Viễn thông về việc việc Ban hành quy chế tổ chức hoạt động của Học viện Công nghệ Bưu chính Viễn thông và Nghị quyết số 191/NQ-HĐHV ngày 24/4/2025 của Hội đồng học viện Học viện Công nghệ Bưu chính Viễn thông về việc việc điều chỉnh quy chế tổ chức hoạt động của Học viện Công nghệ Bưu chính Viễn thông;</p>\n<p>Căn cứ Nghị định số 238/2025/NĐ-CP ngày 03/09/2025 quy định về chính sách học phí, miễn, giảm, hỗ trợ học phí, hỗ trợ chi phí học tập và giá dịch vụ trong lĩnh vực giáo dục, đào tạo;</p>\n<p>Căn cứ Quyết định số 66/2013/QĐ-TTg ngày 11/11/2013 về việc quy định chính sách hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số học tại các cơ sở giáo dục đại học;</p>\n<p>Căn cứ Nghị định số 57/2017/NĐ-CP ngày 9/5/2017 của Chính phủ về viêc quy định chính sách ưu tiên tuyển sinh và hỗ trợ học tập đối với trẻ mẫu giáo, học sinh sinh viên dân tộc thiểu số rất ít người;</p>\n<p>Căn cứ Quyết định số 542/QĐ-HV ngày 13/03/2026 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông, về việc ban hành Quy định về tạo lập, quản lý và sử dụng Quỹ học bổng và hỗ trợ người học của Học viện Công nghệ Bưu chính Viễn thông.</p>\n<p>Để có sơ sở thực hiện chế độ miễn, giảm học phí và hỗ trợ chi phí học tập học kỳ 1 năm học 2026 &#8211; 2027 đối với các đối tượng là sinh viên hệ đại học chính quy tại các cơ sở đào tạo của Học viện<strong>, </strong>Học viện thông báo hướng dẫn sinh viên nộp hồ sơ miễn, giảm học phí và hỗ trợ chi phí học tập về Học viện, cụ thể như sau: Vui lòng đọc file đính kèm:</p>\n<p><a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/1554.TB-thu-HS-MGHP-ky-126-27.pdf\">1554.TB thu HS MGHP kỳ 1(26-27)</a></p>\n<p>Trân trọng./.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Nghị quyết số 22/NQ-HĐHV ngày 12/4/2021 của Hội đồng học viện Học viện Công nghệ Bưu chính Viễn thông về việc việc Ban hành quy chế tổ chức hoạt động của Học viện Công nghệ Bưu chính Viễn thông và Nghị quyết số 191/NQ-HĐHV ngày 24/4/2025 của Hội đồng học viện Học viện [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 92,
+  "featured_media": 33457,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19,
+    17
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33455",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-tin-tuc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33455",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/92"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33455"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33455/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33458,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33455/revisions/33458"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33457"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33455"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33455"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33455"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

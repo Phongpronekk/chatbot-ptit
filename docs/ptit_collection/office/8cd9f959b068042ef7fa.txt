@@ -1,0 +1,114 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO 
+TRÌNH ĐỘ THẠC SĨ NGÀNH QUẢN TRỊ KINH DOANH
+(Kèm theo Quyết định số      /QĐ-HV ngày     tháng     năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt): Quản trị kinh doanh
+- Tên ngành (tiếng Anh): Business Administration 
+- Trình độ đào tạo: Thạc sĩ
+- Định hướng chương trình:Định hướng ứng dụng
+- Mã ngành: 8340101 
+- Thời gian đào tạo: 1,5 – 2,0 năm
+2. MỤC TIÊU ĐÀO TẠO
+2.1. Mục tiêu chung (Goals)
+Chương trình đào tạo Thạc sĩ Quản trị kinh doanh (MBA) của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo nhà quản trị chất lượng cao, có nền tảng kiến thức quản trị hiện đại, đáp ứng yêu cầu của nền kinh tế số và hội nhập quốc tế; có năng lực chuyên sâu về quản trị, đổi mới sáng tạo và khởi nghiệp, thiết kế, triển khai và đánh giá các giải pháp phát triển kinh doanh bền vững, có trách nhiệm, phù hợp với định hướng đại học số và đổi mới sáng tạo của Học viện.
+2.2. Mục tiêu cụ thể (Program Objectives - POs)
+PO1. Phát triển kiến thức quản trị hiện đại và năng lực phân tích bối cảnh kinh doanh trong môi trường số và hội nhập quốc tế.
+Trang bị cho người học nền tảng kiến thức quản trị kinh doanh hiện đại và năng lực phân tích bối cảnh kinh doanh trong môi trường số và hội nhập quốc tế, làm cơ sở cho việc hoạch định và thực thi các quyết định quản trị hiệu quả.
+PO2. Phát triển năng lực quản trị chiến lược, đổi mới sáng tạo và khởi nghiệp.
+Phát triển cho người học năng lực quản trị chiến lược, tư duy đổi mới sáng tạo và khởi nghiệp, giúp họ thiết kế, triển khai và đánh giá các mô hình, giải pháp phát triển kinh doanh phù hợp với môi trường cạnh tranh và biến động.
+PO3. Phát triển năng lực lãnh đạo, quản trị sự thay đổi và dẫn dắt chuyển đổi số trong tổ chức.
+Hình thành cho người học năng lực lãnh đạo, quản trị sự thay đổi và dẫn dắt quá trình chuyển đổi số trong tổ chức thông qua việc ứng dụng công nghệ số, dữ liệu và các công cụ quản trị hiện đại nhằm nâng cao hiệu quả hoạt động và năng lực cạnh tranh của doanh nghiệp.
+PO4. Phát triển năng lực ra quyết định quản trị có trách nhiệm và hướng tới phát triển bền vững.
+Phát triển cho người học năng lực ra quyết định quản trị dựa trên đạo đức nghề nghiệp, trách nhiệm xã hội và tư duy phát triển bền vững, biết đánh giá và cân bằng giữa hiệu quả kinh tế, trách nhiệm xã hội và bảo vệ môi trường, góp phần vào sự phát triển bền vững của doanh nghiệp và xã hội.
+2.3. Vị trí làm việc sau tốt nghiệp
+- Có khả năng tham gia và giải quyết tốt những vấn đề nghiên cứu cơ bản cũng như ứng dụng trong lĩnh vực Quản trị Kinh doanh.
+- Có khả năng trở thành các doanh nhân, các nhà lãnh đạo, các chuyên gia trong lĩnh vực kinh tế, kinh doanh và quản lý tại các doanh nghiệp, các tổ chức kinh tế - xã hội, cơ quan quản lý nhà nước có liên quan; có khả năng làm việc trong các doanh nghiệp, tổ chức nước ngoài, trong môi trường hội nhập kinh tế quốc tế.
+- Có khả năng tự tạo lập hoặc cùng liên kết để khởi sự thành lập doanh nghiệp và tìm kiếm cơ hội kinh doanh riêng làm giàu cho bản thân và mang lại nhiều giá trị cho xã hội.
+- Có khả năng trở thành các cán bộ giảng dạy, cán bộ nghiên cứu khoa học tại các cơ sở giáo dục đại học và viện nghiên cứu liên quan đến lĩnh vực kinh tế, kinh doanh và quản lý.
+- Có thể tiếp tục theo học chương trình đào tạo tiến sĩ Quản trị Kinh doanh, tiến sĩ các lĩnh vực Kinh doanh và Quản lý ở trong nước hoặc ở ngoài nước theo những chuyên ngành phù hợp.
+3. CHUẨN ĐẦU RA (Learning Outcomes – PLOs)
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1. Khả năng tích hợp kiến thức và phân tích quản trị kinh doanh hiện đại
+ Người học có khả năng tích hợp kiến thức quản trị kinh doanh hiện đại để phân tích, đánh giá và phát triển các giải pháp quản trị sáng tạo cho các vấn đề kinh doanh trong môi trường số và hội nhập quốc tế.
+
+C6, P4
+PI1.1 – Phân tích và đánh giá có hệ thống bối cảnh kinh doanh
+Người học phân tích và đánh giá một cách có hệ thống bối cảnh, xu hướng và vấn đề kinh doanh phức tạp trong môi trường số và hội nhập quốc tế, làm rõ nguyên nhân, mối quan hệ và tác động đa chiều đến hoạt động quản trị doanh nghiệp.
+PI1.2 – Phát triển giải pháp quản trị sáng tạo dựa trên tích hợp kiến thức quản trị kinh doanh 
+Người học tích hợp kiến thức quản trị kinh doanh, dữ liệu và công cụ phân tích hiện đại để đề xuất và phát triển các giải pháp quản trị mới hoặc cải tiến, phù hợp với bối cảnh thực tiễn và có tính khả thi trong doanh nghiệp.
+PI1.3 – Vận dụng giải pháp vào việc ra quyết định quản trị 
+Người học vận dụng các giải pháp quản trị đã phát triển để lập luận, lựa chọn và bảo vệ quyết định quản trị trong các tình huống kinh doanh thực tế hoặc mô phỏng, thể hiện năng lực thực hành nghề nghiệp ở mức độ cao và độc lập.
+PLO2. Quản trị chiến lược và phát triển kinh doanh 
+Người học có khả năng xây dựng và triển khai chiến lược, đề xuất các giải pháp phát triển kinh doanh hiệu quả. 
+C5, P4
+PI2.1 - Phân tích và đánh giá môi trường chiến lược
+Phân tích và đánh giá bối cảnh cạnh tranh, nguồn lực và năng lực cốt lõi của tổ chức để xây dựng hoặc điều chỉnh chiến lược kinh doanh phù hợp.
+PI2.2 - Xây dựng và lựa chọn phương án chiến lược và giải pháp phát triển kinh doanh
+Vận dụng thành thạo các mô hình và công cụ quản trị chiến lược hiện đại để xây dựng và lựa chọn các phương án chiến lược và giải pháp phát triển kinh doanh phù hợp. 
+PI2.3 - Triển khai, theo dõi và điều chỉnh chiến lược
+Triển khai và đề xuất biện pháp theo dõi, đánh giá hiệu quả thực hiện hiệu quả chiến lược kinh doanh của tổ chức.
+PLO3. Đổi mới sáng tạo và khởi nghiệp 
+Người học có khả năng thiết kế các mô hình kinh doanh đổi mới sáng tạo và dự án khởi nghiệp phù hợp với kinh tế số và nhu cầu thị trường, thể hiện tinh thần chủ động, sáng tạo và sẵn sàng chấp nhận rủi ro.
+
+C5, P3, A3
+PI3.1 – Nhận thức & đánh giá
+Người học phân tích và đánh giá được các mô hình kinh doanh đổi mới sáng tạo và xu hướng khởi nghiệp trong bối cảnh kinh tế số, trên cơ sở nhu cầu thị trường và điều kiện thực tiễn của doanh nghiệp.
+PI3.2  – Kỹ năng thực hành ở mức cao
+Người học vận dụng linh hoạt các công cụ đổi mới sáng tạo để thiết mô hình kinh doanh hoặc dự án khởi nghiệp.
+PI3.3 – Thái độ và trách nhiệm nghề nghiệp
+Người học thể hiện tinh thần chủ động, sáng tạo và sẵn sàng chấp nhận rủi ro có kiểm soát, tuân thủ đạo đức kinh doanh và trách nhiệm xã hội trong quá trình phát triển mô hình kinh doanh hoặc dự án khởi nghiệp.
+PLO4. Lãnh đạo và quản trị chuyển đổi số 
+Người học có khả năng quản trị quá trình chuyển đổi số nhằm nâng cao hiệu quả hoạt động của tổ chức.
+C5, P4
+PI4.1  – Phân tích và đánh giá chuyển đổi số 
+Người học phân tích và đánh giá được mức độ sẵn sàng chuyển đổi số của tổ chức, nhận diện cơ hội, thách thức và rủi ro trong quá trình chuyển đổi số.
+PI4.2 – Lãnh đạo quá trình chuyển đổi số 
+Người học có khả năng lãnh đạo, điều hành quá trình chuyển đổi số nhằm nâng cao hiệu quả hoạt động của tổ chức.
+ PLO5. Ra quyết định quản trị có trách nhiệm và hướng tới phát triển bền vững 
+Người học có khả năng vận dụng các công cụ phân tích để ra quyết định quản trị có trách nhiệm và hướng tới phát triển bền vững.
+P4, A3
+PI5.1 – Vận dụng thành thạo các công cụ phân tích
+Người học vận dụng thành thạo các công cụ phân tích để ra quyết định quản trị trong các tình huống kinh doanh cụ thể.
+PI5.2 – Thể hiện thái độ cam kết và trách nhiệm nghề nghiệp
+Người học thể hiện thái độ cam kết và trách nhiệm nghề nghiệp khi ra quyết định quản trị, tuân thủ chuẩn mực đạo đức, tôn trọng lợi ích các bên liên quan và chủ động cân nhắc tác động xã hội – môi trường trong hoạt động kinh doanh hướng tới phát triển bền vững.
+4. MA TRẬN CHUẨN ĐẦU RA VỚI MỤC TIÊU ĐÀO TẠO
+TT
+             Mục tiêu
+CĐR
+PO1
+PO2
+PO3
+PO4
+1
+PLO1
+H
+
+
+
+2
+PLO2
+
+H
+
+
+3
+PLO3
+
+H
+
+
+4
+PLO4
+
+
+H
+
+5
+PLO5
+
+
+
+H

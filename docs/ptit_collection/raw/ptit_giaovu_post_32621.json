@@ -1,0 +1,123 @@
+{
+  "id": 32621,
+  "date": "2025-04-22T11:29:30",
+  "date_gmt": "2025-04-22T04:29:30",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32621"
+  },
+  "modified": "2025-04-23T03:00:11",
+  "modified_gmt": "2025-04-22T20:00:11",
+  "slug": "dieu-chinh-lich-giang-day-hoc-tap-sang-thu-5-ngay-24-5-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/dieu-chinh-lich-giang-day-hoc-tap-sang-thu-5-ngay-24-5-2025/",
+  "title": {
+    "rendered": "Điều chỉnh lịch giảng dạy – học tập sáng thứ 5 ngày 24/4/2025"
+  },
+  "content": {
+    "rendered": "<p>Thực hiện ý kiến chỉ đạo của Lãnh đạo Học viện về việc phối hợp tổ chức Lễ phát động thi đua “Cả nước thi đua đổi mới sáng tạo và chuyển đổi số” do Ban Thi đua Khen thưởng Trung ương tổ chức sáng thứ năm ngày 24/4/2025. Căn cứ Kế hoạch giảng dạy &#8211; học tập học kỳ II năm học 2024 &#8211; 2025 của Học viện.</p>\n<p>Phòng Giáo vụ thông báo điều chỉnh kế hoạch giảng dạy &#8211; học tập <strong>buổi sáng thứ Năm ngày 24/4/2025 (tiết 1, 2, 3, 4, 5)</strong> đối với một số lớp tại Cơ sở Hà Đông như sau:</p>\n<ol>\n<li>Các lớp còn tuần dự phòng sẽ được nghỉ và học bù vào tuần dự phòng: Lịch học được cập nhật cụ thể trên hệ thống QLĐT (https://qldt.ptit.edu.vn) trước 17h00 ngày 22/4/2025.</li>\n<li>Các lớp không còn tuần dự phòng sẽ học bình thường;</li>\n</ol>\n<p>Phòng Giáo vụ đề nghị giảng viên, sinh viên có lịch dạy/học trong sáng thứ Năm 24/4/2024 hạn chế sử dụng phương tiện cá nhân theo thông báo của Văn phòng Học viện. Sinh viên đi xe máy di chuyển theo hướng dẫn của Tổ bảo vệ (đi vào ở cổng chính, ra ở cổng phụ KTX B2) và nghiêm túc thực hiện theo các hướng dẫn về việc di chuyển trong khuôn viên Học viện.</p>\n<p>Trân trọng!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thực hiện ý kiến chỉ đạo của Lãnh đạo Học viện về việc phối hợp tổ chức Lễ phát động thi đua “Cả nước thi đua đổi mới sáng tạo và chuyển đổi số” do Ban Thi đua Khen thưởng Trung ương tổ chức sáng thứ năm ngày 24/4/2025. Căn cứ Kế hoạch giảng dạy [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32449,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32621",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32621",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32621"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32621/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32449"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32621"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32621"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32621"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

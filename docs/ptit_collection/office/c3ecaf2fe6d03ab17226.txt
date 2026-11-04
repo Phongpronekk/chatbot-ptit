@@ -1,0 +1,1303 @@
+### sheet1.xml
+A1: Đại đội | B1: Phòng  | C1: MSV | D1: Họ và tên | E1: Giới tính | F1: Mã Lớp | G1: Tên ngành học | H1: Ghi chú
+A2: 1 | B2: Thông báo khi đến TTGDQP | C2: B25DCAE001 | D2: Lường Trung Anh | E2: Nam | F2: D25CQAE01-B | G2: An toàn thông tin (chất lượng cao) | H2: C Trưởng: Thầy Phạm Hải Hiệp; TS: 160, chia làm 3B; 8A 
+A3: 1 | C3: B25DCAE004 | D3: Nguyễn Đức Anh | E3: Nam | F3: D25CQAE01-B | G3: An toàn thông tin (chất lượng cao)
+A4: 1 | C4: B25DCAE007 | D4: Vũ Việt Anh | E4: Nam | F4: D25CQAE01-B | G4: An toàn thông tin (chất lượng cao)
+A5: 1 | C5: B25DCAE010 | D5: Nguyễn Xuân Bách | E5: Nam | F5: D25CQAE01-B | G5: An toàn thông tin (chất lượng cao)
+A6: 1 | C6: B25DCAE013 | D6: Đặng Thái Bình | E6: Nam | F6: D25CQAE01-B | G6: An toàn thông tin (chất lượng cao)
+A7: 1 | C7: B25DCAE016 | D7: Nguyễn Lê Đức Duy | E7: Nam | F7: D25CQAE01-B | G7: An toàn thông tin (chất lượng cao)
+A8: 1 | C8: B25DCAE019 | D8: Nguyễn Quang Dũng | E8: Nam | F8: D25CQAE01-B | G8: An toàn thông tin (chất lượng cao)
+A9: 1 | C9: B25DCAE022 | D9: Bùi An Hiếu | E9: Nam | F9: D25CQAE01-B | G9: An toàn thông tin (chất lượng cao)
+A10: 1 | C10: B25DCAE025 | D10: Nguyễn Xuân Hiển | E10: Nam | F10: D25CQAE01-B | G10: An toàn thông tin (chất lượng cao)
+A11: 1 | C11: B25DCAE028 | D11: Lê Đông Hà | E11: Nam | F11: D25CQAE01-B | G11: An toàn thông tin (chất lượng cao)
+A12: 1 | C12: B25DCAE031 | D12: Lê Vũ Quang Hưng | E12: Nam | F12: D25CQAE01-B | G12: An toàn thông tin (chất lượng cao)
+A13: 1 | C13: B25DCAE032 | D13: Nguyễn Đình Hưng | E13: Nam | F13: D25CQAE01-B | G13: An toàn thông tin (chất lượng cao)
+A14: 1 | C14: B25DCAE034 | D14: Hà Anh Khoa | E14: Nam | F14: D25CQAE01-B | G14: An toàn thông tin (chất lượng cao)
+A15: 1 | C15: B25DCAE037 | D15: Lê Nam Khánh | E15: Nam | F15: D25CQAE01-B | G15: An toàn thông tin (chất lượng cao)
+A16: 1 | C16: B25DCAE040 | D16: Đinh Quang Khánh | E16: Nam | F16: D25CQAE01-B | G16: An toàn thông tin (chất lượng cao)
+A17: 1 | C17: B25DCAE043 | D17: Nguyễn Trung Kiên | E17: Nam | F17: D25CQAE01-B | G17: An toàn thông tin (chất lượng cao)
+A18: 1 | C18: B25DCAE046 | D18: Nguyễn Hải Linh | E18: Nam | F18: D25CQAE01-B | G18: An toàn thông tin (chất lượng cao)
+A19: 1 | C19: B25DCAE049 | D19: Trần Minh Long | E19: Nam | F19: D25CQAE01-B | G19: An toàn thông tin (chất lượng cao)
+A20: 1 | C20: B25DCAE052 | D20: Đỗ Khắc Lâm | E20: Nam | F20: D25CQAE01-B | G20: An toàn thông tin (chất lượng cao)
+A21: 1 | C21: B25DCAE055 | D21: Hoàng Nguyễn Tiến Minh | E21: Nam | F21: D25CQAE01-B | G21: An toàn thông tin (chất lượng cao)
+A22: 1 | C22: B25DCAE058 | D22: Nguyễn Ngọc Minh | E22: Nam | F22: D25CQAE01-B | G22: An toàn thông tin (chất lượng cao)
+A23: 1 | C23: B25DCAE061 | D23: Nguyễn Văn Minh | E23: Nam | F23: D25CQAE01-B | G23: An toàn thông tin (chất lượng cao)
+A24: 1 | C24: B25DCAE064 | D24: Trương Quang Minh | E24: Nam | F24: D25CQAE01-B | G24: An toàn thông tin (chất lượng cao)
+A25: 1 | C25: B25DCAE067 | D25: Vũ Hữu Minh | E25: Nam | F25: D25CQAE01-B | G25: An toàn thông tin (chất lượng cao)
+A26: 1 | C26: B25DCAE070 | D26: Đặng Quang Minh | E26: Nam | F26: D25CQAE01-B | G26: An toàn thông tin (chất lượng cao)
+A27: 1 | C27: B25DCAE073 | D27: Nguyễn Ngọc Phương Nam | E27: Nam | F27: D25CQAE01-B | G27: An toàn thông tin (chất lượng cao)
+A28: 1 | C28: B25DCAE076 | D28: Hoàng Tuấn Phong | E28: Nam | F28: D25CQAE01-B | G28: An toàn thông tin (chất lượng cao)
+A29: 1 | C29: B25DCAE079 | D29: Nguyễn Đức Pháp | E29: Nam | F29: D25CQAE01-B | G29: An toàn thông tin (chất lượng cao)
+A30: 1 | C30: B25DCAE082 | D30: Nguyễn Anh Quân | E30: Nam | F30: D25CQAE01-B | G30: An toàn thông tin (chất lượng cao)
+A31: 1 | C31: B25DCAE085 | D31: Nguyễn Đình Nam Sơn | E31: Nam | F31: D25CQAE01-B | G31: An toàn thông tin (chất lượng cao)
+A32: 1 | C32: B25DCAE088 | D32: Mai Tiến Thành | E32: Nam | F32: D25CQAE01-B | G32: An toàn thông tin (chất lượng cao)
+A33: 1 | C33: B25DCAE091 | D33: Đinh Đức Thịnh | E33: Nam | F33: D25CQAE01-B | G33: An toàn thông tin (chất lượng cao)
+A34: 1 | C34: B25DCAE094 | D34: Lê Xuân Trường | E34: Nam | F34: D25CQAE01-B | G34: An toàn thông tin (chất lượng cao)
+A35: 1 | C35: B25DCAE097 | D35: Lê Quốc Uy | E35: Nam | F35: D25CQAE01-B | G35: An toàn thông tin (chất lượng cao)
+A36: 1 | C36: B25DCAE100 | D36: Trần Tuấn Việt | E36: Nam | F36: D25CQAE01-B | G36: An toàn thông tin (chất lượng cao)
+A37: 1 | C37: B25DCAE103 | D37: Trần Hải Đăng | E37: Nam | F37: D25CQAE01-B | G37: An toàn thông tin (chất lượng cao)
+A38: 1 | C38: B25DCAE106 | D38: Phan Quang Đức | E38: Nam | F38: D25CQAE01-B | G38: An toàn thông tin (chất lượng cao)
+A39: 1 | C39: B25DCAE002 | D39: Nguyễn Nam Anh | E39: Nam | F39: D25CQAE02-B | G39: An toàn thông tin (chất lượng cao)
+A40: 1 | C40: B25DCAE005 | D40: Trần Phương Anh | E40: Nam | F40: D25CQAE02-B | G40: An toàn thông tin (chất lượng cao)
+A41: 1 | C41: B25DCAE008 | D41: Đỗ Nguyễn Quang Anh | E41: Nam | F41: D25CQAE02-B | G41: An toàn thông tin (chất lượng cao)
+A42: 1 | C42: B25DCAE011 | D42: Lục Thanh Bình | E42: Nam | F42: D25CQAE02-B | G42: An toàn thông tin (chất lượng cao)
+A43: 1 | C43: B25DCAE014 | D43: Nguyễn Gia Bảo | E43: Nam | F43: D25CQAE02-B | G43: An toàn thông tin (chất lượng cao)
+A44: 1 | C44: B25DCAE017 | D44: Đinh Xuân Duy | E44: Nam | F44: D25CQAE02-B | G44: An toàn thông tin (chất lượng cao)
+A45: 1 | C45: B25DCAE020 | D45: Nguyễn Tiến Dũng | E45: Nam | F45: D25CQAE02-B | G45: An toàn thông tin (chất lượng cao)
+A46: 1 | C46: B25DCAE023 | D46: Nguyễn Minh Hiếu | E46: Nam | F46: D25CQAE02-B | G46: An toàn thông tin (chất lượng cao)
+A47: 1 | C47: B25DCAE026 | D47: Bùi Tuấn Hoàng | E47: Nam | F47: D25CQAE02-B | G47: An toàn thông tin (chất lượng cao)
+A48: 1 | C48: B25DCAE029 | D48: Bùi Đức Hùng | E48: Nam | F48: D25CQAE02-B | G48: An toàn thông tin (chất lượng cao)
+A49: 1 | C49: B25DCAE035 | D49: Lương Gia Khoa | E49: Nam | F49: D25CQAE02-B | G49: An toàn thông tin (chất lượng cao)
+A50: 1 | C50: B25DCAE038 | D50: Nguyễn Gia Khánh | E50: Nam | F50: D25CQAE02-B | G50: An toàn thông tin (chất lượng cao)
+A51: 1 | C51: B25DCAE041 | D51: Lê Nguyên Khải | E51: Nam | F51: D25CQAE02-B | G51: An toàn thông tin (chất lượng cao)
+A52: 1 | C52: B25DCAE044 | D52: Phạm Huy Kiên | E52: Nam | F52: D25CQAE02-B | G52: An toàn thông tin (chất lượng cao)
+A53: 1 | C53: B25DCAE047 | D53: Bùi Bảo Long | E53: Nam | F53: D25CQAE02-B | G53: An toàn thông tin (chất lượng cao)
+A54: 1 | C54: B25DCAE050 | D54: Trần Đức Long | E54: Nam | F54: D25CQAE02-B | G54: An toàn thông tin (chất lượng cao)
+A55: 1 | C55: B25DCAE053 | D55: Nguyễn Minh Lương | E55: Nam | F55: D25CQAE02-B | G55: An toàn thông tin (chất lượng cao)
+A56: 1 | C56: B25DCAE056 | D56: Hoàng Đình Minh | E56: Nam | F56: D25CQAE02-B | G56: An toàn thông tin (chất lượng cao)
+A57: 1 | C57: B25DCAE059 | D57: Nguyễn Phúc Bảo Minh | E57: Nam | F57: D25CQAE02-B | G57: An toàn thông tin (chất lượng cao)
+A58: 1 | C58: B25DCAE062 | D58: Nhữ Duy Anh Minh | E58: Nam | F58: D25CQAE02-B | G58: An toàn thông tin (chất lượng cao)
+A59: 1 | C59: B25DCAE065 | D59: Trần Bảo Minh | E59: Nam | F59: D25CQAE02-B | G59: An toàn thông tin (chất lượng cao)
+A60: 1 | C60: B25DCAE068 | D60: Đào Huy Minh | E60: Nam | F60: D25CQAE02-B | G60: An toàn thông tin (chất lượng cao)
+A61: 1 | C61: B25DCAE071 | D61: Cao Cự Mạnh | E61: Nam | F61: D25CQAE02-B | G61: An toàn thông tin (chất lượng cao)
+A62: 1 | C62: B25DCAE074 | D62: Trần Lê Hoàng Nam | E62: Nam | F62: D25CQAE02-B | G62: An toàn thông tin (chất lượng cao)
+A63: 1 | C63: B25DCAE077 | D63: Nguyễn Vũ Tuấn Phong | E63: Nam | F63: D25CQAE02-B | G63: An toàn thông tin (chất lượng cao)
+A64: 1 | C64: B25DCAE080 | D64: Bùi Hồng Quang | E64: Nam | F64: D25CQAE02-B | G64: An toàn thông tin (chất lượng cao)
+A65: 1 | C65: B25DCAE083 | D65: Phạm Hoàng Quân | E65: Nam | F65: D25CQAE02-B | G65: An toàn thông tin (chất lượng cao)
+A66: 1 | C66: B25DCAE086 | D66: Trần Hải Sơn | E66: Nam | F66: D25CQAE02-B | G66: An toàn thông tin (chất lượng cao)
+A67: 1 | C67: B25DCAE089 | D67: Nguyễn Hữu Thắng | E67: Nam | F67: D25CQAE02-B | G67: An toàn thông tin (chất lượng cao)
+A68: 1 | C68: B25DCAE092 | D68: Phạm Trí | E68: Nam | F68: D25CQAE02-B | G68: An toàn thông tin (chất lượng cao)
+A69: 1 | C69: B25DCAE095 | D69: Nguyễn Quang Tuấn | E69: Nam | F69: D25CQAE02-B | G69: An toàn thông tin (chất lượng cao)
+A70: 1 | C70: B25DCAE098 | D70: Nguyễn Thành Vinh | E70: Nam | F70: D25CQAE02-B | G70: An toàn thông tin (chất lượng cao)
+A71: 1 | C71: B25DCAE104 | D71: Giáp Đức Đạt | E71: Nam | F71: D25CQAE02-B | G71: An toàn thông tin (chất lượng cao)
+A72: 1 | C72: B25DCAE107 | D72: Nguyễn Gia Khánh | E72: Nam | F72: D25CQAE02-B | G72: An toàn thông tin (chất lượng cao)
+A73: 1 | C73: B25DCAE003 | D73: Nguyễn Quang Anh | E73: Nam | F73: D25CQAE03-B | G73: An toàn thông tin (chất lượng cao)
+A74: 1 | C74: B25DCAE006 | D74: Trịnh Hoàng Anh | E74: Nam | F74: D25CQAE03-B | G74: An toàn thông tin (chất lượng cao)
+A75: 1 | C75: B25DCAE009 | D75: Lê Gia Bách | E75: Nam | F75: D25CQAE03-B | G75: An toàn thông tin (chất lượng cao)
+A76: 1 | C76: B25DCAE012 | D76: Nguyễn Đức Bình | E76: Nam | F76: D25CQAE03-B | G76: An toàn thông tin (chất lượng cao)
+A77: 1 | C77: B25DCAE015 | D77: Hoàng Công Cường | E77: Nam | F77: D25CQAE03-B | G77: An toàn thông tin (chất lượng cao)
+A78: 1 | C78: B25DCAE018 | D78: Nguyễn Phan Việt Dũng | E78: Nam | F78: D25CQAE03-B | G78: An toàn thông tin (chất lượng cao)
+A79: 1 | C79: B25DCAE021 | D79: Nguyễn Việt Dũng | E79: Nam | F79: D25CQAE03-B | G79: An toàn thông tin (chất lượng cao)
+A80: 1 | C80: B25DCAE027 | D80: Phan Đức Huy | E80: Nam | F80: D25CQAE03-B | G80: An toàn thông tin (chất lượng cao)
+A81: 1 | C81: B25DCAE030 | D81: Hà Quang Hưng | E81: Nam | F81: D25CQAE03-B | G81: An toàn thông tin (chất lượng cao)
+A82: 1 | C82: B25DCAE033 | D82: Nguyễn Đỗ Minh Khang | E82: Nam | F82: D25CQAE03-B | G82: An toàn thông tin (chất lượng cao)
+A83: 1 | C83: B25DCAE036 | D83: Mai Tất Đăng Khoa | E83: Nam | F83: D25CQAE03-B | G83: An toàn thông tin (chất lượng cao)
+A84: 1 | C84: B25DCAE039 | D84: Nguyễn Đức Nam Khánh | E84: Nam | F84: D25CQAE03-B | G84: An toàn thông tin (chất lượng cao)
+A85: 1 | C85: B25DCAE042 | D85: Trần Hùng Khởi | E85: Nam | F85: D25CQAE03-B | G85: An toàn thông tin (chất lượng cao)
+A86: 1 | C86: B25DCAE048 | D86: Bùi Hoàng Long | E86: Nam | F86: D25CQAE03-B | G86: An toàn thông tin (chất lượng cao)
+A87: 1 | C87: B25DCAE051 | D87: Nguyễn Công Tùng Lâm | E87: Nam | F87: D25CQAE03-B | G87: An toàn thông tin (chất lượng cao)
+A88: 1 | C88: B25DCAE057 | D88: Nguyễn Bảo Minh | E88: Nam | F88: D25CQAE03-B | G88: An toàn thông tin (chất lượng cao)
+A89: 1 | C89: B25DCAE060 | D89: Nguyễn Quang Nhật Minh | E89: Nam | F89: D25CQAE03-B | G89: An toàn thông tin (chất lượng cao)
+A90: 1 | C90: B25DCAE063 | D90: Phan Nhật Minh | E90: Nam | F90: D25CQAE03-B | G90: An toàn thông tin (chất lượng cao)
+A91: 1 | C91: B25DCAE066 | D91: Trần Hữu Minh | E91: Nam | F91: D25CQAE03-B | G91: An toàn thông tin (chất lượng cao)
+A92: 1 | C92: B25DCAE069 | D92: Đào Nhật Minh | E92: Nam | F92: D25CQAE03-B | G92: An toàn thông tin (chất lượng cao)
+A93: 1 | C93: B25DCAE072 | D93: Nguyễn Bảo Nam | E93: Nam | F93: D25CQAE03-B | G93: An toàn thông tin (chất lượng cao)
+A94: 1 | C94: B25DCAE075 | D94: Phạm Khôi Nguyên | E94: Nam | F94: D25CQAE03-B | G94: An toàn thông tin (chất lượng cao)
+A95: 1 | C95: B25DCAE078 | D95: Phạm Thanh Phong | E95: Nam | F95: D25CQAE03-B | G95: An toàn thông tin (chất lượng cao)
+A96: 1 | C96: B25DCAE081 | D96: Chu Nhật Quang | E96: Nam | F96: D25CQAE03-B | G96: An toàn thông tin (chất lượng cao)
+A97: 1 | C97: B25DCAE087 | D97: Phạm Quang Thanh | E97: Nam | F97: D25CQAE03-B | G97: An toàn thông tin (chất lượng cao)
+A98: 1 | C98: B25DCAE090 | D98: Phạm Đức Thắng | E98: Nam | F98: D25CQAE03-B | G98: An toàn thông tin (chất lượng cao)
+A99: 1 | C99: B25DCAE093 | D99: Đào Lê Minh Trí | E99: Nam | F99: D25CQAE03-B | G99: An toàn thông tin (chất lượng cao)
+A100: 1 | C100: B25DCAE096 | D100: Phạm Đăng Tùng | E100: Nam | F100: D25CQAE03-B | G100: An toàn thông tin (chất lượng cao)
+A101: 1 | C101: B25DCAE099 | D101: Nguyễn Ngọc Việt | E101: Nam | F101: D25CQAE03-B | G101: An toàn thông tin (chất lượng cao)
+A102: 1 | C102: B25DCAE102 | D102: Chu Hải Đăng | E102: Nam | F102: D25CQAE03-B | G102: An toàn thông tin (chất lượng cao)
+A103: 1 | C103: B25DCAE105 | D103: Nguyễn Minh Đức | E103: Nam | F103: D25CQAE03-B | G103: An toàn thông tin (chất lượng cao)
+A104: 1 | C104: B25DCCE001 | D104: Nguyễn Hoàng An | E104: Nam | F104: D25CQCE01-B | G104: Công nghệ thông tin (chất lượng cao)
+A105: 1 | C105: B25DCCE008 | D105: Nguyễn Huy Anh | E105: Nam | F105: D25CQCE01-B | G105: Công nghệ thông tin (chất lượng cao)
+A106: 1 | C106: B25DCCE015 | D106: Nguyễn Đỗ Việt Anh | E106: Nam | F106: D25CQCE01-B | G106: Công nghệ thông tin (chất lượng cao)
+A107: 1 | C107: B25DCCE022 | D107: Vương Đức Hoàng Anh | E107: Nam | F107: D25CQCE01-B | G107: Công nghệ thông tin (chất lượng cao)
+A108: 1 | C108: B25DCCE029 | D108: Nguyễn Gia Bảo | E108: Nam | F108: D25CQCE01-B | G108: Công nghệ thông tin (chất lượng cao)
+A109: 1 | C109: B25DCCE036 | D109: Bùi Huy Doanh | E109: Nam | F109: D25CQCE01-B | G109: Công nghệ thông tin (chất lượng cao)
+A110: 1 | C110: B25DCCE043 | D110: Nguyễn Anh Dũng | E110: Nam | F110: D25CQCE01-B | G110: Công nghệ thông tin (chất lượng cao)
+A111: 1 | C111: B25DCCE050 | D111: Nguyễn Văn Dũng | E111: Nam | F111: D25CQCE01-B | G111: Công nghệ thông tin (chất lượng cao)
+A112: 1 | C112: B25DCCE057 | D112: Nguyễn Đại Dương | E112: Nam | F112: D25CQCE01-B | G112: Công nghệ thông tin (chất lượng cao)
+A113: 1 | C113: B25DCCE064 | D113: Lê Đình Hiếu | E113: Nam | F113: D25CQCE01-B | G113: Công nghệ thông tin (chất lượng cao)
+A114: 1 | C114: B25DCCE071 | D114: Trần Công Hoàn | E114: Nam | F114: D25CQCE01-B | G114: Công nghệ thông tin (chất lượng cao)
+A115: 1 | C115: B25DCCE078 | D115: Trần Huy Hoàng | E115: Nam | F115: D25CQCE01-B | G115: Công nghệ thông tin (chất lượng cao)
+A116: 1 | C116: B25DCCE085 | D116: Đỗ Quang Huy | E116: Nam | F116: D25CQCE01-B | G116: Công nghệ thông tin (chất lượng cao)
+A117: 1 | C117: B25DCCE092 | D117: Nguyễn Duy Hưng | E117: Nam | F117: D25CQCE01-B | G117: Công nghệ thông tin (chất lượng cao)
+A118: 1 | C118: B25DCCE099 | D118: Đào Gia Hưng | E118: Nam | F118: D25CQCE01-B | G118: Công nghệ thông tin (chất lượng cao)
+A119: 1 | C119: B25DCCE106 | D119: Nguyễn Phúc Khang | E119: Nam | F119: D25CQCE01-B | G119: Công nghệ thông tin (chất lượng cao)
+A120: 1 | C120: B25DCCE113 | D120: Nguyễn Tấn Tiến Khoa | E120: Nam | F120: D25CQCE01-B | G120: Công nghệ thông tin (chất lượng cao)
+A121: 1 | C121: B25DCCE120 | D121: Trần Ngọc Khánh | E121: Nam | F121: D25CQCE01-B | G121: Công nghệ thông tin (chất lượng cao)
+A122: 1 | C122: B25DCCE127 | D122: Đôn Mạnh Khôi | E122: Nam | F122: D25CQCE01-B | G122: Công nghệ thông tin (chất lượng cao)
+A123: 1 | C123: B25DCCE134 | D123: Vũ Kiên | E123: Nam | F123: D25CQCE01-B | G123: Công nghệ thông tin (chất lượng cao)
+A124: 1 | C124: B25DCCE162 | D124: Lê Quốc Lợi | E124: Nam | F124: D25CQCE01-B | G124: Công nghệ thông tin (chất lượng cao)
+A125: 1 | C125: B25DCCE169 | D125: Nguyễn Ngọc Nhật Minh | E125: Nam | F125: D25CQCE01-B | G125: Công nghệ thông tin (chất lượng cao)
+A126: 1 | C126: B25DCCE176 | D126: Nguyễn Tuấn Minh | E126: Nam | F126: D25CQCE01-B | G126: Công nghệ thông tin (chất lượng cao)
+A127: 1 | C127: B25DCCE190 | D127: Nguyễn Hoành Hải Nam | E127: Nam | F127: D25CQCE01-B | G127: Công nghệ thông tin (chất lượng cao)
+A128: 1 | C128: B25DCCE204 | D128: Trần Quang Nhật | E128: Nam | F128: D25CQCE01-B | G128: Công nghệ thông tin (chất lượng cao)
+A129: 1 | C129: B25DCCE211 | D129: Nguyễn Hữu Minh Quang | E129: Nam | F129: D25CQCE01-B | G129: Công nghệ thông tin (chất lượng cao)
+A130: 1 | C130: B25DCCE218 | D130: Nguyễn Viết Quân | E130: Nam | F130: D25CQCE01-B | G130: Công nghệ thông tin (chất lượng cao)
+A131: 1 | C131: B25DCCE225 | D131: Phạm Đức Quý | E131: Nam | F131: D25CQCE01-B | G131: Công nghệ thông tin (chất lượng cao)
+A132: 1 | C132: B25DCCE239 | D132: Đỗ Duy Thành | E132: Nam | F132: D25CQCE01-B | G132: Công nghệ thông tin (chất lượng cao)
+A133: 1 | C133: B25DCCE246 | D133: Hoàng Đức Tiến | E133: Nam | F133: D25CQCE01-B | G133: Công nghệ thông tin (chất lượng cao)
+A134: 1 | C134: B25DCCE253 | D134: Lê Hải Triều | E134: Nam | F134: D25CQCE01-B | G134: Công nghệ thông tin (chất lượng cao)
+A135: 1 | C135: B25DCCE260 | D135: Trần Minh Trí | E135: Nam | F135: D25CQCE01-B | G135: Công nghệ thông tin (chất lượng cao)
+A136: 1 | C136: B25DCCE267 | D136: Nguyễn Công Anh Tuấn | E136: Nam | F136: D25CQCE01-B | G136: Công nghệ thông tin (chất lượng cao)
+A137: 1 | C137: B25DCCE274 | D137: Nguyễn Thanh Tùng | E137: Nam | F137: D25CQCE01-B | G137: Công nghệ thông tin (chất lượng cao)
+A138: 1 | C138: B25DCCE281 | D138: Bùi Quốc Việt | E138: Nam | F138: D25CQCE01-B | G138: Công nghệ thông tin (chất lượng cao)
+A139: 1 | C139: B25DCCE288 | D139: Phan Khánh Đăng | E139: Nam | F139: D25CQCE01-B | G139: Công nghệ thông tin (chất lượng cao)
+A140: 1 | C140: B25DCCE295 | D140: Bạch Ngọc Đức | E140: Nam | F140: D25CQCE01-B | G140: Công nghệ thông tin (chất lượng cao)
+A141: 1 | C141: B25DCCE302 | D141: Nguyễn Ngọc Đức | E141: Nam | F141: D25CQCE01-B | G141: Công nghệ thông tin (chất lượng cao)
+A142: 1 | C142: B25DCCE002 | D142: Nguyễn Thế An | E142: Nam | F142: D25CQCE02-B | G142: Công nghệ thông tin (chất lượng cao)
+A143: 1 | C143: B25DCCE009 | D143: Nguyễn Lê Anh | E143: Nam | F143: D25CQCE02-B | G143: Công nghệ thông tin (chất lượng cao)
+A144: 1 | C144: B25DCCE016 | D144: Nguyễn Đức Anh | E144: Nam | F144: D25CQCE02-B | G144: Công nghệ thông tin (chất lượng cao)
+A145: 1 | C145: B25DCCE023 | D145: Đỗ Quốc Anh | E145: Nam | F145: D25CQCE02-B | G145: Công nghệ thông tin (chất lượng cao)
+A146: 1 | C146: B25DCCE030 | D146: Trần Hoàng Bảo | E146: Nam | F146: D25CQCE02-B | G146: Công nghệ thông tin (chất lượng cao)
+A147: 1 | C147: B25DCCE037 | D147: Nguyễn Đức Duy | E147: Nam | F147: D25CQCE02-B | G147: Công nghệ thông tin (chất lượng cao)
+A148: 1 | C148: B25DCCE044 | D148: Nguyễn Hoàng Dũng | E148: Nam | F148: D25CQCE02-B | G148: Công nghệ thông tin (chất lượng cao)
+A149: 1 | C149: B25DCCE051 | D149: Phạm Minh Dũng | E149: Nam | F149: D25CQCE02-B | G149: Công nghệ thông tin (chất lượng cao)
+A150: 1 | C150: B25DCCE058 | D150: Nguyễn Đức Dương | E150: Nam | F150: D25CQCE02-B | G150: Công nghệ thông tin (chất lượng cao)
+A151: 1 | C151: B25DCCE065 | D151: Nguyễn Trung Hiếu | E151: Nam | F151: D25CQCE02-B | G151: Công nghệ thông tin (chất lượng cao)
+A152: 1 | C152: B25DCCE072 | D152: Lê Vũ Hoàng | E152: Nam | F152: D25CQCE02-B | G152: Công nghệ thông tin (chất lượng cao)
+A153: 1 | C153: B25DCCE079 | D153: Chử Ngọc Huy | E153: Nam | F153: D25CQCE02-B | G153: Công nghệ thông tin (chất lượng cao)
+A154: 1 | C154: B25DCCE093 | D154: Nguyễn Gia Hưng | E154: Nam | F154: D25CQCE02-B | G154: Công nghệ thông tin (chất lượng cao)
+A155: 1 | C155: B25DCCE100 | D155: Đỗ Đoàn Gia Hưng | E155: Nam | F155: D25CQCE02-B | G155: Công nghệ thông tin (chất lượng cao)
+A156: 1 | C156: B25DCCE114 | D156: Chu Văn Khánh | E156: Nam | F156: D25CQCE02-B | G156: Công nghệ thông tin (chất lượng cao)
+A157: 1 | C157: B25DCCE121 | D157: Vũ Nam Khánh | E157: Nam | F157: D25CQCE02-B | G157: Công nghệ thông tin (chất lượng cao)
+A158: 1 | C158: B25DCCE128 | D158: Bùi Viết Kiên | E158: Nam | F158: D25CQCE02-B | G158: Công nghệ thông tin (chất lượng cao)
+A159: 1 | C159: B25DCCE135 | D159: Bạch Chí Kiệt | E159: Nam | F159: D25CQCE02-B | G159: Công nghệ thông tin (chất lượng cao)
+A160: 1 | C160: B25DCCE149 | D160: Hà Bảo Long | E160: Nam | F160: D25CQCE02-B | G160: Công nghệ thông tin (chất lượng cao)
+A161: 1 | C161: B25DCCE156 | D161: Nguyễn Minh Lâm | E161: Nam | F161: D25CQCE02-B | G161: Công nghệ thông tin (chất lượng cao)
+A162: 2 | B162: Thông báo khi đến TTGDQP | C162: B25DCCE170 | D162: Nguyễn Quang Minh | E162: Nam | F162: D25CQCE02-B | G162: Công nghệ thông tin (chất lượng cao) | H162: C Trưởng: Thầy Trịnh Bá Lâm; TS: 160, chia 3B; 8A
+A163: 2 | C163: B25DCCE177 | D163: Nguyễn Vũ Quang Minh | E163: Nam | F163: D25CQCE02-B | G163: Công nghệ thông tin (chất lượng cao)
+A164: 2 | C164: B25DCCE184 | D164: Vũ Đức Minh | E164: Nam | F164: D25CQCE02-B | G164: Công nghệ thông tin (chất lượng cao)
+A165: 2 | C165: B25DCCE191 | D165: Nguyễn Kim Đoàn Nam | E165: Nam | F165: D25CQCE02-B | G165: Công nghệ thông tin (chất lượng cao)
+A166: 2 | C166: B25DCCE198 | D166: Nguyễn Trí Đức Nguyên | E166: Nam | F166: D25CQCE02-B | G166: Công nghệ thông tin (chất lượng cao)
+A167: 2 | C167: B25DCCE205 | D167: Bùi Nguyên Phong | E167: Nam | F167: D25CQCE02-B | G167: Công nghệ thông tin (chất lượng cao)
+A168: 2 | C168: B25DCCE212 | D168: Nguyễn Minh Quang | E168: Nam | F168: D25CQCE02-B | G168: Công nghệ thông tin (chất lượng cao)
+A169: 2 | C169: B25DCCE219 | D169: Ngô Hồng Quân | E169: Nam | F169: D25CQCE02-B | G169: Công nghệ thông tin (chất lượng cao)
+A170: 2 | C170: B25DCCE226 | D170: Trần Tuấn Quảng | E170: Nam | F170: D25CQCE02-B | G170: Công nghệ thông tin (chất lượng cao)
+A171: 2 | C171: B25DCCE233 | D171: Trần Thái Sơn | E171: Nam | F171: D25CQCE02-B | G171: Công nghệ thông tin (chất lượng cao)
+A172: 2 | C172: B25DCCE247 | D172: Nguyễn Xuân Tiến | E172: Nam | F172: D25CQCE02-B | G172: Công nghệ thông tin (chất lượng cao)
+A173: 2 | C173: B25DCCE254 | D173: Nguyễn Quốc Trung | E173: Nam | F173: D25CQCE02-B | G173: Công nghệ thông tin (chất lượng cao)
+A174: 2 | C174: B25DCCE261 | D174: Bùi Đức Trường | E174: Nam | F174: D25CQCE02-B | G174: Công nghệ thông tin (chất lượng cao)
+A175: 2 | C175: B25DCCE268 | D175: Nguyễn Văn Tuấn | E175: Nam | F175: D25CQCE02-B | G175: Công nghệ thông tin (chất lượng cao)
+A176: 2 | C176: B25DCCE275 | D176: Nguyễn Đức Thanh Tùng | E176: Nam | F176: D25CQCE02-B | G176: Công nghệ thông tin (chất lượng cao)
+A177: 2 | C177: B25DCCE282 | D177: Hồ Quốc Việt | E177: Nam | F177: D25CQCE02-B | G177: Công nghệ thông tin (chất lượng cao)
+A178: 2 | C178: B25DCCE289 | D178: Phạm Quang Đại | E178: Nam | F178: D25CQCE02-B | G178: Công nghệ thông tin (chất lượng cao)
+A179: 2 | C179: B25DCCE296 | D179: Lê Anh Đức | E179: Nam | F179: D25CQCE02-B | G179: Công nghệ thông tin (chất lượng cao)
+A180: 2 | C180: B25DCCE303 | D180: Nguyễn Trí Đức | E180: Nam | F180: D25CQCE02-B | G180: Công nghệ thông tin (chất lượng cao)
+A181: 2 | C181: B25DCCE003 | D181: Nguyễn Đức An | E181: Nam | F181: D25CQCE03-B | G181: Công nghệ thông tin (chất lượng cao)
+A182: 2 | C182: B25DCCE010 | D182: Nguyễn Minh Đức Anh | E182: Nam | F182: D25CQCE03-B | G182: Công nghệ thông tin (chất lượng cao)
+A183: 2 | C183: B25DCCE017 | D183: Nguyễn Đức Anh | E183: Nam | F183: D25CQCE03-B | G183: Công nghệ thông tin (chất lượng cao)
+A184: 2 | C184: B25DCCE024 | D184: Trần Hà Bình | E184: Nam | F184: D25CQCE03-B | G184: Công nghệ thông tin (chất lượng cao)
+A185: 2 | C185: B25DCCE038 | D185: Phạm Minh Duy | E185: Nam | F185: D25CQCE03-B | G185: Công nghệ thông tin (chất lượng cao)
+A186: 2 | C186: B25DCCE052 | D186: Trần Mạnh Dũng | E186: Nam | F186: D25CQCE03-B | G186: Công nghệ thông tin (chất lượng cao)
+A187: 2 | C187: B25DCCE059 | D187: Trịnh Đặng Long Dương | E187: Nam | F187: D25CQCE03-B | G187: Công nghệ thông tin (chất lượng cao)
+A188: 2 | C188: B25DCCE066 | D188: Phùng Đức Hiếu | E188: Nam | F188: D25CQCE03-B | G188: Công nghệ thông tin (chất lượng cao)
+A189: 2 | C189: B25DCCE073 | D189: Nguyễn Huy Hoàng | E189: Nam | F189: D25CQCE03-B | G189: Công nghệ thông tin (chất lượng cao)
+A190: 2 | C190: B25DCCE080 | D190: Hoàng Quang Huy | E190: Nam | F190: D25CQCE03-B | G190: Công nghệ thông tin (chất lượng cao)
+A191: 2 | C191: B25DCCE094 | D191: Nguyễn Trần Gia Hưng | E191: Nam | F191: D25CQCE03-B | G191: Công nghệ thông tin (chất lượng cao)
+A192: 2 | C192: B25DCCE115 | D192: Hoa Duy Phúc Khánh | E192: Nam | F192: D25CQCE03-B | G192: Công nghệ thông tin (chất lượng cao)
+A193: 2 | C193: B25DCCE122 | D193: Đặng Gia Khánh | E193: Nam | F193: D25CQCE03-B | G193: Công nghệ thông tin (chất lượng cao)
+A194: 2 | C194: B25DCCE129 | D194: Hoàng Trung Kiên | E194: Nam | F194: D25CQCE03-B | G194: Công nghệ thông tin (chất lượng cao)
+A195: 2 | C195: B25DCCE136 | D195: Hoàng Anh Kiệt | E195: Nam | F195: D25CQCE03-B | G195: Công nghệ thông tin (chất lượng cao)
+A196: 2 | C196: B25DCCE157 | D196: Nguyễn Tuấn Lâm | E196: Nam | F196: D25CQCE03-B | G196: Công nghệ thông tin (chất lượng cao)
+A197: 2 | C197: B25DCCE171 | D197: Nguyễn Thiên Minh | E197: Nam | F197: D25CQCE03-B | G197: Công nghệ thông tin (chất lượng cao)
+A198: 2 | C198: B25DCCE178 | D198: Ngô Vi Minh | E198: Nam | F198: D25CQCE03-B | G198: Công nghệ thông tin (chất lượng cao)
+A199: 2 | C199: B25DCCE185 | D199: Đinh Bình Minh | E199: Nam | F199: D25CQCE03-B | G199: Công nghệ thông tin (chất lượng cao)
+A200: 2 | C200: B25DCCE192 | D200: Nguyễn Phương Nam | E200: Nam | F200: D25CQCE03-B | G200: Công nghệ thông tin (chất lượng cao)
+A201: 2 | C201: B25DCCE199 | D201: Đỗ Lê Nguyên | E201: Nam | F201: D25CQCE03-B | G201: Công nghệ thông tin (chất lượng cao)
+A202: 2 | C202: B25DCCE206 | D202: Đặng Hải Phong | E202: Nam | F202: D25CQCE03-B | G202: Công nghệ thông tin (chất lượng cao)
+A203: 2 | C203: B25DCCE213 | D203: Trần Dương Vinh Quang | E203: Nam | F203: D25CQCE03-B | G203: Công nghệ thông tin (chất lượng cao)
+A204: 2 | C204: B25DCCE220 | D204: Phạm Minh Quân | E204: Nam | F204: D25CQCE03-B | G204: Công nghệ thông tin (chất lượng cao)
+A205: 2 | C205: B25DCCE227 | D205: Lê Viết Sáng | E205: Nam | F205: D25CQCE03-B | G205: Công nghệ thông tin (chất lượng cao)
+A206: 2 | C206: B25DCCE234 | D206: Đặng Thái Sơn | E206: Nam | F206: D25CQCE03-B | G206: Công nghệ thông tin (chất lượng cao)
+A207: 2 | C207: B25DCCE241 | D207: Đinh Danh Thái | E207: Nam | F207: D25CQCE03-B | G207: Công nghệ thông tin (chất lượng cao)
+A208: 2 | C208: B25DCCE248 | D208: Hứa Trí Toàn | E208: Nam | F208: D25CQCE03-B | G208: Công nghệ thông tin (chất lượng cao)
+A209: 2 | C209: B25DCCE262 | D209: Lê Tiến Trọng | E209: Nam | F209: D25CQCE03-B | G209: Công nghệ thông tin (chất lượng cao)
+A210: 2 | C210: B25DCCE276 | D210: Vũ Thanh Tùng | E210: Nam | F210: D25CQCE03-B | G210: Công nghệ thông tin (chất lượng cao)
+A211: 2 | C211: B25DCCE283 | D211: Phùng Huy Việt | E211: Nam | F211: D25CQCE03-B | G211: Công nghệ thông tin (chất lượng cao)
+A212: 2 | C212: B25DCCE290 | D212: Bùi Minh Đạt | E212: Nam | F212: D25CQCE03-B | G212: Công nghệ thông tin (chất lượng cao)
+A213: 2 | C213: B25DCCE297 | D213: Lê Quang Minh Đức | E213: Nam | F213: D25CQCE03-B | G213: Công nghệ thông tin (chất lượng cao)
+A214: 2 | C214: B25DCCE304 | D214: Đoàn Minh Đức | E214: Nam | F214: D25CQCE03-B | G214: Công nghệ thông tin (chất lượng cao)
+A215: 2 | C215: B25DCCE004 | D215: Bùi Quốc Anh | E215: Nam | F215: D25CQCE04-B | G215: Công nghệ thông tin (chất lượng cao)
+A216: 2 | C216: B25DCCE011 | D216: Nguyễn Thế Anh | E216: Nam | F216: D25CQCE04-B | G216: Công nghệ thông tin (chất lượng cao)
+A217: 2 | C217: B25DCCE018 | D217: Nguyễn Đức Anh | E217: Nam | F217: D25CQCE04-B | G217: Công nghệ thông tin (chất lượng cao)
+A218: 2 | C218: B25DCCE025 | D218: Bùi Quốc Bảo | E218: Nam | F218: D25CQCE04-B | G218: Công nghệ thông tin (chất lượng cao)
+A219: 2 | C219: B25DCCE032 | D219: Tạ Minh Châu | E219: Nam | F219: D25CQCE04-B | G219: Công nghệ thông tin (chất lượng cao)
+A220: 2 | C220: B25DCCE039 | D220: Phạm Đức Duy | E220: Nam | F220: D25CQCE04-B | G220: Công nghệ thông tin (chất lượng cao)
+A221: 2 | C221: B25DCCE046 | D221: Nguyễn Tiến Dũng | E221: Nam | F221: D25CQCE04-B | G221: Công nghệ thông tin (chất lượng cao)
+A222: 2 | C222: B25DCCE053 | D222: Vũ Tiến Dũng | E222: Nam | F222: D25CQCE04-B | G222: Công nghệ thông tin (chất lượng cao)
+A223: 2 | C223: B25DCCE060 | D223: Bùi Trường Giang | E223: Nam | F223: D25CQCE04-B | G223: Công nghệ thông tin (chất lượng cao)
+A224: 2 | C224: B25DCCE067 | D224: Trần Thiện Hiếu | E224: Nam | F224: D25CQCE04-B | G224: Công nghệ thông tin (chất lượng cao)
+A225: 2 | C225: B25DCCE074 | D225: Nguyễn Huy Hoàng | E225: Nam | F225: D25CQCE04-B | G225: Công nghệ thông tin (chất lượng cao)
+A226: 2 | C226: B25DCCE081 | D226: Lê Gia Huy | E226: Nam | F226: D25CQCE04-B | G226: Công nghệ thông tin (chất lượng cao)
+A227: 2 | C227: B25DCCE088 | D227: Chu Mạnh Hùng | E227: Nam | F227: D25CQCE04-B | G227: Công nghệ thông tin (chất lượng cao)
+A228: 2 | C228: B25DCCE102 | D228: Nguyễn Đức Hải | E228: Nam | F228: D25CQCE04-B | G228: Công nghệ thông tin (chất lượng cao)
+A229: 2 | C229: B25DCCE109 | D229: Nguyễn Phúc Khanh | E229: Nam | F229: D25CQCE04-B | G229: Công nghệ thông tin (chất lượng cao)
+A230: 2 | C230: B25DCCE116 | D230: Mai Nam Khánh | E230: Nam | F230: D25CQCE04-B | G230: Công nghệ thông tin (chất lượng cao)
+A231: 2 | C231: B25DCCE123 | D231: Bùi Duy Khôi | E231: Nam | F231: D25CQCE04-B | G231: Công nghệ thông tin (chất lượng cao)
+A232: 2 | C232: B25DCCE130 | D232: Nguyễn Chí Kiên | E232: Nam | F232: D25CQCE04-B | G232: Công nghệ thông tin (chất lượng cao)
+A233: 2 | C233: B25DCCE137 | D233: Nguyễn Anh Kiệt | E233: Nam | F233: D25CQCE04-B | G233: Công nghệ thông tin (chất lượng cao)
+A234: 2 | C234: B25DCCE151 | D234: Nguyễn Tiến Long | E234: Nam | F234: D25CQCE04-B | G234: Công nghệ thông tin (chất lượng cao)
+A235: 2 | C235: B25DCCE158 | D235: Đỗ Hải Lâm | E235: Nam | F235: D25CQCE04-B | G235: Công nghệ thông tin (chất lượng cao)
+A236: 2 | C236: B25DCCE165 | D236: Dương Tuấn Minh | E236: Nam | F236: D25CQCE04-B | G236: Công nghệ thông tin (chất lượng cao)
+A237: 2 | C237: B25DCCE172 | D237: Nguyễn Tiến Minh | E237: Nam | F237: D25CQCE04-B | G237: Công nghệ thông tin (chất lượng cao)
+A238: 2 | C238: B25DCCE179 | D238: Phạm Hoàng Minh | E238: Nam | F238: D25CQCE04-B | G238: Công nghệ thông tin (chất lượng cao)
+A239: 2 | C239: B25DCCE186 | D239: Đường Tuấn Minh | E239: Nam | F239: D25CQCE04-B | G239: Công nghệ thông tin (chất lượng cao)
+A240: 2 | C240: B25DCCE193 | D240: Nguyễn Thành Nam | E240: Nam | F240: D25CQCE04-B | G240: Công nghệ thông tin (chất lượng cao)
+A241: 2 | C241: B25DCCE200 | D241: Lâm Thiện Nhân | E241: Nam | F241: D25CQCE04-B | G241: Công nghệ thông tin (chất lượng cao)
+A242: 2 | C242: B25DCCE207 | D242: Phan Minh Phát | E242: Nam | F242: D25CQCE04-B | G242: Công nghệ thông tin (chất lượng cao)
+A243: 2 | C243: B25DCCE214 | D243: Trịnh Minh Quang | E243: Nam | F243: D25CQCE04-B | G243: Công nghệ thông tin (chất lượng cao)
+A244: 2 | C244: B25DCCE221 | D244: Trần Anh Quân | E244: Nam | F244: D25CQCE04-B | G244: Công nghệ thông tin (chất lượng cao)
+A245: 2 | C245: B25DCCE228 | D245: Hoàng Ngọc Sơn | E245: Nam | F245: D25CQCE04-B | G245: Công nghệ thông tin (chất lượng cao)
+A246: 2 | C246: B25DCCE235 | D246: Nguyễn Minh Thi | E246: Nam | F246: D25CQCE04-B | G246: Công nghệ thông tin (chất lượng cao)
+A247: 2 | C247: B25DCCE249 | D247: Lê Đức Công Toàn | E247: Nam | F247: D25CQCE04-B | G247: Công nghệ thông tin (chất lượng cao)
+A248: 2 | C248: B25DCCE256 | D248: Tạ Nguyễn Mạnh Trung | E248: Nam | F248: D25CQCE04-B | G248: Công nghệ thông tin (chất lượng cao)
+A249: 2 | C249: B25DCCE263 | D249: Nguyễn Văn Tuyến | E249: Nam | F249: D25CQCE04-B | G249: Công nghệ thông tin (chất lượng cao)
+A250: 2 | C250: B25DCCE270 | D250: Trần Đặng Quốc Tuấn | E250: Nam | F250: D25CQCE04-B | G250: Công nghệ thông tin (chất lượng cao)
+A251: 2 | C251: B25DCCE277 | D251: Lê Hồng Tú | E251: Nam | F251: D25CQCE04-B | G251: Công nghệ thông tin (chất lượng cao)
+A252: 2 | C252: B25DCCE298 | D252: Nguyễn Cao Đức | E252: Nam | F252: D25CQCE04-B | G252: Công nghệ thông tin (chất lượng cao)
+A253: 2 | C253: B25DCCE005 | D253: Hoàng Việt Anh | E253: Nam | F253: D25CQCE05-B | G253: Công nghệ thông tin (chất lượng cao)
+A254: 2 | C254: B25DCCE012 | D254: Nguyễn Thế Việt Anh | E254: Nam | F254: D25CQCE05-B | G254: Công nghệ thông tin (chất lượng cao)
+A255: 2 | C255: B25DCCE019 | D255: Phạm Việt Anh | E255: Nam | F255: D25CQCE05-B | G255: Công nghệ thông tin (chất lượng cao)
+A256: 2 | C256: B25DCCE033 | D256: Nguyễn Kiêm Chính | E256: Nam | F256: D25CQCE05-B | G256: Công nghệ thông tin (chất lượng cao)
+A257: 2 | C257: B25DCCE040 | D257: Trần Duy | E257: Nam | F257: D25CQCE05-B | G257: Công nghệ thông tin (chất lượng cao)
+A258: 2 | C258: B25DCCE047 | D258: Nguyễn Trung Dũng | E258: Nam | F258: D25CQCE05-B | G258: Công nghệ thông tin (chất lượng cao)
+A259: 2 | C259: B25DCCE054 | D259: Đỗ Anh Dũng | E259: Nam | F259: D25CQCE05-B | G259: Công nghệ thông tin (chất lượng cao)
+A260: 2 | C260: B25DCCE061 | D260: Nguyễn Giang | E260: Nam | F260: D25CQCE05-B | G260: Công nghệ thông tin (chất lượng cao)
+A261: 2 | C261: B25DCCE075 | D261: Ngô Vũ Hoàng | E261: Nam | F261: D25CQCE05-B | G261: Công nghệ thông tin (chất lượng cao)
+A262: 2 | C262: B25DCCE082 | D262: Nguyễn Quang Huy | E262: Nam | F262: D25CQCE05-B | G262: Công nghệ thông tin (chất lượng cao)
+A263: 2 | C263: B25DCCE089 | D263: Hoàng Tuấn Hùng | E263: Nam | F263: D25CQCE05-B | G263: Công nghệ thông tin (chất lượng cao)
+A264: 2 | C264: B25DCCE096 | D264: Nguyễn Việt Hưng | E264: Nam | F264: D25CQCE05-B | G264: Công nghệ thông tin (chất lượng cao)
+A265: 2 | C265: B25DCCE103 | D265: Phạm Ngọc Hải | E265: Nam | F265: D25CQCE05-B | G265: Công nghệ thông tin (chất lượng cao)
+A266: 2 | C266: B25DCCE110 | D266: Vũ An Bảo Khanh | E266: Nam | F266: D25CQCE05-B | G266: Công nghệ thông tin (chất lượng cao)
+A267: 2 | C267: B25DCCE117 | D267: Nguyễn Duy Khánh | E267: Nam | F267: D25CQCE05-B | G267: Công nghệ thông tin (chất lượng cao)
+A268: 2 | C268: B25DCCE124 | D268: Nguyễn Anh Khôi | E268: Nam | F268: D25CQCE05-B | G268: Công nghệ thông tin (chất lượng cao)
+A269: 2 | C269: B25DCCE131 | D269: Nguyễn Trung Kiên | E269: Nam | F269: D25CQCE05-B | G269: Công nghệ thông tin (chất lượng cao)
+A270: 2 | C270: B25DCCE138 | D270: Nguyễn Duy Gia Kiệt | E270: Nam | F270: D25CQCE05-B | G270: Công nghệ thông tin (chất lượng cao)
+A271: 2 | C271: B25DCCE152 | D271: Phạm Hải Long | E271: Nam | F271: D25CQCE05-B | G271: Công nghệ thông tin (chất lượng cao)
+A272: 2 | C272: B25DCCE159 | D272: Trần Thế Lân | E272: Nam | F272: D25CQCE05-B | G272: Công nghệ thông tin (chất lượng cao)
+A273: 2 | C273: B25DCCE166 | D273: Lương Nhật Minh | E273: Nam | F273: D25CQCE05-B | G273: Công nghệ thông tin (chất lượng cao)
+A274: 2 | C274: B25DCCE173 | D274: Nguyễn Tiến Minh | E274: Nam | F274: D25CQCE05-B | G274: Công nghệ thông tin (chất lượng cao)
+A275: 2 | C275: B25DCCE187 | D275: Đỗ Lê Hải Minh | E275: Nam | F275: D25CQCE05-B | G275: Công nghệ thông tin (chất lượng cao)
+A276: 2 | C276: B25DCCE201 | D276: Nguyễn Đức Thiện Nhân | E276: Nam | F276: D25CQCE05-B | G276: Công nghệ thông tin (chất lượng cao)
+A277: 2 | C277: B25DCCE208 | D277: Lâm Tăng Phúc | E277: Nam | F277: D25CQCE05-B | G277: Công nghệ thông tin (chất lượng cao)
+A278: 2 | C278: B25DCCE215 | D278: Đỗ Duy Quyết | E278: Nam | F278: D25CQCE05-B | G278: Công nghệ thông tin (chất lượng cao)
+A279: 2 | C279: B25DCCE222 | D279: Trần Đức Nguyên Quân | E279: Nam | F279: D25CQCE05-B | G279: Công nghệ thông tin (chất lượng cao)
+A280: 2 | C280: B25DCCE229 | D280: Hoàng Thanh Sơn | E280: Nam | F280: D25CQCE05-B | G280: Công nghệ thông tin (chất lượng cao)
+A281: 2 | C281: B25DCCE236 | D281: Hoàng Minh Thành | E281: Nam | F281: D25CQCE05-B | G281: Công nghệ thông tin (chất lượng cao)
+A282: 2 | C282: B25DCCE243 | D282: Nguyễn Trường Thịnh | E282: Nam | F282: D25CQCE05-B | G282: Công nghệ thông tin (chất lượng cao)
+A283: 2 | C283: B25DCCE250 | D283: Phạm Thế Toàn | E283: Nam | F283: D25CQCE05-B | G283: Công nghệ thông tin (chất lượng cao)
+A284: 2 | C284: B25DCCE257 | D284: Đặng Hoàng Trung | E284: Nam | F284: D25CQCE05-B | G284: Công nghệ thông tin (chất lượng cao)
+A285: 2 | C285: B25DCCE264 | D285: Hoàng Anh Tuấn | E285: Nam | F285: D25CQCE05-B | G285: Công nghệ thông tin (chất lượng cao)
+A286: 2 | C286: B25DCCE271 | D286: Tuấn Nguyên Tuấn | E286: Nam | F286: D25CQCE05-B | G286: Công nghệ thông tin (chất lượng cao)
+A287: 2 | C287: B25DCCE278 | D287: Trần Anh Tú | E287: Nam | F287: D25CQCE05-B | G287: Công nghệ thông tin (chất lượng cao)
+A288: 2 | C288: B25DCCE285 | D288: Nguyễn Lân Vũ | E288: Nam | F288: D25CQCE05-B | G288: Công nghệ thông tin (chất lượng cao)
+A289: 2 | C289: B25DCCE292 | D289: Nguyễn Đức Đạt | E289: Nam | F289: D25CQCE05-B | G289: Công nghệ thông tin (chất lượng cao)
+A290: 2 | C290: B25DCCE299 | D290: Nguyễn Minh Đức | E290: Nam | F290: D25CQCE05-B | G290: Công nghệ thông tin (chất lượng cao)
+A291: 2 | C291: B25DCCE006 | D291: Lê Hồng Anh | E291: Nam | F291: D25CQCE06-B | G291: Công nghệ thông tin (chất lượng cao)
+A292: 2 | C292: B25DCCE020 | D292: Phạm Đức Anh | E292: Nam | F292: D25CQCE06-B | G292: Công nghệ thông tin (chất lượng cao)
+A293: 2 | C293: B25DCCE027 | D293: Hoàng Gia Bảo | E293: Nam | F293: D25CQCE06-B | G293: Công nghệ thông tin (chất lượng cao)
+A294: 2 | C294: B25DCCE034 | D294: Đặng Minh Công | E294: Nam | F294: D25CQCE06-B | G294: Công nghệ thông tin (chất lượng cao)
+A295: 2 | C295: B25DCCE041 | D295: Đinh Anh Duy | E295: Nam | F295: D25CQCE06-B | G295: Công nghệ thông tin (chất lượng cao)
+A296: 2 | C296: B25DCCE048 | D296: Nguyễn Tấn Dũng | E296: Nam | F296: D25CQCE06-B | G296: Công nghệ thông tin (chất lượng cao)
+A297: 2 | C297: B25DCCE055 | D297: Đỗ Tấn Dũng | E297: Nam | F297: D25CQCE06-B | G297: Công nghệ thông tin (chất lượng cao)
+A298: 2 | C298: B25DCCE062 | D298: Hoàng Minh Hiếu | E298: Nam | F298: D25CQCE06-B | G298: Công nghệ thông tin (chất lượng cao)
+A299: 2 | C299: B25DCCE069 | D299: Quách Huy Hiệu | E299: Nam | F299: D25CQCE06-B | G299: Công nghệ thông tin (chất lượng cao)
+A300: 2 | C300: B25DCCE076 | D300: Phạm Nguyễn Huy Hoàng | E300: Nam | F300: D25CQCE06-B | G300: Công nghệ thông tin (chất lượng cao)
+A301: 2 | C301: B25DCCE083 | D301: Phạm Đức Huy | E301: Nam | F301: D25CQCE06-B | G301: Công nghệ thông tin (chất lượng cao)
+A302: 2 | C302: B25DCCE097 | D302: Uông Đông Hưng | E302: Nam | F302: D25CQCE06-B | G302: Công nghệ thông tin (chất lượng cao)
+A303: 2 | C303: B25DCCE104 | D303: Nguyễn Quốc Hồng | E303: Nam | F303: D25CQCE06-B | G303: Công nghệ thông tin (chất lượng cao)
+A304: 2 | C304: B25DCCE111 | D304: Lương Gia Khiêm | E304: Nam | F304: D25CQCE06-B | G304: Công nghệ thông tin (chất lượng cao)
+A305: 2 | C305: B25DCCE118 | D305: Nguyễn Nam Khánh | E305: Nam | F305: D25CQCE06-B | G305: Công nghệ thông tin (chất lượng cao)
+A306: 2 | C306: B25DCCE125 | D306: Phạm Nguyên Khôi | E306: Nam | F306: D25CQCE06-B | G306: Công nghệ thông tin (chất lượng cao)
+A307: 2 | C307: B25DCCE132 | D307: Ngô Gia Trung Kiên | E307: Nam | F307: D25CQCE06-B | G307: Công nghệ thông tin (chất lượng cao)
+A308: 2 | C308: B25DCCE139 | D308: Nguyễn Tuấn Kiệt | E308: Nam | F308: D25CQCE06-B | G308: Công nghệ thông tin (chất lượng cao)
+A309: 2 | C309: B25DCCE153 | D309: Trần Văn Long | E309: Nam | F309: D25CQCE06-B | G309: Công nghệ thông tin (chất lượng cao)
+A310: 2 | C310: B25DCCE167 | D310: Lương Nhật Minh | E310: Nam | F310: D25CQCE06-B | G310: Công nghệ thông tin (chất lượng cao)
+A311: 2 | C311: B25DCCE174 | D311: Nguyễn Trường Minh | E311: Nam | F311: D25CQCE06-B | G311: Công nghệ thông tin (chất lượng cao)
+A312: 2 | C312: B25DCCE181 | D312: Trần Đức Minh | E312: Nam | F312: D25CQCE06-B | G312: Công nghệ thông tin (chất lượng cao)
+A313: 2 | C313: B25DCCE188 | D313: Nguyễn Viết Mạnh | E313: Nam | F313: D25CQCE06-B | G313: Công nghệ thông tin (chất lượng cao)
+A314: 2 | C314: B25DCCE195 | D314: Phạm Văn Nghĩa | E314: Nam | F314: D25CQCE06-B | G314: Công nghệ thông tin (chất lượng cao)
+A315: 2 | C315: B25DCCE202 | D315: Phan Cát Nhật | E315: Nam | F315: D25CQCE06-B | G315: Công nghệ thông tin (chất lượng cao)
+A316: 2 | C316: B25DCCE209 | D316: Đỗ Hoàng Phúc | E316: Nam | F316: D25CQCE06-B | G316: Công nghệ thông tin (chất lượng cao)
+A317: 2 | C317: B25DCCE216 | D317: Lê Minh Quân | E317: Nam | F317: D25CQCE06-B | G317: Công nghệ thông tin (chất lượng cao)
+A318: 2 | C318: B25DCCE223 | D318: Đỗ Minh Quân | E318: Nam | F318: D25CQCE06-B | G318: Công nghệ thông tin (chất lượng cao)
+A319: 2 | C319: B25DCCE230 | D319: Nguyễn Như Sơn | E319: Nam | F319: D25CQCE06-B | G319: Công nghệ thông tin (chất lượng cao)
+A320: 2 | C320: B25DCCE237 | D320: Trần Đức Thành | E320: Nam | F320: D25CQCE06-B | G320: Công nghệ thông tin (chất lượng cao)
+A321: 2 | C321: B25DCCE265 | D321: Lê Anh Tuấn | E321: Nam | F321: D25CQCE06-B | G321: Công nghệ thông tin (chất lượng cao)
+A322: 3 | B322: Thông báo khi đến TTGDQP | C322: B25DCCE272 | D322: Vũ Gia Tuấn | E322: Nam | F322: D25CQCE06-B | G322: Công nghệ thông tin (chất lượng cao) | H322: C Trưởng: Thầy Đỗ Đức Thành Đạt; TS: 160, chia làm 3B; 8A 
+A323: 3 | C323: B25DCCE279 | D323: Lương Thế Vinh | E323: Nam | F323: D25CQCE06-B | G323: Công nghệ thông tin (chất lượng cao)
+A324: 3 | C324: B25DCCE286 | D324: Trịnh Long Vũ | E324: Nam | F324: D25CQCE06-B | G324: Công nghệ thông tin (chất lượng cao)
+A325: 3 | C325: B25DCCE293 | D325: Nhữ Thành Đạt | E325: Nam | F325: D25CQCE06-B | G325: Công nghệ thông tin (chất lượng cao)
+A326: 3 | C326: B25DCCE300 | D326: Nguyễn Minh Đức | E326: Nam | F326: D25CQCE06-B | G326: Công nghệ thông tin (chất lượng cao)
+A327: 3 | C327: B25DCCE305 | D327: Đỗ Trung Quân | E327: Nam | F327: D25CQCE06-B | G327: Công nghệ thông tin (chất lượng cao)
+A328: 3 | C328: B25DCCE014 | D328: Nguyễn Vũ Duy Anh | E328: Nam | F328: D25CQCE07-B | G328: Công nghệ thông tin (chất lượng cao)
+A329: 3 | C329: B25DCCE021 | D329: Trần Lê Anh | E329: Nam | F329: D25CQCE07-B | G329: Công nghệ thông tin (chất lượng cao)
+A330: 3 | C330: B25DCCE028 | D330: Nguyễn Gia Bảo | E330: Nam | F330: D25CQCE07-B | G330: Công nghệ thông tin (chất lượng cao)
+A331: 3 | C331: B25DCCE035 | D331: Trần Chí Cường | E331: Nam | F331: D25CQCE07-B | G331: Công nghệ thông tin (chất lượng cao)
+A332: 3 | C332: B25DCCE042 | D332: Cao Trí Dũng | E332: Nam | F332: D25CQCE07-B | G332: Công nghệ thông tin (chất lượng cao)
+A333: 3 | C333: B25DCCE049 | D333: Nguyễn Tấn Dũng | E333: Nam | F333: D25CQCE07-B | G333: Công nghệ thông tin (chất lượng cao)
+A334: 3 | C334: B25DCCE056 | D334: Nguyễn Nam Dương | E334: Nam | F334: D25CQCE07-B | G334: Công nghệ thông tin (chất lượng cao)
+A335: 3 | C335: B25DCCE063 | D335: Hồ Quang Hiếu | E335: Nam | F335: D25CQCE07-B | G335: Công nghệ thông tin (chất lượng cao)
+A336: 3 | C336: B25DCCE070 | D336: Vũ Duy Hoà | E336: Nam | F336: D25CQCE07-B | G336: Công nghệ thông tin (chất lượng cao)
+A337: 3 | C337: B25DCCE077 | D337: Trương Việt Hoàng | E337: Nam | F337: D25CQCE07-B | G337: Công nghệ thông tin (chất lượng cao)
+A338: 3 | C338: B25DCCE084 | D338: Trần Gia Huy | E338: Nam | F338: D25CQCE07-B | G338: Công nghệ thông tin (chất lượng cao)
+A339: 3 | C339: B25DCCE091 | D339: Lê Gia Hưng | E339: Nam | F339: D25CQCE07-B | G339: Công nghệ thông tin (chất lượng cao)
+A340: 3 | C340: B25DCCE098 | D340: Đinh Quang Hưng | E340: Nam | F340: D25CQCE07-B | G340: Công nghệ thông tin (chất lượng cao)
+A341: 3 | C341: B25DCCE105 | D341: Nguyễn Quang Hợp | E341: Nam | F341: D25CQCE07-B | G341: Công nghệ thông tin (chất lượng cao)
+A342: 3 | C342: B25DCCE112 | D342: Biện Tấn Khoa | E342: Nam | F342: D25CQCE07-B | G342: Công nghệ thông tin (chất lượng cao)
+A343: 3 | C343: B25DCCE119 | D343: Nguyễn Sỹ Quốc Khánh | E343: Nam | F343: D25CQCE07-B | G343: Công nghệ thông tin (chất lượng cao)
+A344: 3 | C344: B25DCCE126 | D344: Trương Thành Khôi | E344: Nam | F344: D25CQCE07-B | G344: Công nghệ thông tin (chất lượng cao)
+A345: 3 | C345: B25DCCE133 | D345: Phạm Trung Kiên | E345: Nam | F345: D25CQCE07-B | G345: Công nghệ thông tin (chất lượng cao)
+A346: 3 | C346: B25DCCE140 | D346: Ngô Minh Kiệt | E346: Nam | F346: D25CQCE07-B | G346: Công nghệ thông tin (chất lượng cao)
+A347: 3 | C347: B25DCCE154 | D347: Nguyễn Đức Luân | E347: Nam | F347: D25CQCE07-B | G347: Công nghệ thông tin (chất lượng cao)
+A348: 3 | C348: B25DCCE161 | D348: Vũ Tiến Thành Lộc | E348: Nam | F348: D25CQCE07-B | G348: Công nghệ thông tin (chất lượng cao)
+A349: 3 | C349: B25DCCE175 | D349: Nguyễn Tuấn Minh | E349: Nam | F349: D25CQCE07-B | G349: Công nghệ thông tin (chất lượng cao)
+A350: 3 | C350: B25DCCE182 | D350: Vũ Hoàng Minh | E350: Nam | F350: D25CQCE07-B | G350: Công nghệ thông tin (chất lượng cao)
+A351: 3 | C351: B25DCCE196 | D351: Trần Đại Nghĩa | E351: Nam | F351: D25CQCE07-B | G351: Công nghệ thông tin (chất lượng cao)
+A352: 3 | C352: B25DCCE203 | D352: Phạm Minh Nhật | E352: Nam | F352: D25CQCE07-B | G352: Công nghệ thông tin (chất lượng cao)
+A353: 3 | C353: B25DCCE210 | D353: Lê Duy Anh Quang | E353: Nam | F353: D25CQCE07-B | G353: Công nghệ thông tin (chất lượng cao)
+A354: 3 | C354: B25DCCE217 | D354: Nguyễn Hữu Quân | E354: Nam | F354: D25CQCE07-B | G354: Công nghệ thông tin (chất lượng cao)
+A355: 3 | C355: B25DCCE224 | D355: Đỗ Trung Quân | E355: Nam | F355: D25CQCE07-B | G355: Công nghệ thông tin (chất lượng cao)
+A356: 3 | C356: B25DCCE231 | D356: Nguyễn Xuân Sơn | E356: Nam | F356: D25CQCE07-B | G356: Công nghệ thông tin (chất lượng cao)
+A357: 3 | C357: B25DCCE238 | D357: Vũ Công Thành | E357: Nam | F357: D25CQCE07-B | G357: Công nghệ thông tin (chất lượng cao)
+A358: 3 | C358: B25DCCE245 | D358: Cao Xuân Tiến | E358: Nam | F358: D25CQCE07-B | G358: Công nghệ thông tin (chất lượng cao)
+A359: 3 | C359: B25DCCE252 | D359: Phạm Minh Triết | E359: Nam | F359: D25CQCE07-B | G359: Công nghệ thông tin (chất lượng cao)
+A360: 3 | C360: B25DCCE259 | D360: Nguyễn Minh Trí | E360: Nam | F360: D25CQCE07-B | G360: Công nghệ thông tin (chất lượng cao)
+A361: 3 | C361: B25DCCE266 | D361: Nguyễn Anh Tuấn | E361: Nam | F361: D25CQCE07-B | G361: Công nghệ thông tin (chất lượng cao)
+A362: 3 | C362: B25DCCE273 | D362: Phạm Đức Tín | E362: Nam | F362: D25CQCE07-B | G362: Công nghệ thông tin (chất lượng cao)
+A363: 3 | C363: B25DCCE280 | D363: Nguyễn Đăng Vinh | E363: Nam | F363: D25CQCE07-B | G363: Công nghệ thông tin (chất lượng cao)
+A364: 3 | C364: B25DCCE287 | D364: Vũ Văn Xuân | E364: Nam | F364: D25CQCE07-B | G364: Công nghệ thông tin (chất lượng cao)
+A365: 3 | C365: B25DCCE294 | D365: Vũ Trần Tiến Đạt | E365: Nam | F365: D25CQCE07-B | G365: Công nghệ thông tin (chất lượng cao)
+A366: 3 | C366: B25DCVN001 | D366: Doãn Hoàng Anh | E366: Nam | F366: D25CQVN01-B | G366: Công nghệ thông tin Việt Nhật
+A367: 3 | C367: B25DCVN005 | D367: Trần Ngọc Anh | E367: Nam | F367: D25CQVN01-B | G367: Công nghệ thông tin Việt Nhật
+A368: 3 | C368: B25DCVN007 | D368: Đoàn Quang Anh | E368: Nam | F368: D25CQVN01-B | G368: Công nghệ thông tin Việt Nhật
+A369: 3 | C369: B25DCVN009 | D369: Ngô Văn Bình | E369: Nam | F369: D25CQVN01-B | G369: Công nghệ thông tin Việt Nhật
+A370: 3 | C370: B25DCVN011 | D370: Mai Thế Bảo | E370: Nam | F370: D25CQVN01-B | G370: Công nghệ thông tin Việt Nhật
+A371: 3 | C371: B25DCVN013 | D371: Vũ Đoàn Quang Chiến | E371: Nam | F371: D25CQVN01-B | G371: Công nghệ thông tin Việt Nhật
+A372: 3 | C372: B25DCVN015 | D372: Đặng Thành Danh | E372: Nam | F372: D25CQVN01-B | G372: Công nghệ thông tin Việt Nhật
+A373: 3 | C373: B25DCVN017 | D373: Lê Anh Duy | E373: Nam | F373: D25CQVN01-B | G373: Công nghệ thông tin Việt Nhật
+A374: 3 | C374: B25DCVN019 | D374: Trịnh Anh Duy | E374: Nam | F374: D25CQVN01-B | G374: Công nghệ thông tin Việt Nhật
+A375: 3 | C375: B25DCVN021 | D375: Viên Tiến Dũng | E375: Nam | F375: D25CQVN01-B | G375: Công nghệ thông tin Việt Nhật
+A376: 3 | C376: B25DCVN025 | D376: Nguyễn Hoàng Giang | E376: Nam | F376: D25CQVN01-B | G376: Công nghệ thông tin Việt Nhật
+A377: 3 | C377: B25DCVN027 | D377: Lê Hiếu | E377: Nam | F377: D25CQVN01-B | G377: Công nghệ thông tin Việt Nhật
+A378: 3 | C378: B25DCVN029 | D378: Nguyễn Việt Hiếu | E378: Nam | F378: D25CQVN01-B | G378: Công nghệ thông tin Việt Nhật
+A379: 3 | C379: B25DCVN033 | D379: Vũ Huy Hoàng | E379: Nam | F379: D25CQVN01-B | G379: Công nghệ thông tin Việt Nhật
+A380: 3 | C380: B25DCVN035 | D380: Trần Quang Huy | E380: Nam | F380: D25CQVN01-B | G380: Công nghệ thông tin Việt Nhật
+A381: 3 | C381: B25DCVN037 | D381: Nguyễn Sơn Hà | E381: Nam | F381: D25CQVN01-B | G381: Công nghệ thông tin Việt Nhật
+A382: 3 | C382: B25DCVN039 | D382: Nguyễn Trần Hơn | E382: Nam | F382: D25CQVN01-B | G382: Công nghệ thông tin Việt Nhật
+A383: 3 | C383: B25DCVN043 | D383: Phạm Gia Khiêm | E383: Nam | F383: D25CQVN01-B | G383: Công nghệ thông tin Việt Nhật
+A384: 3 | C384: B25DCVN045 | D384: Mai Huy Bảo Khánh | E384: Nam | F384: D25CQVN01-B | G384: Công nghệ thông tin Việt Nhật
+A385: 3 | C385: B25DCVN047 | D385: Trần Anh Kiên | E385: Nam | F385: D25CQVN01-B | G385: Công nghệ thông tin Việt Nhật
+A386: 3 | C386: B25DCVN049 | D386: Nghiêm Huy Tuấn Long | E386: Nam | F386: D25CQVN01-B | G386: Công nghệ thông tin Việt Nhật
+A387: 3 | C387: B25DCVN051 | D387: Phan Thế Long | E387: Nam | F387: D25CQVN01-B | G387: Công nghệ thông tin Việt Nhật
+A388: 3 | C388: B25DCVN053 | D388: Nguyễn Quang Anh Minh | E388: Nam | F388: D25CQVN01-B | G388: Công nghệ thông tin Việt Nhật
+A389: 3 | C389: B25DCVN055 | D389: Đào Quang Minh | E389: Nam | F389: D25CQVN01-B | G389: Công nghệ thông tin Việt Nhật
+A390: 3 | C390: B25DCVN057 | D390: Lê Đức Mạnh | E390: Nam | F390: D25CQVN01-B | G390: Công nghệ thông tin Việt Nhật
+A391: 3 | C391: B25DCVN059 | D391: Lâm Hải Nam | E391: Nam | F391: D25CQVN01-B | G391: Công nghệ thông tin Việt Nhật
+A392: 3 | C392: B25DCVN061 | D392: Ngô Hải Nam | E392: Nam | F392: D25CQVN01-B | G392: Công nghệ thông tin Việt Nhật
+A393: 3 | C393: B25DCVN063 | D393: Nguyễn Sinh Hoàng Nguyên | E393: Nam | F393: D25CQVN01-B | G393: Công nghệ thông tin Việt Nhật
+A394: 3 | C394: B25DCVN067 | D394: Đỗ Tạ Nhân | E394: Nam | F394: D25CQVN01-B | G394: Công nghệ thông tin Việt Nhật
+A395: 3 | C395: B25DCVN069 | D395: Nguyễn Viết Nhật | E395: Nam | F395: D25CQVN01-B | G395: Công nghệ thông tin Việt Nhật
+A396: 3 | C396: B25DCVN071 | D396: Nhữ Tiến Phong | E396: Nam | F396: D25CQVN01-B | G396: Công nghệ thông tin Việt Nhật
+A397: 3 | C397: B25DCVN073 | D397: Nguyễn Quốc Phương | E397: Nam | F397: D25CQVN01-B | G397: Công nghệ thông tin Việt Nhật
+A398: 3 | C398: B25DCVN075 | D398: Nguyễn Lê Nhật Quang | E398: Nam | F398: D25CQVN01-B | G398: Công nghệ thông tin Việt Nhật
+A399: 3 | C399: B25DCVN077 | D399: Nguyễn Trung Thành | E399: Nam | F399: D25CQVN01-B | G399: Công nghệ thông tin Việt Nhật
+A400: 3 | C400: B25DCVN081 | D400: Lưu Quang Thịnh | E400: Nam | F400: D25CQVN01-B | G400: Công nghệ thông tin Việt Nhật
+A401: 3 | C401: B25DCVN083 | D401: Nguyễn Đức Toàn | E401: Nam | F401: D25CQVN01-B | G401: Công nghệ thông tin Việt Nhật
+A402: 3 | C402: B25DCVN085 | D402: Nguyễn Minh Trí | E402: Nam | F402: D25CQVN01-B | G402: Công nghệ thông tin Việt Nhật
+A403: 3 | C403: B25DCVN087 | D403: Lưu Đức Tuyến | E403: Nam | F403: D25CQVN01-B | G403: Công nghệ thông tin Việt Nhật
+A404: 3 | C404: B25DCVN089 | D404: Nguyễn Đức Tuấn | E404: Nam | F404: D25CQVN01-B | G404: Công nghệ thông tin Việt Nhật
+A405: 3 | C405: B25DCVN091 | D405: Nguyễn Huy Tú | E405: Nam | F405: D25CQVN01-B | G405: Công nghệ thông tin Việt Nhật
+A406: 3 | C406: B25DCVN093 | D406: Phạm Quốc Việt | E406: Nam | F406: D25CQVN01-B | G406: Công nghệ thông tin Việt Nhật
+A407: 3 | C407: B25DCVN095 | D407: Dương Minh Vũ | E407: Nam | F407: D25CQVN01-B | G407: Công nghệ thông tin Việt Nhật
+A408: 3 | C408: B25DCVN097 | D408: Nguyễn Bá Đạt | E408: Nam | F408: D25CQVN01-B | G408: Công nghệ thông tin Việt Nhật
+A409: 3 | C409: B25DCVN099 | D409: Trần Tuấn Đạt | E409: Nam | F409: D25CQVN01-B | G409: Công nghệ thông tin Việt Nhật
+A410: 3 | C410: B25DCVN101 | D410: Vũ Anh Đức | E410: Nam | F410: D25CQVN01-B | G410: Công nghệ thông tin Việt Nhật
+A411: 3 | C411: B25DCVN004 | D411: Nguyễn Tuấn Anh | E411: Nam | F411: D25CQVN02-B | G411: Công nghệ thông tin Việt Nhật
+A412: 3 | C412: B25DCVN006 | D412: Trần Đức Anh | E412: Nam | F412: D25CQVN02-B | G412: Công nghệ thông tin Việt Nhật
+A413: 3 | C413: B25DCVN008 | D413: Lê Trọng Bình | E413: Nam | F413: D25CQVN02-B | G413: Công nghệ thông tin Việt Nhật
+A414: 3 | C414: B25DCVN010 | D414: Bùi Hoài Bảo | E414: Nam | F414: D25CQVN02-B | G414: Công nghệ thông tin Việt Nhật
+A415: 3 | C415: B25DCVN012 | D415: Vũ Quốc Bảo | E415: Nam | F415: D25CQVN02-B | G415: Công nghệ thông tin Việt Nhật
+A416: 3 | C416: B25DCVN014 | D416: Phạm Minh Chí | E416: Nam | F416: D25CQVN02-B | G416: Công nghệ thông tin Việt Nhật
+A417: 3 | C417: B25DCVN016 | D417: Bùi Đức Duy | E417: Nam | F417: D25CQVN02-B | G417: Công nghệ thông tin Việt Nhật
+A418: 3 | C418: B25DCVN018 | D418: Triệu Khánh Duy | E418: Nam | F418: D25CQVN02-B | G418: Công nghệ thông tin Việt Nhật
+A419: 3 | C419: B25DCVN020 | D419: Hoàng Trung Dũng | E419: Nam | F419: D25CQVN02-B | G419: Công nghệ thông tin Việt Nhật
+A420: 3 | C420: B25DCVN022 | D420: Lưu Hải Dương | E420: Nam | F420: D25CQVN02-B | G420: Công nghệ thông tin Việt Nhật
+A421: 3 | C421: B25DCVN026 | D421: Phạm Trường Giang | E421: Nam | F421: D25CQVN02-B | G421: Công nghệ thông tin Việt Nhật
+A422: 3 | C422: B25DCVN028 | D422: Nguyễn Minh Hiếu | E422: Nam | F422: D25CQVN02-B | G422: Công nghệ thông tin Việt Nhật
+A423: 3 | C423: B25DCVN030 | D423: Vũ Trung Hiếu | E423: Nam | F423: D25CQVN02-B | G423: Công nghệ thông tin Việt Nhật
+A424: 3 | C424: B25DCVN032 | D424: Phạm Văn Hoàng | E424: Nam | F424: D25CQVN02-B | G424: Công nghệ thông tin Việt Nhật
+A425: 3 | C425: B25DCVN034 | D425: Trần Quang Huy | E425: Nam | F425: D25CQVN02-B | G425: Công nghệ thông tin Việt Nhật
+A426: 3 | C426: B25DCVN038 | D426: Nguyễn Minh Hùng | E426: Nam | F426: D25CQVN02-B | G426: Công nghệ thông tin Việt Nhật
+A427: 3 | C427: B25DCVN040 | D427: Hoàng Quốc Hưng | E427: Nam | F427: D25CQVN02-B | G427: Công nghệ thông tin Việt Nhật
+A428: 3 | C428: B25DCVN042 | D428: Nguyễn Cảnh Khiêm | E428: Nam | F428: D25CQVN02-B | G428: Công nghệ thông tin Việt Nhật
+A429: 3 | C429: B25DCVN044 | D429: Đào Gia Khoa | E429: Nam | F429: D25CQVN02-B | G429: Công nghệ thông tin Việt Nhật
+A430: 3 | C430: B25DCVN046 | D430: Nguyễn Đức Kiên | E430: Nam | F430: D25CQVN02-B | G430: Công nghệ thông tin Việt Nhật
+A431: 3 | C431: B25DCVN050 | D431: Nguyễn Trọng Long | E431: Nam | F431: D25CQVN02-B | G431: Công nghệ thông tin Việt Nhật
+A432: 3 | C432: B25DCVN052 | D432: Phạm Dương Long | E432: Nam | F432: D25CQVN02-B | G432: Công nghệ thông tin Việt Nhật
+A433: 3 | C433: B25DCVN054 | D433: Vũ Cao Minh | E433: Nam | F433: D25CQVN02-B | G433: Công nghệ thông tin Việt Nhật
+A434: 3 | C434: B25DCVN056 | D434: Đặng Nhật Minh | E434: Nam | F434: D25CQVN02-B | G434: Công nghệ thông tin Việt Nhật
+A435: 3 | C435: B25DCVN058 | D435: Nguyễn Văn Mạnh | E435: Nam | F435: D25CQVN02-B | G435: Công nghệ thông tin Việt Nhật
+A436: 3 | C436: B25DCVN060 | D436: Nguyễn Chí Nam | E436: Nam | F436: D25CQVN02-B | G436: Công nghệ thông tin Việt Nhật
+A437: 3 | C437: B25DCVN066 | D437: Nguyễn Đình Nhân | E437: Nam | F437: D25CQVN02-B | G437: Công nghệ thông tin Việt Nhật
+A438: 3 | C438: B25DCVN068 | D438: Lê Đặng Minh Nhật | E438: Nam | F438: D25CQVN02-B | G438: Công nghệ thông tin Việt Nhật
+A439: 3 | C439: B25DCVN070 | D439: Phạm Tiến Nhật | E439: Nam | F439: D25CQVN02-B | G439: Công nghệ thông tin Việt Nhật
+A440: 3 | C440: B25DCVN072 | D440: Lê Hữu Phúc | E440: Nam | F440: D25CQVN02-B | G440: Công nghệ thông tin Việt Nhật
+A441: 3 | C441: B25DCVN074 | D441: Bùi Doãn Nhật Quang | E441: Nam | F441: D25CQVN02-B | G441: Công nghệ thông tin Việt Nhật
+A442: 3 | C442: B25DCVN076 | D442: Nguyễn Văn Quý | E442: Nam | F442: D25CQVN02-B | G442: Công nghệ thông tin Việt Nhật
+A443: 3 | C443: B25DCVN078 | D443: Phạm Lê Diên Thái | E443: Nam | F443: D25CQVN02-B | G443: Công nghệ thông tin Việt Nhật
+A444: 3 | C444: B25DCVN082 | D444: Nguyễn Văn Thịnh | E444: Nam | F444: D25CQVN02-B | G444: Công nghệ thông tin Việt Nhật
+A445: 3 | C445: B25DCVN086 | D445: Vũ Đức Trí | E445: Nam | F445: D25CQVN02-B | G445: Công nghệ thông tin Việt Nhật
+A446: 3 | C446: B25DCVN088 | D446: Dương Minh Tuấn | E446: Nam | F446: D25CQVN02-B | G446: Công nghệ thông tin Việt Nhật
+A447: 3 | C447: B25DCVN090 | D447: Phùng Quốc Tuấn | E447: Nam | F447: D25CQVN02-B | G447: Công nghệ thông tin Việt Nhật
+A448: 3 | C448: B25DCVN094 | D448: Hoàng Thiện Văn | E448: Nam | F448: D25CQVN02-B | G448: Công nghệ thông tin Việt Nhật
+A449: 3 | C449: B25DCVN096 | D449: Cao Hải Đăng | E449: Nam | F449: D25CQVN02-B | G449: Công nghệ thông tin Việt Nhật
+A450: 3 | C450: B25DCVN098 | D450: Ngô Tấn Đạt | E450: Nam | F450: D25CQVN02-B | G450: Công nghệ thông tin Việt Nhật
+A451: 3 | C451: B25DCVN102 | D451: Đoàn Hoàng Đức | E451: Nam | F451: D25CQVN02-B | G451: Công nghệ thông tin Việt Nhật
+A452: 3 | C452: B25DCCC001 | D452: Hồ Văn An | E452: Nam | F452: D25CQCC01-B | G452: Cử nhân Công nghệ thông tin
+A453: 3 | C453: B25DCCC007 | D453: Vũ Tùng An | E453: Nam | F453: D25CQCC01-B | G453: Cử nhân Công nghệ thông tin
+A454: 3 | C454: B25DCCC013 | D454: Nguyễn Duy Anh | E454: Nam | F454: D25CQCC01-B | G454: Cử nhân Công nghệ thông tin
+A455: 3 | C455: B25DCCC019 | D455: Phạm Ngọc Anh | E455: Nam | F455: D25CQCC01-B | G455: Cử nhân Công nghệ thông tin
+A456: 3 | C456: B25DCCC025 | D456: Trần Tuấn Anh | E456: Nam | F456: D25CQCC01-B | G456: Cử nhân Công nghệ thông tin
+A457: 3 | C457: B25DCCC031 | D457: Trần Xuân Bách | E457: Nam | F457: D25CQCC01-B | G457: Cử nhân Công nghệ thông tin
+A458: 3 | C458: B25DCCC037 | D458: Nguyễn Quốc Bảo | E458: Nam | F458: D25CQCC01-B | G458: Cử nhân Công nghệ thông tin
+A459: 3 | C459: B25DCCC043 | D459: Hồ Công Chính | E459: Nam | F459: D25CQCC01-B | G459: Cử nhân Công nghệ thông tin
+A460: 3 | C460: B25DCCC049 | D460: Nguyễn Toàn Diện | E460: Nam | F460: D25CQCC01-B | G460: Cử nhân Công nghệ thông tin
+A461: 3 | C461: B25DCCC061 | D461: Bùi Xuân An Dương | E461: Nam | F461: D25CQCC01-B | G461: Cử nhân Công nghệ thông tin
+A462: 3 | C462: B25DCCC067 | D462: Nguyễn Xuân Hiếu | E462: Nam | F462: D25CQCC01-B | G462: Cử nhân Công nghệ thông tin
+A463: 3 | C463: B25DCCC073 | D463: Nguyễn Việt Hoàng | E463: Nam | F463: D25CQCC01-B | G463: Cử nhân Công nghệ thông tin
+A464: 3 | C464: B25DCCC079 | D464: Nguyễn Hoàng Gia Huy | E464: Nam | F464: D25CQCC01-B | G464: Cử nhân Công nghệ thông tin
+A465: 3 | C465: B25DCCC085 | D465: Đàm Trọng Cao Huy | E465: Nam | F465: D25CQCC01-B | G465: Cử nhân Công nghệ thông tin
+A466: 3 | C466: B25DCCC097 | D466: Nguyễn Tuấn Hưng | E466: Nam | F466: D25CQCC01-B | G466: Cử nhân Công nghệ thông tin
+A467: 3 | C467: B25DCCC103 | D467: Đặng Tuấn Hưng | E467: Nam | F467: D25CQCC01-B | G467: Cử nhân Công nghệ thông tin
+A468: 3 | C468: B25DCCC109 | D468: Nguyễn Bế Khanh | E468: Nam | F468: D25CQCC01-B | G468: Cử nhân Công nghệ thông tin
+A469: 3 | C469: B25DCCC115 | D469: Nguyễn Duy Khánh | E469: Nam | F469: D25CQCC01-B | G469: Cử nhân Công nghệ thông tin
+A470: 3 | C470: B25DCCC121 | D470: Đỗ Đức Kiên | E470: Nam | F470: D25CQCC01-B | G470: Cử nhân Công nghệ thông tin
+A471: 3 | C471: B25DCCC139 | D471: Nguyễn Bảo Minh | E471: Nam | F471: D25CQCC01-B | G471: Cử nhân Công nghệ thông tin
+A472: 3 | C472: B25DCCC145 | D472: Đinh Tuấn Minh | E472: Nam | F472: D25CQCC01-B | G472: Cử nhân Công nghệ thông tin
+A473: 3 | C473: B25DCCC151 | D473: Nguyễn Hải Nam | E473: Nam | F473: D25CQCC01-B | G473: Cử nhân Công nghệ thông tin
+A474: 3 | C474: B25DCCC157 | D474: Nguyễn Thành Nguyên | E474: Nam | F474: D25CQCC01-B | G474: Cử nhân Công nghệ thông tin
+A475: 3 | C475: B25DCCC163 | D475: Nông Đức Nhân | E475: Nam | F475: D25CQCC01-B | G475: Cử nhân Công nghệ thông tin
+A476: 3 | C476: B25DCCC169 | D476: Lê Tuấn Phong | E476: Nam | F476: D25CQCC01-B | G476: Cử nhân Công nghệ thông tin
+A477: 3 | C477: B25DCCC175 | D477: Tô Đông Phú | E477: Nam | F477: D25CQCC01-B | G477: Cử nhân Công nghệ thông tin
+A478: 3 | C478: B25DCCC181 | D478: Nguyễn Anh Quang | E478: Nam | F478: D25CQCC01-B | G478: Cử nhân Công nghệ thông tin
+A479: 3 | C479: B25DCCC187 | D479: Nguyễn Hữu Quyết | E479: Nam | F479: D25CQCC01-B | G479: Cử nhân Công nghệ thông tin
+A480: 3 | C480: B25DCCC193 | D480: Nguyễn Minh Quân | E480: Nam | F480: D25CQCC01-B | G480: Cử nhân Công nghệ thông tin
+A481: 3 | C481: B25DCCC199 | D481: Nguyễn Phú Quý | E481: Nam | F481: D25CQCC01-B | G481: Cử nhân Công nghệ thông tin
+A482: 4 | B482: Thông báo khi đến TTGDQP | C482: B25DCCC205 | D482: Nguyễn Hà Thoại | E482: Nam | F482: D25CQCC01-B | G482: Cử nhân Công nghệ thông tin | H482: C Trưởng: Thầy Kiều Quang Hải; TS: 160, chia làm 3B; 8A 
+A483: 4 | C483: B25DCCC211 | D483: Đỗ Trí Thành | E483: Nam | F483: D25CQCC01-B | G483: Cử nhân Công nghệ thông tin
+A484: 4 | C484: B25DCCC223 | D484: Lâm Phúc Tiến | E484: Nam | F484: D25CQCC01-B | G484: Cử nhân Công nghệ thông tin
+A485: 4 | C485: B25DCCC229 | D485: Đỗ Văn Toàn | E485: Nam | F485: D25CQCC01-B | G485: Cử nhân Công nghệ thông tin
+A486: 4 | C486: B25DCCC235 | D486: Phạm Ngọc Trí | E486: Nam | F486: D25CQCC01-B | G486: Cử nhân Công nghệ thông tin
+A487: 4 | C487: B25DCCC241 | D487: Trần Văn Tuyên | E487: Nam | F487: D25CQCC01-B | G487: Cử nhân Công nghệ thông tin
+A488: 4 | C488: B25DCCC247 | D488: Ngô Huy Tuấn | E488: Nam | F488: D25CQCC01-B | G488: Cử nhân Công nghệ thông tin
+A489: 4 | C489: B25DCCC253 | D489: Mai Lâm Tùng | E489: Nam | F489: D25CQCC01-B | G489: Cử nhân Công nghệ thông tin
+A490: 4 | C490: B25DCCC259 | D490: Nguyễn Anh Tú | E490: Nam | F490: D25CQCC01-B | G490: Cử nhân Công nghệ thông tin
+A491: 4 | C491: B25DCCC265 | D491: Nguyễn Tiến Việt | E491: Nam | F491: D25CQCC01-B | G491: Cử nhân Công nghệ thông tin
+A492: 4 | C492: B25DCCC271 | D492: Lê Hoài Vũ | E492: Nam | F492: D25CQCC01-B | G492: Cử nhân Công nghệ thông tin
+A493: 4 | C493: B25DCCC277 | D493: Nguyễn Đức Đông | E493: Nam | F493: D25CQCC01-B | G493: Cử nhân Công nghệ thông tin
+A494: 4 | C494: B25DCCC283 | D494: Trần Đăng | E494: Nam | F494: D25CQCC01-B | G494: Cử nhân Công nghệ thông tin
+A495: 4 | C495: B25DCCC289 | D495: Trần Thành Đạt | E495: Nam | F495: D25CQCC01-B | G495: Cử nhân Công nghệ thông tin
+A496: 4 | C496: B25DCCC295 | D496: Lê Xuân Đức | E496: Nam | F496: D25CQCC01-B | G496: Cử nhân Công nghệ thông tin
+A497: 4 | C497: B25DCCC301 | D497: Nguyễn Đình Lâm Đức | E497: Nam | F497: D25CQCC01-B | G497: Cử nhân Công nghệ thông tin
+A498: 4 | C498: B25DCCC002 | D498: Nguyễn Danh An | E498: Nam | F498: D25CQCC02-B | G498: Cử nhân Công nghệ thông tin
+A499: 4 | C499: B25DCCC008 | D499: Dư Tuấn Anh | E499: Nam | F499: D25CQCC02-B | G499: Cử nhân Công nghệ thông tin
+A500: 4 | C500: B25DCCC014 | D500: Nguyễn Duy Anh | E500: Nam | F500: D25CQCC02-B | G500: Cử nhân Công nghệ thông tin
+A501: 4 | C501: B25DCCC020 | D501: Phạm Tuấn Anh | E501: Nam | F501: D25CQCC02-B | G501: Cử nhân Công nghệ thông tin
+A502: 4 | C502: B25DCCC026 | D502: Vũ Duy Anh | E502: Nam | F502: D25CQCC02-B | G502: Cử nhân Công nghệ thông tin
+A503: 4 | C503: B25DCCC032 | D503: Vũ Hoàng Bách | E503: Nam | F503: D25CQCC02-B | G503: Cử nhân Công nghệ thông tin
+A504: 4 | C504: B25DCCC038 | D504: Ôn Gia Bảo | E504: Nam | F504: D25CQCC02-B | G504: Cử nhân Công nghệ thông tin
+A505: 4 | C505: B25DCCC044 | D505: Hà Mạnh Cường | E505: Nam | F505: D25CQCC02-B | G505: Cử nhân Công nghệ thông tin
+A506: 4 | C506: B25DCCC050 | D506: Lê Đức Duy | E506: Nam | F506: D25CQCC02-B | G506: Cử nhân Công nghệ thông tin
+A507: 4 | C507: B25DCCC056 | D507: Bùi Văn Dũng | E507: Nam | F507: D25CQCC02-B | G507: Cử nhân Công nghệ thông tin
+A508: 4 | C508: B25DCCC062 | D508: Hà Minh Dương | E508: Nam | F508: D25CQCC02-B | G508: Cử nhân Công nghệ thông tin
+A509: 4 | C509: B25DCCC068 | D509: Phạm Ngọc Trung Hiếu | E509: Nam | F509: D25CQCC02-B | G509: Cử nhân Công nghệ thông tin
+A510: 4 | C510: B25DCCC074 | D510: Trần Đức Hoàng | E510: Nam | F510: D25CQCC02-B | G510: Cử nhân Công nghệ thông tin
+A511: 4 | C511: B25DCCC080 | D511: Nguyễn Quốc Huy | E511: Nam | F511: D25CQCC02-B | G511: Cử nhân Công nghệ thông tin
+A512: 4 | C512: B25DCCC098 | D512: Ngô Gia Hưng | E512: Nam | F512: D25CQCC02-B | G512: Cử nhân Công nghệ thông tin
+A513: 4 | C513: B25DCCC104 | D513: Nguyễn Hoàng Hải | E513: Nam | F513: D25CQCC02-B | G513: Cử nhân Công nghệ thông tin
+A514: 4 | C514: B25DCCC110 | D514: Lê Đăng Khoa | E514: Nam | F514: D25CQCC02-B | G514: Cử nhân Công nghệ thông tin
+A515: 4 | C515: B25DCCC116 | D515: Đỗ Viết Anh Khôi | E515: Nam | F515: D25CQCC02-B | G515: Cử nhân Công nghệ thông tin
+A516: 4 | C516: B25DCCC122 | D516: Lê Sỹ Cao Kỳ | E516: Nam | F516: D25CQCC02-B | G516: Cử nhân Công nghệ thông tin
+A517: 4 | C517: B25DCCC134 | D517: Nguyễn Đức Lộc | E517: Nam | F517: D25CQCC02-B | G517: Cử nhân Công nghệ thông tin
+A518: 4 | C518: B25DCCC140 | D518: Nguyễn Gia Minh | E518: Nam | F518: D25CQCC02-B | G518: Cử nhân Công nghệ thông tin
+A519: 4 | C519: B25DCCC146 | D519: Lê Duy Mạnh | E519: Nam | F519: D25CQCC02-B | G519: Cử nhân Công nghệ thông tin
+A520: 4 | C520: B25DCCC152 | D520: Nguyễn Thế Nam | E520: Nam | F520: D25CQCC02-B | G520: Cử nhân Công nghệ thông tin
+A521: 4 | C521: B25DCCC158 | D521: Nguyễn Xuân Minh Ngọc | E521: Nam | F521: D25CQCC02-B | G521: Cử nhân Công nghệ thông tin
+A522: 4 | C522: B25DCCC164 | D522: Hoàng Quang Nhật | E522: Nam | F522: D25CQCC02-B | G522: Cử nhân Công nghệ thông tin
+A523: 4 | C523: B25DCCC170 | D523: Ngô Thanh Phong | E523: Nam | F523: D25CQCC02-B | G523: Cử nhân Công nghệ thông tin
+A524: 4 | C524: B25DCCC176 | D524: Mai Hoàng Phúc | E524: Nam | F524: D25CQCC02-B | G524: Cử nhân Công nghệ thông tin
+A525: 4 | C525: B25DCCC182 | D525: Nguyễn Việt Quang | E525: Nam | F525: D25CQCC02-B | G525: Cử nhân Công nghệ thông tin
+A526: 4 | C526: B25DCCC188 | D526: Trần Ngọc Quyết | E526: Nam | F526: D25CQCC02-B | G526: Cử nhân Công nghệ thông tin
+A527: 4 | C527: B25DCCC194 | D527: Trần Minh Quân | E527: Nam | F527: D25CQCC02-B | G527: Cử nhân Công nghệ thông tin
+A528: 4 | C528: B25DCCC200 | D528: Nguyễn Minh San | E528: Nam | F528: D25CQCC02-B | G528: Cử nhân Công nghệ thông tin
+A529: 4 | C529: B25DCCC206 | D529: Nguyễn Như Thuyết | E529: Nam | F529: D25CQCC02-B | G529: Cử nhân Công nghệ thông tin
+A530: 4 | C530: B25DCCC212 | D530: Phạm Quốc Thái | E530: Nam | F530: D25CQCC02-B | G530: Cử nhân Công nghệ thông tin
+A531: 4 | C531: B25DCCC224 | D531: Nguyễn Văn Tiến | E531: Nam | F531: D25CQCC02-B | G531: Cử nhân Công nghệ thông tin
+A532: 4 | C532: B25DCCC236 | D532: Trịnh Minh Trí | E532: Nam | F532: D25CQCC02-B | G532: Cử nhân Công nghệ thông tin
+A533: 4 | C533: B25DCCC242 | D533: Bàn Nam Tuấn | E533: Nam | F533: D25CQCC02-B | G533: Cử nhân Công nghệ thông tin
+A534: 4 | C534: B25DCCC248 | D534: Phạm Anh Tuấn | E534: Nam | F534: D25CQCC02-B | G534: Cử nhân Công nghệ thông tin
+A535: 4 | C535: B25DCCC254 | D535: Nguyễn Hoàng Tùng | E535: Nam | F535: D25CQCC02-B | G535: Cử nhân Công nghệ thông tin
+A536: 4 | C536: B25DCCC260 | D536: Trần Anh Tú | E536: Nam | F536: D25CQCC02-B | G536: Cử nhân Công nghệ thông tin
+A537: 4 | C537: B25DCCC266 | D537: Ngô Quốc Việt | E537: Nam | F537: D25CQCC02-B | G537: Cử nhân Công nghệ thông tin
+A538: 4 | C538: B25DCCC272 | D538: Lưu Huy Vũ | E538: Nam | F538: D25CQCC02-B | G538: Cử nhân Công nghệ thông tin
+A539: 4 | C539: B25DCCC278 | D539: Hoàng Hữu Hải Đăng | E539: Nam | F539: D25CQCC02-B | G539: Cử nhân Công nghệ thông tin
+A540: 4 | C540: B25DCCC284 | D540: Đỗ Văn Đăng | E540: Nam | F540: D25CQCC02-B | G540: Cử nhân Công nghệ thông tin
+A541: 4 | C541: B25DCCC290 | D541: Trần Tiến Đạt | E541: Nam | F541: D25CQCC02-B | G541: Cử nhân Công nghệ thông tin
+A542: 4 | C542: B25DCCC296 | D542: Nguyễn Công Đức | E542: Nam | F542: D25CQCC02-B | G542: Cử nhân Công nghệ thông tin
+A543: 4 | C543: B25DCCC302 | D543: Phạm Anh Đức | E543: Nam | F543: D25CQCC02-B | G543: Cử nhân Công nghệ thông tin
+A544: 4 | C544: B25DCCC003 | D544: Nguyễn Tài Khánh An | E544: Nam | F544: D25CQCC03-B | G544: Cử nhân Công nghệ thông tin
+A545: 4 | C545: B25DCCC009 | D545: Hoàng Tuấn Anh | E545: Nam | F545: D25CQCC03-B | G545: Cử nhân Công nghệ thông tin
+A546: 4 | C546: B25DCCC015 | D546: Nguyễn Tuấn Anh | E546: Nam | F546: D25CQCC03-B | G546: Cử nhân Công nghệ thông tin
+A547: 4 | C547: B25DCCC021 | D547: Trần Nam Anh | E547: Nam | F547: D25CQCC03-B | G547: Cử nhân Công nghệ thông tin
+A548: 4 | C548: B25DCCC027 | D548: Đoàn Việt Anh | E548: Nam | F548: D25CQCC03-B | G548: Cử nhân Công nghệ thông tin
+A549: 4 | C549: B25DCCC033 | D549: Đặng Nguyên Bách | E549: Nam | F549: D25CQCC03-B | G549: Cử nhân Công nghệ thông tin
+A550: 4 | C550: B25DCCC039 | D550: Đinh Nguyễn Trọng Bảo | E550: Nam | F550: D25CQCC03-B | G550: Cử nhân Công nghệ thông tin
+A551: 4 | C551: B25DCCC045 | D551: Lại Mạnh Cường | E551: Nam | F551: D25CQCC03-B | G551: Cử nhân Công nghệ thông tin
+A552: 4 | C552: B25DCCC051 | D552: Nguyễn Đức Duy | E552: Nam | F552: D25CQCC03-B | G552: Cử nhân Công nghệ thông tin
+A553: 4 | C553: B25DCCC057 | D553: Nguyễn Tiến Dũng | E553: Nam | F553: D25CQCC03-B | G553: Cử nhân Công nghệ thông tin
+A554: 4 | C554: B25DCCC063 | D554: Lê Minh Dương | E554: Nam | F554: D25CQCC03-B | G554: Cử nhân Công nghệ thông tin
+A555: 4 | C555: B25DCCC069 | D555: Quang Trung Hiếu | E555: Nam | F555: D25CQCC03-B | G555: Cử nhân Công nghệ thông tin
+A556: 4 | C556: B25DCCC081 | D556: Nguyễn Trịnh Gia Huy | E556: Nam | F556: D25CQCC03-B | G556: Cử nhân Công nghệ thông tin
+A557: 4 | C557: B25DCCC093 | D557: Phạm Nguyễn Việt Hùng | E557: Nam | F557: D25CQCC03-B | G557: Cử nhân Công nghệ thông tin
+A558: 4 | C558: B25DCCC099 | D558: Phan Lạc Hưng | E558: Nam | F558: D25CQCC03-B | G558: Cử nhân Công nghệ thông tin
+A559: 4 | C559: B25DCCC105 | D559: Ngô Đại Hải | E559: Nam | F559: D25CQCC03-B | G559: Cử nhân Công nghệ thông tin
+A560: 4 | C560: B25DCCC111 | D560: Ngô Đăng Khoa | E560: Nam | F560: D25CQCC03-B | G560: Cử nhân Công nghệ thông tin
+A561: 4 | C561: B25DCCC129 | D561: Nguyễn Hải Long | E561: Nam | F561: D25CQCC03-B | G561: Cử nhân Công nghệ thông tin
+A562: 4 | C562: B25DCCC141 | D562: Nguyễn Ngọc Minh | E562: Nam | F562: D25CQCC03-B | G562: Cử nhân Công nghệ thông tin
+A563: 4 | C563: B25DCCC147 | D563: Lê Đức Mạnh | E563: Nam | F563: D25CQCC03-B | G563: Cử nhân Công nghệ thông tin
+A564: 4 | C564: B25DCCC153 | D564: Đỗ Hoài Nam | E564: Nam | F564: D25CQCC03-B | G564: Cử nhân Công nghệ thông tin
+A565: 4 | C565: B25DCCC165 | D565: Lê Hoàng Long Nhật | E565: Nam | F565: D25CQCC03-B | G565: Cử nhân Công nghệ thông tin
+A566: 4 | C566: B25DCCC171 | D566: Đàm Đức Phong | E566: Nam | F566: D25CQCC03-B | G566: Cử nhân Công nghệ thông tin
+A567: 4 | C567: B25DCCC177 | D567: Nguyễn Hà Đình Phúc | E567: Nam | F567: D25CQCC03-B | G567: Cử nhân Công nghệ thông tin
+A568: 4 | C568: B25DCCC183 | D568: Nguyễn Đức Quang | E568: Nam | F568: D25CQCC03-B | G568: Cử nhân Công nghệ thông tin
+A569: 4 | C569: B25DCCC189 | D569: Hoàng Ngọc Quyền | E569: Nam | F569: D25CQCC03-B | G569: Cử nhân Công nghệ thông tin
+A570: 4 | C570: B25DCCC195 | D570: Vũ Văn Quân | E570: Nam | F570: D25CQCC03-B | G570: Cử nhân Công nghệ thông tin
+A571: 4 | C571: B25DCCC201 | D571: Trần Tấn Sang | E571: Nam | F571: D25CQCC03-B | G571: Cử nhân Công nghệ thông tin
+A572: 4 | C572: B25DCCC207 | D572: Dương Văn Thành | E572: Nam | F572: D25CQCC03-B | G572: Cử nhân Công nghệ thông tin
+A573: 4 | C573: B25DCCC213 | D573: Phạm Đỗ Đình Thái | E573: Nam | F573: D25CQCC03-B | G573: Cử nhân Công nghệ thông tin
+A574: 4 | C574: B25DCCC225 | D574: Nguyễn Danh Toàn | E574: Nam | F574: D25CQCC03-B | G574: Cử nhân Công nghệ thông tin
+A575: 4 | C575: B25DCCC237 | D575: Nguyễn Thiên Trường | E575: Nam | F575: D25CQCC03-B | G575: Cử nhân Công nghệ thông tin
+A576: 4 | C576: B25DCCC243 | D576: Hà Lê Anh Tuấn | E576: Nam | F576: D25CQCC03-B | G576: Cử nhân Công nghệ thông tin
+A577: 4 | C577: B25DCCC249 | D577: Vương Sỹ Mạnh Tuấn | E577: Nam | F577: D25CQCC03-B | G577: Cử nhân Công nghệ thông tin
+A578: 4 | C578: B25DCCC255 | D578: Trương Hoàng Tùng | E578: Nam | F578: D25CQCC03-B | G578: Cử nhân Công nghệ thông tin
+A579: 4 | C579: B25DCCC261 | D579: Trịnh Anh Tú | E579: Nam | F579: D25CQCC03-B | G579: Cử nhân Công nghệ thông tin
+A580: 4 | C580: B25DCCC267 | D580: Phạm Bá Việt | E580: Nam | F580: D25CQCC03-B | G580: Cử nhân Công nghệ thông tin
+A581: 4 | C581: B25DCCC273 | D581: Phạm Minh Vũ | E581: Nam | F581: D25CQCC03-B | G581: Cử nhân Công nghệ thông tin
+A582: 4 | C582: B25DCCC279 | D582: Lê Hải Đăng | E582: Nam | F582: D25CQCC03-B | G582: Cử nhân Công nghệ thông tin
+A583: 4 | C583: B25DCCC285 | D583: Lương Tuấn Đạt | E583: Nam | F583: D25CQCC03-B | G583: Cử nhân Công nghệ thông tin
+A584: 4 | C584: B25DCCC291 | D584: Trần Tiến Đạt | E584: Nam | F584: D25CQCC03-B | G584: Cử nhân Công nghệ thông tin
+A585: 4 | C585: B25DCCC297 | D585: Nguyễn Minh Đức | E585: Nam | F585: D25CQCC03-B | G585: Cử nhân Công nghệ thông tin
+A586: 4 | C586: B25DCCC303 | D586: Vũ Lê Minh Đức | E586: Nam | F586: D25CQCC03-B | G586: Cử nhân Công nghệ thông tin
+A587: 4 | C587: B25DCCC004 | D587: Nguyễn Xuân An | E587: Nam | F587: D25CQCC04-B | G587: Cử nhân Công nghệ thông tin
+A588: 4 | C588: B25DCCC016 | D588: Nguyễn Tuấn Anh | E588: Nam | F588: D25CQCC04-B | G588: Cử nhân Công nghệ thông tin
+A589: 4 | C589: B25DCCC022 | D589: Trần Ngọc Hoàng Anh | E589: Nam | F589: D25CQCC04-B | G589: Cử nhân Công nghệ thông tin
+A590: 4 | C590: B25DCCC028 | D590: Đặng Nguyễn Đức Anh | E590: Nam | F590: D25CQCC04-B | G590: Cử nhân Công nghệ thông tin
+A591: 4 | C591: B25DCCC034 | D591: Khổng Đức Bình | E591: Nam | F591: D25CQCC04-B | G591: Cử nhân Công nghệ thông tin
+A592: 4 | C592: B25DCCC040 | D592: Tạ Xuân Bắc | E592: Nam | F592: D25CQCC04-B | G592: Cử nhân Công nghệ thông tin
+A593: 4 | C593: B25DCCC046 | D593: Nguyễn Duy Cường | E593: Nam | F593: D25CQCC04-B | G593: Cử nhân Công nghệ thông tin
+A594: 4 | C594: B25DCCC052 | D594: Phạm Khánh Duy | E594: Nam | F594: D25CQCC04-B | G594: Cử nhân Công nghệ thông tin
+A595: 4 | C595: B25DCCC058 | D595: Nguyễn Trí Dũng | E595: Nam | F595: D25CQCC04-B | G595: Cử nhân Công nghệ thông tin
+A596: 4 | C596: B25DCCC064 | D596: Lê Quang Dương | E596: Nam | F596: D25CQCC04-B | G596: Cử nhân Công nghệ thông tin
+A597: 4 | C597: B25DCCC070 | D597: Trần Đức Hiếu | E597: Nam | F597: D25CQCC04-B | G597: Cử nhân Công nghệ thông tin
+A598: 4 | C598: B25DCCC076 | D598: Đào Thanh Hoàng | E598: Nam | F598: D25CQCC04-B | G598: Cử nhân Công nghệ thông tin
+A599: 4 | C599: B25DCCC082 | D599: Phí Quang Huy | E599: Nam | F599: D25CQCC04-B | G599: Cử nhân Công nghệ thông tin
+A600: 4 | C600: B25DCCC088 | D600: Nguyễn Mạnh Hà | E600: Nam | F600: D25CQCC04-B | G600: Cử nhân Công nghệ thông tin
+A601: 4 | C601: B25DCCC094 | D601: Phạm Việt Hùng | E601: Nam | F601: D25CQCC04-B | G601: Cử nhân Công nghệ thông tin
+A602: 4 | C602: B25DCCC100 | D602: Phạm Quốc Hưng | E602: Nam | F602: D25CQCC04-B | G602: Cử nhân Công nghệ thông tin
+A603: 4 | C603: B25DCCC106 | D603: Lê Hùng Hậu | E603: Nam | F603: D25CQCC04-B | G603: Cử nhân Công nghệ thông tin
+A604: 4 | C604: B25DCCC112 | D604: Phùng Hoàng Khoa | E604: Nam | F604: D25CQCC04-B | G604: Cử nhân Công nghệ thông tin
+A605: 4 | C605: B25DCCC118 | D605: Nguyễn Tuấn Kiên | E605: Nam | F605: D25CQCC04-B | G605: Cử nhân Công nghệ thông tin
+A606: 4 | C606: B25DCCC130 | D606: Trần Bảo Long | E606: Nam | F606: D25CQCC04-B
+A607: 4 | C607: B25DCCC142 | D607: Nguyễn Quang Minh | E607: Nam | F607: D25CQCC04-B | G607: Cử nhân Công nghệ thông tin
+A608: 4 | C608: B25DCCC148 | D608: Nguyễn Tuấn Đức Mạnh | E608: Nam | F608: D25CQCC04-B | G608: Cử nhân Công nghệ thông tin
+A609: 4 | C609: B25DCCC166 | D609: Đỗ Doãn Minh Nhật | E609: Nam | F609: D25CQCC04-B | G609: Cử nhân Công nghệ thông tin
+A610: 4 | C610: B25DCCC172 | D610: Nguyễn Chính Phát | E610: Nam | F610: D25CQCC04-B | G610: Cử nhân Công nghệ thông tin
+A611: 4 | C611: B25DCCC178 | D611: Nguyễn Khắc Phúc | E611: Nam | F611: D25CQCC04-B | G611: Cử nhân Công nghệ thông tin
+A612: 4 | C612: B25DCCC184 | D612: Trần Tùng Quang | E612: Nam | F612: D25CQCC04-B | G612: Cử nhân Công nghệ thông tin
+A613: 4 | C613: B25DCCC190 | D613: Dương Khắc Quân | E613: Nam | F613: D25CQCC04-B | G613: Cử nhân Công nghệ thông tin
+A614: 4 | C614: B25DCCC196 | D614: Vương Tá Quân | E614: Nam | F614: D25CQCC04-B | G614: Cử nhân Công nghệ thông tin
+A615: 4 | C615: B25DCCC202 | D615: Lê Duy Sáng | E615: Nam | F615: D25CQCC04-B | G615: Cử nhân Công nghệ thông tin
+A616: 4 | C616: B25DCCC208 | D616: Nguyễn Hữu Thành | E616: Nam | F616: D25CQCC04-B | G616: Cử nhân Công nghệ thông tin
+A617: 4 | C617: B25DCCC214 | D617: Trần Văn Thái | E617: Nam | F617: D25CQCC04-B | G617: Cử nhân Công nghệ thông tin
+A618: 4 | C618: B25DCCC220 | D618: Lê Toàn Thắng | E618: Nam | F618: D25CQCC04-B | G618: Cử nhân Công nghệ thông tin
+A619: 4 | C619: B25DCCC226 | D619: Nguyễn Duy Toàn | E619: Nam | F619: D25CQCC04-B | G619: Cử nhân Công nghệ thông tin
+A620: 4 | C620: B25DCCC232 | D620: Nguyễn An Trung | E620: Nam | F620: D25CQCC04-B | G620: Cử nhân Công nghệ thông tin
+A621: 4 | C621: B25DCCC238 | D621: Đoàn Phúc Trị | E621: Nam | F621: D25CQCC04-B | G621: Cử nhân Công nghệ thông tin
+A622: 4 | C622: B25DCCC244 | D622: Hồ Sỹ Anh Tuấn | E622: Nam | F622: D25CQCC04-B | G622: Cử nhân Công nghệ thông tin
+A623: 4 | C623: B25DCCC250 | D623: Đinh Quốc Tuấn | E623: Nam | F623: D25CQCC04-B | G623: Cử nhân Công nghệ thông tin
+A624: 4 | C624: B25DCCC256 | D624: Trần Bùi Thanh Tùng | E624: Nam | F624: D25CQCC04-B | G624: Cử nhân Công nghệ thông tin
+A625: 4 | C625: B25DCCC262 | D625: Vũ Minh Tú | E625: Nam | F625: D25CQCC04-B | G625: Cử nhân Công nghệ thông tin
+A626: 4 | C626: B25DCCC292 | D626: Phạm Đức Đỗ | E626: Nam | F626: D25CQCC04-B | G626: Cử nhân Công nghệ thông tin
+A627: 4 | C627: B25DCCC298 | D627: Nguyễn Quang Đức | E627: Nam | F627: D25CQCC04-B | G627: Cử nhân Công nghệ thông tin
+A628: 4 | C628: B25DCCC304 | D628: Đinh Trọng Đức | E628: Nam | F628: D25CQCC04-B | G628: Cử nhân Công nghệ thông tin
+A629: 4 | C629: B25DCCC005 | D629: Thái Quốc An | E629: Nam | F629: D25CQCC05-B | G629: Cử nhân Công nghệ thông tin
+A630: 4 | C630: B25DCCC011 | D630: Nguyễn Bá Nhật Anh | E630: Nam | F630: D25CQCC05-B | G630: Cử nhân Công nghệ thông tin
+A631: 4 | C631: B25DCCC017 | D631: Nguyễn Việt Anh | E631: Nam | F631: D25CQCC05-B | G631: Cử nhân Công nghệ thông tin
+A632: 4 | C632: B25DCCC023 | D632: Trần Quốc Anh | E632: Nam | F632: D25CQCC05-B | G632: Cử nhân Công nghệ thông tin
+A633: 4 | C633: B25DCCC029 | D633: Đỗ Văn Anh | E633: Nam | F633: D25CQCC05-B | G633: Cử nhân Công nghệ thông tin
+A634: 4 | C634: B25DCCC035 | D634: Vũ Văn Thanh Bình | E634: Nam | F634: D25CQCC05-B | G634: Cử nhân Công nghệ thông tin
+A635: 4 | C635: B25DCCC041 | D635: Phan Việt Bằng | E635: Nam | F635: D25CQCC05-B | G635: Cử nhân Công nghệ thông tin
+A636: 4 | C636: B25DCCC047 | D636: Ngô Tuấn Cường | E636: Nam | F636: D25CQCC05-B | G636: Cử nhân Công nghệ thông tin
+A637: 4 | C637: B25DCCC053 | D637: Phạm Quang Duy | E637: Nam | F637: D25CQCC05-B | G637: Cử nhân Công nghệ thông tin
+A638: 4 | C638: B25DCCC059 | D638: Nguyễn Tuấn Dũng | E638: Nam | F638: D25CQCC05-B | G638: Cử nhân Công nghệ thông tin
+A639: 4 | C639: B25DCCC065 | D639: Trần Đăng Dương | E639: Nam | F639: D25CQCC05-B | G639: Cử nhân Công nghệ thông tin
+A640: 4 | C640: B25DCCC071 | D640: Lê Hải Hoàng | E640: Nam | F640: D25CQCC05-B | G640: Cử nhân Công nghệ thông tin
+A641: 4 | C641: B25DCCC077 | D641: Hoàng Tuấn Huy | E641: Nam | F641: D25CQCC05-B | G641: Cử nhân Công nghệ thông tin
+A642: 5 | B642: Thông báo khi đến TTGDQP | C642: B25DCCC083 | D642: Tạ Quang Huy | E642: Nam | F642: D25CQCC05-B | G642: Cử nhân Công nghệ thông tin | H642: C Trưởng: Thầy Vũ Hoài Nam; TS: 160, chia làm 3B; 8A 
+A643: 5 | C643: B25DCCC089 | D643: Bùi Việt Hào | E643: Nam | F643: D25CQCC05-B | G643: Cử nhân Công nghệ thông tin
+A644: 5 | C644: B25DCCC095 | D644: Vũ Mạnh Hùng | E644: Nam | F644: D25CQCC05-B | G644: Cử nhân Công nghệ thông tin
+A645: 5 | C645: B25DCCC101 | D645: Vũ Quốc Hưng | E645: Nam | F645: D25CQCC05-B | G645: Cử nhân Công nghệ thông tin
+A646: 5 | C646: B25DCCC107 | D646: Nguyễn Thế Khang | E646: Nam | F646: D25CQCC05-B | G646: Cử nhân Công nghệ thông tin
+A647: 5 | C647: B25DCCC113 | D647: Phạm Đăng Khoa | E647: Nam | F647: D25CQCC05-B | G647: Cử nhân Công nghệ thông tin
+A648: 5 | C648: B25DCCC119 | D648: Nguyễn Đức Kiên | E648: Nam | F648: D25CQCC05-B | G648: Cử nhân Công nghệ thông tin
+A649: 5 | C649: B25DCCC131 | D649: Nguyễn Thế Lâm | E649: Nam | F649: D25CQCC05-B | G649: Cử nhân Công nghệ thông tin
+A650: 5 | C650: B25DCCC143 | D650: Phạm Quang Minh | E650: Nam | F650: D25CQCC05-B | G650: Cử nhân Công nghệ thông tin
+A651: 5 | C651: B25DCCC149 | D651: Đào Thế Mạnh | E651: Nam | F651: D25CQCC05-B | G651: Cử nhân Công nghệ thông tin
+A652: 5 | C652: B25DCCC155 | D652: Trần Văn Nghĩa | E652: Nam | F652: D25CQCC05-B | G652: Cử nhân Công nghệ thông tin
+A653: 5 | C653: B25DCCC161 | D653: Nguyễn Hoàng Bảo Nhân | E653: Nam | F653: D25CQCC05-B | G653: Cử nhân Công nghệ thông tin
+A654: 5 | C654: B25DCCC167 | D654: Trương Quốc Phan | E654: Nam | F654: D25CQCC05-B | G654: Cử nhân Công nghệ thông tin
+A655: 5 | C655: B25DCCC173 | D655: Lê Hồng Phú | E655: Nam | F655: D25CQCC05-B | G655: Cử nhân Công nghệ thông tin
+A656: 5 | C656: B25DCCC179 | D656: Trần Đức Phước | E656: Nam | F656: D25CQCC05-B | G656: Cử nhân Công nghệ thông tin
+A657: 5 | C657: B25DCCC185 | D657: Đào Nhật Quang | E657: Nam | F657: D25CQCC05-B | G657: Cử nhân Công nghệ thông tin
+A658: 5 | C658: B25DCCC191 | D658: Hoàng Minh Quân | E658: Nam | F658: D25CQCC05-B | G658: Cử nhân Công nghệ thông tin
+A659: 5 | C659: B25DCCC197 | D659: Đinh Minh Quân | E659: Nam | F659: D25CQCC05-B | G659: Cử nhân Công nghệ thông tin
+A660: 5 | C660: B25DCCC203 | D660: Hoàng Thái Sơn | E660: Nam | F660: D25CQCC05-B | G660: Cử nhân Công nghệ thông tin
+A661: 5 | C661: B25DCCC209 | D661: Nguyễn Sơn Thành | E661: Nam | F661: D25CQCC05-B | G661: Cử nhân Công nghệ thông tin
+A662: 5 | C662: B25DCCC221 | D662: Đinh Văn Thặng | E662: Nam | F662: D25CQCC05-B | G662: Cử nhân Công nghệ thông tin
+A663: 5 | C663: B25DCCC227 | D663: Trần Xuân Toàn | E663: Nam | F663: D25CQCC05-B | G663: Cử nhân Công nghệ thông tin
+A664: 5 | C664: B25DCCC233 | D664: Phạm Duy Đức Trung | E664: Nam | F664: D25CQCC05-B | G664: Cử nhân Công nghệ thông tin
+A665: 5 | C665: B25DCCC239 | D665: Phan Vĩnh Trọng | E665: Nam | F665: D25CQCC05-B | G665: Cử nhân Công nghệ thông tin
+A666: 5 | C666: B25DCCC245 | D666: Mai Hà Anh Tuấn | E666: Nam | F666: D25CQCC05-B | G666: Cử nhân Công nghệ thông tin
+A667: 5 | C667: B25DCCC251 | D667: Nguyễn Hữu Anh Tài | E667: Nam | F667: D25CQCC05-B | G667: Cử nhân Công nghệ thông tin
+A668: 5 | C668: B25DCCC257 | D668: Vũ Minh Tùng | E668: Nam | F668: D25CQCC05-B | G668: Cử nhân Công nghệ thông tin
+A669: 5 | C669: B25DCCC263 | D669: Nguyễn Đức Vinh | E669: Nam | F669: D25CQCC05-B | G669: Cử nhân Công nghệ thông tin
+A670: 5 | C670: B25DCCC269 | D670: Đặng Đức Việt | E670: Nam | F670: D25CQCC05-B | G670: Cử nhân Công nghệ thông tin
+A671: 5 | C671: B25DCCC275 | D671: Nguyễn Văn Đà | E671: Nam | F671: D25CQCC05-B | G671: Cử nhân Công nghệ thông tin
+A672: 5 | C672: B25DCCC281 | D672: Nguyễn Hải Đăng | E672: Nam | F672: D25CQCC05-B | G672: Cử nhân Công nghệ thông tin
+A673: 5 | C673: B25DCCC293 | D673: Hoàng Trung Đức | E673: Nam | F673: D25CQCC05-B | G673: Cử nhân Công nghệ thông tin
+A674: 5 | C674: B25DCCC299 | D674: Nguyễn Tiến Đức | E674: Nam | F674: D25CQCC05-B | G674: Cử nhân Công nghệ thông tin
+A675: 5 | C675: B25DCCC006 | D675: Trần Dương An | E675: Nam | F675: D25CQCC06-B | G675: Cử nhân Công nghệ thông tin
+A676: 5 | C676: B25DCCC012 | D676: Nguyễn Duy Anh | E676: Nam | F676: D25CQCC06-B | G676: Cử nhân Công nghệ thông tin
+A677: 5 | C677: B25DCCC018 | D677: Nguyễn Việt Anh | E677: Nam | F677: D25CQCC06-B | G677: Cử nhân Công nghệ thông tin
+A678: 5 | C678: B25DCCC024 | D678: Trần Trung Anh | E678: Nam | F678: D25CQCC06-B | G678: Cử nhân Công nghệ thông tin
+A679: 5 | C679: B25DCCC030 | D679: Phạm Đào Ngọc Bách | E679: Nam | F679: D25CQCC06-B | G679: Cử nhân Công nghệ thông tin
+A680: 5 | C680: B25DCCC036 | D680: Hồ Bá Bảo | E680: Nam | F680: D25CQCC06-B | G680: Cử nhân Công nghệ thông tin
+A681: 5 | C681: B25DCCC042 | D681: Nguyễn Đình Chuẩn | E681: Nam | F681: D25CQCC06-B | G681: Cử nhân Công nghệ thông tin
+A682: 5 | C682: B25DCCC048 | D682: Đồng Mạnh Cường | E682: Nam | F682: D25CQCC06-B | G682: Cử nhân Công nghệ thông tin
+A683: 5 | C683: B25DCCC054 | D683: Đặng Việt Duy | E683: Nam | F683: D25CQCC06-B | G683: Cử nhân Công nghệ thông tin
+A684: 5 | C684: B25DCCC060 | D684: Nguyễn Đức Dũng | E684: Nam | F684: D25CQCC06-B | G684: Cử nhân Công nghệ thông tin
+A685: 5 | C685: B25DCCC066 | D685: Hoàng Trọng Hiếu | E685: Nam | F685: D25CQCC06-B | G685: Cử nhân Công nghệ thông tin
+A686: 5 | C686: B25DCCC072 | D686: Nguyễn Minh Hoàng | E686: Nam | F686: D25CQCC06-B | G686: Cử nhân Công nghệ thông tin
+A687: 5 | C687: B25DCCC078 | D687: Hoàng Đình Huy | E687: Nam | F687: D25CQCC06-B | G687: Cử nhân Công nghệ thông tin
+A688: 5 | C688: B25DCCC084 | D688: Vi Quang Huy | E688: Nam | F688: D25CQCC06-B | G688: Cử nhân Công nghệ thông tin
+A689: 5 | C689: B25DCCC090 | D689: Trịnh Việt Hòa | E689: Nam | F689: D25CQCC06-B | G689: Cử nhân Công nghệ thông tin
+A690: 5 | C690: B25DCCC096 | D690: Vũ Quốc Hùng | E690: Nam | F690: D25CQCC06-B | G690: Cử nhân Công nghệ thông tin
+A691: 5 | C691: B25DCCC102 | D691: Đinh Quang Hưng | E691: Nam | F691: D25CQCC06-B | G691: Cử nhân Công nghệ thông tin
+A692: 5 | C692: B25DCCC108 | D692: Trương Tuấn Khang | E692: Nam | F692: D25CQCC06-B | G692: Cử nhân Công nghệ thông tin
+A693: 5 | C693: B25DCCC114 | D693: Trần Lê Khoa | E693: Nam | F693: D25CQCC06-B | G693: Cử nhân Công nghệ thông tin
+A694: 5 | C694: B25DCCC120 | D694: Vũ Đức Kiên | E694: Nam | F694: D25CQCC06-B | G694: Cử nhân Công nghệ thông tin
+A695: 5 | C695: B25DCCC138 | D695: Chu Bảo Minh | E695: Nam | F695: D25CQCC06-B | G695: Cử nhân Công nghệ thông tin
+A696: 5 | C696: B25DCCC144 | D696: Vũ Tuấn Minh | E696: Nam | F696: D25CQCC06-B | G696: Cử nhân Công nghệ thông tin
+A697: 5 | C697: B25DCCC150 | D697: Dương Hoài Nam | E697: Nam | F697: D25CQCC06-B | G697: Cử nhân Công nghệ thông tin
+A698: 5 | C698: B25DCCC156 | D698: Nguyễn Lâm Nguyên | E698: Nam | F698: D25CQCC06-B | G698: Cử nhân Công nghệ thông tin
+A699: 5 | C699: B25DCCC162 | D699: Nguyễn Quý Nhân | E699: Nam | F699: D25CQCC06-B | G699: Cử nhân Công nghệ thông tin
+A700: 5 | C700: B25DCCC168 | D700: Bùi Nhật Phong | E700: Nam | F700: D25CQCC06-B | G700: Cử nhân Công nghệ thông tin
+A701: 5 | C701: B25DCCC174 | D701: Nguyễn Huy Phú | E701: Nam | F701: D25CQCC06-B | G701: Cử nhân Công nghệ thông tin
+A702: 5 | C702: B25DCCC180 | D702: Lê Minh Quang | E702: Nam | F702: D25CQCC06-B | G702: Cử nhân Công nghệ thông tin
+A703: 5 | C703: B25DCCC186 | D703: Đặng Minh Quang | E703: Nam | F703: D25CQCC06-B | G703: Cử nhân Công nghệ thông tin
+A704: 5 | C704: B25DCCC192 | D704: Nguyễn Hữu Quân | E704: Nam | F704: D25CQCC06-B | G704: Cử nhân Công nghệ thông tin
+A705: 5 | C705: B25DCCC198 | D705: Đỗ Vũ Hồng Quân | E705: Nam | F705: D25CQCC06-B | G705: Cử nhân Công nghệ thông tin
+A706: 5 | C706: B25DCCC210 | D706: Nguyễn Tiến Thành | E706: Nam | F706: D25CQCC06-B | G706: Cử nhân Công nghệ thông tin
+A707: 5 | C707: B25DCCC222 | D707: Vũ Minh Thức | E707: Nam | F707: D25CQCC06-B | G707: Cử nhân Công nghệ thông tin
+A708: 5 | C708: B25DCCC228 | D708: Vũ Đình Khánh Toàn | E708: Nam | F708: D25CQCC06-B | G708: Cử nhân Công nghệ thông tin
+A709: 5 | C709: B25DCCC240 | D709: Nguyễn Trọng Tuyên | E709: Nam | F709: D25CQCC06-B | G709: Cử nhân Công nghệ thông tin
+A710: 5 | C710: B25DCCC246 | D710: Nguyễn Quốc Tuấn | E710: Nam | F710: D25CQCC06-B | G710: Cử nhân Công nghệ thông tin
+A711: 5 | C711: B25DCCC252 | D711: Lê Trạch Tùng | E711: Nam | F711: D25CQCC06-B | G711: Cử nhân Công nghệ thông tin
+A712: 5 | C712: B25DCCC258 | D712: Dương Tuấn Tú | E712: Nam | F712: D25CQCC06-B | G712: Cử nhân Công nghệ thông tin
+A713: 5 | C713: B25DCCC264 | D713: Hoàng Quốc Việt | E713: Nam | F713: D25CQCC06-B | G713: Cử nhân Công nghệ thông tin
+A714: 5 | C714: B25DCCC270 | D714: Vi Thế Vĩ | E714: Nam | F714: D25CQCC06-B | G714: Cử nhân Công nghệ thông tin
+A715: 5 | C715: B25DCCC276 | D715: Nguyễn Phương Đông | E715: Nam | F715: D25CQCC06-B | G715: Cử nhân Công nghệ thông tin
+A716: 5 | C716: B25DCCC282 | D716: Nguyễn Hải Đăng | E716: Nam | F716: D25CQCC06-B | G716: Cử nhân Công nghệ thông tin
+A717: 5 | C717: B25DCCC288 | D717: Phạm Thành Đạt | E717: Nam | F717: D25CQCC06-B | G717: Cử nhân Công nghệ thông tin
+A718: 5 | C718: B25DCCC294 | D718: Lê Anh Đức | E718: Nam | F718: D25CQCC06-B | G718: Cử nhân Công nghệ thông tin
+A719: 5 | C719: B25DCCC300 | D719: Nguyễn Văn Đức | E719: Nam | F719: D25CQCC06-B | G719: Cử nhân Công nghệ thông tin
+A720: 5 | C720: B25DCKE005 | D720: Nguyễn Quang Anh | E720: Nam | F720: D25CQKE01-B | G720: Cử nhân Công nghệ thông tin
+A721: 5 | C721: B25DCKE007 | D721: Nguyễn Thế Bôn | E721: Nam | F721: D25CQKE01-B | G721: Cử nhân Công nghệ thông tin
+A722: 5 | C722: B25DCKE009 | D722: Nguyễn Chí Công | E722: Nam | F722: D25CQKE01-B | G722: Cử nhân Công nghệ thông tin
+A723: 5 | C723: B25DCKE029 | D723: Trần Đăng Khánh | E723: Nam | F723: D25CQKE01-B | G723: Cử nhân Công nghệ thông tin
+A724: 5 | C724: B25DCKE045 | D724: Trần Vũ Đức Thanh | E724: Nam | F724: D25CQKE01-B | G724: Cử nhân Công nghệ thông tin
+A725: 5 | C725: B25DCKE047 | D725: Nguyễn Đức Thành | E725: Nam | F725: D25CQKE01-B | G725: Cử nhân Công nghệ thông tin
+A726: 5 | C726: B25DCKE055 | D726: Trần Xuân Trường | E726: Nam | F726: D25CQKE01-B | G726: Cử nhân Công nghệ thông tin
+A727: 5 | C727: B25DCKE059 | D727: Nguyễn Duy Anh Tú | E727: Nam | F727: D25CQKE01-B | G727: Cử nhân Công nghệ thông tin
+A728: 5 | C728: B25DCKE069 | D728: Phạm Quang Đức | E728: Nam | F728: D25CQKE01-B | G728: Cử nhân Công nghệ thông tin
+A729: 5 | C729: B25DCKE010 | D729: Vũ Mạnh Cường | E729: Nam | F729: D25CQKE02-B | G729: Cử nhân Công nghệ thông tin
+A730: 5 | C730: B25DCKE012 | D730: Phạm Anh Duy | E730: Nam | F730: D25CQKE02-B | G730: Cử nhân Công nghệ thông tin
+A731: 5 | C731: B25DCKE022 | D731: Vũ Viết Hoàng | E731: Nam | F731: D25CQKE02-B | G731: Cử nhân Công nghệ thông tin
+A732: 5 | C732: B25DCKE030 | D732: Lê Đình Anh Kiệt | E732: Nam | F732: D25CQKE02-B | G732: Cử nhân Công nghệ thông tin
+A733: 5 | C733: B25DCKE048 | D733: Vi Tiến Thành | E733: Nam | F733: D25CQKE02-B | G733: Cử nhân Công nghệ thông tin
+A734: 5 | C734: B25DCKE054 | D734: Trịnh Quang Trung | E734: Nam | F734: D25CQKE02-B | G734: Cử nhân Công nghệ thông tin
+A735: 5 | C735: B25DCKE056 | D735: Đào Xuân Trường | E735: Nam | F735: D25CQKE02-B | G735: Cử nhân Công nghệ thông tin
+A736: 5 | C736: B25DCKE058 | D736: Trần Hoàng Tùng | E736: Nam | F736: D25CQKE02-B | G736: Cử nhân Công nghệ thông tin
+A737: 5 | C737: B25DCKE062 | D737: Trần Minh Vũ | E737: Nam | F737: D25CQKE02-B | G737: Cử nhân Công nghệ thông tin
+A738: 5 | C738: B25DCKE066 | D738: Chiêu Minh Đức | E738: Nam | F738: D25CQKE02-B | G738: Cử nhân Công nghệ thông tin
+A739: 5 | C739: B25DCKE068 | D739: Nguyễn Trác Đức | E739: Nam | F739: D25CQKE02-B | G739: Cử nhân Công nghệ thông tin
+A740: 5 | C740: B25DCME001 | D740: Chu Minh Hoàng Anh | E740: Nam | F740: D25CQME01-B | G740: Cử nhân Công nghệ thông tin
+A741: 5 | C741: B25DCME022 | D741: Cao Việt Cường | E741: Nam | F741: D25CQME01-B | G741: Cử nhân Công nghệ thông tin
+A742: 5 | C742: B25DCME028 | D742: Trần Thế Duy | E742: Nam | F742: D25CQME01-B | G742: Cử nhân Công nghệ thông tin
+A743: 5 | C743: B25DCME034 | D743: Vũ Đức Hiếu | E743: Nam | F743: D25CQME01-B | G743: Cử nhân Công nghệ thông tin
+A744: 5 | C744: B25DCME046 | D744: Nguyễn Anh Khoa | E744: Nam | F744: D25CQME01-B | G744: Cử nhân Công nghệ thông tin
+A745: 5 | C745: B25DCME049 | D745: Nguyễn Hoàng Kỳ | E745: Nam | F745: D25CQME01-B | G745: Cử nhân Công nghệ thông tin
+A746: 5 | C746: B25DCME070 | D746: Phạm Minh | E746: Nam | F746: D25CQME01-B | G746: Cử nhân Công nghệ thông tin
+A747: 5 | C747: B25DCME082 | D747: Nguyễn Chí Phong | E747: Nam | F747: D25CQME01-B | G747: Cử nhân Công nghệ thông tin
+A748: 5 | C748: B25DCME085 | D748: Nguyễn Duy Phúc | E748: Nam | F748: D25CQME01-B | G748: Cử nhân Công nghệ thông tin
+A749: 5 | C749: B25DCME091 | D749: Bùi Thế Sơn | E749: Nam | F749: D25CQME01-B | G749: Cử nhân Công nghệ thông tin
+A750: 5 | C750: B25DCME094 | D750: Lê Tất Thành | E750: Nam | F750: D25CQME01-B | G750: Cử nhân Công nghệ thông tin
+A751: 5 | C751: B25DCME103 | D751: Trần Sỹ Thắng | E751: Nam | F751: D25CQME01-B | G751: Cử nhân Công nghệ thông tin
+A752: 5 | C752: B25DCME112 | D752: Trần Quốc Triệu | E752: Nam | F752: D25CQME01-B | G752: Cử nhân Công nghệ thông tin
+A753: 5 | C753: B25DCME127 | D753: Lý Đình Đức | E753: Nam | F753: D25CQME01-B | G753: Cử nhân Công nghệ thông tin
+A754: 5 | C754: B25DCME130 | D754: Vũ Anh Đức | E754: Nam | F754: D25CQME01-B | G754: Cử nhân Công nghệ thông tin
+A755: 5 | C755: B25DCME002 | D755: Lê Hoàng Anh | E755: Nam | F755: D25CQME02-B | G755: Cử nhân Công nghệ thông tin
+A756: 5 | C756: B25DCME005 | D756: Nguyễn Kim Anh | E756: Nam | F756: D25CQME02-B | G756: Cử nhân Công nghệ thông tin
+A757: 5 | C757: B25DCME023 | D757: Phan Mạnh Cường | E757: Nam | F757: D25CQME02-B | G757: Cử nhân Công nghệ thông tin
+A758: 5 | C758: B25DCME029 | D758: Trần Quốc Dũng | E758: Nam | F758: D25CQME02-B | G758: Cử nhân Công nghệ thông tin
+A759: 5 | C759: B25DCME035 | D759: Ninh Quang Hiệu | E759: Nam | F759: D25CQME02-B | G759: Marketing (chất lượng cao)
+A760: 5 | C760: B25DCME041 | D760: Trần Đình Hùng | E760: Nam | F760: D25CQME02-B | G760: Marketing (chất lượng cao)
+A761: 5 | C761: B25DCME044 | D761: Nguyễn Thiệu Khang | E761: Nam | F761: D25CQME02-B | G761: Marketing (chất lượng cao)
+A762: 5 | C762: B25DCME047 | D762: Vũ Duy Khánh | E762: Nam | F762: D25CQME02-B | G762: Marketing (chất lượng cao)
+A763: 5 | C763: B25DCME056 | D763: Chung Bảo Long | E763: Nam | F763: D25CQME02-B | G763: Marketing (chất lượng cao)
+A764: 5 | C764: B25DCME062 | D764: Nguyễn Lâm | E764: Nam | F764: D25CQME02-B | G764: Marketing (chất lượng cao)
+A765: 5 | C765: B25DCME071 | D765: Đặng Tiến Minh | E765: Nam | F765: D25CQME02-B | G765: Marketing (chất lượng cao)
+A766: 5 | C766: B25DCME074 | D766: Trịnh Đại Nghĩa | E766: Nam | F766: D25CQME02-B | G766: Marketing (chất lượng cao)
+A767: 5 | C767: B25DCME089 | D767: Lê Anh Quân | E767: Nam | F767: D25CQME02-B | G767: Marketing (chất lượng cao)
+A768: 5 | C768: B25DCME095 | D768: Đặng Quang Thành | E768: Nam | F768: D25CQME02-B | G768: Marketing (chất lượng cao)
+A769: 5 | C769: B25DCME104 | D769: Phạm Nguyễn Trung Thịnh | E769: Nam | F769: D25CQME02-B | G769: Marketing (chất lượng cao)
+A770: 5 | C770: B25DCME113 | D770: Phạm Quốc Trung | E770: Nam | F770: D25CQME02-B | G770: Marketing (chất lượng cao)
+A771: 5 | C771: B25DCME125 | D771: Nguyễn Tiến Đạt | E771: Nam | F771: D25CQME02-B | G771: Marketing (chất lượng cao)
+A772: 5 | C772: B25DCME128 | D772: Nguyễn Minh Đức | E772: Nam | F772: D25CQME02-B | G772: Marketing (chất lượng cao)
+A773: 5 | C773: B25DCME131 | D773: Vũ Hữu Đức | E773: Nam | F773: D25CQME02-B | G773: Marketing (chất lượng cao)
+A774: 5 | C774: B25DCME015 | D774: Đinh Đức Việt Anh | E774: Nam | F774: D25CQME03-B | G774: Marketing (chất lượng cao)
+A775: 5 | C775: B25DCME021 | D775: Vũ Hữu Công | E775: Nam | F775: D25CQME03-B | G775: Marketing (chất lượng cao)
+A776: 5 | C776: B25DCME024 | D776: Mai Huy Cảnh | E776: Nam | F776: D25CQME03-B | G776: Marketing (chất lượng cao)
+A777: 5 | C777: B25DCME027 | D777: Lò Đức Duy | E777: Nam | F777: D25CQME03-B | G777: Marketing (chất lượng cao)
+A778: 5 | C778: B25DCME036 | D778: Phạm Minh Hoàng | E778: Nam | F778: D25CQME03-B | G778: Marketing (chất lượng cao)
+A779: 5 | C779: B25DCME042 | D779: Vương Duy Hưng | E779: Nam | F779: D25CQME03-B | G779: Marketing (chất lượng cao)
+A780: 5 | C780: B25DCME045 | D780: Bạch Đăng Khoa | E780: Nam | F780: D25CQME03-B | G780: Marketing (chất lượng cao)
+A781: 5 | C781: B25DCME048 | D781: Đỗ Trung Quốc Khánh | E781: Nam | F781: D25CQME03-B | G781: Marketing (chất lượng cao)
+A782: 5 | C782: B25DCME057 | D782: Nguyễn Phúc Bảo Long | E782: Nam | F782: D25CQME03-B | G782: Marketing (chất lượng cao)
+A783: 5 | C783: B25DCME063 | D783: Nguyễn Đình Mạnh Lương | E783: Nam | F783: D25CQME03-B | G783: Marketing (chất lượng cao)
+A784: 5 | C784: B25DCME069 | D784: Hoàng Bình Minh | E784: Nam | F784: D25CQME03-B | G784: Marketing (chất lượng cao)
+A785: 5 | C785: B25DCME072 | D785: Trần Ngọc Mạnh | E785: Nam | F785: D25CQME03-B | G785: Marketing (chất lượng cao)
+A786: 5 | C786: B25DCME084 | D786: Lê Hồng Phúc | E786: Nam | F786: D25CQME03-B | G786: Marketing (chất lượng cao)
+A787: 5 | C787: B25DCME105 | D787: Lâm Văn Hoàng Tiến | E787: Nam | F787: D25CQME03-B | G787: Marketing (chất lượng cao)
+A788: 5 | C788: B25DCME114 | D788: Đỗ Gia Trung | E788: Nam | F788: D25CQME03-B | G788: Marketing (chất lượng cao)
+A789: 5 | C789: B25DCME126 | D789: Phan Tiến Đạt | E789: Nam | F789: D25CQME03-B | G789: Marketing (chất lượng cao)
+A790: 5 | C790: B25DCME129 | D790: Nguyễn Trần Trung Đức | E790: Nam | F790: D25CQME03-B | G790: Marketing (chất lượng cao)
+A791: 5 | C791: B25DCME132 | D791: Đỗ Minh Đức | E791: Nam | F791: D25CQME03-B | G791: Marketing (chất lượng cao)
+A792: 5 | C792: B25DCGA001 | D792: Hồ Trần Phúc An | E792: Nam | F792: D25CQGA01-B | G792: Thiết kế và Phát triển Game
+A793: 5 | C793: B25DCGA009 | D793: Lê Xuân Nhật Anh | E793: Nam | F793: D25CQGA01-B | G793: Thiết kế và Phát triển Game
+A794: 5 | C794: B25DCGA017 | D794: Nguyễn Đình Quang Anh | E794: Nam | F794: D25CQGA01-B | G794: Thiết kế và Phát triển Game
+A795: 5 | C795: B25DCGA021 | D795: Phạm Nam Anh | E795: Nam | F795: D25CQGA01-B | G795: Thiết kế và Phát triển Game
+A796: 5 | C796: B25DCGA025 | D796: Mai Đỗ Tùng Bách | E796: Nam | F796: D25CQGA01-B | G796: Thiết kế và Phát triển Game
+A797: 5 | C797: B25DCGA029 | D797: Đới Minh Châu | E797: Nam | F797: D25CQGA01-B | G797: Thiết kế và Phát triển Game
+A798: 5 | C798: B25DCGA033 | D798: Bùi Y Cương | E798: Nam | F798: D25CQGA01-B | G798: Thiết kế và Phát triển Game
+A799: 5 | C799: B25DCGA037 | D799: Nguyễn Mạnh Cầm | E799: Nam | F799: D25CQGA01-B | G799: Thiết kế và Phát triển Game
+A800: 5 | C800: B25DCGA041 | D800: Trần Đức Duy | E800: Nam | F800: D25CQGA01-B | G800: Thiết kế và Phát triển Game
+A801: 5 | C801: B25DCGA045 | D801: Nguyễn Quang Dương | E801: Nam | F801: D25CQGA01-B | G801: Thiết kế và Phát triển Game
+A802: 6 | B802: P201 đếnP207 | C802: B25DCAE101 | D802: Trịnh Ngọc Thảo Vy   | E802: Nữ | F802: D25CQAE02-B | G802: An toàn thông tin (chất lượng cao) | H802: C Trưởng: Cô Nguyễn Diệu Linh; TS: 123
+A803: 6 | C803: B25DCME032 | D803: Vũ Thị Ánh Dương | E803: Nữ | F803: D25CQME02-B | G803: Marketing (chất lượng cao)
+A804: 6 | C804: B25DCME020 | D804: Nguyễn Minh Châu | E804: Nữ | F804: D25CQME02-B | G804: Marketing (chất lượng cao)
+A805: 6 | C805: B25DCAE054 | D805: Tân Phương Mai | E805: Nữ | F805: D25CQAE03-B | G805: An toàn thông tin (chất lượng cao)
+A806: 6 | C806: B25DCCE141 | D806: Cao Ngọc Lam | E806: Nữ | F806: D25CQCE01-B | G806: Công nghệ thông tin (chất lượng cao)
+A807: 6 | C807: B25DCCE148 | D807: Vũ Khánh Linh | E807: Nữ | F807: D25CQCE01-B | G807: Công nghệ thông tin (chất lượng cao)
+A808: 6 | C808: B25DCCE155 | D808: Lương Khánh Ly | E808: Nữ | F808: D25CQCE01-B | G808: Công nghệ thông tin (chất lượng cao)
+A809: 6 | C809: B25DCCE197 | D809: Hà Như Nguyên | E809: Nữ | F809: D25CQCE01-B | G809: Công nghệ thông tin (chất lượng cao)
+A810: 6 | C810: B25DCCE086 | D810: Nguyễn Thị Hà | E810: Nữ | F810: D25CQCE02-B | G810: Công nghệ thông tin (chất lượng cao)
+A811: 6 | C811: B25DCCE142 | D811: Hà Linh | E811: Nữ | F811: D25CQCE02-B | G811: Công nghệ thông tin (chất lượng cao)
+A812: 6 | C812: B25DCCE163 | D812: Lê Thị Ngọc Mai | E812: Nữ | F812: D25CQCE02-B | G812: Công nghệ thông tin (chất lượng cao)
+A813: 6 | C813: B25DCCE087 | D813: Đỗ Bảo Hà | E813: Nữ | F813: D25CQCE03-B | G813: Công nghệ thông tin (chất lượng cao)
+A814: 6 | C814: B25DCCE101 | D814: Phạm Thanh Minh Hạnh | E814: Nữ | F814: D25CQCE03-B | G814: Công nghệ thông tin (chất lượng cao)
+A815: 6 | C815: B25DCCE164 | D815: Đặng Hà Mi | E815: Nữ | F815: D25CQCE03-B | G815: Công nghệ thông tin (chất lượng cao)
+A816: 6 | C816: B25DCCE144 | D816: Nguyễn Thảo Linh | E816: Nữ | F816: D25CQCE04-B | G816: Công nghệ thông tin (chất lượng cao)
+A817: 6 | C817: B25DCCE242 | D817: Quách Thanh Thảo | E817: Nữ | F817: D25CQCE04-B | G817: Công nghệ thông tin (chất lượng cao)
+A818: 6 | C818: B25DCCE284 | D818: Nguyễn Mai Hà Vy | E818: Nữ | F818: D25CQCE04-B | G818: Công nghệ thông tin (chất lượng cao)
+A819: 6 | C819: B25DCCE145 | D819: Phạm Khánh Linh | E819: Nữ | F819: D25CQCE05-B | G819: Công nghệ thông tin (chất lượng cao)
+A820: 6 | C820: B25DCCE194 | D820: Hoàng Phương Nga | E820: Nữ | F820: D25CQCE05-B | G820: Công nghệ thông tin (chất lượng cao)
+A821: 6 | C821: B25DCCE146 | D821: Phạm Phương Linh | E821: Nữ | F821: D25CQCE06-B | G821: Công nghệ thông tin (chất lượng cao)
+A822: 6 | C822: B25DCCE160 | D822: Hà Kiều Lê | E822: Nữ | F822: D25CQCE06-B | G822: Công nghệ thông tin (chất lượng cao)
+A823: 6 | C823: B25DCCE251 | D823: Tạ Thị Thùy Trang | E823: Nữ | F823: D25CQCE06-B | G823: Công nghệ thông tin (chất lượng cao)
+A824: 6 | C824: B25DCCE258 | D824: Cầm Hà Hương Trà | E824: Nữ | F824: D25CQCE06-B | G824: Công nghệ thông tin (chất lượng cao)
+A825: 6 | C825: B25DCCE007 | D825: Nguyễn Châu Anh | E825: Nữ | F825: D25CQCE07-B | G825: Công nghệ thông tin (chất lượng cao)
+A826: 6 | C826: B25DCCE147 | D826: Phạm Ái Linh | E826: Nữ | F826: D25CQCE07-B | G826: Công nghệ thông tin (chất lượng cao)
+A827: 6 | C827: B25DCVN031 | D827: Mai Thảo Hoàng | E827: Nữ | F827: D25CQVN01-B | G827: Công nghệ thông tin Việt Nhật
+A828: 6 | C828: B25DCVN065 | D828: Vũ Mai Ngọc | E828: Nữ | F828: D25CQVN01-B | G828: Công nghệ thông tin Việt Nhật
+A829: 6 | C829: B25DCVN079 | D829: Nguyễn Minh Thư | E829: Nữ | F829: D25CQVN01-B | G829: Công nghệ thông tin Việt Nhật
+A830: 6 | C830: B25DCVN002 | D830: Nguyễn Hải Anh | E830: Nữ | F830: D25CQVN02-B | G830: Công nghệ thông tin Việt Nhật
+A831: 6 | C831: B25DCVN024 | D831: Nguyễn Trần Thùy Dương | E831: Nữ | F831: D25CQVN02-B | G831: Công nghệ thông tin Việt Nhật
+A832: 6 | C832: B25DCVN036 | D832: Bùi Khánh Huyền | E832: Nữ | F832: D25CQVN02-B | G832: Công nghệ thông tin Việt Nhật
+A833: 6 | C833: B25DCVN048 | D833: Nguyễn Thùy Linh | E833: Nữ | F833: D25CQVN02-B | G833: Công nghệ thông tin Việt Nhật
+A834: 6 | C834: B25DCVN062 | D834: Nguyễn Phương Nguyên | E834: Nữ | F834: D25CQVN02-B | G834: Công nghệ thông tin Việt Nhật
+A835: 6 | C835: B25DCVN064 | D835: Trịnh Thảo Nguyên | E835: Nữ | F835: D25CQVN02-B | G835: Công nghệ thông tin Việt Nhật
+A836: 6 | C836: B25DCVN080 | D836: Trần Thị Minh Thảo | E836: Nữ | F836: D25CQVN02-B | G836: Công nghệ thông tin Việt Nhật
+A837: 6 | C837: B25DCVN100 | D837: Lê Thị Phương Đức | E837: Nữ | F837: D25CQVN02-B | G837: Công nghệ thông tin Việt Nhật
+A838: 6 | C838: B25DCCC127 | D838: Trần Thị Bảo Linh | E838: Nữ | F838: D25CQCC01-B | G838: Cử nhân Công nghệ thông tin
+A839: 6 | C839: B25DCCC133 | D839: Trần Thị Lương | E839: Nữ | F839: D25CQCC01-B | G839: Cử nhân Công nghệ thông tin
+A840: 6 | C840: B25DCCC217 | D840: Nguyễn Anh Thư | E840: Nữ | F840: D25CQCC01-B | G840: Cử nhân Công nghệ thông tin
+A841: 6 | C841: B25DCCC086 | D841: Trần Thu Huyền | E841: Nữ | F841: D25CQCC02-B | G841: Cử nhân Công nghệ thông tin
+A842: 6 | C842: B25DCCC128 | D842: Trịnh Phương Linh | E842: Nữ | F842: D25CQCC02-B | G842: Cử nhân Công nghệ thông tin
+A843: 6 | C843: B25DCCC218 | D843: Phạm Thị Thương | E843: Nữ | F843: D25CQCC02-B | G843: Cử nhân Công nghệ thông tin
+A844: 6 | C844: B25DCCC230 | D844: Phạm Thùy Trang | E844: Nữ | F844: D25CQCC02-B | G844: Cử nhân Công nghệ thông tin
+A845: 6 | C845: B25DCCC087 | D845: Nguyễn Thu Huệ | E845: Nữ | F845: D25CQCC03-B | G845: Cử nhân Công nghệ thông tin
+A846: 6 | C846: B25DCCC123 | D846: Dương Thị Diệu Linh | E846: Nữ | F846: D25CQCC03-B | G846: Cử nhân Công nghệ thông tin
+A847: 6 | C847: B25DCCC159 | D847: Đàm Thị Phi Nhung | E847: Nữ | F847: D25CQCC03-B | G847: Cử nhân Công nghệ thông tin
+A848: 6 | C848: B25DCCC219 | D848: Nguyễn Thị Phương Thảo | E848: Nữ | F848: D25CQCC03-B | G848: Cử nhân Công nghệ thông tin
+A849: 6 | C849: B25DCCC231 | D849: Trần Thu Trang | E849: Nữ | F849: D25CQCC03-B | G849: Cử nhân Công nghệ thông tin
+A850: 6 | C850: B25DCCC124 | D850: Lưu Khả Linh | E850: Nữ | F850: D25CQCC04-B | G850: Cử nhân Công nghệ thông tin
+A851: 6 | C851: B25DCCC136 | D851: Phạm Thanh Mai | E851: Nữ | F851: D25CQCC04-B | G851: Cử nhân Công nghệ thông tin
+A852: 6 | C852: B25DCCC154 | D852: Nguyễn Hồ Thanh Nga | E852: Nữ | F852: D25CQCC04-B | G852: Cử nhân Công nghệ thông tin
+A853: 6 | C853: B25DCCC160 | D853: Đào Thị Nhung | E853: Nữ | F853: D25CQCC04-B | G853: Cử nhân Công nghệ thông tin
+A854: 6 | C854: B25DCCC274 | D854: Nguyễn Ngọc Ánh | E854: Nữ | F854: D25CQCC04-B | G854: Cử nhân Công nghệ thông tin
+A855: 6 | C855: B25DCCC125 | D855: Nguyễn Thị Linh | E855: Nữ | F855: D25CQCC05-B | G855: Cử nhân Công nghệ thông tin
+A856: 6 | C856: B25DCCC137 | D856: Tạ Thị Hoàng Mai | E856: Nữ | F856: D25CQCC05-B | G856: Cử nhân Công nghệ thông tin
+A857: 6 | C857: B25DCCC215 | D857: Phạm Phương Thúy | E857: Nữ | F857: D25CQCC05-B | G857: Cử nhân Công nghệ thông tin
+A858: 6 | C858: B25DCCC126 | D858: Ngô Gia Linh | E858: Nữ | F858: D25CQCC06-B | G858: Cử nhân Công nghệ thông tin
+A859: 6 | C859: B25DCCC204 | D859: Phan Thị Thanh | E859: Nữ | F859: D25CQCC06-B | G859: Cử nhân Công nghệ thông tin
+A860: 6 | C860: B25DCCC216 | D860: Đặng Phương Thúy | E860: Nữ | F860: D25CQCC06-B | G860: Cử nhân Công nghệ thông tin
+A861: 6 | C861: B25DCKE001 | D861: Lê Thảo An | E861: Nữ | F861: D25CQKE01-B | G861: Kế toán (chất lượng cao)
+A862: 6 | C862: B25DCKE011 | D862: Ngô Ngọc Diệp | E862: Nữ | F862: D25CQKE01-B | G862: Kế toán (chất lượng cao)
+A863: 6 | C863: B25DCKE017 | D863: Nguyễn Vũ Hương Giang | E863: Nữ | F863: D25CQKE01-B | G863: Kế toán (chất lượng cao)
+A864: 6 | C864: B25DCKE019 | D864: Vũ Hương Giang | E864: Nữ | F864: D25CQKE01-B | G864: Kế toán (chất lượng cao)
+A865: 6 | C865: B25DCKE023 | D865: Nguyễn Thị Hồng Huế | E865: Nữ | F865: D25CQKE01-B | G865: Kế toán (chất lượng cao)
+A866: 6 | C866: B25DCKE025 | D866: Đoàn Khánh Hòa | E866: Nữ | F866: D25CQKE01-B | G866: Kế toán (chất lượng cao)
+A867: 6 | C867: B25DCKE027 | D867: Phan Thúy Hằng | E867: Nữ | F867: D25CQKE01-B | G867: Kế toán (chất lượng cao)
+A868: 6 | C868: B25DCKE031 | D868: Lưu Thảo Linh | E868: Nữ | F868: D25CQKE01-B | G868: Kế toán (chất lượng cao)
+A869: 6 | C869: B25DCKE033 | D869: Phạm Lê Ái Linh | E869: Nữ | F869: D25CQKE01-B | G869: Kế toán (chất lượng cao)
+A870: 6 | C870: B25DCKE035 | D870: Phạm Khánh Ly | E870: Nữ | F870: D25CQKE01-B | G870: Kế toán (chất lượng cao)
+A871: 6 | C871: B25DCKE043 | D871: Đặng Hà Quyên | E871: Nữ | F871: D25CQKE01-B | G871: Kế toán (chất lượng cao)
+A872: 6 | C872: B25DCKE049 | D872: Nguyễn Thu Thủy | E872: Nữ | F872: D25CQKE01-B | G872: Kế toán (chất lượng cao)
+A873: 6 | C873: B25DCKE051 | D873: Nguyễn Minh Trang | E873: Nữ | F873: D25CQKE01-B | G873: Kế toán (chất lượng cao)
+A874: 6 | C874: B25DCKE053 | D874: Đào Thị Huyền Trang | E874: Nữ | F874: D25CQKE01-B | G874: Kế toán (chất lượng cao)
+A875: 6 | C875: B25DCKE057 | D875: Phạm Thu Tâm | E875: Nữ | F875: D25CQKE01-B | G875: Kế toán (chất lượng cao)
+A876: 6 | C876: B25DCKE061 | D876: Ngô Ngọc Thanh Vân | E876: Nữ | F876: D25CQKE01-B | G876: Kế toán (chất lượng cao)
+A877: 6 | C877: B25DCKE063 | D877: Nguyễn Thị Xuân | E877: Nữ | F877: D25CQKE01-B | G877: Kế toán (chất lượng cao)
+A878: 6 | C878: B25DCKE065 | D878: Đỗ Thị Như Ý | E878: Nữ | F878: D25CQKE01-B | G878: Kế toán (chất lượng cao)
+A879: 6 | C879: B25DCKE002 | D879: Lê Thị Vân Anh | E879: Nữ | F879: D25CQKE02-B | G879: Kế toán (chất lượng cao)
+A880: 6 | C880: B25DCKE004 | D880: Nguyễn Kiều Anh | E880: Nữ | F880: D25CQKE02-B | G880: Kế toán (chất lượng cao)
+A881: 6 | C881: B25DCKE006 | D881: Nguyễn Thị Phương Anh | E881: Nữ | F881: D25CQKE02-B | G881: Kế toán (chất lượng cao)
+A882: 6 | C882: B25DCKE016 | D882: Lỗ Thị Hương Giang | E882: Nữ | F882: D25CQKE02-B | G882: Kế toán (chất lượng cao)
+A883: 6 | C883: B25DCKE018 | D883: Trịnh Hương Giang | E883: Nữ | F883: D25CQKE02-B | G883: Kế toán (chất lượng cao)
+A884: 6 | C884: B25DCKE020 | D884: Đặng Hương Giang | E884: Nữ | F884: D25CQKE02-B | G884: Kế toán (chất lượng cao)
+A885: 6 | C885: B25DCKE024 | D885: Phạm Thu Hà | E885: Nữ | F885: D25CQKE02-B | G885: Kế toán (chất lượng cao)
+A886: 6 | C886: B25DCKE026 | D886: Bùi Mai Hương | E886: Nữ | F886: D25CQKE02-B | G886: Kế toán (chất lượng cao)
+A887: 6 | C887: B25DCKE028 | D887: Trần Thị Khiếu | E887: Nữ | F887: D25CQKE02-B | G887: Kế toán (chất lượng cao)
+A888: 6 | C888: B25DCKE032 | D888: Nguyễn Hải Linh | E888: Nữ | F888: D25CQKE02-B | G888: Kế toán (chất lượng cao)
+A889: 6 | C889: B25DCKE034 | D889: Nguyễn Khánh Ly | E889: Nữ | F889: D25CQKE02-B | G889: Kế toán (chất lượng cao)
+A890: 6 | C890: B25DCKE036 | D890: Ngô Hà My | E890: Nữ | F890: D25CQKE02-B | G890: Kế toán (chất lượng cao)
+A891: 6 | C891: B25DCKE038 | D891: Lê Kim Ngân | E891: Nữ | F891: D25CQKE02-B | G891: Kế toán (chất lượng cao)
+A892: 6 | C892: B25DCKE040 | D892: Nguyễn Thị Ngọc | E892: Nữ | F892: D25CQKE02-B | G892: Kế toán (chất lượng cao)
+A893: 6 | C893: B25DCKE042 | D893: Đỗ Hà Phương | E893: Nữ | F893: D25CQKE02-B | G893: Kế toán (chất lượng cao)
+A894: 6 | C894: B25DCKE044 | D894: Nguyễn Như Quỳnh | E894: Nữ | F894: D25CQKE02-B | G894: Kế toán (chất lượng cao)
+A895: 6 | C895: B25DCKE046 | D895: Hoàng Thị Kim Thoa | E895: Nữ | F895: D25CQKE02-B | G895: Kế toán (chất lượng cao)
+A896: 6 | C896: B25DCKE050 | D896: Đàm Thanh Thủy | E896: Nữ | F896: D25CQKE02-B | G896: Kế toán (chất lượng cao)
+A897: 6 | C897: B25DCKE052 | D897: Trần Thu Trang | E897: Nữ | F897: D25CQKE02-B | G897: Kế toán (chất lượng cao)
+A898: 6 | C898: B25DCKE060 | D898: Nguyễn Thu Uyên | E898: Nữ | F898: D25CQKE02-B | G898: Kế toán (chất lượng cao)
+A899: 6 | C899: B25DCKE064 | D899: Đặng Thị Ánh | E899: Nữ | F899: D25CQKE02-B | G899: Kế toán (chất lượng cao)
+A900: 6 | C900: B25DCME004 | D900: Nguyễn Hà Anh | E900: Nữ | F900: D25CQME01-B | G900: Marketing (chất lượng cao)
+A901: 6 | C901: B25DCME007 | D901: Nguyễn Như Anh | E901: Nữ | F901: D25CQME01-B | G901: Marketing (chất lượng cao)
+A902: 6 | C902: B25DCME010 | D902: Nguyễn Trần Hà Anh | E902: Nữ | F902: D25CQME01-B | G902: Marketing (chất lượng cao)
+A903: 6 | C903: B25DCME016 | D903: Nguyễn Mai Chi | E903: Nữ | F903: D25CQME01-B | G903: Marketing (chất lượng cao)
+A904: 6 | C904: B25DCME025 | D904: Nguyễn Quỳnh Diễm | E904: Nữ | F904: D25CQME01-B | G904: Marketing (chất lượng cao)
+A905: 6 | C905: B25DCME043 | D905: Vũ Thị Mai Hương | E905: Nữ | F905: D25CQME01-B | G905: Marketing (chất lượng cao)
+A906: 6 | C906: B25DCME052 | D906: Nguyễn Thị Khánh Linh | E906: Nữ | F906: D25CQME01-B | G906: Marketing (chất lượng cao)
+A907: 6 | C907: B25DCME055 | D907: Trần Hồng Liên | E907: Nữ | F907: D25CQME01-B | G907: Marketing (chất lượng cao)
+A908: 6 | C908: B25DCME058 | D908: Nguyễn Hương Ly | E908: Nữ | F908: D25CQME01-B | G908: Marketing (chất lượng cao)
+A909: 6 | C909: B25DCME064 | D909: Nguyễn Thị Nhật Lệ | E909: Nữ | F909: D25CQME01-B | G909: Marketing (chất lượng cao)
+A910: 6 | C910: B25DCME067 | D910: Nguyễn Ngọc Mai | E910: Nữ | F910: D25CQME01-B | G910: Marketing (chất lượng cao)
+A911: 6 | C911: B25DCME073 | D911: Trần Ngọc Mỹ | E911: Nữ | F911: D25CQME01-B | G911: Marketing (chất lượng cao)
+A912: 6 | C912: B25DCME076 | D912: Hà Thị Bảo Ngọc | E912: Nữ | F912: D25CQME01-B | G912: Marketing (chất lượng cao)
+A913: 6 | C913: B25DCME079 | D913: Nguyễn Phương Nhi | E913: Nữ | F913: D25CQME01-B | G913: Marketing (chất lượng cao)
+A914: 6 | C914: B25DCME088 | D914: Vũ Tố Quyên | E914: Nữ | F914: D25CQME01-B | G914: Marketing (chất lượng cao)
+A915: 6 | C915: B25DCME097 | D915: Phan Thị Phương Thúy | E915: Nữ | F915: D25CQME01-B | G915: Marketing (chất lượng cao)
+A916: 6 | C916: B25DCME100 | D916: Nguyễn Thị Phương Thảo | E916: Nữ | F916: D25CQME01-B | G916: Marketing (chất lượng cao)
+A917: 6 | C917: B25DCME106 | D917: Nguyễn Thị Trang | E917: Nữ | F917: D25CQME01-B | G917: Marketing (chất lượng cao)
+A918: 6 | C918: B25DCME109 | D918: Đoàn Huyền Trang | E918: Nữ | F918: D25CQME01-B | G918: Marketing (chất lượng cao)
+A919: 6 | C919: B25DCME121 | D919: Nguyễn Thị Hồng Vân | E919: Nữ | F919: D25CQME01-B | G919: Marketing (chất lượng cao)
+A920: 6 | C920: B25DCME124 | D920: Nguyễn Linh Đan | E920: Nữ | F920: D25CQME01-B | G920: Marketing (chất lượng cao)
+A921: 6 | C921: N25DEME006B | D921: Phạm Phương Anh | E921: Nữ | F921: D25CQME01-B | G921: Marketing (chất lượng cao)
+A922: 6 | C922: B25DCME008 | D922: Nguyễn Thị Mai Anh | E922: Nữ | F922: D25CQME02-B | G922: Marketing (chất lượng cao)
+A923: 6 | C923: B25DCME017 | D923: Phạm Công Mai Chi | E923: Nữ | F923: D25CQME02-B | G923: Marketing (chất lượng cao)
+A924: 6 | C924: B25DCME026 | D924: Bùi Thị Kim Dung | E924: Nữ | F924: D25CQME02-B | G924: Marketing (chất lượng cao)
+A925: 7 | B925: P208-209; P306 đến P309 | C925: B25DCME038 | D925: Nguyễn Thị Diệu Huyền | E925: Nữ | F925: D25CQME02-B | G925: Marketing (chất lượng cao) | H925: C Trưởng: Cô Nguyễn Diệu Linh, TS: 120
+A926: 7 | C926: B25DCME050 | D926: Lê Ngọc Linh | E926: Nữ | F926: D25CQME02-B | G926: Marketing (chất lượng cao)
+A927: 7 | C927: B25DCME053 | D927: Nguyễn Thị Thùy Linh | E927: Nữ | F927: D25CQME02-B | G927: Marketing (chất lượng cao)
+A928: 7 | C928: B25DCME059 | D928: Trần Khánh Ly | E928: Nữ | F928: D25CQME02-B | G928: Marketing (chất lượng cao)
+A929: 7 | C929: B25DCME065 | D929: Hà Quỳnh Mai | E929: Nữ | F929: D25CQME02-B | G929: Marketing (chất lượng cao)
+A930: 7 | C930: B25DCME068 | D930: Nguyễn Thị Hương Mai | E930: Nữ | F930: D25CQME02-B | G930: Marketing (chất lượng cao)
+A931: 7 | C931: B25DCME077 | D931: Lê Minh Ngọc | E931: Nữ | F931: D25CQME02-B | G931: Marketing (chất lượng cao)
+A932: 7 | C932: B25DCME080 | D932: Phạm Thảo Nhi | E932: Nữ | F932: D25CQME02-B | G932: Marketing (chất lượng cao)
+A933: 7 | C933: B25DCME086 | D933: Lê Thị Phương | E933: Nữ | F933: D25CQME02-B | G933: Marketing (chất lượng cao)
+A934: 7 | C934: B25DCME092 | D934: Nguyễn Hà Thanh | E934: Nữ | F934: D25CQME02-B | G934: Marketing (chất lượng cao)
+A935: 7 | C935: B25DCME098 | D935: Lã Vũ Anh Thư | E935: Nữ | F935: D25CQME02-B | G935: Marketing (chất lượng cao)
+A936: 7 | C936: B25DCME101 | D936: Trần Thanh Thảo | E936: Nữ | F936: D25CQME02-B | G936: Marketing (chất lượng cao)
+A937: 7 | C937: B25DCME107 | D937: Nguyễn Thị Quỳnh Trang | E937: Nữ | F937: D25CQME02-B | G937: Marketing (chất lượng cao)
+A938: 7 | C938: B25DCME110 | D938: Quách Tuyết Trinh | E938: Nữ | F938: D25CQME02-B | G938: Marketing (chất lượng cao)
+A939: 7 | C939: B25DCME116 | D939: Đỗ Thị Minh Tâm | E939: Nữ | F939: D25CQME02-B | G939: Marketing (chất lượng cao)
+A940: 7 | C940: B25DCME122 | D940: Nguyễn Thị Thanh Vân | E940: Nữ | F940: D25CQME02-B | G940: Marketing (chất lượng cao)
+A941: 7 | C941: B25DCME006 | D941: Nguyễn Ngọc Anh | E941: Nữ | F941: D25CQME03-B | G941: Marketing (chất lượng cao)
+A942: 7 | C942: B25DCME009 | D942: Nguyễn Thị Ngọc Anh | E942: Nữ | F942: D25CQME03-B | G942: Marketing (chất lượng cao)
+A943: 7 | C943: B25DCME018 | D943: Đỗ Thị Ngọc Chinh | E943: Nữ | F943: D25CQME03-B | G943: Marketing (chất lượng cao)
+A944: 7 | C944: B25DCME030 | D944: Lê Thùy Dương | E944: Nữ | F944: D25CQME03-B | G944: Marketing (chất lượng cao)
+A945: 7 | C945: B25DCME039 | D945: Tạ Khánh Huyền | E945: Nữ | F945: D25CQME03-B | G945: Marketing (chất lượng cao)
+A946: 7 | C946: B25DCME051 | D946: Nguyễn Khánh Linh | E946: Nữ | F946: D25CQME03-B | G946: Marketing (chất lượng cao)
+A947: 7 | C947: B25DCME054 | D947: Đinh Hà Nhật Linh | E947: Nữ | F947: D25CQME03-B | G947: Marketing (chất lượng cao)
+A948: 7 | C948: B25DCME060 | D948: Đặng Khánh Ly | E948: Nữ | F948: D25CQME03-B | G948: Marketing (chất lượng cao)
+A949: 7 | C949: B25DCME075 | D949: Mạch Kim Ngân | E949: Nữ | F949: D25CQME03-B | G949: Marketing (chất lượng cao)
+A950: 7 | C950: B25DCME078 | D950: Nguyễn Thị Ngọc | E950: Nữ | F950: D25CQME03-B | G950: Marketing (chất lượng cao)
+A951: 7 | C951: B25DCME081 | D951: Lưu Thị Hồng Nhung | E951: Nữ | F951: D25CQME03-B | G951: Marketing (chất lượng cao)
+A952: 7 | C952: B25DCME087 | D952: Đặng Hà Phương | E952: Nữ | F952: D25CQME03-B | G952: Marketing (chất lượng cao)
+A953: 7 | C953: B25DCME090 | D953: Bùi Thị Diễm Quỳnh | E953: Nữ | F953: D25CQME03-B | G953: Marketing (chất lượng cao)
+A954: 7 | C954: B25DCME093 | D954: Đào Thị Minh Thu | E954: Nữ | F954: D25CQME03-B | G954: Marketing (chất lượng cao)
+A955: 7 | C955: B25DCME096 | D955: Nguyễn Phương Thùy | E955: Nữ | F955: D25CQME03-B | G955: Marketing (chất lượng cao)
+A956: 7 | C956: B25DCME099 | D956: Vũ Kiều Anh Thư | E956: Nữ | F956: D25CQME03-B | G956: Marketing (chất lượng cao)
+A957: 7 | C957: B25DCME102 | D957: Nguyễn Thị Hồng Thắm | E957: Nữ | F957: D25CQME03-B | G957: Marketing (chất lượng cao)
+A958: 7 | C958: B25DCME108 | D958: Vũ Thị Quỳnh Trang | E958: Nữ | F958: D25CQME03-B | G958: Marketing (chất lượng cao)
+A959: 7 | C959: B25DCME111 | D959: Đặng Quỳnh Trinh | E959: Nữ | F959: D25CQME03-B | G959: Marketing (chất lượng cao)
+A960: 7 | C960: B25DCME120 | D960: Lê Thị Hồng Vân | E960: Nữ | F960: D25CQME03-B | G960: Marketing (chất lượng cao)
+A961: 7 | C961: B25DCME123 | D961: Lê Thị Hải Yến | E961: Nữ | F961: D25CQME03-B | G961: Marketing (chất lượng cao)
+A962: 7 | C962: B25DCGA013 | D962: Nguyễn Hải Anh | E962: Nữ | F962: D25CQGA01-B | G962: Thiết kế và Phát triển Game
+A963: 7 | C963: B25DCGA089 | D963: Trịnh Ánh Hồng | E963: Nữ | F963: D25CQGA01-B | G963: Thiết kế và Phát triển Game
+A964: 7 | C964: B25DCGA105 | D964: Ngô Hương Ly | E964: Nữ | F964: D25CQGA01-B | G964: Thiết kế và Phát triển Game
+A965: 7 | C965: B25DCGA113 | D965: Nguyễn Thị Ngọc Minh | E965: Nữ | F965: D25CQGA01-B | G965: Thiết kế và Phát triển Game
+A966: 7 | C966: B25DCGA122 | D966: Lưu Hà My | E966: Nữ | F966: D25CQGA02-B | G966: Thiết kế và Phát triển Game
+A967: 7 | C967: B25DCGA130 | D967: Phạm Ngọc Bình Nhi | E967: Nữ | F967: D25CQGA02-B | G967: Thiết kế và Phát triển Game
+A968: 7 | C968: B25DCGA166 | D968: Lê Thị Thanh Trúc | E968: Nữ | F968: D25CQGA02-B | G968: Thiết kế và Phát triển Game
+A969: 7 | C969: B25DCGA003 | D969: Nguyễn Trúc An | E969: Nữ | F969: D25CQGA03-B | G969: Thiết kế và Phát triển Game
+A970: 7 | C970: B25DCGA007 | D970: Hoàng Thùy Anh | E970: Nữ | F970: D25CQGA03-B | G970: Thiết kế và Phát triển Game
+A971: 7 | C971: B25DCGA019 | D971: Phạm Hằng Anh | E971: Nữ | F971: D25CQGA03-B | G971: Thiết kế và Phát triển Game
+A972: 7 | C972: B25DCGA123 | D972: Trần Thị Trà My | E972: Nữ | F972: D25CQGA03-B | G972: Thiết kế và Phát triển Game
+A973: 7 | C973: B25DCGA139 | D973: Nguyễn Bích Phượng | E973: Nữ | F973: D25CQGA03-B | G973: Thiết kế và Phát triển Game
+A974: 7 | C974: B25DCGA155 | D974: Lê Tạ Thanh Thúy | E974: Nữ | F974: D25CQGA03-B | G974: Thiết kế và Phát triển Game
+A975: 7 | C975: B25DCGA163 | D975: Bùi Thị Huyền Trang | E975: Nữ | F975: D25CQGA03-B | G975: Thiết kế và Phát triển Game
+A976: 7 | C976: B25DCGA191 | D976: Nguyễn Lê Hà Vy | E976: Nữ | F976: D25CQGA03-B | G976: Thiết kế và Phát triển Game
+A977: 7 | C977: B25DCGA004 | D977: Trần Lê Thúy An | E977: Nữ | F977: D25CQGA04-B | G977: Thiết kế và Phát triển Game
+A978: 7 | C978: B25DCGA008 | D978: Lã Hoàng Vy Anh | E978: Nữ | F978: D25CQGA04-B | G978: Thiết kế và Phát triển Game
+A979: 7 | C979: B25DCGA048 | D979: Trần Thị Huyền Giang | E979: Nữ | F979: D25CQGA04-B | G979: Thiết kế và Phát triển Game
+A980: 7 | C980: B25DCGA104 | D980: Đoàn Diệu Linh | E980: Nữ | F980: D25CQGA04-B | G980: Thiết kế và Phát triển Game
+A981: 7 | C981: B25DCGA116 | D981: Trương Nguyệt Minh | E981: Nữ | F981: D25CQGA04-B | G981: Thiết kế và Phát triển Game
+A982: 7 | C982: B25DCGA148 | D982: Kiều Thị Phương Thanh | E982: Nữ | F982: D25CQGA04-B | G982: Thiết kế và Phát triển Game
+A983: 7 | C983: B25DCGA156 | D983: Mai Anh Thư | E983: Nữ | F983: D25CQGA04-B | G983: Thiết kế và Phát triển Game
+A984: 7 | C984: B25DCGA164 | D984: Phan Thu Trang | E984: Nữ | F984: D25CQGA04-B | G984: Thiết kế và Phát triển Game
+A985: 7 | C985: B25DCGA192 | D985: Phạm Hoàng Khánh Vy | E985: Nữ | F985: D25CQGA04-B | G985: Thiết kế và Phát triển Game
+A986: 7 | C986: B25DCTV047 | D986: Lê Hoàng Bảo Linh | E986: Nữ | F986: D25CQTV01-B | G986: Trí tuệ nhân tạo vạn vật (AIoT)
+A987: 7 | C987: B25DCTV057 | D987: Bùi Thanh Nga | E987: Nữ | F987: D25CQTV01-B | G987: Trí tuệ nhân tạo vạn vật (AIoT)
+A988: 7 | C988: B25DCTV004 | D988: Nguyễn Thị Minh Anh | E988: Nữ | F988: D25CQTV02-B | G988: Trí tuệ nhân tạo vạn vật (AIoT)
+A989: 7 | C989: B25DCTV006 | D989: Đào Ngọc Quỳnh Anh | E989: Nữ | F989: D25CQTV02-B | G989: Trí tuệ nhân tạo vạn vật (AIoT)
+A990: 7 | C990: B25DCTV048 | D990: Nguyễn Thùy Linh | E990: Nữ | F990: D25CQTV02-B | G990: Trí tuệ nhân tạo vạn vật (AIoT)
+A991: 7 | C991: B25DCTV052 | D991: Vũ Thị Ngọc Mai | E991: Nữ | F991: D25CQTV02-B | G991: Trí tuệ nhân tạo vạn vật (AIoT)
+A992: 7 | C992: B25DCTV058 | D992: Vũ Thị Thảo Ngân | E992: Nữ | F992: D25CQTV02-B | G992: Trí tuệ nhân tạo vạn vật (AIoT)
+A993: 7 | C993: B25DCTV064 | D993: Bùi Ánh Quyên | E993: Nữ | F993: D25CQTV02-B | G993: Trí tuệ nhân tạo vạn vật (AIoT)
+A994: 7 | C994: B25DCTE001 | D994: Hà Phương Anh | E994: Nữ | F994: D25CQTE01-B | G994: Truyền thông đa phương tiện (chất lượng cao)
+A995: 7 | C995: B25DCTE007 | D995: Nguyễn Minh Anh | E995: Nữ | F995: D25CQTE01-B | G995: Truyền thông đa phương tiện (chất lượng cao)
+A996: 7 | C996: B25DCTE011 | D996: Tạ Kiều Anh | E996: Nữ | F996: D25CQTE01-B | G996: Truyền thông đa phương tiện (chất lượng cao)
+A997: 7 | C997: B25DCTE013 | D997: Đàm Phương Anh | E997: Nữ | F997: D25CQTE01-B | G997: Truyền thông đa phương tiện (chất lượng cao)
+A998: 7 | C998: B25DCTE015 | D998: Quang Ngọc Khánh Chi | E998: Nữ | F998: D25CQTE01-B | G998: Truyền thông đa phương tiện (chất lượng cao)
+A999: 7 | C999: B25DCTE023 | D999: Nguyễn Châu Giang | E999: Nữ | F999: D25CQTE01-B | G999: Truyền thông đa phương tiện (chất lượng cao)
+A1000: 7 | C1000: B25DCTE035 | D1000: Nguyễn Thị Ngọc Khánh | E1000: Nữ | F1000: D25CQTE01-B | G1000: Truyền thông đa phương tiện (chất lượng cao)
+A1001: 7 | C1001: B25DCTE039 | D1001: Lê Gia Linh | E1001: Nữ | F1001: D25CQTE01-B | G1001: Truyền thông đa phương tiện (chất lượng cao)
+A1002: 7 | C1002: B25DCTE041 | D1002: Nguyễn Phương Linh | E1002: Nữ | F1002: D25CQTE01-B | G1002: Truyền thông đa phương tiện (chất lượng cao)
+A1003: 7 | C1003: B25DCTE049 | D1003: Lê Ngọc Khánh Ly | E1003: Nữ | F1003: D25CQTE01-B | G1003: Truyền thông đa phương tiện (chất lượng cao)
+A1004: 7 | C1004: B25DCTE051 | D1004: Hà Phương Lê | E1004: Nữ | F1004: D25CQTE01-B | G1004: Truyền thông đa phương tiện (chất lượng cao)
+A1005: 7 | C1005: B25DCTE053 | D1005: Nguyễn Tuyết Mai | E1005: Nữ | F1005: D25CQTE01-B | G1005: Truyền thông đa phương tiện (chất lượng cao)
+A1006: 7 | C1006: B25DCTE063 | D1006: Phan Minh Ngọc | E1006: Nữ | F1006: D25CQTE01-B | G1006: Truyền thông đa phương tiện (chất lượng cao)
+A1007: 7 | C1007: B25DCTE065 | D1007: Vũ Hoàng Ngọc | E1007: Nữ | F1007: D25CQTE01-B | G1007: Truyền thông đa phương tiện (chất lượng cao)
+A1008: 7 | C1008: B25DCTE067 | D1008: Phạm Quỳnh Như | E1008: Nữ | F1008: D25CQTE01-B | G1008: Truyền thông đa phương tiện (chất lượng cao)
+A1009: 7 | C1009: B25DCTE069 | D1009: Phạm Hằng Phương | E1009: Nữ | F1009: D25CQTE01-B | G1009: Truyền thông đa phương tiện (chất lượng cao)
+A1010: 7 | C1010: B25DCTE071 | D1010: Vũ Thu Phương | E1010: Nữ | F1010: D25CQTE01-B | G1010: Truyền thông đa phương tiện (chất lượng cao)
+A1011: 7 | C1011: B25DCTE073 | D1011: Mai Như Quỳnh | E1011: Nữ | F1011: D25CQTE01-B | G1011: Truyền thông đa phương tiện (chất lượng cao)
+A1012: 7 | C1012: B25DCTE077 | D1012: Nguyễn Thị Anh Thư | E1012: Nữ | F1012: D25CQTE01-B | G1012: Truyền thông đa phương tiện (chất lượng cao)
+A1013: 7 | C1013: B25DCTE081 | D1013: Vũ Minh Trang | E1013: Nữ | F1013: D25CQTE01-B | G1013: Truyền thông đa phương tiện (chất lượng cao)
+A1014: 7 | C1014: B25DCTE085 | D1014: Vũ Hà Vy | E1014: Nữ | F1014: D25CQTE01-B | G1014: Truyền thông đa phương tiện (chất lượng cao)
+A1015: 7 | C1015: B25DCTE087 | D1015: Đặng Hải Yến | E1015: Nữ | F1015: D25CQTE01-B | G1015: Truyền thông đa phương tiện (chất lượng cao)
+A1016: 7 | C1016: B25DCTE002 | D1016: Lê Bảo Anh | E1016: Nữ | F1016: D25CQTE02-B | G1016: Truyền thông đa phương tiện (chất lượng cao)
+A1017: 7 | C1017: B25DCTE006 | D1017: Nguyễn Hải Anh | E1017: Nữ | F1017: D25CQTE02-B | G1017: Truyền thông đa phương tiện (chất lượng cao)
+A1018: 7 | C1018: B25DCTE010 | D1018: Phạm Phương Anh | E1018: Nữ | F1018: D25CQTE02-B | G1018: Truyền thông đa phương tiện (chất lượng cao)
+A1019: 7 | C1019: B25DCTE012 | D1019: Vũ Thị Thái Anh | E1019: Nữ | F1019: D25CQTE02-B | G1019: Truyền thông đa phương tiện (chất lượng cao)
+A1020: 7 | C1020: B25DCTE016 | D1020: Đinh Hoàng Minh Châu | E1020: Nữ | F1020: D25CQTE02-B | G1020: Truyền thông đa phương tiện (chất lượng cao)
+A1021: 7 | C1021: B25DCTE022 | D1021: Bùi Thị Linh Giang | E1021: Nữ | F1021: D25CQTE02-B | G1021: Truyền thông đa phương tiện (chất lượng cao)
+A1022: 7 | C1022: B25DCTE028 | D1022: Lê Việt Hà | E1022: Nữ | F1022: D25CQTE02-B | G1022: Truyền thông đa phương tiện (chất lượng cao)
+A1023: 7 | C1023: B25DCTE030 | D1023: Nguyễn Mai Hương | E1023: Nữ | F1023: D25CQTE02-B | G1023: Truyền thông đa phương tiện (chất lượng cao)
+A1024: 7 | C1024: B25DCTE038 | D1024: Chu Ngọc Linh | E1024: Nữ | F1024: D25CQTE02-B | G1024: Truyền thông đa phương tiện (chất lượng cao)
+A1025: 7 | C1025: B25DCTE040 | D1025: Nguyễn Hà Linh | E1025: Nữ | F1025: D25CQTE02-B | G1025: Truyền thông đa phương tiện (chất lượng cao)
+A1026: 7 | C1026: B25DCTE042 | D1026: Nguyễn Thảo Linh | E1026: Nữ | F1026: D25CQTE02-B | G1026: Truyền thông đa phương tiện (chất lượng cao)
+A1027: 7 | C1027: B25DCTE044 | D1027: Tang Trần Hà Linh | E1027: Nữ | F1027: D25CQTE02-B | G1027: Truyền thông đa phương tiện (chất lượng cao)
+A1028: 7 | C1028: B25DCTE046 | D1028: Đặng Mai Linh | E1028: Nữ | F1028: D25CQTE02-B | G1028: Truyền thông đa phương tiện (chất lượng cao)
+A1029: 7 | C1029: B25DCTE050 | D1029: Đào Diệp Ly | E1029: Nữ | F1029: D25CQTE02-B | G1029: Truyền thông đa phương tiện (chất lượng cao)
+A1030: 7 | C1030: B25DCTE052 | D1030: Nguyễn Hồng Mai | E1030: Nữ | F1030: D25CQTE02-B | G1030: Truyền thông đa phương tiện (chất lượng cao)
+A1031: 7 | C1031: B25DCTE058 | D1031: Nguyễn Ngọc Minh | E1031: Nữ | F1031: D25CQTE02-B | G1031: Truyền thông đa phương tiện (chất lượng cao)
+A1032: 7 | C1032: B25DCTE060 | D1032: Trần Hải My | E1032: Nữ | F1032: D25CQTE02-B | G1032: Truyền thông đa phương tiện (chất lượng cao)
+A1033: 7 | C1033: B25DCTE062 | D1033: Hà Thị Bảo Ngọc | E1033: Nữ | F1033: D25CQTE02-B | G1033: Truyền thông đa phương tiện (chất lượng cao)
+A1034: 7 | C1034: B25DCTE064 | D1034: Trần Minh Ngọc | E1034: Nữ | F1034: D25CQTE02-B | G1034: Truyền thông đa phương tiện (chất lượng cao)
+A1035: 7 | C1035: B25DCTE066 | D1035: Nguyễn Tú Nhân | E1035: Nữ | F1035: D25CQTE02-B | G1035: Truyền thông đa phương tiện (chất lượng cao)
+A1036: 7 | C1036: B25DCTE070 | D1036: Trần Thu Phương | E1036: Nữ | F1036: D25CQTE02-B | G1036: Truyền thông đa phương tiện (chất lượng cao)
+A1037: 7 | C1037: B25DCTE074 | D1037: Trần Thị Diễm Quỳnh | E1037: Nữ | F1037: D25CQTE02-B | G1037: Truyền thông đa phương tiện (chất lượng cao)
+A1038: 7 | C1038: B25DCTE080 | D1038: Lê Linh Trang | E1038: Nữ | F1038: D25CQTE02-B | G1038: Truyền thông đa phương tiện (chất lượng cao)
+A1039: 7 | C1039: B25DCTE082 | D1039: Vũ Ngọc Linh Trang | E1039: Nữ | F1039: D25CQTE02-B | G1039: Truyền thông đa phương tiện (chất lượng cao)
+A1040: 7 | C1040: B25DCTE084 | D1040: Nguyễn Trần Thục Uyên | E1040: Nữ | F1040: D25CQTE02-B | G1040: Truyền thông đa phương tiện (chất lượng cao)
+A1041: 7 | C1041: B25DCTE086 | D1041: Nguyễn Ngọc Yến | E1041: Nữ | F1041: D25CQTE02-B | G1041: Truyền thông đa phương tiện (chất lượng cao)
+A1042: 7 | C1042: B25DCTE088 | D1042: Hà Nhật Ánh | E1042: Nữ | F1042: D25CQTE02-B | G1042: Truyền thông đa phương tiện (chất lượng cao)
+A1043: 7 | C1043: B25DCTE045 | D1043: Đàm Ngọc Linh | E1043: Nữ | F1043: D25CQTE01-B | G1043: Liên kết 
+A1044: 7 | C1044: B25DCTT112 | D1044: Nguyễn Thanh Trúc | E1044: Nữ | F1044: D25CQTT02-B | G1044: Liên kết 
+A1045: 8 | B1045: P301 đến P305; P401-P402; | C1045: B25DCGA049 | D1045: Lê Trung Hiếu | E1045: Nam | F1045: D25CQGA01-B | G1045: Thiết kế và Phát triển Game | H1045: C Trưởng: Thông báo sau; TS: 140
+A1046: 8 | C1046: B25DCGA053 | D1046: Nguyễn Văn Hiển | E1046: Nam | F1046: D25CQGA01-B | G1046: Thiết kế và Phát triển Game
+A1047: 8 | C1047: B25DCGA057 | D1047: Bùi Văn Hoàn | E1047: Nam | F1047: D25CQGA01-B | G1047: Thiết kế và Phát triển Game
+A1048: 8 | C1048: B25DCGA061 | D1048: Đinh Huy Hoàng | E1048: Nam | F1048: D25CQGA01-B | G1048: Thiết kế và Phát triển Game
+A1049: 8 | C1049: B25DCGA065 | D1049: Nguyễn Phúc Huy | E1049: Nam | F1049: D25CQGA01-B | G1049: Thiết kế và Phát triển Game
+A1050: 8 | C1050: B25DCGA073 | D1050: Nguyễn Trọng Hòa | E1050: Nam | F1050: D25CQGA01-B | G1050: Thiết kế và Phát triển Game
+A1051: 8 | C1051: B25DCGA077 | D1051: Nguyễn Việt Hùng | E1051: Nam | F1051: D25CQGA01-B | G1051: Thiết kế và Phát triển Game
+A1052: 8 | C1052: B25DCGA081 | D1052: Nguyễn Công Hưng | E1052: Nam | F1052: D25CQGA01-B | G1052: Thiết kế và Phát triển Game
+A1053: 8 | C1053: B25DCGA085 | D1053: Trần Phú Hưng | E1053: Nam | F1053: D25CQGA01-B | G1053: Thiết kế và Phát triển Game
+A1054: 8 | C1054: B25DCGA101 | D1054: Bùi Ngọc Linh | E1054: Nam | F1054: D25CQGA01-B | G1054: Thiết kế và Phát triển Game
+A1055: 8 | C1055: B25DCGA109 | D1055: Nguyễn Hữu Nhật Minh | E1055: Nam | F1055: D25CQGA01-B | G1055: Thiết kế và Phát triển Game
+A1056: 8 | C1056: B25DCGA117 | D1056: Trần Chính Minh | E1056: Nam | F1056: D25CQGA01-B | G1056: Thiết kế và Phát triển Game
+A1057: 8 | C1057: B25DCGA121 | D1057: Đặng Đức Minh | E1057: Nam | F1057: D25CQGA01-B | G1057: Thiết kế và Phát triển Game
+A1058: 8 | C1058: B25DCGA125 | D1058: Hoàng Hải Nam | E1058: Nam | F1058: D25CQGA01-B | G1058: Thiết kế và Phát triển Game
+A1059: 8 | C1059: B25DCGA129 | D1059: Đặng Hoàng Nguyên | E1059: Nam | F1059: D25CQGA01-B | G1059: Thiết kế và Phát triển Game
+A1060: 8 | C1060: B25DCGA133 | D1060: Nguyễn Văn Phong | E1060: Nam | F1060: D25CQGA01-B | G1060: Thiết kế và Phát triển Game
+A1061: 8 | C1061: B25DCGA137 | D1061: Dương Bảo Phúc | E1061: Nam | F1061: D25CQGA01-B | G1061: Thiết kế và Phát triển Game
+A1062: 8 | C1062: B25DCGA141 | D1062: Hoàng Mạnh Quân | E1062: Nam | F1062: D25CQGA01-B | G1062: Thiết kế và Phát triển Game
+A1063: 8 | C1063: B25DCGA145 | D1063: Lưu Ngọc Sáng | E1063: Nam | F1063: D25CQGA01-B | G1063: Thiết kế và Phát triển Game
+A1064: 8 | C1064: B25DCGA153 | D1064: Mai Đắc Danh Thái | E1064: Nam | F1064: D25CQGA01-B | G1064: Thiết kế và Phát triển Game
+A1065: 8 | C1065: B25DCGA165 | D1065: Nguyễn Hà Đức Trung | E1065: Nam | F1065: D25CQGA01-B | G1065: Thiết kế và Phát triển Game
+A1066: 8 | C1066: B25DCGA169 | D1066: Nguyễn Anh Tuân | E1066: Nam | F1066: D25CQGA01-B | G1066: Thiết kế và Phát triển Game
+A1067: 8 | C1067: B25DCGA173 | D1067: Chu Quang Tuệ | E1067: Nam | F1067: D25CQGA01-B | G1067: Thiết kế và Phát triển Game
+A1068: 8 | C1068: B25DCGA177 | D1068: Cao Khánh Tùng | E1068: Nam | F1068: D25CQGA01-B | G1068: Thiết kế và Phát triển Game
+A1069: 8 | C1069: B25DCGA181 | D1069: Tạ Thanh Tùng | E1069: Nam | F1069: D25CQGA01-B | G1069: Thiết kế và Phát triển Game
+A1070: 8 | C1070: B25DCGA185 | D1070: Đỗ Vũ Mạnh Tú | E1070: Nam | F1070: D25CQGA01-B | G1070: Thiết kế và Phát triển Game
+A1071: 8 | C1071: B25DCGA189 | D1071: Trần Hữu Vinh | E1071: Nam | F1071: D25CQGA01-B | G1071: Thiết kế và Phát triển Game
+A1072: 8 | C1072: B25DCGA193 | D1072: Lê Hồng Đăng | E1072: Nam | F1072: D25CQGA01-B | G1072: Thiết kế và Phát triển Game
+A1073: 8 | C1073: B25DCGA197 | D1073: Bùi Bảo Đạt | E1073: Nam | F1073: D25CQGA01-B | G1073: Thiết kế và Phát triển Game
+A1074: 8 | C1074: B25DCGA201 | D1074: Phùng Phạm Tiến Đạt | E1074: Nam | F1074: D25CQGA01-B | G1074: Thiết kế và Phát triển Game
+A1075: 8 | C1075: B25DCGA205 | D1075: Đinh Trung Đức | E1075: Nam | F1075: D25CQGA01-B | G1075: Thiết kế và Phát triển Game
+A1076: 8 | C1076: B25DCGA002 | D1076: Nguyễn Gia An | E1076: Nam | F1076: D25CQGA02-B | G1076: Thiết kế và Phát triển Game
+A1077: 8 | C1077: B25DCGA006 | D1077: Cao Nam Anh | E1077: Nam | F1077: D25CQGA02-B | G1077: Thiết kế và Phát triển Game
+A1078: 8 | C1078: B25DCGA010 | D1078: Lưu Đức Anh | E1078: Nam | F1078: D25CQGA02-B | G1078: Thiết kế và Phát triển Game
+A1079: 8 | C1079: B25DCGA014 | D1079: Nguyễn Lê Hoàng Anh | E1079: Nam | F1079: D25CQGA02-B | G1079: Thiết kế và Phát triển Game
+A1080: 8 | C1080: B25DCGA018 | D1080: Phan Quốc Việt Anh | E1080: Nam | F1080: D25CQGA02-B | G1080: Thiết kế và Phát triển Game
+A1081: 8 | C1081: B25DCGA026 | D1081: Đồng Thanh Bình | E1081: Nam | F1081: D25CQGA02-B | G1081: Thiết kế và Phát triển Game
+A1082: 8 | C1082: B25DCGA030 | D1082: Nguyễn Thành Công | E1082: Nam | F1082: D25CQGA02-B | G1082: Thiết kế và Phát triển Game
+A1083: 8 | C1083: B25DCGA034 | D1083: Ngô Quốc Cường | E1083: Nam | F1083: D25CQGA02-B | G1083: Thiết kế và Phát triển Game
+A1084: 8 | C1084: B25DCGA038 | D1084: Nguyễn Đức Duy | E1084: Nam | F1084: D25CQGA02-B | G1084: Thiết kế và Phát triển Game
+A1085: 8 | C1085: B25DCGA042 | D1085: Kim Minh Dũng | E1085: Nam | F1085: D25CQGA02-B | G1085: Thiết kế và Phát triển Game
+A1086: 8 | C1086: B25DCGA046 | D1086: Trần Thái Dương | E1086: Nam | F1086: D25CQGA02-B | G1086: Thiết kế và Phát triển Game
+A1087: 8 | C1087: B25DCGA050 | D1087: Ninh Đức Hiếu | E1087: Nam | F1087: D25CQGA02-B | G1087: Thiết kế và Phát triển Game
+A1088: 8 | C1088: B25DCGA058 | D1088: Nguyễn Huy Hoàng | E1088: Nam | F1088: D25CQGA02-B | G1088: Thiết kế và Phát triển Game
+A1089: 8 | C1089: B25DCGA062 | D1089: Bùi Quốc Huy | E1089: Nam | F1089: D25CQGA02-B | G1089: Thiết kế và Phát triển Game
+A1090: 8 | C1090: B25DCGA066 | D1090: Nguyễn Quang Huy | E1090: Nam | F1090: D25CQGA02-B | G1090: Thiết kế và Phát triển Game
+A1091: 8 | C1091: B25DCGA070 | D1091: Lê Đình Huấn | E1091: Nam | F1091: D25CQGA02-B | G1091: Thiết kế và Phát triển Game
+A1092: 8 | C1092: B25DCGA074 | D1092: Hà Phi Hùng | E1092: Nam | F1092: D25CQGA02-B | G1092: Thiết kế và Phát triển Game
+A1093: 8 | C1093: B25DCGA078 | D1093: Trịnh Việt Hùng | E1093: Nam | F1093: D25CQGA02-B | G1093: Thiết kế và Phát triển Game
+A1094: 8 | C1094: B25DCGA082 | D1094: Nguyễn Doãn Hưng | E1094: Nam | F1094: D25CQGA02-B | G1094: Thiết kế và Phát triển Game
+A1095: 8 | C1095: B25DCGA086 | D1095: Nguyễn Lê Trường Hải | E1095: Nam | F1095: D25CQGA02-B | G1095: Thiết kế và Phát triển Game
+A1096: 8 | C1096: B25DCGA090 | D1096: Lê Tuấn Khang | E1096: Nam | F1096: D25CQGA02-B | G1096: Thiết kế và Phát triển Game
+A1097: 8 | C1097: B25DCGA094 | D1097: Nguyễn Phạm Việt Khoa | E1097: Nam | F1097: D25CQGA02-B | G1097: Thiết kế và Phát triển Game
+A1098: 8 | C1098: B25DCGA098 | D1098: Nguyễn Đức Kiên | E1098: Nam | F1098: D25CQGA02-B | G1098: Thiết kế và Phát triển Game
+A1099: 8 | C1099: B25DCGA102 | D1099: Trần Văn Linh | E1099: Nam | F1099: D25CQGA02-B | G1099: Thiết kế và Phát triển Game
+A1100: 8 | C1100: B25DCGA106 | D1100: Lương Ích Lợi | E1100: Nam | F1100: D25CQGA02-B | G1100: Thiết kế và Phát triển Game
+A1101: 8 | C1101: B25DCGA110 | D1101: Nguyễn Quang Minh | E1101: Nam | F1101: D25CQGA02-B | G1101: Thiết kế và Phát triển Game
+A1102: 8 | C1102: B25DCGA114 | D1102: Nguyễn Tuệ Minh | E1102: Nam | F1102: D25CQGA02-B | G1102: Thiết kế và Phát triển Game
+A1103: 8 | C1103: B25DCGA118 | D1103: Trần Đức Minh | E1103: Nam | F1103: D25CQGA02-B | G1103: Thiết kế và Phát triển Game
+A1104: 8 | C1104: B25DCGA126 | D1104: Nguyễn Đăng Nam | E1104: Nam | F1104: D25CQGA02-B | G1104: Thiết kế và Phát triển Game
+A1105: 8 | C1105: B25DCGA134 | D1105: Nguyễn Tiến Phát | E1105: Nam | F1105: D25CQGA02-B | G1105: Thiết kế và Phát triển Game
+A1106: 8 | C1106: B25DCGA138 | D1106: Phạm Hồng Phúc | E1106: Nam | F1106: D25CQGA02-B | G1106: Thiết kế và Phát triển Game
+A1107: 8 | C1107: B25DCGA142 | D1107: Lê Mạnh Quân | E1107: Nam | F1107: D25CQGA02-B | G1107: Thiết kế và Phát triển Game
+A1108: 8 | C1108: B25DCGA146 | D1108: Nguyễn Việt Sơn | E1108: Nam | F1108: D25CQGA02-B | G1108: Thiết kế và Phát triển Game
+A1109: 8 | C1109: B25DCGA150 | D1109: Chu Cao Đức Thành | E1109: Nam | F1109: D25CQGA02-B | G1109: Thiết kế và Phát triển Game
+A1110: 8 | C1110: B25DCGA154 | D1110: Nguyễn Đình Thái | E1110: Nam | F1110: D25CQGA02-B | G1110: Thiết kế và Phát triển Game
+A1111: 8 | C1111: B25DCGA158 | D1111: Nguyễn Gia Thịnh | E1111: Nam | F1111: D25CQGA02-B | G1111: Thiết kế và Phát triển Game
+A1112: 8 | C1112: B25DCGA162 | D1112: Đinh Khải Toàn | E1112: Nam | F1112: D25CQGA02-B | G1112: Thiết kế và Phát triển Game
+A1113: 8 | C1113: B25DCGA174 | D1113: Mai Tấn Tài | E1113: Nam | F1113: D25CQGA02-B | G1113: Thiết kế và Phát triển Game
+A1114: 8 | C1114: B25DCGA182 | D1114: Vũ Nguyễn Anh Tùng | E1114: Nam | F1114: D25CQGA02-B | G1114: Thiết kế và Phát triển Game
+A1115: 8 | C1115: B25DCGA186 | D1115: Nguyễn Hữu Mạnh Tường | E1115: Nam | F1115: D25CQGA02-B | G1115: Thiết kế và Phát triển Game
+A1116: 8 | C1116: B25DCGA190 | D1116: Bùi Trung Việt | E1116: Nam | F1116: D25CQGA02-B | G1116: Thiết kế và Phát triển Game
+A1117: 8 | C1117: B25DCGA194 | D1117: Nguyễn Nhất Đăng | E1117: Nam | F1117: D25CQGA02-B | G1117: Thiết kế và Phát triển Game
+A1118: 8 | C1118: B25DCGA198 | D1118: Nguyễn Công Đạt | E1118: Nam | F1118: D25CQGA02-B | G1118: Thiết kế và Phát triển Game
+A1119: 8 | C1119: B25DCGA202 | D1119: Phạm Hoàng Đạt | E1119: Nam | F1119: D25CQGA02-B | G1119: Thiết kế và Phát triển Game
+A1120: 8 | C1120: B25DCGA011 | D1120: Lại Tuấn Anh | E1120: Nam | F1120: D25CQGA03-B | G1120: Thiết kế và Phát triển Game
+A1121: 8 | C1121: B25DCGA015 | D1121: Nguyễn Lê Đức Anh | E1121: Nam | F1121: D25CQGA03-B | G1121: Thiết kế và Phát triển Game
+A1122: 8 | C1122: B25DCGA031 | D1122: Nguyễn Thành Công | E1122: Nam | F1122: D25CQGA03-B | G1122: Thiết kế và Phát triển Game
+A1123: 8 | C1123: B25DCGA035 | D1123: Vũ Mạnh Cường | E1123: Nam | F1123: D25CQGA03-B | G1123: Thiết kế và Phát triển Game
+A1124: 8 | C1124: B25DCGA039 | D1124: Phạm Khánh Duy | E1124: Nam | F1124: D25CQGA03-B | G1124: Thiết kế và Phát triển Game
+A1125: 8 | C1125: B25DCGA043 | D1125: Lê Dũng | E1125: Nam | F1125: D25CQGA03-B | G1125: Thiết kế và Phát triển Game
+A1126: 8 | C1126: B25DCGA047 | D1126: Trịnh Hữu Dương | E1126: Nam | F1126: D25CQGA03-B | G1126: Thiết kế và Phát triển Game
+A1127: 8 | C1127: B25DCGA051 | D1127: Trần Đình Hiếu | E1127: Nam | F1127: D25CQGA03-B | G1127: Thiết kế và Phát triển Game
+A1128: 8 | C1128: B25DCGA055 | D1128: Nguyễn Đình Hiệp | E1128: Nam | F1128: D25CQGA03-B | G1128: Thiết kế và Phát triển Game
+A1129: 8 | C1129: B25DCGA059 | D1129: Nguyễn Minh Hoàng | E1129: Nam | F1129: D25CQGA03-B | G1129: Thiết kế và Phát triển Game
+A1130: 8 | C1130: B25DCGA063 | D1130: Nguyễn Hữu Gia Huy | E1130: Nam | F1130: D25CQGA03-B | G1130: Thiết kế và Phát triển Game
+A1131: 8 | C1131: B25DCGA067 | D1131: Nguyễn Quang Gia Huy | E1131: Nam | F1131: D25CQGA03-B | G1131: Thiết kế và Phát triển Game
+A1132: 8 | C1132: B25DCGA071 | D1132: Phạm Thái Hà | E1132: Nam | F1132: D25CQGA03-B | G1132: Thiết kế và Phát triển Game
+A1133: 8 | C1133: B25DCGA075 | D1133: Nguyễn Sinh Hùng | E1133: Nam | F1133: D25CQGA03-B | G1133: Thiết kế và Phát triển Game
+A1134: 8 | C1134: B25DCGA079 | D1134: Hà Quang Hưng | E1134: Nam | F1134: D25CQGA03-B | G1134: Thiết kế và Phát triển Game
+A1135: 8 | C1135: B25DCGA083 | D1135: Nguyễn Đình Duy Hưng | E1135: Nam | F1135: D25CQGA03-B | G1135: Thiết kế và Phát triển Game
+A1136: 8 | C1136: B25DCGA087 | D1136: Nguyễn Tiền Hải | E1136: Nam | F1136: D25CQGA03-B | G1136: Thiết kế và Phát triển Game
+A1137: 8 | C1137: B25DCGA091 | D1137: Nguyễn Minh Khang | E1137: Nam | F1137: D25CQGA03-B | G1137: Thiết kế và Phát triển Game
+A1138: 8 | C1138: B25DCGA095 | D1138: Nguyễn Ngọc Khánh | E1138: Nam | F1138: D25CQGA03-B | G1138: Thiết kế và Phát triển Game
+A1139: 8 | C1139: B25DCGA099 | D1139: Vũ Minh Kiên | E1139: Nam | F1139: D25CQGA03-B | G1139: Thiết kế và Phát triển Game
+A1140: 8 | C1140: B25DCGA103 | D1140: Đinh Văn Linh | E1140: Nam | F1140: D25CQGA03-B | G1140: Thiết kế và Phát triển Game
+A1141: 8 | C1141: B25DCGA107 | D1141: Biện Thanh Nhật Minh | E1141: Nam | F1141: D25CQGA03-B | G1141: Thiết kế và Phát triển Game
+A1142: 8 | C1142: B25DCGA111 | D1142: Nguyễn Thiện Minh | E1142: Nam | F1142: D25CQGA03-B | G1142: Thiết kế và Phát triển Game
+A1143: 8 | C1143: B25DCGA115 | D1143: Nguyễn Văn Minh | E1143: Nam | F1143: D25CQGA03-B | G1143: Thiết kế và Phát triển Game
+A1144: 8 | C1144: B25DCGA119 | D1144: Trần Đức Quang Minh | E1144: Nam | F1144: D25CQGA03-B | G1144: Thiết kế và Phát triển Game
+A1145: 8 | C1145: B25DCGA131 | D1145: Nguyễn Duy Phong | E1145: Nam | F1145: D25CQGA03-B | G1145: Thiết kế và Phát triển Game
+A1146: 8 | C1146: B25DCGA135 | D1146: Nguyễn Khắc Phú | E1146: Nam | F1146: D25CQGA03-B | G1146: Thiết kế và Phát triển Game
+A1147: 8 | C1147: B25DCGA143 | D1147: Nguyễn Ngọc Quý | E1147: Nam | F1147: D25CQGA03-B | G1147: Thiết kế và Phát triển Game
+A1148: 8 | C1148: B25DCGA147 | D1148: Hà Văn Sỹ | E1148: Nam | F1148: D25CQGA03-B | G1148: Thiết kế và Phát triển Game
+A1149: 8 | C1149: B25DCGA151 | D1149: Phạm Hà Thành | E1149: Nam | F1149: D25CQGA03-B | G1149: Thiết kế và Phát triển Game
+A1150: 8 | C1150: B25DCGA159 | D1150: Đỗ Huy Thịnh | E1150: Nam | F1150: D25CQGA03-B | G1150: Thiết kế và Phát triển Game
+A1151: 8 | C1151: B25DCGA167 | D1151: Nguyễn Nhật Trường  c9 | E1151: Nam | F1151: D25CQGA03-B | G1151: Thiết kế và Phát triển Game
+A1152: 8 | C1152: B25DCGA171 | D1152: Vũ Đức Anh Tuấn | E1152: Nam | F1152: D25CQGA03-B | G1152: Thiết kế và Phát triển Game
+A1153: 8 | C1153: B25DCGA175 | D1153: Nguyễn Minh Tâm | E1153: Nam | F1153: D25CQGA03-B | G1153: Thiết kế và Phát triển Game
+A1154: 8 | C1154: B25DCGA183 | D1154: Bùi Trần Minh Tú | E1154: Nam | F1154: D25CQGA03-B | G1154: Thiết kế và Phát triển Game
+A1155: 8 | C1155: B25DCGA187 | D1155: Nguyễn Quang Vinh | E1155: Nam | F1155: D25CQGA03-B | G1155: Thiết kế và Phát triển Game
+A1156: 8 | C1156: B25DCGA195 | D1156: Phan Thanh Đăng | E1156: Nam | F1156: D25CQGA03-B | G1156: Thiết kế và Phát triển Game
+A1157: 8 | C1157: B25DCGA199 | D1157: Nguyễn Thành Đạt | E1157: Nam | F1157: D25CQGA03-B | G1157: Thiết kế và Phát triển Game
+A1158: 8 | C1158: B25DCGA203 | D1158: Long Văn Định | E1158: Nam | F1158: D25CQGA03-B | G1158: Thiết kế và Phát triển Game
+A1159: 8 | C1159: B25DCGA012 | D1159: Nguyễn Hoàng Anh | E1159: Nam | F1159: D25CQGA04-B | G1159: Thiết kế và Phát triển Game
+A1160: 8 | C1160: B25DCGA016 | D1160: Nguyễn Tuấn Anh | E1160: Nam | F1160: D25CQGA04-B | G1160: Thiết kế và Phát triển Game
+A1161: 8 | C1161: B25DCGA020 | D1161: Phạm Kế Việt Anh | E1161: Nam | F1161: D25CQGA04-B | G1161: Thiết kế và Phát triển Game
+A1162: 8 | C1162: B25DCGA024 | D1162: Hoàng Gia Bách | E1162: Nam | F1162: D25CQGA04-B | G1162: Thiết kế và Phát triển Game
+A1163: 8 | C1163: B25DCGA028 | D1163: Vũ Đình Ngọc Châu | E1163: Nam | F1163: D25CQGA04-B | G1163: Thiết kế và Phát triển Game
+A1164: 8 | C1164: B25DCGA032 | D1164: Phạm Hồng Công | E1164: Nam | F1164: D25CQGA04-B | G1164: Thiết kế và Phát triển Game
+A1165: 8 | C1165: B25DCGA036 | D1165: Đỗ Duy Cường | E1165: Nam | F1165: D25CQGA04-B | G1165: Thiết kế và Phát triển Game
+A1166: 8 | C1166: B25DCGA040 | D1166: Phạm Thành Duy | E1166: Nam | F1166: D25CQGA04-B | G1166: Thiết kế và Phát triển Game
+A1167: 8 | C1167: B25DCGA044 | D1167: Hoàng Đăng Dương | E1167: Nam | F1167: D25CQGA04-B | G1167: Thiết kế và Phát triển Game
+A1168: 8 | C1168: B25DCGA052 | D1168: Đỗ Văn Hiếu | E1168: Nam | F1168: D25CQGA04-B | G1168: Thiết kế và Phát triển Game
+A1169: 8 | C1169: B25DCGA056 | D1169: Vũ Mai Quốc Hiệp | E1169: Nam | F1169: D25CQGA04-B | G1169: Thiết kế và Phát triển Game
+A1170: 8 | C1170: B25DCGA060 | D1170: Trần Việt Hoàng | E1170: Nam | F1170: D25CQGA04-B | G1170: Thiết kế và Phát triển Game
+A1171: 8 | C1171: B25DCGA064 | D1171: Nguyễn Hữu Quang Huy | E1171: Nam | F1171: D25CQGA04-B | G1171: Thiết kế và Phát triển Game
+A1172: 8 | C1172: B25DCGA068 | D1172: Nguyễn Trần Gia Huy | E1172: Nam | F1172: D25CQGA04-B | G1172: Thiết kế và Phát triển Game
+A1173: 8 | C1173: B25DCGA072 | D1173: Đồng Đại Hà | E1173: Nam | F1173: D25CQGA04-B | G1173: Thiết kế và Phát triển Game
+A1174: 8 | C1174: B25DCGA076 | D1174: Nguyễn Việt Hùng | E1174: Nam | F1174: D25CQGA04-B | G1174: Thiết kế và Phát triển Game
+A1175: 8 | C1175: B25DCGA080 | D1175: Lê Quốc Hưng | E1175: Nam | F1175: D25CQGA04-B | G1175: Thiết kế và Phát triển Game
+A1176: 8 | C1176: B25DCGA088 | D1176: Trần Hoàng Hải | E1176: Nam | F1176: D25CQGA04-B | G1176: Thiết kế và Phát triển Game
+A1177: 8 | C1177: B25DCGA092 | D1177: Nguyễn Đình Khiêm | E1177: Nam | F1177: D25CQGA04-B | G1177: Thiết kế và Phát triển Game
+A1178: 8 | C1178: B25DCGA096 | D1178: Phạm Gia Khánh | E1178: Nam | F1178: D25CQGA04-B | G1178: Thiết kế và Phát triển Game
+A1179: 8 | C1179: B25DCGA100 | D1179: Trịnh Gia Kiệt | E1179: Nam | F1179: D25CQGA04-B | G1179: Thiết kế và Phát triển Game
+A1180: 8 | C1180: B25DCGA108 | D1180: Nguyễn Hoàng Minh | E1180: Nam | F1180: D25CQGA04-B | G1180: Thiết kế và Phát triển Game
+A1181: 8 | C1181: B25DCGA112 | D1181: Nguyễn Thế Minh | E1181: Nam | F1181: D25CQGA04-B | G1181: Thiết kế và Phát triển Game
+A1182: 8 | C1182: B25DCGA120 | D1182: Vũ Tuấn Minh | E1182: Nam | F1182: D25CQGA04-B | G1182: Thiết kế và Phát triển Game
+A1183: 8 | C1183: B25DCGA124 | D1183: Bùi Quang Nam | E1183: Nam | F1183: D25CQGA04-B | G1183: Thiết kế và Phát triển Game
+A1184: 8 | C1184: B25DCGA128 | D1184: Lê Vũ Bảo Nguyên | E1184: Nam | F1184: D25CQGA04-B | G1184: Thiết kế và Phát triển Game
+A1185: 9 | B1185: P404 đến P409 | C1185: B25DCGA132 | D1185: Nguyễn Thái Phong | E1185: Nam | F1185: D25CQGA04-B | G1185: Thiết kế và Phát triển Game | H1185: C Trưởng: Thầy Phùng Văn Nhị; TS: 118
+A1186: 9 | C1186: B25DCGA136 | D1186: Đinh Tấn Phú | E1186: Nam | F1186: D25CQGA04-B | G1186: Thiết kế và Phát triển Game
+A1187: 9 | C1187: B25DCGA140 | D1187: Đào Ngọc Nhật Quang | E1187: Nam | F1187: D25CQGA04-B | G1187: Thiết kế và Phát triển Game
+A1188: 9 | C1188: B25DCGA144 | D1188: Trần Tuấn Sang | E1188: Nam | F1188: D25CQGA04-B | G1188: Thiết kế và Phát triển Game
+A1189: 9 | C1189: B25DCGA152 | D1189: Đào Minh Thành | E1189: Nam | F1189: D25CQGA04-B | G1189: Thiết kế và Phát triển Game
+A1190: 9 | C1190: B25DCGA160 | D1190: Đinh Văn Tiến | E1190: Nam | F1190: D25CQGA04-B | G1190: Thiết kế và Phát triển Game
+A1191: 9 | C1191: B25DCGA168 | D1191: Đào Trọng Trực | E1191: Nam | F1191: D25CQGA04-B | G1191: Thiết kế và Phát triển Game
+A1192: 9 | C1192: B25DCGA172 | D1192: Đỗ Tiến Tuấn | E1192: Nam | F1192: D25CQGA04-B | G1192: Thiết kế và Phát triển Game
+A1193: 9 | C1193: B25DCGA176 | D1193: Trần Thế Tâm | E1193: Nam | F1193: D25CQGA04-B | G1193: Thiết kế và Phát triển Game
+A1194: 9 | C1194: B25DCGA180 | D1194: Nguyễn Sơn Tùng | E1194: Nam | F1194: D25CQGA04-B | G1194: Thiết kế và Phát triển Game
+A1195: 9 | C1195: B25DCGA184 | D1195: Lê Ngọc Minh Tú | E1195: Nam | F1195: D25CQGA04-B | G1195: Thiết kế và Phát triển Game
+A1196: 9 | C1196: B25DCGA188 | D1196: Nguyễn Đình Vinh | E1196: Nam | F1196: D25CQGA04-B | G1196: Thiết kế và Phát triển Game
+A1197: 9 | C1197: B25DCGA196 | D1197: Phạm Bảo Đại | E1197: Nam | F1197: D25CQGA04-B | G1197: Thiết kế và Phát triển Game
+A1198: 9 | C1198: B25DCGA200 | D1198: Nguyễn Đình Đạt | E1198: Nam | F1198: D25CQGA04-B | G1198: Thiết kế và Phát triển Game
+A1199: 9 | C1199: B25DCTV001 | D1199: Đỗ Tôn A | E1199: Nam | F1199: D25CQTV01-B | G1199: Trí tuệ nhân tạo vạn vật (AIoT)
+A1200: 9 | C1200: B25DCTV003 | D1200: Lê Đức Anh | E1200: Nam | F1200: D25CQTV01-B | G1200: Trí tuệ nhân tạo vạn vật (AIoT)
+A1201: 9 | C1201: B25DCTV005 | D1201: Đào Duy Hiếu Anh | E1201: Nam | F1201: D25CQTV01-B | G1201: Trí tuệ nhân tạo vạn vật (AIoT)
+A1202: 9 | C1202: B25DCTV009 | D1202: Nguyễn Việt Cường | E1202: Nam | F1202: D25CQTV01-B | G1202: Trí tuệ nhân tạo vạn vật (AIoT)
+A1203: 9 | C1203: B25DCTV011 | D1203: Ngô Trọng Cường | E1203: Nam | F1203: D25CQTV01-B | G1203: Trí tuệ nhân tạo vạn vật (AIoT)
+A1204: 9 | C1204: B25DCTV013 | D1204: Trần Xuân Duy | E1204: Nam | F1204: D25CQTV01-B | G1204: Trí tuệ nhân tạo vạn vật (AIoT)
+A1205: 9 | C1205: B25DCTV015 | D1205: Nguyễn Anh Dũng | E1205: Nam | F1205: D25CQTV01-B | G1205: Trí tuệ nhân tạo vạn vật (AIoT)
+A1206: 9 | C1206: B25DCTV019 | D1206: Đỗ Nguyễn Mạnh Dũng | E1206: Nam | F1206: D25CQTV01-B | G1206: Trí tuệ nhân tạo vạn vật (AIoT)
+A1207: 9 | C1207: B25DCTV021 | D1207: Vũ Khải Hoàn | E1207: Nam | F1207: D25CQTV01-B | G1207: Trí tuệ nhân tạo vạn vật (AIoT)
+A1208: 9 | C1208: B25DCTV023 | D1208: Cao Việt Hoàng | E1208: Nam | F1208: D25CQTV01-B | G1208: Trí tuệ nhân tạo vạn vật (AIoT)
+A1209: 9 | C1209: B25DCTV025 | D1209: Nguyễn Tiến Hoàng | E1209: Nam | F1209: D25CQTV01-B | G1209: Trí tuệ nhân tạo vạn vật (AIoT)
+A1210: 9 | C1210: B25DCTV027 | D1210: Nguyễn Việt Hoàng | E1210: Nam | F1210: D25CQTV01-B | G1210: Trí tuệ nhân tạo vạn vật (AIoT)
+A1211: 9 | C1211: B25DCTV029 | D1211: Ngô Văn Huy | E1211: Nam | F1211: D25CQTV01-B | G1211: Trí tuệ nhân tạo vạn vật (AIoT)
+A1212: 9 | C1212: B25DCTV031 | D1212: Phạm Gia Hưng | E1212: Nam | F1212: D25CQTV01-B | G1212: Trí tuệ nhân tạo vạn vật (AIoT)
+A1213: 9 | C1213: B25DCTV033 | D1213: Nguyễn Xuân Hải | E1213: Nam | F1213: D25CQTV01-B | G1213: Trí tuệ nhân tạo vạn vật (AIoT)
+A1214: 9 | C1214: B25DCTV035 | D1214: Trần Đức Hải | E1214: Nam | F1214: D25CQTV01-B | G1214: Trí tuệ nhân tạo vạn vật (AIoT)
+A1215: 9 | C1215: B25DCTV037 | D1215: Nguyễn Trọng Khánh | E1215: Nam | F1215: D25CQTV01-B | G1215: Trí tuệ nhân tạo vạn vật (AIoT)
+A1216: 9 | C1216: B25DCTV039 | D1216: Trần Quốc Khánh | E1216: Nam | F1216: D25CQTV01-B | G1216: Trí tuệ nhân tạo vạn vật (AIoT)
+A1217: 9 | C1217: B25DCTV041 | D1217: Đậu Nam Khánh | E1217: Nam | F1217: D25CQTV01-B | G1217: Trí tuệ nhân tạo vạn vật (AIoT)
+A1218: 9 | C1218: B25DCTV043 | D1218: Trịnh Đăng Khôi | E1218: Nam | F1218: D25CQTV01-B | G1218: Trí tuệ nhân tạo vạn vật (AIoT)
+A1219: 9 | C1219: B25DCTV045 | D1219: Nguyễn Tuấn Kiệt | E1219: Nam | F1219: D25CQTV01-B | G1219: Trí tuệ nhân tạo vạn vật (AIoT)
+A1220: 9 | C1220: B25DCTV049 | D1220: Đỗ Thành Long | E1220: Nam | F1220: D25CQTV01-B | G1220: Trí tuệ nhân tạo vạn vật (AIoT)
+A1221: 9 | C1221: B25DCTV051 | D1221: Chu Hữu Lợi | E1221: Nam | F1221: D25CQTV01-B | G1221: Trí tuệ nhân tạo vạn vật (AIoT)
+A1222: 9 | C1222: B25DCTV055 | D1222: Lê Tiến Mạnh | E1222: Nam | F1222: D25CQTV01-B | G1222: Trí tuệ nhân tạo vạn vật (AIoT)
+A1223: 9 | C1223: B25DCTV059 | D1223: Vũ Nguyễn Minh Nhật | E1223: Nam | F1223: D25CQTV01-B | G1223: Trí tuệ nhân tạo vạn vật (AIoT)
+A1224: 9 | C1224: B25DCTV061 | D1224: Trần Đình Phúc | E1224: Nam | F1224: D25CQTV01-B | G1224: Trí tuệ nhân tạo vạn vật (AIoT)
+A1225: 9 | C1225: B25DCTV063 | D1225: Đặng Nhật Quang | E1225: Nam | F1225: D25CQTV01-B | G1225: Trí tuệ nhân tạo vạn vật (AIoT)
+A1226: 9 | C1226: B25DCTV065 | D1226: Hoàng Mạnh Quân | E1226: Nam | F1226: D25CQTV01-B | G1226: Trí tuệ nhân tạo vạn vật (AIoT)
+A1227: 9 | C1227: B25DCTV067 | D1227: Đoàn Viết Sỹ | E1227: Nam | F1227: D25CQTV01-B | G1227: Trí tuệ nhân tạo vạn vật (AIoT)
+A1228: 9 | C1228: B25DCTV069 | D1228: Phạm Mạnh Thái | E1228: Nam | F1228: D25CQTV01-B | G1228: Trí tuệ nhân tạo vạn vật (AIoT)
+A1229: 9 | C1229: B25DCTV071 | D1229: Nguyễn Đức Thắng | E1229: Nam | F1229: D25CQTV01-B | G1229: Trí tuệ nhân tạo vạn vật (AIoT)
+A1230: 9 | C1230: B25DCTV073 | D1230: Nguyễn Quang Tiến | E1230: Nam | F1230: D25CQTV01-B | G1230: Trí tuệ nhân tạo vạn vật (AIoT)
+A1231: 9 | C1231: B25DCTV075 | D1231: Phan Anh Tiến | E1231: Nam | F1231: D25CQTV01-B | G1231: Trí tuệ nhân tạo vạn vật (AIoT)
+A1232: 9 | C1232: B25DCTV077 | D1232: Phạm Lê Thiên Tường | E1232: Nam | F1232: D25CQTV01-B | G1232: Trí tuệ nhân tạo vạn vật (AIoT)
+A1233: 9 | C1233: B25DCTV081 | D1233: Đào Công Đạt | E1233: Nam | F1233: D25CQTV01-B | G1233: Trí tuệ nhân tạo vạn vật (AIoT)
+A1234: 9 | C1234: B25DCTV083 | D1234: Nguyễn Minh Đức | E1234: Nam | F1234: D25CQTV01-B | G1234: Trí tuệ nhân tạo vạn vật (AIoT)
+A1235: 9 | C1235: B25DCTV002 | D1235: Dương Hải Anh | E1235: Nam | F1235: D25CQTV02-B | G1235: Trí tuệ nhân tạo vạn vật (AIoT)
+A1236: 9 | C1236: B25DCTV008 | D1236: Lưu Công Chung | E1236: Nam | F1236: D25CQTV02-B | G1236: Trí tuệ nhân tạo vạn vật (AIoT)
+A1237: 9 | C1237: B25DCTV010 | D1237: Nguyễn Việt Cường | E1237: Nam | F1237: D25CQTV02-B | G1237: Trí tuệ nhân tạo vạn vật (AIoT)
+A1238: 9 | C1238: B25DCTV012 | D1238: Trần Đoàn Việt Cường | E1238: Nam | F1238: D25CQTV02-B | G1238: Trí tuệ nhân tạo vạn vật (AIoT)
+A1239: 9 | C1239: B25DCTV014 | D1239: Hoàng Trung Dũng | E1239: Nam | F1239: D25CQTV02-B | G1239: Trí tuệ nhân tạo vạn vật (AIoT)
+A1240: 9 | C1240: B25DCTV016 | D1240: Nguyễn Thọ Việt Dũng | E1240: Nam | F1240: D25CQTV02-B | G1240: Trí tuệ nhân tạo vạn vật (AIoT)
+A1241: 9 | C1241: B25DCTV018 | D1241: Phạm Tiến Dũng | E1241: Nam | F1241: D25CQTV02-B | G1241: Trí tuệ nhân tạo vạn vật (AIoT)
+A1242: 9 | C1242: B25DCTV020 | D1242: Ngô Thế Dương | E1242: Nam | F1242: D25CQTV02-B | G1242: Trí tuệ nhân tạo vạn vật (AIoT)
+A1243: 9 | C1243: B25DCTV022 | D1243: Bùi Huy Hoàng | E1243: Nam | F1243: D25CQTV02-B | G1243: Trí tuệ nhân tạo vạn vật (AIoT)
+A1244: 9 | C1244: B25DCTV024 | D1244: Nguyễn Nhật Hoàng | E1244: Nam | F1244: D25CQTV02-B | G1244: Trí tuệ nhân tạo vạn vật (AIoT)
+A1245: 9 | C1245: B25DCTV026 | D1245: Nguyễn Trọng Vũ Hoàng | E1245: Nam | F1245: D25CQTV02-B | G1245: Trí tuệ nhân tạo vạn vật (AIoT)
+A1246: 9 | C1246: B25DCTV028 | D1246: Nguyễn Quang Huy | E1246: Nam | F1246: D25CQTV02-B | G1246: Trí tuệ nhân tạo vạn vật (AIoT)
+A1247: 9 | C1247: B25DCTV030 | D1247: Kiều Việt Hưng | E1247: Nam | F1247: D25CQTV02-B | G1247: Trí tuệ nhân tạo vạn vật (AIoT)
+A1248: 9 | C1248: B25DCTV032 | D1248: Nguyễn Hoàng Hải | E1248: Nam | F1248: D25CQTV02-B | G1248: Trí tuệ nhân tạo vạn vật (AIoT)
+A1249: 9 | C1249: B25DCTV034 | D1249: Trần Ngọc Hải | E1249: Nam | F1249: D25CQTV02-B | G1249: Trí tuệ nhân tạo vạn vật (AIoT)
+A1250: 9 | C1250: B25DCTV036 | D1250: Nguyễn Đức Khoa | E1250: Nam | F1250: D25CQTV02-B | G1250: Trí tuệ nhân tạo vạn vật (AIoT)
+A1251: 9 | C1251: B25DCTV038 | D1251: Phạm Văn Duy Khánh | E1251: Nam | F1251: D25CQTV02-B | G1251: Trí tuệ nhân tạo vạn vật (AIoT)
+A1252: 9 | C1252: B25DCTV040 | D1252: Vương Gia Khánh | E1252: Nam | F1252: D25CQTV02-B | G1252: Trí tuệ nhân tạo vạn vật (AIoT)
+A1253: 9 | C1253: B25DCTV042 | D1253: Dương Xuân Khôi | E1253: Nam | F1253: D25CQTV02-B | G1253: Trí tuệ nhân tạo vạn vật (AIoT)
+A1254: 9 | C1254: B25DCTV044 | D1254: Bùi Công Khải | E1254: Nam | F1254: D25CQTV02-B | G1254: Trí tuệ nhân tạo vạn vật (AIoT)
+A1255: 9 | C1255: B25DCTV046 | D1255: Dương Trác Kỳ | E1255: Nam | F1255: D25CQTV02-B | G1255: Trí tuệ nhân tạo vạn vật (AIoT)
+A1256: 9 | C1256: B25DCTV050 | D1256: Lưu Thanh Lâm | E1256: Nam | F1256: D25CQTV02-B | G1256: Trí tuệ nhân tạo vạn vật (AIoT)
+A1257: 9 | C1257: B25DCTV054 | D1257: Nguyễn Bình Minh | E1257: Nam | F1257: D25CQTV02-B | G1257: Trí tuệ nhân tạo vạn vật (AIoT)
+A1258: 9 | C1258: B25DCTV056 | D1258: Trương Nhật Nam | E1258: Nam | F1258: D25CQTV02-B | G1258: Trí tuệ nhân tạo vạn vật (AIoT)
+A1259: 9 | C1259: B25DCTV060 | D1259: Trần Thế Phong | E1259: Nam | F1259: D25CQTV02-B | G1259: Trí tuệ nhân tạo vạn vật (AIoT)
+A1260: 9 | C1260: B25DCTV066 | D1260: Vũ Minh Quân | E1260: Nam | F1260: D25CQTV02-B | G1260: Trí tuệ nhân tạo vạn vật (AIoT)
+A1261: 9 | C1261: B25DCTV068 | D1261: Kiều Trung Thành | E1261: Nam | F1261: D25CQTV02-B | G1261: Trí tuệ nhân tạo vạn vật (AIoT)
+A1262: 9 | C1262: B25DCTV070 | D1262: Nguyễn Văn Thăng | E1262: Nam | F1262: D25CQTV02-B | G1262: Trí tuệ nhân tạo vạn vật (AIoT)
+A1263: 9 | C1263: B25DCTV072 | D1263: Phạm Duy Thịnh | E1263: Nam | F1263: D25CQTV02-B | G1263: Trí tuệ nhân tạo vạn vật (AIoT)
+A1264: 9 | C1264: B25DCTV074 | D1264: Nguyễn Việt Tiến | E1264: Nam | F1264: D25CQTV02-B | G1264: Trí tuệ nhân tạo vạn vật (AIoT)
+A1265: 9 | C1265: B25DCTV076 | D1265: Phan Thanh Tú | E1265: Nam | F1265: D25CQTV02-B | G1265: Trí tuệ nhân tạo vạn vật (AIoT)
+A1266: 9 | C1266: B25DCTV078 | D1266: Ngô Quang Vinh | E1266: Nam | F1266: D25CQTV02-B | G1266: Trí tuệ nhân tạo vạn vật (AIoT)
+A1267: 9 | C1267: B25DCTV080 | D1267: Mai Quốc Việt | E1267: Nam | F1267: D25CQTV02-B | G1267: Trí tuệ nhân tạo vạn vật (AIoT)
+A1268: 9 | C1268: B25DCTE003 | D1268: Lê Quang Anh | E1268: Nam | F1268: D25CQTE01-B | G1268: Truyền thông đa phương tiện (chất lượng cao)
+A1269: 9 | C1269: B25DCTE005 | D1269: Nguyễn Hoàng Anh | E1269: Nam | F1269: D25CQTE01-B | G1269: Truyền thông đa phương tiện (chất lượng cao)
+A1270: 9 | C1270: B25DCTE009 | D1270: Phùng Duy Anh | E1270: Nam | F1270: D25CQTE01-B | G1270: Truyền thông đa phương tiện (chất lượng cao)
+A1271: 9 | C1271: B25DCTE017 | D1271: Lê Duy | E1271: Nam | F1271: D25CQTE01-B | G1271: Truyền thông đa phương tiện (chất lượng cao)
+A1272: 9 | C1272: B25DCTE019 | D1272: Phan Hoàng Duy | E1272: Nam | F1272: D25CQTE01-B | G1272: Truyền thông đa phương tiện (chất lượng cao)
+A1273: 9 | C1273: B25DCTE025 | D1273: Trần Xuân Hiếu | E1273: Nam | F1273: D25CQTE01-B | G1273: Truyền thông đa phương tiện (chất lượng cao)
+A1274: 9 | C1274: B25DCTE029 | D1274: Nguyễn Phi Hùng | E1274: Nam | F1274: D25CQTE01-B | G1274: Truyền thông đa phương tiện (chất lượng cao)
+A1275: 9 | C1275: B25DCTE031 | D1275: Vũ Hải | E1275: Nam | F1275: D25CQTE01-B | G1275: Truyền thông đa phương tiện (chất lượng cao)
+A1276: 9 | C1276: B25DCTE033 | D1276: Nguyễn Ngọc Khang | E1276: Nam | F1276: D25CQTE01-B | G1276: Truyền thông đa phương tiện (chất lượng cao)
+A1277: 9 | C1277: B25DCTE037 | D1277: Lê Hoàng Kỳ | E1277: Nam | F1277: D25CQTE01-B | G1277: Truyền thông đa phương tiện (chất lượng cao)
+A1278: 9 | C1278: B25DCTE047 | D1278: Nguyễn Trí Long | E1278: Nam | F1278: D25CQTE01-B | G1278: Truyền thông đa phương tiện (chất lượng cao)
+A1279: 9 | C1279: B25DCTE057 | D1279: Nguyễn Bình Minh | E1279: Nam | F1279: D25CQTE01-B | G1279: Truyền thông đa phương tiện (chất lượng cao)
+A1280: 9 | C1280: B25DCTE059 | D1280: Đỗ Thế Minh | E1280: Nam | F1280: D25CQTE01-B | G1280: Truyền thông đa phương tiện (chất lượng cao)
+A1281: 9 | C1281: B25DCTE061 | D1281: Khổng Hoàng Hoài Nam | E1281: Nam | F1281: D25CQTE01-B | G1281: Truyền thông đa phương tiện (chất lượng cao)
+A1282: 9 | C1282: B25DCTE079 | D1282: Tô Minh Thịnh | E1282: Nam | F1282: D25CQTE01-B | G1282: Truyền thông đa phương tiện (chất lượng cao)
+A1283: 9 | C1283: B25DCTE083 | D1283: Nguyễn Lê Trung | E1283: Nam | F1283: D25CQTE01-B | G1283: Truyền thông đa phương tiện (chất lượng cao)
+A1284: 9 | C1284: B25DCTE089 | D1284: Bùi Trần Hải Đăng | E1284: Nam | F1284: D25CQTE01-B | G1284: Truyền thông đa phương tiện (chất lượng cao)
+A1285: 9 | C1285: B25DCTE091 | D1285: Nguyễn Thành Đạt | E1285: Nam | F1285: D25CQTE01-B | G1285: Truyền thông đa phương tiện (chất lượng cao)
+A1286: 9 | C1286: B25DCTE093 | D1286: Nguyễn Minh Đức | E1286: Nam | F1286: D25CQTE01-B | G1286: Truyền thông đa phương tiện (chất lượng cao)
+A1287: 9 | C1287: B25DCTE004 | D1287: Lê Trí Thế Anh | E1287: Nam | F1287: D25CQTE02-B | G1287: Truyền thông đa phương tiện (chất lượng cao)
+A1288: 9 | C1288: B25DCTE008 | D1288: Nguyễn Ngọc Anh | E1288: Nam | F1288: D25CQTE02-B | G1288: Truyền thông đa phương tiện (chất lượng cao)
+A1289: 9 | C1289: B25DCTE014 | D1289: Nguyễn Xuân Bình | E1289: Nam | F1289: D25CQTE02-B | G1289: Truyền thông đa phương tiện (chất lượng cao)
+A1290: 9 | C1290: B25DCTE020 | D1290: Phạm Hồng Tấn Dũng | E1290: Nam | F1290: D25CQTE02-B | G1290: Truyền thông đa phương tiện (chất lượng cao)
+A1291: 9 | C1291: B25DCTE024 | D1291: Nguyễn Văn Hiếu | E1291: Nam | F1291: D25CQTE02-B | G1291: Truyền thông đa phương tiện (chất lượng cao)
+A1292: 9 | C1292: B25DCTE026 | D1292: Nguyễn Gia Hiển | E1292: Nam | F1292: D25CQTE02-B | G1292: Truyền thông đa phương tiện (chất lượng cao)
+A1293: 9 | C1293: B25DCTE048 | D1293: Phạm Nam Long | E1293: Nam | F1293: D25CQTE02-B | G1293: Truyền thông đa phương tiện (chất lượng cao)
+A1294: 9 | C1294: B25DCTE054 | D1294: Bùi Đức Minh | E1294: Nam | F1294: D25CQTE02-B | G1294: Truyền thông đa phương tiện (chất lượng cao)
+A1295: 9 | C1295: B25DCTE056 | D1295: Lại Ngọc Minh | E1295: Nam | F1295: D25CQTE02-B | G1295: Truyền thông đa phương tiện (chất lượng cao)
+A1296: 9 | C1296: B25DCTE068 | D1296: Vũ Trọng Ninh | E1296: Nam | F1296: D25CQTE02-B | G1296: Truyền thông đa phương tiện (chất lượng cao)
+A1297: 9 | C1297: B25DCTE072 | D1297: Lê Ngọc Mạnh Quân | E1297: Nam | F1297: D25CQTE02-B | G1297: Truyền thông đa phương tiện (chất lượng cao)
+A1298: 9 | C1298: B25DCTE076 | D1298: Hoàng Kim Thái | E1298: Nam | F1298: D25CQTE02-B | G1298: Truyền thông đa phương tiện (chất lượng cao)
+A1299: 9 | C1299: B25DCTE092 | D1299: Đào Tiến Đạt | E1299: Nam | F1299: D25CQTE02-B | G1299: Truyền thông đa phương tiện (chất lượng cao)
+A1300: 9 | C1300: B25DCTE036 | D1300: Lê Đức Kiên | E1300: Nam | F1300: D25CQTE02-B | G1300: Liên kết 
+A1301: 9 | C1301: B25DCCN126 | D1301: Nguyễn Tiến Dũng | E1301: Nam | F1301: D25CQCN05-B | G1301: Liên kết 
+A1302: 9 | C1302: B25DCTC071 | D1302: Lê Hữu Quang Long | E1302: Nam | F1302: D25CQTC02-B | G1302: Liên kết 

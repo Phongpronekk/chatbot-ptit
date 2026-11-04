@@ -1,0 +1,2812 @@
+### Trang 1
+
+ 
+ 
+BỘ KHOA HỌC VÀ CÔNG NGHỆ 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ĐỀ ÁN MỞ CHƯƠNG TRÌNH ĐÀO TẠO  
+TRÌNH ĐỘ ĐẠI HỌC 
+NGÀNH TRÍ TUỆ NHÂN TẠO 
+MÃ NGÀNH: 7480107 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HÀ NỘI, 2025 
+  
+
+
+### Trang 2
+
+ 
+ 
+MỤC LỤC 
+ 
+PHẦN 1. GIỚI THIỆU KHÁI QUÁT VỀ HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG ........ 1 
+1.1. Giới thiệu về Học viện Công nghệ Bưu chính viễn thông ............................................... 1 
+1.1.1. Giới thiệu chung về Học viện Công nghệ Bưu chính Viễn thông .......................... 1 
+1.1.2. Tầm nhìn và Sứ mạng của Học viện Công nghệ Bưu chính Viễn thông ................ 3 
+1.1.3. Triết lý giáo dục của Học viện Công nghệ Bưu chính Viễn thông ......................... 3 
+1.1.4. Hoạt động đào tạo ................................................................................................ 4 
+1.1.5. Nghiên cứu khoa học và tư vấn chuyển giao công nghệ ...................................... 5 
+1.2. Kết quả đào tạo trình độ đại học của Học viện Công nghệ Bưu chính Viễn thông ........ 5 
+1.3. Giới thiệu Khoa Trí tuệ nhân tạo – Đơn vị chuyên môn đảm nhận nhiệm vụ chủ trì xây 
+dựng và đào tạo ngành Trí tuệ nhân tạo ............................................................................... 6 
+Chức năng của Khoa Trí tuệ nhân tạo............................................................................. 7 
+Khoa Trí tuệ nhân tạo có các chức năng nhiệm vụ chính sau đây: ................................ 7 
+1.4. Đội ngũ giảng viên cơ hữu chủ trì xây dựng và đào tạo ngành Trí tuệ nhân tạo ........... 8 
+1.4.1. Đội ngũ cán bộ, giảng viên của Khoa Trí tuệ nhân tạo ......................................... 8 
+PHẦN 2. SỰ CẦN THIẾT MỞ NGÀNH ĐÀO TẠO TRÍ TUỆ NHÂN TẠO ..................................... 9 
+2.1. Sự cần thiết ..................................................................................................................... 9 
+2.2. Phân tích, dự báo nhu cầu lao động và thực trạng đào tạo lĩnh vực Trí tuệ nhân tạo 11 
+2.2.1. Phân tích, dự báo nhu cầu lao động của lĩnh vực Trí tuệ nhân tạo .................... 11 
+2.2.2.  Tình hình đào tạo trí tuệ nhân tạo và khoa học dữ liệu tại Việt Nam và trên thế 
+giới ................................................................................................................................... 18 
+2.3. Nghiên cứu, khảo sát về vị trí việc làm và yêu cầu về năng lực đối với người học sau khi 
+tốt nghiệp ngành Trí tuệ nhân tạo ....................................................................................... 24 
+2.3.1. Phương pháp và qui trình thực hiện .................................................................. 24 
+2.3.2. Kết quả khảo sát các kỹ năng cần có của sinh viên tốt nghiệp ngành Trí tuệ nhân 
+tạo và chuẩn đầu ra cho chương trình đào tạo Trí tuệ nhân tạo .................................... 25 
+2.4. So sánh với một số chương trình đào tạo trong và ngoài nước ................................... 28 
+2.4.1. So sánh với chương trình đào tạo Đại học ngành Trí tuệ nhân tạo của trường Đại 
+học Công nghệ (UET), Đại học Quốc gia Hà Nội ............................................................... 28 
+2.4.2. So sánh với chương trình đào tạo Đại học ngành Trí tuệ nhân tạo của trường Đại 
+học Bách khoa Hà Nội (HUST) .......................................................................................... 31 
+2.4.3. So sánh v ới chương trình đào t ạo Đại học ngành Trí tu ệ nhân tạo của Đại học 
+Stanford ........................................................................................................................... 33 
+
+### Trang 3
+
+ 
+ 
+2.4.4. So sánh v ới chương trình đào t ạo Đại học ngành Trí tu ệ nhân tạo của Đại học 
+Carnegie Mellon University (CMU) .................................................................................. 35 
+2.5. Sự phù hợp của ngành Trí tuệ nhân tạo và trình độ đào tạo với định hướng, chiến lược 
+phát triển ngành học mới của Học viện Công nghệ Bưu chính Viễn thông ......................... 37 
+PHẦN 3. CHƯƠNG TRÌNH ĐÀO TẠO NGÀNH TRÍ TUỆ NHÂN TẠO ...................................... 39 
+1. Tóm tắt quá trình triển khai xây dựng chương trình đào tạo ..................................... 39 
+2. Nội dung chương trình đào tạo trình độ đại học ngành Trí tuệ nhân tạo .................. 40 
+PHẦN 4. NĂNG LỰC CỦA CƠ SỞ ĐÀO TẠO ....................................................................... 41 
+4.1 Đội ngũ giảng viên, nhà khoa học cơ hữu, cán bộ quản lý và thực hiện chương trình 
+đào tạo ngành Báo chí .......................................................................................................... 41 
+4.2. Cơ sở vật chất phục vụ đào tạo .................................................................................... 42 
+4.3. Thư viện ........................................................................................................................ 43 
+(Danh mục sách, giáo trình, bài giảng chi tiết tại Mẫu 7 Phụ lục kèm theo)....................... 43 
+4.4. Hoạt động nghiên cứu khoa học ................................................................................... 43 
+4.5. Hoạt động hợp tác quốc tế và hợp tác với doanh nghiệp ............................................ 45 
+PHẦN 5. PHƯƠNG ÁN PHÒNG NGỪA RỦI RO................................................................... 53 
+5.1. Hệ thống đảm bảo chất lượng ...................................................................................... 53 
+5.2. Tình huống rủi ro và giải pháp xử lý ............................................................................. 53 
+5.2.1. Các rủi ro có thể xảy ra trong quá trình thực hiện Chương trình ....................... 53 
+5.2.2. Các giải pháp xử lý .............................................................................................. 53 
+ 
+
+### Trang 4
+
+1 
+ 
+BỘ KHOA HỌC VÀ CÔNG NGHỆ 
+HỌC VIỆN CÔNG NGHỆ 
+BƯU CHÍNH VIỄN THÔNG 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập – Tự do – Hạnh phúc 
+ 
+ĐỀ ÁN MỞ NGÀNH ĐÀO TẠO 
+ 
+Tên ngành (tiếng Việt): Trí tuệ nhân tạo 
+Tên ngành (tiếng Anh): Artificial Intelligence 
+Mã ngành đào tạo:  7480107 
+Trình độ đào tạo:  Đại học 
+Hình thức đào tạo:  Chính quy 
+ 
+PHẦN 1. GIỚI THIỆU KHÁI QUÁT VỀ HỌC VIỆN CÔNG NGHỆ BƯU 
+CHÍNH VIỄN THÔNG 
+1.1. Giới thiệu về Học viện Công nghệ Bưu chính viễn thông 
+1.1.1. Giới thiệu chung về Học viện Công nghệ Bưu chính Viễn thông 
+Học viện Công nghệ Bưu chính Vi ễn thông đư ợc thành lập năm 1997 theo Quy ết 
+định số 516/TTg của Thủ tướng Chính phủ trên cơ sở sắp xếp lại 4 đơn vị thành viên của 
+Tổng công ty Bưu chính Viễn thông Việt Nam (Tập đoàn Bưu chính Viễn thông Việt Nam) 
+bao gồm các đơn v ị đào tạo và nghiên cứu: Trung tâm Đ ào tạo Bưu chính Vi ễn thông 1 
+(tiền thân là Trường Đại học Thông tin liên lạc); Trung tâm Đào tạo Bưu chính Viễn thông 
+2 (tại Tp. Hồ Chí Minh); Viện Khoa học kỹ thuật Bưu điện và Viện Kinh tế Bưu điện. Học 
+viện được tổ chức và hoạt động theo tinh thần Nghị quyết TW2 Khóa VIII, thực hiện gắn 
+kết Đào tạo (trường Đại học) - Nghiên cứu (các Viện nghiên cứu) - Sản xuất kinh doanh 
+(doanh nghiệp), với mục tiêu đào tạo nguồn nhân lực chất lượng cao trong lĩnh vực Thông 
+tin và Truyền thông và tạo ra những sản phẩm khoa học công nghệ tiên tiến đáp ứng được 
+nhu cầu công nghiệp hoá, hiện đại hoá đất nước. 
+1.1.1.1. Quá trình hình thành và phát triển 
+Học viện Công nghệ Bưu chính Viễn thông chính thức được thành lập năm 1997 với 
+tiền thân là Trư ờng đại học Bưu điện- Vô tuyến điện (thành lập năm 1953). Nh ững mốc 
+quan trọng trong quá trình hình thành và phát triển của Học viện được trình bày dưới đây: 
+- 07/9/1953: Thành lập trường đại học Bưu điện - Vô tuyến điện 
+- 17/9/1966: Thành lập Viện khoa học kỹ thuật Bưu Điện RIPT 
+- 08/4/1975: Thành lập Viện Kinh tế Bưu Điện ERIPT 
+- 25/8/1988: Thành lập Trung tâm Đào tạo Bưu chính Viễn thông 1 và Trung tâm Đào 
+tạo Bưu chính Viễn thông 2 
+
+### Trang 5
+
+2 
+ 
+- 11/7/1997: Thành lập Học viện Công nghệ Bưu chính Viễn thông trên cơ sở sắp xếp 
+lại 4 đơn vị thành viên của Tổng công ty Bưu chính Viễn thông Việt Nam (nay là Tập 
+đoàn Bưu chính Viễn thông Việt Nam) gồm: Trung tâm đào tạo Bưu chính Viễn thông 
+1 và 2, Viện khoa học kỹ thuật Bưu Điện, Viện Kinh tế Bưu Điện) 17/9/1997: Công 
+bố quyết định thành lập Học viện Công nghệ BCVT. 
+- 22/3/1999: Th ành lập Trung tâm Công ngh ệ thông tin CDIT tr ực thuộc Học viện 
+Công nghệ Bưu chính Viễn thông 
+- 2012: Học viện thành lập Viện Công nghệ Thông tin và Truyền thông 
+- 1/7/2014: Học viện được điều chuyển từ Tập đoàn Bưu chính Viễn thông Việt Nam 
+về Bộ Thông tin v à Truyền thông, l à đơn vị sự nghiệp trực thuộc Bộ với vị thế là 
+trường đại học, trung tâm nghiên c ứu trọng điểm của Ngành Thông tin v à Truyền 
+thông Việt Nam. 
+1.1.1.2. Một số thành tích nổi bật 
+Với hơn 20 năm phát triển, Học viện Công nghệ Bưu chính Viễn thông và các đơn vị 
+trực thuộc đã được Nhà nước trao tặng nhiều danh hiệu cao quý và bằng khen, cờ thi đua 
+của Chính phủ, Bộ Giáo dục và Đào tạo, Bộ Thông tin và Truyền thông và nhiều tổ chức 
+khác, đánh dấu sự phát triển và những đóng góp cho nền giáo dục nước nhà như: 
+- Huân chương lao động hạng Ba (1998) 
+- Huân chương độc lập hạng Ba (2000) 
+- Huân chương độc lập hạng Nhất (2006) 
+- Huân chương lao động hạng Nhất (2012) 
+- Danh hiệu Anh hùng Lao động thời kỳ đổi mới (2013) 
+- Huân chương lao động hạng Nhất (2017) 
+1.1.1.3. Chức năng nhiệm vụ  
+Từ ngày 01/7/2014, thực hiện Quyết định của Thủ tướng Chính phủ, Bộ trưởng Bộ 
+Thông tin và Truyền thông đã ban hành Quyết định số 878/QĐ-BTTTT điều chuyển quyền 
+quản lý Học viện từ Tập đoàn Bưu chính Viễn thông Việt Nam về Bộ Thông tin và Truyền 
+thông. Học viện Công ngh ệ Bưu chính Viễn thông là đơn vị sự nghiệp trực thuộc Bộ; là 
+trường đại học, đơn vị nghiên cứu, phát triển nguồn nhân lực trọng điểm của Ngành thông 
+tin và truyền thông. Đặc biệt, từ ngày 04/02/2016, tại Quyết định số 222/QĐ-TTg về phê 
+duyệt đề án thí điểm đổi mới cơ chế hoạt động của Học viện Công nghệ Bưu chính Viễn 
+thông, Học viện cũng đã chính thức trở thành cơ sở giáo dục đại học được phép tự chủ theo 
+tinh thần của Nghị quyết 77/NQ-CP của Chính phủ. 
+Học viện Công nghệ Bưu chính Viễn thông là đơn vị sự nghiệp trực thuộc Bộ Thông 
+tin và truyền thông, Học viện thực hiện hai chức năng cơ bản: 
+- Giáo dục, đào tạo cho xã hội và cho nhu cầu của ngành thông tin và truyền thông Việt 
+Nam. 
+
+### Trang 6
+
+3 
+ 
+- Nghiên cứu khoa học, tư vấn, chuyển giao công nghệ trong lĩnh vực bưu chính, viễn 
+thông và công nghệ thông tin đáp ứng nhu cầu xã hội và nhu cầu của ngành thông tin 
+và truyền thông Việt Nam. 
+1.1.2. Tầm nhìn và Sứ mạng của Học viện Công nghệ Bưu chính Viễn thông 
+Tầm nhìn 
+Đến năm 2030, Học viện trở thành một trung tâm về giáo dục – đào tạo, nghiên cứu 
+khoa học – chuyển giao công nghệ và tri thức trong lĩnh vực thông tin và truyền thông có 
+uy tín, khả năng cạnh tranh, hội nhập quốc tế cao và nằm trong nhóm 300 trường đại học  
+hàng đầu châu Á theo bảng xếp hạng QS Asia1 
+Sứ mạng 
+Sứ mạng của Học viện Công nghệ Bưu chính Viễn thông là sáng tạo và chuyển giao 
+tri thức cho xã hội thông qua việc gắn kết các hoạt động giáo dục – đào tạo nguồn nhân lực 
+chất lượng cao, nghiên cứu phát triển và chuyển giao khoa học công nghệ, tri thức 
+mới trong lĩnh vực thông tin và truyền thông đáp ứng thực tiễn phát triển và hội nhập quốc 
+tế của đất nước. 
+1.1.3. Triết lý giáo dục của Học viện Công nghệ Bưu chính Viễn thông 
+Triết lý giáo dục của Học viện Công nghệ Bưu chính Viên thông là: “Tri thức – Sáng 
+tạo — Đạo đức – Trách nhiệm” 
+Đây là phương châm xuyên suốt định hướng cho các hoạt động đào tạo, nghiên cứu 
+của Học viện hướng tới mục tiêu đào tạo ra những con người “vừa có tài vừa có đức” để 
+đóng góp cho sự phát triển chung của ngành, của đất nước, của nhân loại. Trong đó: 
+Tri thức: Tri thức là tài sản lớn nhất của một trường đại học trong vai trò là trung tâm 
+đào tạo nguồn nhân lực chất lượng cao. Mỗi cá nhân muốn thành tài tất yếu phải trải qua 
+quá trình tích lũy tri thức. Sáng tạo và chuyển giao tri thức là sứ mệnh của Học viện Công 
+nghệ Bưu chính Viễn thông. Vì vậy, yêu cầu đầu tiên trong quá trình giáo dục tại Học viện 
+là giúp người học tích lũy đủ về tri thức. 
+Sáng tạo: Sáng tạo là khả năng tạo ra cái mới và có ích cho thực tiễn từ những tri thức 
+mà con người tích lũy được. Sáng tạo là cách sử dụng tri thức, vận dụng tri thức để hiểu 
+được, quản lý được và dự báo được những thay đổi đang diễn ra trong xã hội. Điều này đặc 
+biệt quan trọng khi xã hội đang thay đổi ngày một nhanh chóng như hiện nay. 
+Đạo đức: Đạo đức là những chuẩn mực tốt đẹp trong tính cách của con người, mang 
+đậm giá trị truyền thông tốt đẹp của con người nói chung và người Việt Nam nói riêng. 
+Hoạt động đào tạo của Học viện hướng tới tạo ra những con người mang đậm giá trị văn 
+hóa của dân tộc, của ngành trong hoạt động giáo dục của Học viện Công nghệ Bưu chính 
+Viễn thông. 
+Trách nhiệm: Trách nhiệm là lý trí quan trọng để mỗi cá nhân trở nên có ích cho xã 
+hội. Giáo dục phải giúp con người biết có trách nhiệm với bản thân, với gia đình, với cộng 
+đồng, với đất nước… 
+
+### Trang 7
+
+4 
+ 
+ 
+1.1.4. Hoạt động đào tạo 
+Hệ thống đào tạo và cấp bằng của Học viện gồm nhiều cấp độ, tuỳ thuộc vào thời 
+gian đào tạo và chất lượng đầu vào của các học viên. Hiện nay, Học viện cung cấp các dịch 
+vụ giáo dục, đào tạo chủ yếu sau đây: 
+- Thực hiện các khoá đào tạo bậc cao đẳng, đại học, thạc sĩ và tiến sĩ theo chương trình 
+chuẩn quốc gia và quốc tế theo các hình thức khác nhau như tập trung, phi tập trung, 
+liên thông, đào tạo từ xa... 
+- Tổ chức các khóa đào tạo bồi dưỡng ngắn hạn cấp chứng chỉ trong các lĩnh vực bưu 
+chính, viễn thông, công nghệ thông tin, quản trị kinh doanh, an toàn thông tin, công 
+nghệ đa phương tiện, truyền thông đa phương tiện, thương mại điện tử, kế toán... 
+- Tổ chức các chương trình đào tạo cho nước thứ ba. 
+- Sẵn sàng liên danh, liên kết với các đối tác trong nước và quốc tế trong lĩnh vực giáo 
+dục, đào tạo. 
+Học viện Công nghệ Bưu chính Viễn thông có hai (02) cơ sở đào tạo- tại Hà Nội và 
+Thành phố Hồ Chí Minh; ba (03) đơn vị nghiên cứu đầu ngành về viễn thông, công nghệ 
+thông tin và kinh tế trong lĩnh vực Công nghệ thông tin- Truyền thông với tổng số gần 800 
+cán bộ giảng viên, nghiên c ứu viên và quản lý. Trong đó, đ ội ngũ c án bộ nghiên cứu và 
+giảng dạy là gần 600 người (số cán bộ giảng dạy có học hàm, học vị là giáo sư, phó giáo 
+sư, tiến sĩ khoa học, tiến sĩ là gần 100 người- chiếm gần 20%; số cán bộ giảng dạy có trình 
+độ thạc sĩ chiếm khoảng 70% tổng số cán bộ giảng dạy). Với các điều kiện và nguồn lực 
+như vậy, đến thời điểm hiện tại, Học viện Công nghệ Bưu chính Viễn thông đã đư ợc Bộ 
+Giáo dục & Đào tạo cho phép tổ chức đào tạo nhiều trình độ, ngành nghề và hình thức đào 
+tạo khác nhau, cụ thể: 
+Trình độ sau đại học: 
++) Tiến sĩ: đào tạo các chuyên ngành Kỹ thuật viễn thông, Kỹ thuật điện tử, Truyền 
+dữ liệu và mạng máy tính, Kỹ thuật máy tính, Quản trị kinh doanh; 
++) Thạc sĩ: đào tạo các chuyên ngành Quản trị kinh doanh, Kỹ thuật điện tử (Điện tử 
+viễn thông), Truyền dữ liệu và mạng máy tính, Khoa học máy tính; 
++) Trình độ đại học hệ chính quy: Học viện có 13 ngành đào tạo 
+1. Công nghệ thông tin 
+2. Kỹ thuật điện tử viễn thông 
+3. Công nghệ đa phương tiện 
+4. Công nghệ kỹ thuật điện- điện tử 
+5. An toàn thông tin 
+6. Khoa học máy tính 
+7. Quản trị kinh doanh 
+8. Kế toán 
+9. Marketing 
+10. Truyền thông đa phương tiện 
+11. Thương mại điện tử 
+12. Công nghệ tài chính Fintech 
+13. Báo chí 
+
+### Trang 8
+
+5 
+ 
+Như vậy, Học viện đã có năng lực và kinh nghiệm đào tạo trong lĩnh vực công nghệ 
+thông tin, an toàn thông tin và m ột số môn liên quan đến lĩnh vực trí tuệ nhân tạo rất phù 
+hợp và thuận lợi trong việc triển khai ngành đào tạo ngành Trí tuệ nhân tạo. 
+1.1.5. Nghiên cứu khoa học và tư vấn chuyển giao công nghệ 
+Hoạt động nghiên cứu khoa học và tư vấn chuyển giao công nghệ của Học viện gồm: 
+- Tổ chức nghiên cứu về chiến lược, quy hoạch phát triển mạng và dịch vụ bưu chính, 
+viễn thông và công nghệ thông tin. 
+- Tổ chức nghiên cứu về công nghệ, giải pháp và phát triển dịch vụ trong lĩnh vực bưu 
+chính, viễn thông và công nghệ thông tin. Tổ chức nghiên cứu và phát triển các sản 
+phẩm, bán sản phẩm trong lĩnh vực điện tử- viễn thông. Tổ chức nghiên cứu về quản 
+lý, điều hành doanh nghiệp và các lĩnh vực kinh tế khác. 
+- Cung cấp các dịch vụ tư vấn về công nghệ, giải pháp và phát triển dịch vụ trong lĩnh 
+vực bưu chính, vi ễn thông, công ngh ệ thông tin v à lĩnh vực kinh tế cho các đơn v ị 
+trong và ngoài ngành thông tin và truyền thông Việt Nam. 
+- Cung cấp các dịch vụ đo lường, kiểm chuẩn, tư vấn thẩm định các công trình, dự án 
+thuộc lĩnh vực bưu chính viễn thông và công nghệ thông tin. 
+- Học viện được ký thỏa ước hợp tác với các tổ chức nghiên cứu và đào tạo nước ngoài, 
+trao đổi chuyên gia nghiên c ứu và đào tạo với nước ngoài theo quy đ ịnh của Nhà 
+nước. 
+Với định hướng và mục tiêu phát triển trên, trải qua hơn 20 năm xây dựng và trưởng 
+thành, Học viện Công nghệ Bưu chính Viễn thông đang d ần khẳng định được uy tín c ủa 
+mình trước người học, trước xã hội và dần nâng cao vị thế trong hệ thống các trường đại 
+học của Việt Nam cũng như trong khu v ực và quốc tế; qua đó góp ph ần thực hiện thành 
+công tinh thần Nghị quyết TW2 Khóa VIII của Đảng và Chính phủ. 
+Với vị thế là đơn vị đào tạo, nghiên cứu trọng điểm, chủ lực của ngành thông tin và 
+truyền thông Việt Nam, với vai trò l à trường đại học trọng điểm quốc gia trong lĩnh v ực 
+ICT (Information & Communication Technologies), v ới những thành tựu trong g ắn kết 
+giữa Nghiên cứu – Đào tạo – Sản xuất kinh doanh năng lực, và với quy mô phát triển như 
+ngày hôm nay, Học viện tiếp tục củng cố cho sự phát triển chung của ngành thông tin và 
+truyền thông, góp phần vào sự nghiệp xây dựng, bảo vệ tổ quốc. Học viện đã chung 
+sức thúc đẩy ngành thông tin v à truyền thông Việt Nam tự chủ hơn, độc lập hơn về khoa 
+học công nghệ và nguồn nhân lực, qua đó tự tin cạnh tranh với các đối thủ lớn và có vị thế 
+nhất định trong khu vực và trên thế giới 
+1.2. Kết quả đào tạo trình độ đại học của Học viện Công nghệ Bưu chính Viễn thông 
+Được thành lập năm 1997, cho đ ến cuối năm 2024, Học viện Công nghệ Bưu chính 
+Viễn thông đã và đang tổ chức tuyển sinh, đào tạo cho 27 khóa đại học chính quy; Quy mô 
+đào tạo đại học chính quy c ủa Học viện bình quân kho ảng 12.000 sinh viên đ ại học hệ 
+chính quy, trong đó quy mô sinh viên đại học chính quy nhóm các ngành trong lĩnh vực kỹ 
+thuật khoảng trên 8.000 sinh viên (chiếm khoảng trên 65% quy mô đào tạo đại học hệ chính 
+
+### Trang 9
+
+6 
+ 
+quy). Học viện cũng đã đ ào tạo nguồn nhân l ực cho xã h ội được 19 khóa đ ại học với số 
+lượng khoảng trên 15.000 lao động. 
+Học viện thực hiện đề tài khảo sát sinh viên tốt nghiệp, nhóm nghiên cứu đã thiết kế 
+phiếu khảo sát, tổ chức khảo sát việc làm của sinh viên tốt nghiệp tại Học viện từ các doanh 
+nghiệp để có kênh thông tin độc lập về kết quả có việc làm của sinh viên với kết quả khảo 
+sát có 93,10% sinh viên tốt nghiệp có việc làm. Trong các năm 2016 và 2017, Học viện đã 
+tổ chức khảo sát việc làm của sinh viên tốt nghiệp thông qua hình thức khảo sát trực tuyến 
+bằng bảng hỏi trên Google gửi qua email, Facebook và qua website, với tỷ lệ 23,39% học 
+viên, 57,61% sinh viên các khóa học mới tốt nghiệp tham gia khảo sát. Theo kết quả khảo 
+sát, số lượng sinh viên có việc làm ngay sau khi tốt nghiệp chiếm tỷ lệ lớn 68,3%, cho 
+thấy nhiều sinh viên Học viện đã chủ động trong việc tìm kiếm và định hướng nghề nghiệp 
+của mình ngay từ khi còn đang học trong trường. Cũng theo khảo sát, tỷ lệ người học có 
+việc làm đúng ngành đào tạo sau một năm tốt nghiệp là 89,5%. Ngoài ra có gần 15% 
+số sinh viên sau khi tốt nghiệp đại học, cao đẳng đã tham gia tiếp tục học tập nâng cao trình 
+độ tại Học viện hoặc du học ở nước ngoài. 
+Hoạt động đào tạo đại học của Học viện Công nghệ Bưu chính Viễn thông đáp ứng 
+yêu cầu của xã hội và doanh nghiệp, đóng góp tích cực cho sự phát triển của ngành Thông 
+tin và Truyền thông và sự nghiệp công nghiệp hoá, hiện đại hoá đất nước. 
+1.3. Giới thiệu Khoa Trí tuệ nhân tạo – Đơn vị chuyên môn đảm nhận nhiệm vụ chủ 
+trì xây dựng và đào tạo ngành Trí tuệ nhân tạo 
+Được sự quan tâm chỉ đạo trực tiếp của Lãnh đạo Bộ Thông tin và Truyền thông về 
+việc đa dạng hoá các ngành nghề đào tạo của Học viện Công nghệ Bưu chính Viễn thông 
+(Học viện), đặc biệt là các ngành nghề thuộc lĩnh vực Công Nghệ Thông Tin (CNTT), Học 
+viện đã tích cực triển khai mở các ngành nghề đào tạo mới trong những năm qua nhằm 
+cung cấp nguồn nhân lực có trình độ cao cho Ngành CNTT và cho xã hội. Cùng với việc 
+mở các ngành đào tạo mới, Học viện cũng tích cực chuẩn bị các nguồn lực cho đào tạo, 
+bao gồm bổ sung đội ngũ giảng viên, xây dựng hệ thống học liệu, nâng cấp, bổ sung phòng 
+học, đầu tư, nâng cấp hệ thống phòng thí nghiệm thực hành nhằm đảm bảo chất lượng đào 
+tạo.  
+Trí tuệ nhân tạo (AI) đóng vai trò then chốt trong việc thúc đẩy sự phát triển của công 
+nghệ và kinh tế. Ngành Trí tuệ nhân tạo không chỉ cải tiến quy trình sản xuất và quản lý 
+mà còn mở ra những cơ hội mới trong nhiều lĩnh vực khác nhau như y tế, giáo dục , tài 
+chính, và giao thông. Việc thành lập Khoa Trí tuệ nhân tạo sẽ giúp Học viện trở thành một 
+trong những cơ sở đào tạo đầu tiên trong cả nước có Khoa Trí tuệ nhân tạo nhằm thúc đẩy 
+việc cung cấp nguồn nhân lực chất lượng cao, đáp ứng nhu cầu xã hội. Ngà y 28/08/2024 
+Học viện Công nghệ Bưu chính Viễn thông thành lập Khoa Trí tuệ nhân tạo mở ra một kỷ 
+nguyên mới trong giáo dục và nghiên cứu công nghệ thông tin. Đây không chỉ là một mốc 
+son quan trọng mà còn là minh chứng cho sự tiên phong và đổi mới trong việc đáp ứng xu 
+thế phát triển toàn cầu về trí tuệ nhân tạo (AI). Được thúc đẩy bởi sự chỉ đạo quyết liệt của 
+Bộ Thông tin và Truyền thông, sự ra đời của Khoa Trí tuệ nhân tạo là một bước đi đột phá 
+
+### Trang 10
+
+7 
+ 
+nhằm biến Học viện thành trung tâm đào tạo hàng đầu trong lĩnh vực AI. Khoa Trí tuệ nhân 
+tạo sẽ không chỉ cung cấp các chương trình đào tạo chuyên sâu và cập nhật nhất mà còn là 
+nơi khơi dậy những ý tưởng sáng tạo và đột phá. Mục tiêu chính của Khoa là tạo ra nguồn 
+nhân lực chất lượng cao, sẵn sàng đáp ứng những thách thức và cơ hội mới trong thị trường 
+lao động toàn cầu. Đồng thời, Khoa sẽ thúc đẩy các nghiên cứu ứng dụng AI để giải quyết 
+các vấn đề cấp bách của quốc gia, kết nối sinh viên với doanh nghiệp  và tạo ra sự hợp tác 
+chiến lược. Với sự khẳng định này, Học viện không chỉ nâng cao uy tín mà còn khẳng định 
+vai trò tiên phong trong việc dẫn dắt ngành công nghiệp AI và đóng góp vào sự phát triển 
+bền vững của nền kinh tế quốc gia. 
+Chức năng của Khoa Trí tuệ nhân tạo 
+Khoa Trí tuệ nhân tạo có các chức năng nhiệm vụ chính sau đây: 
+Quản lý, tổ chức giảng dạy các môn học, học phần do Khoa quản lý các hệ đào tạo 
+(hình thức đào tạo và trình độ đào tạo) của Học viện; 
+Lập kế hoạch và tổ chức thực hiện các hoạt động giáo dục đào tạo theo kế hoạch 
+chung của Học viện, bao gồm: Xây dựng chương trình đào tạo của ngành, chuyên ngành 
+được Học viện giao nhiệm vụ; tổ chức biên soạn đề cương chi tiết các môn học liên quan 
+bảo đảm tính thống nhất, tránh chồng chéo giữa các môn học của chương trình đào tạo 
+hoặc giữa các trình độ đào tạo; tổ chức phát triển chương trình đào tạo, xây dựng các đề 
+án, biên soạn tài liệu, giáo trình theo định hướng phát triển của Học viện; tổ chức nghiên  
+cứu cải tiến phương pháp giảng dạy, học tập; xây dựng và thực hiện phương pháp kiểm tra, 
+đánh giá kết quả học tập, rèn luyện của sinh viên, bảo đảm chuẩn đầu ra của người học 
+theo cam kết đã được công bố, đáp ứng nhu cầu sử dụng của thị trường lao động. Việc phát 
+triển chương trình đào tạo, giáo trình, tài liệu giảng dạy phải thực hiện theo quy định của 
+Bộ Giáo dục và Đào tạo; 
+Nghiên cứu khoa học chuyên sâu về Trí tuệ nhân tạo với các kết quả nghiên cứu khoa 
+học chất lượng cao và đạt chuẩn mực quốc tế. Lập kế hoạch và tổ chức thực hiện các hoạt 
+động khoa học và công nghệ, hợp tác quốc tế; hợp tác với các tổ chức khoa học và công  
+nghệ, cơ sở sản xuất, kinh doanh liên quan đến ngành nghề đào tạo và huy động sự tham 
+gia của doanh nghiệp vào quá trình đào tạo của Khoa; 
+Xây dựng kế hoạch phát triển đội ngũ giảng viên, ngành nghề đào tạo và cơ sở vật 
+chất phục vụ cho đào tạo và nghiên cứu khoa học, tăng cường điều kiện bảo đảm chất lượng 
+đào tạo; 
+Xây dựng kế hoạch và tổ chức thực hiện công tác giáo dục chính trị, tư tưởng, đạo 
+đức, lối sống cho giảng viên, người lao động, người học; có kế hoạch đào tạo, bồi dưỡng 
+nâng cao trình độ chuyên môn, nghiệp vụ cho giảng viên và người lao động khác thuộc 
+Khoa; 
+Tổ chức đánh giá cán bộ quản lý, giảng viên, nghiên cứu viên trong khoa và tham gia 
+đánh giá cán bộ quản lý trong Học viện theo quy định của Học viện; 
+Quản lý cơ sở vật chất, thiết bị được giao của Khoa theo quy định; thực hiện chế độ 
+báo cáo theo quy định và chịu trách nhiệm về số liệu báo cáo; 
+
+### Trang 11
+
+8 
+ 
+Tổ chức thực hiện các chủ trương chính sách, chỉ thị, nghị quyết, quy chế, quy định 
+của cấp trên, phối hợp và tạo điều kiện cho tổ chức Công đoàn, Đoàn thanh niên và các 
+đoàn thể khác hoạt động tốt điều lệ, chức năng nhiệm vụ; tổ chức các phong trao thi đu a 
+dạy tốt học tốt và các nội dung thi đua khác trong Khoa; 
+Thực hiện các công việc khác do Giám đốc Học viện giao. 
+1.4. Đội ngũ giảng viên cơ hữu chủ trì xây dựng và đào tạo ngành Trí tuệ nhân tạo 
+1.4.1. Đội ngũ cán bộ, giảng viên của Khoa Trí tuệ nhân tạo 
+Đơn vị chủ trì việc xây dựng và đào tạo ngành Trí tuệ nhân tạo của Học viện là Khoa 
+Trí tuệ nhân tạo. Là đơn vị kết hợp đào tạo và nghiên cứu, Khoa Trí tuệ nhân tạo hiện tại 
+đang có hai bộ môn: Bộ môn học máy và Bộ môn Trí tuệ nhân tạo ứng dụng. Nhân sự tham 
+gia chủ trì xây dựng và đào tạo ngành Trí tuệ nhân tạo là nhân sự cơ hữu của Khoa Trí tuệ 
+nhân tạo. 
+Tính đến 1/10/2024, tổng số giảng viên của Khoa Trí tuệ nhân tạo chủ trì xây dựng 
+và đào tạo ngành Trí tuệ nhân tạo: 09 người, trong đó 
+• Phó giáo sư:  02 
+• Tiến sĩ:   05 
+• Thạc sĩ:  02 
+Bảng 1.1. Số lượng giảng viên của Khoa Trí tuệ nhân tạo 
+TT Phân loại Nam Nữ Tổng số 
+I Đội ngũ cơ hữu (8) 
+Trong đó: 8 1 9 
+I.1 Đội ngũ trong biên chế    
+I.2 Đội ngũ hợp đồng dài hạn (từ 1 năm trở lên) và hợp đồng không xác định thời hạn 7 1 8 
+II 
+Các đối tượng khác  
+Hợp đồng ngắn hạn (dưới 01 năm, bao g ồm cả GV 
+thỉnh giảng1) 
+1 0 1 
+ Tổng số 8 1 9 
+ 
+ 
+1GV thỉnh giảng là cán bộ ở các cơ quan khác hoặc cán bộ nghỉ hưu hoặc diện tự do được đơn vị thực hiện 
+CTĐT mời tham gia giảng dạy theo những chuyên đề, khoá học ngắn hạn hoặc theo các học phần, thông thường được 
+ký các hợp đồng thời vụ, hợp đồng ngắn hạn (dưới 1 năm) theo quy định của Luật lao động sửa đổi. 
+
+### Trang 12
+
+9 
+ 
+PHẦN 2. SỰ CẦN THIẾT MỞ NGÀNH ĐÀO TẠO TRÍ TUỆ NHÂN TẠO 
+2.1. Sự cần thiết 
+Được sự quan tâm chỉ đạo của Lãnh đạo Bộ Thông tin và Truy ền thông về việc đa 
+dạng hoá các ngành ngh ề đào tạo của Học viện Công ngh ệ Bưu chính Vi ễn thông (H ọc 
+viện), đặc biệt là các ngành nghề thuộc lĩnh vực Công Nghệ Thông Tin (CNTT), Học viện 
+đã tích c ực triển khai m ở các ngành ngh ề đào tạo mới trong nh ững năm qua nh ằm cung 
+cấp nguồn nhân lực có trình độ cao cho Ngành CNTT và cho xã hội. Các ngành đào tạo hệ 
+đại học được Học viện mở mới trong kho ảng 10 năm tr ở lại đây g ồm Truyền thông đa 
+phương tiện (2015), Thương m ại điện tử (2018), Công ngh ệ tài chính - Fintech (2021), 
+Khoa học máy tính (2022), Báo chí (2023), CNTT ứng d ụng (2023), K ỹ thuật d ữ liệu 
+(2023), Thiết kế games (2024). Cùng với việc mở các ngành đào tạo mới, Học viện cũng 
+tích cực chuẩn bị các nguồn lực cho đào t ạo, bao g ồm bổ sung đội ngũ gi ảng viên, xây 
+dựng hệ thống học liệu, nâng cấp, bổ sung phòng học, đầu tư, nâng cấp hệ thống phòng thí 
+nghiệm thực hành... nhằm đảm bảo chất lượng đào tạo.  
+Trí tuệ nhân tạo (AI) đóng vai trò then chốt trong việc thúc đẩy sự phát triển của công 
+nghệ và kinh tế. Ngành Trí tu ệ nhân tạo không chỉ cải tiến quy trình s ản xuất và quản lý 
+mà còn mở ra những cơ h ội mới trong nhi ều lĩnh v ực khác nhau như y t ế, giáo d ục, tài 
+chính, và giao thông. Việc thành lập Khoa Trí tuệ nhân tạo sẽ giúp Học viện của chúng ta 
+trở thành một trong những nguồn đào tạo đầu tiên trong việc cung cấp nguồn nhân lực chất 
+lượng cao, đáp ứng nhu cầu ngày càng tăng của xã hội và thị trường lao động. 
+Chính sách về AI đã được ban hành với Quyết định số 127/QĐ-TTg ngày 26/1/2021 
+phê duyệt Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo đến 
+năm 2030 và Quyết định số 411/QĐ-TTg ngày 31/3/2022 phê duy ệt Chiến lược quốc gia 
+phát triển kinh tế số và xã hội số đến năm 2025, đ ịnh hướng đến năm 2030. C ụ thể hơn, 
+đến năm 2030, mục tiêu là đưa Việt Nam vào nhóm 4 nước dẫn đầu ASEAN và nhóm 50 
+nước dẫn đầu trên thế giới về nghiên cứu, phát triển và ứng dụng AI. Việt Nam sẽ phấn 
+đấu có ít nhất 1 đại diện nằm trong bảng xếp hạng nhóm 20 cơ s ở nghiên cứu và đào tạo 
+AI dẫn đầu trong khu v ực ASEAN. Ngoài ra, AI s ẽ góp phần đẩy mạnh xã hội sáng tạo, 
+chính phủ hiệu quả, bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội nhằm thúc đẩy 
+phát triển kinh tế bền vững.  
+Từ các mục tiêu như trên, khoa Trí tuệ nhân tạo sẽ là nền tảng vững chắc cho cả hoạt 
+động giảng dạy, đào tạo nguồn nhân lực chất lượng cao đáp ứng nhu cầu ngày càng tăng 
+về AI, cũng như các hoạt động nghiên cứu và phát triển (R&D) trong lĩnh vực này.  
+Về mặt nghiên cứu, các hoạt động nghiên cứu không chỉ đóng góp vào kho tàng tri 
+thức toàn cầu mà còn tạo ra những giải pháp thực tiễn cho các vấn đề cấp bách của quốc 
+gia và địa phương. Bên cạnh đó, khoa sẽ thúc đẩy việc hợp tác giữa Học viện với các doanh 
+nghiệp và tổ chức nghiên cứu, tạo điều kiện thuận lợi cho việc chuyển giao công nghệ và 
+ứng dụng AI vào thực tiễn.. 
+
+### Trang 13
+
+10 
+ 
+Về mặt đào tạo, việc thành lập Khoa Trí tuệ nhân tạo sẽ nâng cao chất lượng giáo dục 
+và đào tạo tại Học viện. Khoa sẽ thiết kế các chương trình đào tạo chuyên sâu, cập nhật với 
+các xu hướng và tiến bộ mới nhất trong lĩnh vực AI. Sinh viên sẽ được trang bị kiến thức 
+chuyên môn vững vàng và kỹ năng thực hành cần thiết, giúp họ tự tin bước vào thị trường 
+lao động và góp phần vào sự phát triển của ngành công nghiệp AI. Cụ thể hơn, Việt Nam 
+hiện tại đã và vẫn đang thu hút rất nhiều các doanh nghiệp và công ty đầu tư về các mảng 
+AI. Theo số liệu của Tổ chức Sở hữu Trí tuệ thế giới (WIPO), hơn 1.600 người Việt Nam 
+đang học tập và làm vi ệc trong các lĩnh v ực liên quan đến AI. Chỉ có khoảng 700 người, 
+trong đó có 300 chuyên gia, đang làm công vi ệc này ở Việt Nam. Nếu tính con s ố gần 1 
+triệu lao động làm việc trong lĩnh vực CNTT, nguồn nhân lực AI là quá ít. Theo TopCV, 
+xét dữ liệu từ cả năm 2023 và 3 tháng đầu năm 2024, số tin đăng tuyển dụng các vị trí của 
+riêng ngành CNTT có t ừ khoá liên quan đ ến AI tăng kho ảng 113%. Ngoài ra, theo m ột 
+nghiên cứu của TOPDev (Hình 1), Hơn 60% l ập trình viên s ử dụng tài li ệu chính th ức 
+(Official Documentation) cũng như các nguồn Youtube làm cách thức chính để học và tiếp 
+cận công nghệ mới. Tiếp theo là các khóa h ọc trực tuyến dựa trên video & dự án cá nhân 
+(42,1%) & dự án cá nhân (27,5%) là nh ững cách thay th ế để các lập trình viên có cơ h ội 
+quan sát và thử nghiệm. Sách công nghệ, dự án nguồn mở, khóa học tương tác trực tuyến, 
+khóa học ngoại tuyến và cuộc thi viết mã là nh ững phương pháp khác để học công nghệ 
+mới nhưng mức độ phổ biến và khả năng ứng dụng được coi là không tốt bằng các phương 
+pháp khác. Điều này càng khẳng định sự cần thiết của một chương trình đào t ạo trực tiếp 
+chính thức về lĩnh vực AI. Khi đó một tấm bằng cử nhân hoặc kĩ sư từ một nguồn đào tạo 
+trực tiếp sẽ mang giá trị cao hơn và uy tín hơn trong đánh giá của các doanh nghiệp. 
+ 
+Hình 1. Khảo sát các hình thức học công nghệ mới của lập trình viên theo TOPDev. 
+ 
+
+
+### Trang 14
+
+11 
+ 
+2.2. Phân tích, dự báo nhu cầu lao động và thực trạng đào tạo lĩnh vực Trí tuệ nhân 
+tạo 
+2.2.1. Phân tích, dự báo nhu cầu lao động của lĩnh vực Trí tuệ nhân tạo 
+2.2.1.1  Phân tích, dự báo nhu cầu lao động của lĩnh vực Trí tuệ nhân tạo trên thế 
+giới 
+Trí tuệ nhân tạo (AI) đang ngày càng khẳng định vị thế của mình như một xu hướng 
+công nghệ không thể thiếu trong mọi khía cạnh của đời sống kinh tế và xã hội hiện đại. Sự 
+xuất hiện và phát tri ển nhanh chóng c ủa AI đã m ở ra những cơ hội to lớn, đặc biệt trong 
+việc ứng dụng vào quản lý và v ận hành doanh nghi ệp. Với khả năng phân tích lư ợng dữ 
+liệu khổng lồ, đưa ra các dự đoán chính xác và đề xuất các giải pháp tối ưu, AI không chỉ 
+cải thiện hiệu suất công việc mà còn giúp doanh nghi ệp tối ưu hóa chi phí, ngu ồn lực và 
+cung cấp các giải pháp cá nhân hóa sâu sắc, từ quản lý khách hàng đến quản trị nguồn nhân 
+lực. AI đã trở thành công cụ chiến lược không thể thiếu đối với các doanh nghiệp đang tìm 
+cách nâng cao sức cạnh tranh và hiệu quả hoạt động. 
+Một trong những tiếng nói nổi bật nhất về tương lai của AI trong công vi ệc là Elon 
+Musk, nhà sáng l ập kiêm CEO c ủa SpaceX và Tesla, Inc. Musk, ngư ời nổi tiếng với tầm 
+nhìn xa về công nghệ, từng phát biểu rằng: “AI – trí tuệ nhân tạo có thể thực hiện bất kỳ 
+công việc nào mà con ngư ời làm – nhưng với hiệu suất tốt hơn.” Câu nói này không ch ỉ 
+làm nổi bật tiềm năng của AI mà còn gợi mở về một tương lai nơi AI không chỉ hỗ trợ mà 
+có thể vượt qua kh ả năng của con ngư ời trong nhi ều lĩnh v ực. Đánh giá này đ ến từ một 
+trong những doanh nhân công nghệ hàng đầu thế giới, người đã có ảnh hưởng sâu rộng đến 
+nhiều ngành công nghiệp và liên tục có mặt trong danh sách những nhà lãnh đạo sáng tạo 
+nhất toàn cầu của Forbes, đặc biệt trong bảng xếp hạng năm 2019. 
+Sức ảnh hưởng và hiệu quả của AI trong thế giới hiện đại là điều không thể phủ nhận, 
+đặc biệt là trong cách doanh nghi ệp vận hành và qu ản lý. S ự công nhận của một tỷ phú 
+hàng đầu như Elon Musk là minh chứng rõ ràng về tầm quan trọng của AI trong tương lai 
+của các ngành ngh ề. Điều này khiến chúng ta không kh ỏi thắc mắc: AI đã và đang đư ợc 
+ứng dụng trong những lĩnh vực nào? Những xu hướng sử dụng AI trong v ận hành doanh 
+nghiệp hiện nay ra sao? Và trong tương lai, AI sẽ phát triển đến đâu? 
+Theo khảo sát c ủa IBM vào năm 2022, vi ệc ứng dụng AI trong môi trư ờng doanh 
+nghiệp đã có những bước tiến đáng kể. Cụ thể, có tới 35% doanh nghiệp toàn cầu đã tích 
+hợp AI vào quy trình làm việc của họ nhằm nâng cao trải nghiệm khách hàng và tăng cường 
+hiệu quả kinh doanh. Đ ặc biệt tại Trung Qu ốc, nơi công ngh ệ đang phát tri ển mạnh mẽ, 
+58% doanh nghiệp đã áp dụng AI trong các hoạt động hàng ngày, trong khi 30% số doanh 
+nghiệp khác đang trong quá trình nghiên cứu và khám phá các tiềm năng của AI. Điều này 
+cho thấy sự phổ biến của AI trong các lĩnh v ực kinh doanh, không ch ỉ giới hạn ở các tập 
+đoàn lớn mà còn lan t ỏa đến các doanh nghi ệp vừa và nhỏ, giúp họ gia tăng hiệu quả và 
+tạo ra những lợi thế cạnh tranh quan tr ọng trong b ối cảnh thị trường toàn cầu ngày càng 
+phức tạp. 
+
+### Trang 15
+
+12 
+ 
+Với những con số ấn tượng này, có thể thấy rằng AI không còn chỉ là một xu hướng 
+công nghệ mới mà đã trở thành một phần thiết yếu trong chiến lược phát triển dài hạn của 
+nhiều doanh nghi ệp trên toàn th ế giới. Việc hiểu rõ AI đã và đang tác đ ộng như th ế nào 
+đến hoạt động của các tổ chức là bước đi quan trọng để các nhà lãnh đạo và quản lý có thể 
+tận dụng tối đa những lợi ích mà công ngh ệ này mang lại, từ đó định hình một tương lai 
+nơi hiệu quả và sáng tạo được đặt lên hàng đầu. 
+Nhờ vào những lợi ích vượt trội mà công nghệ AI mang lại, ngày nay, việc ứng dụng 
+trí tuệ nhân tạo đã không còn ch ỉ là một xu hướng nổi bật mà còn tr ở thành một yêu cầu 
+bắt buộc đối với các doanh nghi ệp nếu họ muốn tồn tại và phát tri ển trong b ối cảnh kỷ 
+nguyên số hóa đang bùng nổ. Đối mặt với tốc độ phát triển như vũ bão c ủa thời đại công 
+nghệ, các doanh nghi ệp không còn l ựa chọn nào khác ngoài vi ệc tích h ợp AI vào chi ến 
+lược dài hạn của mình đ ể duy trì l ợi thế cạnh tranh và đ ồng thời đáp ứng những đòi h ỏi 
+ngày càng cao từ thị trường toàn cầu. 
+AI giờ đây đã vượt xa khỏi những dự án thử nghiệm hay những ý tưởng công nghệ 
+xa vời. Thay vào đó, nó đã trở thành một yếu tố cốt lõi, đóng vai trò quan trọng trong chiến 
+lược phát triển bền vững của doanh nghiệp, giúp họ không chỉ cải thiện quy trình sản xuất 
+mà còn tối ưu hóa mọi mặt hoạt động kinh doanh. Theo nghiên cứu của Forbes, các doanh 
+nghiệp đang không ngừng mở rộng việc áp dụng AI vào các lĩnh v ực khác nhau, từ quản 
+lý chuỗi cung ứng, chăm sóc khách hàng, đến quản lý nguồn nhân lực. Điều này cho thấy 
+sự ứng dụng AI đang ngày càng đa dạng hóa và có tác động mạnh mẽ đến chất lượng cũng 
+như hiệu quả trong sản xuất và kinh doanh. Sự chuyển dịch này đã biến AI thành một công 
+cụ không thể thiếu, giúp doanh nghiệp duy trì sự linh hoạt, sáng tạo và bền vững trước sự 
+cạnh tranh gay gắt. 
+Các nhà nghiên c ứu dự báo rằng việc ứng dụng AI vào quy trình ho ạt động kinh 
+doanh sẽ mang lại những bước tiến đột phá cho doanh nghi ệp về tăng trưởng kinh tế. Cụ 
+thể, tỷ lệ tăng trưởng kép hàng năm mà công ngh ệ AI mang l ại được ước tính đ ạt mức 
+37,3% từ năm 2023 trở đi. Những con số này không chỉ thể hiện tốc độ tăng trưởng nhanh 
+chóng mà AI có th ể mang lại mà còn cho th ấy tiềm năng phát tri ển không gi ới hạn của 
+công nghệ này trong tương lai g ần. Hơn nữa, theo các ư ớc tính, sự đóng góp của AI vào 
+nền kinh tế toàn cầu sẽ vô cùng lớn, với giá trị ước tính lên tới 1,85 nghìn tỷ đô la Mỹ, và 
+con số này dự kiến sẽ đạt mức 15,7 nghìn tỷ đô la Mỹ vào năm 2030. Những con số khổng 
+lồ này phản ánh rõ rệt tác động sâu sắc mà AI sẽ mang đến cho sự phát triển kinh tế toàn 
+cầu, làm thay đ ổi cách th ức hoạt động của các ngành công nghi ệp và doanh nghi ệp trên 
+toàn thế giới. 
+Việc tích hợp AI không chỉ giúp doanh nghiệp tối ưu hóa quy trình làm việc mà còn 
+mở ra nhiều cơ hội mới trong việc cải thiện hiệu suất và khả năng cạnh tranh trên thị trường 
+quốc tế. AI có khả năng tự động hóa các tác vụ phức tạp, phân tích lượng lớn dữ liệu trong 
+thời gian ngắn và đưa ra các quy ết định chiến lược dựa trên thông tin d ữ liệu chính xác, 
+điều mà con ngư ời không thể thực hiện một cách hiệu quả bằng các phương pháp truy ền 
+thống. Chính nhờ những ưu điểm này mà AI không chỉ giúp doanh nghiệp phát triển nhanh 
+
+### Trang 16
+
+13 
+ 
+chóng mà còn đóng vai trò quyết định trong việc định hình lại tương lai của nền kinh tế thế 
+giới. 
+Xu hướng ứng dụng trí tu ệ nhân tạo (AI) trong doanh nghi ệp hiện nay đang có s ự 
+phát triển mạnh mẽ, và tùy theo quy mô doanh nghiệp mà cách tiếp cận AI cũng có sự khác 
+biệt rõ rệt. Sự đa dạng trong việc áp dụng AI không chỉ phản ánh nhu cầu của các doanh 
+nghiệp trong việc tối ưu hóa hoạt động mà còn cho thấy mức độ sẵn sàng của họ trong việc 
+đầu tư vào công ngh ệ tiên tiến nhằm nâng cao hi ệu suất và khả năng cạnh tranh. Từ các 
+doanh nghiệp nhỏ, vừa, cho đến các tập đoàn lớn, mỗi nhóm đều có chiến lược khác nhau 
+trong việc tận dụng AI để đạt được các mục tiêu kinh doanh. 
+Đối với các doanh nghiệp nhỏ, có quy mô dưới 100 nhân viên, việc áp dụng AI chủ 
+yếu tập trung vào vi ệc tiết kiệm chi phí và th ời gian. Nh ững doanh nghi ệp này thư ờng 
+không có đủ nguồn lực để phát triển những hệ thống AI phức tạp, do đó họ tận dụng các 
+công nghệ sẵn có như SaaS (phần mềm dạng dịch vụ), API và các nền tảng AI dễ tiếp cận 
+khác. Các công nghệ này giúp họ tự động hóa các quy trình đơn gi ản và lặp đi lặp lại, từ 
+đó nâng cao hiệu quả hoạt động mà không đòi hỏi phải đầu tư nhiều về mặt kỹ thuật. Một 
+ví dụ điển hình là việc sử dụng chatbot để tương tác với khách hàng, giải đáp các câu hỏi 
+thường gặp hoặc hỗ trợ quá trình mua hàng. Ngoài ra, AI còn được sử dụng trong việc tối 
+ưu hóa quảng cáo trực tuyến, giúp các doanh nghi ệp nhỏ đạt được sự chính xác cao hơn 
+trong các chiến dịch marketing, đồng thời tiết kiệm chi phí. 
+Khi xét đến các doanh nghi ệp có quy mô v ừa, với đội ngũ nhân s ự từ 100 đến 300 
+người, sự phát triển AI trở nên chuyên sâu hơn. Các doanh nghi ệp này bắt đầu nhận thức 
+rõ ràng về tiềm năng của AI trong việc cải thiện các quy trình kinh doanh và ra quyết định. 
+Họ thường tiến hành thuê chuyên gia AI hoặc hợp tác với các công ty tư vấn công nghệ để 
+phát triển những giải pháp tùy chỉnh, đáp ứng nhu cầu cụ thể của mình. Với mục tiêu chính 
+là nâng cao trải nghiệm khách hàng và tối ưu hóa quy trình n ội bộ, các doanh nghiệp này 
+áp dụng AI vào nhiều lĩnh vực khác nhau như ki ểm tra chất lượng sản phẩm, dự đoán xu 
+hướng và nhu cầu của khách hàng, cũng như cá nhân hóa n ội dung trên các nền tảng trực 
+tuyến như website. S ự tích hợp AI giúp các doanh nghi ệp này tăng cư ờng hiệu quả hoạt 
+động, từ việc dự đoán thị trường đến cải thiện dịch vụ khách hàng và nâng cao đ ộ chính 
+xác trong các quyết định kinh doanh chiến lược. 
+Cuối cùng, đối với các tập đoàn lớn, với nguồn nhân lực trên 300 ngư ời, AI không 
+chỉ là công cụ hỗ trợ mà còn là nhân t ố quan trọng trong việc đổi mới và tạo ra các bước 
+đột phá công nghệ. Các tập đoàn này thường có tiềm lực tài chính và nhân s ự dồi dào để 
+xây dựng các phòng ban chuyên biệt về AI, nơi mà đội ngũ chuyên gia hàng đầu trong lĩnh 
+vực này được thu hút và duy trì. Họ phát triển các giải pháp tiên tiến hơn, không chỉ nhằm 
+mục đích tối ưu hóa quy trình hi ện tại mà còn đ ể định hình tương lai c ủa doanh nghiệp. 
+Các doanh nghi ệp lớn thường tiên phong trong vi ệc ứng dụng những công ngh ệ AI tiên 
+tiến như trí tu ệ nhân tạo tổng hợp (AGI), robot t ự động hóa, hay các chatbot thông minh 
+có khả năng giao tiếp đa ngôn ngữ, đa kênh. Điều này không chỉ giúp họ duy trì vị thế dẫn 
+đầu trong ngành mà còn tạo ra những sản phẩm và dịch vụ mang tính cách mạng, nâng cao 
+
+### Trang 17
+
+14 
+ 
+trải nghiệm khách hàng toàn cầu và tăng cường khả năng cạnh tranh. Sau đây là tổng hợp 
+các ưu tiên và trọng tâm của các doanh nghiệp theo các quy mô khác nhau: 
+Loại DN Doanh nghiệp nhỏ Doanh nghiệp vừa Doanh nghiệp lớn 
+Số lượng nhân sự 10-100 người 100-300 người >300 người 
+Ưu tiên 
+Tận dụng các giải 
+pháp AI sẵn có trên 
+thị trường (SaaS, 
+APIs) để tiết kiệm chi 
+phí và thời gian phát 
+triển 
+Bắt đầu xây dựng đội 
+ngũ AI: Thuê chuyên 
+gia AI hoặc hợp tác 
+với các công ty tư 
+vấn để phát triển các 
+giải pháp tùy chỉnh 
+Xây dựng phòng ban 
+AI chuyên dụng: Thu 
+hút, duy trì đội ngũ 
+chuyên gia AI để 
+phát triển các giải 
+pháp tiên tiến 
+Trọng tâm 
+Tự động hóa các tác 
+vụ đơn giản, lặp đi 
+lặp lại để cải thiện 
+hiệu quả hoạt động 
+Cải thiện quy trình 
+kinh doanh, ra quyết 
+định và trải nghiệm 
+khách hàng 
+Nghiên cứu và phát 
+triển các công nghệ 
+AI đột phá, tích hợp 
+vào toàn bộ hoạt 
+động kinh doanh 
+Ví dụ 
+Chatbot chăm sóc 
+khách hàng, phân 
+tích dữ liệu để quảng 
+cáo tự động 
+Kiểm tra chất lượng 
+sản phẩm bằng AI, 
+dự đoán nhu cầu 
+khách hàng, cá nhân 
+hóa nội dung website 
+Trí tuệ nhân tạo tổng 
+hợp (AGI), robot tự 
+động, chatbot thông 
+minh giao tiếp đa 
+ngôn ngữ, đa kênh 
+Bảng 1. Xu hướng sử dụng nhân lực AI của các doanh nghiệp 
+Vậy nên, việc áp dụng AI trong doanh nghiệp hiện nay không chỉ phụ thuộc vào khả 
+năng tài chính hay quy mô mà còn là m ột chiến lược phát tri ển dài h ạn. Từ các doanh 
+nghiệp nhỏ sử dụng AI để tự động hóa và tiết kiệm chi phí, đến các tập đoàn lớn ứng dụng 
+AI để tạo ra những công nghệ tiên tiến và đột phá, trí tuệ nhân tạo đang dần trở thành một 
+yếu tố không thể thiếu trong việc thúc đẩy sự phát triển của nền kinh tế toàn cầu. Điều này 
+khẳng định rằng AI không ch ỉ là một xu hư ớng nhất thời mà là tương lai c ủa hoạt động 
+kinh doanh trên toàn thế giới. 
+2.2.1.2 Phân tích, dự báo nhu cầu lao động của lĩnh vực Trí tuệ nhân tạo ở Việt 
+Nam 
+Báo cáo “Cơ hội AI cho Việt Nam - Một số khuyến nghị” mới được Google công bố 
+đã nhấn mạnh vai trò quan trọng của trí tuệ nhân tạo (AI) trong vi ệc thúc đẩy sự chuyển 
+đổi của nền kinh tế Việt Nam, giúp đất nước ngày càng trở nên đa dạng và cạnh tranh hơn, 
+không chỉ trong khu vực mà còn trên trường quốc tế. AI được nhìn nhận như một nhân tố 
+then chốt trong quá trình hi ện đại hóa và s ố hóa nền kinh tế, giúp Việt Nam tiếp cận gần 
+hơn với những tiêu chuẩn quốc tế và gia tăng sức mạnh cạnh tranh trên nhiều lĩnh vực kinh 
+tế. 
+Các chuyên gia của Google cho rằng, việc Việt Nam cần khẩn trương đẩy mạnh thu 
+hút đầu tư vào lĩnh vực AI là một bước đi chiến lược nếu muốn tối ưu hóa tiềm năng của 
+
+### Trang 18
+
+15 
+ 
+công nghệ này. Cụ thể, để đạt được mục tiêu mà Chính ph ủ đặt ra, nền kinh tế số sẽ cần 
+phải đóng góp 30% GDP vào năm 2030. Điều này đòi hỏi Việt Nam không chỉ thu hút vốn 
+đầu tư mà còn phải tạo môi trường thuận lợi cho các hoạt động đổi mới sáng tạo trong lĩnh 
+vực AI. Đặc biệt, với cộng đồng khởi nghiệp năng động và đầy tiềm năng, cùng với tỷ lệ 
+người trẻ am hiểu công nghệ chiếm đến 20% tổng dân số, Việt Nam đang có những lợi thế 
+nhất định để tận dụng cơ hội này. Các chính sách hỗ trợ từ Chính phủ thông qua chiến lược 
+quốc gia về AI càng củng cố thêm vị thế của Việt Nam trong việc đón nhận và phát triển 
+trí tuệ nhân tạo. 
+Tuy nhiên, song song với những cơ hội, Google cũng chỉ ra rằng Việt Nam đang phải 
+đối mặt với một số thách thức đáng k ể, mà n ổi bật nhất là tình tr ạng thiếu hụt nhân l ực 
+chuyên môn trong lĩnh v ực AI. Mặc dù cộng đồng khởi nghiệp và môi trư ờng công nghệ 
+tại Việt Nam đang phát triển mạnh mẽ, nhưng để tiến xa hơn, Việt Nam cần nhanh chóng 
+giải quyết vấn đề thiếu nhân tài. Cụ thể, nhu cầu về các chuyên gia AI chất lượng cao đang 
+vượt xa nguồn cung, gây ra sự cản trở trong việc triển khai các dự án AI quy mô lớn. 
+Ngoài ra, các công ty kh ởi nghiệp về AI tại Việt Nam đang đ ối mặt với những khó 
+khăn khác, bao gồm hạn chế trong việc tiếp cận các chuyên gia và cố vấn hàng đầu về AI 
+để đánh giá và thẩm định sản phẩm phù hợp với yêu cầu của thị trường. Điều này có nghĩa 
+là nhiều doanh nghiệp công nghệ gặp khó khăn trong việc phát triển và ứng dụng các sản 
+phẩm AI một cách hiệu quả, do thiếu sự hỗ trợ cần thiết từ các chuyên gia có kinh nghiệm. 
+Thêm vào đó, các công ty kh ởi nghiệp còn gặp phải rào cản lớn trong việc tiếp cận cơ sở 
+hạ tầng, nền tảng công nghệ, và các công c ụ hỗ trợ sẵn có mà doanh nghi ệp cần để phát 
+triển AI. Những hạn chế này có thể làm chậm tốc độ phát triển AI tại Việt Nam, đồng thời 
+ảnh hưởng đến khả năng cạnh tranh của các doanh nghiệp trong nước trên thị trường toàn 
+cầu. 
+Tổng Công ty M ạng lưới Viettel (Viettel Networks) đang tích c ực tìm ki ếm những 
+ứng viên sáng giá cho v ị trí kỹ sư AI với mức lương hấp dẫn dao động từ 25 đến 50 triệu 
+đồng mỗi tháng. Đi kèm v ới mức lương cao là các ch ế độ đãi ngộ cực kỳ hấp dẫn, dành 
+cho những ứng viên đã có từ 1 đến 2 năm kinh nghiệm trong lĩnh vực này. Điều này phản 
+ánh xu hướng ngày càng mạnh mẽ của việc ứng dụng trí tuệ nhân tạo trong hoạt động kinh 
+doanh và sản xuất tại các doanh nghiệp công nghệ lớn tại Việt Nam. 
+Bên cạnh đó, Viettel Cyberspace – một đơn v ị thuộc Tập đoàn Công nghi ệp Viễn 
+thông Quân đội Viettel – cũng đang tích cực chiêu mộ các kỹ sư AI. Mức lương khởi điểm 
+cho vị trí này là 20 tri ệu đồng/tháng, kèm theo nhi ều khoản phúc lợi khác, bao g ồm hơn 
+2.000 USD mỗi năm bằng tiền mặt, và nhiều ưu đãi khác liên quan đ ến chính sách phúc 
+lợi. Những đãi ngộ này không chỉ nhằm thu hút nhân tài trong nước mà còn cạnh tranh với 
+các thị trường quốc tế trong cuộc đua công nghệ. 
+Không chỉ riêng Viettel, các ngân hàng và doanh nghiệp công nghệ khác tại TPHCM 
+cũng đang tích c ực mở rộng hoạt động tuyển dụng các kỹ sư AI với mức lương đầy hứa 
+hẹn, dao động từ 20 đến 25 triệu đồng mỗi tháng. Một số công ty nổi bật có thể kể đến như 
+Công ty Cổ phần Công nghệ Oryza Systems, Công ty Cổ phần Giải pháp Công nghệ và Trí 
+
+### Trang 19
+
+16 
+ 
+tuệ Nhân tạo VietIS, và Công ty TNHH Mabuchi Motor Vi ệt Nam. Nh ững công ty này 
+đang “trải thảm đỏ” để thu hút những ứng viên tài năng, nhằm đáp ứng nhu cầu ngày càng 
+gia tăng trong bối cảnh số hóa mạnh mẽ của nền kinh tế. 
+Bà Đặng Trịnh Nhã Hương, Giám đốc khu vực miền Nam của Navigos Search, cũng 
+chia sẻ rằng hiện nay có rất nhiều ngân hàng lớn trong nước đang ưu tiên tuyển dụng những 
+nhân sự có năng lực vượt trội trong lĩnh vực công nghệ số để hỗ trợ tiến trình số hóa toàn 
+diện. Các chuyên gia có th ế mạnh trong những công nghệ tiên tiến như AI, Big Data, và 
+Blockchain hiện đang được săn đón mạnh mẽ. Tuy nhiên, một thách thức lớn mà các doanh 
+nghiệp phải đối mặt là sự khan hiếm nguồn cung nhân lực trong các lĩnh vực công nghệ lõi 
+này. Dù nhu cầu ngày càng cao, thị trường lao động hiện nay vẫn chưa thể đáp ứng đủ số 
+lượng nhân sự chất lượng cao cần thiết để thúc đẩy sự phát triển của công nghệ AI và các 
+giải pháp số hóa toàn diện. 
+Để xứng đáng với mức lương đó, nhu cầu về kỹ năng của nhân sự cần đáp ứng cũng 
+khá đặc thù và yêu cầu trình độ chuyên môn dành riêng cho lĩnh vực AI cũng khá cao. Là 
+diễn giả tại tọa đàm v ề đào tạo nhân l ực trí tu ệ nhân tạo, GS Vũ Hà Văn cho r ằng chỉ 
+khoảng 30% sinh viên t ốt nghiệp ngành CNTT có th ể làm việc trong lĩnh vực AI, số còn 
+lại phải đào tạo thêm. Nguyên nhân c ủa thực tế này là sự khác biệt giữa đào tạo đại học 
+ngành CNTT, việc làm bài tập ở đại học và trong thực tế. Ngoài học những môn nền tảng, 
+một số lĩnh vực cụ thể mà các công ty c ần tuyển dụng như phân tích hình ảnh hoặc tiếng 
+nói yêu cầu sinh viên biết sử dụng và nắm rõ các kiến thức về mạng nơ ron, xử lý dữ liệu 
+và sử dụng các công c ụ phân tích d ữ liệu. Hiện sinh viên CNTT v ẫn chưa đư ợc đào t ạo 
+chuyên sâu về các kỹ năng này cũng như chưa được tiếp xúc vào các bài toán cụ thể. Một 
+số kỹ năng nền tảng mà đa số các công ty đang yêu cầu cụ thể là: 
+− Kiến thức về lập trình (OOP), toán cao cấp  
+− Biết sử dụng các framework: Tensorflow, Keras, Pytorch, Sk-learn.  
+− Ngôn ngữ: Python (bắt buộc), C / C++ là điểm cộng. 
+− Có kỹ năng trong phát triển phần mềm, khả năng deploy (MLOps), maintain 
+hệ thống, cloud computing (Azure, AWS), Git, REST API, Docker, 
+Kubernetes  
+− Yêu cầu thêm: hệ thống phân tán, hệ điều hành, mạng máy tính, hệ thống dữ 
+liệu, môi trường Linux . 
+
+### Trang 20
+
+17 
+ 
+ 
+Hình 2. Một bài tuyển dụng kỹ sư AI trình độ fresher của Sun* Inc. 
+Các doanh nghiệp hiện nay sẽ tuyển dụng theo các mảng cụ thể để giải quyết các bài 
+toán cụ thể của doanh nghiệp. Hai mảng lớn đang tuyển dụng hiện tại là kỹ sư NLP (Xử lý 
+ngôn ngữ tự nhiên) và kỹ sư CV (Thị giác máy tính). Ngoài những kiến thức nền tảng mà 
+sinh viên cần đáp ứng ở trên, với mỗi mảng thì sinh viên cần biết thêm các kiến thức chuyên 
+môn như: 
+Kỹ sư NLP: Yêu cầu có kinh nghiệm trong một số bài toán cụ thể (tùy vào mục đích 
+của công ty), ví d ụ như: Nhận dạng tên thực tể (Named Entity Extraction), Nh ận dạng ý 
+định người dùng (Intent classification), H ệ thống hỏi đáp tự động (QA). Đặc biệt là hiện 
+nay nhu cầu về phát triển và triển khai các mô hình ngôn ngữ lớn (LLM) cũng đang có nhu 
+cầu rất cao và sẽ tăng trưởng mạnh trong tương lai, đòi hỏi ứng viên cần đáp ứng kiến thức 
+và các công cụ phát triển LLM chẳng hạn như Langchain, Hugging Face. 
+Kỹ sư CV: Ứng viên cần biết sử dụng các thư viện xử lý ảnh/ ma trận như OpenCV, 
+NumPY, SciPy và có kinh nghi ệm về các bài toán c ụ thể: OCR pipeline, CameraAI, d ự 
+đoán hành vi, theo dõi vật thể. 
+
+
+### Trang 21
+
+18 
+ 
+ 
+Hình 3. Vòng đời của một mô hình CV bao gồm rất nhiều công đoạn mà kỹ sư AI 
+cần nắm rõ. 
+Nhu cầu về nguồn nhân l ực có trình đ ộ cao trong lĩnh v ực AI s ẽ tiếp tục gia tăng 
+mạnh mẽ trong những năm tới. Các doanh nghiệp và tổ chức đang tìm kiếm những cá nhân 
+có khả năng phát triển và ứng dụng các giải pháp AI để tối ưu hóa hoạt động và tạo ra giá 
+trị gia tăng. Vi ệc thành l ập Khoa Trí tu ệ nhân tạo sẽ giúp Học viện đào tạo và cung c ấp 
+nguồn nhân lực chất lượng cao, đáp ứng kịp thời nhu cầu của thị trường lao động. Bên cạnh 
+việc đào tạo, Học Viện sẽ là cầu nối giữa sinh viên và các doanh nghi ệp đang cần nguồn 
+nhân lực, tạo điều kiện cho sinh viên tiếp cận tốt hơn và có nhiều thông tin hơn về cơ hội 
+việc làm cũng như doanh nghi ệp sẽ có cơ hội trình bày nh ững yêu cầu, mong đợi cụ thể 
+với sinh viên để có thể tìm được những ứng viên phù hợp. Do đó, việc thành lập Khoa Trí 
+tuệ nhân tạo sẽ góp phần nâng cao vị thế và uy tín của Học viện trong hệ thống giáo dục 
+quốc gia và quốc tế. Một khoa chuyên sâu về AI sẽ thu hút sự quan tâm của các sinh viên 
+tài năng, các nhà nghiên cứu uy tín và các đối tác chiến lược. Điều này không chỉ giúp Học 
+viện phát triển bền vững mà còn khẳng định vai trò tiên phong của Học viện trong việc đào 
+tạo và nghiên cứu trong lĩnh vực AI. 
+2.2.2.  Tình hình đào tạo trí tuệ nhân tạo và khoa học dữ liệu tại Việt Nam và trên thế 
+giới  
+2.2.2.1. Tình hình đào tạo trí tuệ nhân tạo và khoa học dữ liệu tại Việt Nam 
+Tại Việt Nam, Đ ại học Bách Khoa Hà N ội là đơn v ị tổ chức đào t ạo hệ đại học 
+ngành dữ liệu và trí tuệ nhân tạo sớm nhất từ năm học 2019-2020 do nhận thấy những nhu 
+
+
+### Trang 22
+
+19 
+ 
+cầu tuyển dụng tăng cao trong lĩnh v ực. Tổng chỉ tiêu tuyển sinh của ngành dữ liệu và trí 
+tuệ nhân tạo tại Đại học Bách khoa Hà Nội liên tục gia tăng. Năm 2023 chỉ tiêu tuyển sinh 
+ngành này là 110 với số lượng trúng tuyển thực tế là 118. Chương trình đào tạo của ngành 
+dữ liệu và trí tuệ nhân tạo tại Đại học Bách khoa Hà Nội được xây dựng và giảng dạy hoàn 
+toàn bằng tiếng Anh. Ngoài h ệ đại học ngành d ữ liệu và trí tu ệ nhân tạo, Đại học Bách 
+khoa Hà Nội tổ chức đào tạo trình độ thạc sĩ khoa học dữ liệu theo chương trình ELITECH. 
+Đây là chương trình đào tạo có mục tiêu đào tạo nguồn nhân lực chất lượng cao trong các 
+ngành lĩnh vực khoa học công nghệ ưu tiên cho phát triển kinh tế - xã hội. Năm 2022, Đại 
+học Công ngh ệ, Đại học Quốc gia Hà N ội thành l ập Viện trí tu ệ nhân tạo với mục tiêu 
+nghiên cứu và đào tạo chuyên sâu trong lĩnh vực trí tuệ nhân tạo. Trong cùng năm Đại học 
+Công nghệ tuyển sinh khóa cử nhân đầu tiên về trí tuệ nhân tạo với chỉ tiêu tuyển sinh 180.  
+Tại khu vực phía Nam, Đại học Khoa học Tự nhiên, Đại học Quốc gia TPHCM là 
+trường đầu tiên triển khai chương trình đào t ạo cử nhân ngành Trí tu ệ nhân tạo vào năm 
+2021 với chỉ tiêu tuyển sinh là 50. Trư ờng cũng là trư ờng đại học đầu tiên tại Việt Nam 
+đào tạo chính quy ngành này ở cả bậc Đại học và sau đại học. Cùng với việc triển khai đào 
+tạo ngành Trí tu ệ nhân t ạo, Đại học Khoa h ọc Tự nhiên cũng xây d ựng các phòng thí 
+nghiệm chuyên sâu về lĩnh vực trí tuệ nhân tạo phục vụ cho học tập và nghiên cứu của sinh 
+viên và gi ảng viên trư ờng. Năm 2022, Đai h ọc Công ngh ệ thông tin, Đ ại học Quốc gia 
+TPCHM cũng bắt đầu tuyển sinh ngành trí tuệ nhân tạo với chỉ tiêu tuyển sinh là 40. 
+Học viện Công nghệ Bưu chính Viễn thông là m ột trong những đơn vị đào tạo có 
+truyền thống trong lĩnh vực Công nghệ Thông tin. Năm 2022, Học viện bắt đầu mở ngành 
+đào tạo và tuyển sinh khóa đầu tiên ngành Khoa học máy tính định hướng khoa học dữ liệu 
+với chỉ tiêu tuyển sinh 120. Năm 2023, H ọc viện tiếp tục tuyển sinh và đã nâng ch ỉ tiêu 
+tuyển sinh ngành này lên 140. Chương trình đào tạo ngành Khoa học máy tính định hướng 
+khoa học dữ liệu tại Học viện cũng có nhiều môn học liên quan đến trí tuệ nhân tạo vì xu 
+hướng phát triển hiện tại có sự liên kết chặt chẽ giữa hai ngành này. Hiện nay, ngành Công 
+nghệ thông tin CLC đã bao gồm chuyên ngành Trí tuệ nhân tạo, với 29 sinh viên đang được 
+đào tạo. 
+Tại Việt Nam, nhiều trường đại học khác cũng nắm bắt được xu hướng và mở ngành 
+đào tạo liên quan đến khoa học dữ liệu và trí tuệ nhân tạo như Đại học Bách Khoa (Chương 
+trình tiên tiến Khoa học và Dữ liệu và Trí tuệ nhân tạo), Đại học Công nghệ (viện Trí tuệ 
+nhân tạo), Đại học FPT (chuyên ngành trí tuệ nhân tạo), Đại học Thủy Lợi (ngành Trí tuệ 
+nhân tạo và Khoa h ọc dữ liệu), Đại học Công nghiệp (ngành Robot và Trí tu ệ nhân tạo), 
+Đại học Sư phạm kỹ thuật TPHCM (ngành Robot và Trí tuệ nhân tạo), Đại học Công nghệ 
+TPHCM (Ngành trí tu ệ nhân tạo), Đại học Duy Tân (ngành Trí tu ệ nhân tạo), Đại học 
+Phenikaa (ngành Trí tuệ nhân tạo và Khoa học dữ liệu). Trong khối các trường trong lĩnh 
+vực kinh tế, Trường Kinh tế Quốc dân cũng dự kiến mở ngành trí tuệ nhân tạo và bắt đầu 
+tuyển sinh trong năm 2024. 
+Trong đào tạo bồi dưỡng, đào tạo ngắn hạn về trí tuệ nhân tạo, khoa học dữ liệu cũng 
+được một số đơn vị trong nước triển khai với nhiều hình thức phong phú, như các chương 
+trình đào tạo ngắn hạn về trí tuệ nhân tạo cấp chứng chỉ quốc tế và chứng chỉ trong nước. 
+
+### Trang 23
+
+20 
+ 
+Các đơn v ị đào t ạo ng ắn h ạn v ề mảng này có th ể kể đến, như Aptech, Viet Nam AI 
+Academy, VietAI, Funix. Ngoài ra, m ột số công ty, tập đoàn lớn với sứ mệnh cộng đồng 
+cũng như đào tạo nhân sự cho nội bộ công ty cũng xây dựng một số chương trình đào tạo 
+chuyên sâu về AI cho sinh viên năm cu ối và các b ạn vừa tốt nghiệp. Tập đoàn FPT ph ối 
+hợp với viện nghiên c ứu trí tu ệ nhân tạo Mila xây d ựng chương trình “FPT Sofware AI 
+Residency” cho đối tượng là các bạn sinh viên năm cuối và các bạn sinh viên vừa tốt nghiệp 
+đại học. Chương trình đào t ạo chuyên sâu kéo dài 2 năm cung c ấp cho ngư ời tham gia 
+những kiến thức chuyên sâu về trí tuệ nhân tạo và học máy. Trong khuôn khổ chương trình, 
+người tham gia được trả lương và đảm bảo đầu ra sau khi kết thúc chương trình. Các b ạn 
+sinh viên, h ọc viên tham gia chương trình có th ể nộp h ồ sơ xin h ọc Ti ến sĩ t ại các 
+trường/viện lớn trên th ế giới. Chương trình “VinAI Residency” của Tập đoàn Vingroup 
+được thiết kế dành cho sinh viên năm cuối và cử nhân mới tốt nghiệp, mang đến cơ hội 
+nghiên cứu trong môi trường học thuật đẳng cấp cao, chuyên sâu về trí tuệ nhân tạo . Mục 
+đích của chương trình v ừa là đạo tạo hỗ trợ người tham gia xin h ọc bổng bậc học Tiến sĩ 
+tại các trường hàng đầu trên thế giới, vừa cung cấp một phần nhân sự đẳng cấp quốc tế cho 
+nội bộ tập đoàn Vingroup. Chương trình này có tính cạnh tranh cao và yêu cầu người tham 
+gia phải trải qua nhiều vòng thi và phỏng vấn trước khi được tuyển chọn. Viện nghiên cứu 
+dữ liệu lớn (Vin Bigdata) của tập đoàn Vingroup cũng xây dựng một chương trình đào tạo 
+nhưng hướng tới đối tượng là các bạn kỹ sư. Mục tiêu đầu ra của chương trình này là các 
+bạn có thể đáp ứng ngay được yêu cầu về kiến thức và kỹ năng để làm việc ngay tại các 
+công ty, tập đoàn lớn về trí tuệ nhân tạo. Bên cạnh xu hướng đào tạo trực tiếp tại chỗ, người 
+học hiện nay cũng có những lựa chọn khác khi có thể tham gia vào các khóa học, chương 
+trình học trực tuyến chất lượng cao trên các nền tảng học trực tuyến như Coursera, Udacity. 
+Lợi thế của các khóa học này là thời gian học linh hoạt, được giảng dạy bởi những chuyên 
+gia hàng đầu trong lĩnh vực và được cấp chứng chỉ ngay khi hoàn thành khóa học. Một số 
+tập đoàn hàng đầu thế giới cũng cung cấp những khóa học chất lượng cao chuyên biệt về 
+AI cho người học như Nvidia, Google, Microsoft làm giàu thêm những lựa chọn cho người 
+học về trí tuệ nhân tạo tại Việt Nam. Các t ập đoàn công ngh ệ này thường xây d ựng các 
+khóa học chuyên sâu về AI theo thế mạnh của họ giúp cho người học có thể phần nào hình 
+dung ra được những công nghệ trí tuệ nhân tạo được triển khai thế nào trong thực tế. Với 
+sự gia tăng nhu c ầu về nhân sự trong lĩnh v ực trí tu ệ nhân tạo của các công ty/t ập đoàn 
+công nghệ, nhu cầu đào tạo, bồi dưỡng trong lĩnh vực trí tuệ nhân tạo sẽ tiếp tục tăng trưởng 
+mạnh. 
+2.2.2.2  Tình hình đào tạo trí tuệ nhân tạo trên thế giới 
+AI đang trở thành một ngành học ngày càng phổ biến tại các trường đại học trên thế 
+giới. Nhu cầu ngày càng cao đối với các chuyên gia AI trong nhiều lĩnh vực khác nhau đã 
+thúc đẩy sự phát triển của các chương trình đào t ạo AI ở mọi cấp độ, từ cử nhân đến tiến 
+sĩ. Theo một báo cáo của CB Insights, số lượng chương trình cử nhân AI đã tăng gấp đôi 
+trong giai đo ạn từ năm 2018 đ ến năm 2022. Các chương trình th ạc sĩ và ti ến sĩ AI cũng 
+chứng kiến sự gia tăng tương tự. Nhiều trường đại học danh tiếng trên thế giới đã thành lập 
+các viện nghiên cứu AI và các trung tâm đào t ạo chuyên dụng. Họ cũng đang thu hút các 
+
+### Trang 24
+
+21 
+ 
+nhà nghiên cứu AI hàng đầu và cung cấp các chương trình học bổng hào phóng để thu hút 
+sinh viên tài năng. Các chương trình đào tạo AI được cung cấp bởi các trường đại học trên 
+thế giới rất đa dạng, bao gồm các chương trình tập trung vào học máy, xử lý ngôn ngữ tự 
+nhiên, thị giác máy tính, robot học. Nhu cầu đối với các chuyên gia AI r ất cao và dự kiến 
+sẽ tiếp tục tăng trong những năm tới. Sinh viên tốt nghiệp ngành AI có thể làm việc trong 
+nhiều lĩnh v ực khác nhau, bao g ồm công ngh ệ, tài chính, chăm sóc s ức khỏe, sản xuất. 
+Theo báo cáo của đại học Stanford, Mỹ (The 2024 AI Index Report) với số liệu được trích 
+dẫn từ Studyportals, số lượng các chương trình đào t ạo về AI tại các trường đại học trên 
+thế giới chứng kiến sự tăng trưởng đều đặn từ năm 2017. Số liệu thống kê năm 2023 cho 
+thấy có tổng cộng hơn 2500 chương trình đào tạo về AI tại các trường đại học trên toàn thế 
+giới. Theo phân b ậc đào tạo, phần lớn các chương trình đào t ạo AI được cung cấp ở bậc 
+thạc sĩ (55,0%), ti ếp theo là b ậc cử nhân (39,8%) và cu ối cùng là b ậc tiến sĩ (5,3%). Các 
+chương trình h ọc nếu tính trên bình di ện các qu ốc gia. Vương qu ốc Anh là qu ốc gia có 
+nhiều chương trình đào tạo về AI nhất trên thế giới trong khi trong top 10 chỉ có duy nhất 
+Ấn độ là quốc gia ở Châu Á. Tuy nhiên, đây là báo cáo th ống kê lại các chương trình học 
+được cung cấp bằng ngôn ngữ là tiếng Anh. Một số nước ở Châu Á có thế mạnh về trí tuệ 
+nhân tạo như Hàn Qu ốc, Nhật Bản, Trung Qu ốc cũng có th ế mạnh về đào tạo AI nhưng 
+nhiều chương trình liên quan được đào tạo bằng ngôn ngữ khác tiếng Anh. 
+ Hình 4. Số lượng các chương trình về Trí tuệ nhân tạo ở các đại học bằng tiếng anh trên 
+thế giới từ 2017 đến 2023. 
+Theo phân bậc đào tạo, phần lớn các chương trình đào tạo AI được cung cấp ở bậc 
+thạc sĩ (55,0%), tiếp theo là bậc cử nhân (39,8%) và cuối cùng là bậc tiến sĩ (5,3%). 
+ 
+ 
+
+
+### Trang 25
+
+22 
+ 
+ 
+Hình 5. Số lượng chương trình đào tạo AI bằng tiếng Anh tại các trường đại học theo khu 
+vực địa lý vào năm 2022 và 2023. 
+ 
+ 
+ Hình 6. Tỷ lệ chương trình đào tạo AI bằng tiếng Anh theo bậc học năm 2023. 
+Các chương trình học nếu tính trên bình diện các quốc gia. Vương quốc Anh là quốc 
+gia có nhiều chương trình đào tạo về AI nhất trên thế giới trong khi trong top 10 chỉ có duy 
+nhất Ấn độ là quốc gia ở Châu Á. Tuy nhiên, đây là báo cáo thống kê lại các chương trình 
+học được cung cấp bằng ngôn ngữ là tiếng Anh. Một số nước ở Châu Á có thế mạnh về trí 
+tuệ nhân tạo như Hàn Quốc, Nhật Bản, Trung Quốc cũng có thế mạnh về đào tạo AI nhưng 
+nhiều chương trình liên quan được đào tạo bằng ngôn ngữ khác tiếng Anh.  
+Châu Âu: Tình hình đào tạo AI tại châu Âu đang phát triển mạnh mẽ, với sự tham 
+gia tích cực từ các trường đại học hàng đầu, các tổ chức nghiên cứu, và chính phủ của các 
+quốc gia thành viên. Liên minh châu Âu (EU) đã triển khai chiến lược AI toàn diện nhằm 
+thúc đẩy nghiên cứu và ứng dụng AI. EU cam kết đầu tư hơn 20 tỷ euro mỗi năm vào AI 
+
+
+### Trang 26
+
+23 
+ 
+từ năm 2021 đến 2027 thông qua các chương trình như Horizon Europe và Digital Europe 
+Programme. Châu Âu là khu vực có thế mạnh với các trường đại học lớn có bề dày lịch sử 
+trong đào tạo về AI như Đại học Oxford, Đại học Cambridge, ETH Zurich, và Đại học Kỹ 
+thuật Munich. Những trường này cung cấp các khóa học từ bậc cử nhân đến tiến sĩ trong 
+các lĩnh vực như học máy, robot học, và xử lý ngôn ngữ tự nhiên. Các chương trình đào 
+tạo AI tại châu Âu không chỉ tập trung vào lý thuyết mà còn bao gồm nhiều dự án thự c tế 
+và hợp tác với ngành công nghiệp, tạo cơ hội cho sinh viên tiếp cận với các công nghệ AI 
+tiên tiến nhất. Châu Âu có nhiều trung tâm nghiên cứu AI nổi tiếng như Viện nghiên cứu 
+AI Max Planck tại Đức, INRIA tại Pháp, và Trung tâm Nghiên cứu AI tại Đại h ọc 
+Edinburgh, Anh. Những trung tâm này thường xuyên hợp tác với các đối tác quốc tế để 
+thúc đẩy nghiên cứu và ứng dụng AI.  
+Châu Á: AI đang trở thành một lĩnh vực quan trọng và phát triển mạnh mẽ tại châu 
+Á, với sự đầu tư mạnh mẽ từ cả chính phủ và các doanh nghiệp tư nhân. Khu vực này nhận 
+thấy tiềm năng của AI trong việc thúc đẩy nền kinh tế và giải quyết các vấn đề xã hội. Cụ 
+thể, Nhật Bản cũng đầu tư mạnh vào AI, tập trung vào ứng dụng AI trong robot và tự động 
+hóa. Chính phủ Nhật Bản đã khởi động nhiều dự án và chương trình đào tạo để thúc đẩy 
+phát triển AI. Các tổ chức như RIKEN và các đại học hàng đầu như Đại học Tokyo đang 
+là những nơi nghiên cứu tiên tiến về AI. Hàn Quốc có kế hoạch phát triển AI thông qua 
+việc đầu tư vào giáo dục và nghiên cứu. Chính phủ đã công bố kế hoạch đào tạo hàng chục 
+nghìn chuyên gia AI và đang hợp tác với các công ty công nghệ lớn như Samsung và LG 
+để phát triển lĩnh vực này. Tại các trường hàng đầu của Hàn Quốc như Viện KAIST, đại 
+học Yonsei, đại học Korea, đại học SeoulTech, và đại học Sejong đều có khoa đào tạo riêng 
+biệt về AI. 
+Trung Quốc: Chính phủ Trung Quốc đã đưa AI vào kế hoạch quốc gia với mục tiêu 
+trở thành trung tâm đổi mới AI toàn cầu vào năm 2030. Điều này bao gồm việc đầu tư 
+mạnh mẽ vào nghiên cứu và phát triển AI, cũng như việc xây dựng các trung tâm nghiên 
+cứu AI hàng đầu. Nhiều  trường đại học hàng đầu tại Trung Quốc như Đại học Bắc Kinh, 
+Đại học Thanh Hoa và Đại học Khoa học và Công nghệ Trung Quốc đang cung cấp các 
+chương trình đào tạo về AI. Các chương trình này bao gồm từ bậc đại học đến sau đại học. 
+Các trường đại học này không chỉ tập trung vào giảng dạy mà còn đẩy mạnh nghiên cứu 
+và hợp tác với các công ty công nghệ hàng đầu như Baidu, Alibaba, và Tencent để phát 
+triển các dự án AI tiên tiến. Tại Trung Quốc, các trường đại học xây dựng hơn 2300 khóa 
+học chuyên ngành AI ở bậc cử nhân ở hơn 350 viện nghiên cứu cao cấp từ năm 2018 khi 
+Bộ giáo dục Trung Quốc công nhận AI là một ngành học riêng biệt so với ngành khoa học 
+máy tính. Nhiều trường đại học tại Trung Quốc đã thành lập khoa đào tạo riêng về AI. 
+Mỹ: Nhiều trường đại học hàng đầu tại Mỹ như Đại học Stanford, MIT, và Carnegie 
+Mellon nổi tiếng với các chương trình đào tạo về AI. Chẳng hạn, Stanford có Phòng Thí 
+nghiệm Trí tuệ nhân tạo Stanford (SAIL) với lịch sử lâu đời trong nghiên cứu và giảng dạy 
+AI. MIT cung cấp chương trình đào tạo liên ngành về AI thông qua MIT Schwarzman 
+College of Computing, kết hợp nghiên cứu AI với các lĩnh vực khác như khoa học dữ liệu 
+và học máy. Chí nh phủ Mỹ đã triển khai nhiều chính sách hỗ trợ và đầu tư vào AI, bao 
+
+### Trang 27
+
+24 
+ 
+gồm việc thành lập các trung tâm nghiên cứu AI quốc gia và tăng cường ngân sách cho 
+nghiên cứu và phát triển AI. Tháng 2 năm 2019, Tổng thống Trump đã ký sắc lệnh hành 
+pháp thúc đẩy sự phát triển của AI thông qua chiến lược AI của Mỹ (American AI 
+Initiative) . Các trường đại học Mỹ thường xuyên hợp tác với các doanh nghiệp lớn như 
+Google, Amazon, và Microsoft để thúc đẩy nghiên cứu và ứng dụng AI. Các chương trình 
+hợp tác này giúp sinh viên có cơ hội thực tập và tiếp cận với các dự án AI thực tế, đồng 
+thời tạo ra nhiều cơ hội nghề nghiệp trong lĩnh vực này . Mỹ luôn là quốc gia đi đầu trong 
+đào tạo cũng như triển khai các công nghệ AI mới nhất vào đời sống và các sản phẩm 
+thương mại. Sức hút của các tập đoàn công nghệ lớn tại Mỹ luôn thúc đẩy quá trình đào 
+tạo trong lĩnh vực này ở bên trong nước Mỹ. Với bề dày lịch sử lâu đời về đào tạo, các 
+trường đại học ở đây luôn đổi mới, cải tiến để thu hút lượng lớn sinh viên quốc tế đến theo 
+học các chương trình về AI. Các chương trình này được thiết kế đa dạng và luôn hướng tới 
+đáp ứng nhu cầu tuyển dụng của các tập đoàn công nghệ lớn. Theo số liệu của USNews, 
+năm 2022, MIT là đại học có tỉ lệ chấp nhận sinh viên thấp nhất vào học với tổng số 4361 
+sinh viên, cũng là trường có truyền thống đào tạo AI lâu đời với chất lượng cao. 
+2.3. Nghiên cứu, khảo sát về vị trí việc làm và yêu cầu về năng lực đối với người học 
+sau khi tốt nghiệp ngành Trí tuệ nhân tạo 
+2.3.1. Phương pháp và qui trình thực hiện 
+Để đảm bảo chương trình đào tạo được xây dựng và thiết kế nhằm đào tạo ra cử nhân 
+ngành trí tuệ nhân tạo có năng lực đáp ứng nhu cầu của xã hội và thực tiễn yêu cầu các vị 
+trí công việc về Trí tuệ nhân tạo tại các tổ chức, doanh nghiệp, nhóm công tác đã tiến hành 
+nghiên cứu và khảo sát nhằm xác định năng lực người học sau khi tốt nghiệp theo qui trình 
+và phương pháp được trình bày như trong Bảng 1.6 dưới đây: 
+Bảng 1.6. Phương pháp và qui trình thực hiện nghiên cứu, khảo sát về yêu cầu về năng 
+lực người học sau khi tốt nghiệp ngành Trí tuệ nhân tạo 
+Nội dung công việc Phương pháp Mục tiêu 
+Nghiên cứu sơ bộ về 
+các vị trí việc làm liên 
+quan đến trí tuệ nhân 
+tạo của các tổ chức, 
+doanh nghiệp 
+Thu th ập và phân tích các thông 
+tin tuyển dụng liên quan đến trí tuệ 
+nhân t ạo (trên các trang như 
+Vietnamworks, LinkedIn, và các 
+diễn đàn công nghệ) 
+ 
+- Nhận di ện ban đ ầu các v ị trí 
+việc làm liên quan đ ến trí tu ệ 
+nhân tạo trong các tổ chức. 
+- Xác định các yêu c ầu về năng 
+lực và kỹ năng chuyên môn cần 
+thiết cho các vị trí trong ngành trí 
+tuệ nhân tạo. 
+- Có được thông tin đầu vào cho 
+giai đoạn nghiên cứu tiếp theo. 
+Phỏng vấn, xin ý ki ến 
+các t ổ chức/doanh 
+nghiệp v ề các v ị trí 
+việc làm và những yêu 
+cầu v ề năng l ực, k ỹ 
+năng cần có c ủa sinh 
+Sử dụng kỹ thuật phỏng vấn trực 
+tiếp ho ặc qua email v ới các t ổ 
+chức/doanh nghiệp để thu thập ý 
+kiến về các yêu c ầu về năng lực, 
+kỹ năng cho các vị trí liên quan đến 
+trí tuệ nhân tạo 
+- Nhận diện và xác định các vị trí 
+việc làm trong lĩnh v ực trí tu ệ 
+nhân tạo. 
+- Xác định các yêu c ầu về năng 
+lực và k ỹ năng c ần thi ết, cũng 
+
+### Trang 28
+
+25 
+ 
+Nội dung công việc Phương pháp Mục tiêu 
+viên tốt nghiệp ngành 
+trí tuệ nhân tạo 
+như m ức đ ộ đáp ứng c ủa các 
+sinh viên tốt nghiệp. 
+- Có được thông tin để xây dựng 
+chuẩn đầu ra (CĐR) cho chương 
+trình đào tạo. 
+Khảo sát, xin ý kiến về 
+dự thảo chuẩn đầu ra 
+của chương trình đào 
+tạo 
+ Khảo sát tr ực ti ếp và tr ực tuy ến 
+thông qua Google Forms 
+-Có được thông tin đánh giá v ề 
+dự thảo CĐR c ủa chương trình 
+đào tạo. 
+-Điều chỉnh và hoàn thiện CĐR 
+của chương trình đào tạo để 
+phục vụ việc xây dựng nội dung 
+và chương trình sau này. 
+Như vậy, có th ể thấy có đa d ạng các nhóm đ ối tượng đã đư ợc xin ý ki ến, khảo sát 
+trong giai đoạn nghiên cứu, khảo sát về yêu cầu về năng lực người học sau khi tốt nghiệp 
+ngành Trí tuệ nhân tạo, gồm 2 nhóm chính: 
+(1) Nhóm đối tượng 1 - Các doanh nghiệp (nhà tuyển dụng) sử dụng lao động trong 
+lĩnh vực trí tu ệ nhân tạo, gồm 100 đ ại diện từ 08 tổ chức/doanh nghiệp: Zentsoft, 
+AIsoft, Tinasoft, CTCP Trí tuệ nhân tạo thế hệ mới, AITALK, NAV, SIPPINAI, 
+CTTNHH Trí tuệ nhân tạo số 
+(2) Nhóm đối tượng 2 - Sinh viên năm cu ối (250 sinh viên) t ại Học viện Công ngh ệ 
+Bưu chính Viễn thông (sinh viên ngành trí tuệ nhân tạo và khoa học máy tính). 
+2.3.2. Kết quả khảo sát các k ỹ năng cần có c ủa sinh viên t ốt nghiệp ngành Trí tu ệ 
+nhân tạo và chuẩn đầu ra cho chương trình đào tạo Trí tuệ nhân tạo 
+Dựa trên kết quả nghiên cứu và khảo sát về các vị trí việc làm liên quan đ ến ngành 
+Trí tuệ nhân tạo cũng như các năng lực cần thiết mà người học phải có để đáp ứng yêu cầu 
+công việc, bản dự thảo chuẩn đầu ra cho chương trình đào t ạo ngành Trí tu ệ nhân tạo đã 
+được xây dựng. Tiếp theo, một cuộc khảo sát đã đư ợc tiến hành vào tháng 9/2024 v ới sự 
+tham gia của 350 cá nhân, bao gồm đại diện các doanh nghiệp/nhà tuyển dụng và sinh viên 
+đang theo h ọc ngành trí tu ệ nhân tạo và các ngành công ngh ệ thông tin. Phi ếu khảo sát 
+được xây dựng dựa trên các hướng dẫn và quy định của Học viện. 
+Theo phiếu khảo sát, mức độ quan trọng của từng chuẩn đầu ra được đo lường bằng 
+4 mức: a = Không quan trọng; b = Ít quan trọng; c = Khá quan trọng; d = Rất quan trọng. 
+Sau khi d ữ liệu chuyển vào phân tích đư ợc đổi thành 1= Không quan tr ọng; 2 = Ít quan 
+trọng; 3 = Khá quan trọng; 4 = Rất quan trọng.  
+2.3.2.1. Kết quả khảo sát mức độ quan trọng của các kỹ năng cần có của sinh viên t ốt 
+nghiệp ngành Trí tuệ nhân tạo:  
+Kết quả khảo sát m ức độ quan trọng của các các k ỹ năng cần có c ủa sinh viên t ốt 
+nghiệp ngành Trí tuệ nhân tạo được trình bày trong Bảng 1.12 dưới đây 
+
+### Trang 29
+
+26 
+ 
+Bảng 2. Tầm quan trọng của các các kỹ năng cần có của sinh viên tốt nghiệp ngành Trí 
+tuệ nhân tạo 
+TT Các kỹ năng cứng 
+Tầm quan 
+trọng (giá trị 
+trung bình) 
+1 
+Diễn giải được kiến thức cơ bản về khoa học xã hội, về khoa học chính 
+trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và 
+quốc phòng 
+3.921 
+2 
+Vận dụng được kiến thức toán, khoa học cơ bản, công nghệ thông tin 
+trong tiếp thu, nắm vững các kiến thức cốt lõi ngành, chuyên ngành và 
+trong phát triển các hệ thống, giải pháp dữ liệu 
+4.215 
+3 Áp dụng được kiến thức cơ sở cốt lõi ngành để phân tích các vấn đề trong lĩnh vực Trí tuệ nhân tạo và đưa ra hướng giải quyết, triển khai 4.012 
+4 
+Tổng hợp, phân tích và liên kết kiến thức chuyên sâu về Trí tuệ nhân 
+tạo với các lĩnh vực liên quan để nghiên cứu giải pháp và phát triển các 
+ứng dụng 
+3.802 
+5 
+Áp dụng được kiến thức ngành, chuyên ngành và kỹ năng cá nhân để 
+hình thành ý tưởng tham gia thiết kế, xây dựng, triển khai, vận hành 
+các quy trình, hệ thống và sản phẩm kỹ thuật, công nghệ thuộc lĩnh vực 
+Trí tuệ nhân tạo. 
+3.581 
+6 
+Nhận thức và hiểu biết về sự ảnh hưởng của lĩnh vực Trí tuệ nhân tạo 
+đối với xã hội, về bối cảnh doanh nghiệp và kinh doanh. Hiểu biết về 
+lãnh đạo, sáng tạo và khởi nghiệp. 
+3.214 
+7 Thực hiện được các công việc quản lý, quản trị, điều hành các hoạt động chuyên môn. 3.532 
+Qua kết quả khảo sát, có thể thấy rằng tất cả các kỹ năng cứng liên quan đến ngành 
+Trí tuệ nhân tạo được đánh giá là khá quan tr ọng đến rất quan trọng, với điểm trung bình 
+nằm trong khoảng 3.5 đến 4.0. Đặc biệt, khả năng vận dụng kiến thức toán học, khoa học 
+cơ bản, và công nghệ thông tin trong các hệ thống và giải pháp dữ liệu được coi là kỹ năng 
+quan trọng nhất (4.215), điều này phản ánh sự cần thiết của nền tảng khoa học cơ bản vững 
+chắc trong phát triển AI. Các kỹ năng phân tích và tổng hợp kiến thức AI với các lĩnh vực 
+khác cũng được đánh giá cao, cho th ấy tính liên ngành c ủa AI trong ứng dụng thực tiễn. 
+Kỹ năng quản lý, quản trị và khả năng nhận thức về tác động của AI đối với xã hội có tầm 
+quan trọng tương đối thấp hơn so với các kỹ năng kỹ thuật, nhưng vẫn rất cần thiết trong 
+việc đảm bảo thành công dài hạn của một chuyên gia AI. 
+2.3.2.2. Kết quả khảo sát mức độ quan trọng của các phẩm chất đạo đức, phẩm chất  cá 
+nhân và kỹ năng mềm cần có của các Kỹ sư ngành Trí tuệ nhân tạo 
+Kết quả khảo sát mức độ quan trọng của các chuẩn đầu ra về kỹ năng nghề nghiệp 
+chung được trình bày trong Bảng 3 
+Bảng 3. Tầm quan trọng của các chuẩn đầu ra về kỹ năng nghề nghiệp chung 
+ 
+
+### Trang 30
+
+27 
+ 
+TT Các phẩm chất đạo đức và kỹ năng mềm 
+Tầm quan 
+trọng (giá trị 
+trung bình) 
+1 
+Thể hiện tư duy hệ thống, tư duy phản biện, kỹ năng lập luận, phân tích 
+và giải quyết vấn đề, phác thảo được tổng thể vấn đề kỹ thuật, công 
+nghệ. 
+3.825 
+2 
+Thể hiện thái độ nghiêm túc, có đạo đức nghề nghiệp, thái độ hành xử 
+chuyên nghiệp, tuân thủ pháp luật, chịu trách nhiệm và có thể bảo vệ 
+quan điểm cá nhân. 
+4.124 
+3 
+Thể hiện  khả năng làm việc độc lập, tự định hướng chuyên môn, có 
+tinh thần học tập và rèn luyện suốt đời, biết cập nhật kiến thức và kỹ 
+năng mới trong lĩnh vực Trí tuệ nhân tạo. 
+2.781 
+4 Tổ chức hoạt động nhóm chuyên môn, đa ngành hiệu quả. 2.912 
+5 Truyền đạt được vấn đề và giải pháp bằng văn bản, đồ hoạ, kỹ thuật đa phương tiện và thuyết trình một cách hiệu quả 3.568 
+6 Sử dụng được tiếng Anh tương đương năng lực ngoại ngữ bậc 3/6 trong Khung năng lực ngoại ngữ Việt Nam 2.821 
+Các kỹ năng liên quan đến đạo đức nghề nghiệp, tư duy phản biện, và truyền đạt 
+hiệu quả được đánh giá cao với điểm số trung bình trên 3.5, cho thấy đây là những yếu tố 
+quan trọng đối với nhân lực ngành Trí tuệ nhân tạo. Việc thể hiện đạo đức nghề nghiệp và 
+kỹ năng truyền đạt đa phương tiện nổi bật, cho thấy yêu cầu về kỹ năng giao tiếp và hành 
+xử chuyên nghiệp là rất cần thiết. Trong khi đó, kỹ năng làm việc độc lập và khả năng tổ 
+chức hoạt động nhóm được đánh giá ở mức vừa phải. Năng lực ngoại ngữ cũng đóng vai 
+trò quan trọng nhưng vẫn chưa đạt đến mức cao, có thể thấy các doanh nghiệp vẫn đề cao 
+làm việc môi trường trong nước hơn. 
+2.3.2.3. Kết quả khảo sát mức độ quan trọng của các chuẩn đầu ra 
+Kết quả khảo sát mức độ quan trọng của các chuẩn đầu ra được trình bày trong Bảng 4 
+Bảng 4. Tầm quan trọng của các chuẩn đầu ra 
+Mã Nội dung Chuẩn đầu ra 
+Tầm quan 
+trọng (giá trị 
+trung bình) 
+LO1 
+Phân tích một bài toán phức tạp và áp dụng tri thức toán học, khoa học, 
+và công nghệ để xác định, mô hình và giải quyết các vấn đề về Trí tuệ 
+nhân tạo. 
+4.511 
+LO2 
+Thiết kế, triển khai và đánh giá giải pháp dựa trên máy tính, tính toán 
+để đáp ứng một tập hợp các yêu cầu nhất định trong các lĩnh vực trí tuệ 
+nhân tạo, công nghệ thông tin.  
+4.305 
+LO3 Giao tiếp hiệu quả trong các môi trường chuyên nghiệp. 4.183 
+LO4 
+Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá 
+sáng suốt trong hoạt động bảo mật dựa trên các nguyên tắc pháp lý và 
+đạo đức. 
+4.215 
+
+### Trang 31
+
+28 
+ 
+Mã Nội dung Chuẩn đầu ra 
+Tầm quan 
+trọng (giá trị 
+trung bình) 
+LO5 
+Hoạt động hiệu quả với tư cách là thành viên hoặc trưởng nhóm khi 
+tham gia các hoạt động phù hợp với các qui định của các lĩnh vực trí 
+tuệ nhân tạo, công nghệ thông tin.  
+4.271 
+LO6 Áp dụng các tri thức đã học để phát triển và giải quyết các vấn đề chính trong các dự án về Trí tuệ nhân tạo 4.781 
+Dựa trên kết quả khảo sát, các chuẩn đầu ra liên quan đến kỹ năng giải quyết vấn đề 
+phức tạp (LO1, LO6) được đánh giá cao, với LO6 đạt điểm trung bình cao nhất. Điều này 
+cho thấy tầm quan trọng của việc áp dụng kiến thức để giải quyết các vấn đề thực tiễn trong 
+lĩnh vực trí tuệ nhân tạo. LO2 và LO5 cũng được đánh rất cần thiết, thể hiện sự cần thiết 
+của kỹ năng thiết kế và làm việc nhóm. Kỹ năng giao tiếp (LO3) tuy nhận được điểm thấp 
+hơn, vẫn ở mức cao, cho thấy yêu cầu về kỹ năng mềm trong môi trường chuyên nghiệp 
+cũng rất quan trọng. 
+2.4. So sánh với một số chương trình đào tạo trong và ngoài nước  
+2.4.1. So sánh v ới chương trình đào t ạo Đ ại h ọc ngành Trí tu ệ nhân t ạo c ủa 
+trường Đại học Công nghệ (UET), Đại học Quốc gia Hà Nội 
+Chương trình Đại học ngành Trí Tuệ nhân tạo của PTIT Đại học ngành Trí Tuệ nhân tạo của UET 
+Thời gian đào tạo 4,5 năm (tập trung), bao gồm 1 kỳ thực tập chuyên sâu. 4 năm (tập trung), chú trọng lý thuyết và thực hành song song. 
+Tổng số tín chỉ 
+154 tín chỉ, kết hợp giữa lý 
+thuyết và thực hành thực tế 
+(không bao gồm Giáo dục thể 
+chất, Giáo dục quốc phòng và Kỹ 
+năng mềm) 
+123 tín chỉ, chương trình đào 
+tạo cử nhân gọn nhẹ hơn. 
+(Chưa tính các học phần Giáo dục 
+thể chất, Giáo dục quốc phòng - an 
+ninh, Kỹ năng bổ trợ) 
+Khối kiến thức cơ 
+sở 
+43 tín chỉ:  Giải tích 1, Giải 
+tích 2, Đại số, Xác suất thống kê, 
+vật lý ứng dụng, Tiếng Anh và các 
+môn chính trị (T riết học Mác - 
+Lênin, Tư tưởng Hồ Chí Minh, ...) 
+40 tín chỉ: Giải tích 1, Giải tích 
+2, Đại số, Xác suất thống kê, đại 
+cương, Tiếng Anh và các môn chính 
+trị (Triết học Mác - Lênin, Tư tưởng 
+Hồ Chí Minh, ...) 
+ 
+Nhận xét: Cả hai chương trình đào tạo tương đồng về nội dung và 
+các môn đào tạo ở khối kiến thức chung, chỉ khác nhau ở phân bố số tin 
+chỉ cho các môn. Chẳng hạn, chương trình đào tạo của PTIT dành nhiều 
+thời gian cho các môn Tiếng Anh với 14 tín chỉ, trong khi chương trình 
+của UET chỉ có 5 tín chỉ Tiếng Anh... 
+Khối kiến thức cơ 
+sở Khoa học máy 
+tính 
+33 tín chỉ: Kiến trúc máy 
+tính, Mạng máy tính, Cơ sở dữ 
+liệu, Python cho khoa học dữ liệu, 
+Xử lý ảnh, Các hệ thống phân tán, 
+Cấu trúc dữ liệu và giải thuật, 
+Nhập môn công nghệ phần mềm, 
+Toán rời rạc, Lý thuyết đồ thị, 
+26 tín chỉ: Giới thiệu về Công 
+nghệ thông tin, Tín hiệu và hệ thống, 
+Cấu trúc dữ liệu và giải thuật, Cơ sở 
+hệ thống máy tính, Cơ sở dữ liệu, 
+Công nghệ phần mềm, Seminar 
+khoa học, Xử lý và phân tích hình 
+ảnh, 
+
+### Trang 32
+
+29 
+ 
+Chương trình Đại học ngành Trí Tuệ nhân tạo của PTIT Đại học ngành Trí Tuệ nhân tạo của UET 
+Điện tử số (trong đó, môn Các hệ 
+thống phân tán là môn tự chọn) 
+Các môn tương đồng: Cơ sở dũ liệu, Nhập môn công nghệ phần 
+mềm, Cấu trúc dữ liệu và giải thuật, xử lý ảnh. Chương trình đào tạo 
+của PTIT tập trung nhiều hơn vào các môn giải thuật Cấu trúc dữ liệu và 
+giải thuật, Nhập môn công nghệ phần mềm, Toán rời rạc, Lý thuyết đồ 
+thị). Chương trình của UET tập trung nhiều vào các môn về hệ thống 
+(Tín hiệu và hệ thống, Cơ sở hệ thống máy tính). 
+Khối kiến thức về 
+lập trình 
+15 tín chỉ: Phương pháp lập 
+trình cơ bản, Lập trình Python cơ 
+bản, Lập trình hướng đối tượng, 
+Lập trình web, Lập trình song 
+song (trong đó, môn Lập trình 
+song song là môn tự chọn). 
+12 tín chỉ: Nhập môn lập trình, 
+Lập trình xử lý dữ liệu, Lập trình 
+hướng đối tượng, Lập trình song 
+song với GPU (trong đó, Lập trình 
+song song với GPU là môn tự chọn). 
+Các môn tương đồng: Phương pháp lập trình cơ bản, Lập trình 
+hướng đối tượng, Lập trình song song. 
+Nhận xét: Cả hai chương trình đều tập trung vào lập trình cơ bản 
+và hướng đối tượng, với trọng tâm xây dựng kỹ năng nền tảng lập trình 
+và khả năng mở rộng sang lập trình song song. Cả hai đều có môn học 
+tự chọn liên quan đến lập trình song song, cho thấy định hướng  nâng 
+cao về xử lý dữ liệu và hiệu năng.Tuy nhiên, chương trình đào tạo của 
+PTIT chú trọng rộng hơn với các môn như Lập trình web và Phương 
+pháp lập trình cơ bản, phù hợp với định hướng thực hành và phát triển 
+ứng dụng đa dạng. Còn chương trình đào tạo của UET Nhấn mạnh vào 
+xử lý dữ liệu qua môn Lập trình xử lý dữ liệu, hướng đến các ứng dụng 
+khoa học dữ liệu và hiệu suất cao với tự chọn Lập trình song song với 
+GPU. 
+ 
+ 
+ 
+Khối kiến thức cơ 
+sở Trí Tuệ nhân tạo 
+24 tín chỉ: Học máy , Học 
+sâu, Khai phá dữ liệu lớn, Phân 
+tích dữ liệu chuỗi thời gian, Thị 
+giác máy tính, Xử lý ngôn ngữ tự 
+nhiên, Trí tuệ nhân tạo cho an 
+toàn bảo mật thông tin, Trí tuệ 
+nhân tạo cơ bản, Đạo đức và 
+chính sách TTNT , Nền tảng phát 
+triển TTNT (trong đó, các môn 
+Khai phá dữ liệu và phân tích 
+chuỗi thời gian là các môn tự 
+chọn) 
+21 tín chỉ: Giới thiệu về trí tuệ 
+nhân tạo, Cơ sở toán học của trí tuệ 
+nhân tạo, Cơ sở trí tuệ nhân tạo, 
+Khai phá và phân tích dữ liệu, Kỹ 
+thuật và công nghệ dữ liệu lớn, Xử 
+lý ngôn ngữ tự nhiên, Học máy, Học 
+sâu, Xử lý tiếng nói (môn Xử lý tiếng 
+nói là môn tự chọn) 
+ 
+Các môn tương đồng: Học máy , Học sâu, Khai phá dữ liệu lớn, 
+Xử lý ngôn ngữ tự nhiên.  
+Nhận xét: Cả hai nhóm môn đều tập trung vào nền tảng và ứng 
+dụng của trí tuệ nhân tạo (AI), với các môn học cốt lõi như học máy, học 
+sâu, xử lý ngôn ngữ tự nhiên và khai phá dữ liệu. Điểm khác nhau là, 
+chương trình đào tạo của PTIT nhấn mạnh về tính Ứng dụng Trí tuệ 
+nhân tạo vào các lĩnh vực thực tế và tích hợp các khía cạnh đạo đức, 
+
+### Trang 33
+
+30 
+ 
+Chương trình Đại học ngành Trí Tuệ nhân tạo của PTIT Đại học ngành Trí Tuệ nhân tạo của UET 
+chính sách. Trong khi đó, chương trình đào tạo cảu UET tập trung vào 
+xây dựng nền tảng lý thuyết và kỹ thuật vững chắc trong AI. 
+Khối kiến 
+thức chuyên ngành 
+27 tín chỉ:  Học tăng cường 
+và ứng dụng, Truy xuất thông tin, 
+Mô hình học máy đồ thị và ứng 
+dụng, Hệ khuyến nghị, Mô hình 
+tạo sinh, Công cụ triển khai và 
+vận hành ứng dụng AI, Phát triển 
+ứng dụng AI, Nhập môn robotics, 
+IoT và ứng dụng, Mô hình ngôn 
+ngữ lớn, TTNT cho tính toán biên 
+(Các môn: Mô hình học máy đồ 
+thị và ứng dụng, Hệ khuyến nghị, 
+Mô hình tạo sinh, Nhập môn 
+robotics, IoT và ứng dụng, TTNT 
+cho tính toán biên là các môn tự 
+chọn). 
+12 tín chỉ: Mô hình đồ thị xác 
+suất, Học tăng cường và lập kế 
+hoạch, Nhận thức, ngôn ngữ và tư 
+duy, Thiết kế phần cứng cho Học 
+sâu, Thực hành phát triển hệ thống 
+Trí tuệ nhân tạo, Ứng dụng Trí tuệ 
+nhân tạo cho Ngôn ngữ, Các hệ 
+thống dựa vào tri thức, Tương tác 
+người và Trí tuệ nhân tạo, Ứng 
+dụng Trí tuệ nhân tạo trong Y tế, 
+Tính toán khoa học thần kinh và ứng 
+dụng, Tin sinh học ứng dụng, Trí tuệ 
+nhân tạo cho Robot, Ứng dụng Trí 
+tuệ nhân tạo trong Kỹ thuật, Ứng 
+dụng Trí tuệ nhân tạo trong Môi 
+trường (trừ môn  thực hành phát 
+triển hệ thống Trí tuệ nhân tạo, các 
+môn còn lại đều là môn tự chọn). 
+Các môn học tương đồng: Học tăng cường và ứng dụng (Học tăng 
+cường và lập kế hoạch), Truy xuất thông tin (Ứng dụng Trí tuệ nhân tạo 
+cho Ngôn ngữ), Mô hình học máy đồ thị và ứng dụng (Mô hình đồ thị 
+xác suất).  
+Nhận xét: Chương trình đào tạo của PTIT tập trung vào thực hành, 
+ứng dụng thực tế, và triển khai công nghệ TTNT trong các lĩnh vực kỹ 
+thuật, công nghiệp, và tự động hóa. Chương trình đào tạo của UET 
+hướng đến nghiên cứu chuyên sâu và ứng dụng đa ngành trong y tế, 
+sinh học, môi trường, và các lĩnh vực học thuật cao cấp khác. 
+Thực tập và tốt 
+nghiệp 
+Thực tập cơ sở 4 tín chỉ, 
+thực tập tốt nghiệp và tốt nghiệp 
+12 tín chỉ. 
+Thực tập doanh nghiệp 3 tín 
+chỉ và Khóa luận tốt nghiệp hoặc 
+học phần thay thế 7 tín chỉ. 
+ Nhận xét: Cả hai chương trình đều có phần thực tập và tốt nghiệp 
+nhằm giúp sinh viên ứng dụng kiến thức vào thực tế. Tuy nhiên, chương 
+trình đào tạo cảu PTIT tập trung nhiều hơn vào thực tập với 4 tín chỉ 
+thực tập cơ sở, 12 tín chỉ thực tập và tốt nghiệp, phù hợp với định hướng 
+thực hành chuyên sâu. Trong khi đó, chương trình đào tạo của UET có 
+thực tập doanh nghiệp ngắn hơn (3 tín chỉ) và tốt nghiệp 7 tín chỉ.  
+Nhận xét chung: Cả hai chương trình đều xây dựng một nền tảng vững chắc về lý 
+thuyết và thực hành trong lĩnh vực Trí tuệ nhân tạo (AI), đáp ứng nhu cầu phát triển nhân 
+lực trong ngành công nghệ tiên tiến. Tuy nhiên, chương trình của PTIT chú trọng nhiều 
+hơn đến ứng dụng thực tế, với thời gian đào tạo dài hơn, tổng số tín chỉ cao hơn, và tập 
+trung vào các môn học và thực tập chuyên sâu để đáp ứng các bài toán công nghiệp và triển 
+khai thực tế. Ngược lại, chương trình của UET được thiết kế gọn nhẹ, hướng tới nghiên 
+
+### Trang 34
+
+31 
+ 
+cứu chuyên sâu và ứng dụng đa ngành, phù hợp với những sinh viên muốn tiếp tục học cao 
+hơn hoặc nghiên cứu trong các lĩnh vực học thuật và công nghệ tiên tiến. 
+2.4.2. So sánh v ới chương trình đào t ạo Đ ại h ọc ngành Trí tu ệ nhân t ạo c ủa 
+trường Đại học Bách khoa Hà Nội (HUST) 
+Chương trình Đại học ngành Trí Tuệ nhân tạo của PTIT Đại học ngành Trí Tuệ nhân tạo của HUST 
+Thời gian đào tạo 4,5 năm (tập trung), bao gồm 1 kỳ thực tập chuyên sâu. 4,5 năm (tập trung), chương trình đào tạo chủ yếu bằng tiếng anh 
+Tổng số tín chỉ 
+154 tín chỉ, kết hợp giữa lý 
+thuyết và thực hành thực tế 
+(không bao gồm Giáo dục thể 
+chất, Giáo dục quốc phòng và Kỹ 
+năng mềm) 
+124 tín chỉ (bao gồm các học 
+phần Giáo dục thể chất, Giáo dục 
+quốc phòng - an ninh, Kỹ năng bổ 
+trợ) 
+Khối kiến thức cơ 
+sở 
+43 tín chỉ:  Giải tích 1, Giải 
+tích 2, Đại số, Xác suất thống kê, 
+vật lý ứng dụng, Tiếng Anh và các 
+môn chính trị (T riết học Mác - 
+Lênin, Tư tưởng Hồ Chí Minh, ...) 
+40 tín chỉ: Giải tích 1, Giải tích 
+2, Giải tích 3, Đại số, Xác suất thống 
+kê, đại cương, Tiếng Anh và các 
+môn chính trị (Triết học Mác - Lênin, 
+Tư tưởng Hồ Chí Minh, ...) 
+Nhận xét: Cả hai chương trình đào tạo tương đồng về nội dung và 
+các môn đào tạo ở khối kiến thức chung, chỉ khác nhau ở phân bố số tin 
+chỉ cho các môn. Chẳng hạn, chương trình đào tạo của PTIT dành nhiều 
+thời gian cho các môn Tiếng Anh với 14 tín chỉ, trong khi chương trình 
+của UET chỉ có 5 tín chỉ Tiếng Anh... 
+Khối kiến thức cơ 
+sở Khoa học máy 
+tính 
+33 tín chỉ: Kiến trúc máy 
+tính, Mạng máy tính, Cơ sở dữ 
+liệu, Python cho khoa học dữ liệu, 
+Xử lý ảnh, Các hệ thống phân tán, 
+Cấu trúc dữ liệu và giải thuật, 
+Nhập môn công nghệ phần mềm, 
+Toán rời rạc, Lý thuyết đồ thị, 
+Điện tử số (trong đó, môn Các hệ 
+thống phân tán là môn tự chọn) 
+26 tín chỉ: Giới thiệu về Công 
+nghệ thông tin, Tín hiệu và hệ thống, 
+Cấu trúc dữ liệu và giải thuật, Cơ sở 
+hệ thống máy tính, Cơ sở dữ liệu, 
+Công nghệ phần mềm, Seminar 
+khoa học, Xử lý và phân tích hình 
+ảnh, 
+Các môn tương đồng: Cơ sở dũ liệu, Nhập môn công nghệ phần 
+mềm, Cấu trúc dữ liệu và giải thuật, xử lý ảnh. Chương trình đào tạo 
+của PTIT tập trung nhiều hơn vào các môn giải thuật Cấu trúc dữ liệu và 
+giải thuật, Nhập môn công nghệ phần mềm, Toán rời rạc, Lý thuyết đồ 
+thị). Chương trình của UET tập trung nhiều vào các môn về hệ thố ng 
+(Tín hiệu và hệ thống, Cơ sở hệ thống máy tính). 
+Khối kiến thức về 
+lập trình 
+15 tín chỉ: Phương pháp lập 
+trình cơ bản, Lập trình Python cơ 
+bản, Lập trình hướng đối tượng, 
+Lập trình web, Lập trình song 
+song (trong đó, môn Lập trình 
+song song là môn tự chọn). 
+12 tín chỉ: Nhập môn lập trình, 
+Lập trình xử lý dữ liệu, Lập trình 
+hướng đối tượng, Lập trình song 
+song với GPU (trong đó, Lập trình 
+song song với GPU là môn tự chọn). 
+Các môn tương đồng: Phương pháp lập trình cơ bản, Lập trình 
+hướng đối tượng, Lập trình song song.  
+Nhận xét: Cả hai chương trình đều tập trung vào lập trình cơ bản và 
+
+### Trang 35
+
+32 
+ 
+Chương trình Đại học ngành Trí Tuệ nhân tạo của PTIT Đại học ngành Trí Tuệ nhân tạo của HUST 
+hướng đối tượng, với trọng tâm xây dựng kỹ năng nền tảng lập trình và 
+khả năng mở rộng sang lập trình song song. Cả hai đều có môn học tự 
+chọn liên quan đến lập trình song song, cho thấy định hướng nâng cao 
+về xử lý dữ liệu và hiệu năng.Tuy nhiên, chương trình đào tạo của PTIT 
+chú trọng rộng hơn với các môn như Lập trình web và Phương pháp lập 
+trình cơ bản, phù hợp với định hướng thực hành và phát triển ứng dụng 
+đa dạng. Còn chương trình đào tạo của UET Nhấn mạnh vào xử lý dữ 
+liệu qua môn Lập trình xử lý dữ liệu, hướng đến các ứng dụng khoa học 
+dữ liệu và hiệu suất cao với tự chọn Lập trình song song với GPU. 
+ 
+ 
+ 
+ 
+Khối kiến thức cơ 
+sở Trí Tuệ nhân tạo 
+24 tín chỉ: Học máy , Học 
+sâu, Khai phá dữ liệu lớn, Phân 
+tích dữ liệu chuỗi thời gian, Thị 
+giác máy tính, Xử lý ngôn ngữ tự 
+nhiên, Trí tuệ nhân tạo cho an 
+toàn bảo mật thông tin, Trí tuệ 
+nhân tạo cơ bản, Đạo đức và 
+chính sách TTNT , Nền tảng phát 
+triển TTNT (trong đó , các môn 
+Khai phá dữ liệu và phân tích 
+chuỗi thời gian là các môn tự 
+chọn) 
+21 tín chỉ: Giới thiệu về trí tuệ 
+nhân tạo, Cơ sở toán học của trí tuệ 
+nhân tạo, Cơ sở trí tuệ nhân tạo, 
+Khai phá và phân tích dữ liệu, Kỹ 
+thuật và công nghệ dữ liệu lớn, Xử 
+lý ngôn ngữ tự nhiên, Học máy, Học 
+sâu, Xử lý tiếng nói (môn Xử lý tiếng 
+nói là môn tự chọn) 
+ 
+Các môn tương đồng: Học máy , Học sâu, Khai phá dữ liệu lớn, 
+Xử lý ngôn ngữ tự nhiên.  
+Nhận xét: Cả hai nhóm môn đều tập trung vào nền tảng và ứng 
+dụng của trí tuệ nhân tạo (AI), với các môn học cốt lõi như học máy, học 
+sâu, xử lý ngôn ngữ tự nhiên và khai phá dữ liệu. Điểm khác nhau là, 
+chương trình đào tạo của PTIT nhấn mạnh về tính Ứng dụng Trí tuệ 
+nhân tạo vào các lĩnh vực thực tế và tích hợp các khía cạnh đạo đức, 
+chính sách. Trong khi đó, chương trình đào tạo cảu UET tập trung vào 
+xây dựng nền tảng lý thuyết và kỹ thuật vững chắc trong AI. 
+Khối kiến thức 
+chuyên ngành 
+27 tín chỉ:  Học tăng cường 
+và ứng dụng, Truy xuất thông tin, 
+Mô hình học máy đồ thị và ứng 
+dụng, Hệ khuyến nghị, Mô hình 
+tạo sinh, Công cụ triển khai và 
+vận hành ứng dụng AI, Phát triển 
+ứng dụng AI, Nhập môn robotics, 
+IoT và ứng dụng, Mô hình ngôn 
+ngữ lớn, TTNT cho tính toán biên 
+(Các môn: Mô hình học máy đồ 
+thị và ứng dụng, Hệ khuyến nghị, 
+Mô hình tạo sinh, Nhập môn 
+robotics, IoT và ứng dụng, TTNT 
+cho tính toán biên là các môn tự 
+chọn). 
+12 tín chỉ: Mô hình đồ thị xác 
+suất, Học tăng cường và lập kế 
+hoạch, Nhận thức, ngôn ngữ và tư 
+duy, Thiết kế phần cứng cho Học 
+sâu, Thực hành phát triển hệ thống 
+Trí tuệ nhân tạo, Ứng dụng Trí tuệ 
+nhân tạo cho Ngôn ngữ, Các hệ 
+thống dựa vào tri thức, Tương tác 
+người và Trí tuệ nhân tạo, Ứng 
+dụng Trí tuệ nhân tạo trong Y tế, 
+Tính toán khoa học thần kinh và ứng 
+dụng, Tin sinh học ứng dụng, Trí tuệ 
+nhân tạo cho Robot, Ứng dụng Trí 
+tuệ nhân tạo trong Kỹ thuật, Ứng 
+dụng Trí tuệ nhân tạo trong Môi 
+trường (trừ môn  thực hành phát 
+
+### Trang 36
+
+33 
+ 
+Chương trình Đại học ngành Trí Tuệ nhân tạo của PTIT Đại học ngành Trí Tuệ nhân tạo của HUST 
+triển hệ thống Trí tuệ nhân tạo, các 
+môn còn lại đều là môn tự chọn). 
+Các môn học tương đồng: Học tăng cường và ứng dụng (Học tăng 
+cường và lập kế hoạch), Truy xuất thông tin (Ứng dụng Trí tuệ nhân tạo 
+cho Ngôn ngữ), Mô hình học máy đồ thị và ứng dụng (Mô hình đồ thị 
+xác suất).  
+Nhận xét: Chương trình đào tạo của PTIT tập trung vào thực hành, 
+ứng dụng thực tế, và triển khai công nghệ TTNT trong các lĩnh vực kỹ 
+thuật, công nghiệp, và tự động hóa. Chương trình đào tạo của UET 
+hướng đến nghiên cứu chuyên sâu và ứng dụng đa ngành trong y tế, 
+sinh học, môi trường, và các lĩnh vực học thuật cao cấp khác. 
+Thực tập và tốt 
+nghiệp 
+Thực tập cơ sở 4 tín chỉ, 
+thực tập tốt nghiệp và tốt nghiệp 
+12 tín chỉ. 
+Thực tập doanh nghiệp 3 tín 
+chỉ và Khóa luận tốt nghiệp hoặc 
+học phần thay thế 7 tín chỉ. 
+ Nhận xét: Cả hai chương trình đều có phần thực tập và tốt nghiệp 
+nhằm giúp sinh viên ứng dụng kiến thức vào thực tế. Tuy nhiên, chương 
+trình đào tạo cảu PTIT tập trung nhiều hơn vào thực tập với 4 tín chỉ 
+thực tập cơ sở, 12 tín chỉ thực tập và tốt nghiệp, phù hợp với định hướng 
+thực hành chuyên sâu. Trong khi đó, chương trình đào tạo của UET có 
+thực tập doanh nghiệp ngắn hơn (3 tín chỉ) và tốt nghiệp 7 tín chỉ.  
+Nhận xét: 
+Nhìn chung, cả hai chương trình đào tạo ngành Trí tuệ nhân tạo tại PTIT và HUST 
+đều chú trọng vào nền tảng toán học, lập trình và các môn cơ bản như Giải tích, Đại số và 
+Xác suất thống kê. Tuy nhiên, có một số điểm khác biệt như sau: 
+- PTIT có thời gian đào tạo dài hơn (4,5 năm) và tổng số tín chỉ cao hơn, phù hợp với 
+sinh viên muốn học chuyên sâu và có thời gian thực tập kéo dài. 
+- PTIT tập trung nhiều vào kiến thức đại cương và cơ sở, giúp sinh viên sau khi tốt nghiệp 
+có thể đảm nhiệm nhiều vị trí công việc khác nhau. 
+- HUST không có học phần tự chọn. 
+- HUST chú trọng vào kiến thức chuyên ngành, nhằm đào tạo sinh viên có khả năng làm 
+việc chuyên sâu trong lĩnh vực trí tuệ nhân tạo. 
+2.4.3. So sánh với chương trình đào t ạo Đại học ngành Trí tu ệ nhân tạo của Đại 
+học Stanford 
+Chương trình Đại học ngành Trí tuệ nhân tạo của PTIT (HVCNBCVT) Đại học ngành Khoa học máy tính (định hướng Trí tuệ nhân tạo) của Đại học Stanford 
+Thời gian đào tạo 4,5 năm (tập trung), bao 
+gồm 1 kỳ thực tập chuyên sâu. 
+4 năm (tập trung) 
+Tổng số tín chỉ 154 tín chỉ, kết hợp giữa lý 
+thuyết và thực hành thực tế. 
+90 tín chỉ 
+
+### Trang 37
+
+34 
+ 
+Chương trình Đại học ngành Trí tuệ nhân tạo của PTIT (HVCNBCVT) Đại học ngành Khoa học máy tính (định hướng Trí tuệ nhân tạo) của Đại học Stanford 
+Khối kiến thức cơ 
+sở 
+Cơ sở toán -  12 tín chỉ: Đại 
+số, Giải tích 1, Giải tích 2, Xác 
+suất thống kê 
+Lập trình - 15 tín chỉ:  
+Phương pháp lập trình cơ bản, 
+Lập trình Python cơ bản, Lập 
+trình hướng đối tượng, Lập trình 
+web, Lập trình song song (trong 
+đó, môn Lập trình song song là 
+môn tự chọn). 
+Cơ sở KHMT - 33 tín chỉ : 
+Kiến trúc máy tính, Mạng máy 
+tính, Cơ sở dữ liệu, Python cho 
+khoa học dữ liệu, Xử lý ảnh, Các 
+hệ thống phân tán, Cấu trúc dữ 
+liệu và giải thuật, Nhập môn công 
+nghệ phần mềm, Toán rời rạc, Lý 
+thuyết đồ thị, Điện tử số (trong đó, 
+môn Các hệ thống phân tán là 
+môn tự chọn) 
+Cơ sở TTNT - 24 tín chỉ: 
+Học máy , Học sâu, Khai phá dữ 
+liệu lớn, Phân tích dữ liệu chuỗi 
+thời gian, Thị giác máy tính, Xử lý 
+ngôn ngữ tự nhiên, Trí tuệ nhân 
+tạo cho an toàn bảo mật thông tin, 
+Trí tuệ nhân tạo cơ bản, Đạo đức 
+và chính sách TTNT , Nền tảng 
+phát triển TTNT (trong đó , các 
+môn Khai phá dữ liệu và phân tích 
+chuỗi thời gian là các môn tự 
+chọn) 
+47 tín chỉ: Calculus, 
+Mathematical Foundations of 
+Computing,  Introduction to 
+Probability for Computer Scientists, 
+Mechanics, Electricity and 
+Magnetism, 
+1 môn tự chọn trong các môn 
+Khoa học tự nhiên, 
+Programming Abstractions, 
+An Intro to Making: What is EE?,  
+Information Science 
+Các môn tương đồng : Giải tích, Cơ sở toán học của Trí tuệ nhân 
+tạo, Vật lý ứng dụng, Xác suất thống kê ứng dụng, Phương pháp lập 
+trình cơ bản, (Python) cho khoa học dữ liệu 
+Khối kiến thức 
+chuyên ngành 
+27 tín chỉ:  Học tăng cường 
+và ứng dụng, Truy xuất thông tin, 
+Mô hình học máy đồ thị và ứng 
+dụng, Hệ khuyến nghị, Mô hình 
+tạo sinh, Công cụ triển khai và 
+vận hành ứng dụng AI, Phát triển 
+ứng dụng AI, Nhập môn robotics, 
+IoT và ứng dụng, Mô hình ngôn 
+ngữ lớn, TTNT cho tính toán biên 
+(Các môn: Mô hình học máy đồ 
+thị và ứng dụng, Hệ khuyến nghị, 
+43 tín chỉ: Computer 
+Organization and Systems, 
+Operating Systems Principles, 
+Design and Analysis of Algorithms, 
+AI: Principles and Techniques 
+Chọn 2 trong: AI methods, 
+Natural Language Processing, 
+Computer Vision, Robotics 
+Chọn 1 trong: AI methods, 
+Information and the Web, Ethics, 
+Robotic and Controls 
+
+### Trang 38
+
+35 
+ 
+Chương trình Đại học ngành Trí tuệ nhân tạo của PTIT (HVCNBCVT) Đại học ngành Khoa học máy tính (định hướng Trí tuệ nhân tạo) của Đại học Stanford 
+Mô hình tạo sinh, Nhập môn 
+robotics, IoT và ứng dụng, TTNT 
+cho tính toán biên là các môn tự 
+chọn). 
+3 môn tự chọn từ các môn CS 
+và 1 môn tự chọn bất kì 
+Các môn tương đồng: Xử lý ngôn ngữ tự nhiên, Thị giác máy tính, 
+Nhập môn robotics 
+Thực tập và tốt 
+nghiệp 
+Thực tập 6 tín chỉ và Đồ án 
+tốt nghiệp 6 tín chỉ. 
+Khóa luận tốt nghiệp 3 tín chỉ 
+Nhận xét: Về cơ bản, cả hai chương trình đều nhấn mạnh tầm quan trọng của các 
+nguyên tắc cốt lõi trong khoa học máy tính, như lập trình, cấu trúc dữ liệu và thuật toán, 
+đồng thời giới thiệu cho sinh viên các lĩnh vực chính của trí tuệ nhân tạo (AI) như học máy, 
+học sâu, xử lý ngôn ngữ tự nhiên và thị  giác máy tính. Cả hai chương trình đều bao gồm 
+các thành phần thực hành như dự án và thực tập, giúp sinh viên áp dụng kiến thức lý thuyết 
+vào các vấn đề thực tiễn. 
+Một số điểm khác biệt: 
+- Chương trình đào tạo TTNT của Stanford là một chuyên ngành hẹp trong 
+ngành khoa học máy tính rộng hơn, trong khi chương trình của PTIT là một chuyên 
+ngành TTNT riêng biệt. 
+- Chương trình của Stanford cung cấp mức độ chuyên sâu hơn về TTNT với 
+các yêu cầu theo lộ trình và các môn tự chọn tập trung vào các chủ đề tiên tiến. 
+Chương trình của PTIT mang đến một chương trình học rộng hơn, bao quát nhiều 
+lĩnh vực trong TTNT với mục tiêu thiên về ứng dụng TTNT nhiều hơn. 
+- Chương trình của Stanford chú trọng nhiều hơn vào nghiên cứu độc lập và 
+các dự án, thể hiện rõ qua yêu cầu về Dự án Cuối khóa (Senior Project), chương 
+trình của PTIT chú trọng hơn vào thực tập để sinh viên có kinh nghiệm thực tiễn 
+trong môi trường doanh nghiệp nhiều hơn. 
+Nhận xét: 
+- Chương trình đào tạo TTNT của Stanford hướng đến việc chuẩn bị cho sinh viên 
+các vai trò chuyên sâu hoặc định hướng nghiên cứu trong lĩnh vực AI. 
+- Chương trình của PTIT mang lại bộ kỹ năng linh hoạt hơn, tập trung vào ứng dụng 
+thực tiễn, phù hợp với nhiều vai trò trong ứng dụng AI 
+2.4.4. So sánh với chương trình đào t ạo Đại học ngành Trí tu ệ nhân tạo của Đại 
+học Carnegie Mellon University (CMU) 
+Chương trình Đại học ngành Trí tuệ nhân tạo, PTIT Đại học ngành Trí tuệ nhân tạo, CMU 
+Thời gian 4,5 năm 4 năm 
+Tổng tín chỉ 154  365-368 (units) 
+
+### Trang 39
+
+36 
+ 
+Chương trình Đại học ngành Trí tuệ nhân tạo, PTIT Đại học ngành Trí tuệ nhân tạo, CMU 
+Đại cương Cơ sở toán -  12 tín chỉ: Đại 
+số, Giải tích 1, Giải tích 2, Xác 
+suất thống kê 
+  
+Từ 71 đến 74 units cho các môn 
+Toán nền tảng cho TTNT và các môn bắt 
+buộc khác bao gồm: Cơ sở toán học cho 
+khoa học máy tính; Tích phân và xấp xỉ; 
+Ma trận và các phép biến đổi tuyến tính; 
+Phép tính trong ba chiều; Lý thuyết xác 
+suất cho các nhà khoa học máy tính 
+Các môn tương đồng: Đại số, Giải tích, Xác suất thống kê 
+Cơ sở KHMT 
+và Cơ sở TTNT 
+Cơ sở KHMT - 33 tín chỉ : 
+Kiến trúc máy tính, Mạng máy 
+tính, Cơ sở dữ liệu, Python cho 
+khoa học dữ liệu, Xử lý ảnh, Các 
+hệ thống phân tán, Cấu trúc dữ 
+liệu và giải thuật, Nhập môn công 
+nghệ phần mềm, Toán rời rạc, Lý 
+thuyết đồ thị, Điện tử số (trong đó, 
+môn Các hệ thống phân tán là 
+môn tự chọn) 
+Cơ sở TTNT - 24 tín chỉ: 
+Học máy , Học sâu, Khai phá dữ 
+liệu lớn, Phân tích dữ liệu chuỗi 
+thời gian, Thị giác máy tính, Xử lý 
+ngôn ngữ tự nhiên, Trí tuệ nhân 
+tạo cho an toàn bảo mật thông 
+tin, Trí tuệ nhân tạo cơ bản, Đạo 
+đức và chính sách TTNT , Nền 
+tảng phát triển TTNT (trong đó, 
+các môn Khai phá dữ liệu và 
+phân tích chuỗi thời gian là các 
+môn tự chọn) 
+75 units bao gồm các môn cơ sở 
+dùng để giới thiệu những kiến thức căn 
+bản về AI/ML như: Các khái niệm về Trí 
+tuệ nhân tạo, Trí tuệ nhân tạo: Biểu 
+diễn và giải quyết vấn đề, Giới thiệu về 
+Học máy; về Kỹ thuật và ngôn ngữ lập 
+trình như: Nguyên tắc lập trình hàm, 
+cấu trúc và thuật toán dữ liệu song 
+song và tuần tự; và về hệ thông máy 
+tính như: Giới thiệu về hệ thống máy 
+tính. 
+Các môn tương đồng: Kiến trúc máy tính, Phương pháp lập trình, Trí 
+tuệ nhân tạo cơ bản, Nhập môn học máy. 
+Chuyên ngành 27 tín chỉ: Học tăng cường 
+và ứng dụng, Truy xuất thông tin, 
+Mô hình học máy đồ thị và ứng 
+dụng, Hệ khuyến nghị, Mô hình 
+tạo sinh, Công cụ triển khai và 
+vận hành ứng dụng AI, Phát triển 
+ứng dụng AI, Nhập môn robotics, 
+IoT và ứng dụng, Mô hình ngôn 
+ngữ lớn, TTNT cho tính toán biên 
+(Các môn: Mô hình học máy đồ 
+thị và ứng dụng, Hệ khuyến nghị, 
+Mô hình tạo sinh, Nhập môn 
+robotics, IoT và ứng dụng, TTNT 
+cho tính toán biên là các môn tự 
+chọn). 
+219 units cho tổng bao gồm các 
+môn chuyên ngành thuộc ba bô môn (1) 
+Nhận thức và hành động với các môn 
+học như: Tính toán thần kinh; Đại lý tự 
+trị; Robot nhận thức: Tương lai của đồ 
+chơi robot; Kỹ thuật lập kế hoạch cho 
+Robotics; Phòng thí nghiệm thuật toán 
+Robot di động; Động học và động lực 
+học của robot; (2) Học máy với các 
+môn học như: Học tăng cường sâu & 
+Điều khiển, Học máy với bộ dữ liệu lớn, 
+Hệ thống học sâu: Thuật toán và triển 
+khai, Học sâu trung cấp, Học máy cho 
+dữ liệu có cấu trúc, Nền tảng học tập, 
+Lý thuyết trò chơi và Các kết nối của 
+
+### Trang 40
+
+37 
+ 
+Chương trình Đại học ngành Trí tuệ nhân tạo, PTIT Đại học ngành Trí tuệ nhân tạo, CMU 
+họ, Học máy để khai thác dựa trên văn 
+bản và đồ thị, Giới thiệu về Học sâu, 
+Các phương pháp phân tích dữ liệu 
+nâng cao; (3) Nhận thức và ngôn ngữ 
+với các môn học như: Xử lý ngôn ngữ 
+tự nhiên, Công cụ tìm kiếm, Xử lý giọng 
+nói, Nhận thức tính toán, Chụp ảnh tính 
+toán, Thị giác máy tính. 
+Các môn tương đồng: Xử lý ngôn ngữ tự nhiên, Nhập môn học sâu, 
+Học tăng cường, Nhập môn robotics 
+Thực tập 6 tín chỉ   
+Đồ án 6 tín chỉ 36 units cho Honors program 
+Nhận xét:  
+Chương trình đào tạo Cử nhân Trí tuệ nhân tạo của Carnegie Mellon University yêu cầu 
+sinh viên tham gia vào những khóa học về cơ sở toán và thống kê cho AI, nền tảng Khoa 
+học máy tính, nền tảng TTNT cùng những khối kiến thức liên ngành. Thời gian đào tạo là 
+4 năm so sánh với PTIT với thời gian đào tạo dài  hơn (4,5 năm). Sinh viên tốt nghiệp với 
+bằng cử nhân TTNT của CMU sẽ có kiến thức cùng những kĩ năng quan trọng trong lĩnh 
+vực khoa học máy tính; ngoài ra được bổ sung kiến thức chuyên môn TTNT qua 4 cluster 
+tự chọn về Robotics, Học máy, Nhận thức và ngôn ngữ, Tương tác người máy. Nhìn chung, 
+hai chương trình có sự tương đồng khi chú trọng vào những học phần nền tảng và mở rộng 
+kiến thức TTNT thông qua các môn học tự chọn. Tuy nhiên, chương trình của PTIT tập 
+trung vào TTNT ứng dụng, và dành nhiều thời gian hơn cho thực tập, dự án cuối khóa giúp 
+sinh viên có thêm kinh nghiệm thực tiễn từ trước khi ra trường. 
+2.5. Sự phù hợp của ngành Trí tuệ nhân tạo và trình độ đào tạo với định hướng, chiến 
+lược phát triển ngành học mới của Học viện Công nghệ Bưu chính Viễn thông 
+Trong những năm qua, Học viện Công nghệ Bưu chính Viễn thông (Học viện) đã đẩy 
+mạnh đa dạng hóa các ngành nghề đào tạo, đặc biệt trong lĩnh vực Công nghệ Thông tin 
+(CNTT), nhằm cung cấp nguồn nhân lực chất lượng cao cho ngành CNTT và xã hội. Việc 
+mở rộng c ác ngành đào tạo mới, như Truyền thông đa phương tiện (2015), Thương mại 
+điện tử (2018), Công nghệ tài chính (2021), Khoa học máy tính (2022), và các ngành gần 
+đây như CNTT ứng dụng, Kỹ thuật dữ liệu (2023), Thiết kế games (2024), đã giúp Học 
+viện đáp ứng tốt hơn nhu cầu của thị trường lao động trong thời đại công nghệ số. 
+Trong bối cảnh trí tuệ nhân tạo (AI) đóng vai trò ngày càng quan trọng trong việc 
+thúc đẩy công nghệ và phát triển kinh tế, ngành Trí tuệ nhân tạo của Học viện phù hợp với 
+định hướng và chiến lược phát triển ngành học mới. AI không chỉ hỗ trợ cải tiến quy trình 
+sản xuất, quản lý mà còn tạo ra những cơ hội mới trong các lĩnh vực như y tế, giáo dục, tài 
+chính, và giao thông. Việc thành lập Khoa Trí tuệ nhân tạo sẽ giúp Học viện trở thành một 
+trong những cơ sở tiên phong trong việc đào tạo nguồn nhân lực chất lượng cao, đáp ứng 
+các yêu cầu của xã hội và thị trường lao động trong tương lai. 
+
+### Trang 41
+
+38 
+ 
+Hơn nữa, Học viện cũng cam kết chuẩn bị đầy đủ các nguồn lực cho việc đào tạo, bao 
+gồm việc tăng cường đội ngũ giảng viên, phát triển học liệu, và đầu tư vào hệ thống cơ sở 
+vật chất như phòng thí nghiệm, thực hành, nhằm đảm bảo chất lượng đào tạo. 
+Chiến lược phát triển ngành Trí tuệ nhân tạo của Học viện hoàn toàn phù hợp với các 
+mục tiêu trong Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng AI đến năm 
+2030 theo Quyết định 127/QĐ-TTg ngày 26/1/2021. Mục tiêu đến năm 2030 là Việt Nam 
+sẽ vào nhóm 4 nước dẫn đầu ASEAN và nhóm 50 nước hàng đầu thế giới về AI, với ít nhất 
+một cơ sở nghiên cứu và đào tạo AI lọt vào top 20 trong khu vực ASEAN. Sự phát triển 
+của ngành AI tại Học viện sẽ đóng góp tích cực vào việc thực hiện các mục tiêu này. 
+Việc thành lập Khoa Trí tuệ nhân tạo còn phù hợp với Quyết định 845/QĐ-HV ngày 
+24/5/2024 của Giám đốc Học viện về việc xây dựng đề án thành lập khoa này, nhằm đảm 
+bảo Học viện đóng vai trò quan trọng trong việc thúc đẩy nghiên cứu, ứng dụng AI, và phát 
+triển nền kinh tế số, xã hội số của Việt Nam. 
+Bên cạnh các căn cứ về chính sách pháp lý thì cũng có những thuận lợi sau: 
+− Lãnh đạo Bộ Thông tin và Truyền thông quan tâm ủng hộ; 
+− Lãnh đạo Học viện quan tâm, tạo điều kiện và chỉ đạo sâu sát; 
+− Việc đào tạo ngành Khoa học máy tính nói riêng và công nghệ thông tin nói 
+chung đã phát triển ổn định với nguồn và chất lượng tuyển sinh tốt; 
+− Lực lượng giảng viên cơ hữu giảng dạy các môn học cơ sở và chuyên ngành được 
+đào tạo bài bản và có trình độ chuyên môn tốt; 
+− Nhu cầu của xã hội về tuyển dụng nhân lực thuộc lĩnh vực Trí tuệ nhân tạo đang 
+ngày càng phát triển về số lượng và chất lượng; 
+− Học viện đã có các chương trình đào tạo, liên kết với một số cơ sở đào tạo tại các 
+quốc gia có nền tảng Trí tuệ nhân tạo phát triển như Anh, Australia, Mỹ, 
+Canada... 
+− Học viện đã có sẵn một số phòng nghiên cứu và thí nghiệm trọng điểm chuyên 
+sâu về học máy và trí tuệ nhân tạo bao gồm: Lab Học máy và ứng dụng, Lab 
+NAVER, Lab Dữ liệu và Hệ thống thông minh. 
+Với những phân tích trên, có thể khẳng định việc mở ngành đào tạo Trí tuệ nhân 
+tạo (Artificial Intelligence) trình độ đại học là hoàn toàn phù hợp với nhu cầu đào tạo 
+nguồn nhân lực cho xã hội trong tác động của Cách mạng Công nghiệp 4.0 và hoàn 
+toàn phù h ợp với định hướng, chiến lược phát tri ển của Học viện Công ngh ệ Bưu 
+chính Viễn thông. 
+
+### Trang 42
+
+39 
+ 
+PHẦN 3. CHƯƠNG TRÌNH ĐÀO TẠO NGÀNH TRÍ TUỆ NHÂN TẠO 
+1. Tóm tắt quá trình triển khai xây dựng chương trình đào tạo 
+Dựa trên sự phát triển mạnh mẽ của lĩnh vực Trí tuệ nhân tạo (AI) và xu hướng ứng 
+dụng AI trong nhiều ngành nghề, Học viện Công nghệ Bưu chính Viễn thông đã triển khai 
+xây dựng chương trình đào tạo ngành AI với các bước cụ thể như sau: 
+Ngày 12/08/2024, Giám đ ốc Học viện đã ký Quy ết định số 1430/QĐ-HV về việc 
+thành lập Hội đồng xây d ựng Chương trình đào t ạo trình đ ộ đại học ngành Trí tu ệ nhân 
+tạo; Hội đồng bao gồm các chuyên gia trong lĩnh vực AI, công nghệ thông tin, và các nhà 
+quản lý giáo dục. 
+Hội đồng đã khẩn trương tiến hành thu thập ý kiến từ các đơn vị đào tạo, chuyên gia 
+trong lĩnh v ực AI, và các doanh nghi ệp hoạt động trong lĩnh v ực công ngh ệ thông tin, 
+truyền thông, và các ngành ứng dụng AI. Mục tiêu là xác định nhu cầu nhân lực, các kiến 
+thức, kỹ năng cần thiết mà sinh viên cần trang bị sau khi tốt nghiệp. Đồng thời, Hội đồng 
+cũng đã thực hiện khảo sát, đối sánh các chương trình đào tạo quốc tế và trong nước như: 
+• Đại học Stanford (Hoa Kỳ): Chương trình Cử nhân Khoa học Máy tính với chuyên 
+ngành AI. 
+• Đại học Carnegie Mellon (Hoa Kỳ): Chương trình đào tạo AI và Học máy. 
+• Đại học Quốc gia Hà Nội và Đại học Bách Khoa Hà Nội: Các chương trình đào 
+tạo liên quan đến AI và Khoa học Dữ liệu. 
+Từ các kết quả khảo sát, đối sánh, Hội đồng đã xây dựng và đề xuất mục tiêu, chuẩn 
+đầu ra và chương trình đào tạo cho ngành Trí tuệ nhân tạo của Học viện với tổng cộng 154 
+tín chỉ, bao gồm: 
+• Khối kiến thức giáo dục đại cương: 45 tín chỉ. 
+• Khối kiến thức giáo d ục chuyên nghi ệp: 97 tín chỉ (trong đó, ki ến thức cơ s ở 
+ngành là 61 tín chỉ và kiến thức chuyên ngành là 36 tín chỉ). 
+• Thực tập tốt nghiệp và khóa luận tốt nghiệp: 12 tín chỉ. 
+Chương trình được xây dựng với định hướng ứng dụng AI trong các lĩnh vực như xử 
+lý ngôn ngữ tự nhiên, học máy, thị giác máy tính, và phân tích dữ liệu lớn. 
+Nội dung chương trình đào t ạo đã được Học viện đã tổ chức nhiều buổi hội thảo và 
+xin ý kiến từ các chuyên gia trong và ngoài nước về mục tiêu đào tạo, chuẩn đầu ra, và nội 
+dung chương trình. Các ý kiến đóng góp được tổng hợp và điều chỉnh để đảm bảo chương 
+trình đào tạo bám sát thực tiễn và nhu cầu thị trường. 
+Ngày 22/1/2025, Giám đốc Học viện đã ký Quyết định số 173/QĐ-HV về việc thành 
+lập Hội đồng thẩm định Chương trình đào tạo ngành AI. Hội đồng bao gồm các chuyên gia 
+từ các trường đại học, doanh nghi ệp công ngh ệ, và đ ại diện từ Bộ Thông tin và Truy ền 
+thông. Ngày 7/2/2025, Hội đồng đã họp và thông qua chương trình đào tạo ngành AI. 
+
+### Trang 43
+
+40 
+ 
+Đặc điểm nổi bật của chương trình đào tạo Trí tuệ nhân tạo (AI) của Học viện: 
+• Tích hợp kiến thức liên ngành: Chương trình kết hợp giữa kiến thức cốt lõi về AI 
+và các ứng dụng thực tiễn trong các lĩnh vực như công nghệ thông tin, truyền thông, 
+và khoa học dữ liệu. 
+• Hàm lượng cao về thực hành: Sinh viên đư ợc trang bị kỹ năng thực hành thông 
+qua các học phần thực tế, dự án, và thực tập tại doanh nghiệp. 
+• Chuẩn đầu ra rõ ràng:  Sinh viên t ốt nghiệp có kh ả năng thiết kế, phát triển, và 
+triển khai các giải pháp AI trong các lĩnh vực khác nhau. 
+Định hướng phát triển cho chương trình đào tạo 
+Học viện tiếp tục cập nhật và điều chỉnh chương trình đào tạo dựa trên sự phát triển 
+của công nghệ AI và nhu cầu thị trường. Đồng thời, Học viện cũng hợp tác với các doanh 
+nghiệp công ngh ệ hàng đầu để tạo cơ h ội thực tập và vi ệc làm cho sinh viên sau khi t ốt 
+nghiệp. 
+Quá trình triển khai ngành Trí tuệ nhân tạo tại Học viện Công nghệ Bưu chính Viễn 
+thông đã được thực hiện bài bản, từ khâu nghiên cứu, xây dựng chương trình đến việc thẩm 
+định và triển khai đào tạo, nhằm đáp ứng nhu cầu nhân lực chất lượng cao trong lĩnh vực 
+AI tại Việt Nam. 
+2. Nội dung chương trình đào tạo trình độ đại học ngành Trí tuệ nhân tạo  
+(Nội dung chi tiết chương trình kèm theo)
+
+### Trang 44
+
+41 
+ 
+PHẦN 4. NĂNG LỰC CỦA CƠ SỞ ĐÀO TẠO 
+4.1 Đội ngũ gi ảng viên, nhà khoa học cơ h ữu, cán b ộ quản lý và th ực hiện chương 
+trình đào tạo ngành Báo chí 
+a) Đội ngũ giảng viên, nhà khoa học chủ trì chương trình 
+TT Họ và tên, Năm sinh 
+Chức 
+danh 
+khoa học, 
+Năm 
+công 
+nhận, bổ 
+nhiệm 
+Học vị, Cơ 
+sở đào tạo, 
+Năm tốt 
+nghiệp 
+Chuyên ngành 
+đào tạo 
+Thành tích 
+khoa học (số 
+lượng đề tài, 
+bài báo) 
+1. Phạm Văn Cường, 1976 PGS, 2016 Tiến sĩ, ANh, 2012 Khoa học máy tính 09 đề tài nghiên cứu khoa học và 85 bài báo 
+2. Trần Tiến Công, 1987  Tiến sĩ, Hàn Quốc, 2021 Khoa học và kỹ thuật máy tính 02 đề tài nghiên cứu khoa học và 42 bài báo 
+3. Nguyễn Trọng Trung Anh, 1991  Tiến sĩ, Singapore, 2018 Khoa học và kỹ thuật máy tính 04 bài báo 
+4. Nguyễn Kiều Linh, 1985  Tiến sĩ, Việt Nam, 2019 Toán học 15 bài báo 
+5. Vũ Hoài Nam, 1990  Tiến sĩ, Việt Nam, 2024 Khoa học máy tính 09 đề tài nghiên cứu khoa học và 26 bài báo 
+6. Đào Đức Tú, 1995  
+Tiến sĩ, 
+Singapore, 
+2023 
+Toán ứng dụng 09 bài báo 
+7. Đỗ Trung Tuấn, 1954 PGS, 2003 Tiến sĩ, Pháp, 1986 Công nghệ thông tin 07 bài báo 
+8. Phạm Đức Cường, 1997  Ths, Việt Nam, 2023 Hệ thống thông tin 03 bài báo 
+9. Nguyễn Đình Quân, 1995  Ths, Hoa Kỳ, 2023 Khoa học máy tính 26 bài báo 
+b) Đội ngũ giảng viên, nhà khoa học tham gia thực hiện chương trình 
+(Chi tiết tại Mẫu 1 và Mẫu 2 của Phụ lục kèm theo) 
+c) Đội ngũ cán bộ quản lý chuyên môn ngành Trí tuệ nhân tạo  (Khoa Trí tuệ 
+nhân tạo) 
+Số 
+TT 
+Họ và tên, ngày sinh, 
+chức vụ/vị trí việc làm 
+hiện tại 
+Trình độ đào 
+tạo, năm tốt 
+nghiệp 
+Ngành/Chuyên 
+ngành Ghi chú 
+1. Phạm Văn Cường , 1976, Trưởng khoa PGS, 2016 Khoa học máy tính  
+
+### Trang 45
+
+42 
+ 
+Số 
+TT 
+Họ và tên, ngày sinh, 
+chức vụ/vị trí việc làm 
+hiện tại 
+Trình độ đào 
+tạo, năm tốt 
+nghiệp 
+Ngành/Chuyên 
+ngành Ghi chú 
+2. Trần Tiến Công, 1987, Trưởng Bộ môn Học máy Tiến sĩ, 2021 Khoa học và kỹ thuật máy tính  
+d) Kế hoạch phát triển đội ngũ giảng viên, nhà khoa học cơ hữu có chuyên môn 
+phù hợp với ngành đào tạo Trí tuệ nhân tạo 
+Hiện nay, số lượng giảng viên cơ h ữu của Khoa Trí tuệ nhân tạo trực tiếp tham gia 
+giảng dạy và chịu trách nhiệm chính cho ngành Trí tuệ nhân tạo là 09 giảng viên trong đó 
+có 02 Phó Giáo sư, 05 Tiến sĩ và 02 Thạc sĩ với chuyên môn đảm bảo phù hợp với ngành 
+đào tạo. Bên cạnh đó, ngoài đội ngũ giảng viên của Khoa Trí tuệ nhân tạo,  đội ngũ giảng 
+viên cơ hữu của các Khoa liên quan như khoa Công ngh ệ thông tin, Khoa An toàn thông 
+tin cũng tham gia vào hoạt động giảng dạy của ngành Trí tuệ nhân tạo.  
+Để đáp ứng mục tiêu về quy mô tuyển sinh và quy mô đào tạo của ngành Trí tuệ nhân 
+tạo đã đặt ra thì mục tiêu quy mô đ ội ngũ giảng viên cơ hữu cho ngành sau 05 năm s ẽ là 
+khoảng 15 giảng viên trong đó có ít nhất 10 giảng viên có trình độ Tiến sĩ và sau 10 năm 
+sẽ là khoảng trên 20 giảng viên trong đó tỷ lệ giảng viên có trình đ ộ tiến sĩ đ ạt khoảng 
+70%. 
+4.2. Cơ sở vật chất phục vụ đào tạo 
+Trên tổng diện tích đất gần 13ha, Học viện đã đầu tư xây dựng với diện tích sàn xây 
+dựng phục vụ hoạt động đào tạo khoảng gần 61.000m2 với gần 200 phòng học, giảng đường 
+các loại (tương đương khoảng 53.000m2); gần 2.000m2 cho thư viện và trên 6.000m2 cho 
+các phòng nghiên cứu, thí nghiệm, thực hành. Do đó, điều kiện cơ cở vật chất của Học viện 
+hoàn toàn đảm bảo chất lượng cho việc triển khai thực hiện các chương trình liên kết đào 
+tạo quốc tế. Cụ thể: 
+STT Loại phòng Số 
+lượng 
+Diện tích sàn xây 
+dựng (m2) 
+ 
+1 
+Hội trường, giảng đường, phòng học các loại, 
+phòng đa năng, phòng làm việc của giáo sư, phó 
+giáo sư, giảng viên  
+ 
+180 37156.8 
+1.1 Hội trường, phòng học lớn trên 200 chỗ 5 6178 
+1.2 Phòng học từ 100 – 200 chỗ 16 7077 
+1.3 Phòng học từ 50-100 chỗ 64 8440 
+1.4 Số phòng học dưới 50 chỗ 38 3912 
+1.5 Số phòng học đa phương tiện 0 0 
+1.6 Phòng làm việc của GS, PGS, giảng viên cơ hữu 57 11550 
+2 Thư viện, trung tâm học liệu 1 445.2 
+3 Trung tâm nghiên cứu, phòng thí nghiệm, thực 
+hành, cơ sở thực hành, thực tập, luyện tập 50 9275 
+ Tổng 231 46.877 
+
+### Trang 46
+
+43 
+ 
+Ngoài ra, H ọc viện cũng đang tri ển khai v à dự kiến sẽ hoàn thành trong năm 2024 
+công trình Khu nhà hiệu bộ và ký túc xá tại địa chỉ Đường Đại Mỗ, Phường Đại Mỗ, Quận 
+Nam Từ Liên, Thành phố Hà Nội với tổng diện tích sàn xây dựng trên 16.000m2. Trong 
+đó, 01 khối nhà hiệu bộ, phòng học, giảng đường 13 tầng với diện tích sử dụng là 10.400m2 
+và 01 khối nhà ký túc xá 08 tầng với diện tích sử dụng là trên 6.000m2. 
+4.3. Thư viện 
+Diện tích thư viện: 500 m2 
+Diện tích phòng đọc: 200 m2 
+Số chỗ ngồi: 150 
+Số lượng máy tính phục vụ tra cứu: 12 
+Phần mềm quản lý thư viện: 02 
+Thư viện điện tử: 
+02, gồm có phần mềm Libol và phầm mềm 
+Dspace 
+Thư viện điện tử của Học viện sử dụng các phương ti ện điện tử trong thu thập, lưu 
+trữ, xử lý, tìm và ph ổ biến thông tin dư ới dạng số. Vốn tài liệu số có thể lưu trữ và truy 
+nhập tại chỗ hoặc từ xa qua mạng máy tính internet. Thư vi ện điện tử hỗ trợ người dùng 
+trong việc tra cứu tài li ệu; dựa vào chức năng tìm ki ếm trên máy có th ể khai thác nhanh 
+chóng và hiệu quả những tài liệu của thư viện hiện nay. 
+Thống kê về học liệu (kể cả e-book, cơ sở dữ liệu điện tử) trong thư viện: 
+TT Nhóm ngành đào tạo Sách Tạp chí E-book, CSDL điện tử 
+1. Nhóm các ngành công nghệ và 
+kỹ thuật 
+15.486 
+ 
+8 
+11 CSDL 2. Nhóm các ngành kinh doanh và quản lý  21.479  6 
+3. Nhóm các ngành truyền thông và đa phương 
+tiện 
+5.819 5 
+ Tổng: 42.784 19 11 
+(Danh mục sách, giáo trình, bài giảng chi tiết tại Mẫu 7 Phụ lục kèm theo) 
+4.4. Hoạt động nghiên cứu khoa học 
+Nội dung các đề tài NCKH, dự án, nhiệm vụ KHCN phải đạt điều kiện là bám sát với 
+định hướng phát triển KHCN của Học viện, phù hợp với mục tiêu trung hạn và gắn với sứ 
+mạng xây dựng Học viện thành một trung tâm mạnh hàng đầu Việt Nam và tương đương 
+khu vực về nghiên cứu khoa học và chuyển giao công nghệ (NCKH&CGCN), từng bước 
+làm chủ các công nghệ tiên tiến mang bản sắc riêng Việt Nam, đảm bảo giải quyết các vấn 
+đề KHCN trong các lĩnh vực công nghệ thông tin, điện tử, truyền thông, khoa học kinh tế, 
+quản trị kinh doanh và một số lĩnh vực nghiên cứu cơ bản. 
+Trong công tác nghiên c ứu và xuất bản các t ạp chí khoa h ọc, phần lớn các bài báo 
+của Học viện thuộc lĩnh vực công nghệ thông tin và truyền thông, phù hợp với định hướng 
+nghiên cứu và phát triển của Học viện. Một số đề tài chuyên ngành Viễn thông và CNTT 
+
+### Trang 47
+
+44 
+ 
+cấp Nhà nước, cấp Bộ (đề tài Nafosted) và đề tài cấp Học viện đã công bố được nhiều bài 
+báo trên các t ạp chí chuyên ngành uy tín trong nư ớc và qu ốc tế. Chất lượng các b ài báo 
+được nâng cao thông qua việc số lượng bài báo quốc tế thuộc hệ thống tạp chí ISI, Scopus 
+đã tăng lên hàng năm. 
+Số lượng bài báo quốc tế đã công bố 
+STT Năm Tổng số bài báo Bài báo quốc tế Bài báo thuộc tạp chí ISI Bài báo Q1 
+1 2019 316 174 65 16 
+2 2020 277 137 91 27 
+3 2021 353 151 90 33 
+4 2022 366 181 93 29 
+5 2023 382 192 98 26 
+(Danh mục các đề tài nghiên cứu khoa học, các công trình công bố của giảng viên và các 
+nhà khoa học liên quan đến lĩnh vực Trí tuệ nhân tạo chi tiết tại Mẫu 4 và Mẫu 5 Phụ lục 
+kèm theo) 
+Đối với vấn đề đăng ký sở hữu trí tuệ các sản phẩm nghiên cứu, Học viện đã có 3 sản 
+phẩm KHCN đã đư ợc các cơ quan qu ản lý v ề sở hữu trí tu ệ ở trong và ngoài nư ớc cấp 
+Chứng nhận Bản quyền, cụ thể là sản phẩm “Phương pháp và thi ết bị chia sẻ nguồn tài 
+nguyên” đư ợc Cơ quan University of Ulsan Foundation for Industry Cooperation Hàn 
+Quốc cấp bằng sáng chế năm 2012, sản phẩm “Hệ thống và giải pháp điều khiển công suất 
+phân tán cho các hệ thống thông tin” được Cơ quan Bằng sáng chế và Bản quyền Thương 
+hiệu Mỹ cấp năm 2013, 2014 và s ản phẩm “Phần mềm hệ thống đo ki ểm, đánh giá ch ất 
+lượng dịch vụ viễn thông TMNS” được Cục Bản quyền tác giả cấp Giấy chứng nhận đăng 
+ký quyền tác giả năm 2016. 
+Bên cạnh nhiệm vụ cấp nhà nước nói trên trong lĩnh v ực đào tạo, Học viện cũng đã 
+xây dựng được hình ảnh và uy tín trong lĩnh v ực nghiên c ứu khoa h ọc đối với lĩnh v ực 
+nghiên cứu công nghệ thông tin. Hàng năm, Học viện có  trên 100 đề tài nghiên cứu khoa 
+học được thực hiện. Nhiều bài báo khoa học được trình bày tại các Hội thảo quốc gia/quốc 
+tế và đăng trên các tạp chí quốc gia/quốc tế uy tín liên quan đến lĩnh vực điện tử viễn thông, 
+công nghệ thông tin. Học viện cũng thường xuyên đăng ký tham gia tuyển chọn thực hiện 
+các đề tài khoa học và công nghệ cấp Bộ, cấp Nhà nước. Một số lĩnh vực nghiên cứu điển 
+hình của Học viện tại các chương trình, đ ề tài đã được Nhà nước, Bộ Khoa học & Công 
+nghệ, Viện Hàn lâm Khoa h ọc và Công nghệ Việt Nam, Bộ Công Thương, Bộ Thông tin 
+& Truyền thông đánh giá cao như: 
+➢ Chương trình Khoa học và Công nghệ vũ trụ 
+➢ Nghiên cứu các công ngh ệ và phát tri ển sản phẩm công ngh ệ thông tin ph ục vụ 
+Chính phủ điện tử (KC.01) 
+
+### Trang 48
+
+45 
+ 
+➢ Phát triển một số ngành công nghiêp công nghệ cao - Bộ Công thương 
+➢ Chương trình KC4.0; 
+➢ Chương trình Khởi nghiệp đổi mới sáng tạo (Chương trình 844) 
+➢ Các đề tài phục vụ các địa phương: Hà Nội, Đắk Lắk, Quảng Nam,...  
+➢ Các đề tài NAFOSTED; VINIF 
+4.5. Hoạt động hợp tác quốc tế và hợp tác với doanh nghiệp 
+Nhận thức được vai trò quan trọng của hoạt động hợp tác quốc tế, ngay từ khi thành 
+lập Học viện đã quan tâm và chỉ đạo tăng cường hợp tác quốc tế trong lĩnh vực đào tạo và 
+nghiên cứu. Trong những năm vừa qua, hoạt động hợp tác quốc tế của Học viện có chuyển 
+biến mạnh mẽ, sâu rộng cả về chất và lượng. Học viện coi đây là một trong những nhiệm 
+vụ trọng tâm hàng đầu để hỗ trợ tích cực cho các hoạt động nghiên cứu và đào tạo của Học 
+viện, huy động thêm các nguồn lực cho sự phát triển của Học viện và tạo cơ hội nâng cao 
+trình độ chuyên môn cho đội ngũ cán bộ, nghiên cứu viên, giảng viên, sinh viên Học viện. 
+Đồng thời, các hoạt động hợp tác với các đối tác cũng hỗ trợ Học viện trong việc cập nhật 
+đổi mới chương trình đào tạo để tiến kịp với các chương trình đào tạo tiên tiến, ứng dụng 
+phương pháp đào tạo và công nghệ ICT trong đào tạo; góp phần cải thiện đáng kể hệ thống 
+cơ sở vật chất của Học viện. 
+Đến nay, Học viện đã có quan h ệ hợp tác với hơn 30 cơ s ở nghiên cứu, trường đại 
+học và các doanh nghiệp thuộc hơn 15 quốc gia và vùng lãnh thổ trên thế giới và triển khai 
+thành công các chương trình, dự án hợp tác trong nghiên cứu và đào tạo cũng như các hoạt 
+động khác như các hoạt động hội nghị, hội thảo quốc tế, các hoạt động trao đổi học thuật, 
+các hoạt động nâng cao năng l ực hợp tác, các ho ạt động giao lưu, trao đ ổi văn hóa, phát 
+triển mạng lưới đối tác, v.v…. 
+Đối với các ho ạt động hợp tác v ề đào tạo, Học viện đã ký k ết và tri ển khai nhi ều 
+chương trình liên k ết quốc tế ở bậc đại học và sau đại học với các trường đại học uy tín 
+trong khu vực và quốc tế, trong đó có c ác chương trình h ợp tác tiêu bi ểu trong thời gian 
+gần đây, bao gồm: 
+➢ Các Chương trình hợp tác giữa Học viện Công nghệ Bưu chính Viễn thông và Đại 
+học La Trobe (Australia); 
+➢ Chương trình trao đổi học viên cao học giữa Học viện Công nghệ Bưu chính Viễn 
+thông và Viện Khoa học và Công nghệ tiên tiến (Nhật Bản); 
+➢ Chương trình trao đổi giảng viên, sinh viên giữa Học viện Công nghệ Bưu chính 
+Viễn thông và Đại học Khoa học và Công nghệ Lille 1 (Pháp); 
+➢ Chương trình trao đổi học viên cao học giữa Học viện Công nghệ Bưu chính Viễn 
+thông và Đại học Aizu (Nhật Bản); 
+➢ Chương trình hợp tác trong đào tạo về ngành công nghệ tài chính giữa Học viện 
+Công nghệ Bưu chính Viễn thông và Đại học Huddersfield (Vương quốc Anh); 
+➢ Chương trình trao đổi học thuật và hợp tác giữa Học viện Công nghệ Bưu chính 
+Viễn thông và Học viện Công nghệ Shibaura (Nhật Bản); 
+
+### Trang 49
+
+46 
+ 
+➢ Chương trình trao đ ổi sinh viên v ới trường Đại học Công nghệ Auckland (New 
+Zealand); 
+➢ Chương trình trao đổi sinh viên với trường Đại học Middlesex (Vương quốc Anh); 
+➢ Chương trình đào tạo Thạc sĩ Công nghệ thông tin theo phương thức phối hợp (Đề 
+án 599) giữa Học viện và trường Đại học Công nghệ Sydney (Australia); 
+➢ Chương trình đào tạo liên kết quốc tế bậc đại học (hình thức 2+2) với Trường đại 
+học Jeonju (Hàn Quốc). 
+Việc phát triển mạng lưới đối tác của Học viện được chú trọng mở rộng thông qua 
+việc tích cực tham gia các dự án quốc tế do Cộng đồng châu Âu tài trợ nhằm huy động các 
+nguồn viện trợ từ nước ngoài Dự án Nâng cao năng l ực tiếp cận thị trường lao động cho 
+sinh viên Việt Nam (dự án MOTIVE, dự án VOYAGE), Dự án Nâng cao năng lực HTQT 
+của các trường ĐH khu v ực ASEAN (dự án MARCO POLO), D ự án PROEUHE Quảng 
+bá Văn hóa Châu Âu và hệ thống giáo dục đại học Châu Âu cho sinh viên Vi ệt Nam (Dự 
+án PROEUHE). Ngoài các hoạt động hợp tác với các trường đại học và các cơ sở nghiên 
+cứu, giáo dục và đào tạo có uy tín trên th ế giới, Học viện cũng mở rộng quan hệ hợp tác 
+với các doanh nghiệp dưới hình thức các chương trình, dự án tài trợ cho hoạt động đào tạo, 
+nghiên cứu và cấp học bổng cho sinh viên H ọc viện với sự hỗ trợ của các doanh nghi ệp, 
+tập đoàn công nghê lớn như Qualcomm, NAVER, Samsung, Co- Well, Motorola TEMIX... 
+Trong hoạt động nghiên cứu khoa học, Học viện có đội ngũ nhà khoa học và cán bộ 
+làm hợp tác quốc tế có chuyên môn và kinh nghi ệm trong việc tổ chức các hội nghị, hội 
+thảo khoa học quốc tế, được đối tác đánh giá cao và tin tưởng lựa chọn đồng chủ trì tổ 
+chức một số hội nghị khoa học quốc tế như Hội nghị quốc tế về các công ngh ệ tiên tiến 
+trong truyền thông ATC; Hội nghị quốc tế về CNTT xanh và con người ICGHIT; Hội thảo 
+chuyên gia trong lĩnh vực Ăng ten và Truyền sóng; Hội nghị quốc tế NAFOSTED- NICS 
+về khoa học máy tính và Di ễn đàn công nghệ thông tin ASEAN-IVO phối hợp với Viện 
+CNTT&TT Quốc gia Nhật Bản…Cùng với việc phát triển các chương trình hợp tác trong 
+lĩnh vực đào tạo, Học viện còn kết nối và triển khai các hoạt động hợp tác trong nghiên 
+cứu với nhiều đối tác uy tín với các chương trình, hoạt động như các đề tài, dự án nghiên 
+cứu chung, đặc biệt là trong lĩnh vực CNTT&TT . Bên cạnh các đề tài được Ngân sách nhà 
+nước tài trợ và có sự tham gia phối hợp của các trường đại học quốc tế, Học viện còn tham 
+gia các đề tài, dự án nghiên cứu chung do các t ổ chức đa phương, các doanh nghi ệp, như 
+Viện Công ngh ệ thông tin và Truy ền thông Qu ốc gia (Nh ật Bản), Tập đoàn công ngh ệ 
+NAVER (Hàn Quốc), Tập đoàn công nghệ Qualcomm (Hoa Kỳ)… tài trợ toàn bộ các chi 
+phí nghiên cứu. Các dự án đều có kết quả ứng dụng cao trong th ực tiễn và góp phần tích 
+cực cho việc nâng cao uy tín và năng lực đào tạo, nghiên cứu và hợp tác của Học viện. Các 
+chương trình, dự án, đề tài hợp tác với quốc tế và doanh nghiệp trong 05 năm gần đây được 
+tóm tắt tại Bảng dưới đây: 
+Các chương trình, dự án, đề tài hợp tác trong 5 năm gần đây 
+
+### Trang 50
+
+47 
+ 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+1 Chương trình Ươm mầm Tài năng Samsung STP Công ty Samsung Electronics Việt Nam 2015-2025 
+2 Dự án “Ứng dụng thông minh sử 
+dụng mô hình AI nhận dạng hành 
+động, giúp người câm điếc ở Việt 
+Nam học ngôn ngữ ký hiệu và giao 
+tiếp với người bình thường” 
+Công ty Samsung 
+Electronics Việt Nam 
+2023-2025 
+3 Chương trình Hợp tác Công nghệ thông tin Việt – Hàn NIA (Hàn Quốc) 2023-2026 
+4 Dự án triển khai “Trung tâm Công nghệ Chiến lược Úc – Việt” Đại học Công nghệ Sydney (Úc) 2025 
+5 
+Dự án “Nghiên cứu và phát triển 
+màng lọc không khí độc hại từ vật 
+liệu cellulose” 
+Viện Nghiên cứu Khoa 
+học Kỹ thuật Hàn Quốc 
+(KIST) 
+2025 
+6 
+Dự án “Nghiên cứu phát triển hệ 
+thông phần mềm thông minh, ứng 
+dụng công nghệ trí tuệ nhân tạo 
+nhận dạng hành động, giúp người 
+câm điếc tự học ngôn ngữ cử chỉ” 
+theo chương trình APT 2023 
+Tổ chức KDDI-
+Foundation 
+2023 
+7 
+Dự án “Nghiên cứu xây dựng hệ 
+thống phát hiện, cảnh báo đường 
+sạt lở sau lũ sử dụng máy bay 
+không người lái kết hợp công nghệ 
+GPS, bản đồ số và xử lý ảnh” theo 
+chương trình APT 2020 
+Tổ chức KDDI-
+Foundation 
+2020 
+8 
+Dự án thành lập Trung tâm đào 
+tạo Công nghệ thông tin chất lượng 
+cao trong khuôn khổ hợp tác 
+ASEAN-Ấn Độ 
+Trung tâm Phát triển 
+Máy tính cấp cao (C-
+DAC), Ấn Độ 2017-2026 
+9 
+Dự án VLIR-UOS SI - Chuyển đổi số 
+bao trùm 
+VLIR-UOS (Bỉ) 
+2023-2025 
+10 
+Dự án MOTIVE-Theo dõi tình trạng 
+việc làm sinh viên tốt nghiệp tại Việt 
+Nam 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 2020-2023 
+
+### Trang 51
+
+48 
+ 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+11 
+Dự án DigiEU – Chiến lược số Châu 
+Âu và tác động của nó đến nghị trình 
+Chuyển Đổi số ở Việt Nam 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 2022-2024 
+12 
+Dự án ProEUHE “Quảng bá Liên 
+minh châu Âu (EU) và hệ thống giáo 
+dục đại học của Châu Âu tại các 
+trường đại học Việt Nam thông qua 
+công nghệ truyền thông đa phương 
+tiện 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 
+2021-2024 
+13 
+Dự án “Nâng cao năng lực hợp 
+tác quốc tế trong đào tạo và nghiên 
+cứu các trường đại học khu vực 
+ASEAN” (MARCO POLO) 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 2017-2020 
+14 
+Chương trình trao đổi sinh viên và 
+nghiên cứu sinh với ĐH Palermo 
+theo diện học bổng Erasmus+ 
+ĐH Palermo (Italia) 2019-2020 
+15 
+Chương trình trao đổi cán bộ, giảng 
+viên với ĐH Seville theo chương 
+trình Eramus+ 
+ĐH Seville (Tây Ban 
+Nha) 2022-2023 
+16 
+Nâng cao khả năng làm việc cho 
+sinh viên các trường Đại học tại Việt 
+Nam (Dự án VOYAGE) 
+The Erasmus+ 
+programme of the 
+European Union 
+2016-2019 
+17 
+Đề tài “Hệ thống IoT nông nghiệp 
+thông minh dựa trên điện toán biên” 
+Tổ chức ASEAN – IVO 
+và Viện Công nghệ 
+thông tin và Truyền 
+thông Quốc gia Nhật 
+Bản (NICT) 
+2022-2025 
+18 
+Dự án nghiên cứu “Xử lý ảnh và 
+truyền thông cự li gần” 
+Tổ chức ASEAN – IVO 
+và Viện Công nghệ 
+thông tin và Truyền 
+thông Quốc gia Nhật 
+Bản (NICT) 
+2016-2019 
+19 
+Dự án nghiên cứu “Xây dựng thiết 
+bị quản lý nguồn nước cho 
+nuôi trồng thủy sản tại ĐBSCL” 
+Tổ chức ASEAN – IVO 
+và Viện Công nghệ 
+thông tin và Truyền 
+thông Quốc gia Nhật 
+Bản (NICT) 
+2019-2021 
+
+### Trang 52
+
+49 
+ 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+20 
+Dự án nghiên cứu “Xây dựng 
+thiết bị phát hiện các chất độc hại 
+trong thực phẩm và thức ăn chăn 
+nuôi” 
+Tổ chức ASEAN – IVO 
+và Viện Công nghệ 
+thông tin và Truyền 
+thông Quốc gia Nhật 
+Bản (NICT) 
+2019-2021 
+1.  Dự án “Bảo mật thông tin cho 
+mạng IoT” 
+Tổ chức ASEAN – IVO 
+và Viện Công nghệ 
+thông tin và Truyền 
+thông Quốc gia Nhật 
+Bản (NICT) 
+2017-2019 
+21 
+Dự án “Dịch vụ thông tin cho quản 
+lý trang trại cà phê bền vững” 
+Văn phòng Vũ trụ Hà 
+Lan (NSO) 2016-2019 
+22 
+Đề tài “Nghiên cứu hệ thống UAV 
+phát hiện hư hỏng trên đường sau 
+lũ sử dụng GPS, bản đồ số và thị 
+giác máy tính bằng công nghệ học 
+sâu” 
+Tập đoàn Qualcomm 
+(Hoa Kỳ) 
+2021-2022 
+23 
+Đề tài “Phát triển Kiến trúc Internet 
+vạn vật dựa trên 5G hiệu suất cao, 
+độ trễ thấp và an toàn” 
+Tập đoàn Qualcomm 
+(Hoa Kỳ) 2022-2023 
+24 Đề tài “Điện toán biên cho Internet vạn vật” Tập đoàn Qualcomm (Hoa Kỳ) 2022-2023 
+25 
+Đề tài “Phát triển các giải pháp 
+chăm sóc sức khỏe kỹ thuật số 
+dựa trên Internet vạn vật y tế 
+(IoMT) và trí tuệ nhân tạo (AI) 
+Tập đoàn Qualcomm 
+(Hoa Kỳ) 2022-2023 
+26 Đề tài “Phân đoạn đối tượng trong môi trường trong nhà” Tập đoàn NAVER (Hàn Quốc) 2021-2022 
+27 
+Đề tài “Phân đoạn đối tượng trong 
+ảnh chân dung cho ứng dụng học 
+online” 
+Tập đoàn NAVER 
+(Hàn Quốc) 2021-2022 
+28 
+Đề tài “Nghiên cứu và xây dựng 
+mô hình học máy dự đoán tham số 
+lượng tử dựa trên nội dung và chất 
+lượng ảnh cho bộ mã hóa video 
+H.264” 
+Tập đoàn NAVER 
+(Hàn Quốc) 
+2021-2022 
+
+### Trang 53
+
+50 
+ 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+29 
+Đề tài “Nghiên cứu phương pháp 
+nâng cao chất lượng trải nghiệm 
+trong hệ thống truyền thông video 
+thời gian thực có tốc độ bit thay 
+đổi” 
+Tập đoàn NAVER 
+(Hàn Quốc) 
+ 2021-2022 
+30 
+Đề tài “Nâng cao chất lượng hình 
+ảnh trong hệ thống truyền Video thời 
+gian thực” 
+Chương trình hợp tác 
+nghiên cứu giữa PTIT 
+và Tập đoàn Naver – 
+(Hàn Quốc) 
+2021-2022 
+31 
+Đề tài “Xây dựng kho ngữ liệu 
+tiếng Việt” 
+Tập đoàn NAVER 
+(Hàn Quốc) 2021-2022 
+32 
+Chương trình thực tập tại Italia Công ty Temix, ĐH 
+Catania (Italia) 2024-2025 
+33 
+Chương trình thực tập tốt nghiệp 
+tại Đức 
+Tập đoàn Briese 
+(Đức) 2024 
+34 
+Chương trình Hạt giống cho 
+Tương lai 
+Huawei (Trung Quốc) 
+2023-2025 
+35 
+Chương trình Global Hackathon Đại học Chung-Ang 
+(Hàn Quốc) 2023-2025 
+36 
+Chương trình học bổng Khoa học 
+Sakura 
+Đại học Gunma (Nhật 
+Bản) 2022-2025 
+37 
+Chương trình dự án toàn cầu 
+gPBL 
+Học viện Công 
+nghệ Shibaura Nhật 
+Bản và Tập đoàn CO-
+WELL 
+2017-2020 
+38 Chương trình tài trợ cho hoạt động nghiên cứu của Motorola Quỹ Motorola Solutions 2016-2020 
+Các chương trình hợp tác với doanh nghiệp trong lĩnh vực công nghệ thông tin và 
+trí tuệ nhân tạo 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+1 Chương trình Ươm mầm Tài năng Samsung STP Công ty Samsung Electronics Việt Nam 2015-2025 
+
+### Trang 54
+
+51 
+ 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+2 Chương trình Hợp tác Công nghệ thông tin Việt – Hàn NIA (Hàn Quốc) 2023-2026 
+3 Dự án triển khai “Trung tâm Công nghệ Chiến lược Úc – Việt” Đại học Công nghệ Sydney (Úc) 2025 
+4 
+Dự án thành lập Trung tâm đào 
+tạo Công nghệ thông tin chất lượng 
+cao trong khuôn khổ hợp tác 
+ASEAN-Ấn Độ 
+Trung tâm Phát triển 
+Máy tính cấp cao (C-DAC), 
+Ấn Độ 2017-2026 
+5 
+Dự án VLIR-UOS SI - Chuyển đổi số 
+bao trùm 
+VLIR-UOS (Bỉ) 
+2023-2025 
+6 
+Dự án MOTIVE-Theo dõi tình trạng 
+việc làm sinh viên tốt nghiệp tại Việt 
+Nam 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 2020-2023 
+7 
+Dự án DigiEU – Chiến lược số Châu 
+Âu và tác động của nó đến nghị trình 
+Chuyển Đổi số ở Việt Nam 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 2022-2024 
+8 
+Dự án ProEUHE “Quảng bá Liên 
+minh châu Âu (EU) và hệ thống giáo 
+dục đại học của Châu Âu tại các 
+trường đại học Việt Nam thông qua 
+công nghệ truyền thông đa phương 
+tiện 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 
+2021-2024 
+9 
+Dự án “Nâng cao năng lực hợp 
+tác quốc tế trong đào tạo và nghiên 
+cứu các trường đại học khu vực 
+ASEAN” (MARCO POLO) 
+Chương trình Erasmus+ 
+của Liên minh Châu Âu 2017-2020 
+10 
+Chương trình trao đổi sinh viên và 
+nghiên cứu sinh với ĐH Palermo 
+theo diện học bổng Erasmus+ 
+ĐH Palermo (Italia) 2019-2020 
+11 
+Chương trình trao đổi cán bộ, giảng 
+viên với ĐH Seville theo chương 
+trình Eramus+ 
+ĐH Seville (Tây Ban Nha) 2022-2023 
+
+### Trang 55
+
+52 
+ 
+TT Tên chương trình, đề tài Cơ quan, tổ chức, nước hợp tác Năm bắt đầu/ Năm kết thúc 
+12 
+Nâng cao khả năng làm việc cho 
+sinh viên các trường Đại học tại Việt 
+Nam (Dự án VOYAGE) 
+The Erasmus+ programme 
+of the European Union 2016-2019 
+13 
+Chương trình thực tập tại Italia Công ty Temix, ĐH Catania 
+(Italia) 2024-2025 
+14 
+Chương trình thực tập tốt nghiệp 
+tại Đức Tập đoàn Briese (Đức) 2024 
+15 
+Chương trình Hạt giống cho 
+Tương lai Huawei (Trung Quốc) 2023-2025 
+16 
+Chương trình Global Hackathon Đại học Chung-Ang (Hàn 
+Quốc) 2023-2025 
+17 
+Chương trình học bổng Khoa học 
+Sakura 
+Đại học Gunma (Nhật 
+Bản) 2022-2025 
+18 
+Chương trình dự án toàn cầu 
+gPBL 
+Học viện Công 
+nghệ Shibaura Nhật Bản 
+và Tập đoàn CO-WELL 
+2017-2020 
+Trên đây là nh ững điều kiện thuận lợi cho công tác h ợp tác quốc tế, hợp tác doanh 
+nghiệp và t ổ chức các ho ạt động chuyên môn, phong trào và ngo ại khóa cho sinh viên 
+ngành Trí tuệ nhân tạo nếu Học viện phê duyệt chủ trương mở ngành này.
+
+### Trang 56
+
+53 
+ 
+PHẦN 5. PHƯƠNG ÁN PHÒNG NGỪA RỦI RO 
+5.1. Hệ thống đảm bảo chất lượng 
+Mục tiêu của hệ thống đảm bảo chất lượng là duy trì và chuẩn hóa chất lượng đào tạo 
+cũng như cấp bằng tốt nghiệp ở trình độ đại học của chương trình. Hệ thống đảm bảo chất 
+lượng của Chương trình được xây d ựng và quản lý bởi các đơn vị chức năng v à các khoa 
+đào tạo của Học viện. Các nội dung, tiêu chuẩn và hình thức đảm bảo chất lượng đều được 
+tuân thủ theo các quy định về đảm bảo chất lượng c ủa Bộ Giáo dục và Đào tạo. Bên cạnh 
+đó, hệ thống đảm bảo chất lượng c ủa Học viện cũng liên tục được điều chỉnh phù hợp và 
+chuẩn hoá theo tiêu chuẩn quản lý chất lượng quốc tế nhằm nâng cao và chuẩn hóa chất 
+lượng đào tạo.  
+5.2. Tình huống rủi ro và giải pháp xử lý 
+5.2.1. Các rủi ro có thể xảy ra trong quá trình thực hiện Chương trình 
+Các rủi ro có thể xảy ra trong quá trình thực hiện chương trình đào tạo ngành Trí tuệ 
+nhân tạo bao gồm: 
+- Bất khả kháng (chính sách, thiên tai, dịch hoạ, tai nạn…); 
+- Quy mô đăng ký xét tuyển không đảm bảo kết quả và chất lượng tuyển sinh; 
+- Quy mô tuyển sinh không đạt chỉ tiêu dẫn đến suy giảm quy mô người học; 
+- Chất lượng đào tạo không đáp ứng được nhu cầu c ủa người học và yêu cầu c ủa đơn 
+vị sử dụng lao động dẫn đến nguy cơ suy giảm quy mô tuyển sinh và đào tạo; 
+- Tình hình phát triển kinh tế, tốc độ phát triển và thay đổi của công nghệ dẫn đến thay 
+đổi ngành nghề đào tạo và sự sụt giảm nhu cầu nguồn nhân lực trong lĩnh vực truyền 
+thông và Trí tuệ nhân tạo của thị trường lao động; 
+- Cơ sở đào tạo vi phạm nghiêm trọng các quy định quản lý của Nhà nước dẫn đến bắt 
+buộc phải dừng tuyển sinh và đào tạo. 
+5.2.2. Các giải pháp xử lý 
+Một số giải pháp đề phòng và xử lý trong tình huống rủi ro bao gồm: 
+1) Thường xuyên duy trì hệ thống đảm bảo chất lượng nhằm đảm bảo công tác tổ chức 
+đào tạo được vận hành theo đúng quy trình và tiêu chuẩn. Qua đó, không những đảm 
+bảo được chất lượng đào tạo mà ngày càng nâng cao chất lượng đào tạo đáp ứng yêu 
+cầu của các đơn vị sử dụng lao động và của thị trường lao động. 
+2) Phát huy thế mạnh v à điểm khác biệt gắn kết đ ào tạo – nghiên cứu - sản xuất kinh 
+doanh của Học viện không chỉ trong hoạt động tổ chức đ ào tạo (tổ chức giảng dạy) 
+mà ngay từ quá trình xây dựng và cải tiến nội dung chương trình đào tạo cho đến giai 
+đoạn thực tập, tốt nghiệp v à tư vấn hỗ trợ việc l àm cho sinh viên. Qua đó, đảm bảo 
+nội dung chương trình đào tạo của Học viện theo kịp những vấn đề thực tiễn từ doanh 
+nghiệp và sẵn sàng bắt kịp với xu thế phát triển của công nghệ và môi trường số.  
+
+### Trang 57
+
+54 
+ 
+3) Học viện đảm bảo thực hiện rà soát, đổi mới và cải tiến mục tiêu, chuẩn đầu ra và nội 
+dung chương trình đào tạo 02 năm/lần theo đúng quy định c ủa Bộ Giáo dục và Đ ào 
+tạo nhằm đảm bảo chương trình đ ào tạo thường xuyên được cập nhật cũng như sẵn 
+sàng điều chỉnh phù hợp với th ực tiễn. Việc n ày đảm bảo tính ổn định và bền vững 
+của chương trình và ngành đào tạo; góp phần giảm thiểu tối đa rủi ro cho ngành đào 
+tạo mới. 
+4) Tăng cường công tác truyền thông toàn diện về chất lượng đ ào tạo, về ngành nghề 
+đào tạo của Học viện nói chung và truyền thông tuy ển sinh cho ngành Trí tuệ nhân 
+tạo nói riêng nhằm đảo bảo nguồn tuy ển sinh cho chương trình. Bên cạnh đó, Học 
+viện cũng không ngừng đổi mới và cải tiến công tác tuyển sinh nhằm góp phần nâng 
+cao chất lượng và hiệu quả c ủa công tác tuy ển sinh và chất lượng sinh viên trúng 
+tuyển đào tạo của chương trình.  
+5) Trong trường hợp vì lý do bất khả kháng phải dừng Chương trình đào tạo thì: 
+✓ Học viện cam kết và đảm bảo tiếp tục duy trì các nguồn l ực về giảng viên, cơ sở 
+vật chất, học liệu để sinh viên đang theo học chương trình vẫn có thể tiếp tục hoàn 
+thành nội dung chương trình đ ào tạo theo kế hoạch đ ể được cấp văn bằng tốt 
+nghiệp; 
+✓ Báo cáo các cơ quan quản lý cấp trên và xây d ựng các giải pháp khắc phục khó 
+khăn cũng như xử lý các vấn đề phát sinh; 
+✓ Thông báo tạm dừng tuyển sinh mới cho ngành đào tạo và tìm kiếm các giải pháp 
+khắc phục. 
+ Hà Nội, ngày         tháng          năm 2025 
+KT. GIÁM ĐỐC 
+PHÓ GIÁM ĐỐC 
+ 
+ 
+ 
+ 
+ 
+PGS.TS Trần Quang Anh 
+ 

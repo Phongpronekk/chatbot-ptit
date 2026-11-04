@@ -1,0 +1,112 @@
+{
+  "id": 32819,
+  "date": "2025-09-04T03:07:26",
+  "date_gmt": "2025-09-03T20:07:26",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32819"
+  },
+  "modified": "2025-09-08T03:08:24",
+  "modified_gmt": "2025-09-07T20:08:24",
+  "slug": "bo-sung-hoc-phan-trong-hoc-ky-1-nam-hoc-2025-2026-doi-voi-nganh-marketing-khoa-2024",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/bo-sung-hoc-phan-trong-hoc-ky-1-nam-hoc-2025-2026-doi-voi-nganh-marketing-khoa-2024/",
+  "title": {
+    "rendered": "Bổ sung học phần trong học kỳ 1 năm học 2025-2026 đối với ngành Marketing khoá 2024"
+  },
+  "content": {
+    "rendered": "<p><strong><em><u>Kính gửi:</u></em></strong><strong>    Các lớp sinh viên ngành Marketing &#8211; khoá 2024 (D24CQMR1,2,3,4)</strong></p>\n<p><strong> </strong></p>\n<p>Căn cứ chương trình và kế hoạch học tập của Sinh viên ngành Marketing khoá 2024, Phòng Giáo vụ thông báo tới các lớp Sinh viên ngành học trên: <strong>Bổ sung thêm học phần SKD1111 – Kỹ năng đổi mới sáng tạo (01 tín chỉ) trong học kỳ 1 năm học 2025 – 2026</strong>.</p>\n<p>Phòng Giáo vụ sẽ thực hiện việc đăng ký lịch học học phần trên cho sinh viên các lớp trên hệ thống quản lý đào tạo (qldt), đề nghị sinh viên các lớp xem trên hệ thống và thực hiện.</p>\n<p><em>Trân trọng.<u>/.</u></em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi:    Các lớp sinh viên ngành Marketing &#8211; khoá 2024 (D24CQMR1,2,3,4)   Căn cứ chương trình và kế hoạch học tập của Sinh viên ngành Marketing khoá 2024, Phòng Giáo vụ thông báo tới các lớp Sinh viên ngành học trên: Bổ sung thêm học phần SKD1111 – Kỹ năng đổi mới sáng tạo [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32819",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-khong-phan-loai"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32819",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32819"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32819/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32819"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32819"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32819"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

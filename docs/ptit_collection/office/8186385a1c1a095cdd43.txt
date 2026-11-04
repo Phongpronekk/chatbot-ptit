@@ -1,0 +1,94 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT GIỮA CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO1 | D4: PLO2 | E4: PLO3 | F4: PLO4 | G4: PLO5
+A5: Kiến thức chung 
+A6: 1 | B6: Triết học | G6: I(Y,A)
+A7: 2 | B7: Phương pháp nghiên cứu khoa học | F7: I(Y,A) | G7: I(Y,A)
+A8: 3 | B8: Công cụ toán cho điện tử - viễn thông | C8: I(X, A)
+A9: Kiến thức cơ sở ngành
+A10: 4 | B10: Truyền thông số nâng cao | C10: I(X, A) | E10: I(X, A)
+A11: 5 | B11: Xử lý tín hiệu số nâng cao | C11: I(X, A) | D11: I(X, A)
+A12: Các học phần tự chọn
+B13: Tự chọn 1- Tính toán tự động và tự động hóa
+A14: 6 | B14: Học máy ứng dụng | D14: R(X, A) | G14: I(X, A)
+A15: 7 | B15: Kỹ thuật lập trình nâng cao | D15: R(X, A) | G15: I(X, A)
+A16: 8 | B16: Tự động hóa mạng | D16: R(X, A) | G16: I(X, A)
+B17: Tự chọn 2 - Mô hình hóa và tích hợp
+A18: 9 | B18: Lý thuyết hàng đợi và ứng dụng | C18: R(X, A) | D18: R(X, A)
+A19: 10 | B19: Truyền thông đa phương tiện nâng cao | C19: R(X, A) | D19: R(X, A)
+A20: 11 | B20: Hệ thống tích hợp truyền thông - cảm biến | C20: R(X, A) | D20: R(X, A)
+A21: Kiến thức chuyên ngành 
+A22: 12 | B22: Mô hình hoá và phân tích hiệu năng hệ thống | C22: R(X, A) | D22: R(X, A)
+A23: 13 | B23: Thông tin vô tuyến nâng cao | C23: R(X, A) | F23: R(X, A)
+A24: 14 | B24: Mạng truyền thông tiên tiến | C24: R(X, A) | F24: R(X, A)
+A25: 15 | B25: Hệ thống IoT tiên tiến | C25: R(X, A) | D25: R(X, A)
+A26: 16 | B26: Chuyên đề viễn thông hiện đại | E26: R(X, A) | F26: R(Y,A)
+A27: Các học phần tự chọn
+B28: Tự chọn 1 - Mạng, nền tảng số và an toàn hệ thống
+A29: 17 | B29: Truyền thông lượng tử | C29: E(X, A) | D29: E(X, A)
+A30: 18 | B30: An toàn hệ thống điện toán đám mây | C30: E(X, A) | D30: E(X, A)
+A31: 19 | B31: Kỹ nghệ Web và API | C31: E(X, A) | D31: E(X, A)
+A32: 20 | B32: Thiết kế và qui hoạch mạng | C32: E(X, A) | D32: E(X, A)
+B33: Tự chọn 2 - Dữ liệu, AI và quản trị
+A34: 21 | B34: Phân tích dữ liệu trong viễn thông | E34: R(X, A) | G34: R(Y, A)
+A35: 22 | B35: Trí tuệ nhân tạo trong viễn thông | E35: R(X, A) | G35: R(Y, A)
+A36: 23 | B36: Dữ liệu lớn nâng cao | E36: R(X, A) | G36: R(Y, A)
+A37: 24 | B37: Quản lý dự án và đổi mới sáng tạo | E37: R(X, A) | G37: R(Y, A)
+B38: Tự chọn 3 - Vô tuyến
+A39: 25 | B39: Hệ thống truyền thông không gian và UAV | C39: E(X, A) | E39: R(X, A)
+A40: 26 | B40: Truyền thông quang không dây | C40: E(X, A) | E40: R(X, A)
+A41: 27 | B41: Công nghệ anten tiên tiến | C41: E(X, A) | E41: R(X, A)
+A42: 28 | B42: Thông tin vệ tinh nâng cao | C42: E(X, A) | E42: R(X, A)
+A43: 29 | B43: Thực tập tốt nghiệp | C43: E(X, A) | D43: E(X, A) | E43: E(X, A) | F43: E(X, A) | G43: E(X, A)
+A44: 30 | B44: Đề án tốt nghiệp thạc sĩ | C44: E(X, A) | D44: E(X, A) | E44: E(X, A) | F44: E(X, A) | G44: E(X, A)
+A46: Ghi chú: 
+B47: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B48: X: đóng góp trực tiếp
+B49: Y: đóng góp gián tiếp
+B50: A: dùng để đo lường đóng góp vào PLO
+### sheet2.xml
+A1: MA TRẬN LIÊN KẾT GIỮA CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO1 | D4: PLO2 | E4: PLO3 | F4: PLO4 | G4: PLO5
+A5: Kiến thức chung 
+A6: 1 | B6: Triết học | G6: I(Y,A)
+A7: 2 | B7: Phương pháp nghiên cứu khoa học | F7: I(Y,A) | G7: I(Y,A)
+A8: 3 | B8: Công cụ toán cho điện tử - viễn thông | C8: I(X, A)
+A9: Kiến thức cơ sở ngành
+A10: 4 | B10: Truyền thông số nâng cao | C10: I(X, A) | E10: I(X, A)
+A11: 5 | B11: Xử lý tín hiệu số nâng cao | C11: I(X, A) | D11: I(X, A)
+A12: 6 | B12: Chuyên đề thạc sĩ 1 | D12: R(X, A) | G12: I(X, A)
+A13: 7 | B13: Chuyên đề thạc sĩ 2 | C13: R(X, A) | D13: R(X, A)
+A14: Các học phần tự chọn
+A15: 8 | B15: Học máy ứng dụng | D15: R(X, A) | G15: I(X, A)
+A16: 9 | B16: Kỹ thuật lập trình nâng cao | D16: R(X, A) | G16: I(X, A)
+A17: 10 | B17: Tự động hóa mạng | D17: R(X, A) | G17: I(X, A)
+A18: Kiến thức chuyên ngành 
+A19: 11 | B19: Mô hình hoá và phân tích hiệu năng hệ thống | C19: R(X, A) | D19: R(X, A)
+A20: 12 | B20: Thông tin vô tuyến nâng cao | C20: R(X, A) | F20: R(X, A)
+A21: 13 | B21: Chuyên đề thạc sĩ 3 | C21: R(X, A) | F21: R(X, A)
+A22: 14 | B22: Chuyên đề thạc sĩ 4 | C22: R(X, A) | D22: R(X, A)
+A23: 15 | B23: Chuyên đề thạc sĩ 5 | E23: R(X, A) | F23: R(Y,A)
+A24: Các học phần tự chọn
+B25: Tự chọn 1 - Mạng, nền tảng số và an toàn hệ thống
+A26: 16 | B26: Truyền thông lượng tử | C26: E(X, A) | D26: E(X, A)
+A27: 17 | B27: An toàn hệ thống điện toán đám mây | C27: E(X, A) | D27: E(X, A)
+A28: 18 | B28: Kỹ nghệ Web và API | C28: E(X, A) | D28: E(X, A)
+A29: 19 | B29: Thiết kế và qui hoạch mạng | C29: E(X, A) | D29: E(X, A)
+B30: Tự chọn 2 - Dữ liệu, AI và quản trị
+A31: 20 | B31: Phân tích dữ liệu trong viễn thông | E31: R(X, A) | G31: R(Y, A)
+A32: 21 | B32: Trí tuệ nhân tạo trong viễn thông | E32: R(X, A) | G32: R(Y, A)
+A33: 22 | B33: Dữ liệu lớn nâng cao | E33: R(X, A) | G33: R(Y, A)
+A34: 23 | B34: Quản lý dự án và đổi mới sáng tạo | E34: R(X, A) | G34: R(Y, A)
+B35: Tự chọn 3 - Vô tuyến
+A36: 24 | B36: Hệ thống truyền thông không gian và UAV | C36: E(X, A) | E36: R(X, A)
+A37: 25 | B37: Truyền thông quang không dây | C37: E(X, A) | E37: R(X, A)
+A38: 26 | B38: Công nghệ anten tiên tiến | C38: E(X, A) | E38: R(X, A)
+A39: 27 | B39: Thông tin vệ tinh nâng cao | C39: E(X, A) | E39: R(X, A)
+A40: 28 | B40: Luận văn tốt nghiệp thạc sĩ | C40: E(X, A) | D40: E(X, A) | E40: E(X, A) | F40: E(X, A) | G40: E(X, A)
+A41: Ghi chú: 
+B42: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B43: X: đóng góp trực tiếp
+B44: Y: đóng góp gián tiếp
+B45: A: dùng để đo lường đóng góp vào PLO

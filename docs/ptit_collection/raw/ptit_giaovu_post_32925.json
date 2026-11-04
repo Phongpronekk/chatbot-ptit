@@ -1,0 +1,116 @@
+{
+  "id": 32925,
+  "date": "2025-10-05T11:40:25",
+  "date_gmt": "2025-10-05T04:40:25",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32925"
+  },
+  "modified": "2025-10-05T11:44:21",
+  "modified_gmt": "2025-10-05T04:44:21",
+  "slug": "hoc-vien-thong-bao-ve-ke-hoach-day-va-hoc-tap-ngay-06-10-2025-va-07-10-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/hoc-vien-thong-bao-ve-ke-hoach-day-va-hoc-tap-ngay-06-10-2025-va-07-10-2025/",
+  "title": {
+    "rendered": "Kế hoạch giảng dạy và học tập ngày 06/10/2025 &#8211; 07/10/2025"
+  },
+  "content": {
+    "rendered": "<p><span class=\"text\">Kính gửi: Các lớp Sinh viên Cơ sở đào tạo phía Bắc </span></p>\n<p><span class=\"text\">Theo cảnh báo của cơ quan chức năng và chính quyền TP. Hà Nội, trong hai ngày 06-07/10/2025, do ảnh hưởng của bão số 11 có thể gây mưa lớn, cục bộ một số nơi trên địa bàn Hà Nội. </span></p>\n<p><span class=\"text\">Để đảm bảo an toàn cho giảng viên, sinh viên và hoạt động giảng dạy, học tập không bị gián đoạn, Lãnh đạo Học viện quyết định chuyển toàn bộ các Lớp học trong thứ Hai và thứ Ba (ngày 06-07/10/2025) của sinh viên đại học chính quy sang học trực tuyến trên các nền tảng MSTeams/Meet/Trans&#8230;</span></p>\n<p><span class=\"text\">Đối với từng lớp cụ thể, Giảng viên sẽ có thông báo và thống nhất hình thức học với lớp. </span></p>\n<p><span class=\"text\">Trân trọng!</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Các lớp Sinh viên Cơ sở đào tạo phía Bắc Theo cảnh báo của cơ quan chức năng và chính quyền TP. Hà Nội, trong hai ngày 06-07/10/2025, do ảnh hưởng của bão số 11 có thể gây mưa lớn, cục bộ một số nơi trên địa bàn Hà Nội. Để đảm bảo [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32925",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32925",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32925"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32925/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32925"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32925"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32925"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

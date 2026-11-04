@@ -1,0 +1,51 @@
+### sheet1.xml
+A2: TOEIC PLACEMENT ONLINE TEST RESULT
+J3: Test date: 03/10/2026
+B4: Organization: | C4: HOC VIEN CONG NGHE BUU CHINH VIEN THONG HA NOI
+B5: Number of examinees: | C5: 41
+B6: Maximum score: | C6: 950
+B7: Minimum score: | C7: 145
+B8: Average score: | C8: 380
+A11: No. | B11: Name | D11: Date of Birth | E11: Student Number | F11: Class | G11: Listening | H11: Reading | I11: Total | J11: Proficiency Levels/
+Training Levels
+A13: 1 | B13: Đỗ Khánh Duy | C13: Anh | D13: 39461 | E13: B26DCGA005 | F13: D26CQGA01-B | G13: 460 | H13: 490 | I13: 950 | J13: General Professional Proficiency/Advance
+A14: 2 | B14: Vũ Thanh | C14: Hằng | D14: 39752 | E14: B26DCGA050 | F14: D26CQGA02-B | G14: 405 | H14: 300 | I14: 705 | J14: Limited Working Proficiency/ Upper- Intermediate
+A15: 3 | B15: Nguyễn Ngọc | C15: Minh | D15: 39798 | E15: B26DCLT023 | F15: D26CQLT01-B | G15: 300 | H15: 325 | I15: 625 | J15: Limited Working Proficiency/ Upper- Intermediate
+A16: 4 | B16: Vũ Trung | C16: Kiên | D16: 39582 | E16: B26DCCN354 | F16: D26CQCN06-B | G16: 225 | H16: 255 | I16: 480 | J16: Elementary Proficiency, Plus/Intermediate
+A17: 5 | B17: Phạm Thành | C17: Nam | D17: 39726 | E17: B26DCTN125 | F17: D26CQTN02-B | G17: 290 | H17: 190 | I17: 480 | J17: Elementary Proficiency, Plus/Intermediate
+A18: 6 | B18: Nguyễn Viên | C18: Chi | D18: 39608 | E18: B26DCLQ013 | F18: D26CQLQ01-B | G18: 240 | H18: 190 | I18: 430 | J18: Elementary Proficiency, Plus/Intermediate
+A19: 7 | B19: Nguyễn Quang | C19: Dũng | D19: 39455 | E19: B26DCTN027 | F19: D26CQTN03-B | G19: 305 | H19: 120 | I19: 425 | J19: Elementary Proficiency, Plus/Intermediate
+A20: 8 | B20: Đoàn Trung | C20: Toàn | D20: 39510 | E20: B26DCCN627 | F20: D26CQCN03-B | G20: 255 | H20: 135 | I20: 390 | J20: Elementary Proficiency/Elementary
+A21: 9 | B21: Phạm Thành | C21: Hưng | D21: 39751 | E21: B26DCVM085 | F21: D26CQVM01-B | G21: 235 | H21: 135 | I21: 370 | J21: Elementary Proficiency/Elementary
+A22: 10 | B22: Nguyễn Huy | C22: Thắng | D22: 39502 | E22: B26DCCN589 | F22: D26CQCN01-B | G22: 220 | H22: 130 | I22: 350 | J22: Elementary Proficiency/Elementary
+A23: 11 | B23: Nguyễn Duy Thế | C23: Tùng | D23: 39465 | E23: B26DCCN686 | F23: D26CQCN02-B | G23: 180 | H23: 165 | I23: 345 | J23: Elementary Proficiency/Elementary
+A24: 12 | B24: Phạm Xuân | C24: Thành | D24: 39501 | E24: B26DCTN158 | F24: D26CQTN02-B | G24: 195 | H24: 140 | I24: 335 | J24: Elementary Proficiency/Elementary
+A25: 13 | B25: Đinh Trung | C25: Hiếu | D25: 39767 | E25: B26DCCN229 | F25: D26CQCN01-B | G25: 185 | H25: 145 | I25: 330 | J25: Elementary Proficiency/Elementary
+A26: 14 | B26: Đoàn Văn | C26: Tiến | D26: 39774 | E26: B26DCBC088 | F26: D26CQBC02-B | G26: 205 | H26: 120 | I26: 325 | J26: Elementary Proficiency/Elementary
+A27: 15 | B27: Nguyễn Đức | C27: Anh | D27: 39646 | E27: B26DCCN024 | F27: D26CQCN12-B | G27: 205 | H27: 105 | I27: 310 | J27: Elementary Proficiency/Elementary
+A28: 16 | B28: Bùi Đại | C28: Dương | D28: 39690 | E28: B26DCTN029 | F28: D26CQTN02-B | G28: 195 | H28: 95 | I28: 290 | J28: Elementary Proficiency/Elementary
+A29: 17 | B29: Ninh Đức | C29: Quang | D29: 39577 | E29: B26THKH017 | F29: T26CQKH01-B | G29: 160 | H29: 125 | I29: 285 | J29: Elementary Proficiency/Elementary
+A30: 18 | B30: Lê Thị | C30: Thương | D30: 39579 | E30: B26DCBC087 | F30: D26CQBC01-B | G30: 160 | H30: 110 | I30: 270 | J30: Elementary Proficiency/Elementary
+A31: 19 | B31: Hà Trần Đức | C31: Mạnh | D31: 39463 | E31: B26DCCC100 | F31: D26CQCC04-B | G31: 140 | H31: 125 | I31: 265 | J31: Elementary Proficiency/Elementary
+A32: 20 | B32: Phạm Minh | C32: Phúc | D32: 39487 | E32: B26DCAT200 | F32: D26CQAT05-B | G32: 160 | H32: 100 | I32: 260 | J32: Elementary Proficiency/Elementary
+A33: 21 | B33: Phạm Tiến | C33: Đạt | D33: 39546 | E33: B26DCVN020 | F33: D26CQVN02-B | G33: 145 | H33: 100 | I33: 245 | J33: Memorized Proficiency/Beginner
+A34: 22 | B34: Nguyễn Hoàng | C34: Anh | D34: 39711 | E34: B26DCCN031 | F34: D26CQCN07-B | G34: 100 | H34: 65 | I34: 165 | J34: Memorized Proficiency/Beginner
+A35: 23 | B35: Nguyễn Tuấn | C35: Hùng | D35: 39179 | E35: B26DCVT186 | F35: D26CQVT04-B | G35: 50 | H35: 95 | I35: 145 | J35: Memorized Proficiency/Beginner
+A36: 24 | B36: Mai Tuấn | C36: Anh | D36: 39629 | E36: B26DCCN051 | F36: D26CQCN03-B | G36: Absent
+A37: 25 | B37: Nguyễn Phạm Tuấn | C37: Anh | D37: 39625 | E37: B26DCQT026 | F37: D26CQQT02-B | G37: Absent
+A38: 26 | B38: Nguyễn Tuấn | C38: Anh | D38: 39381 | E38: B26DCTV008 | F38: D26CQTV02-B | G38: Absent
+A39: 27 | B39: Lương Đắc | C39: Bảo | D39: 39324 | E39: B26DCKD016 | F39: D26CQKD01-B | G39: Absent
+A40: 28 | B40: Nguyễn Bá | C40: Đức | D40: 39227 | E40: B26DCAT065 | F40: D26CQAT05-B | G40: Absent
+A41: 29 | B41: Phạm Đăng Tiến | C41: Dũng | D41: 39498 | E41: B26DCCN116 | F41: D26CQCN08-B | G41: Absent
+A42: 30 | B42: Phạm Tiến | C42: Dũng | D42: 39085 | E42: B26DCTV023 | F42: D26CQTV01-B | G42: Absent
+A43: 31 | B43: Đặng Việt | C43: Huy | D43: 39531 | E43: B26DCAT110 | F43: D26CQAT05-B | G43: Absent
+A44: 32 | B44: Vũ Đức | C44: Huy | D44: 39530 | E44: B26DCTN065 | F44: D26CQTN02-B | G44: Absent
+A45: 33 | B45: Trần Gia | C45: Khoa | D45: 39666 | E45: B26DCUR037 | F45: D26CQUR01-B | G45: Absent
+A46: 34 | B46: Bùi Thành | C46: Long | D46: 39503 | E46: B26DCMR153 | F46: D26CQMR01-B | G46: Absent
+A47: 35 | B47: Lê Tuấn | C47: Long | D47: 39567 | E47: B26DCTC128 | F47: D26CQTC04-B | G47: Absent
+A48: 36 | B48: Nguyễn Bảo | C48: Minh | D48: 39498 | E48: B26DCAT160 | F48: D26CQAT05-B | G48: Absent
+A49: 37 | B49: Trần Thị Huyền | C49: My | D49: 37798 | E49: B26DCBC058 | F49: D26CQBC02-B | G49: Absent
+A50: 38 | B50: Đặng Long | C50: Phi | D50: 39702 | E50: B26DCTC168 | F50: D26CQTC04-B | G50: Absent
+A51: 39 | B51: Phạm Anh | C51: Tâm | D51: 39479 | E51: B26DCCC148 | F51: D26CQCC03-B | G51: Absent
+A52: 40 | B52: Chu Mạnh | C52: Thùy | D52: 39528 | E52: B26DCCN606 | F52: D26CQCN06-B | G52: Absent
+A53: 41 | B53: Nguyễn Đức | C53: Toàn | D53: 39137 | E53: B26DCGM048 | F53: D26CQGM01-B | G53: Absent

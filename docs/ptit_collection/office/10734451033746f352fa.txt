@@ -1,0 +1,132 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN 
+A2: THẠC SĨ TÀI NĂNG, ĐỊNH HƯỚNG NGHIÊN CỨU - NGÀNH HỆ THỐNG THÔNG TIN
+A4: NĂM HỌC THỨ NHẤT | E4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | E5: TT | F5: Tên môn học/học phần | G5: Số TC | H5: Học kỳ
+A6: 1 | B6: Triết học Mác Lênin | C6: 3 | D6: HK1 | E6: 1 | F6: Chủ nghĩa xã hội khoa học | G6: 2 | H6: HK3
+A7: 2 | B7: Giải tích 1 | C7: 3 | D7: HK1 | E7: 2 | F7: Tiếng Anh (Course 2) | G7: 4 | H7: HK3
+A8: 3 | B8: Nhập môn tin học và lập trình | C8: 3 | D8: HK1 | E8: 3 | F8: Toán rời rạc 2 | G8: 3 | H8: HK3
+A9: 4 | B9: Đại số | C9: 3 | D9: HK1 | E9: 4 | F9: Xác suất thống kê | G9: 3 | H9: HK3
+A10: 5 | B10: Nhập môn công nghệ số và ứng dụng AI | C10: 2 | D10: HK1 | E10: 5 | F10: Kiến trúc máy tính | G10: 3 | H10: HK3
+B11: Giáo dục thể chất 1 | E11: 6 | F11: Cấu trúc dữ liệu và giải thuật | G11: 3 | H11: HK3
+B12: Giáo dục quốc phòng | E12: 7 | F12: Pháp luật và sở hữu trí tuệ | G12: 2 | H12: HK3
+F13: Kỹ năng mềm 2
+C14: 14 | G14: 20
+A15: 6 | B15: Kinh tế chính trị Mác Lênin | C15: 2 | D15: HK2 | E15: 8 | F15: Tư tưởng Hồ Chí Minh | G15: 2 | H15: HK4
+A16: 7 | B16: Tiếng Anh (Course 1) | C16: 4 | D16: HK2 | E16: 9 | F16: Tiếng Anh (Course 3) | G16: 4 | H16: HK4
+A17: 8 | B17: Giải tích 2 | C17: 3 | D17: HK2 | E17: 10 | F17: Cơ sở dữ liệu | G17: 3 | H17: HK4
+A18: 9 | B18: Vật lý ứng dụng | C18: 4 | D18: HK2 | E18: 11 | F18: Hệ điều hành | G18: 3 | H18: HK4
+A19: 10 | B19: Ngôn ngữ lập trình C++ | C19: 3 | D19: HK2 | E19: 12 | F19: Lập trình hướng đối tượng | G19: 3 | H19: HK4
+A20: 11 | B20: Toán rời rạc 1 | C20: 3 | D20: HK2 | E20: 13 | F20: Điện tử số | G20: 3 | H20: HK4
+B21: Giáo dục thể chất 2 | E21: 14 | F21: Nhập môn trí tuệ nhân tạo | G21: 3 | H21: HK4
+B22: Kỹ năng mềm 1 | F22: Kỹ năng mềm 3
+C23: 19 | G23: 21
+A25: NĂM HỌC THỨ BA | E25: NĂM HỌC THỨ TƯ
+A26: TT | B26: Tên môn học/học phần | C26: Số TC | D26: Học kỳ | E26: TT | F26: Tên môn học/học phần | G26: Số TC | H26: Học kỳ
+A27: 1 | B27: Lịch sử Đảng cộng sản Việt Nam | C27: 2 | D27: HK5 | E27: 1 | F27: Thực tập tốt nghiệp (bậc đại học) | G27: 6 | H27: HK7
+A28: 2 | B28: Nhập môn công nghệ phần mềm | C28: 3 | D28: HK5 | E28: 2 | F28: HP tự chọn bậc cử nhân | G28: 3 | H28: HK7
+A29: 3 | B29: Mạng máy tính | C29: 3 | D29: HK5 | E29: 3 | F29: Tính toán phân tán | G29: 3 | H29: HK7
+A30: 4 | B30: An toàn bảo mật HTTT | C30: 3 | D30: HK5 | E30: 4 | F30: Phương pháp NCKH | G30: 2 | H30: HK7
+A31: 5 | B31: Lập trình web | C31: 3 | D31: HK5 | E31: 5 | F31: Công cụ toán cho CNTT | G31: 2 | H31: HK7
+A32: 6 | B32: Kho dữ liệu và khai phá dữ liệu | C32: 3 | D32: HK5 | E32: 6 | F32: Thuật toán nâng cao | G32: 2 | H32: HK7
+A33: 7 | B33: Tiếng Anh (Course 3 Plus) | C33: 2 | D33: HK5
+C34: 19 | G34: 18
+A35: 8 | B35: Phân tích và thiết kế HTTT | C35: 3 | D35: HK6 | E35: 7 | F35: Các hệ thống CSDL | G35: 3 | H35: HK8
+A36: 9 | B36: IOT và ứng dụng | C36: 3 | D36: HK6 | E36: 8 | F36: Dữ liệu lớn | G36: 3 | H36: HK8
+A37: 10 | B37: Phát triển hệ thống TMĐT | C37: 3 | D37: HK6 | E37: 9 | F37: HP tự chọn cơ sở ngành thạc sĩ | G37: 3 | H37: HK8
+A38: 11 | B38: HP tự chọn bậc cử nhân | C38: 3 | D38: HK6 | E38: 10 | F38: Điện toán đám mây | G38: 3 | H38: HK8
+A39: 12 | B39: HP tự chọn bậc cử nhân | C39: 3 | D39: HK6 | E39: 11 | F39: Chuyên đề nghiên cứu HTTT 1 | G39: 6 | H39: HK8
+A40: 13 | B40: Thực tập cơ sở | C40: 3 | D40: HK6
+C41: 18 | G41: 18
+A43: NĂM HỌC THỨ NĂM
+A44: TT | B44: Tên học phần | C44: Số TC | D44: Học kỳ
+A45: 1 | B45: Các hệ thống IOT hiện đại | C45: 3 | D45: HK9
+A46: 2 | B46: Kiến trúc hệ thống thông tin | C46: 3 | D46: HK9
+A47: 3 | B47: HP tự chọn chuyên ngành thạc sĩ | C47: 3 | D47: HK9
+A48: 4 | B48: HP tự chọn chuyên ngành thạc sĩ | C48: 3 | D48: HK9
+A49: 5 | B49: Chuyên đề nghiên cứu HTTT 2 | C49: 6 | D49: HK9
+C50: 18
+A52: 6 | B52: Luận văn tốt nghiệp | C52: 15 | D52: HK10
+C53: 15 | F53: TỔNG CỘNG: | G53: 180
+B55: Các HP tự chọn chuyên ngành cử nhân | F55: Các HP tự chọn cơ sở ngành thạc sĩ
+A56: 1 | B56: Triển khai và vận hành hệ thống | C56: 3 | E56: 1 | F56: Tìm kiếm và truy xuất thông tin | G56: 3
+A57: 2 | B57: CSDL phân tán | C57: 3 | E57: 2 | F57: Các kỹ thuật tối ưu | G57: 3
+A58: 3 | B58: Phát triển hệ thống thông tin quản lý | C58: 3 | E58: 3 | F58: Phương pháp phân tích số liệu thống kê | G58: 3
+A59: 4 | B59: Phân tích và trực quan hóa dữ liệu | C59: 3 | E59: 4 | F59: Nhận dạng mẫu  | G59: 3
+A60: 5 | B60: Phát triển UD cho các TB di động | C60: 3 | E60: 5 | F60: Khai phá dữ liệu nâng cao | G60: 3
+A61: 6 | B61: Hệ CSDL đa phương tiện | C61: 3 | E61: 6 | F61: Các mô hình lập trình tiên tiến | G61: 3
+A62: 7 | B62: Học máy | C62: 3 | E62: 7 | F62: Hệ điều hành mạng | G62: 3
+A63: 8 | B63: Quản lý dự án phần mềm | C63: 3 | F63: Các HP tự chọn chuyên ngành thạc sĩ
+E64: 1 | F64: Trí tuệ nhân tạo trong HTTT | G64: 3
+E65: 2 | F65: Hệ thống thông tin tác tử | G65: 3
+E66: 3 | F66: Khai phá tri thức và phân tích dữ liệu | G66: 3
+E67: 4 | F67: Quản trị nghiệp vụ thông minh nâng cao | G67: 3
+### sheet2.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN 
+A2: THẠC SĨ TÀI NĂNG, ĐỊNH HƯỚNG ỨNG DỤNG - NGÀNH HỆ THỐNG THÔNG TIN
+A4: NĂM HỌC THỨ NHẤT | E4: NĂM HỌC THỨ HAI
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | E5: TT | F5: Tên môn học/học phần | G5: Số TC | H5: Học kỳ
+A6: 1 | B6: Triết học Mác Lênin | C6: 3 | D6: HK1 | E6: 1 | F6: Chủ nghĩa xã hội khoa học | G6: 2 | H6: HK3
+A7: 2 | B7: Giải tích 1 | C7: 3 | D7: HK1 | E7: 2 | F7: Tiếng Anh (Course 2) | G7: 4 | H7: HK3
+A8: 3 | B8: Nhập môn tin học và lập trình | C8: 3 | D8: HK1 | E8: 3 | F8: Toán rời rạc 2 | G8: 3 | H8: HK3
+A9: 4 | B9: Đại số | C9: 3 | D9: HK1 | E9: 4 | F9: Xác suất thống kê | G9: 3 | H9: HK3
+A10: 5 | B10: Nhập môn công nghệ số và ứng dụng AI | C10: 2 | D10: HK1 | E10: 5 | F10: Kiến trúc máy tính | G10: 3 | H10: HK3
+B11: Giáo dục thể chất 1 | E11: 6 | F11: Cấu trúc dữ liệu và giải thuật | G11: 3 | H11: HK3
+B12: Giáo dục quốc phòng | E12: 7 | F12: Pháp luật và sở hữu trí tuệ | G12: 2 | H12: HK3
+F13: Kỹ năng mềm 2
+C14: 14 | G14: 20
+A15: 6 | B15: Kinh tế chính trị Mác Lênin | C15: 2 | D15: HK2 | E15: 8 | F15: Tư tưởng Hồ Chí Minh | G15: 2 | H15: HK4
+A16: 7 | B16: Tiếng Anh (Course 1) | C16: 4 | D16: HK2 | E16: 9 | F16: Tiếng Anh (Course 3) | G16: 4 | H16: HK4
+A17: 8 | B17: Giải tích 2 | C17: 3 | D17: HK2 | E17: 10 | F17: Cơ sở dữ liệu | G17: 3 | H17: HK4
+A18: 9 | B18: Vật lý ứng dụng | C18: 4 | D18: HK2 | E18: 11 | F18: Hệ điều hành | G18: 3 | H18: HK4
+A19: 10 | B19: Ngôn ngữ lập trình C++ | C19: 3 | D19: HK2 | E19: 12 | F19: Lập trình hướng đối tượng | G19: 3 | H19: HK4
+A20: 11 | B20: Toán rời rạc 1 | C20: 3 | D20: HK2 | E20: 13 | F20: Điện tử số | G20: 3 | H20: HK4
+B21: Giáo dục thể chất 2 | E21: 14 | F21: Nhập môn trí tuệ nhân tạo | G21: 3 | H21: HK4
+B22: Kỹ năng mềm 1 | F22: Kỹ năng mềm 3
+C23: 19 | G23: 21
+A25: NĂM HỌC THỨ BA | E25: NĂM HỌC THỨ TƯ
+A26: TT | B26: Tên môn học/học phần | C26: Số TC | D26: Học kỳ | E26: TT | F26: Tên môn học/học phần | G26: Số TC | H26: Học kỳ
+A27: 1 | B27: Lịch sử Đảng cộng sản Việt Nam | C27: 2 | D27: HK5 | E27: 1 | F27: Thực tập tốt nghiệp (bậc đại học) | G27: 6 | H27: HK7
+A28: 2 | B28: Nhập môn công nghệ phần mềm | C28: 3 | D28: HK5 | E28: 2 | F28: HP tự chọn bậc cử nhân 3 | G28: 3 | H28: HK7
+A29: 3 | B29: Mạng máy tính | C29: 3 | D29: HK5 | E29: 3 | F29: Tính toán phân tán | G29: 3 | H29: HK7
+A30: 4 | B30: An toàn bảo mật HTTT | C30: 3 | D30: HK5 | E30: 4 | F30: Phương pháp NCKH | G30: 2 | H30: HK7
+A31: 5 | B31: Lập trình web | C31: 3 | D31: HK5 | E31: 5 | F31: Công cụ toán cho CNTT | G31: 2 | H31: HK7
+A32: 6 | B32: Kho dữ liệu và khai phá dữ liệu | C32: 3 | D32: HK5 | E32: 6 | F32: Thuật toán nâng cao | G32: 2 | H32: HK7
+A33: 7 | B33: Tiếng Anh (Course 3 Plus) | C33: 2 | D33: HK5
+C34: 19 | G34: 18
+A35: 8 | B35: Phân tích và thiết kế HTTT | C35: 3 | D35: HK6 | E35: 7 | F35: Các hệ thống CSDL | G35: 3 | H35: HK8
+A36: 9 | B36: IOT và ứng dụng | C36: 3 | D36: HK6 | E36: 8 | F36: Dữ liệu lớn | G36: 3 | H36: HK8
+A37: 10 | B37: Phát triển hệ thống TMĐT | C37: 3 | D37: HK6 | E37: 9 | F37: HP tự chọn cơ sở ngành thạc sĩ | G37: 3 | H37: HK8
+A38: 11 | B38: HP tự chọn bậc cử nhân | C38: 3 | D38: HK6 | E38: 10 | F38: HP tự chọn cơ sở ngành thạc sĩ | G38: 3 | H38: HK8
+A39: 12 | B39: HP tự chọn bậc cử nhân | C39: 3 | D39: HK6 | E39: 11 | F39: HP tự chọn cơ sở ngành thạc sĩ | G39: 3 | H39: HK8
+A40: 13 | B40: Thực tập cơ sở | C40: 3 | D40: HK6 | E40: 12 | F40: Điện toán đám mây | G40: 3 | H40: HK8
+C41: 18 | G41: 18
+A43: NĂM HỌC THỨ NĂM
+A44: TT | B44: Tên học phần | C44: Số TC | D44: Học kỳ
+A45: 1 | B45: Các hệ thống IOT hiện đại | C45: 3 | D45: HK9
+A46: 2 | B46: Kiến trúc hệ thống thông tin | C46: 3 | D46: HK9
+A47: 3 | B47: HP tự chọn chuyên ngành thạc sĩ | C47: 3 | D47: HK9
+A48: 4 | B48: HP tự chọn chuyên ngành thạc sĩ | C48: 3 | D48: HK9
+A49: 5 | B49: HP tự chọn chuyên ngành thạc sĩ | C49: 3 | D49: HK9
+A50: 6 | B50: HP tự chọn chuyên ngành thạc sĩ | C50: 3 | D50: HK9
+C51: 18
+A52: 7 | B52: Thực tập tốt nghiệp (bậc thạc sĩ) | C52: 6 | D52: HK10
+A53: 8 | B53: Đề án tốt nghiệp | C53: 9 | D53: HK10
+C54: 15 | F54: TỔNG CỘNG: | G54: 180
+B56: Các HP tự chọn chuyên ngành cử nhân | F56: Các HP tự chọn cơ sở ngành thạc sĩ
+A57: 1 | B57: Triển khai và vận hành hệ thống | C57: 3 | E57: 1 | F57: Tìm kiếm và truy xuất thông tin | G57: 3
+A58: 2 | B58: CSDL phân tán | C58: 3 | E58: 2 | F58: Các kỹ thuật tối ưu | G58: 3
+A59: 3 | B59: Phát triển hệ thống thông tin quản lý | C59: 3 | E59: 3 | F59: Phương pháp phân tích số liệu thống kê | G59: 3
+A60: 4 | B60: Phân tích và trực quan hóa dữ liệu | C60: 3 | E60: 4 | F60: Nhận dạng mẫu  | G60: 3
+A61: 5 | B61: Phát triển UD cho các TB di động | C61: 3 | E61: 5 | F61: Khai phá dữ liệu nâng cao | G61: 3
+A62: 6 | B62: Hệ CSDL đa phương tiện | C62: 3 | E62: 6 | F62: Các mô hình lập trình tiên tiến | G62: 3
+A63: 7 | B63: Học máy | C63: 3 | E63: 7 | F63: Hệ điều hành mạng | G63: 3
+A64: 8 | B64: Quản lý dự án phần mềm | C64: 3 | F64: Các HP tự chọn chuyên ngành thạc sĩ
+E65: 1 | F65: Thiết kế và tối ưu mạng | G65: 3
+E66: 2 | F66: An toàn hệ thống thông tin | G66: 3
+E67: 3 | F67: Mô hình hóa và mô phỏng các hệ thống phức tạp | G67: 3
+E68: 4 | F68: Kiểm thử các HTTT | G68: 3
+E69: 5 | F69: Quản trị mạng | G69: 3
+E70: 6 | F70: Hệ thống thông tin doanh nghiệp | G70: 3
+E71: 7 | F71: Tối ưu và vận hành HTTT | G71: 3
+E72: 8 | F72: Blockchain trong HTTT | G72: 3

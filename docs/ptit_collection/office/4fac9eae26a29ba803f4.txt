@@ -1,0 +1,206 @@
+### sheet1.xml
+A1: TT | B1: Khoá | C1: Ngành | D1: Mã khối
+A2: 1 | B2: 2024 | C2: An toàn thông tin  | D2: D24AT
+A3: 2 | B3: 2025 | C3: An toàn thông tin  | D3: D25AT
+A4: 3 | B4: 2025 | C4: Logicstic và QLCCU | D4: D25LQ
+A5: 4 | B5: 2025 | C5: Quan hệ công chúng | D5: D25QC
+A6: 5 | B6: 2024 | C6: Thương mại điện tử | D6: D24TM
+A7: 6 | B7: 2025 | C7: Thương mại điện tử | D7: D25TM
+A8: 7 | B8: 2025 | C8: Khoa học máy tính | D8: D25KH
+A9: 8 | B9: 2024 | C9: Điện tử Viễn thông | D9: D24VT
+A10: 9 | B10: 2025 | C10: Điện tử Viễn thông | D10: D25VT
+A11: 10 | B11: 2025 | C11: Trí tuệ nhân tạo | D11: D25TN
+A12: 11 | B12: 2024 | C12: Kế toán | D12: D24KT
+A13: 12 | B13: 2024 | C13: Công nghệ thông tin | D13: D24CN
+A14: 13 | B14: 2025 | C14: Công nghệ thông tin | D14: D25CN
+A15: 14 | B15: 2025 | C15: Marketing - CLC | D15: E25MR
+A16: 15 | B16: 2024 | C16: Cử nhân CNTT | D16: D24CCN
+A17: 16 | B17: 2025 | C17: CNTT Việt Nhật | D17: D25VN
+A18: 17 | B18: 2025 | C18: Công nghệ thông tin - CLC | D18: E25CN
+A19: 18 | B19: 2024 | C19: Marketing | D19: D24MR
+A20: 19 | B20: 2025 | C20: Marketing | D20: D25MR
+A21: 20 | B21: 2024 | C21: Quản trị kinh doanh  | D21: D24QT
+A22: 21 | B22: 2024 | C22: CNKT Điện-Điện tử | D22: D24DT
+A23: 22 | B23: 2025 | C23: CNKT Điện-Điện tử | D23: D25DT
+### sheet2.xml
+A1: TT | B1: Khóa | C1: Ngành | D1: MÃ KHỐI | E1: Môn khác tiến trình chuẩn | F1: MMH | G1: TMH | H1: TC | I1: DK TQ/TS
+A2: 1 | B2: 2024 | C2: An toàn thông tin  | D2: D24AT | F2: BAS1153 | G2: Lịch sử Đảng cộng sản Việt Nam | H2: 2 | I2: BAS1122
+B3: 2024 | C3: An toàn thông tin | D3: D24AT | F3: BAS1160 | G3: Tiếng Anh (Course 3 Plus) | H3: 2 | I3: BAS1159
+B4: 2024 | C4: An toàn thông tin | D4: D24AT | F4: INT1319 | G4: Hệ điều hành | H4: 3 | I4: INT13145
+B5: 2024 | C5: An toàn thông tin  | D5: D24AT | F5: INT1313 | G5: Cơ sở dữ liệu | H5: 3 | I5: INT1155
+B6: 2024 | C6: An toàn thông tin | D6: D24AT | F6: INT1472 | G6: Cơ sở an toàn thông tin | H6: 3
+B7: 2024 | C7: An toàn thông tin  | D7: D24AT | F7: INT1487 | G7: Hệ điều hành Windows và Linux/Unix | H7: 3
+B8: 2024 | C8: An toàn thông tin  | D8: D24AT | E8: X | F8: INT13162 | G8: Lập trình với Python | H8: 3 | I8: INT1155
+B9: 2024 | C9: An toàn thông tin  | D9: D24AT | E9: X | F9: INT1344 | G9: Mật mã học cơ sở | H9: 3 | I9: ELE1319
+A10: 2 | B10: 2025 | C10: An toàn thông tin  | D10: D25AT | F10: BAS1158 | G10: Tiếng Anh (Course 2) | H10: 4 | I10: BAS1157
+B11: 2025 | C11: An toàn thông tin  | D11: D25AT | F11: INT1306 | G11: Cấu trúc dữ liệu và giải thuật | H11: 3 | I11: SEC1101
+B12: 2025 | C12: An toàn thông tin  | D12: D25AT | F12: INT1313 | G12: Cơ sở dữ liệu | H12: 3 | I12: SEC1101
+B13: 2025 | C13: An toàn thông tin  | D13: D25AT | F13: SEC1305 | G13: Hệ điều hành Windows và Linux/Unix | H13: 3 | I13: INT13204
+B14: 2025 | C14: An toàn thông tin  | D14: D25AT | F14: SEC1302 | G14: Python cho An toàn thông tin | H14: 3 | I14: SEC1304
+B15: 2025 | C15: An toàn thông tin  | D15: D25AT | E15: X | F15: SEC1306 | G15: Mật mã học cơ sở | H15: 3 | I15: SEC1101
+B16: 2025 | C16: An toàn thông tin  | D16: D25AT | E16: X | F16: ELE1309 | G16: Điện tử số | H16: 3 | I16: INT11205
+A17: 3 | B17: 2025 | C17: Logicstic và QLCCU | D17: D25LQ | F17: BAS1152 | G17: Chủ nghĩa xã hội khoa học | H17: 2 | I17: BAS1150
+B18: 2025 | C18: Logicstic và QLCCU | D18: D25LQ | F18: BAS1158 | G18: Tiếng Anh (Course 2) | H18: 4 | I18: BAS1157
+B19: 2025 | C19: Logicstic và QLCCU | D19: D25LQ | F19: BSA1241 | G19: Toán kinh tế | H19: 3
+B20: 2025 | C20: Logicstic và QLCCU | D20: D25LQ | F20: BSA1328 | G20: Quản trị học | H20: 3
+B21: 2025 | C21: Logicstic và QLCCU | D21: D25LQ | F21: BSA1348 | G21: Nguyên lý thống kê kinh tế | H21: 3 | I21: BAS1210
+B22: 2025 | C22: Logicstic và QLCCU | D22: D25LQ | F22: BSA1498 | G22: Quản trị chuỗi cung ứng | H22: 3 | I22: BSA1393
+B23: 2025 | C23: Logicstic và QLCCU | D23: D25LQ | F23: SKD1101 | G23: Kỹ năng thuyết trình | H23: 1
+B24: 2025 | C24: Logicstic và QLCCU | D24: D25LQ | E24: X | F24: FIA1389 | G24: Kế toán cho kinh doanh | H24: 3 | I24: BSA1328
+A25: 4 | B25: 2025 | C25: Quan hệ công chúng | D25: D25QC | F25: BAS1152 | G25: Chủ nghĩa xã hội khoa học  | H25: 2 | I25: BAS1151
+B26: 2025 | C26: Quan hệ công chúng | D26: D25QC | F26: BAS1158 | G26: Tiếng Anh (Course 2) | H26: 4 | I26: BAS1157
+B27: 2025 | C27: Quan hệ công chúng | D27: D25QC | F27: BAS1210 | G27: Lý thuyết xác suất và thống kê | H27: 3 | I27: BAS1267
+B28: 2025 | C28: Quan hệ công chúng | D28: D25QC | F28: BSA12117 | G28: Pháp luật và sở hữu trí tuệ | H28: 2
+B29: 2025 | C29: Quan hệ công chúng | D29: D25QC | F29: BSA1328 | G29: Quản trị học | H29: 3
+B30: 2025 | C30: Quan hệ công chúng | D30: D25QC | F30: SKD1102 | G30: Kỹ năng làm việc nhóm | H30: 1
+B31: 2025 | C31: Quan hệ công chúng | D31: D25QC | F31: SKD1111 | G31: Kỹ năng đổi mới sáng tạo | H31: 1
+B32: 2025 | C32: Quan hệ công chúng | D32: D25QC | E32: X | F32: MAR1314 | G32: Truyền thông Marketing tích hợp  | H32: 3 | I32: MAR1322
+B33: 2025 | C33: Quan hệ công chúng | D33: D25QC | E33: X | F33: MAR1485 | G33: Phương tiện truyền thông trong QHCC | H33: 3 | I33: MAR1322
+B34: 2025 | C34: Quan hệ công chúng | D34: D25QC | E34: X | F34: MAR1484 | G34: Lập kế hoạch quan hệ công chúng | H34: 3 | I34: MAR1379
+A35: 5 | B35: 2024 | C35: Thương mại điện tử | D35: D24TM | F35: BSA1333 | G35: Quản trị sản xuất | H35: 3 | I35: BSA1386
+B36: 2024 | C36: Thương mại điện tử | D36: D24TM | F36: BSA1338 | G36: Thống kê doanh nghiệp | H36: 3 | I36: BAS1210
+B37: 2024 | C37: Thương mại điện tử | D37: D24TM | F37: BAS1160 | G37: Tiếng Anh (Course 3 Plus) | H37: 2 | I37: BAS1159
+B38: 2024 | C38: Thương mại điện tử | D38: D24TM | F38: INT13131 | G38: Hệ quản trị cơ sở dữ liệu (BU) | H38: 3
+B39: 2024 | C39: Thương mại điện tử | D39: D24TM | F39: BSA1351 | G39: Logistics căn bản | H39: 2
+B40: 2024 | C40: Thương mại điện tử | D40: D24TM | F40: BAS1153 | G40: Lịch sử Đảng cộng sản Việt Nam | H40: 2 | I40: BAS1122
+B41: 2024 | C41: Thương mại điện tử | D41: D24TM | F41: SKD1102 | G41: Kỹ năng làm việc nhóm | H41: 1
+B42: 2024 | C42: Thương mại điện tử | D42: D24TM | E42: X | F42: BSA1489 | G42: Khởi nghiệp Đổi mới sáng tạo | H42: 3 | I42: BSA1386
+B43: 2024 | C43: Thương mại điện tử | D43: D24TM | E43: X | F43: BSA1325 | G43: Quản trị chiến lược | H43: 3 | I43: BSA1386
+B44: 2024 | C44: Thương mại điện tử | D44: D24TM | E44: X | F44: BSA1364 | G44: Quản trị dự án | H44: 2
+B45: 2024 | C45: Thương mại điện tử | D45: D24TM | E45: X | F45: BSA1448 | G45: Giao tiếp trong kinh doanh | H45: 2
+A46: 6 | B46: 2025 | C46: Thương mại điện tử | D46: D25TM | F46: BAS1152 | G46: Chủ nghĩa xã hội khoa học | H46: 2 | I46: BAS1151
+B47: 2025 | C47: Thương mại điện tử | D47: D25TM | F47: BAS1158 | G47: Tiếng Anh (Course 2) | H47: 4 | I47: BAS1157
+B48: 2025 | C48: Thương mại điện tử | D48: D25TM | F48: BSA1241 | G48: Toán kinh tế | H48: 3
+B49: 2025 | C49: Thương mại điện tử | D49: D25TM | F49: INT13112 | G49: Nguyên lý lập trình (BU) | H49: 3 | I49: INT1154
+B50: 2025 | C50: Thương mại điện tử | D50: D25TM | F50: BSA1311 | G50: Kinh tế vĩ mô 1 | H50: 3
+B51: 2025 | C51: Thương mại điện tử | D51: D25TM | F51: BSA1386 | G51: Nhập môn kinh doanh | H51: 3
+B52: 2025 | C52: Thương mại điện tử | D52: D25TM | E52: X | F52: BSA1365 | G52: Thương mại điện tử căn bản | H52: 3
+B53: 2025 | C53: Thương mại điện tử | D53: D25TM | E53: X | F53: BSA1338 | G53: Thống kê doanh nghiệp | H53: 3 | I53: BAS1210
+A54: 7 | B54: 2025 | C54: Khoa học máy tính | D54: D25KH | F54: BAS1152 | G54: Chủ nghĩa xã hội khoa học | H54: 2 | I54: BAS1151
+B55: 2025 | C55: Khoa học máy tính | D55: D25KH | F55: BAS1158 | G55: Tiếng Anh (Course 2) | H55: 4 | I55: BAS1157
+B56: 2025 | C56: Khoa học máy tính | D56: D25KH | F56: BAS1227 | G56: Vật lý 3 và thí nghiệm  | H56: 4 | I56: BAS1224
+B57: 2025 | C57: Khoa học máy tính | D57: D25KH | F57: INT1339 | G57: Ngôn ngữ lập trình C++ | H57: 3 | I57: INT1155
+B58: 2025 | C58: Khoa học máy tính | D58: D25KH | F58: ELE1330 | G58: Xử lý tín hiệu số | H58: 2
+B59: 2025 | C59: Khoa học máy tính | D59: D25KH | F59: SKD1101 | G59: Kỹ năng thuyết trình | H59: 1
+B60: 2025 | C60: Khoa học máy tính | D60: D25KH | E60: X | F60: INT1359 | G60: Toán rời rạc 2 | H60: 3 | I60: INT1358
+B61: 2025 | C61: Khoa học máy tính | D61: D25KH | E61: X | F61: INT1306 | G61: Cấu trúc dữ liệu và giải thuật | H61: 3 | I61: INT1155
+A62: 8 | B62: 2024 | C62: Điện tử Viễn thông | D62: D24VT | F62: TEL1421 | G62: Truyền sóng và Anten | H62: 3 | I62: TEL1345
+B63: 2024 | C63: Điện tử Viễn thông | D63: D24VT | F63: BAS1160 | G63: Tiếng Anh (Course 3 Plus) | H63: 2
+B64: 2024 | C64: Điện tử Viễn thông | D64: D24VT | F64: BAS1153 | G64: Lịch sử Đảng cộng sản Việt Nam | H64: 2
+B65: 2024 | C65: Điện tử Viễn thông | D65: D24VT | F65: TEL1337 | G65: Toán rời rạc | H65: 3 | I65: INT1155
+B66: 2024 | C66: Điện tử Viễn thông | D66: D24VT | F66: TEL1340 | G66: Kỹ thuật lập trình | H66: 3 | I66: INT1155
+B67: 2024 | C67: Điện tử Viễn thông | D67: D24VT | E67: X | F67: TEL1405 | G67: Kỹ thuật mạng truyền thông | H67: 3 | I67: TEL1344
+B68: 2024 | C68: Điện tử Viễn thông | D68: D24VT | E68: X | F68: TEL1406 | G68: Kỹ thuật thông tin quang | H68: 3 | I68: TEL1344
+B69: 2024 | C69: Điện tử Viễn thông | D69: D24VT | E69: X | F69: TEL1407 | G69: Kỹ thuật thông tin vô tuyến | H69: 3 | I69: TEL1344
+A70: 9 | B70: 2025 | C70: Điện tử Viễn thông | D70: D25VT | F70: BAS1152 | G70: Chủ nghĩa xã hội khoa học | H70: 2
+B71: 2025 | C71: Điện tử Viễn thông | D71: D25VT | F71: TEL1368 | G71: Tín hiệu và Hệ thống  | H71: 3 | I71: BAS 1224
+B72: 2025 | C72: Điện tử Viễn thông | D72: D25VT | F72: BAS1158 | G72: Tiếng Anh (Course 2) | H72: 4
+B73: 2025 | C73: Điện tử Viễn thông | D73: D25VT | F73: ELE1318 | G73: Lý thuyết mạch | H73: 3 | I73: BAS 1224
+B74: 2025 | C74: Điện tử Viễn thông | D74: D25VT | F74: BAS1225 | G74: Vật lý 2 và thí nghiệm  | H74: 4
+B75: 2025 | C75: Điện tử Viễn thông | D75: D25VT | F75: SKD1101 | G75: Kỹ năng thuyết trình | H75: 1
+B76: 2025 | C76: Điện tử Viễn thông | D76: D25VT | E76: X | F76: ELE1309 | G76: Điện tử số | H76: 3 | I76: ELE13105
+A77: 10 | B77: 2025 | C77: Trí tuệ nhân tạo | D77: D25TN | F77: INT1306 | G77: Cấu trúc dữ liệu và giải thuật | H77: 3 | I77: BAS1157
+B78: 2025 | C78: Trí tuệ nhân tạo | D78: D25TN | F78: BAS1158 | G78: Tiếng Anh (Course 2) | H78: 4 | I78: BAS1157
+B79: 2025 | C79: Trí tuệ nhân tạo | D79: D25TN | F79: AI1306 | G79: Khoa học dữ liệu cơ bản | H79: 3 | I79: AI1303
+B80: 2025 | C80: Trí tuệ nhân tạo | D80: D25TN | F80: SKD1101 | G80: Kỹ năng thuyết trình | H80: 1
+B81: 2025 | C81: Trí tuệ nhân tạo | D81: D25TN | E81: X | F81: BAS1150 | G81: Triết học Mác Lênin | H81: 3
+B82: 2025 | C82: Trí tuệ nhân tạo | D82: D25TN | E82: X | F82: INT1434 | G82: Lập trình web | H82: 3 | I82: BAS1157
+B83: 2025 | C83: Trí tuệ nhân tạo | D83: D25TN | E83: X | F83: INT1336 | G83: Mạng máy tính | H83: 3
+A84: 11 | B84: 2024 | C84: Kế toán | D84: D24KT | F84: BAS1153 | G84: Lịch sử Đảng Cộng Sản Việt Nam | H84: 2 | I84: BAS1122
+B85: 2024 | C85: Kế toán | D85: D24KT | F85: BAS1160 | G85: Tiếng Anh (Course 3 Plus) | H85: 2 | I85: BAS1159
+B86: 2024 | C86: Kế toán | D86: D24KT | F86: FIA1483 | G86: Kế toán tài chính 2 | H86: 4 | I86: FIA1382
+B87: 2024 | C87: Kế toán | D87: D24KT | F87: FIA1441M | G87: Kế toán quản trị 2 | H87: 3 | I87: FIA1310
+B88: 2024 | C88: Kế toán | D88: D24KT | F88: SKD1102 | G88: Kỹ năng làm việc nhóm | H88: 1
+B89: 2024 | C89: Kế toán | D89: D24KT | F89: FIA1439 | G89: Ngân hàng và nghiệp vụ ngân hàng | H89: 2
+B90: 2024 | C90: Kế toán | D90: D24KT | F90: FIA1376 | G90: Đổi mới sáng tạo trong Tài chính Kế toán | H90: 2
+B91: 2024 | C91: Kế toán | D91: D24KT | F91: FIA1440 | G91: Định giá doanh nghiệp | H91: 2
+B92: 2024 | C92: Kế toán | D92: D24KT | E92: X | F92: FIA1402 | G92: CFA | H92: 3 | I92: FIA1324
+B93: 2024 | C93: Kế toán | D93: D24KT | E93: X | F93: FIA1486 | G93: Thuế và kế toán thuế | H93: 4 | I93: FIA1483
+A94: 12 | B94: 2024 | C94: Công nghệ thông tin | D94: D24CN | F94: BAS1153 | G94: Lịch sử Đảng cộng sản Việt Nam | H94: 2 | I94: BAS1122
+B95: 2024 | C95: Công nghệ thông tin | D95: D24CN | F95: INT13162 | G95: Lập trình với Python | H95: 3 | I95: INT1339
+B96: 2024 | C96: Công nghệ thông tin | D96: D24CN | F96: INT1336 | G96: Mạng máy tính | H96: 3 | I96: INT1339
+B97: 2024 | C97: Công nghệ thông tin | D97: D24CN | F97: INT1332 | G97: Lập trình hướng đối tượng | H97: 3 | I97: INT1339
+B98: 2024 | C98: Công nghệ thông tin | D98: D24CN | F98: INT1313 | G98: Cơ sở dữ liệu | H98: 3 | I98: INT1339
+B99: 2024 | C99: Công nghệ thông tin | D99: D24CN | F99: BAS1160 | G99: Tiếng Anh (Course 3 Plus) | H99: 2 | I99: BAS1159
+B100: 2024 | C100: Công nghệ thông tin | D100: D24CN | E100: X | F100: INT1340 | G100: Nhập môn công nghệ phần mềm | H100: 3 | I100: INT1339
+B101: 2024 | C101: Công nghệ thông tin | D101: D24CN | E101: X | F101: INT1341 | G101: Nhập môn trí tuệ nhân tạo | H101: 3 | I101: INT1339
+B102: 2024 | C102: Công nghệ thông tin | D102: D24CN | E102: X | F102: SKD1111 | G102: Kỹ năng đổi mới sáng tạo | H102: 1
+A103: 13 | B103: 2025 | C103: Công nghệ thông tin | D103: D25CN | F103: BAS1152 | G103: Chủ nghĩa xã hội khoa học | H103: 2 | I103: BAS1151
+B104: 2025 | C104: Công nghệ thông tin | D104: D25CN | F104: BAS1158 | G104: Tiếng Anh (Course 2) | H104: 4 | I104: BAS1157
+B105: 2025 | C105: Công nghệ thông tin | D105: D25CN | F105: INT1359 | G105: Toán rời rạc 2 | H105: 3 | I105: INT1358
+B106: 2025 | C106: Công nghệ thông tin | D106: D25CN | F106: BAS1269 | G106: Xác suất thống kê | H106: 3 | I106: BAS1203 
+B107: 2025 | C107: Công nghệ thông tin | D107: D25CN | F107: ELE1309 | G107: Điện tử số | H107: 3
+B108: 2025 | C108: Công nghệ thông tin | D108: D25CN | F108: INT1306 | G108: Cấu trúc dữ liệu và giải thuật | H108: 3 | I108: INT1358
+B109: 2025 | C109: Công nghệ thông tin | D109: D25CN | F109: BSA12117 | G109: Pháp luật và sở hữu trí tuệ | H109: 2
+B110: 2025 | C110: Công nghệ thông tin | D110: D25CN | F110: SKD1101 | G110: Kỹ năng thuyết trình  | H110: 1
+A111: 14 | B111: 2025 | C111: Marketing - CLC | D111: E25MR | F111: MAR1354_CLC | G111: Hành vi người tiêu dùng | H111: 3 | I111: MAR1353_CLC
+B112: 2025 | C112: Marketing - CLC | D112: E25MR | F112: BAS1164_CLC | G112: Tiếng Anh (Course 3_CLC) | H112: 8
+B113: 2025 | C113: Marketing - CLC | D113: E25MR | F113: BSA1309_CLC | G113: Kinh tế lượng | H113: 3 | I113: BAS1268_CLC
+B114: 2025 | C114: Marketing - CLC | D114: E25MR | F114: BAS1150 | G114: Triết học Mác - Lênin | H114: 3
+B115: 2025 | C115: Marketing - CLC | D115: E25MR | E115: X | F115: MAR1357_CLC | G115: Hệ thống thông tin trong kinh doanh | H115: 3 | I115: MAR1353_CLC
+A116: 15 | B116: 2024 | C116: Cử nhân CNTT | D116: D24CCN | F116: BAS1152 | G116: Chủ nghĩa xã hội khoa học | H116: 2 | I116: BAS1151
+B117: 2024 | C117: Cử nhân CNTT | D117: D24CCN | F117: BAS1160 | G117: Tiếng Anh (Course 3 plus) | H117: 2 | I117: BAS1159
+B118: 2024 | C118: Cử nhân CNTT | D118: D24CCN | F118: RIPT1304 | G118: Nhập môn công nghệ nền tảng (Platform Technologies) | H118: 3
+B119: 2024 | C119: Cử nhân CNTT | D119: D24CCN | F119: RIPT1305 | G119: Nhập môn tích hợp hệ thống (System Integration) | H119: 2
+A120: 16 | B120: 2025 | C120: CNTT Việt Nhật | D120: D25VN | F120: BAS1152 | G120: Chủ nghĩa xã hội khoa học | H120: 2 | I120: BAS1151
+B121: 2025 | C121: CNTT Việt Nhật | D121: D25VN | F121: BAS1158 | G121: Tiếng Anh (Course 2) | H121: 4 | I121: BAS1157
+B122: 2025 | C122: CNTT Việt Nhật | D122: D25VN | F122: BAS1270 | G122: Vật lý ứng dụng | H122: 4 | I122: BAS1203
+B123: 2025 | C123: CNTT Việt Nhật | D123: D25VN | F123: INT1306 | G123: Cấu trúc dữ liệu và giải thuật | H123: 3 | I123: INT1339
+B124: 2025 | C124: CNTT Việt Nhật | D124: D25VN | F124: BAS1173 | G124: Tiếng Nhật 3 | H124: 3 | I124: BAS1172
+B125: 2025 | C125: CNTT Việt Nhật | D125: D25VN | F125: SKD1101 | G125: Kỹ năng thuyết trình | H125: 1
+B126: 2025 | C126: CNTT Việt Nhật | D126: D25VN | E126: X | F126: INT1359 | G126: Toán rời rạc 2 | H126: 3
+B127: 2025 | C127: CNTT Việt Nhật | D127: D25VN | E127: X | F127: INT1472 | G127: Cơ sở an toàn thông tin | H127: 3 | I127: INT1339
+A128: 17 | B128: 2025 | C128: Công nghệ thông tin - CLC | D128: E25CN | F128: BAS1164_CLC | G128: Tiếng Anh (Course 3_CLC) | H128: 8
+B129: 2025 | C129: Công nghệ thông tin - CLC | D129: E25CN | F129: BAS1269_CLC | G129: Xác suất thống kê | H129: 3
+B130: 2025 | C130: Công nghệ thông tin - CLC | D130: E25CN | F130: INT1306_CLC | G130: Cấu trúc dữ liệu và giải thuật | H130: 3 | I130: INT1339_CLC
+B131: 2025 | C131: Công nghệ thông tin - CLC | D131: E25CN | F131: SKD1101 | G131: Kỹ năng thuyết trình | H131: 1
+B132: 2025 | C132: Công nghệ thông tin - CLC | D132: E25CN | E132: X | F132: BAS1150 | G132: Triết học Mác-Lênin | H132: 3
+B133: 2025 | C133: Công nghệ thông tin - CLC | D133: E25CN | E133: X | F133: ELE1309_CLC | G133: Điện tử số | H133: 3
+B134: 2025 | C134: Công nghệ thông tin - CLC | D134: E25CN | E134: X | F134: INT1359_CLC | G134: Toán rời rạc 2 | H134: 3 | I134: INT1358_CLC
+A135: 18 | B135: 2024 | C135: Marketing | D135: D24MR | F135: BAS1160 | G135: Tiếng Anh Course 3 Plus | H135: 2 | I135: BAS1159
+B136: 2024 | C136: Marketing | D136: D24MR | F136: BSA1349 | G136: Quản lý dự án | H136: 2
+B137: 2024 | C137: Marketing | D137: D24MR | F137: MAR1425 | G137: Marketing dịch vụ | H137: 2 | I137: MAR1322
+B138: 2024 | C138: Marketing | D138: D24MR | F138: MAR1323 | G138: Thương mại điện tử | H138: 2
+B139: 2024 | C139: Marketing | D139: D24MR | F139: MAR1334 | G139: Phát triển và ứng dụng web trong marketing | H139: 3
+B140: 2024 | C140: Marketing | D140: D24MR | F140: SKD1102 | G140: Kỹ năng làm việc nhóm | H140: 1
+B141: 2024 | C141: Marketing | D141: D24MR | E141: X | F141: MAR1318 | G141: Ứng dụng đa phương tiện trong kinh doanh | H141: 2
+B142: 2024 | C142: Marketing | D142: D24MR | E142: X | F142: MAR1309 | G142: Phương pháp nghiên cứu marketing | H142: 3 | I142: MAR1322
+B143: 2024 | C143: Marketing | D143: D24MR | E143: X | F143: MAR1426 | G143: Marketing công nghiệp | H143: 2 | I143: MAR1322
+B144: 2024 | C144: Marketing | D144: D24MR | E144: X | F144: MAR1314 | G144: Truyền thông marketing tích hợp | H144: 3 | I144: MAR1322
+B145: 2024 | C145: Marketing | D145: D24MR | E145: X | F145: MAR1312 | G145: Quản trị cơ sở dữ liệu kinh doanh | H145: 2
+A146: 19 | B146: 2025 | C146: Marketing | D146: D25MR | F146: BAS1151 | G146: Kinh tế chính trị Mác - Lênin  | H146: 2 | I146: BAS1150
+B147: 2025 | C147: Marketing | D147: D25MR | F147: BAS1158 | G147: Tiếng Anh (Course 2) | H147: 4 | I147: BAS1157
+B148: 2025 | C148: Marketing | D148: D25MR | F148: FIA1389 | G148: Kế toán cho kinh doanh | H148: 3
+B149: 2025 | C149: Marketing | D149: D25MR | F149: BSA1309 | G149: Kinh tế lượng | H149: 3
+B150: 2025 | C150: Marketing | D150: D25MR | F150: SKD1101 | G150: Kỹ năng thuyết trình | H150: 1
+B151: 2025 | C151: Marketing | D151: D25MR | F151: SKD1102 | G151: Kỹ năng làm việc nhóm | H151: 1
+B152: 2025 | C152: Marketing | D152: D25MR | E152: X | F152: MAR1315 | G152: Các hệ thống thông tin trong doanh nghiệp | H152: 3
+B153: 2025 | C153: Marketing | D153: D25MR | E153: X | F153: MAR1425 | G153: Marketing dịch vụ | H153: 2 | I153: MAR1322
+B154: 2025 | C154: Marketing | D154: D25MR | E154: X | F154: SKD1108  | G154: Phương pháp luân nghiên cứu khoa học | H154: 2
+A155: 20 | B155: 2024 | C155: Quản trị kinh doanh  | D155: D24QT | F155: BSA1307 | G155: Hệ thống thông tin quản lý | H155: 2 | I155: BSA1311
+B156: 2024 | C156: Quản trị kinh doanh  | D156: D24QT | F156: BSA1333 | G156: Quản trị sản xuất | H156: 3 | I156: BSA1328
+B157: 2024 | C157: Quản trị kinh doanh  | D157: D24QT | F157: BAS1160 | G157: Tiếng Anh (Course 3 Plus) | H157: 2
+B158: 2024 | C158: Quản trị kinh doanh  | D158: D24QT | F158: BSA1325 | G158: Quản trị chiến lược | H158: 3 | I158: BSA1328
+B159: 2024 | C159: Quản trị kinh doanh  | D159: D24QT | F159: BSA1351 | G159: Logistics căn bản | H159: 2
+B160: 2024 | C160: Quản trị kinh doanh  | D160: D24QT | F160: BAS1153 | G160: Lịch sử Đảng cộng sản Việt Nam | H160: 2 | I160: BAS1122
+B161: 2024 | C161: Quản trị kinh doanh  | D161: D24QT | F161: SKD1102 | G161: Kỹ năng làm việc nhóm | H161: 1
+B162: 2024 | C162: Quản trị kinh doanh  | D162: D24QT | E162: X | F162: FIA1324 | G162: Quản trị tài chính DN | H162: 3 | I162: FIA1326
+B163: 2024 | C163: Quản trị kinh doanh  | D163: D24QT | E163: X | F163: FIA1332 | G163: Kế toán quản trị | H163: 3 | I163: FIA1321
+B164: 2024 | C164: Quản trị kinh doanh  | D164: D24QT | E164: X | F164: BSA1314 | G164: Luật kinh doanh | H164: 2 | I164: BAS1221
+B165: 2024 | C165: Quản trị kinh doanh  | D165: D24QT | E165: X | F165: BSA1331 | G165: Quản trị nhân lực | H165: 3 | I165: BSA1328
+A166: 21 | B166: 2024 | C166: CNKT Điện-Điện tử | D166: D24DT | F166: BAS1160 | G166: Tiếng Anh (Course 3 Plus) | H166: 2 | I166: BAS1159
+B167: 2024 | C167: CNKT Điện-Điện tử | D167: D24DT | F167: ELE1319 | G167: Lý thuyết thông tin | H167: 3
+B168: 2024 | C168: CNKT Điện-Điện tử | D168: D24DT | F168: ELE1320 | G168: Lý thuyết trường điện từ và siêu cao tần | H168: 3 | I168: BAS1225
+B169: 2024 | C169: CNKT Điện-Điện tử | D169: D24DT | F169: INT13145 | G169: Kiến trúc máy tính | H169: 3
+B170: 2024 | C170: CNKT Điện-Điện tử | D170: D24DT | F170: ELE1304 | G170: Cơ sở điều khiển tự động | H170: 3 | I170: BAS1221
+B171: 2024 | C171: CNKT Điện-Điện tử | D171: D24DT | E171: X | F171: ELE1317 | G171: Kỹ thuật Vi xử lý | H171: 3 | I171: ELE1309
+B172: 2024 | C172: CNKT Điện-Điện tử | D172: D24DT | E172: X | F172: ELE1308 | G172: Điện tử công suất | H172: 3 | I172: ELE1318
+B173: 2024 | C173: CNKT Điện-Điện tử | D173: D24DT | E173: X | F173: ELE1426 | G173: Thiết kế logic số | H173: 3 | I173: ELE1309
+A174: 22 | B174: 2025 | C174: CNKT Điện-Điện tử | D174: D25DT | F174: BAS1158 | G174: Tiếng Anh (Course 2) | H174: 4 | I174: BAS1157
+B175: 2025 | C175: CNKT Điện-Điện tử | D175: D25DT | F175: BAS1221 | G175: Toán kỹ thuật | H175: 3
+B176: 2025 | C176: CNKT Điện-Điện tử | D176: D25DT | F176: INT13185 | G176: Cấu trúc dữ liệu & giải thuật | H176: 3
+B177: 2025 | C177: CNKT Điện-Điện tử | D177: D25DT | F177: ELE1318 | G177: Lý thuyết mạch | H177: 3
+B178: 2025 | C178: CNKT Điện-Điện tử | D178: D25DT | F178: BSA12117 | G178: Pháp luật và sở hữu trí tuệ | H178: 2
+B179: 2025 | C179: CNKT Điện-Điện tử | D179: D25DT | F179: SKD1101 | G179: Kỹ năng thuyết trình | H179: 1
+B180: 2025 | C180: CNKT Điện-Điện tử | D180: D25DT | E180: X | F180: ELE1309 | G180: Điện tử số | H180: 3 | I180: ELE13100
+B181: 2025 | C181: CNKT Điện-Điện tử | D181: D25DT | E181: X | F181: ELE1319 | G181: Lý thuyết thông tin | H181: 3 | I181: BAS1226

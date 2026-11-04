@@ -1,0 +1,67 @@
+{
+  "id": 5336,
+  "date": "2026-04-29T17:39:36",
+  "date_gmt": "2026-04-29T10:39:36",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?post_type=de_an_tuyen_sinh&#038;p=5336"
+  },
+  "modified": "2026-06-11T08:32:27",
+  "modified_gmt": "2026-06-11T01:32:27",
+  "slug": "thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2026",
+  "status": "publish",
+  "type": "de_an_tuyen_sinh",
+  "link": "https://tuyensinh.ptit.edu.vn/de-an-tuyen-sinh/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2026/",
+  "title": {
+    "rendered": "Thông tin tuyển sinh đại học chính quy năm 2026"
+  },
+  "featured_media": 5334,
+  "template": "",
+  "class_list": [
+    "post-5336",
+    "de_an_tuyen_sinh",
+    "type-de_an_tuyen_sinh",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/de_an_tuyen_sinh/5336",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/de_an_tuyen_sinh"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/de_an_tuyen_sinh"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5334"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5336"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

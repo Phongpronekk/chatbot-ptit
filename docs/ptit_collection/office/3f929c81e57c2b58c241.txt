@@ -1,0 +1,191 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT (RÚT GỌN) CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+THẠC SĨ TÀI NĂNG NGÀNH HỆ THỐNG THÔNG TIN - ĐỊNH HƯỚNG NGHIÊN CỨU
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO1 | D4: PLO2 | E4: PLO3 | F4: PLO4 | G4: PLO5 | H4: PLO6
+A5: PHẦN KIẾN THỨC TRÌNH ĐỘ ĐẠI HỌC
+A6: 1 | B6: Nhập môn tin học và lập trình | C6: X(I) | G6: X(I)
+A7: 2 | B7: Nhập môn công nghệ số và AI | C7: X(I) | E7: X(I)
+A8: 3 | B8: Giải tích 1 | C8: Y(I)
+A9: 4 | B9: Đại số | C9: Y(I)
+A10: 5 | B10: Triết học Mác Lênin | E10: Y(I)
+A11: 6 | B11: Kinh tế chính trị Mác Lênin | E11: Y(I)
+A12: 7 | B12: Giải tích 2 | C12: Y(I)
+A13: 8 | B13: Toán rời rạc 1 | C13: X(I)
+A14: 9 | B14: Tiếng Anh (Course 1) | D14: X(I) | F14: X(I)
+A15: 10 | B15: Vật lý và ứng dụng | C15: Y(I)
+A16: 11 | B16: Ngôn ngữ lập trình C++ | C16: X(I)
+A17: 12 | B17: Tiếng Anh (Course 2) | D17: X(I) | F17: X(I)
+A18: 13 | B18: Pháp luật và sở hữu trí tuệ | E18: X(I)
+A19: 14 | B19: Chủ nghĩa xã hội khoa học | E19: Y(I)
+A20: 15 | B20: Cấu trúc dữ liệu và giải thuật | C20: X(I) | G20: X(I)
+A21: 16 | B21: Toán rời rạc 2 | C21: X(I)
+A22: 17 | B22: Kiến trúc máy tính | C22: X(I) | G22: X(I)
+A23: 18 | B23: Xác suất thống kê | C23: X(I) | G23: X(I)
+A24: 19 | B24: Tiếng Anh (Course 3) | D24: X(I) | F24: X(I)
+A25: 20 | B25: Tư tưởng Hồ Chí Minh | E25: Y(I)
+A26: 21 | B26: Điện tử số | C26: X(I)
+A27: 22 | B27: Hệ điều hành | C27: X(I,A)
+A28: 23 | B28: Lập trình hướng đối tượng | C28: X(I,A)
+A29: 24 | B29: Cơ sở dữ liệu | C29: X(R) | G29: X(R)
+A30: 25 | B30: Nhập môn trí tuệ nhân tạo | C30: X(R) | H30: X(I)
+A31: 26 | B31: Tiếng Anh (Course 3 plus) | D31: X(R) | F31: X(R)
+A32: 27 | B32: Lịch sử Đảng cộng sản Việt Nam | E32: Y(I)
+A33: 28 | B33: Nhập môn công nghệ phần mềm | F33: X(R) | G33: X(R)
+A34: 29 | B34: Mạng máy tính | C34: X(R,A) | E34: X(R,A)
+A35: 30 | B35: Lập trình web | C35: X(E,A) | G35: X(E,A)
+A36: 31 | B36: Kho dữ liệu và khai phá dữ liệu | G36: X(E) | H36: X(I)
+A37: 32 | B37: An toàn bảo mật HTTT | E37: X(R)
+A38: 33 | B38: Thực tập cơ sở | C38: X(R,A) | D38: X(R,A) | E38: X(R,A) | F38: X(R,A)
+A39: 34 | B39: Phân tích thiết kế hệ thống thông tin | F39: X(E,A) | G39: X(E,A)
+A40: 35 | B40: IOT và ứng dụng | C40: X(E) | G40: X(E)
+A41: 36 | B41: Phát triển hệ thống TMĐT | C41: X(E) | D41: X(E) | G41: X(E)
+A42: 37 | B42: Tự chọn chuyên ngành cử nhân 1
+A43: 38 | B43: Tự chọn chuyên ngành cử nhân 2
+A44: 39 | B44: Tự chọn chuyên ngành cử nhân 3
+A45: 40 | B45: Thực tập tốt nghiệp (bậc đại học) | C45: X(E,A) | D45: X(E,A) | E45: X(E,A) | F45: X(E,A) | G45: X(E,A)
+B46: Các HP tự chọn chuyên ngành bậc cử nhân
+B47: Triển khai và vận hành HTTT | C47: X(E) | G47: X(E) | H47: X(I)
+B48: CSDL phân tán | C48: X(E) | G48: X(E) | H48: X(R)
+B49: Hệ CSDL đa phương tiện | C49: X(E) | G49: X(E) | H49: X(R)
+B50: Phát triển hệ thống thông tin quản lý | G50: X(E) | H50: X(R)
+B51: Phân tích và trực quan hóa dữ liệu | C51: X(E) | G51: X(E)
+B52: Quản lí dự án phần mềm | D52: X(E) | E52: X(E) | F52: X(E)
+B53: Phát triển UD cho các TB di động | C53: X(E) | D53: X(E) | G53: X(E)
+B54: Học máy | C54: X(E)
+A55: PHẦN KIẾN THỨC TRÌNH ĐỘ THẠC SĨ
+A56: 41 | B56: Tính toán phân tán | D56: X(R) | G56: X(R) | H56: X(R)
+A57: 42 | B57: Phương pháp luận NCKH | E57: X(R) | H57: X(R)
+A58: 43 | B58: Công cụ toán cho CNTT | H58: X(R,A)
+A59: 44 | B59: Thuật toán nâng cao | C59: X(R) | G59: X(R)
+A60: 45 | B60: Dữ liệu lớn | G60: X(R) | H60: X(R)
+A61: 46 | B61: Các hệ thống CSDL | E61: X(R,A) | G61: X(R,A)
+A62: 47 | B62: Tự chọn cơ sở ngành thạc sĩ 1
+A63: 48 | B63: Chuyên đề nghiên cứu HTTT 1 | D63: X(R) | E63: X(R) | F63: X(R) | G63: X(R) | H63: X(R)
+B64: Các HP tự chọn cơ sở ngành bậc thạc sĩ
+B65: Tìm kiếm và truy xuất thông tin | F65: X(R) | G65: X(R) | H65: X(R)
+B66: Các kỹ thuật tối ưu | C66: X(R) | G66: X(R)
+B67: Phương pháp phân tích số liệu thống kê | F67: X(R) | G67: X(R)
+B68: Nhận dạng mẫu | E68: X(R) | G68: X(R) | H68: X(R)
+B69: Khai phá dữ liệu nâng cao | E69: X(R) | G69: X(R) | H69: X(R)
+B70: Các mô hình lập trình tiên tiến | C70: X(R) | G70: X(R)
+B71: Hệ điều hành mạng | D71: X(R) | G71: X(R)
+A72: 49 | B72: Điện toán đám mây | F72: X(E) | G72: X(E) | H72: X(E)
+A73: 50 | B73: Các hệ thống IOT hiện đại | C73: X(E) | E73: X(E,A) | G73: X(E,A) | H73: X(E,A)
+A74: 51 | B74: Kiến trúc hệ thống thông tin | C74: X(E,A) | G74: X(E,A) | H74: X(E,A)
+A75: 52 | B75: Tự chọn chuyên ngành thạc sĩ 1
+A76: 53 | B76: Tự chọn chuyên ngành thạc sĩ 2
+A77: 54 | B77: Chuyên đề nghiên cứu HTTT 2 | D77: X(E,A) | E77: X(E,A) | F77: X(E,A) | G77: X(E,A) | H77: X(E,A)
+B78: Các HP tự chọn chuyên ngành bậc thạc sĩ
+B79: Trí tuệ nhân tạo trong HTTT | E79: X(E) | G79: X(E) | H79: X(E)
+B80: Hệ thống thông tin tác tử | C80: X(E) | D80: X(E) | H80: X(E)
+B81: Khai phá tri thức và phân tích dữ liệu | E81: X(E) | G81: X(E) | H81: X(E)
+B82: Quản trị nghiệp vụ thông minh nâng cao | C82: X(E) | F82: X(E) | H82: X(E)
+A83: 55 | B83: Luận văn tốt nghiệp | C83: X(E,A) | D83: X(E,A) | E83: X(E,A) | F83: X(E,A) | G83: X(E,A) | H83: X(E,A)
+B84: Kỹ năng mềm 1 | D84: X(I) | E84: X(I) | F84: X(I)
+B85: Kỹ năng mềm 2 | E85: X(I)
+B86: Kỹ năng mềm 3 | E86: X(I)
+A87: Ghi chú: 
+B88: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B89: X: đóng góp trực tiếp
+B90: Y: đóng góp gián tiếp
+B91: A: dùng để đo lường đóng góp vào PLO
+### sheet2.xml
+A1: MA TRẬN LIÊN KẾT (RÚT GỌN) CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+THẠC SĨ TÀI NĂNG NGÀNH HỆ THỐNG THÔNG TIN - ĐỊNH HƯỚNG ỨNG DỤNG
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO1 | D4: PLO2 | E4: PLO3 | F4: PLO4 | G4: PLO5 | H4: PLO6
+A5: PHẦN KIẾN THỨC TRÌNH ĐỘ ĐẠI HỌC
+A6: 1 | B6: Nhập môn tin học và lập trình | C6: X(I) | G6: X(I)
+A7: 2 | B7: Nhập môn công nghệ số và AI | C7: X(I) | E7: X(I)
+A8: 3 | B8: Giải tích 1 | C8: Y(I)
+A9: 4 | B9: Đại số | C9: Y(I)
+A10: 5 | B10: Triết học Mác Lênin | E10: Y(I)
+A11: 6 | B11: Kinh tế chính trị Mác Lênin | E11: Y(I)
+A12: 7 | B12: Giải tích 2 | C12: Y(I)
+A13: 8 | B13: Toán rời rạc 1 | C13: X(I)
+A14: 9 | B14: Tiếng Anh (Course 1) | D14: X(I) | F14: X(I)
+A15: 10 | B15: Vật lý và ứng dụng | C15: Y(I)
+A16: 11 | B16: Ngôn ngữ lập trình C++ | C16: X(I)
+A17: 12 | B17: Tiếng Anh (Course 2) | D17: X(I) | F17: X(I)
+A18: 13 | B18: Pháp luật và sở hữu trí tuệ | E18: X(I)
+A19: 14 | B19: Chủ nghĩa xã hội khoa học | E19: Y(I)
+A20: 15 | B20: Cấu trúc dữ liệu và giải thuật | C20: X(I) | G20: X(I)
+A21: 16 | B21: Toán rời rạc 2 | C21: X(I)
+A22: 17 | B22: Kiến trúc máy tính | C22: X(I) | G22: X(I)
+A23: 18 | B23: Xác suất thống kê | C23: X(I) | G23: X(I)
+A24: 19 | B24: Tiếng Anh (Course 3) | D24: X(I) | F24: X(I)
+A25: 20 | B25: Tư tưởng Hồ Chí Minh | E25: Y(I)
+A26: 21 | B26: Điện tử số | C26: X(I)
+A27: 22 | B27: Hệ điều hành | C27: X(I,A)
+A28: 23 | B28: Lập trình hướng đối tượng | C28: X(I,A)
+A29: 24 | B29: Cơ sở dữ liệu | C29: X(R) | G29: X(R)
+A30: 25 | B30: Nhập môn trí tuệ nhân tạo | C30: X(R) | H30: X(I)
+A31: 26 | B31: Tiếng Anh (Course 3 plus) | D31: X(R) | F31: X(R)
+A32: 27 | B32: Lịch sử Đảng cộng sản Việt Nam | E32: Y(I)
+A33: 28 | B33: Nhập môn công nghệ phần mềm | F33: X(R) | G33: X(R)
+A34: 29 | B34: Mạng máy tính | C34: X(R,A) | E34: X(R,A)
+A35: 30 | B35: Lập trình web | C35: X(E,A) | G35: X(E,A)
+A36: 31 | B36: An toàn bảo mật HTTT | E36: X(R)
+A37: 32 | B37: Kho dữ liệu và khai phá dữ liệu | G37: X(E) | H37: X(I)
+A38: 33 | B38: Thực tập cơ sở | C38: X(R,A) | D38: X(R,A) | E38: X(R,A) | F38: X(R,A)
+A39: 34 | B39: Phân tích thiết kế hệ thống thông tin | F39: X(E,A) | G39: X(E,A)
+A40: 35 | B40: IOT và ứng dụng | C40: X(E) | G40: X(E)
+A41: 36 | B41: Phát triển hệ thống TMĐT | C41: X(E) | D41: X(E) | G41: X(E)
+A42: 37 | B42: Tự chọn chuyên ngành cử nhân 1
+A43: 38 | B43: Tự chọn chuyên ngành cử nhân 2
+A44: 39 | B44: Tự chọn chuyên ngành cử nhân 3
+A45: 40 | B45: Thực tập tốt nghiệp (bậc đại học) | C45: X(E,A) | D45: X(E,A) | E45: X(E,A) | F45: X(E,A) | G45: X(E,A)
+B46: Các HP tự chọn chuyên ngành bậc cử nhân
+B47: Triển khai và vận hành HTTT | C47: X(E) | G47: X(E) | H47: X(I)
+B48: CSDL phân tán | C48: X(E) | G48: X(E) | H48: X(R)
+B49: Hệ CSDL đa phương tiện | C49: X(E) | G49: X(E) | H49: X(R)
+B50: Phát triển hệ thống thông tin quản lý | G50: X(E) | H50: X(R)
+B51: Phân tích và trực quan hóa dữ liệu | C51: X(E) | G51: X(E)
+B52: Quản lí dự án phần mềm | D52: X(E) | E52: X(E) | F52: X(E)
+B53: Phát triển UD cho các TB di động | C53: X(E) | D53: X(E) | G53: X(E)
+B54: Học máy | C54: X(E)
+A55: PHẦN KIẾN THỨC TRÌNH ĐỘ THẠC SĨ
+A56: 40 | B56: Tính toán phân tán | D56: X(R) | G56: X(R) | H56: X(R)
+A57: 41 | B57: Phương pháp luận NCKH | E57: X(R) | H57: X(R)
+A58: 42 | B58: Công cụ toán cho CNTT | H58: X(R,A)
+A59: 43 | B59: Thuật toán nâng cao | C59: X(R) | G59: X(R)
+A60: 44 | B60: Dữ liệu lớn | G60: X(R) | H60: X(R)
+A61: 45 | B61: Các hệ thống CSDL | E61: X(R,A) | G61: X(R,A)
+A62: 46 | B62: Tự chọn cơ sở ngành thạc sĩ 1
+A63: 47 | B63: Tự chọn cơ sở ngành thạc sĩ 2
+A64: 48 | B64: Tự chọn cơ sở ngành thạc sĩ 3
+B65: Các HP tự chọn cơ sở ngành bậc thạc sĩ
+B66: Tìm kiếm và truy xuất thông tin | F66: X(R) | G66: X(R) | H66: X(R)
+B67: Các kỹ thuật tối ưu | C67: X(R) | G67: X(R)
+B68: Phương pháp phân tích số liệu thống kê | F68: X(R) | G68: X(R)
+B69: Nhận dạng mẫu | E69: X(R) | G69: X(R) | H69: X(R)
+B70: Khai phá dữ liệu nâng cao | E70: X(R) | G70: X(R) | H70: X(R)
+B71: Các mô hình lập trình tiên tiến | C71: X(R) | G71: X(R)
+B72: Hệ điều hành mạng | D72: X(R) | G72: X(R)
+A73: 49 | B73: Điện toán đám mây | F73: X(E) | G73: X(E) | H73: X(E)
+A74: 50 | B74: Các hệ thống IOT hiện đại | C74: X(E) | E74: X(E,A) | G74: X(E,A) | H74: X(E,A)
+A75: 51 | B75: Kiến trúc hệ thống thông tin | C75: X(E,A) | G75: X(E,A) | H75: X(E,A)
+A76: 52 | B76: Tự chọn chuyên ngành thạc sĩ 1
+A77: 53 | B77: Tự chọn chuyên ngành thạc sĩ 2
+A78: 54 | B78: Tự chọn chuyên ngành thạc sĩ 3
+A79: 55 | B79: Tự chọn chuyên ngành thạc sĩ 4
+B80: Các HP tự chọn chuyên ngành bậc thạc sĩ
+B81: Thiết kế và tối ưu mạng | E81: X(E) | G81: X(E) | H81: X(E)
+B82: An toàn hệ thống thông tin | C82: X(E) | E82: X(E)
+B83: Mô hình hóa và mô phỏng các hệ thống phức tạp | C83: X(E) | G83: X(E)
+B84: Hệ thống thông tin doanh nghiệp | D84: X(E) | G84: X(E) | H84: X(E)
+B85: Quản trị mạng | C85: X(E) | D85: X(E) | E85: X(E)
+B86: Kiểm thử các HTTT | E86: X(E) | F86: X(E)
+B87: Tối ưu và vận hành HTTT | D87: X(E) | G87: X(E) | H87: X(E)
+B88: Blockchain trong HTTT | F88: X(E) | G88: X(E) | H88: X(E)
+A89: 56 | B89: Thực tập tốt nghiệp (bậc thạc sĩ) | C89: X(E,A) | D89: X(E,A) | E89: X(E,A) | F89: X(E,A) | G89: X(E,A) | H89: X(E,A)
+A90: 57 | B90: Đề án tốt nghiệp | C90: X(E,A) | D90: X(E,A) | E90: X(E,A) | F90: X(E,A) | G90: X(E,A) | H90: X(E,A)
+B91: Kỹ năng mềm 1 | D91: X(I) | E91: X(I) | F91: X(I)
+B92: Kỹ năng mềm 2 | E92: X(I)
+B93: Kỹ năng mềm 3 | E93: X(I)
+A95: Ghi chú: 
+B96: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B97: X: đóng góp trực tiếp
+B98: Y: đóng góp gián tiếp
+B99: A: dùng để đo lường đóng góp vào PLO

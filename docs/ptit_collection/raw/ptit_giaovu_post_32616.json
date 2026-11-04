@@ -1,0 +1,122 @@
+{
+  "id": 32616,
+  "date": "2025-04-22T11:05:47",
+  "date_gmt": "2025-04-22T04:05:47",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32616"
+  },
+  "modified": "2025-04-22T11:08:59",
+  "modified_gmt": "2025-04-22T04:08:59",
+  "slug": "thong-bao-v-v-cap-nhat-diem-thi-hoc-ky-1-nam-hoc-2023-2024",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/thong-bao-v-v-cap-nhat-diem-thi-hoc-ky-1-nam-hoc-2023-2024/",
+  "title": {
+    "rendered": "Cập nhật điểm thi học kỳ 1 năm học 2024-2025 trên hệ thống QLĐT"
+  },
+  "content": {
+    "rendered": "<div class=\"ck-content ng-star-inserted\">\n<div>\n<p><i><strong>Kính gửi: </strong></i> <strong>Sinh viên các lớp đại học chính quy – cơ sở Hà Nội</strong></p>\n<p>Thực hiện kế hoạch đào tạo năm học 2024-2025, Trung tâm Khảo thí &amp; ĐBCLGD và Phòng Giáo vụ đã hoàn thành việc cập nhật điểm học kỳ I năm học 2024-2025 các khóa 2020, 2021, 2022, 2023, 2024 và các khóa khác còn hạn đào tạo trên hệ thống Quản lý đào tạo (https://qldt.ptit.edu.vn).</p>\n<p>Phòng Giáo vụ yêu cầu các sinh viên đăng nhập vào hệ thống QLĐT kiểm tra, rà soát điểm của mình.</p>\n<p>Các trường hợp sai lệch thông tin về điểm đề nghị sinh viên gửi email (phải gửi từ email được Học viện cấp) đến cô Hoàng Kim Cúc – phòng Giáo vụ – hkcuc@ptit.edu.vn trước 17h00 ngày 02/05/2025 để được xem xét giải quyết.</p>\n<p>Lưu ý: Nội dung email sinh viên phải ghi rõ các thông tin thắc mắc, kèm số điện thoại liên lạc.</p>\n<p>Trân trọng ./.</p>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi:  Sinh viên các lớp đại học chính quy – cơ sở Hà Nội Thực hiện kế hoạch đào tạo năm học 2024-2025, Trung tâm Khảo thí &amp; ĐBCLGD và Phòng Giáo vụ đã hoàn thành việc cập nhật điểm học kỳ I năm học 2024-2025 các khóa 2020, 2021, 2022, 2023, 2024 và [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    1,
+    7,
+    4,
+    5,
+    6,
+    27
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32616",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-khong-phan-loai",
+    "category-ket-qua-hoc-tap",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi",
+    "category-xu-ly-ket-qua-hoc-tap-hoc-vu-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32616",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32616"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32616/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32616"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32616"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32616"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

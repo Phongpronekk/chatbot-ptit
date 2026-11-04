@@ -1,0 +1,61 @@
+### sheet1.xml
+A1: KẾ HOẠCH & TIẾN TRÌNH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH AN TOÀN THÔNG TIN - ĐỊNH HƯỚNG ỨNG DỤNG
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học | C6: 3 | D6: HK1 | F6: 1 | G6: Kiểm thử xâm nhập nâng cao | H6: 3 | I6: HK3
+A7: 2 | B7: Công cụ toán cho công nghệ thông tin | C7: 2 | D7: HK1 | F7: 2 | G7: Tự chọn chuyên ngành B1 | H7: 3 | I7: HK3
+A8: 3 | B8: Mật mã ứng dụng | C8: 3 | D8: HK1 | F8: 3 | G8: Tự chọn chuyên ngành C1 | H8: 2 | I8: HK3
+A9: 4 | B9: An toàn hệ thống thông tin | C9: 3 | D9: HK1 | F9: 4 | G9: Tự chọn chuyên ngành C2 | H9: 2 | I9: HK3
+A10: 5 | B10: Tự chọn cơ sở ngành A1 | C10: 3 | D10: HK1 | F10: 5 | G10: Tự chọn chuyên ngành C3 | H10: 2 | I10: HK3
+F11: 6 | G11: Phương pháp nghiên cứu khoa học | H11: 2 | I11: HK3
+C13: 14 | H13: 14
+A15: 6 | B15: Quản lý, pháp luật và chính sách ATTT | C15: 3 | D15: HK2 | F15: 7 | G15: Thực tập tốt nghiệp | H15: 8 | I15: HK4
+A16: 7 | B16: Phân tích mã độc nâng cao | C16: 3 | D16: HK2 | F16: 8 | G16: Đề án tốt nghiệp | H16: 9 | I16: HK4
+A17: 8 | B17: Giám sát an toàn mạng nâng cao | C17: 3 | D17: HK2
+A18: 9 | B18: Tự chọn cơ sở ngành A2 | C18: 3 | D18: HK2
+A19: 10 | B19: Tự chọn cơ sở ngành A3 | C19: 3 | D19: HK2
+C21: 15 | H21: 17
+G23: TỔNG CỘNG: | H23: 60
+A25: A | B25: Các học phần tự chọn cơ sở ngành | F25: B | G25: Các học phần tự chọn chuyên ngành
+A26: 1 | B26: Công nghệ Blockchain | C26: 3 | F26: 1 | G26: Các chủ đề hiện đại trong ATTT | H26: 3
+A27: 2 | B27: An toàn điện toán đám mây | C27: 3 | F27: 2 | G27: Tấn công và phòng thủ mạng | H27: 3
+A28: 3 | B28: An toàn cho IoT | C28: 3 | F28: 3 | G28: Ứng phó và xử lý sự cố bảo mật | H28: 3
+A29: 4 | B29: Hạ tầng khoá công khai | C29: 3 | F29: 4 | G29: Điều tra số | H29: 3
+A30: 5 | B30: Học máy và ứng dụng trong ATTT | C30: 3
+A31: 6 | B31: DevOps và DevSecOps | C31: 3 | F31: C | G31: Các học phần tự chọn chuyên ngành
+A32: 7 | B32: Các giao thức an toàn và bảo mật | C32: 3 | F32: 1 | G32: An toàn web nâng cao | H32: 2
+F33: 2 | G33: An toàn cơ sở dữ liệu nâng cao | H33: 2
+F34: 3 | G34: Mật mã hậu lượng tử | H34: 2
+F35: 4 | G35: Đảm bảo an toàn cho AI | H35: 2
+F36: 5 | G36: Quản trị mạng | H36: 2
+F37: 6 | G37: Dữ liệu lớn | H37: 2
+F38: 7 | G38: Hệ điều hành mạng | H38: 2
+### sheet2.xml
+A1: KẾ HOẠCH & TIẾN TRÌNH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH AN TOÀN THÔNG TIN - ĐỊNH HƯỚNG NGHIÊN CỨU
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học | C6: 3 | D6: HK1 | F6: 1 | G6: Kiểm thử xâm nhập nâng cao | H6: 3 | I6: HK3
+A7: 2 | B7: Công cụ toán cho công nghệ thông tin | C7: 2 | D7: HK1 | F7: 2 | G7: Tự chọn chuyên ngành B1 | H7: 3 | I7: HK3
+A8: 3 | B8: Mật mã ứng dụng | C8: 3 | D8: HK1 | F8: 3 | G8: Tự chọn chuyên ngành C1 | H8: 2 | I8: HK3
+A9: 4 | B9: An toàn hệ thống thông tin | C9: 3 | D9: HK1 | F9: 4 | G9: Chuyên đề thạc sĩ 3 | H9: 3 | I9: HK3
+A10: 5 | B10: Tự chọn cơ sở ngành A1 | C10: 3 | D10: HK1 | F10: 5 | G10: Chuyên đề thạc sĩ 4 | H10: 3 | I10: HK3
+F11: 6 | G11: Phương pháp nghiên cứu khoa học | H11: 2 | I11: HK3
+C13: 14 | H13: 16
+A15: 6 | B15: Quản lý, pháp luật và chính sách ATTT | C15: 3 | D15: HK2 | F15: 6 | G15: Luận văn tốt nghiệp | H15: 15 | I15: HK4
+A16: 7 | B16: Phân tích mã độc nâng cao | C16: 3 | D16: HK2
+A17: 8 | B17: Giám sát an toàn mạng nâng cao | C17: 3 | D17: HK2
+A18: 9 | B18: Chuyên đề thạc sĩ 1 | C18: 3 | D18: HK2
+A19: 10 | B19: Chuyên đề thạc sĩ 2 | C19: 3 | D19: HK2
+C22: 15 | H22: 15
+G24: TỔNG CỘNG CTĐT: | H24: 60
+A26: A | B26: Các học phần tự chọn cơ sở ngành | F26: B | G26: Các học phần tự chọn chuyên ngành
+A27: 1 | B27: Công nghệ Blockchain | C27: 3 | F27: 1 | G27: Các chủ đề hiện đại trong ATTT | H27: 3
+A28: 2 | B28: An toàn điện toán đám mây | C28: 3 | F28: 2 | G28: Tấn công và phòng thủ mạng | H28: 3
+A29: 3 | B29: Học máy và ứng dụng trong ATTT | C29: 3 | F29: 3 | G29: Ứng phó và xử lý sự cố bảo mật | H29: 3
+F30: 4 | G30: Điều tra số | H30: 3
+F32: C | G32: Các học phần tự chọn chuyên ngành
+F33: 1 | G33: An toàn web nâng cao | H33: 2
+F34: 2 | G34: An toàn cơ sở dữ liệu nâng cao | H34: 2
+F35: 3 | G35: Mật mã hậu lượng tử | H35: 2
+F36: 4 | G36: Đảm bảo an toàn cho AI | H36: 2
+### sheet3.xml

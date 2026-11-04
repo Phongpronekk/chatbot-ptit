@@ -1,0 +1,119 @@
+{
+  "id": 4952,
+  "date": "2026-03-17T14:49:26",
+  "date_gmt": "2026-03-17T07:49:26",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4952"
+  },
+  "modified": "2026-03-17T14:49:26",
+  "modified_gmt": "2026-03-17T07:49:26",
+  "slug": "thong-bao-tuyen-sinh-trinh-do-tien-si-dot-1-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-tuyen-sinh-trinh-do-tien-si-dot-1-nam-2026/",
+  "title": {
+    "rendered": "THÔNG BÁO TUYỂN SINH TRÌNH ĐỘ TIẾN SĨ ĐỢT 1 NĂM 2026"
+  },
+  "content": {
+    "rendered": "<p>Chi tiết thông báo trong file đính kèm: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/SDaotao_45826031715040-1.pdf\">SDaotao_45826031715040 (1)</a></p>\n<p>Các mẫu biểu trong file đính kèm:</p>\n<ul>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/Mau-1__Phieu-dang-ky-du-tuyen.doc\">Mau 1__Phieu dang ky du tuyen</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/Mau-2__Ly-lich-khoa-hoc.doc\">Mau 2__Ly lich khoa hoc</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/Mau-3_So-yeu-ly-lich.doc\">Mau 3_So yeu ly lich</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/PHU-LUC-II-de-cuong-nghien-cuu.doc\">PHỤ LỤC II de cuong nghien cưu</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/PHU-LUC-III-DINH-HUONG-NGHIEN-CUU-2024.docx\">PHU LUC III- DINH HUONG NGHIEN CUU 2024</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/Phu-luc-IV_DanhSachMotSoChungChiTiengNuocNgoai.doc\">Phu luc IV_DanhSachMotSoChungChiTiengNuocNgoai</a></li>\n<li><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/PHU-LUC-V_Yeu-cau-doi-voi-thu-gioi-thieu-1.doc\">PHU LUC V_Yeu cau doi voi thu gioi thieu (1)</a></li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Chi tiết thông báo trong file đính kèm: SDaotao_45826031715040 (1) Các mẫu biểu trong file đính kèm: Mau 1__Phieu dang ky du tuyen Mau 2__Ly lich khoa hoc Mau 3_So yeu ly lich PHỤ LỤC II de cuong nghien cưu PHU LUC III- DINH HUONG NGHIEN CUU 2024 Phu luc IV_DanhSachMotSoChungChiTiengNuocNgoai PHU LUC V_Yeu cau [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 4940,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4952",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4952",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4952"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4952/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4940"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4952"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4952"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4952"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

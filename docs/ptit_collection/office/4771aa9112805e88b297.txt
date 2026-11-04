@@ -1,0 +1,2244 @@
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+HỌC VIỆN CÔNG NGHỆ
+BƯU CHÍNH VIỄN THÔNG
+8185155079900
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+5791202222400
+
+CHƯƠNG TRÌNH ĐÀO TẠO
+
+Tên chương trình (tiếng Việt):      Kỹ thuật Viễn thông 
+Tên chương trình (tiếng Anh):Telecommunications Engineering
+Ngành đào tạo (tiếng Việt):Kỹ thuật Viễn thông
+Ngành đào tạo (tiếng Anh): Telecommunications Engineering
+Trình độ đào tạo:                     Thạc sĩ (Thạc sĩ tích hợp)
+Mã ngành:                                    8520208
+Hình thức đào tạo:       Chính quy
+(Kèm theo Quyết định số        /QĐ-HV ngày    tháng   năm 2026  của Giám đốc Học viện)
+
+MỤC TIÊU 
+Mục tiêu chung
+Chương trình Thạc sĩ tài năng ngành Kỹ thuật Viễn thông của Học viện Công nghệ Bưu chính Viễn thông hướng tới đào tạo đội ngũ tinh hoa có phẩm chất chính trị, đạo đức và sức khỏe tốt; sở hữu nền tảng kiến thức chuyên sâu, năng lực nghiên cứu độc lập và sáng tạo công nghệ ở trình độ cao, đáp ứng chuẩn chương trình đào tạo tài năng do Bộ Giáo dục và Đào tạo quy định. Người học có khả năng tham gia các đề tài/dự án R&D và bài toán đặt hàng của doanh nghiệp, công bố các công trình khoa học/đăng ký sở hữu trí tuệ/chuyển giao sản phẩm. Chương trình đề cao năng lực lãnh đạo kỹ thuật, khởi nghiệp đổi mới sáng tạo, làm việc trong môi trường quốc tế (bao gồm năng lực ngoại ngữ học thuật và kỹ năng số), học tập suốt đời và thích ứng nhanh với sự phát triển của trí tuệ nhân tạo và các công nghệ mũi nhọn, qua đó đáp ứng yêu cầu phát triển kinh tế – xã hội và hội nhập quốc tế. 
+Chương trình đào tạo thạc sĩ tài năng ngành Kỹ thuật Viễn thông nhằm cụ thể hóa tiêu chuẩn chung cho người tốt nghiệp trình độ đại học và thạc sĩ của Học viện đó là:
+ULO1 Tri thức – Sáng tạo – Khởi nghiệp (Subject Expertise – Innovation - Entrepreneurship): Khả năng xác định, phân tích và giải quyết vấn đề trong lĩnh vực chuyên môn một cách hiệu quả trong bối cảnh nhất định bằng cách áp dụng các kiến thức và nguyên tắc liên quan, hướng tiếp cận đổi mới sáng tạo và các công nghệ tiên tiến có thể có, đồng thời xem xét các mục tiêu phát triển bền vững và cơ hội khởi nghiệp.
+ULO2 Đạo đức – Trách nhiệm nghề nghiệp (Professional ethics - Reponsibilities): Khả năng vận dụng các nguyên tắc đạo đức và trách nhiệm nghề nghiệp trong thực hành nghề nghiệp, cũng như cân nhắc các yếu tố có ảnh hưởng ở cấp độ địa phương và toàn cầu.
+ULO3 Giao tiếp – Hợp tác – Quản lý (Communication – Collaboration - Management): Khả năng giao tiếp và thực hiện công việc nhóm một cách hiệu quả nhằm đặt được các mục tiêu nghề nghiệp, cũng như quản lý các hoạt động chuyên môn dựa trên tư duy khởi nghiệp.
+Mục tiêu cụ thể
+PO1. Phát triển vững chắc nghề nghiệp chuyên môn: Sau khi tốt nghiệp, sinh viên có thể làm việc hiệu quả và sáng tạo trong lĩnh vực điện tử viễn thông và các ngành liên quan, áp dụng thành công các nguyên lý kỹ thuật tiên tiến trong việc thiết kế, phát triển, vận hành và quản lý hệ thống điện tử viễn thông tại các doanh nghiệp, tổ chức nghiên cứu, và các dự án công nghệ cao. Sinh viên sẽ có khả năng đảm nhận các vị trí lãnh đạo kỹ thuật, thúc đẩy đổi mới sáng tạo và dẫn dắt các dự án công nghệ trong môi trường làm việc toàn cầu
+PO2. Phát triển khả năng làm việc nhóm, sáng tạo và có tố chất lãnh đạo: Sau khi tốt nghiệp, sinh viên sẽ có khả năng làm việc hiệu quả trong các nhóm nghiên cứu và phát triển đa ngành, đồng thời có tố chất lãnh đạo để quản lý các dự án kỹ thuật phức tạp. Sinh viên sẽ được trang bị kỹ năng phát hiện và giải quyết các vấn đề sáng tạo, đưa ra các giải pháp tiên tiến và hiệu quả trong lĩnh vực kỹ thuật điện tử viễn thông, phù hợp với yêu cầu thực tế và môi trường làm việc đa văn hóa, quốc tế
+PO3. Phát triển chuyên môn, ý thức học tập suốt đời: Sau khi tốt nghiệp, sinh viên sẽ có khả năng tiếp tục phát triển bản thân và chuyên môn thông qua việc học hỏi suốt đời. Sinh viên được khuyến khích tham gia vào các chương trình đào tạo chuyên sâu, nghiên cứu độc lập, hoặc học tiếp ở trình độ cao hơn, đồng thời có khả năng dẫn dắt các sáng kiến nghiên cứu, đóng góp vào cộng đồng khoa học và công nghệ, theo tiêu chuẩn quốc tế
+PO4. Phát triển nhận thức về trách nhiệm xã hội và đạo đức nghề nghiệp: Sau khi tốt nghiệp, sinh viên sẽ hình thành ý thức mạnh mẽ về đạo đức nghề nghiệp và trách nhiệm xã hội, cam kết đóng góp vào sự phát triển bền vững của xã hội. Sinh viên sẽ nhận thức rõ ràng về vai trò của mình trong việc bảo vệ lợi ích cộng đồng, đóng góp vào việc giải quyết các vấn đề xã hội thông qua các giải pháp công nghệ, đồng thời tuân thủ các chuẩn mực đạo đức trong công việc và nghiên cứu
+CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO
+Các chuẩn đầu ra (Learning Outcomes - PLOs) và các chỉ báo (Performace Indicator - PIs) của chương trình thể hiện sau khi tốt nghiệp, sinh viên có khả năng:
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1. Giải quyết vấn đề kỹ thuật phức tạp: Có khả năng xác định và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý kỹ thuật, khoa học và toán học, và ứng dụng công nghệ tiên tiến trong lĩnh vực viễn thông
+C4, P3
+PI 1.1. Phân loại được bài toán cần giải quyết, chỉ ra các tham số chính cần xác định
+PI 1.2. Áp dụng kiến thức, mô hình và phương pháp giải quyết được vấn đề kỹ thuật phức tạp thuộc lĩnh vực điện tử viễn thông
+PLO2. Phân tích và đánh giá các hệ thống và quy trình kỹ thuật: Có khả năng phân tích các phần tử, hệ thống và các quy trình kỹ thuật trong lĩnh vực điện tử viễn thông, để tối ưu hóa hiệu suất của các hệ thống mạng, ứng dụng và dịch vụ viễn thông.
+C5
+PI 2.1. Trình bày hoạt động, chức năng của các hệ thống điện tử viễn thông
+PI 2.2. Phân tích và xác định được tham số hoạt động của các phần tử, mạch thành phần trong hệ thống thiết bị điện tử viễn thông
+PI 2.3. Đánh giá được quy trình kỹ thuật trong hệ thống điện tử viễn thông
+PLO3. Tiến hành thí nghiệm và phân tích dữ liệu: Có khả năng tiến hành các thí nghiệm, thu thập dữ liệu và phân tích kết quả nhằm đánh giá hiệu quả của các giải pháp kỹ thuật trong lĩnh vực điện tử viễn thông. Có kỹ năng phân tích dữ liệu lớn, sử dụng các công cụ phân tích và mô phỏng, đánh giá hiệu suất của các hệ thống mạng viễn thông tiên tiến.
+C5, P3, A2
+PI 3.1. Tuân thủ đúng quy trình thí nghiệm
+PI 3.2. Thao tác vận hành các thiết bị thí nghiệm tương ứng với nội dung kiến thức thuộc ngành kỹ thuật điện tử viễn thông
+PI 3.3. Đánh giá được dữ liệu thu thập trong quá trình thí nghiệm
+PLO4. Thiết kế giải pháp sáng tạo cho các vấn đề kỹ thuật tổng hợp: Có khả năng thiết kế giải pháp sáng tạo cho các vấn đề kỹ thuật tổng hợp trong lĩnh vực điện tử viễn thông, sử dụng các kỹ thuật và công cụ hiện đại, bao gồm AI, học sâu, và các công cụ mô phỏng hệ thống. Có khả năng đánh giá các yếu tố rủi ro và cơ hội khi thiết kế các giải pháp kỹ thuật, đặc biệt trong các hệ thống phức tạp và mạng thông minh, đảm bảo tính thực tiễn, khả năng thương mại, sự bền vững và khả năng mở rộng của hệ thống
+C6, P3, A4
+PI 4.1. Sử dụng được các công cụ kỹ thuật chuyên ngành trong lĩnh vực điện tử viễn thông
+PI 4.2. Thiết kế đề xuất giải pháp, phát triển sản phẩm có xem xét đến các vấn đề về rủi ro và cơ hội, khả năng ứng dụng để giải quyết vấn đề kỹ thuật trong lĩnh vực điện tử viễn thông
+PI 4.3. Đọc hiểu, phân tích và tự tổng hợp các kiến thức mới trong lĩnh vực điện tử viễn thông
+PLO5. Giao tiếp và trình bày hiệu quả: Có khả năng giao tiếp và trình bày ý tưởng, giải pháp kỹ thuật một cách rõ ràng và hiệu quả, có kỹ năng giao tiếp khoa học, kỹ thuật với các nhóm đa ngành, đặc biệt trong môi trường làm việc quốc tế và các dự án công nghệ cao.
+P3
+PI 5.1. Sử dụng thành thạo các công cụ tin học hỗ trợ để soạn thảo văn bản hoặc tạo các nội dung đa phương tiện
+PI 5.2. Xây dựng và trình bày được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định.
+PI 5.3. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ.
+PLO6. Làm việc nhóm và hợp tác đa ngành: Có khả năng làm việc hiệu quả trong các nhóm đa ngành, biết cách hợp tác và trao đổi thông tin để hoàn thành các dự án kỹ thuật phức tạp, có kỹ năng lãnh đạo trong môi trường nhóm, quản lý các dự án kỹ thuật và ứng dụng công nghệ trong các dự án đổi mới sáng tạo
+P4, A4
+PI 6.1 Phối hợp, chia sẻ công việc trong một nhóm.
+PI 6.2 Khả năng thích ứng và cam kết hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm.
+PI 6.3 Xác định mục tiêu và thời hạn, lập kế hoạch công việc, tổ chức và điều phối các hoạt động nhóm hiệu quả
+PLO7. Nhận thức và tuân thủ đạo đức nghề nghiệp: Có khả năng nhận diện và tuân thủ đạo đức nghề nghiệp, nhận thức rõ ràng về trách nhiệm trong việc xử lý các tình huống kỹ thuật, áp dụng công nghệ, đồng thời đưa ra các đánh giá có tính đến tác động của các giải pháp kỹ thuật. các công nghệ đối với xã hội, môi trường và kinh tế toàn cầu.
+C4, A3
+PI 7.1. Nhận biết trách nhiệm đạo đức, quy định pháp luật, quy định nghề nghiệp trong các tình huống kỹ thuật
+PI 7.2. Phân tích được tác động của giải pháp kỹ thuật đối với xã hội, kinh tế và môi trường.
+(C: miền kiến thức; P: miền kỹ năng, A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: 180 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục Quốc phòng và Kỹ năng mềm).
+ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO: 
+4.1 Đối tượng tuyển sinh là học sinh trung học phổ thông (THPT)
+Đối tượng dự tuyển đáp ứng quy định của Quy chế tuyển sinh trình độ đại học do Bộ Giáo dục & Đào tạo và Học viện ban hành và các yêu cầu sau đây:
+a) Xét tuyển thẳng với đối tượng sau: người học đã tốt nghiệp THPT hoặc trình độ tương đương, đồng thời đoạt giải Nhất, Nhì hoặc Ba trong kỳ thi học sinh giỏi quốc gia hoặc kỳ thi Olympic quốc tế các môn Toán, Vật lý, Hóa học, Tin học; thời điểm không quá 03 năm tính đến thời điểm xét tuyển thẳng;
+b) Đối với phương thức xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT, thí sinh phải đáp ứng các yêu cầu sau:
+- Thí sinh có tham dự kỳ thi tốt nghiệp THPT với một trong các tổ hợp môn xét tuyển là Toán, Lý, Hóa (A00); hoặc Toán, Lý, Anh (A01) hoặc Toán, Lý, Tin (X06) hoặc Toán, Tin, Anh (X26); 
+- Có tổng điểm xét tuyển nằm trong top 20% điểm xét tuyển cao nhất toàn quốc trong cùng tổ hợp;
+- Các yêu cầu khác theo Đề án tuyển sinh đại học chính quy hằng năm của Học viện.
+4.2 Đối tượng chuyển tiếp: là sinh viên đang học hoặc đã tốt nghiệp đại học chính quy ngành Kỹ thuật Điện tử Viễn thông của Học viện Công nghệ Bưu chính Viễn thông và đáp ứng các yêu cầu sau:
+- Có điểm trung bình tích luỹ tính đến thời điểm đăng ký xét tuyển đạt 3,2 (theo thang điểm 4) hoặc tương đương trở lên.
+QUY TRÌNH ĐÀO TẠO, ĐIỀU KIỆN TỐT NGHIỆP
+5.1. Quy trình đào tạo
+Chương trình đào tạo được thực hiện trong 05 năm gồm 10 học kỳ, trong đó 9 học kỳ tích lũy kiến thức tại Học viện và 1 kỳ tốt nghiệp, bao gồm thực tập chuyên sâu tại cơ sở thực tập (phòng lab, tổ chức, doanh nghiệp) và làm luận văn hoặc đề án tốt nghiệp.
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+5.2. Điều kiện tốt nghiệp
+5.2.1. Các yêu cầu chung
+- Hoàn thành chương trình đào tạo với điểm học phần đạt từ 4,0 (theo thang điểm 10) trở lên đối với phần kiến thức trình độ đại học và đạt từ 5,5 (theo thang điểm 10) trở lên đối với phần kiến thức trình độ thạc sĩ trong thời gian quy định;
+- Bảo vệ thành công luận văn/đề án tốt nghiệp, đạt điểm từ 5,5/10 trở lên;
+- Có trình độ tiếng Anh đạt từ bậc 4 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương.
+5.2.2. Các yêu cầu theo thiên hướng tài năng
+Người học phải đạt được một trong các thiên hướng tài năng như sau:
+a) Thiên hướng tài năng về khoa học, cần đạt một trong các tiêu chí sau:
++) Tham gia các nhóm nghiên cứu thuộc lĩnh vực an toàn thông tin hoặc công nghệ thông tin và có công bố khoa học, trong đó là tác giả chính hoặc đồng tác giả của ít nhất một bài báo, hoặc báo cáo khoa học quốc tế uy tín (trong danh mục WoS/Scopus), có xác nhận về đóng góp chuyên môn.
++) Tham gia và hoàn thành các khoá học về phương pháp nghiên cứu, học thuật chuyên sâu và công cụ phân tích hiện đại, đồng thời có minh chứng về kết quả nghiên cứu thông qua báo cáo tại hội thảo có phản biện, sản phẩm nghiên cứu được ứng dụng – chuyển giao, hoặc được hội đồng chuyên môn đánh giá cao.
+b) Thiên hướng tài năng về công nghệ, cần đạt một trong các tiêu chí sau:
++) Tham gia các nhóm nghiên cứu phát triển sản phẩm, hoặc dự án nghiên cứu phát triển có tiềm năng ứng dụng thực tiễn hoặc thương mại hoá; là tác giả chính hoặc đồng tác giả của ít nhất một sáng chế hoặc giải pháp hữu ích đã được nộp đơn và chấp nhận hợp lệ.
++) Đóng vai trò chủ đạo trong việc triển khai và hiện thực hóa kết quả nghiên cứu, thông qua hoạt động chuyển giao công nghệ, ứng dụng tại doanh nghiệp, hoặc được ghi nhận tại các cuộc thi, hội thảo khoa học – công nghệ uy tín, đồng thời thể hiện năng lực đổi mới sáng tạo và khả năng thương mại hóa sản phẩm.
+c) Thiên hướng tài năng về kinh doanh, quản trị và lãnh đạo, cần đạt một trong các tiêu chí sau:
++) Tham gia và giữ vai trò nóng cốt trong các dự án thực tiễn như xây dựng kế hoạch kinh doanh, vận hành mô hình doanh nghiệp mô phỏng hoặc tư vấn chiến lược cho tổ chức; đồng thời chịu trách nhiệm chính hoặc đại diện trình bầy ít nhất một đề án kinh doanh xuất sắc tại các cuộc thi học thuật, khởi nghiệp hoặc đổi mới sáng tạo ở cấp quốc gia hoặc quốc tế.
++) Thể hiện tư duy quản trị chiến lược và năng lực quyết định trong môi trường phức tạp, thông qua việc xây dựng và triển khai các giải pháp sáng tạo, khả thi và thích ứng với bối cảnh thực tiễn; đồng thời chứng minh năng lực lãnh đạo và điều phối hiệu quả trong tập thể hoặc tổ chức.
+5.3 Kết thúc khóa học, sinh viên được công nhận tốt nghiệp và được cấp đồng thời 2 văn bằng là: Thạc sĩ ngành Kỹ thuật Viễn thông và Cử nhân ngành Điện tử Viễn thông hệ chính quy khi đã hội tụ đủ các tiêu chuẩn theo quy chế đào tạo đại học, thạc sĩ theo học chế tín chỉ và các yêu cầu tốt nghiệp nêu trên.
+THANG ĐIỂM: Theo thang điểm tín chỉ
+6.1. Phần kiến thức trình độ đại học
+Điểm chữ (A, B, C, D, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các Học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+Không đạt
+Dưới 4,0
+F
+0,0
+Loại đạt không ghi mức (áp dụng cho các học phần đạt, không tính vào điểm trung bình học tập): Từ 5,0 điểm trở lên, điểm chữ là P
+6.2. Phần kiến thức trình độ thạc sĩ
+Thực hiện theo thang điểm tín chỉ, trong đó điểm chữ (A, B, C, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các Học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+Không đạt
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+
+Dưới 4,0
+F
+0,0
+NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO
+7.1  Cấu trúc chương trình đào tạo
+STT
+Khối kiến thức
+Tín chỉ
+A.
+Phần kiến thức trình độ đại học
+120
+1
+Khối kiến thức giáo dục đại cương
+48
+1.1
+Khối kiến thức chung
+27
+1.1.1
+Lý luận chính trị
+11
+1.1.2
+Tiếng Anh
+14
+1.1.3
+Tin học
+2
+1.2
+Khối kiến thức khoa học tự nhiên và xã hội
+21
+2
+Khối kiến thức giáo dục chuyên nghiệp
+72
+2.1
+- Khối kiến thức cơ sở
+41
+2.2
+- Khối kiến thức chuyên ngành 
+31
+B.
+Phần kiến thức trình độ thạc sĩ
+60
+1
+Khối kiến thức cơ sở ngành
+13
+2
+Khối kiến thức chuyên ngành
+26
+3
+Thực tập tốt nghiệp
+6
+4
+Luận văn tốt nghiệp
+15
+
+Tổng cộng
+180
+7.2  Nội dung chương trình
+A. Phần kiến thức trình độ đại học
+7.2.1 Khối kiến thức chung
+TT
+Tên học phần
+Mã số học phần
+Số  tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+1
+Triết học Mác-Lênin 
+BAS1150
+3
+X
+
+1
+
+2
+Kinh tế chính trị Mác-Lênin 
+BAS1151
+2
+X
+
+2
+
+3
+Tư tưởng Hồ Chí Minh
+BAS1122
+2
+X
+
+4
+
+4
+Chủ nghĩa xã hội khoa học
+BAS1152
+2
+X
+
+3
+
+5
+Lịch sử Đảng cộng sản Việt Nam
+BAS1153
+2
+X
+
+5
+
+6
+Tiếng Anh (Course 1)*
+BAS1157
+4
+X
+
+2
+
+7
+Tiếng Anh (Course 2)
+BAS1158
+4
+X
+
+3
+
+8
+Tiếng Anh (Course 3)
+BAS1159
+4
+X
+
+4
+
+9
+Tiếng Anh (Course 3 Plus)
+BAS1160
+2
+X
+
+5
+
+10
+Nhập môn Công nghệ số và Ứng dụng AI
+INT11205 
+2
+X
+
+1
+
+
+Tổng
+
+27
+
+
+
+
+
+Giáo dục thể chất và Giáo dục quốc phòng
+1
+Giáo dục thể chất 1
+BAS1106
+2
+X
+
+1
+
+2
+Giáo dục thể chất 2
+BAS1107 
+2
+X
+
+2
+
+3
+Giáo dục Quốc phòng
+BAS1105 
+7,5
+X
+
+1
+
+
+Kiến thức các môn kỹ năng (chọn 3/6 học phần; tổng số TC: 3)
+1
+Kỹ năng thuyết trình 
+SKD1101
+1
+
+X
+3
+
+2
+Kỹ năng làm việc nhóm 
+SKD1102
+1
+
+X
+4
+
+3
+Kỹ năng đổi mới sáng tạo 
+SKD1111
+1
+
+X
+5
+
+4
+Kỹ năng tạo lập văn bản tiếng Việt 
+SKD1103
+1
+
+X
+3
+
+5
+Kỹ năng lập kế hoạch và tổ chức thực hiện công việc  
+SKD1104
+1
+
+X
+4
+
+6
+Kỹ năng giao tiếp 
+SKD1105
+1
+
+X
+5
+
+7
+Kỹ năng tư duy sáng tạo
+SKD1107
+1
+
+x
+5
+
+(*): Điều kiện để đăng ký học phần tiếng Anh Course 1 trong chương trình là sinh viên phải đạt trình độ tiếng Anh từ 225 điểm theo bài thi TOEIC Placement Test trở lên; các sinh viên chưa đạt mức điểm trên sẽ phải hoàn thành học phần tiếng Anh bổ trợ Course 0 (mã BAS1156). Kế hoạch học tập Học phần tiếng Anh thực hiện theo chương trình chi tiết riêng.
+7.2.2 Kiến thức khoa học tự nhiên và xã hội
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+12
+Giải tích 1
+BAS1203
+3
+X
+
+1
+
+13
+Giải tích 2
+BAS1204
+3
+X
+
+2
+
+14
+Đại số
+BAS1201
+3
+X
+
+1
+
+15
+Vật lý 1 và thí nghiệm
+BAS1224
+4
+X
+
+1
+
+16
+Vật lý 2 và thí nghiệm
+BAS1225
+4
+X
+
+2
+
+17
+Xác suất thống kê
+BAS 1226
+2
+X
+
+2
+
+19
+Pháp luật và sở hữu trí tuệ
+BSA12117
+2
+X
+
+4
+
+
+Tổng
+
+21
+
+
+
+
+7.2.3  Khối kiến thức giáo dục chuyên nghiệp 
+7.2.3.1  Khối kiến thức cơ sở
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+20
+Toán rời rạc
+TEL1337
+3
+X
+
+5
+
+21
+Lý thuyết mạch 
+ELE1318
+3
+X
+
+3
+BAS1224
+22
+Linh kiện và mạch điện tử
+ELE13105
+3
+X
+
+2
+BAS1224
+23
+Điện tử số
+ELE1309
+3
+X
+
+4
+ELE13105
+24
+Kiến trúc máy tính và vi xử lý
+TEL13122
+3
+X
+
+3
+
+25
+Hệ điều hành
+TEL1339
+2
+X
+
+5
+
+26
+Tín hiệu và hệ thống
+TEL1368
+3
+X
+
+3
+BAS1224
+27
+Kỹ thuật lập trình
+TEL1340
+3
+X
+
+5
+
+28
+Công nghệ phần mềm
+TEL1341
+3
+X
+
+5
+TEL1340
+29
+Lý thuyết truyền tin
+TEL1344
+3
+X
+
+4
+BAS1226
+30
+Kỹ thuật siêu cao tần
+TEL1345
+3
+X
+
+3
+BAS1224
+31
+Truyền sóng và anten
+TEL1421
+3
+X
+
+4
+TEL1345
+32
+Mô hình hoá và mô phỏng hệ thống truyền thông
+TEL13123
+3
+X
+
+6
+TEL1368
+33
+Cấu trúc dữ liệu và giải thuật
+TEL1342
+3
+X
+
+6
+TEL1340
+
+Tổng
+
+41
+
+
+
+
+7.2.3.2 Khối kiến thức chuyên ngành 
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Mã học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+34
+Cơ sở dữ liệu
+TEL1343
+3
+X
+
+6
+
+35
+Kỹ thuật mạng truyền thông
+TEL1405
+3
+X
+
+6
+TEL1344
+36
+Kỹ thuật thông tin quang
+TEL1406
+3
+X
+
+6
+BAS 1225
+37
+Kỹ thuật thông tin vô tuyến
+TEL1407
+3
+X
+
+6
+TEL1344
+38
+Cơ sở học máy và trí tuệ nhân tạo
+TEL14124
+3
+X
+
+5
+TEL1340
+39
+An toàn mạng thông tin
+TEL1401
+3
+X
+
+7
+TEL1405
+40
+Tự chọn 1
+
+3
+X
+
+7
+
+41
+Tự chọn 2 
+
+3
+X
+
+7
+
+42
+Tự chọn 3
+
+3
+X
+
+7
+
+43
+Đồ án ngành
+TEL14125
+4
+X
+
+7
+TEL1405
+TEL1407
+Các học phần tự chọn
+Tự chọn 1 (chọn 1/3 học phần)
+44
+Thông tin di động
+TEL1415
+3
+
+X
+7
+TEL1407
+45
+Quản trị mạng
+TEL1498
+3
+
+X
+7
+TEL1405
+46
+Hệ thống nhúng IoT
+TEL1457
+3
+
+X
+7
+TEL13122
+Tự chọn 2 (chọn 1/3 học phần)
+47
+Internet và các giao thức
+TEL1469
+3
+
+X
+7
+TEL1405
+48
+Mạng truyền thông quang
+TEL 1346
+3
+
+X 
+7
+TEL1406
+49
+Công nghệ vô tuyến thế hệ mới
+TEL1496
+3
+
+X
+7
+TEL1407
+Tự chọn 3 (chọn 1/3 học phần)
+50
+Dữ liệu lớn
+DAE 1412
+3
+
+X
+7
+TEL1343
+51
+Thông tin vệ tinh
+TEL14101
+3
+
+X 
+7
+TEL1407
+52
+Tự động hóa mạng
+TEL14100
+3
+
+X
+7
+TEL1405
+
+Tổng
+
+31
+
+
+
+
+B. Phần kiến thức trình độ thạc sĩ
+7.2.3.1  Khối kiến thức cơ sở ngành
+TT
+Tên Học phần
+Mã số học phần
+Số  tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+53
+Phương pháp nghiên cứu khoa học
+SKD4112
+2
+X
+
+8
+
+54
+Công cụ toán cho điện tử - viễn thông
+BAS4102
+3
+X
+
+8
+
+55
+Xử lý tín hiệu số nâng cao
+ELE4301
+3
+X
+
+8
+TEL1368
+56
+Mạng định nghĩa bằng phần mềm và công nghệ ảo hoá
+TEL4332
+3
+X
+
+8
+TEL1405
+57
+Chuyên đề thạc sĩ 1
+TEL4308
+2
+X
+
+8
+TEL14125
+
+Tổng:
+
+13
+
+
+
+
+7.2.3.2  Khối kiến thức chuyên ngành
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+58
+Hệ thống thông minh
+TEL4433
+3
+X
+
+9
+BAS4102
+59
+Hệ thống IoT tiên tiến
+TEL4413
+3
+X
+
+9
+TEL13122
+60
+Học máy ứng dụng
+TEL4302
+3
+X
+
+8
+TEL14124
+
+Các học phần tự chọn (chọn 3/12, tổng số 9TC)
+
+Tự chọn 1 – Mạng (chọn 1/4)
+61
+Truyền thông lượng tử
+TEL4415
+3
+
+X
+9
+
+62
+An toàn hệ thống điện toán đám mây
+TEL4416
+3
+
+X
+9
+TEL1405
+63
+Kỹ nghệ Web và API
+TEL4417
+3
+
+X
+9
+TEL1405
+64
+Tối ưu tài nguyên mạng
+TEL4418
+3
+
+X
+9
+TEL1407
+
+Tự chọn 2 – Dữ liệu (chọn 1/4)
+65
+Phân tích dữ liệu trong viễn thông
+TEL4419
+3
+
+X
+9
+TEL14124
+66
+Trí tuệ nhân tạo nâng cao trong viễn thông
+TEL4420
+3
+
+X
+9
+TEL14124
+67
+Dữ liệu lớn nâng cao
+TEL4421
+3
+
+X
+9
+TEL1343
+68
+Quản lý dự án và đổi mới sáng tạo
+VLG4401
+3
+
+X
+9
+
+
+Tự chọn 3 – Vô tuyến (chọn 1/4)
+69
+Hệ thống truyền thông không gian và UAV
+TEL4422
+3
+
+X
+9
+TEL1407
+70
+Truyền thông quang không dây
+TEL4423
+3
+
+X
+9
+TEL1406
+71
+Kỹ thuật lập trình nâng cao
+TEL4303
+3
+
+X
+9
+TEL1340
+72
+Hệ thống vô tuyến thông minh
+TEL 4434
+3
+
+X
+9
+TEL1407
+
+Các chuyên đề nghiên cứu
+73
+Chuyên đề thạc sĩ 2
+TEL4309
+2
+X
+
+9
+TEL14125
+74
+Chuyên đề thạc sĩ 3
+TEL4426
+3
+X
+
+8
+TEL14125
+75
+Chuyên đề thạc sĩ 4
+TEL4427
+3
+X
+
+9
+TEL14125
+
+Tổng
+
+26
+
+
+
+
+7.2.3.3 Thực tập và luận văn tốt nghiệp (21 TC).
+TT
+Tên học phần
+Mã số học phần
+Số tín chỉ
+Loại học phần
+Học kỳ
+Môn học tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+76
+Thực tập tốt nghiệp
+TEL15105
+6
+X
+
+10
+TEL14125
+77
+Luận văn tốt nghiệp
+TEL4531
+15
+X
+
+10
+TEL15105
+
+Tổng
+
+21
+
+
+
+
+8. HƯỚNG DẪN TỔ CHỨC THỰC HIỆN CHƯƠNG TRÌNH
+8.1. Kế hoạch học tập chuẩn (Chi tiết kèm theo)
+8.2. Tiến trình học tập chuẩn (Chi tiết kèm theo)
+8.3 Danh sách các học phần tiên quyết, trước sau (Chi tiết kèm theo)
+8.4 Phương thức tổ chức đào tạo
+Các lớp thuộc Chương trình thạc sĩ tài năng được tổ chức thành các lớp hành chính riêng theo khóa, với sĩ số tối đa 30 sinh viên/lớp. Việc tổ chức đào tạo các học phần được thực hiện theo mục 8.4. Phương thức tổ chức đào tạo. Các vấn đề có liên quan đến việc sàng lọc sinh viên có kết quả học tập kém, hoặc không đủ năng lực học tiếp, hoặc tuyển mới sinh viên từ các lớp hệ đại trà tương đương vào Chương trình thạc sĩ tài năng được thực hiện thống nhất theo các quy định số 2627/QĐ-BGDĐT ngày 17/9/2025 của Bộ Giáo dục và Đào tạo và các quy định có liên quan của Học viện Công nghệ Bưu chính Viễn thông.
+Tất cả sinh viên thuộc chương trình thạc sĩ tài năng (thạc sĩ tích hợp) được phân công học tập chuyên môn, kiến thức, nghiên cứu, ứng dụng theo định hướng của các Lab nghiên cứu ứng dụng dưới sự hướng dẫn của giảng viên trong Khoa Viễn thông 1. Các học phần tài năng, hoạt động ngoại khoá, học tập chứng chỉ sẽ được tổ chức thực hiện theo định hướng chuyên môn của các Lab nghiên cứu ứng dụng. Phương thức tổ chức đào tạo các lớp thuộc CTThSCNTN ngành Điện tử Viễn thông dự kiến được thực hiện như sau:
+Các học phần cốt lõi: gồm các học phần cơ sở và chuyên ngành quan trọng được tổ chức dạy – học theo lớp riêng. Phương pháp giảng dạy được định hướng lấy người học làm trung tâm, áp dụng các phương pháp giảng dạy hiện đại: Học tập dựa trên vấn đề, Học tập dựa trên dự án, Học tập dựa trên seminar chuyên đề, Học tập dựa trên nghiên cứu, có bổ sung các kiến thức chuyên sâu, giảng dạy song ngữ (tiếng Việt kết hợp tiếng Anh), tăng thời lượng tự học, thực hành, giao tiếp, hoạt động nhóm và sáng tạo. Phương pháp đánh giá theo năng lực người học, thực hiện liên tục trong suốt quá trình, đánh giá đa chiều, có phản biện học thuật, liên hệ với sản phẩm và môi trường thực tiễn. 
+Các học phần tài năng: Là các học phần đặc thù được thiết kế riêng trong khuôn khổ chương trình thạc sĩ tích hợp cử nhân tài năng của Khoa Viễn thông 1, nhằm nâng cao kiến thức, định hướng chuyên sâu, xây dựng nền tảng nghiên cứu và phát triển dự án, sản phẩm. Các học phần này được định hướng đến công nghệ điện tử viễn thông tiên tiến, đáp ứng nhu cầu nhân lực chất lượng cao cho thị trường viễn thông.
+Các hoạt động ngoại khoá: Là hoạt động học thuật, kỹ năng hoặc giao lưu học hỏi được tổ chức ngoài khung thời khóa biểu chính khóa, tập trung vào các xu hướng công nghệ mạng thế hệ sau và ứng dụng AI trong mạng viễn thông, nhằm tăng cường kỹ năng toàn diện cho sinh viên của chương trình tài năng, tiếp cận công nghệ và kiến thức tiên tiến, môi trường làm việc và phát triển sau này.
+Các học phần kỹ năng mềm: bồi dưỡng năng lực khởi nghiệp trong lĩnh vực Điện tử viễn thông, tư duy đổi mới sáng tạo về công nghệ, kỹ năng lãnh đạo, giao tiếp chuyên nghiệp, và các kỹ năng mềm cần thiết khác. Các học phần này góp phần hình thành tư duy chiến lược và khả năng thích ứng trong môi trường liên ngành ICT.
+Các học phần khác (cơ bản, đại cương, không cốt lõi) trong chương trình đào tạo có thể được tổ chức dạy – học theo lớp chung với các chương trình đào tạo tài năng của các ngành khác, hoặc lớp chung với hệ chuẩn/đại trà tương đương.
+Các chứng chỉ chuyên môn nghề nghiệp: Gồm các chứng chỉ chuyên môn, nghiệp vụ do các cơ quan, tổ chức, doanh nghiệp có uy tín, hoạt động trong lĩnh vực Điện tử Viễn thông và CNTT ở trong nước và quốc tế cấp. Danh mục các chứng chỉ chuyên môn, nghiệp vụ như Phụ lục 1.3 kèm theo.
+ 8.5. Phương pháp dạy học và kiểm tra đánh giá
+Phương pháp dạy học và kiểm tra đánh giá được liệt kê và thực hiện theo đề cương của các học phần, và theo hướng dẫn tại mục 11.1.a với các học phần cốt lõi. Cụ thể, sau đây là phương pháp dạy học và kiểm tra đánh giá được thực hiện với các học phần cốt lõi:
+a. Các phương pháp giảng dạy
+- Học tập dựa trên vấn đề (Problem-based Learning): rèn luyện tư duy hệ thống, năng lực phân tích – tổng hợp – phản biện; phát triển kỹ năng làm việc nhóm và giao tiếp. 
+- Học tập dựa trên dự án (Project-based Learning): gắn kết lý thuyết – thực tiễn, phát triển năng lực giải quyết vấn đề thực tế , khởi nghiệp và sáng tạo.
+- Học tập dựa trên seminar chuyên đề (Seminar-based Learning): phát triển kỹ năng thuyết trình, tuy duy phản biện, năng lực lãnh đạo.
+- Học tập dựa trên nghiên cứu (Research-based Learning): chuyển vai trò của sinh viên từ người tiếp thu kiến thức thành người tạo ra tri thức mới.
+b. Các phương pháp đánh giá
+- Đánh giá dựa trên năng lực người học: chuyển trọng tâm từ đánh giá ghi nhớ kiến thức sang đánh giá năng lực phân tích, đánh giá và sáng tạo trong bối cảnh thực tiễn.
+- Tăng cường đánh giá quá trình học tập một cách thường xuyên, liên tục: khuyến khích nỗ lực học tập bền vững và phát triển năng lực tự học.
+- Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp: đánh giá khả năng vận dụng, tổng hợp kiến thức, kỹ năng và phẩm chất của người học để giải quyết các vấn đề thực tiễn thông qua các sản phẩm thực tiễn thông qua các sản phẩm như: bài tập thiết kế, mô hình, báo cáo kỹ thuật, dự án liên ngành…
+- Đánh giá đa chiều, có phản biện học thuật: đánh giá các năng lực bậc cao, tuy duy phản biện, giao tiếp học thuật và khả năng điều chỉnh theo phản hồi.
+- Đánh giá trong môi trường thực tiễn: đánh giá toàn diện năng lực vận dụng kiến thức, khả năng thích ứng, làm việc nhóm, tự đánh giá và phát triển nghề nghiệp trong bối cảnh công việc thực tế tại doanh nghiệp, phòng thí nghiệm, hoặc cơ sở thực tập.
+9. MÔ TẢ TÓM TẮT CÁC HỌC PHẦN CHÍNH
+Toán rời rạc (Discrete Mathematics) 
+Mã môn học: TEL1337
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Cung cấp cho sinh viên những kiến thức cơ bản về Toán rời rạc trong công nghệ thông tin, truyền thông, điện tử. Học phần trang bị cho sinh viên các kiến thức cơ bản về lý thuyết tổ hợp, lý thuyết đồ thị và đại số logic.
+Về kỹ năng: Trang bị cho sinh viên kỹ năng áp dụng các công cụ toán học để mô hình hóa các bài toán thực tế, sử dụng các phương pháp toán học để giải quyết các bài toán thực tế của khoa học máy tính và mạng truyền thông.
+Tóm tắt nội dung chính:
+Học phần bao gồm ba phần chính: lí thuyết tổ hợp, lí thuyết đồ thị và toán đại số logic. Phần thứ nhất cung cấp các kiến thức căn bản về lí thuyết tổ hợp với 4 bài toán căn bản bài toán đếm, bái toán tồn tại, bài toán tối ưu và bài toán liệt kê. Phần hai đề cập đến lí thuyết đồ thị, một cấu trúc rời rạc có nhiều ứng dụng trong các lĩnh vực kỹ thuật. Phần này giới thiệu các bài toán quan trọng trong thực tiễn như bài toán đường đi ngắn nhất, bài toán cây khung nhỏ nhất, bài toán luồng cực đại trên mạng, ... Phần ba liên quan đến các hàm đại số logic, là cơ sở để nắm bắt các vấn đề phức tạp trong kỹ thuật máy tính. Phần này đi sâu vào các vấn đề tối thiểu hóa hàm đại số logic và các thuật toán quan trọng khác.
+Lý thuyết mạch (Circuits Theory)
+Mã môn học: ELE1318
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp trạng bị cho người học những kiến thức cơ bản trong phân tích mạch điện, hiểu được nguyên lý và nắm được các phương pháp phân tích và tính toán các mạch điện – điện tử. 
+Tóm tắt nội dung chính: 
+Những phần nội dung cụ thể trong môn học bao gồm: Các khái niệm cơ bản của mạch điện tuyến tính; Các phương pháp phân tích mạch điện: định luật Kirchoff, phân tích nút, phân tích mesh; Các mạch RL, RC, RLC; Đồ thị Bode; Mạng 2 cực và 4 cực; Tổng hợp mạch thụ động và tích cực.
+Linh kiện và mạch điện tử (Electronic devices and circuits)
+Mã môn học: ELE13105
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp cho người học những kiến thức cơ bản về các linh kiện điện tử chính và các mạch điện tử cơ bản bao gồm các mạch khuếch đại, các mạch dao động, các mạch điều chế và các mạch nguồn. 
+Tóm tắt nội dung chính: 
+Những phần nội dung cụ thể trong môn học bao gồm: Cấu trúc và hoạt động các loại diode bán dẫn; Các mạch ứng dụng diode bán dẫn; Cấu trúc và hoạt động của transistor lưỡng cực; Mạch khuếch đại tín hiệu sử dụng BJT; Cấu trúc và hoạt động của transistor hiệu ứng trường (FET); Mạch khuếch đại tín hiệu sử dụng FET; Mạch khuếch đại thuật toán và ứng dụng; Các mạch tạo dao động và hồi tiếp; Các mạch cung cấp nguồn điện.
+Điện tử số (Digital Electronics)
+Mã môn học: ELE1309
+Số tín chỉ: 3
+Mục tiêu:  
+Môn học cung cấp cho người học những kiến thức cơ bản và hệ thống về các mạch cổng logic, phân tích và thiết kế mạch logic tổ hợp như bộ mã hóa, bộ giải mã, bộ cộng, bộ ghép/tách kênh, …, các mạch logic dãy như bộ đếm, thanh ghi dịch. 
+Tóm tắt nội dung chính: 
+Những phần nội dung cụ thể trong môn học bao gồm: Đại số logic và cổng logic: các hệ thống đếm, hệ đếm nhị phân, các định luật cơ bản, phương pháp biểu diễn hàm logic, các hàm cơ bản, cổng logic và các tham số; Mạch logic tổ hợp: tổng quát mạch logic tổng hợp, mạch mã hóa và giải mã, mạch ghép và phân kênh, đơn vị số học và logic ALU; Mạch logic tuần tự: tổng quát mạch logic tuần tự, phương pháp mô tả và phân tích mạch, thiết kế bộ đếm, bộ ghi dịch; Bộ chuyển đổi ADC và DAC: tổng quát về DAC và đặc tính, tổng quát về ADC và đặc tính, xây dựng hệ ghép nối ADC và DAC với máy tính; Vòng khóa pha: cấu trúc và ứng dụng của vòng khóa pha PLL, kỹ thuật tổ hợp tần số, máy phát điều khiển số; Mạch logic khả lập trình: các thiết bị logic khả lập trình và ứng dụng, mạch CPLD, FPGA.
+Kiến trúc máy tính và vi xử lý (Microprocessors and Computer Architectures)
+Mã môn học: TEL13122
+Số tín chỉ: 3
+Mục tiêu:  
+Môn học giúp sinh viên nắm vững nguyên lý tổ chức và hoạt động của máy tính hiện đại, từ kiến trúc tập lệnh và cơ chế pipeline đến hệ thống bộ nhớ phân cấp và thiết kế vi xử lý nhúng. Sinh viên có khả năng lập trình ở mức gần phần cứng, khai thác hiệu quả kiến trúc vi xử lý và thiết kế hệ thống nhúng ứng dụng trong thiết bị viễn thông. 
+Tóm tắt nội dung chính: 
+Môn học trang bị cho sinh viên kiến thức hệ thống về tổ chức và kiến trúc máy tính hiện đại, từ mức cổng logic và tập lệnh đến thiết kế vi xử lý và hệ thống nhúng ứng dụng trong viễn thông. Sinh viên được học về các kiến trúc tập lệnh phổ biến (RISC, CISC), cơ chế pipeline xử lý đa tầng, kỹ thuật dự đoán nhánh và các phương pháp tăng tốc độ thực thi lệnh. Tổ chức hệ thống bộ nhớ phân cấp — bao gồm cache, bộ nhớ chính và bộ nhớ ảo — được phân tích chi tiết nhằm giúp sinh viên hiểu rõ tác động của kiến trúc bộ nhớ đến hiệu năng hệ thống. Môn học giới thiệu kiến trúc vi xử lý ARM và DSP chuyên dụng vốn được sử dụng rộng rãi trong các thiết bị di động, trạm thu phát và thiết bị đầu cuối viễn thông. Phần thiết kế hệ thống nhúng và System-on-Chip (SoC) cung cấp nền tảng để sinh viên hiểu cơ sở hạ tầng tính toán bên trong các thiết bị mạng thế hệ mới như router, gateway và thiết bị IoT. Các chuẩn giao tiếp ngoại vi tốc độ cao (UART, SPI, I2C, PCIe) và kỹ thuật lập trình giao tiếp phần cứng cũng được đưa vào chương trình nhằm đảm bảo tính thực tiễn. Sau khi hoàn thành môn học, sinh viên có thể phân tích, lựa chọn và tích hợp nền tảng tính toán phù hợp cho các hệ thống xử lý tín hiệu và giao thức mạng thời gian thực.
+Hệ điều hành (Operating Systems)
+Mã môn học: TEL1339
+Số tín chỉ: 2
+Mục tiêu: 
+Về kiến thức: Trang bị cho sinh viên các kiến thức nền tảng về chức năng, cấu trúc của hệ điều hành cũng như các nguyên lý, thuật toán mà hệ điều hành dùng để quản lý hệ thống file, quản lý bộ nhớ và quản lý tiến trình.
+Về kỹ năng: Sinh viên nắm vững các kiến thức về hệ điều hành, giải quyết được các bài tập và có khả năng áp dụng, vận hành các hệ điều hành trong thực tế.
+Tóm tắt nội dung chính: 
+Hệ điều hành là môn cơ sở bắt buộc, cung cấp cho sinh viên kiến thức về nguyên lý và khái niệm các hệ điều hành nói riêng và hoạt động của hệ thống máy tính nói chung. Sinh viên được cung cấp kiến thức về: cấu trúc và đặc điểm chung của hệ điều hành, vai trò hệ điều hành trong hệ thống máy tính, các kỹ thuật quản lý tiến trình, quản lý bộ nhớ bao gồm cả bộ nhớ vật lý và bộ nhớ ảo, các vấn đề liên quan tới file và hệ thống quản lý file. Mặc dù không đi sâu vào vấn đề thiết kế và xây dựng hệ điều hành, sinh viên sẽ được làm quen với chi tiết cụ thể về tổ chức bên trong một số thành phần của hệ điều hành và có thể xây dựng một số mô-đun đơn giản.
+Tín hiệu và hệ thống (Signals and Systems)
+Mã môn học: TEL1368
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp cho người học những kiến thức cơ sở phân tích tín hiệu và hệ thống. 
+Tóm tắt nội dung chính: 
+Nội dung môn học tập trung vào đặc trưng các tín hiệu liên tục và rời rạc về thời gian; các kỹ thuật khai triển cho việc phân tích tín hiệu và hệ thống. Sau khi học xong môn này, người học nắm được các khái niệm cơ bản về tín hiệu và hệ thống, cách phân tích và đặc trưng tín hiệu và các hệ thống khác nhau và làm cơ sở cho các môn học tiếp theo.  Những phần nội dung cụ thể trong môn học bao gồm: Cơ sở toán kỹ thuật; Tín hiệu và phân loại; Đáp ứng xung và tích chập; Không gian trạng thái; Khai triển Fourier; Khai triển Laplace và khai triển z; Các kiểu hệ thống và đặc tính: Hệ thống LTI, hệ thống phi tuyến rời rạc;
+Lý thuyết truyền tin (Theory of communication)
+Mã môn học: TEL1344
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp trang bị cho người học những khái niệm và các nguyên tắc cơ bản trong truyền, nhận, biến đổi và xử lý thông tin, mô hình hóa và phân tích quá trình truyền tin.
+Tóm tắt nội dung chính: 
+Những phần nội dung cụ thể trong môn học bao gồm: Giới thiệu cơ bản: hệ thống truyền tin, các chỉ tiêu chất lượng, phương pháp biến đổi thông tin, xu hướng phát triển; Xác suất và quá trình ngẫu nhiên; Cơ sở lý thuyết thông tin: lượng thông tin và phép đo, entropy và các tính chất, lượng thông tin tương hỗ; Kênh thông tin: mô hình kênh, kênh rời rạc, dung lượng kênh thông tin; Lý thuyết mã hóa: mã hóa và phân loại mã, mã hóa kênh; Lý thuyết tín hiệu: biểu diễn thông thấp tín hiệu và hệ thống truyền tin, không gian tín hiệu, biểu diễn tín hiệu điều chế; Nhiễu và thu tối ưu.
+Kỹ thuật siêu cao tần (Microwave Engineering)
+Mã môn học: TEL1345
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Trang bị cho sinh viên các kiến thức cơ bản về trường điện từ và các phần tử cơ bản của mạch siêu cao tần, làm cơ sở cho các môn học chuyên ngành như truyền sóng anten, kỹ thuật thông tin vô tuyến, thông tin di động, các mạng thông tin vô tuyến, thu phát vô tuyến.
+Về kỹ năng: Phân tích, tính toán các biểu thức truyền sóng; tính toán tham số các phần tử cơ bản của mạch siêu cao tần.
+Tóm tắt nội dung chính:
+Học phần Kỹ thuật siêu cao tần cung cấp các kiến thức cơ bản về lý thuyết trường điện từ và các phần tử cơ bản trong mạch siêu cao tần. 
+Bố cục của môn học gồm:
+Các kiến thức cơ bản về lý thuyết trường điện từ và lời giải trong các điều kiện truyền sóng cơ bản. 
+Các lý thuyết về đường dẫn sóng, phân tích mạng siêu cao tần và hoà hợp trở kháng.
+Lý thuyết cơ bản về các phần tử của mạch siêu cao tần như bộ giao động, mạch lọc, bộ chia và ghép định hướng công suất và bộ khuếch đại. 
+Kỹ thuật lập trình (Computer Programing)
+Mã môn học: TEL1340
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Cung cấp cho sinh viên các kiến thức cơ bản về ngôn ngữ lập trình, phương pháp lập trình, cách tiếp cận và phương pháp Lập trình hướng đối tượng và ứng dụng trong ngôn ngữ C++. Sinh viên cũng nắm được các kỹ thuật lập trình cơ bản trong C++ và các lớp quan trọng trong thư viện của C++.
+Về kỹ năng: Trang bị cho sinh viên kỹ năng làm chủ ngôn ngữ C++ và nắm được các phương pháp kỹ thuật để phát triển phần mềm thực tế trên C++. Giúp sinh viên có khả năng sử dụng các thư viện và công cụ hỗ trợ lập trình trên C++. Ngoài ra sinh viên có kỹ năng phối hợp, làm việc nhóm cùng phát triển phần mềm.
+Tóm tắt nội dung chính:
+Học phần cung cấp cho sinh viên các khái niệm cơ bản về ngôn ngữ và kỹ thuật lập trình, phương pháp lập trình hướng cấu trúc và hướng đối tượng trên C++. Học phần giới thiệu các kỹ thuật cơ bản trong C++ như sử dụng con trỏ, mảng và xâu kí tự, sử dụng kiểu dữ liệu cấu trúc, vào/ra tệp, tiếp cận lớp và đối tượng, các vấn đề khác như kế thừa và đa hình, ... Cùng với các các tiếp cận lí thuyết, sinh viên cũng được tiếp cận khả năng thực hành thông qua các case study giải quyết các bài toán lập trình thực tế trên ngôn ngữ C++.
+Kỹ thuật mạng truyền thông (Communication Network Engineering) 
+Mã môn học: TEL1405
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Cung cấp cho sinh viên những kiến thức cơ bản về kỹ thuật mạng truyền thông, các mô hình và nguyên lí xây dựng mạng để qua đó hiểu được các quá trình trao đổi thông tin trên mạng cũng như đặc điểm và tính chất của các công nghệ mạng liên quan.
+Về kỹ năng: Sinh viên có thể triển khai và ứng dụng các công nghệ, kỹ thuật mạng được học để xây dựng, vận hành và khai thác các mạng truyền thông với những qui mô và đặc thù khác nhau.
+Tóm tắt nội dung chính:
+Học phần cung cấp các kiến thức căn bản về nguyên lí và các kỹ thuật xây dựng mạng truyền thông; các phần tử cấu thành mạng và phương pháp kết nối chúng dựa trên mô hình phân lớp mạng; các quá trình và thủ tục diễn ra tại các lớp mạng; các đặc tả, chuẩn công nghệ và giao thức đảm bảo cho hoạt động truyền thông dữ liệu qua mạng. Song song với việc được trang bị các kiến thức nền tảng về kỹ thuật mạng, sinh viên sẽ được dành một phần lớn hàm lượng thời gian lí thuyết và thực hành để đi sâu vào nghiên cứu, tìm hiểu các kỹ thuật và giao thức cơ bản của mạng dựa trên mô hình TCP/IP; xu hướng phát triển và đặc điểm của các công nghệ mạng trên nền IP; các giải pháp kỹ thuật để triển khai mạng IP với những qui mô và đặc thù khác nhau cũng như là cách thức cài đặt, cấu hình các thiết bị mạng IP.
+Kỹ thuật thông tin quang (Optical Communications)
+Mã môn học: TEL1406
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp cho người học những kiến thức cơ sở về thông tin quang. Nội dung của môn học sẽ tập trung vào các thành phần cơ bản trong hệ thống thông tin quang cho đến một số vấn đề trong thiết kế các loại hệ thống thông tin quang cơ bản. Sau khi học xong môn này, người học nắm được nguyên lý hoạt động của một hệ thống thông tin quang cũng như các nguyên tắc cơ bản trong thiết kế một hệ thống thông tin quang, và làm cơ sở cho các môn học chuyên sâu khác.
+Tóm tắt nội dung chính: 
+Những phần nội dung cụ thể trong môn học bao gồm: Sợi quang và đặc tính truyền dẫn; Bộ phát quang; Bộ thu quang; Khuyếch đại quang; Các phần tử thụ động, Hệ thống thông tin quang tương tự; Hệ thống thông tin quang số, Hệ thống thông tin quang đa kênh.
+Kỹ thuật thông tin vô tuyến (Wireless Communications)
+Mã môn học: TEL1407
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học “Kỹ thuật thông tin vô tuyến” trang bị cho sinh viên ngành ĐTVT:
+Về kiến thức: Trang bị cho sinh viên các kỹ thuật nền tảng, then chốt và đặc trưng nhất của truyền thông vô tuyến: Tín hiệu và hệ thống truyền thông vô tuyến; Kênh và mô hình kênh vô tuyến; kỹ thuật điều chế/giải điều chế; kỹ thuật đa anten; kỹ thuật đa truy nhập vô tuyến; Thách thức truyền dẫn tốc độ cao và giải pháp cải thiện hiệu năng cơ bản.
+Kỹ năng: (i) Phân tích mô hình các khối chức năng của hệ thống ở dạng mô phỏng và tính toán, từ đơn giản đến phức tạp; (ii) khảo sát và đánh giá hiệu năng các hệ thống thông tin vô tuyến (tỉ lệ lỗi bit BER, tỉ lệ lỗi ký hiệu SER và hiệu năng dung lượng).
+Tóm tắt nội dung chính:
+Học phần kỹ thuật thông tin vô tuyến cung cấp các kiến thức cơ bản nền tảng, then chốt về tín hiệu và hệ thống truyền thông vô tuyến, các kỹ thuật xử lý tín hiệu trong truyền thông vô tuyến, các thách thức truyền dẫn tốc độ cao và giải pháp cải thiện hiệu năng truyền thông vô tuyến điển hình. Bố cục của môn học gồm 4 phần:
+Phần 1: Các nội dung cơ bản về: (1) Các khái niệm cơ bản trong truyền thông vô tuyến (Kênh truyền sóng, sóng mang, tín hiệu băng tần gốc và thông băng, phân tập, ghép kênh không gian v,v...); (2) Kênh và mô hình kênh vô tuyến, đặc tính kênh vô tuyến, trực quan hóa quá trình truyền sóng vô tuyến trên cơ sở mô phỏng và phân tích hiệu năng.
+Phần 2: Các kỹ thuật xử lý tín hiệu then chốt trong truyền thông vô tuyến: (1) Kỹ thuật điều chế/giải điều chế, trực quan hóa quá trình điều chế/giải điều chế trên cơ sở mô phỏng và phân tích đánh giá hiệu năng; (2) Kỹ thuật mã hóa kênh kiểm soát lỗi, mô phỏng và phân tích đánh giá hiệu năng; (3) Kỹ thuật đa anten MIMO, mô hình kênh, mô hình hệ thống, phân tích, mô phỏng đánh giá hiệu năng.
+Phần 3: Tài nguyên vô tuyến và các kỹ thuật đa truy nhập vô tuyến
+Phần 4: Thách thức truyền dẫn tốc độ cao và giải pháp nâng cao suất sử dụng tài nguyên vô tuyến điển hình
+Mô hình hóa và mô phỏng hệ thống truyền thông (Modeling and Simulation of Communication Systems)
+Mã môn học: TEL13123
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: 
+Cung cấp cho người học những khái niệm và kiến thức cơ bản về mô hình hoá và mô phỏng hệ thống viễn thông trên cơ sở các công cụ toán học và mô hình ngẫu nhiên. Môn học giúp học viên có khả năng phân tích, so sánh và đề xuất các giải pháp kỹ thuật, làm cơ sở cho các môn học chuyên sâu ngành Điện tử viễn thông.. 
+Về kỹ năng: 
+Sinh viên có kỹ năng mô hình hoá hệ thống và sử dụng các bộ công cụ toán học, như MATLAB và Simulink, các phương pháp cơ bản áp dụng cho phân tích, mô hình hoá và mô phỏng hệ thống truyền thông.
+Tóm tắt nội dung chính: 
+Nội dung học phần tập trung vào việc xây dựng mô hình trừu tượng cho các hệ thống kỹ thuật phức tạp, đặc biệt là các hệ thống viễn thông và hạ tầng số. Học phần giới thiệu các phương pháp phân tích mô hình, mô phỏng sự kiện rời rạc, đồng thời làm rõ mối liên hệ giữa mô hình toán học và hành vi của hệ thống. Học phần cũng cung cấp các công cụ toán học mô phỏng hoạt động hệ thống truyền thông, kênh thông tin, ... trong các bài toán ứng dụng của mạng truyền thông, mạng di động, IoT, truyền thông vũ trụ, ....
+Truyền sóng và anten (Antenna and Wave Propagation)
+Mã môn học: TEL1421
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Cung cấp kiến thức cơ bản về quá trình truyền lan sóng vô tuyến, tập trung vào tuyền lan của sóng cực ngắn sử dụng cho truyền dẫn vô tuyến. Các kiến thức về lý thuyết anten, kỹ thuật anten, tập trung vào anten chấn tử và anten bức xạ mặt sử dụng trong thông tin vô tuyến.
+Về kỹ năng: Phân tích các biểu thức truyền sóng, thiết kế anten, đo các tham số cơ bản của anten.
+Tóm tắt nội dung chính:
+Môn học Truyền sóng và Anten là môn học cơ sở của ngành Kỹ thuật điện tử viễn thông, cung cấp các kiến thức cơ bản về quá trình truyền lan sóng điện từ trong không gian, đồng thời môn học cũng trình bày phần tử quan trọng hàng đầu trong việc phát và thu sóng điện từ là anten. Bố cục của môn học gồm 2 phần: 
+Phần 1: Trình bày các nội dung cơ bản về truyền sóng vô tuyến, khảo sát quá trình truyền lan của sóng cực ngắn và phân tích đặc tính truyền lan sóng trong thông tin di động – một lĩnh vực phát triển mạnh nhất của truyền dẫn vô tuyến hiện nay.
+Phần 2: Trình bày lý thuyết anten với các nội dung tổng quan về anten, phân tích hai loại anten cơ bản là anten chấn tử và anten góc mở, cuối cùng là các vấn đề liên quan tới kỹ thuật anten. 
+Vì đây là môn học dành cho sinh viên ngành Kỹ thuật điện tử viễn thông nên các nội dung trình bày ngoài các kiến thức lý thuyết chung, phần lớn đều tập chung cho ứng dụng truyền dẫn vô tuyến đảm bảo tính thực tiễn và hỗ trợ tốt cho các môn học chuyên ngành sau này.
+Cấu trúc dữ liệu và giải thuật (Data Structures and Algorithms)
+Mã môn học: TEL1342
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học “Cấu trúc dữ liệu và giải thuật” nhằm trang bị cho sinh viên ngành ĐTVT:
+Về kiến thức: Trang bị cho sinh viên phương pháp biểu diễn các đối tượng thành dữ liệu, các thao tác trên biểu diễn dữ liệu và thuật toán áp dụng trên biểu diễn dữ liệu. Sinh viên được trang bị những kiến thức cơ bản về thuật toán và cấu trúc dữ liệu, các phương pháp duyệt và đệ qui, các cấu trúc dữ liệu trừu tượng, các phương pháp sắp xếp và tìm kiếm.
+Về kỹ năng: 
+Trang bị cho sinh viên phương pháp biểu diễn các đối tượng ở thế giới thực thành các đổi tượng dữ liệu trong hệ thống máy tính.
+Trang bị cho sinh viên phương pháp xây dựng thao tác trên biểu diễn dữ liệu.
+Trang bị cho sinh viên thuật toán xây dựng trên biểu diễn dữ liệu.
+Đánh giá tính hiệu quả và độ phức tạp thuật toán dựa trên biểu diễn dữ liệu.
+Tóm tắt nội dung chính:
+Học phần Cấu trúc dữ liệu và giải thuật trang bị cho sinh viên những kiến thức cơ sở quan trọng để sinh viên học tập tốt các môn học chuyên ngành tiếp theo. Bên cạnh đó, môn học cũng tập trung trang bị cho sinh viên các thuật toán trên các kiểu dữ liệu cơ bản, cung cấp cho sinh viên phương pháp biểu diễn ngăn xếp, hàng đợi và danh sách liên kết cùng các thuật toán trên các cấu trúc dữ liệu này, các phương pháp biểu diễn cây nhị phân cùng các thuật toán trên cây nhị phân. Môn học cũng hướng đến trang bị cho sinh viên phương pháp biểu diễn đồ thị cùng các thuật toán trên đồ thị cũng như các thuật toán sắp xếp và tìm kiếm cùng với ứng dụng của nó trong khoa học máy tính.
+Cơ sở dữ liệu (Databases)
+Mã môn học: TEL1343
+Số tín chỉ: 3
+Mục tiêu:
+Môn học “Cơ sở dữ liệu” nhằm trang bị cho sinh viên ngành ĐTVT:
+Về kiến thức: Trang bị cho sinh viên các kiến thức nền tảng về Cơ sở dữ liệu, kiến thức về các mức trừu tượng hóa Cơ sở dữ liệu, các mô hình Cơ sở dữ liệu, các ngôn ngữ biểu diễn và xử lý dữ liệu, lý thuyết về Cơ sở dữ liệu quan hệ, quy trình thiết kế Cơ sở dữ liệu.
+Về kỹ năng: Sinh viên nắm vững các kiến thức và có khả năng áp dụng các kiến thức vào việc thiết kế Cơ sở dữ liệu, xây dựng các ứng dụng Cơ sở dữ liệu.
+Tóm tắt nội dung chính: 
+Môn học cung cấp cho sinh viên những kiến thức cơ bản về cơ sở dữ  liệu, các phương pháp tiếp cận và các nguyên tắc thiết kế các hệ cơ sở dữ liệu và quan hệ. Mô hình hóa dữ liệu bằng kiến trúc logic và kiến trúc vật lý không tổn thất thông tin có bảo toàn phụ thuộc. Các phép toán cơ bản của ngôn ngữ thao tác dữ liệu trên các hệ cơ sở dữ liệu.
+Công nghệ phần mềm (Software Engineering)
+Mã môn học: TEL1341
+Số tín chỉ: 3
+Mục tiêu:
+Về kiến thức: Cung cấp cho sinh viên các khái niệm cơ bản và phương pháp kỹ thuật trong quá trình phát triển phần mềm theo các giai đoạn dựa trên vòng đời phát triển phần mềm. Ngoài ra học phần còn cung cấp cho sinh viên nắm được các vấn đề liên quan trong quá trình phát triển như công nghệ, kinh tế, tài nguyên nhân lực, ...
+Về kỹ năng: Trang bị cho sinh viên kỹ năng áp dụng các phương pháp kỹ thuật để phát triển phần mềm thực tế. Giúp sinh viên có thể sử dụng các công cụ để biểu diễn, vẽ sơ đồ các pha phát triển phần mềm, hiểu được các kỹ thuật phát triển phần mềm, phối hợp giữa các pha và công việc trong tiến trình phát triển phần mềm thống nhất.
+Tóm tắt nội dung chính:
+Học phần cung cấp cho sinh viên các khái niệm cơ bản về công nghệ phần mềm, các phương pháp kỹ thuật và công việc thực hiện phát triển phần mềm theo từng giai đoạn, bao gồm: tiến trình phần mềm, mô hình vòng đời phát triển phần mềm, lập kế hoạch và soạn tài liệu, thiết lập yêu cầu, phân tích và mô hình hóa yêu cầu, các mô hình thiết kế, cài đặt và kiểm thử, ứng dụng... Học phần cũng cung cấp đánh giá quá trình phát triển phần mềm trên một số khía cạnh khác như công nghệ, kinh tế, nguồn nhân lực, ...
+Thông tin di động (Mobile Communications)
+Mã môn học: TEL1415
+Số tín chỉ: 3
+Mục tiêu:
+Về kiến thức: Trang bị cho sinh viên các kiến thức cơ bản về các vấn đề chung của thông tin di động và các hệ thống thông tin di động.
+Về kỹ năng: Hiểu rõ về các hệ thống thông tin di động: các kiến trúc mạng di động, phân tích hoạt động của các hệ thống ở mạng truy nhập (giao diện vô tuyến) và mạng lõi.
+Tóm tắt nội dung chính:
+Học phần Thông tin di động cung cấp các kiến thức cơ bản và nền tảng liên quan đến thông tin di động, bao gồm
+Tổng quan về thông tin di động: 
+Các sơ đồ xử lý tín hiệu đa phương tiện và dịch vụ trong di động
+Hệ thống thông tin di động GSM/ GPRS
+Hệ thống thông tin di động WCDMA UMTS
+Hệ thống thông tin di động 3G+ HSPA
+Hệ thống thông tin di động LTE, LTE Advanced
+Hệ thống thông tin di động 5G
+Để học tốt học phần này, sinh viên phải có kiến thức về các kỹ thuật thông tin vô tuyến, nghiên cứu các vấn đề lý thuyết được trình bày trong từng chương và tự trả lời các câu hỏi, giải các bài tập ở cuối mỗi chương. Phần thực hành của môn học được thực hiện trên máy đo Agilent 8922M với các phép đo cơ bản sẽ giúp sinh viên hiểu sâu hơn các kiến thức đã học trên lớp. 
+An toàn mạng thông tin (Information Network Security) 
+Mã môn học: TEL1401
+Số tín chỉ: 3 
+Mục tiêu: 
+Về kiến thức: Cung cấp cho sinh viên những kiến thức cơ bản về An toàn mạng thông tin, các khía cạnh và vấn đề đặt ra của bài toán An toàn mạng thông tin, các công cụ, kỹ thuật và phương pháp để đảm bảo an toàn cho mạng truyền thông.
+Về kỹ năng: Sinh viên có thể hiểu được các vấn đề thực tế của bài toán đảm bảo An toàn mạng thông tin, các nguy cơ tấn công mạng và biện pháp phòng ngừa, ứng dụng được các công cụ, giải pháp kỹ thuật liên quan để tăng cường khả năng chống lại tấn công, đảm bảo sự an toàn và khả năng phục hồi của mạng.
+Tóm tắt nội dung chính:
+Học phần cung cấp cho sinh viên các khái niệm căn bản về An toàn mạng thông tin, các khía cạnh và vấn đề kỹ thuật liên quan tới An toàn mạng thông tin, các nguy cơ tấn công mạng và biện pháp phòng ngừa. Phần nội dung chính của học phần sẽ đề cập đến các kỹ thuật mật mã và phương pháp sử dụng để mã hóa bảo mật thông tin, các kỹ thuật xác thực nguồn gốc và đảm bảo tính toàn vẹn của thông tin, kỹ thuật xác thực người sử dụng, phân phối khóa. Các giải pháp an toàn hệ thống như IDS, tường lửa cũng sẽ được giới thiệu. Song song với việc trang bị các kiến thức nền tảng về An toàn mạng thông tin, học phần cũng sẽ giới thiệu các giao thức, dịch vụ an toàn quan trọng, hệ thống an toàn thực tế đang được sử dụng để đảm bảo an ninh cho mạng Internet toàn cầu cũng như các ứng dụng chạy trên mạng của các tổ chức, doanh nghiệp.
+Internet và các giao thức (Internet and protocols) 
+Mã môn học: TEL1469
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Học phần này trang bị cho sinh viên các kiến thức về lớp phiên, lớp trình diễn, lớp ứng dụng và các giao thức cũng như cơ chế, đặc điểm, tính năng của lớp ứng dụng để qua đó hiểu được hoạt động của các ứng dụng mạng và các quá trình thiết lập dịch vụ. Ngoài ra, kỹ thuật điều khiển và kết nối trong mạng Internet cũng được trang bị cho sinh viên trong môn học này.
+Về kỹ năng: Sinh viên có thể nắm chắc các khái niệm liên quan đến mạng Internet. Từ đó có khả năng nghiên cứu, triển khai và thiết lập các ứng dụng, dịch vụ cơ bản trên mạng Internet.
+Tóm tắt nội dung chính:
+Trong học phần này, các dịch vụ, giao thức và các chuẩn của lớp phiên và lớp trình diễn được trình bày. Đồng thời, môn học cũng trang bị các kiến thức về nguyên lý và kiến trúc mạng Internet trên lớp ứng dụng, bao gồm mô hình client-server và peer-to-peer; hoạt động của các ứng dụng client-server cơ bản như Web, truyền file, thư điện tử, DNS và các giao thức sử dụng để thiết lập các ứng dụng này như HTTP, SMTP, DNS; hoạt động của mạng peer-to-peer và các ứng dụng điển hình. Ngoài ra, các nguyên tắc, nguyên lý điều khiển thông qua giao thức báo hiệu, và các thủ tục và phương pháp kết nối trên các hạ tầng Internet hiện nay cũng được trình bày.
+Quản trị mạng (Network Management) 
+Mã môn học: TEL1498
+Số tín chỉ: 2
+Mục tiêu: 
+Môn học “Quản trị mạng” nhằm trang bị cho sinh viên ngành ĐTVT:
+Về kiến thức: Các giải pháp quản trị mạng công nghệ thông tin và truyền thông đã là một phần cốt lõi của nền tảng mạng doanh nghiệp. Môn học này sẽ đưa ra các vấn đề liên quan tới lý thuyết, phương pháp và công nghệ quản trị mạng cập nhật nhằm giúp sinh viên tiếp cận tốt nhất tới thực tế quản lý mạng truyền thông của doanh nghiệp. Sinh viên sẽ nắm bắt, phân tích và ứng dụng các giải pháp quản trị mạng tiên tiến vào các tình huống thực tiễn đặt ra. Phương pháp luận và hướng phát triển chuyên sau cũng được đặt ra trong nội dung của môn học.
+Về kỹ năng: Bên cạnh các kỹ năng phân tích và đánh giá các giải pháp kỹ thuật được sử dụng trong mục tiêu quản trị mạng, sinh viên sẽ phân tích và tự xây dựng các mô hình, kịch bản và hệ thống quản trị mạng tiếp cận với các bài toán thực tế. Các kỹ thuật mô phỏng nhằm thực thi nhiệm vụ quản trị mạng sẽ hỗ trợ tốt nhất cho sinh viên thực hiện các nhiệm vụ cấu hình, quản lý lỗi và tối ưu hệ thống mạng truyền thông.
+b. Tóm tắt nội dung chính:
+Học phần cung cấp kiến thức nền tảng và chuyên sâu về quản lý mạng trong các hệ thống truyền thông hiện đại. Nội dung tập trung vào mục tiêu, phạm vi, mô hình, giao thức và kỹ thuật quản trị mạng, đồng thời làm rõ mối liên hệ giữa quản lý hạ tầng mạng và quản lý dịch vụ tầng ứng dụng. Học phần cũng giới thiệu các hướng quản lý mạng tiên tiến như tự động hóa, quản lý nhận biết ngữ cảnh và cơ chế tự quản lý, bao gồm tự cấu hình, tự phục hồi, tự tối ưu hóa và tự bảo vệ. Qua đó, sinh viên có khả năng phân tích và đề xuất giải pháp quản trị nhằm nâng cao hiệu năng, độ tin cậy và khả năng thích ứng của hệ thống mạng.
+Hệ thống nhúng IoT (IoT Embedded Systems)
+Mã môn học: TEL1457
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp cho người học những kiến thức trong thiết kế các Hệ thống nhúng IoT bao gồm cả các kiến trúc phần cứng và phần mềm. Nội dung môn học sẽ tập trung vào các thành phần và nền tảng phần cứng nhúng, giao tiếp với các môi trường ngoài sử dụng các cảm biến và cơ cấu chấp hành, tổ chức phần mềm nhúng bao gồm cả các Cơ sở hệ điều hành thời gian thực, tổng quan về liên lạc không dây công suất thấp và các miền ứng dụng khác nhau đang nổi lên như IoT.
+Tóm tắt nội dung chính: 
+Những phần nội dung cụ thể trong môn học bao gồm: Giới thiệu cơ bản về Hệ thống nhúng IoT: xu hướng, ứng dụng, luồng thiết kế; Nền tảng phần cứng nhúng và các thiết bị ngoại vi; Tổ chức phần mềm nhúng; Truyền thông không dây trong các Hệ thống nhúng IoT; Triển khai và ứng dụng.
+Mạng truyền thông quang (Optical Communication Networks)
+Mã môn học: TEL 1346
+Số tín chỉ: 3
+Mục tiêu
+Về kiến thức: Trang bị cho sinh viên các kiến thức về mạng truyền thông quang, các lớp khách hàng của lớp quang (NG-SDH, OTN, Ethernet, IP, MPLS), mạng truyền thông quang WDM, đồng bộ, điều khiển và quản lý mạng quang, bảo vệ mạng quang và mạng truy nhập quang.
+Về kỹ năng:  Sinh viên có khả năng nắm bắt, thiết kế, tối ưu, vận hành, quản lý các hệ thống truyền thông quang, có kỹ năng phân tích, đánh giá về các công nghệ trên mạng truyền thông quang. 
+Về thái độ: Sinh viên cần lên lớp đầy đủ, tích cực thảo luận và làm bài tập trên lớp, có tinh thần tự học cao 
+Tóm tắt nội dung chính
+Học phần được giảng dạy tại kì 7 của chương trình đào tạo. Nội dung môn học bao gồm: Giới thiệu về mạng truyền thông quang: kiến trúc mạng, các dịch vụ, các mạng truyền thông, lớp quang, xu hướng phát triển mạng quang và hiệu năng mạng quang. Các lớp khách hàng của lớp quang: NG-SDH, OTN, Ethernet, IP và MPLS. Mạng quang WDM: cấu hình và các thành phần cơ bản của mạng, IP/WDM, vấn đề thiết kế cơ bản mạng và các ứng dụng của mạng quang WDM. Đồng bộ mạng quang: đồng bộ và tín hiệu định thời, chất lượng tín hiệu, rung pha (Jitter) và trôi pha (Wander. Điều khiển và quản lý mạng quang. Bảo vệ và hồi phục mạng quang. Ngoài ra, môn học cũng cung cấp các kiến thức về mạng truy nhập quang như cấu hình cơ bản, cấu hình tham chiếu, các khối chức năng cơ bản của mạng truy nhập quang, các phương thức truy nhập quang và vấn đề thiết kế và đo kiểm mạng truy nhập quang. 
+Hệ thống vô tuyến thông minh (Intelligent Wireless Systems)
+Mã môn học: TEL4434
+Số tín chỉ: 3
+Mục tiêu
+Về kiến thức: Môn học giúp người học nắm vững kiến thức về xu thế phát triển của các hệ thống và mạng thông tin vô tuyến thông minh; đồng thời giới thiệu các kỹ thuật và công nghệ vô tuyến thông minh được triển khai trong các hệ thống và mạng thông tin vô tuyến thế hệ sau. Bên cạnh đó, môn học cũng giới thiệu các hệ thống và mạng thông tin vô tuyến tiên tiến điển hình để từ đó người học có thể tìm hiểu sâu và thực hiện các chuyên đề nghiên cứu về thông tin vô tuyến dưới dạng các tiểu luận.
+Về kỹ năng: Sau khi hoàn thành môn học, người học có khả năng phân tích và đánh giá hiệu năng của các hệ thống thông tin vô tuyến thông minh bằng việc trang bị cho người học kỹ năng tìm hiểu và đề xuất vấn đề nghiên cứu, làm việc nhóm, viết báo cáo, và thuyết trình kết quả nghiên cứu.
+Về thái độ:: Tham gia đầy đủ các giờ lý thuyết, thảo luận nhóm. Hoàn thành đầy đủ các bài tập được giao, có tinh thần tự học cao. 
+Tóm tắt nội dung chính
+Học phần được giảng dạy tại học kỳ 8, thuộc kiến thức chuyên ngành của chương trình đào tạo. Môn học cung cấp kiến thức về các mạng và hệ thống vô tuyến thông minh như hệ thống giao thông thông minh, hệ thống phi mặt đất thông minh, hệ thống cảm biến thông minh, bề mặt phản xạ thông minh …Bên cạnh đó, người học được trang bị kiến thức về mô hình kênh truyền, phân tích hiệu năng hệ thống, mô phỏng và thiết kế các kịch bản truyền thông thông minh. Ngoài ra, các xu hướng mới như công nghệ bản sao số, FSO, AI, và tối ưu hoá trong hệ thống vô tuyến thông minh cũng được giới thiệu trong học phần.
+Công cụ toán cho điện tử viễn thông (Mathematical Methods for Electronic and Telecommunications Engineering)
+Mã môn học: BAS4102
+Số tín chỉ: 3
+Mục tiêu: Học phần cung cấp các công cụ toán học quan trọng phục vụ cho việc phân tích, mô hình hóa và thiết kế các hệ thống điện tử - viễn thông hiện đại.
+Tóm tắt nội dung chính:
+Nội dung môn học bao gồm các chủ đề như đại số tuyến tính và phân tích ma trận, giải tích và tối ưu hóa, xác suất và quá trình ngẫu nhiên, cũng như các phép biến đổi và công cụ phân tích tín hiệu như biến đổi Fourier. Các phương pháp toán học này được ứng dụng trong phân tích tín hiệu, mô hình hóa kênh truyền, đánh giá hiệu năng và thiết kế các thuật toán trong các hệ thống truyền thông số và vô tuyến. Học phần giúp học viên xây dựng nền tảng toán học vững chắc để nghiên cứu và phát triển các công nghệ điện tử - viễn thông tiên tiến
+An toàn hệ thống điện toán đám mây  
+Mã môn học: TEL4416
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học “ An toàn hệ thống điện toán đám mây” nhằm trang bị cho sinh viên ngành ĐTVT:
+Về kiến thức: Trang bị cho sinh viên các kiến thức cơ bản về điện toán đám mây và kỹ năng thực hành về các chủ đề cơ bản liên quan đến điện toán đám mây. Nội dung chính của học phần gồm các khái niệm, các mô hình dịch vụ đám mây, các mô hình triển khai đám mây, các công nghệ nền tảng cho điện toán đám mây, và an ninh trên đám mây.
+Về kỹ năng: Sinh viên có khả năng phân tích và đánh giá được lợi ích của việc triển khai các ứng dụng trên nên tảng đám mây so với kiến trúc thông thường, có khả năng lựa chọn các mô hình phù hợp với yêu cầu của từng loại đám mây, và có khả năng nghiên cứu và phát triển các ứng dụng trên nền tảng điện toán đám mây dựa trên các kiến thức nền tảng đã học.
+Tóm tắt nội dung chính:
+Điện toán đám mây là một mô hình cho phép truy nhập mạng theo yêu cầu mọi lúc mọi nơi, thuận tiện để chia sẻ các nguồn tài nguyên tính toán (các mạng, các máy chủ, lưu trữ, các ứng dụng và các dịch vụ) có thể được cung cấp và phát hành một cách nhanh chóng với tương tác cung cấp dịch vụ và nỗ lực quản lý tối thiểu. Học phần này sẽ cung cấp cho sinh viên một cái nhìn đầy đủ về lịch sử phát triển, khái niệm, lợi ích cùng những thách thức mà công nghệ điện toán đám mây mang lại. Sinh viên cũng sẽ được trang bị các kiến thức về các mô hình dịch vụ điện toán đám mây, cùng những mô hình triển khai đám mây, các công nghệ nền tảng giúp cho công nghệ điện toán đám mây này trở thành hiện thực. Ngoài ra, sinh viên cũng được cung cấp các kiến trúc về vấn đề an ninh trên đám mây.
+Cơ sở học máy và trí tuệ nhân tạo (Foundations of Artificial Intelligence and Machine Learning)
+Mã môn học: TEL14124
+Số tín chỉ: 3 
+a. Mục tiêu: 
+Môn học trang bị cho sinh viên nền tảng lý thuyết toán học và thuật toán cốt lõi của học máy và trí tuệ nhân tạp, đảm bảo khả năng hiểu sâu thay vì chỉ sử dụng công cụ. Sinh viên có thể xây dựng, huấn luyện và đánh giá các mô hình học máy — từ phương pháp cổ điển đến mạng nơ-ron sâu — để giải quyết các bài toán thực tiễn trong kỹ thuật viễn thông. Môn học đồng thời hình thành ý thức trách nhiệm nghề nghiệp khi triển khai hệ thống AI trong hạ tầng mạng, bao gồm các yêu cầu về độ tin cậy, công bằng và khả năng giải thích mô hình.
+b. Tóm tắt nội dung chính: 
+Môn học cung cấp nền tảng lý thuyết và thực hành về Trí tuệ nhân tạo và Học máy, định hướng ứng dụng vào các bài toán kỹ thuật viễn thông như nhận dạng tín hiệu, phân loại lưu lượng mạng và tối ưu hóa tài nguyên. Phần đầu môn học củng cố các công cụ toán học thiết yếu bao gồm đại số tuyến tính, giải tích đa biến, xác suất thống kê và lý thuyết thông tin — nền tảng không thể thiếu để hiểu và phát triển các thuật toán học máy. Các phương pháp học có giám sát cơ bản như hồi quy tuyến tính, hồi quy logistic, cây quyết định, k-NN và SVM được trình bày kèm theo phân tích điều kiện áp dụng và đánh giá hiệu năng thực tiễn. Sinh viên tiếp cận kiến trúc mạng nơ-ron nhân tạo từ perceptron đến mạng nhiều lớp, hiểu nguyên lý lan truyền ngược và các phương pháp tối ưu hóa tham số mô hình (SGD, Adam). Học sâu được giới thiệu thông qua các kiến trúc CNN và RNN với ứng dụng điển hình trong xử lý tín hiệu số và phân tích chuỗi thời gian viễn thông. Phần học không giám sát bao gồm các thuật toán phân cụm (K-Means, DBSCAN) và giảm chiều dữ liệu (PCA), cung cấp công cụ xử lý dữ liệu chưa được gán nhãn vốn rất phổ biến trong thực tế vận hành mạng.
+Đồ án ngành (Capstone Project)
+Mã môn học: TEL14125
+Số tín chỉ: 4
+Mục tiêu: 
+Phát triển vững chắc nghề nghiệp chuyên môn: sinh viên có thể làm việc hiệu quả trong lĩnh vực kỹ thuật điện tử viễn thông và các ngành liên quan, áp dụng thành công các nguyên lý kỹ thuật trong việc thiết kế, phát triển, vận hành và quản lý hệ thống truyền thông tại các doanh nghiệp.
+Phát triển khả năng làm việc nhóm, sáng tạo và có tố chất lãnh đạo: sinh viên có khả năng thích ứng tốt trong môi trường làm việc chuyên nghiệp, có thể quản lý các dự án kỹ thuật, đưa ra các giải pháp tiến tiến, hiệu quả, sáng tạo trong lĩnh vực kỹ thuật điện tử viễn thông.
+Phát triển chuyên môn, ý thức học tập suốt đời: sinh viên có khả năng tiếp tục phát triển bản thân và chuyên môn, có ý thức liên tục tự học, tham gia các chương trình đào tạo chuyên sâu, tổ chức nghiên cứu, hoặc tiếp tục học tập ở trình độ cao hơn.
+Phát triển nhận thức về trách nhiệm xã hội và đạo đức nghề nghiệp: sinh viên hình thành ý thức coi trọng các giá trị đạo đức nghề nghiệp, đồng thời đóng góp vào sự phát triển bền vững của xã hội
+Tóm tắt nội dung chính:  
+Học phần Đồ án ngành thể hiện sự vận dụng khối kiến thức tổng hợp về điện tử viễn thông vào thực tiễn nhằm giúp sinh viên nhìn nhận vấn đề một cách khoa học, từ đó nghiên cứu hoặc đề xuất được các giải pháp mới hoặc các biện pháp khắc phục, hoàn thiện các hệ thống mạng viễn thông, công nghệ và dịch vụ của các tổ chức, doanh nghiệp hoạt động trong lĩnh vực điện tử và viễn thông. Trên cơ sở định hướng và chỉ dẫn của giảng viên hướng dẫn, khi thực hiện Đồ án ngành, sinh viên sẽ chọn một chủ đề nghiên cứu trong lĩnh vực điện tử viễn thông hoặc một vấn đề trong thực tiễn của các tổ chức, doanh nghiệp hoạt động trong lĩnh vực điện tử viễn thông phù hợp với các nội dung chuyên ngành để nghiên cứu
+Mạng định nghĩa bằng phần mềm và công nghệ ảo hoá (Software-Defined Networking and Virtualization Technology)
+Mã môn học: TEL4332
+Số tín chỉ: 3
+Mục tiêu: 
+ Môn học “Mạng định nghĩa bằng phần mềm và công nghệ ảo hoá ” nhằm trang bị cho sinh viên ngành ĐTVT:
+Về kiến thức: Trang bị cho sinh viên các kiến thức cốt lõi về các giải pháp công nghệ hỗ trợ kinh doanh cho các doanh nghiệp từ góc độ kỹ thuật và chuyên gia giải pháp mạng. Sinh viên được tiếp cận các giải pháp kỹ thuật mới nhất để hiểu rõ kiến trúc và ứng dụng của SDN và các công nghệ ảo hoá, bao gồm NFV.  
+Về kỹ năng: Sau khi kết thúc học phần, Sinh viên có khả năng thiết lập các giải pháp ảo hóa cho các môi trường mạng ứng dụng. Đồng thời, có khả năng nghiên cứu và phát triển các giải pháp mới của yêu cầu thực tiễn.
+Tóm tắt nội dung chính:
+Môn học sẽ chỉ ra các lợi ích cụ thể của các công nghệ SDN và NFV đang phát triển dưới góc độ giải pháp công nghệ. Các nội dung nền tảng về SDN sẽ được đưa ra để thấy rõ yêu cầu phát triển của môi trường mạng hiện tại gồm: khái niệm, lý do, ứng dụng, điều khiển và mặt bằng ứng dụng cho các giải pháp OpenFlow, OpenDaylight và các công nghệ SDN then chốt khác. Tập trung vào công nghệ ảo hóa mạng NFV, nội dung môn học sẽ đi từ các nội dung như cách ảo hóa thiết lập nền tảng cho SDN và NFV tới các giải pháp ảo hóa và quản lý tài nguyên ảo. Sinh viên sẽ nắm được cách các chức năng và thiết bị mạng lõi ảo hóa  nhằm đảm bảo hiệu suất và khả năng mở rộng trong các mạng ảo. Các giải pháp mới nhất được giới thiệu gồm:  OpenFlow, VMWare Nicera, Cisco Inseieme và OpenStack Walk thông qua trường hợp kinh doanh cho SDN, NFV và  điện toán đám mây. Thêm vào đó là các giải pháp kỹ thuật liên quan tới an ninh, bảo vệ dữ liệu và chất lượng dịch vụ cũng được đưa ra trong môn học này. 
+Dữ liệu lớn (Big Data)
+Mã môn học: DAE 1412
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học cung cấp cho người học những khái niệm cơ bản về cơ sở dữ liệu lớn, những ứng dụng của cơ sở dữ liệu lớn. Ngoài ra, người học còn được cung cấp những kiến thức về các kỹ thuật cơ bản trong lưu trữ và xử lý, phân tích cơ sở dữ liệu lớn.
+Tóm tắt nội dung chính:
+Môn học cung cấp cho người học những phần nội dung cụ thể trong môn học bao gồm: khái niệm cơ bản về cơ sở dữ liệu lớn, ứng dụng của cở sở dữ liệu lớn; các kĩ thuật cơ bản trong lưu trữ và xử lý, phân tích cơ sở dữ liệu lớn 
+Thông tin vệ tinh (Satellite Communications) 
+Mã môn học: TEL14101
+Số tín chỉ: 3
+Mục tiêu: 
+Về kiến thức: Trang bị cho sinh viên các kiến thức cơ bản về các vấn đề chung của truyền thông qua vệ tinh và hạ tầng trên cao (HAP).
+Về kỹ năng: Phân tích, thiết kế, đánh giá hiệu năng tuyến thông tin vệ tinh.
+Tóm tắt nội dung chính:
+Học phần Thông tin vệ tinh cung cấp các kiến thức cơ bản và nền tảng liên quan đến thông tin vệ tinh và truyền thông qua hạ tầng trên cao, bao gồm:
+Phần 1: Trình bày các nội dung cơ bản về thông tin vệ tinh: tổng quan, các quỹ đạo vệ tinh, phân hệ không gian và trạm mặt đất của hệ thống thông tin vệ tinh, mạng VSAT, đa truy nhập trong thông tin vệ tinh và phân tích quỹ đường truyền. 
+Phần 2: Trình bày các công nghệ nền tảng cho hạ tầng trên cao HAP, khả năng ứng dụng và truyền thông vô tuyến băng rộng qua HAP.
+Để học tốt học phần này, sinh viên phải có kiến thức về các kỹ thuật thông tin vô tuyến, nghiên cứu các vấn đề lý thuyết được trình bày trong từng chương và tự trả lời các câu hỏi, giải các bài tập ở cuối mỗi chương.
+Hệ thống truyền thông không gian và UAV
+Mã môn học:  TEL14422
+Số tín chỉ: 3 
+Mục tiêu: 
+Môn học cung cấp nền tảng về các mạng truyền thông phi mặt đất (NTN), bao gồm hệ thống vệ tinh, hạ tầng trên cao (HAP), thiết bị bay không người lái (UAV) và các thiết bị hàng không dân dụng. Người học được trang bị kiến thức để hiểu, phân tích và thiết kế các hệ thống NTN trong bối cảnh 5G/6G, với mục tiêu mở rộng vùng phủ, tăng độ tin cậy và hỗ trợ các dịch vụ truyền thông toàn cầu. Nội dung môn học bám sát các tiêu chuẩn hiện hành của 3GPP và các định hướng nghiên cứu và ứng dụng quốc tế về mạng 6G
+Về kiến thức: Môn học giúp người học nắm vững kiến trúc và nguyên lý hoạt động của các hệ thống NTN, bao gồm vệ tinh quỹ đạo thấp (LEO), trung (MEO), địa tĩnh (GEO), cũng như các nền tảng bay như UAV, HAP, máy bay,... Người học hiểu các đặc điểm kênh truyền trong môi trường không gian và không trung, bao gồm suy hao đường truyền, trễ lan truyền, Doppler, nhiễu và ảnh hưởng của khí quyển. Bên cạnh đó, người học nắm được các cơ chế tích hợp NTN vào mạng 5G/6G theo tiêu chuẩn 3GPP, bao gồm kiến trúc mạng, giao thức, truy nhập vô tuyến và quản lý tài nguyên. Ngoài ra, môn học giới thiệu các công nghệ hỗ trợ như beamforming, truyền thông quang không dây (OWC) và các kỹ thuật tối ưu hóa trong NTN 
+Kỹ năng: Sau khi hoàn thành môn học, người học có khả năng phân tích và đánh giá hiệu năng của các hệ thống NTN, bao gồm tính toán các tham số hiệu năng như vùng phủ và dung lượng hệ thống. Người học có thể mô phỏng các kịch bản mạng vệ tinh và NTN bằng các công cụ như MATLAB, đồng thời phân tích ảnh hưởng của các yếu tố kênh truyền đến chất lượng dịch vụ. Bên cạnh đó, người học có khả năng đề xuất các giải pháp thiết kế và tối ưu mạng, bao gồm phân bổ tài nguyên, điều khiển công suất và định tuyến trong môi trường không gian – . Sinh viên cũng phát triển kỹ năng đọc hiểu tiêu chuẩn kỹ thuật (3GPP), làm việc nhóm và trình bày các giải pháp kỹ thuật trong lĩnh vực NTN.
+Tóm tắt nội dung chính:
+Môn học bắt đầu với tổng quan về các hệ thống truyền thông phi mặt đất và vai trò của NTN trong mạng 5G/6G. Tiếp theo, nội dung đi sâu vào các thành phần chính của NTN như vệ tinh, UAV, HAP, máy bay,..., cùng với các đặc điểm kênh truyền trong môi trường không gian và khí quyển. Trên cơ sở đó, môn học trình bày các kiến trúc mạng tích hợp và các cơ chế tích hợp NTN vào hệ thống 5G/6G theo tiêu chuẩn 3GPP. Ngoài ra, người học được tìm hiểu các kỹ thuật nâng cao như beamforming, truyền thông quang không dây (FSO) và các phương pháp tối ưu hóa tài nguyên. Cuối cùng, môn học giới thiệu các ứng dụng thực tế và xu hướng phát triển của NTN trong các hệ thống truyền thông thế hệ mới.
+Học máy ứng dụng (Applied Machine Learning)
+Mã môn học: TEL4302
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần cung cấp cho học viên nền tảng lý thuyết và kỹ năng thực hành chuyên sâu về các thuật toán học máy hiện đại. 
+Tóm tắt nội dung chính:
+Nội dung học phần bắt đầu từ các mô hình học có giám sát và không giám sát kinh điển như hồi quy, SVM và phân cụm để giải quyết các bài toán phân tích dữ liệu cơ bản. Học viên sẽ được nghiên cứu sâu về kiến trúc mạng nơ-ron nhân tạo (ANN) và các mô hình học sâu (Deep Learning) tiên tiến như CNN hay Transformer cho dữ liệu chuỗi thời gian. Một phần quan trọng của học phần tập trung vào học tăng cường (Reinforcement Learning), chìa khóa để tối ưu hóa việc ra quyết định tự động trong các hệ thống động phức tạp. Về mặt ứng dụng, môn học tập trung vào việc tích hợp các kỹ thuật học máy trong hạ tầng viễn thông thế hệ mới, hướng tới mạng truyền thông thế hệ mới (5G/6G/sau 6G)
+Kỹ thuật lập trình nâng cao (Advanced Programming for Engineers) 
+Mã môn học: TEL4303
+Số tín chỉ: 3
+Mục tiêu: Học phần Kỹ thuật lập trình nâng cao tập trung vào việc khai thác tối đa sức mạnh của ngôn ngữ Python để xây dựng các giải pháp thông minh trong lĩnh vực viễn thông và hạ tầng số
+Tóm tắt nội dung chính:
+Nội dung môn học đi sâu vào các kỹ thuật lập trình hướng đối tượng chuyên sâu, lập trình hàm và lập trình bất đồng bộ (AsyncIO), … nhằm tối ưu hóa việc xử lý dữ liệu, phân bổ tài nguyên, giám sát, phát hiện bất thường và tối ưu hóa vận hành mạng, phát triển các ứng dụng thông minh trong mạng viễn thông thế hệ mới. Học viên cũng sẽ được trang bị kỹ năng triển khai thực tế các mô hình trí tuệ nhân tạo (AI) thông qua việc sử dụng thành thạo các thư viện chuyên dụng như NumPy, Pandas và các khung làm việc (framework) cho học máy và học sâu
+Tự động hóa mạng (Network automation)
+Mã môn học: TEL14100
+Số tín chỉ: 3
+Mục tiêu: Học phần cung cấp các kiến thức nâng cao về tự động hóa mạng trong môi trường hạ tầng số và viễn thông hiện đại.
+Tóm tắt nội dung chính:
+Nội dung tập trung vào các nguyên lý, kiến trúc và công cụ tự động hóa trong cấu hình, triển khai, giám sát, vận hành và tối ưu hệ thống mạng. Học phần giới thiệu các mô hình quản trị mạng hiện đại, mạng lập trình được, giao diện API, quản lý cấu hình, điều phối tài nguyên và tự động hóa quy trình vận hành trên các hạ tầng vật lý, ảo hóa và điện toán đám mây. Bên cạnh đó, môn học cập nhật các phương pháp ứng dụng học máy và trí tuệ nhân tạo trong phân tích trạng thái mạng, phát hiện bất thường, dự báo lưu lượng và hỗ trợ tối ưu hóa vận hành. Thông qua các bài tập phân tích, mô phỏng và thực hành, học viên có khả năng thiết kế, triển khai và đánh giá các giải pháp tự động hóa nhằm nâng cao hiệu năng, độ tin cậy và khả năng thích ứng của hệ thống mạng hiện đại.
+Chuyên đề thạc sĩ 1
+Mã môn học: TEL4308
+Số tín chỉ: 2
+Mục tiêu: Học phần chuyên đề thạc sĩ 1 kỹ thuật viễn thông trang bị cho học viên kiến thức tổng quan và cập nhật về các định hướng nghiên cứu trong ngành kỹ thuật viễn thông.
+Tóm tắt nội dung chính: 
+Học phần được thực hiện theo hình thức dự án (project) nhóm để thực hiện các nhiệm vụ cụ thể có liên quan đến mạng, nền tảng số và an toàn hệ thống. Qua đó, học viên hình thành tư duy nghiên cứu, xác định lĩnh vực quan tâm và định hướng phát triển đề tài chuyên sâu
+Chuyên đề thạc sĩ 2
+Mã môn học: TEL4309
+Số tín chỉ: 2
+Mục tiêu: Học phần chuyên đề thạc sĩ 2 kỹ thuật viễn thông trang bị cho học viên kiến thức tổng quan và cập nhật về các định hướng nghiên cứu trong ngành kỹ thuật viễn thông.
+Tóm tắt nội dung chính: 
+Các học phần được thực hiện theo hình thức dự án (project) nhóm để thực hiện các nhiệm vụ cụ thể có liên quan đến dữ liệu và trí tuệ nhân tạo trong truyền thông. Qua đó, học viên hình thành tư duy nghiên cứu, xác định lĩnh vực quan tâm và định hướng phát triển đề tài chuyên sâu
+Hệ thống thông minh (Intelligent systems)
+Mã môn học: TEL4433
+Số tín chỉ: 3
+a. Mục tiêu: 
+Môn học giúp sinh viên tích hợp các kiến thức về AI và học máy để thiết kế các hệ thống có khả năng tự tri giác, suy luận và ra quyết định trong môi trường thực tế phức tạp. Sinh viên được phát triển năng lực xây dựng hệ thống thông minh hoàn chỉnh — từ biểu diễn tri thức, lập kế hoạch tự động đến triển khai trên thiết bị biên — phục vụ các ứng dụng viễn thông thế hệ mới. Sau khi hoàn thành môn học, sinh viên có thể phân tích yêu cầu, lựa chọn kiến trúc và hiện thực một hệ thống thông minh đáp ứng các ràng buộc về hiệu năng, tài nguyên và độ tin cậy trong môi trường triển khai thực tế.
+b. Tóm tắt nội dung chính: 
+Môn học tập trung vào việc thiết kế và xây dựng các hệ thống có khả năng tri giác, suy luận và ra quyết định tự động trong môi trường thực — nền tảng kỹ thuật cốt lõi cho thế hệ hạ tầng viễn thông thông minh. Sinh viên được tiếp cận các phương pháp biểu diễn tri thức và suy luận logic, bao gồm hệ chuyên gia, mạng Bayes và suy luận xác suất trong điều kiện thông tin không đầy đủ — bối cảnh phổ biến trong các hệ thống mạng thực tế. Lý thuyết tìm kiếm và lập kế hoạch tự động (thuật toán A*, tìm kiếm heuristic, STRIPS) được trình bày như nền tảng cho các bộ điều khiển thông minh trong hệ thống quản lý mạng và phân bổ tài nguyên động. Học tăng cường (Reinforcement Learning) được giới thiệu ở mức ứng dụng, cung cấp công cụ cho các bài toán tối ưu hóa tuần tự như lập lịch kênh truyền và điều phối lưu lượng trong mạng không dây. Hệ thống đa tác nhân được nghiên cứu qua mô hình tác nhân tự trị và các giao thức phối hợp, đặt nền móng cho thiết kế mạng tự tổ chức (Self-Organizing Network) và hệ thống IoT phân tán. Phần xử lý ngôn ngữ tự nhiên và giao tiếp người–máy giới thiệu các kỹ thuật hiểu và sinh ngôn ngữ ứng dụng trong trợ lý kỹ thuật và hệ thống chăm sóc khách hàng tự động của nhà mạng. Môn học dành trọng tâm cho Edge AI — triển khai mô hình thông minh trên thiết bị biên với tài nguyên tính toán hạn chế, thông qua kỹ thuật nén mô hình (quantization, pruning) và kiến trúc TinyML phù hợp với thiết bị IoT và thiết bị đầu cuối viễn thông.
+Hệ thống IoT tiên tiến (Advanced IoT systems)
+Mã môn học: TEL4413
+Số tín chỉ: 3
+Mục tiêu: Học phần cung cấp các kiến thức tổng hợp, cập nhật và khái quát về các xu hướng kỹ thuật, giải pháp IoT hiện đại, tăng cường khả năng vận dụng, ứng dụng thực tế các kiến thức, kỹ thuật nền tảng về các hệ thống IoT thông minh và ứng dụng trong các lĩnh vực phổ biến như công nghiệp, nông nghiệp, giao thông, y tế, giáo dục, ....
+Tóm tắt nội dung chính: Các nội dung cụ thể trong môn học bao gồm tổng quát về hệ thống và ứng dụng IoT, phương pháp thiết kế hệ thống IoT, các kỹ thuật và giải pháp công nghệ IoT tiên tiến, phát triển thiết bị và hệ thống IoT, phát triển ứng dụng IoT trong các lĩnh vực điển hình, …
+Truyền thông lượng tử (Quantum Communication)
+ Mã môn học: TEL4415
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần giới thiệu các nguyên lý cơ bản của truyền thông lượng tử, kết hợp giữa cơ học lượng tử và lý thuyết thông tin để xây dựng các hệ thống truyền thông có độ bảo mật cao. 
+Tóm tắt nội dung chính: 
+Nội dung bao gồm các khái niệm như qubit, chồng chập và rối lượng tử, mô hình kênh lượng tử và các giao thức truyền thông lượng tử tiêu biểu như phân phối khóa lượng tử (QKD) và teleportation lượng tử. Môn học cũng đề cập đến các ứng dụng và xu hướng phát triển của mạng lượng tử và internet lượng tử trong các hệ thống truyền thông tương lai.
+Xử lý tín hiệu số nâng cao (Advanced Digital Signal Processing)
+Mã môn học: ELE4301
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần cung cấp kiến thức chuyên sâu về các phương pháp phân tích, thiết kế và xử lý tín hiệu trong miền số. 
+Tóm tắt nội dung chính: 
+Nội dung môn học tập trung vào các kỹ thuật xử lý tín hiệu hiện đại như phân tích phổ, biến đổi số, thiết kế bộ lọc số nâng cao, xử lý tín hiệu ngẫu nhiên, xử lý tín hiệu thích nghi và ứng dụng của xử lý tín hiệu số trong truyền thông, điều khiển, y sinh và trí tuệ nhân tạo. Học phần đồng thời rèn luyện khả năng mô hình hóa, đánh giá thuật toán và triển khai các giải pháp xử lý tín hiệu trên các công cụ mô phỏng.
+Kỹ nghệ Web và API 
+Mã môn học: TEL4417
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần cung cấp các kiến thức nâng cao về kỹ nghệ Web và API trong phát triển hệ thống và dịch vụ số hiện đại. 
+Tóm tắt nội dung chính: 
+Nội dung tập trung vào các nguyên lý thiết kế ứng dụng Web và dịch vụ API theo hướng modular, scalable và secure, bao gồm kiến trúc client–server, RESTful API, quản lý tài nguyên, xác thực và phân quyền, kiểm thử, tài liệu hóa và quản trị vòng đời API. Học phần cũng đề cập đến các mô hình triển khai hiện đại như microservices, cloud-native applications, API gateway và tích hợp dịch vụ, đồng thời cập nhật các yêu cầu về hiệu năng, khả năng mở rộng, giám sát và an toàn hệ thống. Thông qua phân tích và thực hành, học viên có khả năng thiết kế, đánh giá và phát triển các hệ thống Web và API đáp ứng yêu cầu của các nền tảng số hiện đại
+Tối ưu tài nguyên mạng (Network Resource Optimization)
+Mã môn học: TEL4418
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần cung cấp kiến thức nâng cao về các phương pháp phân bổ, điều khiển và tối ưu tài nguyên trong mạng viễn thông hiện đại.
+Tóm tắt nội dung chính: 
+Nội dung tập trung vào các bài toán tối ưu băng thông, công suất, phổ tần, định tuyến, cân bằng tải, chất lượng dịch vụ và tài nguyên tính toán trong các hạ tầng mạng cố định, di động, ảo hóa và điện toán đám mây. Nội dung chính trong học phần cũng giới thiệu các mô hình tối ưu hóa, điều khiển tài nguyên, quản lý lưu lượng và hỗ trợ ra quyết định dựa trên dữ liệu mạng. Ngoài ra, học viên được tiếp cận các ứng dụng học máy và trí tuệ nhân tạo trong dự báo tải, phát hiện tắc nghẽn và tối ưu vận hành mạng. Kết thúc học phần, học viên có khả năng xây dựng, đánh giá và đề xuất các giải pháp tối ưu tài nguyên nhằm nâng cao hiệu năng, độ tin cậy và khả năng thích ứng của hệ thống mạng viễn thông.
+Phân tích dữ liệu trong viễn thông (Telecommunications Data Analytics)
+Mã môn học: TEL4419
+Số tín chỉ: 3
+Mục tiêu: 
+Môn học giúp sinh viên nắm vững các phương pháp và công cụ phân tích dữ liệu chuyên biệt cho lĩnh vực viễn thông, từ xử lý dữ liệu mạng thô đến sinh ra thông tin phục vụ ra quyết định vận hành và kinh doanh. Sinh viên có khả năng áp dụng các kỹ thuật thống kê, học máy và trực quan hóa dữ liệu để giải quyết các bài toán thực tiễn như dự báo lưu lượng, phân tích chất lượng dịch vụ, phát hiện gian lận và dự báo rời mạng của thuê bao, ... Sau khi hoàn thành môn học, sinh viên có thể độc lập xây dựng quy trình phân tích dữ liệu đầu cuối — từ thu thập, làm sạch, phân tích đến trình bày kết quả.
+Tóm tắt nội dung chính: 
+Môn học trang bị cho sinh viên các phương pháp và công cụ phân tích dữ liệu chuyên biệt cho lĩnh vực viễn thông, tập trung vào các kiểu dữ liệu đặc thù như CDR, log thiết bị, dữ liệu đo lường mạng (KPI/KQI) và dữ liệu địa lý thuê bao. Sinh viên áp dụng các kỹ thuật thống kê và học máy để giải quyết các bài toán thực tiễn của ngành gồm dự báo lưu lượng mạng, phân loại loại hình lưu lượng, phát hiện gian lận và dự báo rời mạng thuê bao. Phân tích không gian — địa lý được tích hợp vào chương trình nhằm khai thác dữ liệu định vị phục vụ tối ưu hóa vùng phủ sóng và lập kế hoạch phát triển mạng. Sinh viên được rèn luyện kỹ năng trực quan hóa dữ liệu và xây dựng dashboard giám sát mạng, đảm bảo khả năng trình bày kết quả phân tích đến các đối tượng kỹ thuật và quản lý trong doanh nghiệp.
+Trí tuệ nhân tạo nâng cao trong viễn thông (AI-native Communications)
+Mã môn học: TEL4420
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần tập trung vào các kiến thức, kỹ thuật tích hợp trí tuệ nhân tạo (AI) ở cấp độ kiến trúc hệ thống để xây dựng các mạng viễn thông thông minh có khả năng tự nhận thức và tự tiến hóa. Môn học giúp sinh viên nắm vững các kỹ thuật trí tuệ nhân tạo tiên tiến được thiết kế đặc thù cho hệ thống viễn thông thế hệ mới, vượt ra ngoài việc áp dụng AI như một công cụ bổ trợ sang tích hợp AI như một thành phần kiến trúc cốt lõi của mạng. Sinh viên có khả năng vận dụng các phương pháp học sâu, học tăng cường và học liên kết để giải quyết các bài toán tối ưu hóa phức tạp trong truyền dẫn, quản lý tài nguyên phổ tần và điều phối mạng không dây thế hệ tiếp theo. Sau khi hoàn thành môn học, sinh viên có khả năng thiết kế, đánh giá và triển khai các giải pháp AI-native cho hệ thống 5G/6G, đáp ứng yêu cầu của kỹ sư nghiên cứu và phát triển tại các tổ chức viễn thông.
+Tóm tắt nội dung chính:  
+Môn học tập trung vào vai trò trung tâm của AI trong kiến trúc mạng viễn thông tương lai. Sinh viên nghiên cứu các kỹ thuật học sâu ứng dụng trực tiếp vào lớp vật lý — bao gồm autoencoder cho thiết kế hệ thống, học sâu cho ước lượng kênh, ... Học tăng cường và học đa tác nhân được nghiên cứu chuyên sâu cho các bài toán quản lý tài nguyên vô tuyến động — phân bổ phổ tần, điều khiển công suất, ... Học liên kết (Federated Learning) và các kỹ thuật bảo vệ quyền riêng tư được tích hợp như giải pháp huấn luyện mô hình phân tán trên hạ tầng mạng mà không cần tập trung hóa dữ liệu nhạy cảm của người dùng. Môn học cũng bao gồm dự án nghiên cứu cá nhân hoặc nhóm nhỏ, trong đó sinh viên tái hiện hoặc mở rộng một công trình khoa học tiên tiến về AI-native communications.
+Dữ liệu lớn nâng cao (Advanced Big Data)
+Mã môn học: TEL4421
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần Dữ liệu lớn nâng cao trang bị các công cụ nền tảng và giúp sinh viên nâng cao năng lực thiết kế và vận hành hệ thống xử lý dữ liệu lớn quy mô thực tế. Sinh viên có khả năng xây dựng pipeline xử lý dữ liệu đáp ứng yêu cầu của hệ thống viễn thông quy mô lớn. Sau khi hoàn thành môn học, sinh viên có thể lựa chọn kiến trúc, tối ưu hiệu năng và triển khai giải pháp phân tích dữ liệu lớn trong môi trường thực tế.
+Tóm tắt nội dung chính:  
+Nội dung trọng tâm đi sâu vào các hệ sinh thái xử lý dữ liệu hiện đại như Hadoop và Spark, ... Học viên sẽ nghiên cứu các mô hình lưu trữ tiên tiến bao gồm NoSQL, Data Lake và kiến trúc Lakehouse để tối ưu hóa việc quản lý dữ liệu đa cấu trúc từ mạng viễn thông. Đặc biệt, học phần nhấn mạnh vào kỹ thuật xử lý dữ liệu luồng (streaming) với các công cụ như Kafka, Flink, … để đáp ứng yêu cầu phân tích thời gian thực trong mạng 5G/6G và hệ thống IoT. Thông qua các ứng dụng trên dữ liệu thực tế, học viên rèn luyện kỹ năng thiết kế và tổng hợp các giải pháp hệ thống có khả năng mở rộng, đảm bảo độ tin cậy và tối ưu hóa bảo mật hạ tầng số.
+Quản lý dự án và đổi mới sáng tạo (Innovation and Project Management)
+Mã môn học: VLG4401
+Số tín chỉ: 3
+Mục tiêu: Học phần Quản lý dự án và Đổi mới sáng tạo trang bị cho sinh viên tư duy và phương pháp luận để khởi xướng, lập kế hoạch và điều hành các dự án kỹ thuật ICT trong môi trường chuyên nghiệp và đa ngành. Sinh viên được hình thành năng lực đổi mới sáng tạo có hệ thống — từ nhận diện vấn đề, phát triển ý tưởng đến hiện thực hóa giải pháp công nghệ trong bối cảnh thực tiễn của ngành viễn thông. Sau khi hoàn thành môn học, sinh viên có thể vận dụng linh hoạt các phương pháp quản lý dự án hiện đại (Agile, Scrum, PMBOK) để dẫn dắt nhóm kỹ thuật đạt mục tiêu đúng tiến độ, trong ngân sách và đảm bảo chất lượng.
+Tóm tắt nội dung chính:  
+Môn học trang bị cho sinh viên tư duy đổi mới sáng tạo có hệ thống và phương pháp luận quản lý dự án hiện đại, đặt trong bối cảnh đặc thù của ngành kỹ thuật viễn thông đang chuyển đổi nhanh chóng. Sinh viên được tiếp cận các công cụ khởi tạo và phát triển ý tưởng có cấu trúc như Design Thinking, TRIZ và Lean Startup, giúp hình thành năng lực nhận diện cơ hội và chuyển hóa ý tưởng thành giải pháp công nghệ khả thi. Các khung quản lý dự án phổ biến trong ngành công nghệ — bao gồm PMBOK, Agile và Scrum — được phân tích và thực hành thông qua các tình huống dự án viễn thông thực tế, giúp sinh viên linh hoạt lựa chọn phương pháp phù hợp với từng ngữ cảnh. Kỹ năng lập kế hoạch, quản lý tiến độ, kiểm soát ngân sách và quản trị rủi ro được rèn luyện qua các công cụ chuyên nghiệp như WBS, sơ đồ Gantt, ... Môn học đồng thời chú trọng năng lực lãnh đạo nhóm kỹ thuật đa chức năng, kỹ năng giao tiếp với các bên liên quan và trình bày dự án thuyết phục trước hội đồng chuyên gia. Sinh viên hoàn thành môn học thông qua một dự án nhóm tích hợp, trong đó đề xuất và lập kế hoạch triển khai một giải pháp đổi mới có tính khả thi cho bài toán thực tế của ngành viễn thông.
+Truyền thông quang không dây
+Mã môn học: TEL4423
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần giới thiệu các nguyên lý và kỹ thuật truyền thông sử dụng tín hiệu quang trong môi trường không dây. 
+Tóm tắt nội dung chính:  
+Nội dung môn học bao gồm đặc tính kênh truyền quang, các kỹ thuật điều chế và thu phát tín hiệu quang, cũng như thiết kế và phân tích hiệu năng của các hệ thống truyền thông quang không dây. Học phần cũng đề cập đến các công nghệ và ứng dụng tiêu biểu như truyền thông ánh sáng khả kiến (VLC), LiFi, truyền thông hồng ngoại và liên kết quang không gian tự do (FSO), cùng vai trò của chúng trong các hệ thống truyền thông băng rộng và mạng 6G trong tương lai
+Công nghệ vô tuyến thế hệ mới (Next-generation Wireless Technologies) 
+Mã môn học: TEL1496
+Số tín chỉ: 3
+a.    Mục tiêu: 
+Về kiến thức: 
+Trang bị cho sinh viên các kiến thức về các kỹ thuật tiên tiến được sử dụng trong các mạng thông tin vô tuyến và di động thế hệ mới.
+Về kỹ năng: 
+Phân tích, đánh giá được các ưu nhược điểm và khả năng ứng dụng của các công nghệ vô tuyến thế hệ mới.
+b.    Tóm tắt nội dung chính:
+Học phần Công nghệ vô tuyến thế hệ mới cung cấp các kiến thức cập nhật về các kỹ thuật tiên tiến được sử dụng trong các mạng thông tin vô tuyến và di động thế hệ mới, bao gồm: Kỹ thuật MIMO cỡ rất lớn, kỹ thuật chuyển tiếp và hợp tác, vô tuyến định nghĩa bằng phần mềm, truyền thông băng sóng millimet, truyền thông quang không dây. Các kỹ thuật tiên tiến sử dụng trong các mạng thông tin vô tuyến thế hệ mới sẽ được cập nhật thường xuyên theo sự phát triển của công nghệ:  
+Chuyên đề thạc sĩ 3
+Mã môn học: TEL4426
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần chuyên đề thạc sĩ 3 kỹ thuật viễn thông cung cấp cho học viên các kiến thức chuyên sâu và các vấn đề nghiên cứu hiện đại thuộc lĩnh vực mạng viễn thông, các công nghệ truyền dẫn và vô tuyến tiên tiến. Học phần góp phần nâng cao năng lực phân tích, tổng hợp và tiếp cận các công nghệ mới phục vụ nghiên cứu và ứng dụng.
+b. Tóm tắt nội dung chính: 
+Các chủ đề của học phần được thực hiện theo phương pháp giảng dạy dựa trên dự án (project) để thực hiện các nhiệm vụ cụ thể có liên quan đến các kỹ thuật viễn thông tiên tiến
+Chuyên đề thạc sĩ 4
+Mã môn học: TEL4427
+Số tín chỉ: 3
+Mục tiêu: 
+Học phần chuyên đề thạc sĩ 4 kỹ thuật viễn thông cung cấp cho học viên các kiến thức chuyên sâu và các vấn đề nghiên cứu hiện đại thuộc lĩnh vực mạng viễn thông, nền tảng số, an toàn hệ thống, dữ liệu và trí tuệ nhân tạo trong truyền thông, cũng như các công nghệ truyền dẫn và vô tuyến tiên tiến. Học phần góp phần nâng cao năng lực phân tích, tổng hợp và tiếp cận các công nghệ mới phục vụ nghiên cứu và ứng dụng.
+Tóm tắt nội dung chính: 
+Các chủ đề của học phần được thực hiện theo phương pháp giảng dạy dựa trên dự án (project) để thực hiện các nhiệm vụ cụ thể có liên quan đến các kỹ thuật viễn thông tiên tiến.
+Thực tập tốt nghiệp
+Mã môn học: TEL15105
+Số tín chỉ: 6
+Mục tiêu: 
+Học phần thực tập cung cấp cho sinh viên bức tranh tương đối đầy đủ về thực trạng triển khai và tiềm năng phát triển của một số kỹ thuật, công nghệ điện tử viễn thông mới, giúp hỗ trợ sinh viên trong việc lựa chọn chủ đề khi thực hiện luận văn tốt nghiệp có tính thực tiễn cao.
+Tóm tắt nội dung chính: 
+Học phần hỗ trợ sinh viên áp dụng các kiến thức chuyên ngành đã học vào giải quyết các vấn đề thực tế có liên quan đến kỹ thuật viễn thông tại các doanh nghiệp, nhằm rèn luyện kỹ năng phân tích, giải quyết vấn đề và nâng cao trải nghiệm thực tế của học viên.
+Luận văn tốt nghiệp
+Mã môn học: TEL4531
+Số tín chỉ: 6
+Mục tiêu: 
+Phát triển vững chắc nghề nghiệp chuyên môn: sinh viên có thể làm việc hiệu quả trong lĩnh vực kỹ thuật điện tử viễn thông và các ngành liên quan, áp dụng thành công các nguyên lý kỹ thuật trong việc thiết kế, phát triển, vận hành và quản lý hệ thống truyền thông tại các doanh nghiệp.
+Phát triển khả năng làm việc nhóm, sáng tạo và có tố chất lãnh đạo: sinh viên có khả năng thích ứng tốt trong môi trường làm việc chuyên nghiệp, có thể quản lý các dự án kỹ thuật, đưa ra các giải pháp tiến tiến, hiệu quả, sáng tạo trong lĩnh vực kỹ thuật điện tử viễn thông.
+Phát triển chuyên môn, ý thức học tập suốt đời: sinh viên có khả năng tiếp tục phát triển bản thân và chuyên môn, có ý thức liên tục tự học, tham gia các chương trình đào tạo chuyên sâu, tổ chức nghiên cứu, hoặc tiếp tục học tập ở trình độ cao hơn.
+Phát triển nhận thức về trách nhiệm xã hội và đạo đức nghề nghiệp: sinh viên hình thành ý thức coi trọng các giá trị đạo đức nghề nghiệp, đồng thời đóng góp vào sự phát triển bền vững của xã hội.
+Tóm tắt nội dung chính: 
+Thực hiện học phần này, sinh viên áp dụng các kiến thức, kỹ năng chuyên ngành đã học và khả năng nghiên cứu để giải quyết trọn vẹn một vấn đề lý thuyết hoặc kết hợp thực hành có liên quan đến lĩnh vực kỹ thuật viễn thông nhằm nâng cao kỹ năng tư duy, phân tích và giải quyết vấn đề, gồm cả kỹ năng viết báo cáo và trình bày, demo kết quả nghiên cứu. Kết quả của luận văn phải được công bố khoa học trên các tạp chí, hội thảo khoa học quốc tế uy tín (trong danh mục WoS/Scopus) hoặc sản phẩm nghiên cứu được ứng dụng – chuyển giao, được hội đồng chuyên môn đánh giá cao, ghi nhận tại các cuộc thi, hội thảo khoa học – công nghệ uy tín, đồng thời thể hiện năng lực đổi mới sáng tạo và khả năng thương mại hóa sản phẩm.
+10. MA TRẬN LIÊN KẾT CÁC HỌC PHẦN/HỌC PHẦN VỚI CHUẨN ĐẦU RA (Chi tiết như Phụ lục kèm theo)
+
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+
+
+
+
+
+PGS.TS. Trần Quang Anh
+
+PHỤ LỤC 1.1. DANH MỤC CÁC HỌC PHẦN CỐT LÕI CỦA CHƯƠNG TRÌNH
+TT
+Mã và tên học phần
+Phương pháp giảng dạy
+Phương pháp đánh giá
+Học kỳ
+1
+BAS1226 - Xác suất thống kê
+Học tập dựa trên vấn đề: Giảng dạy song ngữ. Nâng cao và mở rộng các khái niệm xác suất, biến ngẫu nhiên, phân phối xác suất, các đặc trưng như kỳ vọng, phương sai và các phương pháp thống kê cơ bản như ước lượng, kiểm định giả thuyết
+Đánh giá dựa trên năng lực người học; Đánh giá đa chiều, có phản biện học thuật
+2
+2
+TEL1368 - Tín hiệu và hệ thống
+Học tập dựa trên vấn đề; 
+Giảng dạy song ngữ.
+Nâng cao và mở rộng: Thiết kế bộ lọc số, Sử dụng công cụ mô phỏng trong phân tích tín hiệu và hệ thống.
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật
+3
+3
+TEL13122 - Kiến trúc máy tính và vi xử lí
+Học tập dựa trên dự án;
+Học tập dựa trên vấn đề;
+Giảng dạy song ngữ
+Nâng cao và mở rộng: Dự án thiết kế CPU RISC‑V pipeline 5 giai đoạn; Dạy chéo (Peer Teaching): mỗi nhóm phụ trách giải thích sâu một chủ đề, tạo animation/diagram, giảng viên chỉ phản biện.
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật
+3
+4
+TEL1344 - Lý thuyết truyền tin
+Học tập dựa trên vấn đề; 
+Học tập dựa trên seminar chuyên đề.
+Nâng cao và mở rộng: Các kỹ thuật ghép kênh/ điều chế mới; Khảo sát và đánh giá hiệu năng bộ thu tối ưu.
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật
+4
+5
+TEL1340 - Kỹ thuật lập trình
+Học tập dựa trên vấn đề;
+Học tập dựa trên dự án;
+Nâng cao và mở rộng: Lớp học đảo ngược; Bình duyệt mã ngang hàng; Lập trình thi đấu (Competitive Programming)
+Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật
+5
+6
+TEL1337 - Toán rời rạc
+Giáng dạy song ngữ
+Thảo luận, giải quyết các bài toán tình huống
+Bài tập tự học, bài tập nhóm hoặc bài tập trực tuyến để củng cố kiến thức và rèn luyện kỹ năng giải quyết vấn đề.
+Vấn đáp: Đánh giá khả năng hiểu và giải thích các khái niệm, định lý, thuật toán và lập luận toán học. 
+Bài tập cá nhân: Đánh giá khả năng vận dụng kiến thức để giải các bài toán về logic, tập hợp, quan hệ, đồ thị, cây, ... 
+Bài tập tiểu luận 
+Kiểm tra viết tự luận
+5
+7
+TEL14124- Cơ sở học máy và trí tuệ nhân tạo
+Học tập dựa trên dự án.
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật 
+5
+8
+TEL1343 - Cơ sở dữ liệu
+Học tập dựa trên dự án.
+Học tập dựa trên seminar chuyên đề;
+Nâng cao và mở rộng: Học qua dự án với kịch bản viễn thông thực tế. Lớp học đảo ngược + case study. Seminar đọc paper: trình bày nội dung, phản biện lẫn nhau. Thực hành trên nền tảng đám mây
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật 
+Dự án nhóm + bảo vệ
+6
+9
+TEL1342 - Cấu trúc dữ liệu và giải thuật
+Học tập dựa trên dự án;
+Học tập dựa trên vấn đề;
+Giảng dạy song ngữ
+Nâng cao và mở rộng: Trực quan hóa trước, chứng minh sau: dùng VisuAlgo/Algorithm Visualizer để quan sát hành vi thuật toán trước khi đi vào phân tích toán học. Bài toán trước, thuật toán sau: đặt ngữ cảnh thực tế trước khi giới thiệu thuật toán - sinh viên hiểu tại sao cần học. Thực nghiệm trước lý thuyết.
+Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật
+6
+10
+TEL1405 - Kỹ thuật mạng truyền thông
+Giáng dạy song ngữ
+Thảo luận, giải quyết các bài toán tình huống
+Làm việc nhóm để cấu hình hệ thống mạng
+Hướng dẫn thực hành
+Bài tập tự học, bài tập nhóm để củng cố kiến thức và rèn luyện kỹ năng giải quyết vấn đề.;
+Giảng dạy song ngữ
+Vấn đáp: Đánh giá khả năng hiểu và giải thích các kiến thức cơ bản, các khái niệm, kiến trúc mạng, giao thức và tiêu chuẩn truyền thông. 
+Bài tập/Báo cáo: Đánh giá khả năng vận dụng kiến thức để phân tích, thiết kế hoặc mô phỏng hệ thống mạng và trình bày kết quả. 
+Thực hành: Đánh giá kỹ năng cấu hình thiết bị, triển khai mô hình mạng, sử dụng công cụ mô phỏng và phân tích lưu lượng mạng.- Bài tập tiểu luận 
+Kiểm tra viết tự luận; 
+6
+11
+TEL1406 - Kỹ thuật thông tin quang
+Học tập dựa trên seminar chuyên đề;
+Học tập dựa trên nghiên cứu
+Nâng cao và mở rộng: Nguyên lý và phần tử quang phi tuyến; 
+Công nghệ truyền dẫn quang thế hệ mới
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật
+6
+12
+TEL1407 - Kỹ thuật thông tin vô tuyến
+Học tập dựa trên dự án;
+Học tập dựa trên vấn đề;
+Giáng dạy song ngữ
+Nâng cao và mở rộng: Tổ chức các mini project (ví dụ: mô phỏng hệ thống điều chế số, phân tích hiệu năng kênh fading) nhằm phát triển năng lực thiết kế và triển khai.
+Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp;
+Đánh giá dựa trên năng lực người học;
+Tăng trọng số điểm đánh giá mini-project
+6
+13
+Tự chọn 1
+Học tập dựa trên dự án;
+Học tập dựa trên vấn đề;
+Giáng dạy song ngữ
+Nâng cao và mở rộng: Mô phỏng các cơ chế trong mạng di động (handover, scheduling, resource allocation) bằng Matlab hoặc các công cụ mô phỏng mạng. Tổ chức mini project (ví dụ: phân tích hiệu năng hệ thống 5G, mô phỏng cell planning) nhằm phát triển năng lực thiết kế và tối ưu mạng.
+Đánh giá dựa trên năng lực người học;
+Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp;
+
+7
+14
+Tự chọn 2
+Giáng dạy song ngữ. 
+Giảng dạy kết hợp giữa thuyết giảng và minh họa bằng các mô hình, giao thức và ví dụ thực tế trên Internet. 
+Hướng dẫn sinh viên phân tích nguyên lý hoạt động của các giao thức mạng thông qua các bài tập và tình huống ứng dụng. 
+Tổ chức thảo luận và làm việc nhóm nhằm nâng cao kỹ năng phân tích, thiết kế và giải quyết các vấn đề liên quan đến mạng Internet. 
+Hướng dẫn thực hành cấu hình, mô phỏng và phân tích giao thức.
+Vấn đáp: Đánh giá khả năng hiểu và giải thích các kiến trúc, giao thức và nguyên lý hoạt động của mạng Internet. 
+Bài tập: Đánh giá khả năng vận dụng kiến thức để phân tích, tính toán, thiết kế và cấu hình các hệ thống mạng và giao thức truyền thông. 
+Thực hành: Đánh giá kỹ năng cấu hình, mô phỏng, kiểm thử và phân tích lưu lượng mạng bằng các công cụ chuyên dụng. 
+Bài tập tiểu luận: Đánh giá khả năng nghiên cứu, phân tích một giao thức hoặc công nghệ Internet, đồng thời rèn luyện kỹ năng viết báo cáo và làm việc nhóm. 
+Kiểm tra và thi tự luận.
+7
+15
+Tự chọn 3
+Học tập dựa trên dự án.
+Học tập dựa trên vấn đề;
+Đánh giá dựa trên năng lực người học;
+7
+16
+TEL14125 - Đồ án ngành
+Học tập dựa trên dự án;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật;
+Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp;
+Bảo vệ đồ án.
+7
+17
+TEL4332 – Mạng định nghĩa bằng phần mềm và công nghệ ảo hoá
+
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+8
+18
+TEL 4433 - Hệ thống thông minh
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+8
+19
+TEL4308 -Chuyên đề thạc sĩ 1
+Học tập dựa trên dự án;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật;
+Dự án nhóm + bảo vệ
+8
+20
+TEL4309 -Chuyên đề thạc sĩ 2
+Học tập dựa trên dự án;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật;
+Dự án nhóm + bảo vệ
+9
+21
+TEL4302 - Học máy ứng dụng
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Học tập dựa trên dự án
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+9
+22
+TEL4413 - Hệ thống IoT tiên tiến
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+9
+23
+Tự chọn 1
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+9
+24
+Tự chọn 2
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+9
+25
+Tự chọn 3
+Học tập dựa trên vấn đề;
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học;
+Đánh giá đa chiều, có phản biện học thuật;
+9
+26
+TEL4426 -Chuyên đề thạc sĩ 3
+Học tập dựa trên dự án;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật;
+Dự án nhóm + bảo vệ
+8
+27
+TEL4427 -Chuyên đề thạc sĩ 4
+Học tập dựa trên dự án;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên seminar chuyên đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật;
+Dự án nhóm + bảo vệ
+9
+28
+TEL15105 - Thực tập tốt nghiệp
+Học tập dựa trên dự án;
+Học tập dựa trên seminar chuyên đề;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên trải nghiệm thực tế
+Đánh giá dựa trên năng lực người học; 
+Đánh giá trong môi trường thực tiễn.
+Tăng cường đánh giá quá trình học tập thường xuyên, liên tục.
+Đánh giá đa chiều, có phản biện học thuật;
+10
+29
+TEL4531 - Luận văn tốt nghiệp
+Học tập dựa trên dự án;
+Học tập dựa trên nghiên cứu.
+Học tập dựa trên seminar chuyên đề;
+Học tập dựa trên vấn đề;
+Đánh giá dựa trên năng lực người học; 
+Đánh giá đa chiều, có phản biện học thuật;
+Đánh giá trong môi trường thực tiễn.
+Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp;
+Bảo vệ luận văn.
+10
+
+PHỤ LỤC 1.2. DANH MỤC CÁC HỌC PHẦN TÀI NĂNG, HOẠT ĐỘNG NGOẠI KHOÁ VÀ KỸ NĂNG BỔ TRỢ
+TT
+Tên học phần
+Mô tả mục tiêu của học phần
+Thời gian đào tạo
+Đơn vị tổ chức
+I. HỌC PHẦN TÀI NĂNG
+
+Thuật toán ứng dụng nâng cao
+Cung cấp cho sinh viên các kiến thức về các thuật toán nâng cao  như: xử lí xâu: Hashing, KMP, quy hoạch động….
+Năm học thứ 2
+DAISY Lab
+
+Lập trình Python nâng cao cho kỹ sư điện tử viễn thông
+Trang bị cho sinh viên kiến thức và kũ năng lập trình Python nâng cao. Thực nghiệm và triển khai thử nghiệm các dự án về xử lý tín hiệu số, điều khiển phần cứng và phân tích dữ liệu cảm biến bằng Python; tích hợp với Raspberry Pi và Arduino.
+Năm học thứ 2
+DAISY Lab
+
+AI và ML cơ bản
+Cung cấp cho sinh viên các kiến thức, khái niệm cơ bản về AI và ML, các ứng dụng và bài toán ML, phương pháp và kỹ thuật, qui trình giải các bài toán trong ML, các giải thuật ML cơ bản.
+Năm học thứ 2
+DAISY Lab
+
+Xử lý âm thanh & giọng nói với AI
+Cung cấp cho sinh viên kiến thức và kỹ năng nâng cao về xử lý âm thanh và giọng nói, ứng dụng các công cụ trí tuệ nhân tạo như tăng cường giọng nói (DeepFilterNet), nhận dạng tiếng nói (Whisper), phân loại âm thanh môi trường; triển khai pipeline real-time trên board nhúng; ứng dụng trong thiết bị nghe & y tế, …
+Năm học thứ 2
+DAISY Lab
+
+Lập trình C++ và lập trình hướng đối tượng nâng cao để mô phỏng sự kiện rời rạc cho mạng và giao thức. 
+Trang bị cho sinh viên nền tảng lập trình vững chắc và kỹ năng chuyên sâu để có thể xây dựng, thử nghiệm và đánh giá các mô hình mạng cũng như giao thức truyền thông trong môi trường mô phỏng. 
+Năm học thứ 2
+DAISY Lab
+
+Thị giác máy tính & xử lý ảnh ứng dụng
+Cung cấp cho sinh viên kiến thức và công cụ xử lý ảnh và ứng dụng trong lĩnh vực điện tử viễn thông. Sinh viên thực nghiệm triển khai các dự án sử dụng OpenCV, YOLO, MediaPipe trên Jetson Nano/Raspberry Pi; xây dựng hệ thống nhận dạng đối tượng, theo dõi chuyển động và kiểm tra chất lượng sản phẩm.
+Năm học thứ 2 và thứ 3
+DAISY Lab
+
+Học máy ứng dụng trong xử lý tín hiệu và dữ liệu y sinh
+Học phần khai thác các kỹ thuật học máy và học sâu để giải quyết bài toán phân tích dữ liệu y sinh — lĩnh vực đang tạo ra tác động lớn nhất của trí tuệ nhân tạo trong thực tiễn chăm sóc sức khỏe. Sinh viên thực hành phân đoạn và phân tích ảnh y tế MRI/CT bằng kiến trúc U-Net và Segment Anything Model, xây dựng hệ thống phát hiện khối u và bất thường mô, đồng thời phân tích tín hiệu điện tim ECG để nhận dạng rối loạn nhịp tim bằng mô hình chuỗi thời gian. Phần cuối học phần mở rộng sang dữ liệu đa chiều với bài toán chẩn đoán bệnh dựa trên dữ liệu gene - nơi sinh viên tiếp cận với các phương pháp giảm chiều, phân tích biểu hiện gene và xây dựng mô hình dự đoán nguy cơ bệnh lý. Xuyên suốt học phần, sinh viên làm việc trên các bộ dữ liệu chuẩn quốc tế
+Năm học thứ 2 và thứ 3
+DAISY Lab
+
+Mô hình hóa, mô phỏng và phân tích hiệu năng hệ thống truyền thông quang không dây
+Cung cấp cho sinh viên các kiến thức và công cụ phân tích, đánh giá hiệu năng của các hệ thống truyền thông quang không dây tiên tiến như FSO, VLC, lai ghép FSO/RF
+Năm học thứ 3
+WiSA Lab
+
+Thiết kế bộ lọc đơn băng/ đa băng 
+Cung cấp cho sinh viên các kỹ thuật bộ lọc tiên tiến và áp dụng để thiết kế các bộ lọc đơn băng hoặc đa băng cho các ứng dụng khác nhau trong thiết bị viễn thông
+Năm học thứ 3
+SACT Lab
+
+Thiết kế anten có kích thước nhỏ gọn
+Cung cấp cho sinh viên các kỹ thuật tiên tiến cho giảm nhỏ kích thước anten và áp dụng để thiết kế anten có kích thước nhỏ gọn cho các thiết bị đầu cuối khác nhau trong hệ thống viễn thông
+Năm học thứ 3
+SACT Lab
+
+Thiết kế anten MIMO có độ tương hỗ thấp trong các thiết bị đầu cuối
+Cung cấp cho sinh viên các kỹ thuật tiên tiến cho giảm tác động tương hỗ giữa các phần tử dặt cạnh nhau trong anten MIMO và áp dụng để xây dựng anten MIMO có kích thước nhỏ độ tương hỗ thấp cho các thiết bị đầu cuối khác nhau trong hệ thống viễn thông
+Năm học thứ 3
+SACT Lab
+
+Thiết kế anten trên kính
+Cung cấp cho sinh viên công nghệ anten trên kính và áp dụng để thiết kế anten trên bề mặt kính cho truyền thông xe cộ hay ứng dụng trên các hệ thống xây dựng.
+Năm học thứ 3
+SACT Lab
+
+Cơ sở thông tin lượng tử
+Trang bị cho sinh viên các khái niệm cơ bản về thông tin lượng tử như qubit, chồng chập, rối lượng tử, phép đo lượng tử và các nguyên lý nền tảng phục vụ cho truyền thông lượng tử
+Năm học thứ 3
+SACT Lab
+
+Phân phối khóa lượng tử (QKD)
+Cung cấp cho sinh viên kiến thức về nguyên lý hoạt động của QKD, phân tích các giao thức, đánh giá các tham số như QBER, tốc độ khóa bí mật và các cơ chế sửa lỗi, khuếch đại bảo mật. Thực nghiệm triển khai trên hệ thống thực tế.
+Năm học thứ 3
+SACT Lab
+
+Mô hình ra quyết định thông minh dựa trên hệ mờ
+Cung cấp cho sinh viên các kiến thức nền tảng về logic mờ, hệ suy luận mờ và áp dụng để xây dựng các mô hình ra quyết định cho các bài toán kỹ thuật trong viễn thông và mạng.
+Năm học thứ 3
+ICN Lab
+
+Xử lý tín hiệu và cảm biến thông minh
+Cung cấp cho sinh viên các kiến thức về xử lý tín hiệu số và học máy trên dữ liệu cảm biến nhằm trích xuất thông tin có giá trị trong các ứng dụng IoT thực tế như giám sát môi trường, chăm sóc sức khoẻ và bảo trì dự đoán.
+Năm học thứ 3
+Khoa VT1
+
+Thiết kế và triển khai giao thức mạng trên các công cụ mô phỏng như OMNeT++ và NS-3. 
+Có khả năng thiết kế, thử nghiệm và đổi mới giao thức mạng (giao thức lớp mạng, giao thức lớp MAC) trong môi trường mô phỏng chuyên nghiệp.
+Năm học thứ 3
+Khoa VT1
+
+Lab: Nhận dạng điều chế tự động với Deep Learning
+Xây dựng bộ phân loại điều chế (BPSK→QAM256) dùng CNN/ResNet trên tập dữ liệu DeepSig RadioML; triển khai thời gian thực trên USRP/HackRF và đánh giá hiệu năng theo SNR.
+Năm học thứ 3
+DAISY Lab
+
+Xử lý ngôn ngữ tự nhiên trên thiết bị biên
+Cung cấp cho sinh viên kiến thức bổ sung về xử lý ngôn ngữ tự nhiên, xu hướng phát triển và ứng dụng của xử lý ngôn ngữ tự nhiên, và kỹ năng tích hợp mô hình LLM nhỏ (như Phi-3 mini, Llama.cpp, …) lên Raspberry Pi 5 / Jetson Nano; xây dựng voice assistant offline cho thiết bị nhúng; …
+Năm học thứ 3
+DAISY Lab
+
+Lab: Drone & hệ thống UAV tự hành
+Trang bị cho sinh viên kiến thức và kỹ năng lập trình điều khiển drone tự hành; tích hợp camera AI phát hiện vật cản, giám sát và theo dõi vật/người; thi đua hoàn thành nhiệm vụ tự động trong môi trường nhiều vật cản.
+Năm học thứ 3
+DAISY Lab
+
+Dự án đóng góp phần mềm mã nguồn mở
+Học phần đặt sinh viên vào môi trường phát triển phần mềm chuyên nghiệp thực sự, đóng góp công khai cho các dự án quốc tế. Sinh viên thực hiện đóng góp thực chất cho các dự án phần mềm mã nguồn mở quốc tế liên quan đến điện tử viễn thông như GNU Radio, OpenWRT, ns-3 hoặc TensorFlow Lite Micro, ... Qua ba giai đoạn từ sửa lỗi nhỏ, bổ sung tính năng đến tài liệu hóa đóng góp, sinh viên trải nghiệm quy trình phát triển phần mềm chuyên nghiệp với vòng review công khai từ cộng đồng quốc tế.
+Năm học thứ 3
+DAISY Lab
+
+Mô hình ngôn ngữ lớn và ứng dụng trong kỹ thuật điện tử viễn thông
+Trang bị cho sinh viên hiểu biết có chiều sâu về kiến trúc và cơ chế hoạt động của các mô hình ngôn ngữ lớn thế hệ hiện đại như GPT, LLaMA và Gemma, đồng thời tập trung khai thác chúng như công cụ kỹ thuật thực dụng trong ngành điện tử viễn thông. Sinh viên thực hành các kỹ thuật khai thác mô hình gồm truy xuất tăng cường ngữ cảnh (RAG), gọi hàm tự động (function calling) và tinh chỉnh mô hình theo miền chuyên biệt, từ đó xây dựng các trợ lý AI hỗ trợ công việc.
+Năm học thứ 3
+DAISY Lab
+
+Tối ưu hóa hiệu năng các hệ thống/mạng truyền thông vô tuyến
+Cung cấp cho sinh viên các kiến thức và công cụ tối ưu, áp dụng để tối ưu hóa hiệu năng các hệ thống thông tin vô tuyến
+Năm học thứ 4
+WiSA Lab
+
+Ứng dụng AI/ML cải thiện hiệu năng hệ thống thông tin vô tuyến
+Cung cấp cho sinh viên các kiến thức nền tảng của việc sử dụng các thuật toán học sâu, học sâu tăng cường, học máy,... để cải thiện hiệu năng hệ thống thông tin vô tuyến
+Năm học thứ 4
+WiSA Lab
+
+Ứng dụng công nghệ viễn thông tiên tiến trong việc nâng cao hiệu năng mạng phi mặt đất trong kỷ nguyên 6G
+Cung cấp cho sinh viên các kiến thức nền tảng về các công nghệ kỹ thuật viễn thông tiên tiến như bề mặt phản xạ thông minh (RIS), …
+Năm học thứ 4
+WiSA Lab
+
+Xây dựng mô hình hệ thống truyền thông tái cấu hình trên SDR
+Cung cấp cho sinh viên công nghệ radio định nghĩa bằng phần mềm (SDR) và áp dụng để xây dựng mô hình hệ thống truyền thông tái cấu hình trên SDR.
+Năm học thứ 4
+SACT Lab
+
+Mô hình hóa kênh truyền dựa trên kỹ thuật dò tia
+Cung cấp cho sinh viên kiến thức nền tảng về kênh truyền và kỹ thuật dò tia, công cụ SIONART cho mô hình hóa kênh truyền.
+Năm học thứ 4
+SACT Lab
+
+Ứng dụng AI/ML cho tối ưu các tham số hiệu năng/ thông số kích thước của anten
+Cung cấp cho sinh viên các kiến thức và công cụ tối ưu, áp dụng để tối ưu các tham số hiệu năng hoặc thông số kích thước của anten
+Năm học thứ 4
+SACT Lab
+
+Truyền năng lượng không dây
+Cung cấp cho sinh viên các kiến thức về hệ thống và nguyên lý của truyền năng lượng không dây để xây dựng hệ thống truyền năng lượng không dây
+Năm học thứ 4
+SACT Lab
+
+Tối ưu hiệu năng mạng bằng các phương pháp heuristic và metaheuristic
+Cung cấp cho sinh viên các kiến thức nền tảng về các phương pháp tối ưu heuristic và metaheuristic, áp dụng để giải các bài toán tối ưu hiệu năng trong hệ thống và mạng truyền thông.
+Năm học thứ 4
+ICN Lab
+
+Triển khai AI at the edge cho các bài toán thị giác máy tính
+Cung cấp cho sinh viên các kiến thức nền tảng về trí tuệ nhân tạo trên thiết bị biên và áp dụng để xây dựng các mô hình thị giác máy tính phục vụ các bài toán phát hiện, phân loại và giám sát thông minh.
+Năm học thứ 4
+ICN Lab
+
+Mô hình hóa, mô phỏng và phân tích hiệu năng hệ thống ISAC
+Cung cấp cho sinh viên các kiến thức nền tảng về truyền thông và cảm nhận tích hợp, cùng các công cụ mô hình hóa, mô phỏng và đánh giá hiệu năng hệ thống ISAC trong các kịch bản mạng thế hệ mới
+Năm học thứ 4
+ICN Lab
+
+Mô hình hóa và đánh giá hiệu quả hệ thống truyền thông ngữ nghĩa
+Cung cấp cho sinh viên các kiến thức nền tảng về truyền thông ngữ nghĩa và áp dụng để mô hình hóa, đánh giá hiệu quả truyền tải thông tin ngữ nghĩa trong các hệ thống thông tin thế hệ mới.
+Năm học thứ 4
+ICN Lab
+
+Nền tảng đám mây và phân tích dữ liệu IoT
+Cung cấp cho sinh viên các kiến thức về kiến trúc IoT Platform, cơ sở dữ liệu, stream processing, dashboard và trực quan hoá nhằm thiết kế hệ thộng backend IoT trên nền tảng đám mây, bao gồm thu thập, lưu trữ, trực quan hoá và phân tích dữ liệu theo thời gian thực. SV hoàn thành được một pipeline IoT end-to-end hoàn chỉnh từ thiết bị đến dashboard 
+Năm học thứ 4
+DAISY Lab
+
+Ứng dụng AI/ML cho hệ thống IoT 
+Trang bị cho sinh viên khả năng thiết kế và triển khai các giải pháp học máy bao gồm TinyML và Federated learning trực tiếp trên thiết bị IoT giới hạn tài nguyên, đánh giá sự đánh đổi giữa độ chính xác mô hình, độ trễ và tiêu thụ năng lượng
+Năm học thứ 4
+DAISY Lab
+
+Mô hình hóa, mô phỏng và phân tích hiệu năng hệ thống cảm biến
+Cung cấp cho sinh viên các kiến thức và công cụ phân tích, đánh giá hiệu năng của các hệ thống cảm biến dựa trên các loại cảm biến tiên tiến hiện nay như cảm biến tiết kiệm năng lượng cực thấp, cảm biến tích hợp xử lý AI tại chỗ, cảm biến thu hoạch năng lượng, cảm biến không dây thụ động, cảm biến hình ảnh và radar tầm ngắn cho edge IoT 
+Năm học thứ 4
+DAISY Lab
+
+Thiết kế hệ thống IoT tích hợp
+Cung cấp cho sinh viên kiến thức và công cụ nhằm thực hiện một dự án hệ thống IoT hoàn chỉnh qui mô thực tế, bám sát qui trình kỹ thuật hệ thống theo chuẩn công nghiệp.
+Năm học thứ 4
+DAISY Lab
+
+Phân tích hiệu năng mạng cảm biến không dây. 
+Cung cấp cho sinh viên kiến thức và công cụ nhằm đánh giá hiệu quả của mạng cảm biến không dây như tiêu thụ năng lượng, độ tin cậy và trễ trong mạng cảm biến không dây. 
+Năm học thứ 4
+DAISY Lab
+
+Học tăng cường ứng dụng trong viễn thông
+Cung cấp cho sinh viên kiến thức nâng cao về học tăng cường, ứng dụng các giải pháp học tăng cường (như thuật toán Q-Learning, DQN, PPO, …) trong các bài toán viễn thông như lập lịch tài nguyên mạng 5G, điều khiển công suất và handover thông minh, ... 
+Năm học thứ 4
+DAISY Lab
+
+Điện toán lượng tử cho kỹ sư điện tử viễn thông
+Cung cấp cho sinh viên kiến thưucs nền tảng về điện toán lượng tử, nguyên lý qubit, cổng lượng tử, thuật toán Shor và Grover; tác động đến mã hóa RSA/ECC; thực hành lập trình lượng tử trên các môi trường thực tế như (IBM Quantum, …); ứng dụng truyền thông lượng tử và cảm biến lượng tử.
+Năm học thứ 4
+DAISY Lab
+
+Mạng mesh & giao thức truyền thông tự tổ chức
+Cung cấp cho sinh viên kiến thức về mạng mesh và các giao thức truyền thông tự tổ chức như giao thức OLSR, Batman-adv, LoRaMesh, tối ưu topology mạng cảm biến bằng AI,  thực nghiệm triển khai mạng mesh ngoài trời bằng Raspberry Pi và module LoRa/WiFi.
+Năm học thứ 4
+DAISY Lab
+
+Lab: MLOps & triển khai mô hình AI sản xuất
+Trang bị cho sinh viên kỹ năng đưa mô hình trí tuệ nhân tạo từ giai đoạn thử nghiệm vào vận hành thực tế trong môi trường sản xuất. Sinh viên thực hành toàn bộ vòng đời mô hình: quản lý phiên bản dữ liệu và mã nguồn bằng DVC, theo dõi thực nghiệm và so sánh chỉ số huấn luyện bằng MLflow và Weights & Biases, xây dựng luồng tích hợp và triển khai liên tục (CI/CD) tự động kiểm thử mô hình trước khi phát hành.  
+Năm học thứ 4
+DAISY Lab
+
+Nền tảng lý thuyết của học máy
+Trang bị cho sinh viên nền tảng tư duy cần thiết cho việc nghiên cứu bậc cao. Học phần lấp đầy khoảng trống giữa thực hành và hiểu biết sâu sắc trong học máy — lý do tại sao một mô hình hoạt động tốt, khi nào nó thất bại, và điều gì đảm bảo nó tổng quát hóa được ra ngoài tập huấn luyện, giúp sinh viên không chỉ biết dùng thuật toán học máy mà có thể lập luận về giới hạn và điều kiện hoạt động của chúng.
+Năm học thứ 4
+DAISY Lab
+II. HOẠT ĐỘNG NGOẠI KHÓA
+
+Code camp (Trại lập trình)
+Cung cấp cho sinh viên môi trường học tập, đào tạo hoặc sự kiện thi đấu lập trình chuyên sâu, tập trung vào thực hành cường độ cao trong thời gian ngắn (vài ngày đến vài tháng). Mục tiêu là giúp sinh viên nhanh chóng nắm vững kỹ năng thực chiến, làm dự án, hoặc giải quyết bài toán công nghệ cụ thể theo yêu cầu doanh nghiệp.
+ Từ năm học thứ nhất  
+DAISY Lab & 
+Bộ môn KTDL
+
+Contest: Thiết kế hệ thống định vị trong nhà (IPS)
+Thiết kế hệ thống indoor positioning dùng WiFi/BLE/UWB kết hợp AI; đánh giá độ chính xác định vị thực tế trong tòa nhà; các tiêu chí đánh giá dựa trên độ chính xác, độ trễ và giá thành.
+Từ năm học thứ 2
+DAISY Lab
+
+AI Challenge viễn thông
+Hoạt động thi giải bài toán thực tế từ doanh nghiệp (như Viettel, VNPT, FPT telecom, …): tối ưu vị trí trạm BTS, dự đoán churn thuê bao hoặc phát hiện bất thường mạng bằng ML, ... Sinh viên đề xuất giải pháp giải quyết các bài toán thực tế của doanh nghiệp, có thể được hỗ trợ chuyên môn, thực hiện và nộp solution + thuyết trình. 
+Từ năm học thứ 2
+DAISY Lab 
+
+
+Trải nghiệm thăm quan doanh nghiệp
+Tổ chức cho sinh viên tham quan, học hỏi trực tiếp tại doanh nghiệp
+Từ năm học thứ 3
+Khoa VT1
+
+Trại hè nghiên cứu về công nghệ Viễn thông hiện đại
+Sinh viên tham dự các workshop từ các chuyên gia đầu ngành trong lĩnh vực ICT. Được bổ trợ kỹ năng nâng cao về phương pháp nghiên cứu khoa học, viết báo và cập nhật các công nghệ tiên tiến đang triển khai trên mạng lưới
+Từ năm học thứ 3
+Khoa VT1
+
+Tham gia hội thảo, workshop, hội nghị khoa học chuyên ngành
+Sinh viên tham dự các workshop, hội thảo, hội nghị chuyên ngành, học tập từ các chuyên gia, học giả đầu ngành trong lĩnh vực ICT. Được học hỏi và bổ trợ kỹ năng thuyết trình khoa học, và cập nhật các kiến thưc, công nghệ tiên tiến
+Từ năm học thứ 3
+Khoa VT1
+
+Dự án nghiên cứu AI và viễn thông liên kết doanh nghiệp
+Sinh viên thực hiện đề tài nghiên cứu có định hướng ứng dụng thực tế dưới sự đồng hướng dẫn của giảng viên Khoa viễn thông và kỹ sư nghiên cứu từ các đối tác doanh nghiệp công nghệ cao như Samsung, Intel hoặc FPT. Kết quả nghiên cứu được nộp dưới dạng bản thảo đăng ký sáng chế hoặc bài báo hội nghị quốc tế, đặt sinh viên vào đúng tiêu chuẩn đầu ra của một kỹ sư nghiên cứu chuyên nghiệp ngay từ bậc đại học.
+Từ năm học thứ 3
+Khoa VT1
+III. HOẠT ĐỘNG KỸ NĂNG
+
+Câu lạc bộ đọc báo khoa học
+Tổ chức hỗ trợ sinh viên tạo lập thói quen đọc, tư duy phản biện và tăng cường khả năng đọc sách/báo khoa học, tăng cường khả năng tiếng Anh. Sinh viên họp hàng tuần, mỗi buổi đọc sâu 1 bài báo từ các hội nghị/tạp chí top đầu thế giới, viết review 1 trang theo chuẩn quốc tế.
+Từ năm học thứ 2
+Khoa VT1
+
+Trải nghiệm nghiên cứu tại phòng thí nghiệm
+Hướng dẫn sinh viên toàn bộ quy trình tìm kiếm, chuẩn bị hồ sơ và thực hiện thực tập nghiên cứu tại phòng thí nghiệm trong nước và quốc tế. Sinh viên được trang bị kỹ năng tìm kiếm lab phù hợp qua Semantic Scholar và trang chủ giáo sư, viết email liên hệ thuyết phục, chuẩn bị CV nghiên cứu, bảng điểm và thư giới thiệu đúng chuẩn quốc tế. Sau khi hoàn thành thực tập, sinh viên trình bày kết quả và bài học thực tế trước bộ môn, tạo nguồn kinh nghiệm tham chiếu cho các thế hệ tiếp theo.
+Từ năm học thứ 2 
+Khoa VT1
+
+Tiếng Anh học thuật & giao tiếp quốc tế
+Sinh viên thực hành viết thư điện tử liên hệ giáo sư nước ngoài, soạn thảo bản mô tả mục tiêu học tập (Statement of Purpose) và bản trình bày định hướng nghiên cứu (Research Statement) theo đúng kỳ vọng của hội đồng tuyển sinh quốc tế. Kỹ năng nghe hiểu phản biện khoa học được luyện tập qua hình thức theo dõi và phân tích các bài trình bày thực tế tại hội nghị IEEE, từ đó làm quen với nhịp độ, cấu trúc lập luận và cách xử lý câu hỏi khó của diễn giả chuyên nghiệp. Học phần cũng hướng dẫn kỹ thuật xây dựng mối quan hệ học thuật tại hội nghị - cách tiếp cận tác giả bài báo, tham gia thảo luận poster và duy trì kết nối sau sự kiện. Sinh viên cũng có thể chuẩn bị hồ sơ học bổng hoàn chỉnh bao gồm CV nghiên cứu, thư giới thiệu và các tài liệu bổ trợ theo yêu cầu của từng quỹ học bổng lớn.
+Từ năm học thứ 2
+Khoa VT1
+
+Kỹ năng nghiên cứu và viết báo cáo khoa học
+Cung cấp cho sinh viên kỹ năng nghiên cứu và viết các báo cáo khoa học theo các chuẩn mực và quy định 
+Từ năm học thứ 3
+Khoa VT1
+
+Kỹ năng quản lí dự án công nghệ
+Cung cấp cho sinh viên kỹ năng lãnh đạo, quản lí, phối hợp, hợp tác trong các dự án lĩnh vực ICT
+Từ năm học thứ 3
+Khoa VT1, Viện LĐQT&QL Việt Nam và Trung tâm Đổi mới sáng tạo & Khời nghiệp
+
+Kỹ năng khởi nghiệp và đổi mới sáng tạo
+Cung cấp cho sinh viên kỹ năng khởi nghiệp và đổi mới sáng tạo trong lĩnh vực viễn thông
+Từ năm học thứ 3
+Khoa VT1, Viện LĐQT&QL Việt Nam và Trung tâm Đổi mới sáng tạo & Khời nghiệp
+
+Đạo đức nghiên cứu & liêm chính học thuật
+Trang bị cho sinh viên kiến thức cơ bản về đạo đức nghiên cứu và liêm chính học thuật, các quy tắc đạo đức nghiên cứu quốc tế, phát hiện và phòng tránh đạo văn, giả mạo dữ liệu (data fabrication); sử dụng AI hợp lệ trong nghiên cứu; phân tích các case study vi phạm đạo đức nổi tiếng.
+Từ năm học thứ 4
+Khoa VT1
+Lộ trình triển khai thực hiện
+Dự kiến lộ trình để triển khai các học phần tài năng, học phần bổ trợ, các khóa học/ chứng chỉ cho sinh viên (bên cạnh lộ trình học chính khóa).
+TT
+Nội dung
+Đối tượng
+Thời gian
+Ghi chú
+1
+01 Hoạt động ngoại khoá
+SV năm 1
+HK 2
+
+2
+02 Học phần tài năng
+01 Học phần Kỹ năng
+01 Hoạt động ngoại khoá
+SV năm 2
+Trong năm học
+Các học phần lựa chọn theo định hướng học thuật trong danh sách mục 4. b)
+3
+03 Học phần tài năng
+01 Học phần Kỹ năng
+Ít nhất 01 Hoạt động ngoại khoá
+01 Chứng chỉ
+SV năm 3
+Trong năm học
+Các học phần lựa chọn theo định hướng học thuật trong danh sách mục 4. b)
+4
+03 Học phần tài năng
+01 Học phần Kỹ năng
+Ít nhất 01 Hoạt động ngoại khoá
+01 Chứng chỉ
+SV năm 4
+Trong năm học
+Các học phần lựa chọn theo định hướng học thuật trong danh sách mục 4. b)
+
+PHỤ LỤC 1.3. DANH MỤC CÁC CHỨNG CHỈ NGHỀ NGHIỆP
+TT
+Tên chứng chỉ/khóa học
+Đơn vị cấp
+Ghi chú
+
+AWS Certification
+Amazon
+AWS Certification là bộ chứng chỉ được cấp bởi Amazon đánh giá mức độ hiểu biết về Cloud (điện toán đám mây), cụ thể là các dịch vụ của Amazon Web Services (AWS)
+
+Công cụ Matlab và ứng dụng trong mô phỏng hệ thống
+MathWorks 
+Chứng chỉ chính thức Certified MATLAB Associate, Certified Simulink Associate, 
+Certified MATLAB Professional chứng nhận năng lực sử dụng MATLAB/Simulink trong mô phỏng hệ thống, được công nhận toàn cầu. 
+
+Project-based OMNeT++/NS-3 
+Dự kiến: Chứng nhận từ PTIT hoặc lab nghiên cứu
+Chứng chỉ chứng nhận việc thực hành xây dựng giao thức cho mạng cảm biến không dây/mạng cơ thể không dây (WSN/WBSN). 
+
+
+Google Data Analytics Professional Certificate
+Google
+Chứng chỉ của Google cung cấp về phân tích dữ liệu trên nền tảng coursera 
+
+Artificial Intelligence Fundamentals
+IBM
+Chứng chỉ miễn phí được thiết kế cho sinh viên đại học, yêu cầu hơn 10 giờ học và hiện có sẵn bằng nhiều ngôn ngữ.
+
+AWS Certified AI Practitioner
+Amazon 
+Chứng chỉ AWS Certified AI Practitioner xác nhận kiến ​​thức chuyên môn về trí tuệ nhân tạo (AI), học máy (ML) và các khái niệm cũng như trường hợp sử dụng AI tạo sinh.
+
+CCNA (Cisco Certified Network Associate)
+Cisco
+Chứng chỉ mạng nền tảng được công nhận rộng rãi nhất thế giới. Bao phủ TCP/IP, IPv6, routing, switching, bảo mật cơ bản và tự động hóa mạng. Sinh viên học miễn phí qua Cisco Networking Academy + Packet Tracer.
+
+Juniper Networks Certified Associate (JNCIA-Junos)
+Juniper
+Lựa chọn thay thế cho CCNA trong môi trường dùng thiết bị Juniper; phổ biến tại các nhà mạng lớn và ISP ở khu vực Đông Nam Á.
+
+Linux Foundation Certified System Administrator (LFCS)
+Linux Foundation
+Chứng chỉ thực hành Linux quan trọng cho kỹ sư viễn thông làm việc với server, thiết bị mạng và hệ thống nhúng chạy Linux. Thi thực hành trực tiếp trên terminal.
+
+Certified Kubernetes Application Developer (CKAD)
+Linux Foundation / CNCF
+Container hóa và triển khai ứng dụng viễn thông trên Kubernetes; quan trọng cho NFV, O-RAN containerized và cloud-native telecom. Thi thực hành.
+
+IEEE ComSoc – Fundamentals of 5G Wireless
+IEEE Communications Society
+Thành viên IEEE ComSoc sinh viên được giảm giá mạnh hoặc miễn phí nhiều khóa học; đặc biệt có giá trị vì gắn liền với cộng đồng nghiên cứu IEEE.

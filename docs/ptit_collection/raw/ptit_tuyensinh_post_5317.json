@@ -1,0 +1,119 @@
+{
+  "id": 5317,
+  "date": "2026-04-13T17:18:41",
+  "date_gmt": "2026-04-13T10:18:41",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5317"
+  },
+  "modified": "2026-04-13T17:18:41",
+  "modified_gmt": "2026-04-13T10:18:41",
+  "slug": "truyen-thong-da-phuong-tien-chat-luong-cao",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/truyen-thong-da-phuong-tien-chat-luong-cao/",
+  "title": {
+    "rendered": "Truyền thông đa phương tiện chất lượng cao"
+  },
+  "content": {
+    "rendered": "<p>Mùa tuyển sinh đang tới gần, chắc hẳn các bạn lớp 12 đang có những dự định riêng khi chọn ngành, chọn trường, bên cạnh đó cũng có những bạn đang phân vân không biết chọn ngành nghề phù hợp cũng như môi trường học tập tốt để theo đuổi ngành nghề của mình. Do đó, chương trình Trà chiều cùng trường P sẽ giải đáp thắc mắc cho những bạn nào còn phân vân không biết chọn ngành nghề gì cho phù hợp cũng như giới thiệu qua các ngành nghề tại Học viện Công nghệ Bưu chính Viễn thông.</p>\n<p>Brochure giới thiệu chương trình: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-chat-luong-cao-nganh-Truyen-thong-da-phuong-tien.pdf\">Chương trình chất lượng cao ngành Truyền thông đa phương tiện</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tổng quan về Chương trình chất lượng cao ngành Truyền thông đa phương tiện</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5319,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    7
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5317",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_dinh_huong"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5317",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5317"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5317/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5319"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5317"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5317"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5317"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

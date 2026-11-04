@@ -1,0 +1,381 @@
+### Trang 1
+
+Các học phần tự chọn (*)
+Tự chọn 1:
+1. Thông tin di động (3TC);
+2. Quản trị mạng (3TC);
+3. Hệ thống nhúng IoT (3TC).
+Tự chọn 2:
+1. Internet và các giao thức (3TC);
+2. Mạng truyền thông quang (3TC);
+3. Công nghệ vô tuyến thế hệ mới (3TC).
+Thực tập  
+tốt 
+nghiệp 
+(6TC)
+HK 9
+(20TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC)
+Xử lý tín hiệu số 
+nâng cao (3TC)
+Cơ sở dữ liệu 
+(3TC)
+Kỹ thuật thông tin 
+vô tuyến (3TC)
+Linh kiện và mạch 
+điện tử (3TC)
+An toàn mạng 
+thông tin (3TC)
+Hệ điều hành 
+(2TC)
+Hệ thống IoT tiên 
+tiến (3TC)
+Kỹ thuật thông tin 
+quang (3TC)
+Mô hình hóa và 
+MPHT truyền 
+thông (3TC)
+Công nghệ phần 
+mêm (3TC)
+Kỹ thuật lập trình 
+(3TC)
+Tự chọn 3 (*) 
+(3TC)
+Lý thuyết truyền 
+tin (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Cơ sở học máy 
+và trí tuệ nhân tạo 
+(3TC)
+Kỹ thuật mạng 
+truyền thông 
+(3TC)
+Kiến trúc máy tính 
+và vi xử lý (3TC)
+ Điện tử số (3TC)
+Đại số (3TC)
+ Lý thuyết mạch 
+(3TC)
+Toán rời rạc 
+(3TC)
+Kỹ thuật siêu cao 
+tần (3TC)
+Vật lý 1 và thí 
+nghiệm (4TC)
+Giải tích 1 (3TC)
+HK 1
+(15TC)
+HK 2
+(18TC)
+HK 3
+(18TC)
+HK 4
+(17TC)
+HK 5
+(18TC)
+HK 6
+(18TC)
+HK 7
+(16TC)
+HK 8
+(19TC)
+Lịch sử Đảng 
+cộng sản Việt 
+Nam (2TC)
+Truyền sóng và 
+anten (3TC)
+Tự chọn 2 (*) 
+(3TC)
+Xác suất thống kê 
+(2TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Tự chọn 1 (**) 
+(3TC)
+Tự chọn 2 (**) 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng - ngành Kỹ thuật Viễn thông
+Công cụ toán cho 
+ĐTVT (3TC)
+Hệ thống thông 
+minh (3TC)
+Chuyên đề thạc sĩ 
+1 (2TC)
+Học máy ứng 
+dụng (3TC)
+Chuyên đề thạc sĩ 
+3 (3TC)
+Chuyên đề thạc sĩ 
+2 (2TC)
+Mạng định nghĩa 
+bằng PM và CN 
+ảo hóa (3TC)
+Luận văn 
+tốt 
+nghiệp 
+(15TC)
+Tự chọn 1 (*) 
+(3TC)
+Tự chọn 3:
+1. Dữ liệu lớn (3TC);
+2. Thông tin vệ tinh (3TC);
+3. Tự động hóa mạng (3TC).
+Các học phần tự chọn (**)
+Tự chọn 1:
+1. Truyền thông lượng tử (3TC);
+2. An toàn HT điện toán đám mây (3TC);
+3. Kỹ nghệ web và API (3TC);
+4. Tối ưu tài nguyên mạng (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(21TC)
+Vật lý 2 và thí 
+nghiệm (4TC)
+Đồ án ngành 
+(4TC)
+Tự chọn 3 (**) 
+(3TC)
+Chuyên đề thạc sĩ 
+4 (3TC)
+Tự chọn 2:
+1. Phân tích dữ liệu trong VT (3TC);
+2. Trí tuệ nhân tạo nâng cao trong VT 
+(3TC);
+3. Dữ liệu lớn nâng cao (3TC);
+4. Quản lý dự án và ĐMST (3TC).
+Tự chọn 3:
+1. Hệ thống truyền thông không gian và 
+UAV (3TC);
+2. Truyền thông quang không dây 
+(3TC);
+3. Kỹ thuật lập trình nâng cao (3TC);
+4. Hệ thống vô tuyến thông minh (3TC).
+Tín hiệu và hệ 
+thống (3TC)
+Các học phần tự chọn (*)
+Tự chọn 1:
+1. Thông tin di động (3TC);
+2. Quản trị mạng (3TC);
+3. Hệ thống nhúng IoT (3TC).
+Tự chọn 2:
+1. Internet và các giao thức (3TC);
+2. Mạng truyền thông quang (3TC);
+3. Công nghệ vô tuyến thế hệ mới (3TC).
+Thực tập  
+tốt 
+nghiệp 
+(6TC)
+HK 9
+(20TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC)
+Xử lý tín hiệu số 
+nâng cao (3TC)
+Cơ sở dữ liệu 
+(3TC)
+Kỹ thuật thông tin 
+vô tuyến (3TC)
+Linh kiện và mạch 
+điện tử (3TC)
+An toàn mạng 
+thông tin (3TC)
+Hệ điều hành 
+(2TC)
+Hệ thống IoT tiên 
+tiến (3TC)
+Kỹ thuật thông tin 
+quang (3TC)
+Mô hình hóa và 
+MPHT truyền 
+thông (3TC)
+Công nghệ phần 
+mêm (3TC)
+Kỹ thuật lập trình 
+(3TC)
+Tự chọn 3 (*) 
+(3TC)
+Lý thuyết truyền 
+tin (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Cơ sở học máy 
+và trí tuệ nhân tạo 
+(3TC)
+Kỹ thuật mạng 
+truyền thông 
+(3TC)
+Kiến trúc máy tính 
+và vi xử lý (3TC)
+ Điện tử số (3TC)
+Đại số (3TC)
+ Lý thuyết mạch 
+(3TC)
+Toán rời rạc 
+(3TC)
+Kỹ thuật siêu cao 
+tần (3TC)
+Vật lý 1 và thí 
+nghiệm (4TC)
+Giải tích 1 (3TC)
+HK 1
+(15TC)
+HK 2
+(18TC)
+HK 3
+(18TC)
+HK 4
+(17TC)
+HK 5
+(18TC)
+HK 6
+(18TC)
+HK 7
+(16TC)
+HK 8
+(19TC)
+Lịch sử Đảng 
+cộng sản Việt 
+Nam (2TC)
+Truyền sóng và 
+anten (3TC)
+Tự chọn 2 (*) 
+(3TC)
+Xác suất thống kê 
+(2TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Tự chọn 1 (**) 
+(3TC)
+Tự chọn 2 (**) 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng - ngành Kỹ thuật Viễn thông
+Công cụ toán cho 
+ĐTVT (3TC)
+Hệ thống thông 
+minh (3TC)
+Chuyên đề thạc sĩ 
+1 (2TC)
+Học máy ứng 
+dụng (3TC)
+Chuyên đề thạc sĩ 
+3 (3TC)
+Chuyên đề thạc sĩ 
+2 (2TC)
+Mạng định nghĩa 
+bằng PM và CN 
+ảo hóa (3TC)
+Luận văn 
+tốt 
+nghiệp 
+(15TC)
+Tự chọn 1 (*) 
+(3TC)
+Tự chọn 3:
+1. Dữ liệu lớn (3TC);
+2. Thông tin vệ tinh (3TC);
+3. Tự động hóa mạng (3TC).
+Các học phần tự chọn (**)
+Tự chọn 1:
+1. Truyền thông lượng tử (3TC);
+2. An toàn HT điện toán đám mây (3TC);
+3. Kỹ nghệ web và API (3TC);
+4. Tối ưu tài nguyên mạng (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(21TC)
+Vật lý 2 và thí 
+nghiệm (4TC)
+Đồ án ngành 
+(4TC)
+Tự chọn 3 (**) 
+(3TC)
+Chuyên đề thạc sĩ 
+4 (3TC)
+Tự chọn 2:
+1. Phân tích dữ liệu trong VT (3TC);
+2. Trí tuệ nhân tạo nâng cao trong VT 
+(3TC);
+3. Dữ liệu lớn nâng cao (3TC);
+4. Quản lý dự án và ĐMST (3TC).
+Tự chọn 3:
+1. Hệ thống truyền thông không gian và 
+UAV (3TC);
+2. Truyền thông quang không dây 
+(3TC);
+3. Kỹ thuật lập trình nâng cao (3TC);
+4. Hệ thống vô tuyến thông minh (3TC).
+Tín hiệu và hệ 
+thống (3TC)

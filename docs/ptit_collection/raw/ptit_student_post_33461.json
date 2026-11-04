@@ -1,0 +1,125 @@
+{
+  "id": 33461,
+  "date": "2026-08-12T09:03:30",
+  "date_gmt": "2026-08-12T09:03:30",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33461"
+  },
+  "modified": "2026-09-15T09:04:29",
+  "modified_gmt": "2026-09-15T09:04:29",
+  "slug": "hoc-vien-cong-nghe-buu-chinh-vien-thong-ban-hanh-quyet-dinh-sua-doi-bo-sung-muc-thu-hoc-phi-va-thu-hoat-dong-dao-tao-khac-nam-hoc-2026-2027",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/08/12/hoc-vien-cong-nghe-buu-chinh-vien-thong-ban-hanh-quyet-dinh-sua-doi-bo-sung-muc-thu-hoc-phi-va-thu-hoat-dong-dao-tao-khac-nam-hoc-2026-2027/",
+  "title": {
+    "rendered": "Học viện Công nghệ Bưu chính Viễn thông ban hành Quyết định sửa đổi, bổ sung mức thu học phí và thu hoạt động đào tạo khác năm học 2026-2027"
+  },
+  "content": {
+    "rendered": "<p><strong>Ngày 11/8/2026, Học viện Công nghệ Bưu chính Viễn thông đã ban hành Quyết định số 2499/QĐ-HV về việc sửa đổi, bổ sung quy định mức thu học phí và thu hoạt động đào tạo khác chương trình đào tạo đại học của Học viện năm học 2026-2027, được ban hành kèm theo Quyết định số 1462/QĐ-HV ngày 21/5/2026.</strong></p>\n<p>Theo Quyết định, Học viện thực hiện điều chỉnh, bổ sung một số nội dung liên quan đến mức thu học phí và thu hoạt động đào tạo khác áp dụng từ năm học 2026-2027.<span class=\"Apple-converted-space\"> </span></p>\n<p>Xem toàn văn Quyết định số 2499/QĐ-HV tại đây: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/2026_2499_QD-bo-sung-muc-thu-2026-2027.pdf\">2026_2499_QD bo sung muc thu 2026-2027</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 11/8/2026, Học viện Công nghệ Bưu chính Viễn thông đã ban hành Quyết định số 2499/QĐ-HV về việc sửa đổi, bổ sung quy định mức thu học phí và thu hoạt động đào tạo khác chương trình đào tạo đại học của Học viện năm học 2026-2027, được ban hành kèm theo Quyết định [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 81,
+  "featured_media": 33369,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33461",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33461",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/81"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33461"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33461/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33464,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33461/revisions/33464"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33369"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33461"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33461"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33461"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

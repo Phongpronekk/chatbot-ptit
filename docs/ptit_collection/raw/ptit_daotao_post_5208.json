@@ -1,0 +1,125 @@
+{
+  "id": 5208,
+  "date": "2026-07-15T16:50:00",
+  "date_gmt": "2026-07-15T09:50:00",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5208"
+  },
+  "modified": "2026-07-15T16:51:15",
+  "modified_gmt": "2026-07-15T09:51:15",
+  "slug": "quy-dinh-quan-ly-van-bang-chung-chi-cua-hoc-vien-cong-nghe-buu-chinh-vien-thong",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/quy-dinh-quan-ly-van-bang-chung-chi-cua-hoc-vien-cong-nghe-buu-chinh-vien-thong/",
+  "title": {
+    "rendered": "Quy định quản lý văn bằng, chứng chỉ của Học viện Công nghệ Bưu chính Viễn thông"
+  },
+  "content": {
+    "rendered": "<p>Ngày 13 tháng 07 năm 2026, Học viện Công nghệ Bưu chính Viễn thông ban hành quy định quản lý văn bằng, chứng chỉ của Học viện Công nghệ Bưu chính Viễn thông <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/2026.-VBCC.pdf\"><em>(xem chi tiết tại đây)</em></a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 13 tháng 07 năm 2026, Học viện Công nghệ Bưu chính Viễn thông ban hành quy định quản lý văn bằng, chứng chỉ của Học viện Công nghệ Bưu chính Viễn thông (xem chi tiết tại đây)</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 4008,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13962
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5208",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-quy-che-quy-dinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5208",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5208"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5208/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5211,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5208/revisions/5211"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/4008"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5208"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5208"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5208"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

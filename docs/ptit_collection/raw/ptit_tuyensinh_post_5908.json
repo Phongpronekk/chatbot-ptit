@@ -1,0 +1,125 @@
+{
+  "id": 5908,
+  "date": "2026-09-05T09:50:11",
+  "date_gmt": "2026-09-05T02:50:11",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5908"
+  },
+  "modified": "2026-09-07T17:08:50",
+  "modified_gmt": "2026-09-07T10:08:50",
+  "slug": "thong-bao-sua-doi-bo-sung-mot-so-noi-dung-cua-thong-bao-tuyen-sinh-trinh-do-thac-si-dot-2-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-sua-doi-bo-sung-mot-so-noi-dung-cua-thong-bao-tuyen-sinh-trinh-do-thac-si-dot-2-nam-2026/",
+  "title": {
+    "rendered": "Thông báo Sửa đổi, bổ sung một số nội dung của thông báo tuyển sinh trình độ thạc sĩ đợt 2 năm 2026"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Thông tư số 53/2026/TT-BGDĐT ngày 30/06/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo Sai đại học;</p>\n<p>Học viện Công nghệ Bưu chính Viễn thông thông báo Sửa đổi, bổ sung một số nội dung trong Thông báo số 1414/TB-HV ngày 18/08/2026 của Học viện Công nghệ Bưu chính Viễn thông về việc Thông báo tuyển sinh trình độ thạc sĩ đợt 2 năm 2026 như sau:</p>\n<p>Toàn văn thông báo: <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/09/2026.09.04.-Thong-bao-hieu-chinh-TB-TS-Ths-d2.2026-1.pdf\">2026.09.04. Thong bao hieu chinh TB TS Ths d2.2026</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Thông tư số 53/2026/TT-BGDĐT ngày 30/06/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo Sai đại học; Học viện Công nghệ Bưu chính Viễn thông thông báo Sửa đổi, bổ sung một số nội dung trong Thông báo số 1414/TB-HV ngày [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5910,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5908",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5908",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5908"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5908/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5913,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5908/revisions/5913"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5910"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5908"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5908"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5908"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

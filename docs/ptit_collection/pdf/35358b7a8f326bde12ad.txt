@@ -1,0 +1,291 @@
+### Trang 1
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT VIỄN THÔNG - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 (15 
+TC)
+Học kỳ 4 
+(16TC)
+Học kỳ 3 
+(15 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Truyền thông số nâng 
+cao (3TC)
+Mô hình hóa và phân 
+tích hiệu năng hệ 
+thống (3TC)
+Hệ thống IoT tiên tiến 
+(3 TC)
+Mạng truyền thông 
+tiên tiến (3TC)
+Chuyên đề viễn thông 
+hiện đại (3TC)
+Thực tập và Đề án tốt 
+nghiệp (16TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Thông tin vô tuyến 
+nâng cao (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+Tự chọn A1 - Tính toán tự động và tự động hóa:
+1. Học máy ứng dụng (3TC);
+2. Kỹ thuật lập trình nâng cao (3TC);
+3. Tự động hóa mạng (3TC).
+Tự chọn A2 - Mô hình hóa và tích hợp:
+1. Lý thuyết hàng đợi và ứng dụng (3TC);
+2. Truyền thông đa phương tiện nâng cao (3TC);
+3. Hệ thống tích hợp truyền thông cảm biến (3TC).
+B. Các học phần tự chọn chuyên ngành:
+Tự chọn B1 - Mạng, nền tảng số và an toàn hệ thống:
+1. Truyền thông lượng tử (3TC);
+2. An toàn hệ thống điện toán đám mây (3TC);
+3. Kỹ thuật web và API (3TC);
+4. Tối ưu tài nguyên mạng (3TC).
+Tự chọn B2 - Dữ liệu, AI và quản trị:
+1. Phân tích dữ liệu trong viễn thông (3TC);
+2. Trí tuệ nhân tạo nâng cao trong viễn thông (3TC);
+3. Dữ liệu lớn nâng cao (3TC);
+4. Quản lý dự án và đổi mới sáng tạo (3TC).
+Tự chọn B3 - Vô tuyến:
+1. Hệ thống truyền thông không gian và UAV (3TC);
+2. Truyền thông quang không dây (3TC);
+3. Công nghệ anten tiên tiến (3TC);
+4. Thông tin vệ tinh nâng cao (3TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT VIỄN THÔNG - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 (15 
+TC)
+Học kỳ 4 
+(16TC)
+Học kỳ 3 
+(15 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Truyền thông số nâng 
+cao (3TC)
+Mô hình hóa và phân 
+tích hiệu năng hệ 
+thống (3TC)
+Hệ thống IoT tiên tiến 
+(3 TC)
+Mạng truyền thông 
+tiên tiến (3TC)
+Chuyên đề viễn thông 
+hiện đại (3TC)
+Thực tập và Đề án tốt 
+nghiệp (16TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Thông tin vô tuyến 
+nâng cao (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+Tự chọn A1 - Tính toán tự động và tự động hóa:
+1. Học máy ứng dụng (3TC);
+2. Kỹ thuật lập trình nâng cao (3TC);
+3. Tự động hóa mạng (3TC).
+Tự chọn A2 - Mô hình hóa và tích hợp:
+1. Lý thuyết hàng đợi và ứng dụng (3TC);
+2. Truyền thông đa phương tiện nâng cao (3TC);
+3. Hệ thống tích hợp truyền thông cảm biến (3TC).
+B. Các học phần tự chọn chuyên ngành:
+Tự chọn B1 - Mạng, nền tảng số và an toàn hệ thống:
+1. Truyền thông lượng tử (3TC);
+2. An toàn hệ thống điện toán đám mây (3TC);
+3. Kỹ thuật web và API (3TC);
+4. Tối ưu tài nguyên mạng (3TC).
+Tự chọn B2 - Dữ liệu, AI và quản trị:
+1. Phân tích dữ liệu trong viễn thông (3TC);
+2. Trí tuệ nhân tạo nâng cao trong viễn thông (3TC);
+3. Dữ liệu lớn nâng cao (3TC);
+4. Quản lý dự án và đổi mới sáng tạo (3TC).
+Tự chọn B3 - Vô tuyến:
+1. Hệ thống truyền thông không gian và UAV (3TC);
+2. Truyền thông quang không dây (3TC);
+3. Công nghệ anten tiên tiến (3TC);
+4. Thông tin vệ tinh nâng cao (3TC).
+
+### Trang 2
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT VIỄN THÔNG - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(16 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(15 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Truyền thông số nâng 
+cao (3TC)
+Mô hình hóa và phân 
+tích hiệu năng hệ 
+thống (3TC)
+Chuyên đề thạc sĩ 4 
+(3 TC)
+Chuyên đề thạc sĩ 3 
+(3TC)
+Chuyên đề thạc sĩ 5 
+(3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề thạc sĩ 2 
+(2TC)
+Chuyên đề thạc sĩ 1 
+(2TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Thông tin vô tuyến 
+nâng cao (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Học máy ứng dụng (3TC);
+2. Kỹ thuật lập trình nâng cao (3TC);
+3. Tự động hóa mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+Tự chọn B1 - Mạng, nền tảng số và an toàn hệ thống:
+1. Truyền thông lượng tử (3TC);
+2. An toàn hệ thống điện toán đám mây (3TC);
+3. Kỹ thuật web và API (3TC);
+4. Tối ưu tài nguyên mạng (3TC).
+Tự chọn B2 - Dữ liệu, AI và quản trị:
+1. Phân tích dữ liệu trong viễn thông (3TC);
+2. Trí tuệ nhân tạo nâng cao trong viễn thông (3TC);
+3. Dữ liệu lớn nâng cao (3TC);
+4. Quản lý dự án và đổi mới sáng tạo (3TC).
+Tự chọn B3 - Vô tuyến:
+1. Hệ thống truyền thông không gian và UAV (3TC);
+2. Truyền thông quang không dây (3TC);
+3. Công nghệ anten tiên tiến (3TC);
+4. Thông tin vệ tinh nâng cao (3TC).
+Tự chọn cơ sở ngành 
+(3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH KỸ THUẬT VIỄN THÔNG - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+Học kỳ 1 
+(14TC)
+Học kỳ 2 
+(16 TC)
+Học kỳ 4 
+(15TC)
+Học kỳ 3 
+(15 TC)
+Triết học
+(3TC)
+Xử lý tín hiệu số nâng 
+cao (3TC)
+Công cụ toán cho điện 
+tử viễn thông (3TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Truyền thông số nâng 
+cao (3TC)
+Mô hình hóa và phân 
+tích hiệu năng hệ 
+thống (3TC)
+Chuyên đề thạc sĩ 4 
+(3 TC)
+Chuyên đề thạc sĩ 3 
+(3TC)
+Chuyên đề thạc sĩ 5 
+(3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề thạc sĩ 2 
+(2TC)
+Chuyên đề thạc sĩ 1 
+(2TC)
+Tự chọn chuyên 
+ngành B2 (3TC)
+Tự chọn chuyên 
+ngành B3 (3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Thông tin vô tuyến 
+nâng cao (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Học máy ứng dụng (3TC);
+2. Kỹ thuật lập trình nâng cao (3TC);
+3. Tự động hóa mạng (3TC).
+B. Các học phần tự chọn chuyên ngành:
+Tự chọn B1 - Mạng, nền tảng số và an toàn hệ thống:
+1. Truyền thông lượng tử (3TC);
+2. An toàn hệ thống điện toán đám mây (3TC);
+3. Kỹ thuật web và API (3TC);
+4. Tối ưu tài nguyên mạng (3TC).
+Tự chọn B2 - Dữ liệu, AI và quản trị:
+1. Phân tích dữ liệu trong viễn thông (3TC);
+2. Trí tuệ nhân tạo nâng cao trong viễn thông (3TC);
+3. Dữ liệu lớn nâng cao (3TC);
+4. Quản lý dự án và đổi mới sáng tạo (3TC).
+Tự chọn B3 - Vô tuyến:
+1. Hệ thống truyền thông không gian và UAV (3TC);
+2. Truyền thông quang không dây (3TC);
+3. Công nghệ anten tiên tiến (3TC);
+4. Thông tin vệ tinh nâng cao (3TC).
+Tự chọn cơ sở ngành 
+(3TC)

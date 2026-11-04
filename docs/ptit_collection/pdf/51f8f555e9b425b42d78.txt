@@ -1,0 +1,261 @@
+### Trang 1
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH AN TOÀN THÔNG TIN - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (14TC)
+ HK2 (15 TC)
+ HK4 (17TC)
+HK3 (14 TC)
+Triết học
+(3TC)
+An toàn hệ thống 
+thông tin (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Mật mã ứng dụng 
+(3TC)
+Quản lý, pháp luật và 
+chính sách ATTT 
+(3TC)
+Tự chọn chuyên 
+ngành C3 (2 TC)
+Giám sát an toàn 
+mạng nâng cao (3TC)
+Kiểm thử xâm nhập 
+nâng cao (3TC)
+Thực tập và Đề án tốt 
+nghiệp (17TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn chuyên 
+ngành C1 (2TC)
+Tự chọn chuyên 
+ngành C2 (2TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Phân tích mã độc 
+nâng cao (3TC) A. Các học phần tự chọn cơ sở ngành:
+1. Công nghệ Blockchain (3TC);
+2. An toàn điện toán đám mây (3TC);
+3. An toàn cho IoT (3TC);
+4. Hạ tầng khóa công khai (3TC);
+5. Học máy và ứng dụng trong ATTT (3TC);
+6. DevOps và DevSecOps (3TC);
+7. Các giao thức an toàn bảo mật (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Các chủ đề hiện đại trong ATTT (3TC);
+2. Tấn công và phòng thủ mạng (3TC);
+3. Ứng phó và xử lý sự cố bảo mật (3TC);
+4. Điều tra số (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. An toàn web nâng cao (2TC);
+2. An toàn cơ sở dữ liệu nâng cao (2TC);
+3. Mật mã hậu lượng tử (2TC);
+4. Đảm bảo an toàn AI (2TC);
+5. Quản trị mạng (2TC)
+6. Dữ liệu lớn (2TC);
+7. Hệ điều hành mạng (2TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH AN TOÀN THÔNG TIN - Định hướng ứng dụng
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (14TC)
+ HK2 (15 TC)
+ HK4 (17TC)
+HK3 (14 TC)
+Triết học
+(3TC)
+An toàn hệ thống 
+thông tin (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Mật mã ứng dụng 
+(3TC)
+Quản lý, pháp luật và 
+chính sách ATTT 
+(3TC)
+Tự chọn chuyên 
+ngành C3 (2 TC)
+Giám sát an toàn 
+mạng nâng cao (3TC)
+Kiểm thử xâm nhập 
+nâng cao (3TC)
+Thực tập và Đề án tốt 
+nghiệp (17TC)
+Tự chọn cơ sở ngành 
+A3 (3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Tự chọn cơ sở ngành 
+A2 (3TC)
+Tự chọn chuyên 
+ngành C1 (2TC)
+Tự chọn chuyên 
+ngành C2 (2TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Phân tích mã độc 
+nâng cao (3TC) A. Các học phần tự chọn cơ sở ngành:
+1. Công nghệ Blockchain (3TC);
+2. An toàn điện toán đám mây (3TC);
+3. An toàn cho IoT (3TC);
+4. Hạ tầng khóa công khai (3TC);
+5. Học máy và ứng dụng trong ATTT (3TC);
+6. DevOps và DevSecOps (3TC);
+7. Các giao thức an toàn bảo mật (3TC).
+B. Các học phần tự chọn chuyên ngành:
+1. Các chủ đề hiện đại trong ATTT (3TC);
+2. Tấn công và phòng thủ mạng (3TC);
+3. Ứng phó và xử lý sự cố bảo mật (3TC);
+4. Điều tra số (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. An toàn web nâng cao (2TC);
+2. An toàn cơ sở dữ liệu nâng cao (2TC);
+3. Mật mã hậu lượng tử (2TC);
+4. Đảm bảo an toàn AI (2TC);
+5. Quản trị mạng (2TC)
+6. Dữ liệu lớn (2TC);
+7. Hệ điều hành mạng (2TC).
+
+### Trang 2
+
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH AN TOÀN THÔNG TIN - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (14TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (16 TC)
+Triết học
+(3TC)
+An toàn hệ thống 
+thông tin (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Mật mã ứng dụng 
+(3TC)
+Quản lý, pháp luật và 
+chính sách ATTT 
+(3TC)
+Chuyên đề thạc sĩ 4 (3 
+TC)
+Giám sát an toàn 
+mạng nâng cao (3TC)
+Kiểm thử xâm nhập 
+nâng cao (3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề thạc sĩ 2 
+(3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Chuyên đề thạc sĩ 1 
+(3TC)
+Tự chọn chuyên 
+ngành C1 (2TC)
+Chuyên đề thạc sĩ 3 
+(3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Phân tích mã độc 
+nâng cao (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Công nghệ Blockchain (3TC);
+2. An toàn điện toán đám mây (3TC);
+3. Học máy và ứng dụng trong ATTT (3TC);
+B. Các học phần tự chọn chuyên ngành:
+1. Các chủ đề hiện đại trong ATTT (3TC);
+2. Tấn công và phòng thủ mạng (3TC);
+3. Ứng phó và xử lý sự cố bảo mật (3TC);
+4. Điều tra số (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. An toàn web nâng cao (2TC);
+2. An toàn cơ sở dữ liệu nâng cao (2TC);
+3. Mật mã hậu lượng tử (2TC);
+4. Đảm bảo an toàn AI (2TC).
+TIẾN TRÌNH HỌC TẬP CHUẨN
+TRÌNH ĐỘ THẠC SĨ, NGÀNH AN TOÀN THÔNG TIN - Định hướng nghiên cứu
+Bắt buộc chung
+Kiến thức cơ sở ngành
+Kiến thức ngành
+Học phần tiên quyết
+HK1 (14TC)
+ HK2 (15 TC)
+ HK4 (15TC)
+HK3 (16 TC)
+Triết học
+(3TC)
+An toàn hệ thống 
+thông tin (3TC)
+Công cụ toán cho 
+Công nghệ thông tin 
+(2TC)
+Phương pháp luận 
+nghiên cứu khoa học 
+(2TC)
+Mật mã ứng dụng 
+(3TC)
+Quản lý, pháp luật và 
+chính sách ATTT 
+(3TC)
+Chuyên đề thạc sĩ 4 (3 
+TC)
+Giám sát an toàn 
+mạng nâng cao (3TC)
+Kiểm thử xâm nhập 
+nâng cao (3TC)
+Luận văn tốt nghiệp 
+(15TC)
+Chuyên đề thạc sĩ 2 
+(3TC)
+Tự chọn cơ sở ngành 
+A1 (3TC)
+Chuyên đề thạc sĩ 1 
+(3TC)
+Tự chọn chuyên 
+ngành C1 (2TC)
+Chuyên đề thạc sĩ 3 
+(3TC)
+Tự chọn chuyên 
+ngành B1 (3TC)
+Phân tích mã độc 
+nâng cao (3TC)
+A. Các học phần tự chọn cơ sở ngành:
+1. Công nghệ Blockchain (3TC);
+2. An toàn điện toán đám mây (3TC);
+3. Học máy và ứng dụng trong ATTT (3TC);
+B. Các học phần tự chọn chuyên ngành:
+1. Các chủ đề hiện đại trong ATTT (3TC);
+2. Tấn công và phòng thủ mạng (3TC);
+3. Ứng phó và xử lý sự cố bảo mật (3TC);
+4. Điều tra số (3TC).
+C. Các học phần tự chọn chuyên ngành:
+1. An toàn web nâng cao (2TC);
+2. An toàn cơ sở dữ liệu nâng cao (2TC);
+3. Mật mã hậu lượng tử (2TC);
+4. Đảm bảo an toàn AI (2TC).

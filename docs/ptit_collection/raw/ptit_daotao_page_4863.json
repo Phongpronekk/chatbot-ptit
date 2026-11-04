@@ -1,0 +1,94 @@
+{
+  "id": 4863,
+  "date": "2026-05-13T23:20:20",
+  "date_gmt": "2026-05-13T16:20:20",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=4863"
+  },
+  "modified": "2026-05-15T17:58:21",
+  "modified_gmt": "2026-05-15T10:58:21",
+  "slug": "student-support",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/en/student-support/",
+  "title": {
+    "rendered": "Student Support"
+  },
+  "content": {
+    "rendered": "<div style=\"font-size: 16px;line-height: 1.6;color: #333;font-family: 'Segoe UI', Roboto, Arial, sans-serif\">\n<h1 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">Overview</h1>\n<p style=\"margin: 0 0 8px 0\">PTIT provides comprehensive student support services to enhance academic success, wellbeing, and personal development throughout the student journey.</p>\n<p style=\"margin: 0 0 8px 0\">The Institute promotes a student-centered environment aligned with Outcome-Based Education (OBE) and Internal Quality Assurance (IQA) standards through:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\">Collaboration between academic faculties and functional departments;</li>\n<li style=\"margin-bottom: 6px\">Integrated digital learning systems and career service offices;</li>\n<li style=\"margin-bottom: 0\">Compliance with international higher education quality benchmarks.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">1. Academic Advising and Digital Support</h5>\n<p style=\"margin: 0 0 8px 0\">Advisors and digital systems assist students in navigating their academic pathways:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Academic Advising:</strong> Support for study planning, course registration, and progression;</li>\n<li style=\"margin-bottom: 6px\"><strong>LMS &amp; Digital Platforms:</strong> 24/7 access to e-learning systems and technical support;</li>\n<li style=\"margin-bottom: 0\"><strong>Learning Resources:</strong> Continuous improvement of digital libraries and online databases.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">2. Career Services and Financial Support</h5>\n<p style=\"margin: 0 0 8px 0\">PTIT bridges the gap between education and employment while ensuring financial accessibility:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Employability:</strong> Internship programmes, job fairs, and employer networking;</li>\n<li style=\"margin-bottom: 6px\"><strong>Scholarships:</strong> Schemes for outstanding, talented, and disadvantaged students;</li>\n<li style=\"margin-bottom: 0\"><strong>Industry Engagement:</strong> Collaboration with global enterprises for real-world experience.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">3. Student Wellbeing and Campus Life</h5>\n<p style=\"margin: 0 0 8px 0\">The Institute fosters holistic development through diverse extracurricular activities:</p>\n<ul style=\"margin: 0 0 32px 0;padding-left: 20px\">\n<li style=\"margin-bottom: 6px\"><strong>Holistic Care:</strong> Healthcare, counseling, and campus wellbeing services;</li>\n<li style=\"margin-bottom: 6px\"><strong>Student Engagement:</strong> Academic clubs, innovation hubs, and volunteer programmes;</li>\n<li style=\"margin-bottom: 0\"><strong>Inclusivity:</strong> Specialized support for international students and mobility activities.</li>\n</ul>\n<h5 style=\"font-size: 16px;font-weight: bold;margin: 0 0 8px 0;color: #1a4388\">4. Student Feedback and Information Channels</h5>\n<p style=\"margin: 0 0 12px 0\">PTIT values student voices and ensures transparent communication through surveys and advising channels.</p>\n<p style=\"margin: 0 0 0 0\">For detailed information on student services, please visit: <a href=\"https://iqa.ptit.edu.vn/en/student-support-services/\" style=\"color: #1a4388;font-weight: bold;text-decoration: underline\">Student Support Services Link</a>.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Overview PTIT provides comprehensive student support services to enhance academic success, wellbeing, and personal development throughout the student journey. The Institute promotes a student-centered environment aligned with Outcome-Based Education (OBE) and Internal Quality Assurance (IQA) standards through: Collaboration between academic faculties and functional departments; Integrated digital learning systems and career service offices; Compliance with international [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 77,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-4863",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4863",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/77"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=4863"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/4863/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=4863"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

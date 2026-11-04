@@ -1,0 +1,125 @@
+{
+  "id": 33522,
+  "date": "2026-10-20T13:22:32",
+  "date_gmt": "2026-10-20T13:22:32",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33522"
+  },
+  "modified": "2026-10-20T13:22:32",
+  "modified_gmt": "2026-10-20T13:22:32",
+  "slug": "thong-bao-lich-nhan-dong-phuc-doi-voi-sinh-vien-khoa-2026-dot-2",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/10/20/thong-bao-lich-nhan-dong-phuc-doi-voi-sinh-vien-khoa-2026-dot-2/",
+  "title": {
+    "rendered": "Thông báo lịch nhận đồng phục đối với sinh viên khóa 2026 (đợt 2)"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ kế hoạch may đồng phục cho sinh viên khóa 2026 và tiến độ giao hàng, Phòng Chính trị và Công tác sinh viên thông báo lịch nhận đồng phục đợt 2 như sau:</p>\n<ol>\n<li>Hình thức: Cá nhân sinh viên xuất trình thẻ sinh viên (hoặc Slink), ký và nhận đồng phục trực tiếp.</li>\n<li>Địa điểm: Sảnh Hội trường A2, trước cửa Phòng Truyền thống.</li>\n<li>Thời gian nhận đồng phục:</li>\n</ol>\n<ul>\n<li>Đối với sinh viên đăng ký mua đồng phục đợt 1 (trước ngày 07/9/2026)<strong>: Từ ngày 21/10 đến hết ngày 24/10/2026;</strong> buổi sáng từ 8 giờ 30 đến 11 giờ 30, buổi chiều từ 13 giờ 30 đến 17 giờ 30. (theo lịch chi tiết của từng lớp kèm theo thông báo).</li>\n<li>Đối với sinh viên đăng ký mua đồng phục đợt bổ sung (sau ngày 07/9/2026): <strong>Từ ngày 23/10 đến hết ngày 24/10/2026</strong>; buổi sáng từ 8 giờ 30 đến 11 giờ 30, buổi chiều từ 13 giờ 30 đến 17 giờ 30.</li>\n</ul>\n<p>Lịch nhận đồng phục chi tiết theo từng lớp được gửi kèm thông báo này. Đề nghị ban cán sự lớp thông báo và đôn đốc sinh viên trong lớp đến nhận đồng phục theo đúng lịch.</p>\n<p>Thông báo và lịch nhận đồng phục các lớp xem tại đây: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/TB-D26-dong-phuc-dot-2.pdf\">TB D26 đồng phục đợt 2</a></p>\n<p>Trân trọng thông báo!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ kế hoạch may đồng phục cho sinh viên khóa 2026 và tiến độ giao hàng, Phòng Chính trị và Công tác sinh viên thông báo lịch nhận đồng phục đợt 2 như sau: Hình thức: Cá nhân sinh viên xuất trình thẻ sinh viên (hoặc Slink), ký và nhận đồng phục trực tiếp. [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 32,
+  "featured_media": 33518,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33522",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33522",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/32"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33522"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33522/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33524,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33522/revisions/33524"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33518"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33522"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33522"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33522"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

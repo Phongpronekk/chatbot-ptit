@@ -1,0 +1,139 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT GIỮA CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG - ĐỊNH HƯỚNG ỨNG DỤNG
+A2: CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG - ĐỊNH HƯỚNG ỨNG DỤNG
+MÃ NGÀNH: 8520208
+TRÌNH ĐỘ ĐÀO TẠO: THẠC SĨ
+KHOA QUẢN LÝ CTĐT: VIỄN THÔNG 1
+Học Viện Công nghệ Bưu chính Viễn thông | J2: LO5. Nhận biết trách nhiệm và đạo đức nghề nghiệp khi xử lý các tình huống kỹ thuật trong lĩnh vực kỹ thuật viễn thông và đưa ra các ý tưởng, đánh giá,  phát triển các giải pháp khả thi trong đó có xem xét tác động trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội, nhận diện các cơ hội khởi nghiệp tiềm năng. | K2: LO1. Xác định và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý của kỹ thuật, khoa học và toán học. trong lĩnh vực kỹ thuật viễn thông. | N2: LO2. Thu thập dữ liệu, phân tích, đánh giá, tổng hợp các hệ thống, quy trình, giải pháp kỹ thuật trong lĩnh vực kỹ thuật viễn thông. | Q2: LO3. Đổi mới, sáng tạo, thiết kế giải pháp kỹ thuật tiên tiến trong lĩnh vực viễn thông, có xem xét đến các yếu tố rủi ro và cơ hội. | T2: LO4. Làm việc hiệu quả trong các nhóm đa ngành, có tư duy và khả năng phản biện, biết cách điều hành, hợp tác và trao đổi thông tin, trình bầy ý tưởng hiệu quả để hoàn thành các dự án kỹ thuật phức tạp. | X2: LO5. Nhận biết trách nhiệm và đạo đức nghề nghiệp khi xử lý các tình huống kỹ thuật trong lĩnh vực kỹ thuật viễn thông và đưa ra các ý tưởng, đánh giá,  phát triển các giải pháp khả thi trong đó có xem xét tác động trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội, nhận diện các cơ hội khởi nghiệp tiềm năng.
+J3:  C4, A3 | K3: C4, P3 | N3: C5, A2  | Q3: C6, P3, A4  | T3: P4, A4 | X3:  C4, A3
+A4: Mỗi LO được thiết kế 2-3 PI tương ứng; xác định thống nhất mức độ đóng góp của học phần vào mỗi PI của từng LO  | L4: PI1.1. Phân loại được bài toán cần giải quyết, chỉ ra các tham số chính cần xác định. | M4: PI1.2. Áp dụng kiến thức, mô hình và phương pháp giải quyết được vấn đề kỹ thuật phức tạp thuộc lĩnh vực điện tử viễn thông. | O4: PI2.1. Phân tích, xác định và đánh giá được tham số hoạt động của các phần tử, mạch thành phần trong hệ thống thiết bị điện tử viễn thông. | P4: PI2.2. Phân tích, tổng hợp và đánh giá dữ liệu thu thập và quy trình kỹ thuật trong hệ thống viễn thông. | R4: PI3.1. Vận dụng công cụ kỹ thuật chuyên ngành, thiết kế giải pháp có xem xét đến các vấn đề về rủi ro và cơ hội để giải quyết vấn đề phức tạp. | S4: PI3.2 Phân tích, đánh giá và tự tổng hợp các kiến thức mới trong lĩnh vực điện tử viễn thông. | U4: PI4.1. Xây dựng và trình bày được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định. | V4: PI4.2. Xác định mục tiêu và thời hạn, lập kế hoạch, phối hợp, phân công và chia sẻ công việc trong nhóm hiệu quả, có khả năng thích ứng và cam kết hoàn thành nhiệm vụ. | W4: PI4.3. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ. | Y4: PI5.1. Nhận biết trách nhiệm đạo đức, quy định pháp luật, quy định nghề nghiệp trong các tình huống kỹ thuật. | Z4: PI5.2. Phân tích được tác động, đưa ra các ý tưởng, đánh giá, phát triển giải pháp kỹ thuật khả thi đối với xã hội, kinh tế và môi trường.
+A5: OUTCOME (i) COMMUNICATION, (ii) SATURATION AND (iii) ASSESSMENT | K5: 1 | L5: 2 | M5: 3 | N5: 4 | O5: 5 | P5: 6 | Q5: 7 | R5: 8 | S5: 9 | T5: 10 | U5: 11 | V5: 12 | W5: 13 | X5: 14 | Y5: 15 | Z5: 16
+A6: STT | B6: Mã học phần | C6: Học phần | D6: Học kỳ | E6: Khối kiến thức/ Khối học tập | F6: Số tín chỉ | G6: Bắt buộc/ lựa chọn bắt buộc/ lựa chọn tự do | H6: (iv) COURSE BREADTH SCORES | I6: (v) COURSE DEPTH SCORES | K6: [i] Outcome Statement (X, Y) | L6: [ii] Mode (I, R, E) | M6: [ii] Mode (I, R, E) | N6: [i] Outcome Statement (X, Y) | O6: [ii] Mode (I, R, E) | P6: [ii] Mode (I, R, E) | Q6: [i] Outcome Statement (X, Y) | R6: [ii] Mode (I, R, E) | S6: [ii] Mode (I, R, E) | T6: [i] Outcome Statement (X, Y) | U6: [ii] Mode (I, R, E) | V6: [ii] Mode (I, R, E) | W6: [ii] Mode (I, R, E) | X6: [i] Outcome Statement (X, Y) | Y6: [ii] Mode (I, R, E) | Z6: [ii] Mode (I, R, E)
+B7: I | C7: Khối kiến thức chung
+A8: 1 | C8: Triết học | D8: Kỳ  1 | E8: Giáo dục Đại cương | F8: 3 | G8: Bắt buộc | H8: 1 | I8: 2 | X8: Y | Y8: I | Z8: I
+A9: 2 | C9: Phương pháp nghiên cứu khoa học | D9: Kỳ  1 | E9: Giáo dục Đại cương | F9: 2 | G9: Bắt buộc | H9: 1 | I9: 2 | T9: Y | U9: I | V9: I | W9: I | X9: Y | Y9: I | Z9: I
+A10: 3 | C10: Công cụ toán cho điện tử - viễn thông | D10: Kỳ  1 | E10: Giáo dục Đại cương | F10: 3 | G10: Bắt buộc | H10: 0 | I10: 0 | K10: X | L10: I | M10: I
+B11: II | C11: Khối kiến thức cơ sở (nhóm ngành và ngành)
+A12: 4 | C12: Truyền thông số nâng cao | D12: Kỳ 2 | E12: Cơ sở ngành | F12: 3 | G12: Bắt buộc | H12: 0 | I12: 0 | K12: X | L12: I | M12: I | Q12: X | R12: I | S12: I
+A13: 5 | C13: Xử lý tín hiệu số nâng cao | D13: Kỳ 2 | E13: Cơ sở ngành | F13: 3 | G13: Bắt buộc | H13: 0 | I13: 0 | K13: X | L13: I | M13: I | N13: X | O13: I | P13: I
+C14: Các học phần tự chọn
+C15: Tự chọn 1- Tính toán tự động và tự động hóa
+A16: 6 | C16: Học máy ứng dụng | D16: Kỳ 2 | E16: Cơ sở ngành | F16: 3 | G16: Lựa chọn tự do | H16: 2 | I16: 2 | N16: X | O16: R | P16: R | X16: X | Y16: I | Z16: I
+A17: 7 | C17: Kỹ thuật lập trình nâng cao | D17: Kỳ 2 | E17: Cơ sở ngành | F17: 3 | G17: Lựa chọn tự do | H17: 2 | I17: 2 | N17: X | O17: R | P17: R | X17: X | Y17: I | Z17: I
+A18: 8 | C18: Tự động hóa mạng | D18: Kỳ 2 | E18: Cơ sở ngành | F18: 3 | G18: Lựa chọn tự do | H18: 2 | I18: 2 | N18: X | O18: R | P18: R | X18: X | Y18: I | Z18: I
+C19: Tự chọn 2 - Mô hình hóa và tích hợp
+A20: 9 | C20: Lý thuyết hàng đợi và ứng dụng | D20: Kỳ 2 | E20: Cơ sở ngành | F20: 3 | G20: Lựa chọn tự do | H20: 0 | I20: 0 | K20: X | L20: R | M20: R | N20: X | O20: R | P20: R
+A21: 10 | C21: Truyền thông đa phương tiện nâng cao | D21: Kỳ 2 | E21: Cơ sở ngành | F21: 3 | G21: Lựa chọn tự do | H21: 0 | I21: 0 | K21: X | L21: R | M21: R | N21: X | O21: R | P21: R
+A22: 11 | C22: Hệ thống tích hợp truyền thông - cảm biến | D22: Kỳ 2 | E22: Cơ sở ngành | F22: 3 | G22: Lựa chọn tự do | H22: 0 | I22: 0 | K22: X | L22: R | M22: R | N22: X | O22: R | P22: R
+B23: III | C23: Khối kiến thức chuyên ngành 
+A24: 12 | C24: Mô hình hoá và phân tích hiệu năng hệ thống | D24: Kỳ 2 | E24: Chuyên ngành | F24: 3 | G24: Bắt buộc | H24: 0 | I24: 0 | K24: X | L24: R | M24: R | N24: X | O24: R | P24: R
+A25: 13 | C25: Thông tin vô tuyến nâng cao | D25: Kỳ 2 | E25: Chuyên ngành | F25: 3 | G25: Bắt buộc | H25: 0 | I25: 0 | K25: X | L25: R | M25: R | T25: X | U25: R | V25: R | W25: R
+A26: 14 | C26: Mạng truyền thông tiên tiến | D26: Kỳ 2 | E26: Chuyên ngành | F26: 3 | G26: Bắt buộc | H26: 0 | I26: 0 | K26: X | L26: R | M26: R | T26: X | U26: R | V26: R | W26: R
+A27: 15 | C27: Hệ thống IoT tiên tiến | D27: Kỳ 3 | E27: Chuyên ngành | F27: 3 | G27: Bắt buộc | H27: 0 | I27: 0 | K27: X | L27: R | M27: R | N27: X | O27: R | P27: R
+A28: 16 | C28: Chuyên đề viễn thông hiện đại | D28: Kỳ 3 | E28: Chuyên ngành | F28: 3 | G28: Lựa chọn bắt buộc | H28: 0 | I28: 0 | Q28: X | R28: R | S28: R | T28: Y | U28: R | V28: R | W28: R
+C29: Các học phần tự chọn
+C30: Tự chọn 1 - Mạng, nền tảng số và an toàn hệ thống
+A31: 17 | C31: Truyền thông lượng tử | D31: Kỳ 3 | E31: Chuyên ngành | F31: 3 | G31: Lựa chọn tự do | H31: 0 | I31: 0 | K31: X | L31: E | M31: E | N31: X | O31: E | P31: E
+A32: 18 | C32: An toàn hệ thống điện toán đám mây | D32: Kỳ 3 | E32: Chuyên ngành | F32: 3 | G32: Lựa chọn tự do | H32: 0 | I32: 0 | K32: X | L32: E | M32: E | N32: X | O32: E | P32: E
+A33: 19 | C33: Kỹ nghệ Web và API | D33: Kỳ 3 | E33: Chuyên ngành | F33: 3 | G33: Lựa chọn tự do | H33: 0 | I33: 0 | K33: X | L33: E | M33: E | N33: X | O33: E | P33: E
+A34: 20 | C34: Thiết kế và qui hoạch mạng | D34: Kỳ 3 | E34: Chuyên ngành | F34: 3 | G34: Lựa chọn tự do | H34: 0 | I34: 0 | K34: X | L34: E | M34: E | N34: X | O34: E | P34: E
+C35: Tự chọn 2 - Dữ liệu, AI và quản trị
+A36: 21 | C36: Phân tích dữ liệu trong viễn thông | D36: Kỳ 3 | E36: Chuyên ngành | F36: 3 | G36: Lựa chọn tự do | H36: 1 | I36: 4 | Q36: X | R36: R | S36: R | X36: Y | Y36: R | Z36: R
+A37: 22 | C37: Trí tuệ nhân tạo trong viễn thông | D37: Kỳ 3 | E37: Chuyên ngành | F37: 3 | G37: Lựa chọn tự do | H37: 1 | I37: 4 | Q37: X | R37: R | S37: R | X37: Y | Y37: R | Z37: R
+A38: 23 | C38: Dữ liệu lớn nâng cao | D38: Kỳ 3 | E38: Chuyên ngành | F38: 3 | G38: Lựa chọn tự do | H38: 1 | I38: 4 | Q38: X | R38: R | S38: R | X38: Y | Y38: R | Z38: R
+A39: 24 | C39: Quản lý dự án và đổi mới sáng tạo | D39: Kỳ 3 | E39: Chuyên ngành | F39: 3 | G39: Lựa chọn tự do | H39: 1 | I39: 4 | Q39: X | R39: R | S39: R | X39: Y | Y39: R | Z39: R
+C40: Tự chọn 3 - Vô tuyến
+A41: 25 | C41: Hệ thống truyền thông không gian và UAV | D41: Kỳ 3 | E41: Chuyên ngành | F41: 3 | G41: Lựa chọn tự do | H41: 0 | I41: 0 | K41: X | L41: E | M41: E | Q41: X | R41: R | S41: R
+A42: 26 | C42: Truyền thông quang không dây | D42: Kỳ 3 | E42: Chuyên ngành | F42: 3 | G42: Lựa chọn tự do | H42: 0 | I42: 0 | K42: X | L42: E | M42: E | Q42: X | R42: R | S42: R
+A43: 27 | C43: Công nghệ anten tiên tiến | D43: Kỳ 3 | E43: Chuyên ngành | F43: 3 | G43: Lựa chọn tự do | H43: 0 | I43: 0 | K43: X | L43: E | M43: E | Q43: X | R43: R | S43: R
+A44: 28 | C44: Thông tin vệ tinh nâng cao | D44: Kỳ 3 | E44: Chuyên ngành | F44: 3 | G44: Lựa chọn tự do | H44: 0 | I44: 0 | K44: X | L44: E | M44: E | Q44: X | R44: R | S44: R
+A45: 29 | C45: Thực tập tốt nghiệp | D45: Kỳ 4 | E45: Tốt nghiệp | F45: 7 | G45: Bắt buộc | H45: 2 | I45: 6 | K45: X | L45: E | M45: E | N45: X | O45: E | P45: E | Q45: X | R45: E | S45: E | T45: X | U45: E | V45: E | W45: E | X45: X | Y45: E | Z45: E
+A46: 30 | C46: Đề án tốt nghiệp thạc sĩ | D46: Kỳ 4 | E46: Tốt nghiệp | F46: 9 | G46: Bắt buộc | H46: 2 | I46: 6 | K46: X | L46: E | M46: E | N46: X | O46: E | P46: E | Q46: X | R46: E | S46: E | T46: X | U46: E | V46: E | W46: E | X46: X | Y46: E | Z46: E
+C48: SUM X I | L48: 3 | M48: 3 | O48: 1 | P48: 1 | R48: 1 | S48: 1 | U48: 0 | W48: 0 | Y48: 3 | Z48: 3
+C49: SUM X R | L49: 7 | M49: 7 | O49: 8 | P49: 8 | R49: 9 | S49: 9 | U49: 0 | W49: 2 | Y49: 0 | Z49: 0
+C50: SUM X E | L50: 10 | M50: 10 | O50: 6 | P50: 6 | R50: 2 | S50: 2 | U50: 0 | W50: 2 | Y50: 2 | Z50: 2
+C52: SUM Y I | L52: 0 | M52: 0 | O52: 0 | P52: 0 | R52: 0 | S52: 0 | U52: 1 | W52: 1 | Y52: 2 | Z52: 2
+C53: SUM Y R | L53: 0 | M53: 0 | O53: 0 | P53: 0 | R53: 0 | S53: 0 | U53: 1 | W53: 1 | Y53: 4 | Z53: 4
+C54: SUM Y E | L54: 0 | M54: 0 | O54: 0 | P54: 0 | R54: 0 | S54: 0 | U54: 0 | W54: 0 | Y54: 0 | Z54: 0
+### sheet2.xml
+A1: MA TRẬN LIÊN KẾT GIỮA CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG - ĐỊNH HƯỚNG NGHIÊN CỨU
+A2: CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ NGÀNH KỸ THUẬT VIỄN THÔNG - ĐỊNH HƯỚNG NGHIÊN CỨU
+MÃ NGÀNH: 8520208
+TRÌNH ĐỘ ĐÀO TẠO: THẠC SĨ
+KHOA QUẢN LÝ CTĐT: VIỄN THÔNG 1
+Học Viện Công nghệ Bưu chính Viễn thông | J2: LO1. Xác định và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý của kỹ thuật, khoa học và toán học. trong lĩnh vực kỹ thuật viễn thông. | M2: LO2. Thu thập dữ liệu, phân tích, đánh giá, tổng hợp các hệ thống, quy trình, giải pháp kỹ thuật trong lĩnh vực kỹ thuật viễn thông. | P2: LO3. Đổi mới, sáng tạo, thiết kế giải pháp kỹ thuật tiên tiến trong lĩnh vực viễn thông, có xem xét đến các yếu tố rủi ro và cơ hội. | S2: LO4. Làm việc hiệu quả trong các nhóm đa ngành, có tư duy và khả năng phản biện, biết cách điều hành, hợp tác và trao đổi thông tin, trình bầy ý tưởng hiệu quả để hoàn thành các dự án kỹ thuật phức tạp. | W2: LO5. Nhận biết trách nhiệm và đạo đức nghề nghiệp khi xử lý các tình huống kỹ thuật trong lĩnh vực kỹ thuật viễn thông và đưa ra các ý tưởng, đánh giá,  phát triển các giải pháp khả thi trong đó có xem xét tác động trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội, nhận diện các cơ hội khởi nghiệp tiềm năng. | AA2: LO4. Làm việc hiệu quả trong các nhóm đa ngành, có tư duy và khả năng phản biện, biết cách điều hành, hợp tác và trao đổi thông tin, trình bầy ý tưởng hiệu quả để hoàn thành các dự án kỹ thuật phức tạp.
+J3: C4, P3 | M3: C5, A2  | P3: C6, P3, A4  | S3: P4, A4 | W3:  C4, A3 | AA3: P4, A4
+A4: Mỗi LO được thiết kế 3 PI tương ứng; xác định thống nhất mức độ đóng góp của học phần vào mỗi PI của từng LO  | K4: PI1.1. Phân loại được bài toán cần giải quyết, chỉ ra các tham số chính cần xác định. | L4: PI1.2. Áp dụng kiến thức, mô hình và phương pháp giải quyết được vấn đề kỹ thuật phức tạp thuộc lĩnh vực điện tử viễn thông. | N4: PI2.1. Phân tích, xác định và đánh giá được tham số hoạt động của các phần tử, mạch thành phần trong hệ thống thiết bị điện tử viễn thông. | O4: PI2.2. Phân tích, tổng hợp và đánh giá dữ liệu thu thập và quy trình kỹ thuật trong hệ thống viễn thông. | Q4: PI3.1. Vận dụng công cụ kỹ thuật chuyên ngành, thiết kế giải pháp có xem xét đến các vấn đề về rủi ro và cơ hội để giải quyết vấn đề phức tạp. | R4: PI3.2 Phân tích, đánh giá và tự tổng hợp các kiến thức mới trong lĩnh vực điện tử viễn thông. | T4: PI4.1. Xây dựng và trình bày được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định. | U4: PI4.2. Xác định mục tiêu và thời hạn, lập kế hoạch, phối hợp, phân công và chia sẻ công việc trong nhóm hiệu quả, có khả năng thích ứng và cam kết hoàn thành nhiệm vụ. | V4: PI4.3. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ. | Y4: PI.5.1. Nhận biết trách nhiệm đạo đức, quy định pháp luật, quy định nghề nghiệp trong các tình huống kỹ thuật. | Z4: PI.5.2. Phân tích được tác động, đưa ra các ý tưởng, đánh giá, phát triển giải pháp kỹ thuật khả thi đối với xã hội, kinh tế và môi trường.
+A5: OUTCOME (i) COMMUNICATION, (ii) SATURATION AND (iii) ASSESSMENT | J5: 1 | K5: 2 | L5: 3 | M5: 4 | N5: 5 | O5: 6 | P5: 7 | Q5: 6 | R5: 9 | S5: 10 | T5: 11 | U5: 12 | V5: 13 | X5: 14 | Y5: 15 | Z5: 16
+A6: STT | B6: Mã học phần | C6: Học phần | D6: Học kỳ | E6: Khối kiến thức/ Khối học tập | F6: Số tín chỉ | G6: Bắt buộc/ lựa chọn bắt buộc/ lựa chọn tự do | H6: (iv) COURSE BREADTH SCORES | I6: (v) COURSE DEPTH SCORES | J6: [i] Outcome Statement (X, Y) | K6: [ii] Mode (I, R, E) | L6: [ii] Mode (I, R, E) | M6: [i] Outcome Statement (X, Y) | N6: [ii] Mode (I, R, E) | O6: [ii] Mode (I, R, E) | P6: [i] Outcome Statement (X, Y) | Q6: [ii] Mode (I, R, E) | R6: [ii] Mode (I, R, E) | S6: [i] Outcome Statement (X, Y) | T6: [ii] Mode (I, R, E) | U6: [ii] Mode (I, R, E) | V6: [ii] Mode (I, R, E) | X6: [i] Outcome Statement (X, Y) | Y6: [ii] Mode (I, R, E) | Z6: [ii] Mode (I, R, E)
+B7: I | C7: Khối kiến thức chung
+A8: 1 | C8: Triết học | D8: Kỳ  1 | E8: Giáo dục Đại cương | F8: 3 | G8: Bắt buộc | H8: 1 | I8: 2 | X8: Y | Y8: I | Z8: I
+A9: 2 | C9: Phương pháp nghiên cứu khoa học | D9: Kỳ  1 | E9: Giáo dục Đại cương | F9: 2 | G9: Bắt buộc | H9: 1 | I9: 2 | S9: Y | T9: I | U9: I | V9: I | X9: Y | Y9: I | Z9: I
+A10: 3 | C10: Công cụ toán cho điện tử - viễn thông | D10: Kỳ  1 | E10: Giáo dục Đại cương | F10: 3 | G10: Bắt buộc | H10: 0 | I10: 0 | J10: X | K10: I | L10: I
+B11: II | C11: Khối kiến thức cơ sở (nhóm ngành và ngành)
+A12: 4 | C12: Truyền thông số nâng cao | D12: Kỳ  1 | E12: Cơ sở ngành | F12: 3 | G12: Bắt buộc | H12: 0 | I12: 0 | J12: X | K12: I | L12: I | P12: X | Q12: I | R12: I
+A13: 5 | C13: Xử lý tín hiệu số nâng cao | D13: Kỳ  1 | E13: Cơ sở ngành | F13: 3 | G13: Bắt buộc | H13: 0 | I13: 0 | J13: X | K13: I | L13: I | M13: X | N13: I | O13: I
+A14: 6 | C14: Chuyên đề thạc sĩ 1 | D14: Kỳ 2 | E14: Cơ sở ngành | F14: 2 | G14: Bắt buộc | H14: 2 | I14: 2 | M14: X | N14: R | O14: R | X14: X | Y14: I | Z14: I
+A15: 7 | C15: Chuyên đề thạc sĩ 2 | D15: Kỳ 2 | E15: Cơ sở ngành | F15: 2 | G15: Bắt buộc | H15: 0 | I15: 0 | J15: X | K15: R | L15: R | M15: X | N15: R | O15: R
+C16: Các học phần tự chọn
+A17: 8 | C17: Học máy ứng dụng | D17: Kỳ 2 | E17: Cơ sở ngành | F17: 3 | G17: Lựa chọn tự do | H17: 2 | I17: 2 | M17: X | N17: R | O17: R | X17: X | Y17: I | Z17: I
+A18: 9 | C18: Kỹ thuật lập trình nâng cao | D18: Kỳ 2 | E18: Cơ sở ngành | F18: 3 | G18: Lựa chọn tự do | H18: 2 | I18: 2 | M18: X | N18: R | O18: R | X18: X | Y18: I | Z18: I
+A19: 10 | C19: Tự động hóa mạng | D19: Kỳ 2 | E19: Cơ sở ngành | F19: 3 | G19: Lựa chọn tự do | H19: 2 | I19: 2 | M19: X | N19: R | O19: R | X19: X | Y19: I | Z19: I
+B20: III | C20: Khối kiến thức chuyên ngành 
+A21: 11 | C21: Mô hình hoá và phân tích hiệu năng hệ thống | D21: Kỳ 2 | E21: Chuyên ngành | F21: 3 | G21: Bắt buộc | H21: 0 | I21: 0 | J21: X | K21: R | L21: R | M21: X | N21: R | O21: R
+A22: 12 | C22: Thông tin vô tuyến nâng cao | D22: Kỳ 2 | E22: Chuyên ngành | F22: 3 | G22: Bắt buộc | H22: 0 | I22: 0 | J22: X | K22: R | L22: R | S22: X | T22: R | U22: R | V22: R
+A23: 13 | C23: Chuyên đề thạc sĩ 3 | D23: Kỳ 2 | E23: Chuyên ngành | F23: 2 | G23: Bắt buộc | H23: 0 | I23: 0 | J23: X | K23: R | L23: R | S23: X | T23: R | U23: R | V23: R
+A24: 14 | C24: Chuyên đề thạc sĩ 4 | D24: Kỳ 3 | E24: Chuyên ngành | F24: 3 | G24: Bắt buộc | H24: 0 | I24: 0 | J24: X | K24: R | L24: R | M24: X | N24: R | O24: R
+A25: 15 | C25: Chuyên đề thạc sĩ 5 | D25: Kỳ 3 | E25: Chuyên ngành | F25: 3 | G25: Bắt buộc | H25: 0 | I25: 0 | P25: X | Q25: R | R25: R | S25: Y | T25: R | U25: R | V25: R
+C26: Các học phần tự chọn
+C27: Tự chọn 1 - Mạng, nền tảng số và an toàn hệ thống
+A28: 16 | C28: Truyền thông lượng tử | D28: Kỳ 3 | E28: Chuyên ngành | F28: 3 | G28: Lựa chọn tự do | H28: 0 | I28: 0 | J28: X | K28: E | L28: E | M28: X | N28: E | O28: E
+A29: 17 | C29: An toàn hệ thống điện toán đám mây | D29: Kỳ 3 | E29: Chuyên ngành | F29: 3 | G29: Lựa chọn tự do | H29: 0 | I29: 0 | J29: X | K29: E | L29: E | M29: X | N29: E | O29: E
+A30: 18 | C30: Kỹ nghệ Web và API | D30: Kỳ 3 | E30: Chuyên ngành | F30: 3 | G30: Lựa chọn tự do | H30: 0 | I30: 0 | J30: X | K30: E | L30: E | M30: X | N30: E | O30: E
+A31: 19 | C31: Thiết kế và qui hoạch mạng | D31: Kỳ 3 | E31: Chuyên ngành | F31: 3 | G31: Lựa chọn tự do | H31: 0 | I31: 0 | J31: X | K31: E | L31: E | M31: X | N31: E | O31: E
+C32: Tự chọn 2 - Dữ liệu, AI và quản trị
+A33: 20 | C33: Phân tích dữ liệu trong viễn thông | D33: Kỳ 3 | E33: Chuyên ngành | F33: 3 | G33: Lựa chọn tự do | H33: 1 | I33: 4 | P33: X | Q33: R | R33: R | X33: Y | Y33: R | Z33: R
+A34: 21 | C34: Trí tuệ nhân tạo trong viễn thông | D34: Kỳ 3 | E34: Chuyên ngành | F34: 3 | G34: Lựa chọn tự do | H34: 1 | I34: 4 | P34: X | Q34: R | R34: R | X34: Y | Y34: R | Z34: R
+A35: 22 | C35: Dữ liệu lớn nâng cao | D35: Kỳ 3 | E35: Chuyên ngành | F35: 3 | G35: Lựa chọn tự do | H35: 1 | I35: 4 | P35: X | Q35: R | R35: R | X35: Y | Y35: R | Z35: R
+A36: 23 | C36: Quản lý dự án và đổi mới sáng tạo | D36: Kỳ 3 | E36: Chuyên ngành | F36: 3 | G36: Lựa chọn tự do | H36: 1 | I36: 4 | P36: X | Q36: R | R36: R | X36: Y | Y36: R | Z36: R
+C37: Tự chọn 3 - Vô tuyến
+A38: 24 | C38: Mạng truyền thông phi mặt đất | D38: Kỳ 3 | E38: Chuyên ngành | F38: 3 | G38: Lựa chọn tự do | H38: 0 | I38: 0 | J38: X | K38: E | L38: E | P38: X | Q38: R | R38: R
+A39: 25 | C39: Truyền thông quang không dây | D39: Kỳ 3 | E39: Chuyên ngành | F39: 3 | G39: Lựa chọn tự do | H39: 0 | I39: 0 | J39: X | K39: E | L39: E | P39: X | Q39: R | R39: R
+A40: 26 | C40: Công nghệ anten tiên tiến | D40: Kỳ 3 | E40: Chuyên ngành | F40: 3 | G40: Lựa chọn tự do | H40: 0 | I40: 0 | J40: X | K40: E | L40: E | P40: X | Q40: R | R40: R
+A41: 27 | C41: Thông tin vệ tinh nâng cao | D41: Kỳ 3 | E41: Chuyên ngành | F41: 3 | G41: Lựa chọn tự do | H41: 0 | I41: 0 | J41: X | K41: E | L41: E | P41: X | Q41: R | R41: R
+A42: 28 | C42: Luận văn tốt nghiệp thạc sĩ | D42: Kỳ 4 | E42: Tốt nghiệp | F42: 15 | G42: Bắt buộc | H42: 2 | I42: 6 | J42: X | K42: E | L42: E | M42: X | N42: E | O42: E | P42: X | Q42: E | R42: E | S42: X | T42: E | U42: E | V42: E | X42: X | Y42: E | Z42: E
+C44: SUM X I | K44: 3 | L44: 3 | N44: 1 | O44: 1 | Q44: 1 | R44: 1 | T44: 0 | V44: 0 | Y44: 4 | Z44: 4
+C45: SUM X R | K45: 5 | L45: 5 | N45: 7 | O45: 7 | Q45: 9 | R45: 9 | T45: 2 | V45: 2 | Y45: 0 | Z45: 0
+C46: SUM X E | K46: 9 | L46: 9 | N46: 5 | O46: 5 | Q46: 1 | R46: 1 | T46: 1 | V46: 1 | Y46: 1 | Z46: 1
+C48: SUM Y I | K48: 0 | L48: 0 | N48: 0 | O48: 0 | Q48: 0 | R48: 0 | T48: 1 | V48: 1 | Y48: 2 | Z48: 2
+C49: SUM Y R | K49: 0 | L49: 0 | N49: 0 | O49: 0 | Q49: 0 | R49: 0 | T49: 1 | V49: 1 | Y49: 4 | Z49: 4
+C50: SUM Y E | K50: 0 | L50: 0 | N50: 0 | O50: 0 | Q50: 0 | R50: 0 | T50: 0 | V50: 0 | Y50: 0 | Z50: 0
+### sheet3.xml
+B3: HƯỚNG DẪN THỰC HIỆN  | D3: Giải thích Khái niệm | E3: COURSE BREADTH AND DEPTH SCORES
+A4: A. | B4: Xem trước nguyên tắc thiết kế Curriculum Map tại đây  | E4: X, Y, I, R, E, A
+A6: B. | B6: Áp dụng nguyên tắc trên để thiết kế cho Sheet 2. Curriculum Map: 
+A7: 1 | B7: Cột D "Học kỳ" : Lựa chọn Học kỳ tương ứng với học phần. Sắp xếp các học phần theo thứ tự từ HK 1 đến HK 9
+A8: 2 | B8: Cột E "Khối kiến thức (học tập)": Lựa chọn khối tương ứng theo CV của Nhà trường 
+A9: 3 | B9: Cột G "Bắt buộc/lựa chọn tự do/lựa chọn bắt buộc" Lựa chọn yếu tổ phù hợp
+A10: 4 | B10: Tương ứng với mỗi PLO sẽ có 3 cột gồm:
+B11: (i) Outcomes Statement (X, Y): chọn X hoặc X cho mỗi học phần
+B12: (ii) Mode (I, R, E): lựa chọn I hoặc R hoặc E cho mỗi học phần. I,R, E là mức độ đóng góp cho CĐR của CTĐT, Các học kỳ đầu mức độ đóng góp là I, sẽ đạt mức R, rồi đến E cho các học kỳ sau theo thứ tự. 
+B13: (iii) Assessment (A): lựa chọn A cho học phần sẽ được thu thập kết quả kiểm tra đánh giá để đo lường mức độ đạt CĐR 
+B14: Khuyến nghị: cho mỗi PLO, chỉ nên phân bổ 2-3 học phần cốt lõi (X) đóng góp mức I, 3-4 học phần cốt lõi (X) đóng góp mức R, 3-4 học phần cốt lõi (X) đóng góp mức E;  Kết quả đánh giá CĐR cốt lõi (CLO) của các học phần cốt lõi (X) sẽ được thu thập để đo lường mức độ đạt CĐR CTĐT (PLO) 
+B15: Khuyến nghị: Mỗi học phần chỉ nên đóng góp trực tiếp X (học phần cốt lõi) cho 1-2 PLOs, đóng góp gián tiếp Y cho khoảng 1-2 PLOs khác  
+A16: 5 | B16: Dòng 2 và Cột H, I có các giá trị được tính tự động (theo công thức mô tả trong Nguyên tắc thiết kế)
+A17: 6 | B17: Để thêm dòng, cột: KHÔNG ĐƯỢC CHÈN VÀO DÒNG CUỐI BẢNG HAY CỘT NGOÀI CÙNG CỦA BẢNG. Vui long CHÈN bên trong bảng
+A18: 7 | B18: Chú ý CTĐT phải sử dụng Biểu mẫu online này để thiết kế (các function sẽ bị mất tác dụng nếu download file làm offline)
+A20: C. | B20: Thiết kế BLACKBOX cho mỗi học phần (sau khi hoàn thành B.)
+A21: 1 | B21: Cho mỗi học phần đang thiết kế (tại dòng): Lựa chọn ít nhất 1 học phần tiên quyết. Trong trường hợp có nhiều hơn 1 học phần tiên quyết,  chèn thêm hàng trong bảng (lưu ý chỉ chèn hàng, cột bên trong bảng , không chèn ở các cột.hàng ở cuối bảng)
+A22: 2 | B22: Điền mô tả CĐR mỗi học phần tương ứng vào cột D và G
+A23: 3 | B23: Cột Học kỳ sẽ được tự động cập tương ứng khi cột Học phần được chọn 
+A24: 4 | B24: Đảm bảo nguyên tắc, từ trái sang phải các cột Học kỳ E, H, J, số được phân bổ tăng dần. Nếu ngược lại thì cần xem xét điều chỉnh
+A27: D | B27: CTĐT KTVT:  tham khảo Hướng dẫn của ABET cho Criterion 5. Curriculum 
+### sheet4.xml
+A1: i | B1: X | C1: Y
+B2: 2 | C2: 1
+A3: ii | B3: I | C3: R | D3: E
+B4: 1 | C4: 2 | D4: 3
+A5: iii | B5: A | C5: -
+B6: 1

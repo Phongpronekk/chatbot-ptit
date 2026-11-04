@@ -1,0 +1,228 @@
+### sheet1.xml
+D1: CTĐT Thạc sĩ CNTT định hướng Trí tuệ nhân tạo
+Căn cứ  Quy định Đào tạo Học viện CN BCVT 
+Điều chỉnh Khối kiến thức: Giáo dục Đại cương; Cơ sở khối ngành; Cơ sở ngành; Chuyên ngành; Kiến thức bổ trợ; Tốt nghiệp | J1: PLO1: Nhận diện được vấn đề và đề xuất giải pháp — bao gồm giải pháp ứng dụng công nghệ số và trí tuệ nhân tạo (AI) — để giải quyết vấn đề liên quan đến công nghệ thông tin.
+ | N1: PLO2: Giao tiếp hiệu quả bằng ngôn ngữ phù hợp (bao gồm cả ngoại ngữ) trong nhiều bối cảnh chuyên nghiệp khác nhau
+ | Q1: PLO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức
+ | T1: PLO4: Làm việc hiệu quả với vai trò thành viên hoặc trưởng nhóm trong các hoạt động phù hợp với lĩnh vực chuyên môn của chương trình đào tạo.
+ | W1: PLO5:  Thực hiện được dự án ứng dụng độc lập hoặc theo nhóm, trong lĩnh vực Công nghệ phần mềm, Công nghệ thông tin, thể hiện khả năng tự học và thích ứng với công nghệ mới.
+
+A2: Mức độ (level) của mỗi miền (domain): Cx: level x của domain Cognitive; Py: level y của domain Psychomotor; Az: level z của domain Affective | K2: C4 | L2: C4/P3 | M2: C4/P3 | O2: C3/P3 | P2: C3/P3 | R2: C3/P3 | S2: C3/A3 | U2: P4 | V2: A4 | X2: C6 | Y2: P4
+A3: Mỗi PLO được thiết kế 2-3 PI tương ứng; xác định thống nhất mức độ đóng góp của học phần vào mỗi PI của từng PLO  | K3: PI 1.1 | L3: PI 1.2 | M3: PI 1.3 | O3: PI 2.1 | P3: PI 2.2 | R3: PI 3.1 | S3: PI 3.2 | U3: PI 4.1 | V3: PI 4.2 | X3: PI 5.1 | Y3: PI 5.2
+A4: OUTCOME (i) COMMUNICATION, (ii) SATURATION | J4: 28 | K4: 33 | L4: 33 | M4: 24 | N4: 12 | O4: 15 | P4: 15 | Q4: 20 | R4: 25 | S4: 25 | T4: 16 | U4: 20 | V4: 20 | W4: 34 | X4: 40 | Y4: 40
+A5: TT | B5: Mã học phần | C5: Học phần | D5: Học kỳ | E5: Khối kiến thức/ Khối học tập | F5: Số tín chỉ | G5: Loại học phần | H5: (iv) COURSE BREADTH SCORES | I5: (v) COURSE DEPTH SCORES | J5: [i] Outcome Statement (X, Y) | K5: [ii] Mode (I, R, E) | L5: [ii] Mode (I, R, E) | M5: [ii] Mode (I, R, E) | N5: [i] Outcome Statement (X, Y) | O5: [ii] Mode (I, R, E) | P5: [ii] Mode (I, R, E) | Q5: [i] Outcome Statement (X, Y) | R5: [ii] Mode (I, R, E) | S5: [ii] Mode (I, R, E) | T5: [i] Outcome Statement (X, Y) | U5: [ii] Mode (I, R, E) | V5: [ii] Mode (I, R, E) | W5: [i] Outcome Statement (X, Y) | X5: [ii] Mode (I, R, E) | Y5: [ii] Mode (I, R, E)
+A6: I | C6: Khối kiến thức Chung
+A7: 1 | C7: Triết học | D7: Kỳ  1 | E7: Giáo dục Đại cương | F7: 3 | G7: Bắt buộc | H7: 2 | I7: 2 | Q7: X | R7: I | S7: I
+A8: 2 | C8: Công cụ toán cho công nghệ thông tin | D8: Kỳ  1 | E8: Giáo dục Đại cương | F8: 2 | G8: Bắt buộc | H8: 2 | I8: 3 | J8: X | K8: I | L8: I | M8: I
+A9: 3 | C9: Phương pháp nghiên cứu khoa học | D9: Kỳ  1 | E9: Giáo dục Đại cương | F9: 2 | G9: Bắt buộc | H9: 4 | I9: 5 | J9: X | K9: I | L9: I | M9: I | N9: X | O9: I | P9: I
+A10: II | C10: Khối kiến thức Cơ sở ngành
+A11: 4 | C11: Thuật toán nâng cao | D11: Kỳ  1 | E11: Cơ sở ngành | F11: 2 | G11: Bắt buộc | H11: 4 | I11: 5 | J11: X | K11: I | L11: I | M11: I | W11: X | X11: I | Y11: I
+A12: 5 | C12: Các hệ thống CSDL | D12: Kỳ  1 | E12: Cơ sở ngành | F12: 3 | G12: Bắt buộc | H12: 4 | I12: 10 | J12: X | K12: R | L12: R | M12: R | Q12: X | R12: R | S12: R
+A13: 6 | C13: Nhận dạng mẫu | D13: Kỳ 2 | E13: Cơ sở ngành | F13: 3 | G13: Bắt buộc | H13: 4 | I13: 8 | Q13: X | R13: R | S13: R | W13: X | X13: R | Y13: R
+A14: 7 | C14: Tự chọn cơ sở ngành A1 | D14: Kỳ 2 | E14: Cơ sở ngành | F14: 3 | G14: Lựa chọn bắt buộc | H14: 0 | I14: 0
+A15: 8 | C15: Tự chọn cơ sở ngành A2 | D15: Kỳ 2 | E15: Cơ sở ngành | F15: 3 | G15: Lựa chọn bắt buộc | H15: 0 | I15: 0
+A16: 9 | C16: Tự chọn cơ sở ngành A3 | D16: Kỳ 2 | E16: Cơ sở ngành | F16: 3 | G16: Lựa chọn bắt buộc | H16: 0 | I16: 0
+A17: A | C17: Các HP tự chọn cơ sở ngành
+A18: A1 | C18: Tìm kiếm và truy xuất thông tin | D18: Kỳ 2 | E18: Cơ sở ngành | F18: 3 | G18: Lựa chọn bắt buộc | H18: 4 | I18: 8 | T18: X | U18: R | V18: R | W18: X | X18: R | Y18: R
+A19: A2 | C19: Các kỹ thuật tối ưu | D19: Kỳ 2 | E19: Cơ sở ngành | F19: 3 | G19: Lựa chọn bắt buộc | H19: 4 | I19: 10 | J19: X | K19: R | L19: R | M19: R | W19: X | X19: R | Y19: R
+A20: A3 | C20: Phương pháp phân tích số liệu thống kê | D20: Kỳ 2 | E20: Cơ sở ngành | F20: 3 | G20: Lựa chọn bắt buộc | H20: 4 | I20: 8 | T20: X | U20: R | V20: R | W20: X | X20: R | Y20: R
+A21: A4 | C21: Các mô hình lập trình tiên tiến | D21: Kỳ 2 | E21: Cơ sở ngành | F21: 3 | G21: Lựa chọn bắt buộc | H21: 4 | I21: 10 | J21: X | K21: R | L21: R | M21: R | W21: X | X21: R | Y21: R
+A22: A5 | C22: Khai phá dữ liệu nâng cao | D22: Kỳ 2 | E22: Cơ sở ngành | F22: 3 | G22: Lựa chọn bắt buộc | H22: 4 | I22: 8 | Q22: X | R22: R | S22: R | W22: X | X22: R | Y22: R
+A23: A6 | C23: Dữ liệu lớn | D23: Kỳ 2 | E23: Cơ sở ngành | F23: 3 | G23: Lựa chọn bắt buộc | H23: 4 | I23: 4 | T23: X | U23: I | V23: I | W23: X | X23: I | Y23: I
+A24: A7 | C24: Tính toán phân tán | D24: Kỳ 2 | E24: Cơ sở ngành | F24: 3 | G24: Lựa chọn bắt buộc | H24: 4 | I24: 8 | N24: X | O24: R | P24: R | W24: X | X24: R | Y24: R
+A26: III | C26: Khối kiến thức Chuyên ngành
+A27: 11 | C27: Phát triển ứng dụng Trí tuệ nhân tạo | D27: Kỳ 3 | E27: Chuyên ngành | F27: 3 | G27: Bắt buộc | H27: 6 | I27: 18 | J27: X | K27: E | L27: E | Q27: X | R27: E | S27: E | W27: X | X27: E | Y27: E
+A28: 12 | C28: Trí tuệ Nhân tạo trong Kỹ nghệ phần mềm  | D28: Kỳ 3 | E28: Chuyên ngành | F28: 2 | G28: Bắt buộc | H28: 6 | I28: 18 | J28: X | K28: E | L28: E | Q28: X | R28: E | S28: E | W28: X | X28: E | Y28: E
+A29: 13 | C29: Triển khai và vận hành hệ thống Trí tuệ Nhân tạo  | D29: Kỳ 3 | E29: Chuyên ngành | F29: 3 | G29: Bắt buộc | H29: 4 | I29: 12 | N29: X | O29: E | P29: E | W29: X | X29: E | Y29: E
+A30: 14 | C30: Tự chọn chuyên ngành B1 | D30: Kỳ 3 | E30: Chuyên ngành | F30: 3 | G30: Lựa chọn bắt buộc | H30: 0 | I30: 0
+A31: B | C31: Các HP tự chọn chuyên ngành
+A32: B1 | C32: Các hệ thống tác tử | D32: Kỳ 3 | E32: Chuyên ngành | F32: 3 | G32: Lựa chọn bắt buộc | H32: 6 | I32: 21 | J32: X | K32: E | L32: E | M32: E | T32: X | U32: E | V32: E | W32: X | X32: E | Y32: E
+A33: B2 | C33: Nguyên lý chuyển đổi Trí tuệ nhân tạo  | D33: Kỳ 3 | E33: Chuyên ngành | F33: 3 | G33: Lựa chọn bắt buộc | H33: 4 | I33: 15 | J33: X | K33: E | L33: E | M33: E | Q33: X | R33: E | S33: E
+A34: B3 | C34: Kiến trúc hệ thống thông tin | D34: Kỳ 3 | E34: Chuyên ngành | F34: 3 | G34: Lựa chọn bắt buộc | H34: 4 | I34: 15 | J34: X | K34: E | L34: E | M34: E | W34: X | X34: E | Y34: E
+A35: B4 | C35: Tối ưu và vận hành HTTT | D35: Kỳ 3 | E35: Chuyên ngành | F35: 3 | G35: Lựa chọn bắt buộc | H35: 4 | I35: 12 | N35: X | O35: E | P35: E | W35: X | X35: E | Y35: E
+A36: B5 | C36: Quản trị nghiệp vụ thông minh nâng cao | D36: Kỳ 3 | E36: Chuyên ngành | F36: 3 | G36: Lựa chọn bắt buộc | H36: 4 | I36: 12 | J36: X | K36: E | L36: E | T36: X | U36: E | V36: E
+A37: B6 | C37: Kiểm thử các HTTT | D37: Kỳ 3 | E37: Chuyên ngành | F37: 3 | G37: Lựa chọn bắt buộc | H37: 4 | I37: 12 | Q37: X | R37: E | S37: E | T37: X | U37: E | V37: E
+A38: IV | C38: Khối kiến thức tốt nghiệp
+A39: 17 | C39: Thực tập tốt nghiệp | D39: Kỳ 4 | E39: Tốt nghiệp | F39: 6 | G39: Bắt buộc | H39: 10 | I39: 33 | J39: X | K39: E | L39: E | M39: E | N39: X | O39: E | P39: E | Q39: X | R39: E | S39: E | T39: X | U39: E | V39: E | W39: X | X39: E | Y39: E
+A40: 18 | C40: Đề án tốt nghiệp | D40: Kỳ 4 | E40: Tốt nghiệp | F40: 9 | G40: Bắt buộc | H40: 10 | I40: 33 | J40: X | K40: E | L40: E | M40: E | N40: X | O40: E | P40: E | Q40: X | R40: E | S40: E | T40: X | U40: E | V40: E | W40: X | X40: E | Y40: E
+C42: SUM X I | K42: 3 | L42: 3 | M42: 3 | O42: 1 | P42: 1 | R42: 1 | S42: 1 | U42: 1 | V42: 1 | X42: 2 | Y42: 2
+C43: SUM X R | K43: 3 | L43: 3 | M43: 3 | O43: 1 | P43: 1 | R43: 3 | S43: 3 | U43: 2 | V43: 2 | X43: 7 | Y43: 7
+C44: SUM X E | K44: 8 | L44: 8 | M44: 5 | O44: 4 | P44: 4 | R44: 6 | S44: 6 | U44: 5 | V44: 5 | X44: 8 | Y44: 8
+C46: SUM Y I | K46: 0 | O46: 0 | R46: 0 | U46: 0 | X46: 0
+C47: SUM Y R | K47: 0 | O47: 0 | R47: 0 | U47: 0 | X47: 0
+C48: SUM Y E | K48: 0 | O48: 0 | R48: 0 | U48: 0 | X48: 0
+### sheet2.xml
+D1: CTĐT Thạc sĩ ngành Công nghệ thông tin định hướng NC
+Căn cứ  Quy định Đào tạo Học viện CN BCVT 
+Điều chỉnh Khối kiến thức: Giáo dục Đại cương; Cơ sở khối ngành; Cơ sở ngành; Chuyên ngành; Kiến thức bổ trợ; Tốt nghiệp  | J1: PLO1: Nhận diện được vấn đề và đề xuất giải pháp — bao gồm giải pháp ứng dụng công nghệ số và trí tuệ nhân tạo (AI) — để giải quyết vấn đề liên quan đến công nghệ thông tin.
+ | N1: PLO2: Giao tiếp hiệu quả bằng ngôn ngữ phù hợp (bao gồm cả ngoại ngữ) trong nhiều bối cảnh chuyên nghiệp khác nhau
+ | Q1: PLO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức
+ | U1: PLO4: Làm việc hiệu quả với vai trò thành viên hoặc trưởng nhóm trong các hoạt động phù hợp với lĩnh vực chuyên môn của chương trình đào tạo.
+ | Y1: PLO5: Thực hiện được dự án nghiên cứu độc lập hoặc theo nhóm, trong lĩnh vực Công nghệ phần mềm, Công nghệ thông tin, thể hiện khả năng tự học và thích ứng với công nghệ mới.
+
+A2: Mức độ (level) của mỗi miền (domain): Cx: level x của domain Cognitive; Py: level y của domain Psychomotor; Az: level z của domain Affective | K2: C4 | L2: P3 | O2: C3 | P2: P3 | R2: C3 | S2: P3 | T2: A3 | V2: P4 | W2: A4 | Z2: C6 | AA2: P4
+A3: Mỗi PLO được thiết kế 2-3 PI tương ứng; xác định thống nhất mức độ đóng góp của học phần vào mỗi PI của từng PLO  | K3: PI 1.1 | L3: PI 1.2 | M3: PI 1.3 | O3: PI 2.1 | P3: PI 2.2 | R3: PI 3.1 | S3: PI 3.2 | V3: PI 4.1 | W3: PI 4.2 | Z3: PI 5.1 | AA3: PI 5.2
+A4: OUTCOME (i) COMMUNICATION, (ii) SATURATION | J4: 20 | K4: 21 | L4: 21 | M4: 15 | N4: 14 | O4: 16 | P4: 16 | Q4: 18 | R4: 21 | S4: 21 | T4: 0 | U4: 14 | V4: 16 | W4: 16 | X4: 0 | Y4: 36 | Z4: 41 | AA4: 41 | AB4: 0
+A5: TT | B5: Mã học phần | C5: Học phần | D5: Học kỳ | E5: Khối kiến thức/ Khối học tập | F5: Số tín chỉ | G5: Loại học phần | H5: (iv) COURSE BREADTH SCORES | I5: (v) COURSE DEPTH SCORES | J5: [i] Outcome Statement (X, Y) | K5: [ii] Mode (I, R, E) | L5: [ii] Mode (I, R, E) | M5: [ii] Mode (I, R, E) | N5: [i] Outcome Statement (X, Y) | O5: [ii] Mode (I, R, E) | P5: [ii] Mode (I, R, E) | Q5: [i] Outcome Statement (X, Y) | R5: [ii] Mode (I, R, E) | S5: [ii] Mode (I, R, E) | T5: [ii] Mode (I, R, E) | U5: [i] Outcome Statement (X, Y) | V5: [ii] Mode (I, R, E) | W5: [ii] Mode (I, R, E) | X5: [ii] Mode (I, R, E) | Y5: [i] Outcome Statement (X, Y) | Z5: [ii] Mode (I, R, E) | AA5: [ii] Mode (I, R, E) | AB5: [ii] Mode (I, R, E)
+A6: 1 | C6: Triết học | D6: Kỳ  1 | E6: Giáo dục Đại cương | F6: 3 | G6: Bắt buộc | H6: 2 | I6: 2 | Q6: X | R6: I | S6: I
+A7: 2 | C7: Công cụ toán cho công nghệ thông tin | D7: Kỳ  1 | E7: Giáo dục Đại cương | F7: 2 | G7: Bắt buộc | H7: 2 | I7: 3 | J7: X | K7: I | L7: I | M7: I
+A8: 3 | C8: Phương pháp nghiên cứu khoa học | D8: Kỳ  1 | E8: Giáo dục Đại cương | F8: 2 | G8: Bắt buộc | H8: 4 | I8: 5 | J8: X | K8: I | L8: I | M8: I | N8: X | O8: I | P8: I
+A9: 4 | C9: Thuật toán nâng cao | D9: Kỳ  1 | E9: Cơ sở ngành | F9: 2 | G9: Bắt buộc | H9: 4 | I9: 5 | J9: X | K9: I | L9: I | M9: I | Y9: X | Z9: I | AA9: I
+A10: 5 | C10: Các hệ thống CSDL | D10: Kỳ  1 | E10: Cơ sở ngành | F10: 3 | G10: Lựa chọn bắt buộc | H10: 4 | I10: 10 | J10: X | K10: R | L10: R | M10: R | Q10: X | R10: R | S10: R
+A11: 6 | C11: Các mô hình lập trình tiên tiến | D11: Kỳ 2 | E11: Cơ sở ngành | F11: 3 | G11: Lựa chọn bắt buộc | H11: 4 | I11: 10 | J11: X | K11: R | L11: R | M11: R | Y11: X | Z11: R | AA11: R
+A12: 7 | C12: Tự chọn cơ sở ngành A1 | D12: Kỳ 2 | E12: Cơ sở ngành | F12: 3 | G12: Lựa chọn bắt buộc | H12: 0 | I12: 0
+A13: 8 | C13: Chuyên đề nghiên cứu CNTT | D13: Kỳ 2 | E13: Cơ sở ngành | F13: 6 | G13: Lựa chọn bắt buộc | H13: 8 | I13: 16 | N13: X | O13: R | P13: R | Q13: X | R13: R | S13: R | U13: X | V13: R | W13: R | Y13: X | Z13: R | AA13: R
+A14: A | C14: Các HP tự chọn cơ sở ngành
+A15: A1 | C15: Tìm kiếm và truy xuất thông tin | D15: Kỳ 2 | E15: Cơ sở ngành | F15: 3 | G15: Lựa chọn bắt buộc | H15: 4 | I15: 8 | U15: X | V15: R | W15: R | Y15: X | Z15: R | AA15: R
+A16: A2 | C16: Các kỹ thuật tối ưu | D16: Kỳ 2 | E16: Cơ sở ngành | F16: 3 | G16: Lựa chọn bắt buộc | H16: 4 | I16: 10 | J16: X | K16: R | L16: R | M16: R | Y16: X | Z16: R | AA16: R
+A17: A3 | C17: Phương pháp phân tích số liệu thống kê | D17: Kỳ 2 | E17: Cơ sở ngành | F17: 3 | G17: Lựa chọn bắt buộc | H17: 4 | I17: 8 | U17: X | V17: R | W17: R | Y17: X | Z17: R | AA17: R
+A18: A4 | C18: Nhận dạng mẫu | D18: Kỳ 2 | E18: Cơ sở ngành | F18: 3 | G18: Bắt buộc | H18: 4 | I18: 8 | Q18: X | R18: R | S18: R | Y18: X | Z18: R | AA18: R
+A19: A5 | C19: Khai phá dữ liệu nâng cao | D19: Kỳ 2 | E19: Cơ sở ngành | F19: 3 | G19: Lựa chọn bắt buộc | H19: 4 | I19: 8 | Q19: X | R19: R | S19: R | Y19: X | Z19: R | AA19: R
+A20: A6 | C20: Dữ liệu lớn | D20: Kỳ 2 | E20: Cơ sở ngành | F20: 3 | G20: Bắt buộc | H20: 4 | I20: 4 | U20: X | V20: I | W20: I | Y20: X | Z20: I | AA20: I
+A21: A7 | C21: Hệ điều hành mạng | D21: Kỳ 2 | E21: Cơ sở ngành | F21: 3 | G21: Lựa chọn bắt buộc | H21: 4 | I21: 8 | N21: X | O21: R | P21: R | Y21: X | Z21: R | AA21: R
+A22: A8 | C22: Tính toán phân tán | D22: Kỳ 2 | E22: Cơ sở ngành | F22: 3 | G22: Lựa chọn bắt buộc | H22: 4 | I22: 8 | N22: X | O22: R | P22: R | Y22: X | Z22: R | AA22: R
+A23: 11 | C23: Phương pháp phát triển phần mềm linh hoạt  | D23: Kỳ 3 | E23: Chuyên ngành | F23: 2 | G23: Bắt buộc | H23: 4 | I23: 12 | Q23: X | R23: E | S23: E | Y23: X | Z23: E | AA23: E
+A24: 12 | C24: Phương pháp thực nghiệm trong CNPM  | D24: Kỳ 3 | E24: Chuyên ngành | F24: 3 | G24: Bắt buộc | H24: 4 | I24: 12 | J24: X | K24: E | L24: E | Y24: X | Z24: E | AA24: E
+A25: 13 | C25: Tự chọn chuyên ngành B1 | D25: Kỳ 3 | E25: Chuyên ngành | F25: 3 | G25: Lựa chọn bắt buộc | H25: 0 | I25: 0
+A26: 14 | C26: Tự chọn chuyên ngành B2 | D26: Kỳ 3 | E26: Chuyên ngành | F26: 3 | G26: Lựa chọn bắt buộc | H26: 0 | I26: 0
+A27: B | C27: Các HP tự chọn chuyên ngành
+A28: B1 | C28: Điện toán đám mây | D28: Kỳ 3 | E28: Chuyên ngành | F28: 3 | G28: Lựa chọn bắt buộc | H28: 4 | I28: 12 | U28: X | V28: E | W28: E | Y28: X | Z28: E | AA28: E
+A29: B2 | C29: Kiến trúc hệ thống thông tin | D29: Kỳ 3 | E29: Chuyên ngành | F29: 3 | G29: Lựa chọn bắt buộc | H29: 4 | I29: 15 | J29: X | K29: E | L29: E | M29: E | Y29: X | Z29: E | AA29: E
+A30: B3 | C30: Tối ưu và vận hành HTTT | D30: Kỳ 3 | E30: Chuyên ngành | F30: 3 | G30: Lựa chọn bắt buộc | H30: 4 | I30: 12 | N30: X | O30: E | P30: E | Y30: X | Z30: E | AA30: E
+A31: B4 | C31: Quản trị nghiệp vụ thông minh nâng cao | D31: Kỳ 3 | E31: Chuyên ngành | F31: 3 | G31: Lựa chọn bắt buộc | H31: 4 | I31: 12 | J31: X | K31: E | L31: E | U31: X | V31: E | W31: E
+A32: B5 | C32: Khai phá tri thức và phân tích dữ liệu | D32: Kỳ 3 | E32: Chuyên ngành | F32: 3 | G32: Lựa chọn bắt buộc | H32: 4 | I32: 12 | Q32: X | R32: E | S32: E | Y32: X | Z32: E | AA32: E
+A33: B6 | C33: Tiến hóa và độ tin cậy phần mềm | D33: Kỳ 3 | E33: Chuyên ngành | F33: 3 | G33: Lựa chọn bắt buộc | H33: 4 | I33: 12 | N33: X | O33: E | P33: E | Q33: X | R33: E | S33: E
+A34: 17 | C34: Luận văn tốt nghiệp | D34: Kỳ 4 | E34: Tốt nghiệp | F34: 15 | G34: Bắt buộc | H34: 10 | I34: 33 | J34: X | K34: E | L34: E | M34: E | N34: X | O34: E | P34: E | Q34: X | R34: E | S34: E | U34: X | V34: E | W34: E | Y34: X | Z34: E | AA34: E
+C37: SUM X I | K37: 3 | L37: 3 | M37: 3 | O37: 1 | P37: 1 | R37: 1 | S37: 1 | T37: 0 | V37: 1 | W37: 1 | X37: 0 | Z37: 2 | AA37: 2 | AB37: 0
+C38: SUM X R | K38: 3 | L38: 3 | M38: 3 | O38: 3 | P38: 3 | R38: 4 | S38: 4 | T38: 0 | V38: 3 | W38: 3 | X38: 0 | Z38: 9 | AA38: 9 | AB38: 0
+C39: SUM X E | K39: 4 | L39: 4 | M39: 2 | O39: 3 | P39: 3 | R39: 4 | S39: 4 | T39: 0 | V39: 3 | W39: 3 | X39: 0 | Z39: 7 | AA39: 7 | AB39: 0
+C41: SUM Y I | K41: 0 | O41: 0 | R41: 0 | V41: 0 | Z41: 0
+C42: SUM Y R | K42: 0 | O42: 0 | R42: 0 | V42: 0 | Z42: 0
+C43: SUM Y E | K43: 0 | O43: 0 | R43: 0 | V43: 0 | Z43: 0
+### sheet3.xml
+D1: CTĐT Thạc sĩ ngành  Công nghệ thông tin định hướng NC
+Căn cứ  Quy định Đào tạo Học viện CN BCVT 
+Điều chỉnh Khối kiến thức: Giáo dục Đại cương; Cơ sở khối ngành; Cơ sở ngành; Chuyên ngành; Kiến thức bổ trợ; Tốt nghiệp  | J1: PLO1: Nhận diện được vấn đề và các giải pháp có thể để giải quyết vấn đề liên quan đến công nghệ thông tin.
+(Identify problems and posible solutions to solve IT-related issues).
+ | N1: PLO2: Giao tiếp hiệu quả trong nhiều bối cảnh chuyên nghiệp khác nhau.
+(Communicate effectively in a variety of professional contexts.)
+ | Q1: PLO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức.
+(Recognize professional responsibilities and make informed judgments in computing based on legal and ethical principles).
+ | U1: PLO4: Hoạt động hiệu quả với tư cách là thành viên hoặc lãnh đạo một nhóm tham gia vào các hoạt động phù hợp với chuyên môn công nghệ thông tin.
+(Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline).
+ | Y1: PLO5: Thực hiện được một dự án nghiên cứu (cá nhân hoặc nhóm) trong lĩnh vực hệ thống thông tin.
+(Realize a research project in information system).
+
+A2: Mức độ (level) của mỗi miền (domain): Cx: level x của domain Cognitive; Py: level y của domain Psychomotor; Az: level z của domain Affective | K2: C4 | L2: P3 | O2: C3 | P2: P3 | R2: C3 | S2: P3 | T2: A3 | V2: P4 | W2: A4 | Z2: C6 | AA2: P4
+A3: Mỗi PLO được thiết kế 2-3 PI tương ứng; xác định thống nhất mức độ đóng góp của học phần vào mỗi PI của từng PLO  | K3: PI 1.1 | L3: PI 1.2 | M3: PI 1.3 | O3: PI 2.1 | P3: PI 2.2 | R3: PI 3.1 | S3: PI 3.2 | V3: PI 4.1 | W3: PI 4.2 | Z3: PI 5.1 | AA3: PI 5.2
+A4: OUTCOME (i) COMMUNICATION, (ii) SATURATION | J4: 18 | K4: 18 | L4: 18 | M4: 15 | N4: 12 | O4: 14 | P4: 14 | Q4: 22 | R4: 27 | S4: 27 | T4: 0 | U4: 18 | V4: 21 | W4: 21 | X4: 0 | Y4: 36 | Z4: 41 | AA4: 41 | AB4: 0
+A5: TT | B5: Mã học phần | C5: Học phần | D5: Học kỳ | E5: Khối kiến thức/ Khối học tập | F5: Số tín chỉ | G5: Loại học phần | H5: (iv) COURSE BREADTH SCORES | I5: (v) COURSE DEPTH SCORES | J5: [i] Outcome Statement (X, Y) | K5: [ii] Mode (I, R, E) | L5: [ii] Mode (I, R, E) | M5: [ii] Mode (I, R, E) | N5: [i] Outcome Statement (X, Y) | O5: [ii] Mode (I, R, E) | P5: [ii] Mode (I, R, E) | Q5: [i] Outcome Statement (X, Y) | R5: [ii] Mode (I, R, E) | S5: [ii] Mode (I, R, E) | T5: [ii] Mode (I, R, E) | U5: [i] Outcome Statement (X, Y) | V5: [ii] Mode (I, R, E) | W5: [ii] Mode (I, R, E) | X5: [ii] Mode (I, R, E) | Y5: [i] Outcome Statement (X, Y) | Z5: [ii] Mode (I, R, E) | AA5: [ii] Mode (I, R, E) | AB5: [ii] Mode (I, R, E)
+A6: 1 | C6: Triết học | D6: Kỳ  1 | E6: Giáo dục Đại cương | F6: 3 | G6: Bắt buộc | H6: 2 | I6: 2 | Q6: X | R6: I | S6: I
+A7: 2 | C7: Công cụ toán cho công nghệ thông tin | D7: Kỳ  1 | E7: Giáo dục Đại cương | F7: 2 | G7: Bắt buộc | H7: 2 | I7: 3 | J7: X | K7: I | L7: I | M7: I
+A8: 3 | C8: Phương pháp nghiên cứu khoa học | D8: Kỳ  1 | E8: Giáo dục Đại cương | F8: 2 | G8: Bắt buộc | H8: 4 | I8: 5 | J8: X | K8: I | L8: I | M8: I | N8: X | O8: I | P8: I
+A9: 4 | C9: Thuật toán nâng cao | D9: Kỳ  1 | E9: Cơ sở ngành | F9: 2 | G9: Bắt buộc | H9: 4 | I9: 5 | J9: X | K9: I | L9: I | M9: I | Y9: X | Z9: I | AA9: I
+A10: 5 | C10: Các hệ thống CSDL | D10: Kỳ 2 | E10: Cơ sở ngành | F10: 3 | G10: Lựa chọn bắt buộc | H10: 4 | I10: 10 | J10: X | K10: R | L10: R | M10: R | Q10: X | R10: R | S10: R
+A11: 6 | C11: Dữ liệu lớn | D11: Kỳ  1 | E11: Cơ sở ngành | F11: 3 | G11: Bắt buộc | H11: 4 | I11: 4 | U11: X | V11: I | W11: I | Y11: X | Z11: I | AA11: I
+A12: 7 | C12: Tự chọn cơ sở ngành A1 | D12: Kỳ 2 | E12: Cơ sở ngành | F12: 3 | G12: Lựa chọn bắt buộc | H12: 0 | I12: 0
+A13: 8 | C13: Chuyên đề nghiên cứu HTTT 1 | D13: Kỳ 2 | E13: Cơ sở ngành | F13: 6 | G13: Lựa chọn bắt buộc | H13: 8 | I13: 16 | N13: X | O13: R | P13: R | Q13: X | R13: R | S13: R | U13: X | V13: R | W13: R | Y13: X | Z13: R | AA13: R
+C14: Các HP tự chọn cơ sở ngành
+C15: Tìm kiếm và truy xuất thông tin | D15: Kỳ 2 | E15: Cơ sở ngành | F15: 3 | G15: Lựa chọn bắt buộc | H15: 4 | I15: 8 | U15: X | V15: R | W15: R | Y15: X | Z15: R | AA15: R
+C16: Các kỹ thuật tối ưu | D16: Kỳ 2 | E16: Cơ sở ngành | F16: 3 | G16: Lựa chọn bắt buộc | H16: 4 | I16: 10 | J16: X | K16: R | L16: R | M16: R | Y16: X | Z16: R | AA16: R
+C17: Phương pháp phân tích số liệu thống kê | D17: Kỳ 2 | E17: Cơ sở ngành | F17: 3 | G17: Lựa chọn bắt buộc | H17: 4 | I17: 8 | U17: X | V17: R | W17: R | Y17: X | Z17: R | AA17: R
+C18: Nhận dạng mẫu | D18: Kỳ  1 | E18: Cơ sở ngành | F18: 3 | G18: Bắt buộc | H18: 4 | I18: 8 | Q18: X | R18: R | S18: R | Y18: X | Z18: R | AA18: R
+C19: Khai phá dữ liệu nâng cao | D19: Kỳ 2 | E19: Cơ sở ngành | F19: 3 | G19: Lựa chọn bắt buộc | H19: 4 | I19: 8 | Q19: X | R19: R | S19: R | Y19: X | Z19: R | AA19: R
+C20: Các mô hình lập trình tiên tiến | D20: Kỳ 2 | E20: Cơ sở ngành | F20: 3 | G20: Lựa chọn bắt buộc | H20: 4 | I20: 10 | J20: X | K20: R | L20: R | M20: R | Y20: X | Z20: R | AA20: R
+C21: Hệ điều hành mạng | D21: Kỳ 2 | E21: Cơ sở ngành | F21: 3 | G21: Lựa chọn bắt buộc | H21: 4 | I21: 8 | N21: X | O21: R | P21: R | Y21: X | Z21: R | AA21: R
+C22: Tính toán phân tán | D22: Kỳ 2 | E22: Cơ sở ngành | F22: 3 | G22: Lựa chọn bắt buộc | H22: 4 | I22: 8 | U22: X | V22: R | W22: R | Y22: X | Z22: R | AA22: R
+A23: 10 | C23: Điện toán đám mây | D23: Kỳ 2 | E23: Chuyên ngành | F23: 3 | G23: Bắt buộc | H23: 4 | I23: 12 | U23: X | V23: E | W23: E | Y23: X | Z23: E | AA23: E
+A24: 11 | C24: Các hệ thống IOT hiện đại | D24: Kỳ 2 | E24: Chuyên ngành | F24: 3 | G24: Bắt buộc | H24: 4 | I24: 12 | Q24: X | R24: E | S24: E | Y24: X | Z24: E | AA24: E
+A25: 12 | C25: Kiến trúc hệ thống thông tin | D25: Kỳ 3 | E25: Chuyên ngành | F25: 3 | G25: Bắt buộc | H25: 4 | I25: 15 | J25: X | K25: E | L25: E | M25: E | Y25: X | Z25: E | AA25: E
+A26: 13 | C26: Chuyên đề nghiên cứu HTTT 2 | D26: Kỳ 3 | E26: Chuyên ngành | F26: 6 | G26: Bắt buộc | H26: 8 | I26: 24 | N26: X | O26: E | P26: E | Q26: X | R26: E | S26: E | U26: X | V26: E | W26: E | Y26: X | Z26: E | AA26: E
+A27: 14 | C27: Tự chọn chuyên ngành B1 | D27: Kỳ 3 | E27: Chuyên ngành | F27: 3 | G27: Lựa chọn bắt buộc | H27: 0 | I27: 0
+A28: 15 | C28: Tự chọn chuyên ngành B2 | D28: Kỳ 3 | E28: Chuyên ngành | F28: 3 | G28: Lựa chọn bắt buộc | H28: 0 | I28: 0
+C29: Các HP tự chọn chuyên ngành
+C30: Trí tuệ nhân tạo trong HTTT | D30: Kỳ 3 | E30: Chuyên ngành | F30: 3 | G30: Lựa chọn bắt buộc | H30: 4 | I30: 12 | Q30: X | R30: E | S30: E | Y30: X | Z30: E | AA30: E
+C31: Hệ thống thông tin tác tử | D31: Kỳ 3 | E31: Chuyên ngành | F31: 3 | G31: Lựa chọn bắt buộc | H31: 4 | I31: 12 | N31: X | O31: E | P31: E | Q31: X | R31: E | S31: E
+C32: Khai phá tri thức và phân tích dữ liệu | D32: Kỳ 3 | E32: Chuyên ngành | F32: 3 | G32: Lựa chọn bắt buộc | H32: 4 | I32: 12 | Q32: X | R32: E | S32: E | Y32: X | Z32: E | AA32: E
+C33: Quản trị nghiệp vụ thông minh nâng cao | D33: Kỳ 3 | E33: Chuyên ngành | F33: 3 | G33: Lựa chọn bắt buộc | H33: 4 | I33: 12 | J33: X | K33: E | L33: E | U33: X | V33: E | W33: E
+A34: 17 | C34: Luận văn tốt nghiệp | D34: Kỳ 4 | E34: Tốt nghiệp | F34: 15 | G34: Bắt buộc | H34: 10 | I34: 33 | J34: X | K34: E | L34: E | M34: E | N34: X | O34: E | P34: E | Q34: X | R34: E | S34: E | U34: X | V34: E | W34: E | Y34: X | Z34: E | AA34: E
+C36: SUM X I | K36: 3 | L36: 3 | M36: 3 | O36: 1 | P36: 1 | R36: 1 | S36: 1 | T36: 0 | V36: 1 | W36: 1 | X36: 0 | Z36: 2 | AA36: 2
+C37: SUM X R | K37: 3 | L37: 3 | M37: 3 | O37: 2 | P37: 2 | R37: 4 | S37: 4 | T37: 0 | V37: 4 | W37: 4 | X37: 0 | Z37: 9 | AA37: 9
+C38: SUM X E | K38: 3 | L38: 3 | M38: 2 | O38: 3 | P38: 3 | R38: 6 | S38: 6 | T38: 0 | V38: 4 | W38: 4 | X38: 0 | Z38: 7 | AA38: 7
+C40: SUM Y I | K40: 0 | O40: 0 | R40: 0 | V40: 0 | Z40: 0
+C41: SUM Y R | K41: 0 | O41: 0 | R41: 0 | V41: 0 | Z41: 0
+C42: SUM Y E | K42: 0 | O42: 0 | R42: 0 | V42: 0 | Z42: 0
+### sheet4.xml
+A1: i | B1: X | C1: Y
+B2: 2 | C2: 1
+A3: ii | B3: I | C3: R | D3: E
+B4: 1 | C4: 2 | D4: 3
+A5: iii | B5: A | C5: -
+B6: 1
+### sheet5.xml
+D3: So sánh giữa 3 CTĐT Ths KHMT,  HTTT và CNTT
+C5: Ths CNTT định hướng AI | D5: Ths KHMT định hướng UD | E5: Ths KHMT định hướng NC | F5: Ths HTTT định hướng UD | G5: Ths HTTT định hướng NC
+A6: Khối KT chung | C6: 7TC | H6: 24TC (48%) | I6: 29TC (58%)
+A7: Khối KT Cơ sở ngành: Bắt buộc | C7: 8TC
+A8: Khối KT Cơ sở ngành: Tự chọn | C8: UD:  9TC
+NC: 3TC  + 6TC chuyên đề NC
+A9: Khối KT chuyên ngành: Bắt buộc | C9: 8TC | D9: 9TC 
+A10: Khối KT chuyên ngành: Tự chọn | C10: 3TC | D10: UD: 12TC
+NC:  6TC + 6TC chuyên đề NC
+A11: Khối KT Tốt nghiệp | C11: 6TC thực tập + 9TC đề án | D11: UD: 6TC thực tập + 9TC đề án TN
+NC: 15TC luận văn TN
+A12: Tổng | C12: 50TC | D12: 60TC
+### sheet6.xml
+B3: So sánh với CTĐT Ths KTPM của ĐH Công nghệ - VNU
+B5: Trường | C5: PTIT: Ths HTTT định hướng AI | D5: PTIT: Ths HTTT định hướng NC | E5: UET: Ths KTPM 2024)
+B6: Khối KT chung | C6: 7TC | E6: 8TC
+B7: Khối KT cơ sở ngành | C7: 8TC bắt buộc + 9TC tự chọn | D7: 8TC bắt buộc + 3TC tự chọn | E7: 9TC bắt buộc + 15TC tự chọn
+B8: Khối KT chuyên ngành | C8: 5TC bắt buộc + 6TC tự chọn | D8: 5TC bắt buộc + 6TC tự chọn
+B9: Khối KT nghiên cứu | C9: 0 | D9: 6TC | E9: 14TC bắt buộc
+B10: Khối KT tốt nghiệp | C10: 6TC thực tập + 9TC đề án | D10: 15TC luận văn | E10: 15TC luận văn
+B11: Tổng số TC | C11: 50TC | D11: 50TC | E11: 61TC
+### sheet7.xml
+B3: So sánh với CTĐT Ths HTTT của ĐHBK HN (Ths kỹ thuật)
+B5: Trường | C5: Ths CNTT định hướng AI | D5: Ths CNTT định hướng CNPM | E5: Ths CNTT định hướng HTTT | F5: UET: Ths KTPM 2024)
+B6: Khối KT chung | C6: 7TC | D6: 3TC | F6: 8TC
+B7: Khối KT cơ sở ngành bắt buộc | C7: 8TC | D7: 12TC | F7: 9TC bắt buộc + 15TC tự chọn
+B8: Khối KT cơ sở ngành tự chọn | C8: 9TC | D8: 0
+B9: Khối KT chuyên ngành bắt buộc | C9: 8TC | D9: 18TC
+B10: Khối KT chuyên ngành tự chọn | C10: 3TC | D10: 12TC | E10: 12TC
+B11: Khối KT nghiên cứu | D11: 0 | F11: 14TC bắt buộc
+B12: Khối KT tốt nghiệp | C12: 6TC thực tập + 9TC đề án | D12: 6TC thực tập + 9TC luận văn | F12: 15TC luận văn
+B13: Tổng số TC | C13: 50TC | D13: 60TC | E13: 60TC | F13: 61TC
+### sheet8.xml
+B3: So sánh với CTĐT Master of computer science, ĐH Sydney, Úc
+B4: Link: https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/computer-science/unit-of-study-table.html
+B6: Trường | C6: PTIT  (50h/1TC) | D6: ĐH Sydney (25h/1cp) | E6: CMU MSE (15 giờ/unit) | F6: Oxford (150h/module)
+B7: Ngành | C7: Ths định hướng UD | D7: Master Software Engineering  | E7: Master Software Engineering  | F7: Master Software Engineering 
+B8: Khối KT chung | C8: 7TC | D8: 6 cp tự chọn ngoài ngành + 12 cp bắt buộc | E8: 6 units
+B9: Khối KT cơ sở ngành bắt buộc | C9: 8TC | D9: 24cp | E9: 60 units (5 học phần) | F9: 6 module
+B10: Khối KT cơ sở ngành tự chọn | C10: 9TC | F10: 4 module
+B11: Khối KT chuyên ngành bắt buộc | C11: 8TC | D11: 6cp
+B12: Khối KT chuyên ngành tự chọn | C12: 3TC | D12: 12cp | E12: 45 units
+B13: Khối KT tốt nghiệp | C13: 6TC thực tập + 9TC đề án | D13: 12cp | E13: 84 units (Studio project) | F13: 2 module
+B14: Tổng số TC | C14: 50TC | D14: 72 credit | E14: 195 units | F14: 12 module
+B15: Tổng giờ học tập | C15: 2500 giờ | D15: 1800 giờ | E15: 	2.925 giờ | F15: 1.800 giờ
+B18: Quy đôi giờ
+B19: ĐH Sydney (18 tháng, 3 học kỳ) | C19: 1 credit point ~ 1,5 - 2h học/tuần; 
+1 HK 13 tuần -> 1cp = 19,5 - 26giờ
+1 năm toàn thời gian 48cp = 1200h
+--> 1 cp = 25 giờ = 0,5TC | D19: 12 học phần, 150 giờ/1 học phần
+B20: Carnegie Mellon (16 tháng, 4 học kỳ) | C20: 1 unit = 15 giờ = 0,3 TC
+ | D20: 12 - 14 học phần, 119 - 180 giờ/học phần
+B21: Oxford MSc SE (2 năm) | C21: 1 module = 150 giờ | D21: 12 học phần, 150 giờ/1 học phần
+B22: PTIT - Ths CNTT | C22: 1 TC = 50 giờ | D22: UD: 15 học phần; NC: 14 học phần; 100 và 150h/học phần; ko tính TTTN và LV
+### sheet9.xml
+C2: Học viện công nghệ bưu chính viễn thông
+C3: CTĐT: Thạc sĩ Công nghệ thông tin
+A5: TT | B5: Chuẩn đầu ra CTĐT
+(Trình độ thạc sỹ - Bậc 7) | C5: Khung trình độ Quốc gia 1982/2016 (Bậc 7)
+C6: Kiến thức | F6: Kỹ năng | K6: Mức tự chủ và tự chịu trách nhiệm
+C7: Kiến thức thực tế và lý thuyết sâu, rộng, tiên tiến, nắm vững các nguyên lý và học thuyết cơ bản trong lĩnh vực nghiên cứu thuộc chuyên ngành đào tạo. | D7: Kiến thức liên ngành có liên quan. | E7: Kiến thức chung về quản trị và quản lý. | F7: Kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin để đưa ra giải pháp xử lý các vấn đề một cách khoa học; | G7: Có kỹ năng truyền đạt tri thức dựa trên nghiên cứu, thảo luận các vấn đề chuyên môn và khoa học với người cùng ngành và với những người khác. | H7: Kỹ năng tổ chức, quản trị và quản lý các hoạt động nghề nghiệp tiên tiến. | I7: Kỹ năng nghiên cứu phát triển và sử dụng các công nghệ một cách sáng tạo trong lĩnh vực học thuật và nghề nghiệp. | J7: Có trình độ ngoại ngữ tương đương bậc 4/6 Khung năng lực ngoại ngữ Việt Nam. | K7: Nghiên cứu, đưa ra những sáng kiến quan trọng. | L7: Thích nghi, tự định hướng và hướng dẫn người khác. | M7: Đưa ra những kết luận mang tính chuyên gia trong lĩnh vực chuyên môn. | N7: Quản lý, đánh giá và cải tiến các hoạt động chuyên môn. | O7: - Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân. | P7: - Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.
+A8: 1 | B8: PLO1: Nhận diện được vấn đề và đề xuất giải pháp — bao gồm giải pháp ứng dụng công nghệ số và trí tuệ nhân tạo (AI) — để giải quyết vấn đề liên quan đến công nghệ thông tin. | C8: H | D8: H | E8: L | F8: H | G8: H | H8: L | I8: H | J8: L | K8: H | L8: H | M8: H | N8: M | O8: H | P8: H
+A9: 2 | B9: PLO2: Giao tiếp hiệu quả bằng ngôn ngữ phù hợp (bao gồm cả ngoại ngữ) trong nhiều bối cảnh chuyên nghiệp khác nhau | C9: L | D9: L | F9: L | G9: H | J9: H | K9: L | L9: L | M9: M | N9: L | O9: H
+A10: 3 | B10: PLO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động CNTT dựa trên các nguyên tắc pháp lý và đạo đức | C10: H | D10: L | F10: H | G10: L | H10: L | I10: H | J10: L | K10: H | L10: M | M10: H | N10: L | O10: H | P10: H
+A11: 4 | B11: PLO4: Làm việc hiệu quả với vai trò thành viên hoặc trưởng nhóm trong các hoạt động phù hợp với lĩnh vực chuyên môn của chương trình đào tạo. | C11: L | D11: L | F11: L | G11: H | H11: M | I11: L | J11: H | K11: L | L11: L | M11: L | O11: M
+A12: 5 | B12: PLO5:  Thực hiện được dự án ứng dụng độc lập hoặc theo nhóm, trong lĩnh vực Công nghệ phần mềm, Công nghệ thông tin, thể hiện khả năng tự học và thích ứng với công nghệ mới. | C12: H | D12: L | E12: M | F12: H | G12: M | H12: L | I12: H | J12: L | K12: H | L12: M | M12: H | N12: H | O12: H

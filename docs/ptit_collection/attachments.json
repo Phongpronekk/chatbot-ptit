@@ -1,0 +1,1766 @@
+{
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/TB-D26-dong-phuc-dot-2.pdf": {
+    "status": "text_extracted",
+    "pages": 3,
+    "file": "111d431f8ecbd0495241"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/40.CV-DTN.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "6d161b2fc0fb0357d44d"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/HV-CN-BUU-CHINH-VIEN-THONG_0001_0001_1.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "d3bd0e1a768bf2f9a15d"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/10/Quy-tac-BHSK-Toan-dien-HSSV.pdf": {
+    "status": "text_extracted",
+    "pages": 38,
+    "file": "331278533d5887ea78bc"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/Lich-nhan-dong-phuc-theo-lop.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "1320c5a4d443a075a1fc"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/1616TB_HV.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "2b8da8579e8e320c93fe"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/1554.TB-thu-HS-MGHP-ky-126-27.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "95f05e48fd151ed42e3e"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/TB-Kiem-tra-thu-hoach-tuan-le-cong-dan.pdf": {
+    "status": "text_extracted",
+    "pages": 8,
+    "file": "5039746a9501256b5368"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/Quy-dinh-Xet-tuyen-bo-sung-tai-nang.pdf": {
+    "status": "text_extracted",
+    "pages": 4,
+    "file": "755361a98ffdea643a61"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/TB-Xet-tuyen-bo-sung-chuong-trinh-ThS-tich-hop-tai-nang.pdf": {
+    "status": "text_extracted",
+    "pages": 4,
+    "file": "db0755503c2bbd80952a"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/Thong-bao-dieu-chinh-phuong-thuc-dang-ky-Xet-tuyen-bo-sung-tai-nang-1.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "dea40331b200e0ab400a"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/2026_2500_QD-muc-thu-ho-tro-dao-tao.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "75689b8a241b9341bb39"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/KH-danh-gia-ren-luyen-nam-hoc-2025-2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "02755c95ebb138b039b9"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/HDSD-CVHT-WEB.pdf": {
+    "status": "text_extracted",
+    "pages": 23,
+    "file": "4e4943199b03dcec6ad1"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/HDSD_DRL_Can-su-lop-Web.pdf": {
+    "status": "text_extracted",
+    "pages": 12,
+    "file": "196df3b95d5c378423c5"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/HDSD-SV-WEB.pdf": {
+    "status": "text_extracted",
+    "pages": 18,
+    "file": "53f87892da661ee5eaa6"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/08/Phieu-danh-gia-RL-chi-tiet-3.pdf": {
+    "status": "text_extracted",
+    "pages": 4,
+    "file": "36f3598096d13d46bd55"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/2026_2499_QD-bo-sung-muc-thu-2026-2027.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "87d0973775a60695abcb"
+  },
+  "https://ptit.edu.vn/wp-content/uploads/2026/07/DS-khen-thuong-1.pdf": {
+    "status": "text_extracted",
+    "pages": 61,
+    "file": "569fa26e6cec6b1bd73d"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/Chuong-trinh-le-tot-nghiep-2025-dot-2.pdf": {
+    "status": "text_extracted",
+    "pages": 3,
+    "file": "6a07fb06bd63a855be93"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/DSSV-du-le-tot-nghiep-T10.2025.pdf": {
+    "status": "text_extracted",
+    "pages": 13,
+    "file": "d836ac6e68030a4e0e96"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/08/HDSD_DRL_Can-su-lop.pdf": {
+    "status": "text_extracted",
+    "pages": 12,
+    "file": "2a8a1fecd96e2d3f6139"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/08/HDSD-CVHT-WEB.pdf": {
+    "status": "text_extracted",
+    "pages": 21,
+    "file": "660cdc36d2328c8807cc"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/08/HDSD-SV-WEB.pdf": {
+    "status": "text_extracted",
+    "pages": 18,
+    "file": "3bd5cb7a919eb7d38404"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/05/659QD_HV-1-qd-khen-thuong.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "269f3dc04acb3b4fdedd"
+  },
+  "https://ptit.edu.vn/wp-content/uploads/2025/05/TB-vv-mua-BHYT-cho-SV-DH-chinh-quy-trong-nam-2025-khoa-2021.2022.2023.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "ba899e1b6125ead81588"
+  },
+  "https://ptit.edu.vn/wp-content/uploads/2025/04/Ve-viec-cap-hoc-bong-cua-ngan-hang-Vietcombank.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "c0bc1d946246926017ef"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/04/191.QD-Van-hoa-hoc-duong-2023.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "a80b597b358156e15cfc"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/2153-QD-sua-doi-1440.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "757063a24185c78f66b7"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/1440.qd-quy-hoc-bong13.8.24.pdf": {
+    "status": "needs_ocr",
+    "pages": 28,
+    "file": "ae3febeceb2369bb7d11"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/815.qd-tiep-nhan-va-giai-quyet-TTHC-tai-vp-1-cua.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "56368e9bc589821f54df"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/589.QD-ve-CTSV-2023.pdf": {
+    "status": "needs_ocr",
+    "pages": 27,
+    "file": "e88f2079f3342ef6cc35"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/02/191.QD-Van-hoa-hoc-duong-2023.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "80c88727feedb3fcdc35"
+  },
+  "https://student.ptit.edu.vn/wp-content/uploads/sites/29/2025/01/fileUpload-1704707188175-2._15qd_hv.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "64a2c1fb570d3a02efec"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/10/TB-thu-HP.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "fabe582c399f4a0bacf0"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/QD3168.pdf": {
+    "status": "text_extracted",
+    "pages": 40,
+    "file": "924b6d669a31d79ba744"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/2.-Quy-che-SPhO.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "8a01a4f482fca42047c0"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/3.-Noi-dung-SPhO.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "2f90fe7b00fb93e9bdb4"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/qd-3011-cap-hoc-bong-dau-vao.pdf": {
+    "status": "needs_ocr",
+    "pages": 13,
+    "file": "08a458e83d1213b9334b"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/QD-2299.pdf": {
+    "status": "text_extracted",
+    "pages": 25,
+    "file": "3b4505c7bf44fd1a7d85"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/3.1.-Huong-dan-du-thi-TOEFL-ITP-Placement-Online-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "709d0e0b39921536b43a"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/3.1.-Quy-dinh-doi-voi-thi-sinh-thi-TOEFL-ITP-Placement-Online.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "bcb6298dc5deef98d9da"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/3.2.-Huong-dan-du-thi-TOEIC-Placement-Online.pdf": {
+    "status": "needs_ocr",
+    "pages": 14,
+    "file": "40e00c2b5015fa1bbe6f"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/09/3.2.-Quy-dinh-doi-voi-thi-sinh-TOEIC-Placement-Online.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "03a496ca29bbc1587de5"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/08/QDTN_T7.2026.pdf": {
+    "status": "text_extracted",
+    "pages": 25,
+    "file": "aa2e73bf31298ba2f495"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/07/TB-THU-HOC-LAI-KY-PHU-NAM-25-26.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "e7293d56123d8be1c6de"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/06/KL-Ve-phuong-an-xet-cap-HB-KKHT-2025-2026.pdf": {
+    "status": "text_extracted",
+    "pages": 4,
+    "file": "3ed2cdda644d4d9431ea"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/06/DSSV-Duoc-nhan-hoc-bong-KKHT-HK1-2025-2026-CSHN.pdf": {
+    "status": "text_extracted",
+    "pages": 51,
+    "file": "155671fa9e16e1615c75"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/05/TB-836-ngay-28.5.26.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "f1e890988f4ea95ba42b"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/05/TB-816-ngay-25.5.26.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "c2dac6d35f8be5c43be5"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/04/TB-THU-HOC-PHI-KY-2-NAM-25-26-.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "50d922a3b52d4bc99d1f"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/04/QDTN-543.pdf": {
+    "status": "text_extracted",
+    "pages": 36,
+    "file": "03b5b6842e3d48c84c07"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/04/QDTN_T4.2026.pdf": {
+    "status": "text_extracted",
+    "pages": 30,
+    "file": "ea98e7e568d880a2e6b0"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/03/QDTN_D21-KY-THUAT_543.pdf": {
+    "status": "text_extracted",
+    "pages": 36,
+    "file": "fe55cccd7b297b3917ce"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/03/SGiaoVu_45826031716040.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "46328b13034083e58e71"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/01/TB-so-08-ngay-29.1.2026-cua-TTDV-ve-viec-dang-ky-o-noi-tru-KTX-co-so-dao-tao-Ha-Dong.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "8765f3f0b129cd355d86"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/12/Ket-qua-xet-cap-Hoc-bong-KKHT-HK2-24-25.pdf": {
+    "status": "text_extracted",
+    "pages": 3,
+    "file": "1b5c0ad41d7e077db91e"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/12/Danh-sach-SV-duoc-cap-hoc-bong-KKHT-HK1-nam-hoc-2024-2025.pdf": {
+    "status": "text_extracted",
+    "pages": 28,
+    "file": "09adfc1a4d3d418da425"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/11/TB-Hoc-lai-lop-rieng-ky-1-nam-hoc-25-26-hoc-phi-hoc-lai-lop-ghep-dot-2.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "f0446fb771fd297ece39"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/Thong-bao-lop-TA-tang-cuong_2025_Course0-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "8976519de5bd6bf89d01"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/TB-thu-HP-hoc-lai-lop-ghep-ky-I-nam-25-26.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "6df74f377659636b8e23"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/TB-thu-hoc-phi-ky-1-nam-25-26.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "b127db27b9c7cd48bc64"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/QDTN-T10.2025.pdf": {
+    "status": "text_extracted",
+    "pages": 31,
+    "file": "4a0f27fb8ec5660a3915"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/DS-chia-ca-thi-TOEIC-Placement-Online-PTIT-T10.2025-Final-cong-bo.pdf": {
+    "status": "text_extracted",
+    "pages": 69,
+    "file": "27569cb45bdafe6df9cb"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/Danh-sach-SV-duoc-mien-thi-tieng-Anh-dau-vao.pdf": {
+    "status": "text_extracted",
+    "pages": 15,
+    "file": "02c6581f118bfdac5430"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/QUY-DINH-DOI-VOI-THI-SINH-DU-THI-TOEIC-PLACEMENT-ONLINE-1.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "799c7da199b9104d42b7"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/HUONG-DAN-DU-THI-TOEIC-PLACEMENT-ONLINE.pdf": {
+    "status": "text_extracted",
+    "pages": 14,
+    "file": "e25abfe339b857ac6851"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/Quy-dinh-doi-voi-thi-sinh-du-thi-TOEFL-ITP.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "1e26cc137525f2484ad4"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/Huong-dan-thi-sinh-du-thi-TOEFL-ITP.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "95f43cced8c58b5f57a9"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/Danh-sach-thi-TOEFL-ITP-Placement-online-Cong-bo.pdf": {
+    "status": "text_extracted",
+    "pages": 21,
+    "file": "d6a1dfe5bc232f169ab8"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/QDTN-D21-KINH-TE_TTDPT.pdf": {
+    "status": "text_extracted",
+    "pages": 23,
+    "file": "6c689ccdd1b750e7e1f2"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/07/Thong-bao-thu-ky-3-nam-24-25.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "1b64b9a8cd8d49b575f6"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/07/Ket-qua-xet-cap-Hoc-bong-KKHT-HK1-24-25.pdf": {
+    "status": "text_extracted",
+    "pages": 3,
+    "file": "ba30a0217bae0c17a32c"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/05/TB-328TB-HV.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "8d77b89861933494c48a"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/05/HD-PHIEU-DKMH_SV.pdf": {
+    "status": "text_extracted",
+    "pages": 4,
+    "file": "f51b9038dbca71eaffc3"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/05/HD-PHIEU-DKMH_BCS.pdf": {
+    "status": "text_extracted",
+    "pages": 4,
+    "file": "e1e5990cf53d6f05ec92"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/05/HD-PHIEU-DKMH_CVHT.pdf": {
+    "status": "text_extracted",
+    "pages": 5,
+    "file": "90fe3cc55edf3daf1389"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/05/HDDKMH_V3.pdf": {
+    "status": "text_extracted",
+    "pages": 13,
+    "file": "9c370d37679796f116ea"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/04/UTF-8Thong-bao-228-thu-hoc-lai-lop-rieng.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "89ea565378337a2ac9fb"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/04/QDTN251.pdf": {
+    "status": "text_extracted",
+    "pages": 21,
+    "file": "1201d90dd5d40800c579"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/03/QDTN_386.pdf": {
+    "status": "text_extracted",
+    "pages": 28,
+    "file": "b99dfd69553bd985894d"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/03/TB-THU-HOC-PHI-KY-2-NAM-24-25.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "45804df72d874c258cb2"
+  },
+  "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/01/SVanthu_45825010613230.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "1f3533e01064502a3da4"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/VB-Tien-Si.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "121ad831e140a8840f35"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/VB-Thac-Si.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "e9621efb07c79b3fefa5"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/VB-Dai-hoc.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "134a1764d385e174fe9f"
+  },
+  "https://apiquanlydaotao.ptit.edu.vn/data/fileUpload-1645933725143-hddn.pdf": {
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2026.10.07.-1791HV-VP-vv-To-chuc-dao-tao-lop-tieng-Anh-bo-tro-Course-0-khoa-2026-CS-phia-Bac.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "cc2538a9acd750689fa3"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/3168-QD-cong-nhan-tot-nghiep-Dai-hoc.pdf": {
+    "status": "needs_ocr",
+    "pages": 42,
+    "file": "fe8d178190d537a1f9ae"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/3.1.-Huong-dan-du-thi-TOEFL-ITP-Placement-Online-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "f7d65f4cfb8a9ae1060f"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/3.1.-Quy-dinh-doi-voi-thi-sinh-thi-TOEFL-ITP-Placement-Online.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "7816acae05236ff0f896"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/3.2.-Huong-dan-du-thi-TOEIC-Placement-Online.pdf": {
+    "status": "needs_ocr",
+    "pages": 14,
+    "file": "7118f201b15bb644bd97"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/3.2.-Quy-dinh-doi-voi-thi-sinh-TOEIC-Placement-Online.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "6fe0d08af69950eadbe4"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/4.-Danh-sach-thi-TOEFL-Placement.pdf": {
+    "status": "text_extracted",
+    "pages": 11,
+    "file": "383eedd94b04e61eee39"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/4.-Danh-sach-thi-TOEIC-Placement-.pdf": {
+    "status": "text_extracted",
+    "pages": 104,
+    "file": "39f4b6f3d0ca79342631"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/4.-Danh-sach-thi-TOEIC-Placement-VLVH.pdf": {
+    "status": "text_extracted",
+    "pages": 8,
+    "file": "bcf1fe8eae7bbbf4f9c2"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/2.-Danh-sach-SV-duoc-mien-thi-TA-dau-vao.pdf": {
+    "status": "text_extracted",
+    "pages": 30,
+    "file": "7db5a65dba58f9c00e1c"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/09/1544-Thong-bao-co-bang.pdf": {
+    "status": "needs_ocr",
+    "pages": 48,
+    "file": "0d1d7bd4bb1c0f986391"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2650-QD.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "03b14e7e08731e7cc983"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2651-qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "b872f3b837ea1ab470ed"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2652-qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "2f2561db54b13b8c38dc"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2299qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 30,
+    "file": "00d880c13c8cbdc16c47"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2300qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "4686ee1cdc5d53ab5516"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2301qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "e29b78171af66d036b36"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2177-QD_HV-T7-cong-nhan-thac-si.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "fd9603f273387aa30695"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/2026.-VBCC.pdf": {
+    "status": "needs_ocr",
+    "pages": 36,
+    "file": "cc1deecdb4e7a670d5ef"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/1058qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 34,
+    "file": "f7c148c594cfe48fd8db"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/1056qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "ca0a8b7685961346e1bb"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/4-Tien-trinh-DMST.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "ad16244be879e136f2f3"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/06/883.-Thong-bao-co-bang-T6.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "a1513d95722ff1184f39"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/04/Thong-bao-D21-ky-thuat-Hanoi.pdf": {
+    "status": "text_extracted",
+    "pages": 45,
+    "file": "b44164c7a5cfbfe24d3b"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/594.-T3.-Tot-nghiep-Thac-si.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "b01db8c5236335bff451"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/543-T3.-Cong-nhan-D21-ky-thuat-HaNoi.pdf": {
+    "status": "needs_ocr",
+    "pages": 38,
+    "file": "5ee67565faea2258f277"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/595.T3.-Tot-nghiep-D21-ky-thuat-HCM.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "224665af0cfbcfc19176"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/1.-De-an-mo-nganh-Ths-ATTT.pdf": {
+    "status": "needs_ocr",
+    "pages": 56,
+    "file": "31e3afa0fd642c5706de"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/2.-QD-ban-hanh-CDR_Ths-ATTT.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "6e5cfaeb57f41565c503"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/3.-QD-ban-hanh-CTDT_Ths-ATTT.pdf": {
+    "status": "needs_ocr",
+    "pages": 24,
+    "file": "de6c138743638a9fabb4"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/03/4.-Bien-ban-dieu-kien-dam-bao_Ths-ATTT.pdf": {
+    "status": "needs_ocr",
+    "pages": 25,
+    "file": "3c80d067fda1923d0867"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/2026_Thong-tu-quy-che-tuyen-sinh-DH-CD-nganh-GDMN-nam-2026.pdf": {
+    "status": "text_extracted",
+    "pages": 32,
+    "file": "1ac6456d4b26f9546c12"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/2026_Quy-che-tuyen-sinh-dai-hoc-chinh-quy.pdf": {
+    "status": "needs_ocr",
+    "pages": 22,
+    "file": "eccccee527161c3cdb90"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/01/32.T1.-Cong-nhan-TS-Hue.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "4a6d9e82ae046075ef93"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/11/SDaotao_45825111911200.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "ca202088d05c2546b9c1"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/10/Thong-bao-lop-TA-tang-cuong_2025_Course0.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "ae221ada29a7093fc27d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/10/Danh-sach-course-0.2025.pdf": {
+    "status": "text_extracted",
+    "pages": 6,
+    "file": "2857f64a6f30138194ec"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/09/Danh-sach-ca-thi-TOEIC-Placement-online-PTIT-T10.2025-Update-30.09-cong-bo.pdf": {
+    "status": "text_extracted",
+    "pages": 73,
+    "file": "7a1e2d27c19d06586e9e"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/09/HUONG-DAN-DU-THI-TOEIC-PLACEMENT-ONLINE.pdf": {
+    "status": "text_extracted",
+    "pages": 14,
+    "file": "e1d0e1ad868dcc68ad5d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/09/QUY-DINH-DOI-VOI-THI-SINH-DU-THI-TOEIC-PLACEMENT-ONLINE.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "1586020a3a74a1898257"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/09/Danh-sach-SV-duoc-mien-thi-tieng-Anh-dau-vao.pdf": {
+    "status": "text_extracted",
+    "pages": 15,
+    "file": "e3d448d50c91371a16a8"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/Danh-sach-thi-TOEFL-ITP-Placement-online-Cong-bo.pdf": {
+    "status": "text_extracted",
+    "pages": 21,
+    "file": "aa7c87f2ddd33bf8ed75"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/Huong-dan-thi-sinh-du-thi-TOEFL-ITP.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "e52be176a74e0c590f55"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/Quy-dinh-doi-voi-thi-sinh-du-thi-TOEFL-ITP.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "4fcd2c2ef559fbc975d0"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/08/02.08.25_PTIT.DS-ca-thi-TOEIC_223TS.pdf": {
+    "status": "text_extracted",
+    "pages": 11,
+    "file": "9d1714a36ae723a009ab"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/06/SDaotao_45825061710300.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "0c1646d90a0bbbaae012"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/06/Danh-sach-phat-bang-dot-3-thang-5.2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 22,
+    "file": "cf402784c50dec0aa641"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/Danh-sach-cap-bang-2.2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "696a8d6680906a5d225c"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/5.-Thong-bao-phuong-thuc-tuyen-sinh-2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "fc6c4d4edffe1186dae3"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/287-TB-CAP-BANG.pdf": {
+    "status": "needs_ocr",
+    "pages": 41,
+    "file": "505c1376c2f892957246"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/2025.QD-511-Quy-che-tuyen-sinh-DHCQ-HVBC.pdf": {
+    "status": "needs_ocr",
+    "pages": 19,
+    "file": "c5e0a3937244f3e3c947"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/05/VAN-BAN-HOP-NHAT-QUY-CHE-TUYEN-SINH-2025-BGD.pdf": {
+    "status": "text_extracted",
+    "pages": 35,
+    "file": "d46846ecc15ea5daa5ab"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/04/SDaotao_45825041017320.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "fd80b929960ac93db6d1"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/De-an-mo-nganh-AI_Final.pdf": {
+    "status": "text_extracted",
+    "pages": 57,
+    "file": "7c6c9c6b9f9bfbacf3f4"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/1-Khung-Chuan-dau-ra-AI_Final.pdf": {
+    "status": "text_extracted",
+    "pages": 6,
+    "file": "f2fb95ccb55280a37862"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/2-Chuong-trinh-dao-tao-AI_Final.pdf": {
+    "status": "text_extracted",
+    "pages": 25,
+    "file": "99635fe6920b7d7d8c75"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/4-TienTrinh-hoc-tap-chuan-AI.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "0e9ecd142ec92cae694c"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/2021.-QD-838-Quy-dinh-DT-DH-theo-tin-chi.pdf": {
+    "status": "needs_ocr",
+    "pages": 38,
+    "file": "4286a2f01ef303dab07a"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/2572_2025-Quy-dinh-to-chuc-thi-kiem-tra-va-danh-gia-cac-hoc-phan.pdf": {
+    "status": "needs_ocr",
+    "pages": 96,
+    "file": "466ae0c2b4a17cb0cc6d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/292QD-HV-QD-vv-ban-hanh-quy-dinh-danh-gia-muc-do-dat-CDR-hoc-phan-CLO-va-CTDT-PLO.pdf": {
+    "status": "needs_ocr",
+    "pages": 22,
+    "file": "c1c4fb5102336053e008"
+  },
+  "https://portal.ptit.edu.vn/wp-content/uploads/2020/03/Q%C4%90-156-Ban-h%C3%A0nh-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c-ph%C3%A1t-tri%E1%BB%83n-HV-g%C4%91-2020-2025-t%E1%BA%A7m-nh%C3%ACn-2030.pdf": {
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/10/3538qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "0caaccd68c851d98f74f"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/09/qd-3011-cap-hoc-bong-dau-vao.pdf": {
+    "status": "needs_ocr",
+    "pages": 13,
+    "file": "b038490aa5e6209d1e84"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/09/2026.09.04.-Thong-bao-hieu-chinh-TB-TS-Ths-d2.2026-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "542c3c8d337caf2ced93"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/1414TB.pdf": {
+    "status": "needs_ocr",
+    "pages": 16,
+    "file": "f0c5e0fb7e67086d6773"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/Bao-cao-thuong-nien-nam-2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 31,
+    "file": "69fcf7f578cf02be3fd1"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/16.-Huong-dan-nhap-hoc-online-2026.pdf": {
+    "status": "text_extracted",
+    "pages": 26,
+    "file": "e6cb3d855ef15a677201"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/qd-2386.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "5cedbc2de967458b838a"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/QD-2387.pdf": {
+    "status": "needs_ocr",
+    "pages": 27,
+    "file": "84face3dfd8135aec9c7"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/SDaotao_45826080609420.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "f4994b1fa5df37ec7ef4"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/2026.08.05.-TB1299-Sua-doi-thong-bao-tuyen-sinh-VLVH.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "c90ccd97b6110479630c"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/2303QD.pdf": {
+    "status": "needs_ocr",
+    "pages": 22,
+    "file": "2d38ea40a55ad0dc8d1b"
+  },
+  "http://gsneu.edu.vn/Education/GSNEU/data/upload/20141215/Phu%20luc%20Thong%20bao%20tuyen%20sinh%202015.pdf": {
+    "status": "error",
+    "error": "External attachment: reference link only"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/08/thong-bao-tien-si-dot-2.2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "d78900211070cf5eed2d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/07/2026.07.24.-QD2244-Cong-nhan-NCS-dot-1.2026-dang-mang.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "e49268b011faa365e277"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/07/13.-Thong-bao-nguong-tai-nang-vi-mach-ban-dan.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "43b5ce63819785564cd0"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/07/11.-Thong-bao-bang-duy-doi-tuong-duong-final-TB1147.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "c667fa1404c2facf2396"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/07/10.-TB1116-Nguong-dau-vao-chinh-quy.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "95cf7c51a880f239674f"
+  },
+  "https://sdh.ptit.edu.vn/wp-content/uploads/sites/19/2026/07/SDaotao_45826070110390.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "856ef4ff191b24b508ca"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.06.26.-tb1055-Diem-chuan-ths-d1.2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "1018d01356ddff66860e"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.0626.-QD1874-trung-tuyen-thac-si-d1.2026-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 23,
+    "file": "d6bc21e8b8254a8aba0b"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/QD1875.-QD-tuyen-thang-HSG.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "3eb337872b5bc797e9c0"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/QD1876.-QD-tuyen-thang-KHKT.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "a73c2eba5087be9f17ae"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/QD1877.-QD-danh-sach-UTXT.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "82b5847b7837506fcd69"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/Khong-du-dieu-kien-tuyen-thang.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "a98b3725e1419f7e8a45"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.06.25.-Thong-bao-Diem-chuan-NCS-d1.2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "09dc673b1f59defe7f44"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.06.25.-Quyet-dinh-trung-tuyen-NCS-d1.2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "1528c2b7dccf379a1474"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/8.Thong-bao-dieu-chinh-thoi-gian-nhan-ho-so-xet-tuyen-som.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "12094e3096a555c68b68"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.06.09.-TB922-ket-qua-danh-gia-NCS-d1.2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "0f87898c267ee704fac3"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/QD1610.-Sua-doi-thong-tin-thuong-xuyen-2.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "e34324a87104467ca45d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/1610.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "862286d4e7891e754878"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/901qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "f777130f016f27cb8e14"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/CV886-Chuan-co-so-giao-duc-2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 29,
+    "file": "5bd4ca7552f27aca4da5"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/2026.06.04.-TB885-Sua-doi-thong-bao-tuyen-sinh-ths.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "33c92769bde358fc57dc"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/Xac-dinh-chi-tieu-BVH.pdf": {
+    "status": "needs_ocr",
+    "pages": 31,
+    "file": "731e26c79899d0192072"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/Xac-dinh-chi-tieu-BVS.pdf": {
+    "status": "needs_ocr",
+    "pages": 29,
+    "file": "77cd0c70ff6d35cd54c7"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/06/9.Thong_bao_tuyen_sinh-thac-si-tich-hop.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "4ad9459ea9d5682c0a6a"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/716TB.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "b62b72ff05a49bbe1125"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/QD1318.-Sua-doi-thong-tin-thuong-xuyen.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "9b7e7f8180a44b415e74"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/SDaotao_45826050815220.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "1102fecf436a92065916"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/TB696.Thong_bao_tuyen_sinh_CQ2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 16,
+    "file": "d453114825c894cb1de1"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/TB696.-PL1.-Thong_bao_tuyen_sinh_CQ2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "85df5edca9a0241dfd87"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/TB696.-PL2.-Cam-nang-huong-dan-DKXT_Web-2026.pdf": {
+    "status": "text_extracted",
+    "pages": 47,
+    "file": "ff99cc13a6e357e31bef"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/QD1256-Sua-doi-bo-sung-Thong-tin-TSDHCQ.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "4e5e2620980478638396"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/6.-Thong-bao-Tuyen-thang-uu-tien-2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "d7e961b582b46257cef5"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/QD1192.-Thong-tin-TSDH-thuong-xuyen.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "5566a6e3a8e922dba8e4"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/QD1192.-Thong-tin-TSDHCQ-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 17,
+    "file": "1fe982aac8fafd723d67"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/QD1547.-Sua-doi-bo-sung-de-an-tuyen-sinh.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "fb271ec4612c6790fccc"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/2026.-QD1131.-Bo-sung-Quy-che-tuyen-sinh-dai-hoc.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "781a56e728691f3409c8"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/tb-398.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "27449b80395f142880b9"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/qd-1023.pdf": {
+    "status": "needs_ocr",
+    "pages": 11,
+    "file": "fe3c7d44ec7f6074ca59"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/qd-1024.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "e4a48965e95918e0175a"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-chat-luong-cao-nganh-Truyen-thong-da-phuong-tien.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "f9ddf36dcc41f40ecb7d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Phan-tich-du-lieu-trong-tai-chinh-kinh-doanh.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Logistics-va-Quan-ly-chuoi-cung-ung.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Tri-tue-nhan-tao-van-vat-AIoT.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Nganh-Bao-chi.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Nganh-Truyen-thong-Da-phuong-tien.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-chat-luong-cao-nganh-Marketing.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "80c21a3fa518482e8c0a"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-CLC-nganh-Ke-toan.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "e49e626b3fc5b93ef9f3"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Quan-he-cong-chung.pdf": {
+    "status": "needs_ocr",
+    "pages": 14,
+    "file": "9071bb0305909404ea9f"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-chat-luong-cao-nganh-An-toan-thong-tin-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "36cddd4553d4cc088d9d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-chat-luong-cao-nganh-Cong-nghe-thong-tin.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "6d522faa8ba222d115f3"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Cong-nghe-thong-tin-Dinh-huong-ung-dung.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "3c1ecd4f649ed58563db"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Cong-nghe-thong-tin-Viet-Nhat.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Ky-thuat-du-lieu.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "1855ba644e8ccc50d163"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Nganh-Khoa-hoc-may-tinh-Dinh-huong-Khoa-hoc-du-lieu.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "0a814e55fc8278c1abf6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Nganh-Tri-tue-nhan-tao.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Chuong-trinh-Cong-nghe-Vi-mach-ban-dan.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "99a3262e249de61126a8"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/Nganh-Ky-thuat-Dieu-khien-va-Tu-dong-hoa.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/2026.04.03.-TB493-cac-phuong-thuc-tuyen-sinh-2026.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "42d09694d94871bb2b8c"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/tb-353-tb-tuyen-sinh-txa.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "179265938bf89db095a0"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/qd-551-quy-che-ts-thuong-xuyen.pdf": {
+    "status": "needs_ocr",
+    "pages": 14,
+    "file": "91f41441c730789f1379"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/SDaotao_45826031715040-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "dd07b3d9517cbd7a1c30"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/03/SDaotao_45826031310170.pdf": {
+    "status": "needs_ocr",
+    "pages": 16,
+    "file": "f29a00315a87833cf040"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/12/TB1644-Diem-chuan-trung-tuyen-NCS-d2.2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "87a35ec8a44d842969fe"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/12/QD3292-Phe-duyet-DS-trung-tuyen-NCS-d2.2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 3,
+    "file": "41cd8d1a279a7a25acbc"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/12/KET-QUA-DANH-GIA-NCS.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "9d977ec6c8cff7f3faf5"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/12/SDaotao_45825122909540-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 11,
+    "file": "6f51631216cb451d851a"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/10/1136tb.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "fb39d258c1562c5efec2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/Danh-sach-ca-thi-TOEIC-Placement-online-PTIT-T10.2025-Update-30.09-cong-bo.pdf": {
+    "status": "text_extracted",
+    "pages": 73,
+    "file": "ebf92f9124bf70bd2db6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/HUONG-DAN-DU-THI-TOEIC-PLACEMENT-ONLINE.pdf": {
+    "status": "text_extracted",
+    "pages": 14,
+    "file": "5997b030dfc951355564"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/QUY-DINH-DOI-VOI-THI-SINH-DU-THI-TOEIC-PLACEMENT-ONLINE.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "4aa30882390a016682e2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/Danh-sach-SV-duoc-mien-thi-tieng-Anh-dau-vao.pdf": {
+    "status": "text_extracted",
+    "pages": 15,
+    "file": "3cad6e95d2b1c6164ee4"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/2025.TS_.-Thong-bao-tuyen-sinh-tien-si-dot-2.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "fef7d49abc7a6509edf3"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/09/2025.ThS_.-Thong-bao-tuyen-sinh-thac-si-dot-2.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "0e4a6d0c17d17aaab27d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/17.-Huong-dan-nhap-hoc-online-2025.pdf": {
+    "status": "text_extracted",
+    "pages": 25,
+    "file": "3af81e7095bd1cb3976d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/Thong-bao-bo-tri-SV-khoa-2025-o-noi-tru-HK-I-Nam-hoc-2025-2026.pdf": {
+    "status": "text_extracted",
+    "pages": 3,
+    "file": "f109f1f7baaccb529a3f"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/QD1551-QD-trung-tuyen-NCS-d1.2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "4b50955b60a8b851acc2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/SDaotao_45825080516390.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "d1d8e2367764cc597c30"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/SDaotao_45825080516250.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "a47dc5de5119cef13176"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/2025.-Bao-cao-thuong-nien-final.pdf": {
+    "status": "text_extracted",
+    "pages": 45,
+    "file": "6a36d18260cf94cbd565"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/12.-Thong-bao-bang-duy-doi-tuong-duong-final-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "be101b7194ece4be44aa"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/11.-Thong-bao-muc-nhan-ho-so-THPT.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "7270c3f50467e9c8a61f"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/6.-HDSD_Thi-sinh-DKXT-T7.2025.pdf": {
+    "status": "text_extracted",
+    "pages": 24,
+    "file": "23e8fef52fdd35f86bd6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/DANH-SACH-TUYEN-THANG-2025-BVH-1.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "434ec4bd8492ab997d82"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/DANH-SACH-TUYEN-THANG-2025-BVS.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "f0bed444ba502c1cf7c8"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/DANH-SACH-UTXT-2025-BVH.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "7b7b08bb760548e67d24"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/DANH-SACH-UTXT-2025-BVS.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "5dbc501fe0341185058e"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/07/DANH-SACH-KHONG-DU-DK-TUYEN-THANG-2025-BVH.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "3f34e852e92abf5993ea"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/8.Thong-bao-dieu-chinh-thoi-gian-nhan-ho-so-xet-tuyen-som.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "8aff9861ec3fbfe4b3f6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Danh-sach-trung-tuyen-THS-d1.2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 12,
+    "file": "c81a1bc7d14c3de49e05"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/TB-508-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "3568cfc170d94e09295d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/1027qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "b7444ee6ead6fa09068d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/1028qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "55f9b41bf6137cceef14"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/11/Bao-cao-thuong-nien-2023-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 34,
+    "file": "f6c628cc55c11a9c642c"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/6.-Cam-nang-huong-dan-DKXT_Web-2025.pdf": {
+    "status": "text_extracted",
+    "pages": 45,
+    "file": "24161a31e7587f462827"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Phu-luc-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "2fda6941d796ab5079f2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Phu-luc-2.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "ffb77570198184467d37"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/3.-Thong_bao-395_Tuyen_thang__uutien_2025-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "ae38de53b94a5b5d74d7"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/Thong_bao-359_tuyen_sinh_VLVH_2025.pdf": {
+    "status": "text_extracted",
+    "pages": 5,
+    "file": "b267d8e1d28174d4dcf7"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/794qd-2.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "5e5d7c26c5cbdcaf12a6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/793qd-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "d50f59272a0914322d76"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/8.-Thong-bao-tuyen-sinh-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 13,
+    "file": "8cb0a2f687484d2d27b7"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/6.-Thong-tin-tuyen-sinh-DHCQ-nam-2025-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 15,
+    "file": "dac9f8208a711a0729b6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/VAN-BAN-HOP-NHAT-QUY-CHE-TUYEN-SINH-2025-BGD.pdf": {
+    "status": "text_extracted",
+    "pages": 35,
+    "file": "e20afbc8e1178efc7aa2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025.QD-511-Quy-che-tuyen-sinh-DHCQ-HVBC.pdf": {
+    "status": "needs_ocr",
+    "pages": 19,
+    "file": "a2b90e5bcf5bc9236ef5"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "694d4d3779179149589d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-2-.pdf": {
+    "status": "error",
+    "error": "Attachment larger than 30 MB"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-3.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "785c6831db64b2362690"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025_Part-4.pdf": {
+    "status": "needs_ocr",
+    "pages": 30,
+    "file": "5cb6945cae5fa526353f"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/5.-Thong-bao-phuong-thuc-tuyen-sinh-2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "df4cf618d8c76d494c46"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/04/162-tb.pdf": {
+    "status": "needs_ocr",
+    "pages": 1,
+    "file": "6a4b6a3743f4715626fd"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/04/qd-254.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "4cf5b56d6d7864ef09a2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/04/qd255.pdf": {
+    "status": "needs_ocr",
+    "pages": 9,
+    "file": "f09e2ca6908c724e51fe"
+  },
+  "https://portal.ptit.edu.vn/wp-content/uploads/2022/06/De-an-TS-2022-1.pdf": {
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://portal.ptit.edu.vn/wp-content/uploads/2022/06/De-an-TS-2022-MS1.pdf": {
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://portal.ptit.edu.vn/wp-content/uploads/2022/06/De-an-TS-2022-MS2.pdf": {
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://portal.ptit.edu.vn/wp-content/uploads/2022/06/De-an-TS-2022-MS3.pdf": {
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/02/SDaotao_45825031314460.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "b51f7e89334cc7eb7d1f"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/02/SDaotao_45825030410300.pdf": {
+    "status": "needs_ocr",
+    "pages": 14,
+    "file": "92700526242fb1eb70c6"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/01/cv-92-thong-bao-TS-DHTX-2025.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "30de8e222405205175e2"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/01/2825qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 11,
+    "file": "044071df3149636e6f39"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/01/2824qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 23,
+    "file": "debcbf49cd043b92a8de"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/QD1192.-Thong-tin-TSDHCQ-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 17,
+    "file": "064397f91396bc89804c"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/05/2026.-Thong-tin-tuyen-sinh-DHCQ-ky.pdf": {
+    "status": "needs_ocr",
+    "pages": 17,
+    "file": "b33b5ecad76efe75b426"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-hoc-tap_Ths-Vien-thong.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "35358b7a8f326bde12ad"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1565qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 4,
+    "file": "f53942df764f436a47d8"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1566qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 28,
+    "file": "fa144e0fb5e30c2cf441"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1334QD_HV_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "f2c54e078bd51f168761"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1335QD_HV_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 36,
+    "file": "2a11aedcd144c3a6374b"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2.2-Tien-trinh-hoc-hoc_Ths-KHMT.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "7e29ff9f89c89ebad417"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-hoc-hoc_Ths-QTKD.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "1f98329254123b95b2bb"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2454qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "e4d9299619fb5ac429b1"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2455qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 20,
+    "file": "34e202719d18efe741f3"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-hoc-hoc_Ths-QL-KHCN.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "eec5a59ed467ad201e7a"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2889qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "748d77bcbecabc332948"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2890qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 22,
+    "file": "2e8640c2ea4dc03044b9"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-hoc-hoc_Ths-Mar.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "3ce937ae91bed4db24e6"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2532QD_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "7430deb4d540622dafb6"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2533qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 20,
+    "file": "7f4304312fde084b6040"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1332QD_HV_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "9f1e96fd028c54d8c970"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1032qd_CTDT-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 26,
+    "file": "6e9e6eb724787835d017"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2.2-Tien-trinh-hoc-hoc_Ths-HTTT.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "19580ac89d2021a09bde"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-chuan_Ths-Fintech.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "f51418521d8309efbb10"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1031qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "a80c3d719b6430f0b83b"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1032qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 26,
+    "file": "3b5c68fb8bc04ac0afb3"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-hoc-tap_Ths-Dien-tu.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "846ed0f3c925bd125b86"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1917QD_CDR-Ths-Dien-tu.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "22122341220a412baed1"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/1918QD_CTDT-Ths-Dien-tu.pdf": {
+    "status": "needs_ocr",
+    "pages": 30,
+    "file": "a40a5dd124aaef7d9601"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2.3-Tien-trinh-hoc-hoc.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "51f8f555e9b425b42d78"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/QD-ban-hanh-CDR_Ths-ATTT.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "182196ac941011d78ae0"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/QD-ban-hanh-CTDT_Ths-ATTT.pdf": {
+    "status": "needs_ocr",
+    "pages": 24,
+    "file": "9cd1392fa7ea9465a18c"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/4-Tien-trinh-hoc-hoc_Ths-CNTT.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "11271f70a62cae37eda9"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2850qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "89538c93ee4915eb1ec4"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/2851qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 24,
+    "file": "2f5f6c0027925023e547"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/5-Tien-trinh-chuan-Ths-tai-nang-KHMT.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "18945fa4cea6cb63f339"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/1975qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "9964450dcc942992a3a7"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/1976qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 68,
+    "file": "f51dcc701bdcc97e9ace"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/5-Tien-trinh-chuan-Ths-tai-nang-HTTT.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "5b5b8892eec7ea09c970"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/1982QD_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "021731f6f7dca4c5269d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/1983QD_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 68,
+    "file": "5ecdae6dd7367d60b129"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/5-Tien-trinh-chuan-Ths-tai-nang-KTVT.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "b757c811739045c861db"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2294QD_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "7935ca3d6dc2ab0b3955"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2295QD_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 78,
+    "file": "dc52c8a7e5d0755103fd"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/5-Tien-trinh-chuan-Ths-tai-nang-ATTT.pdf": {
+    "status": "text_extracted",
+    "pages": 2,
+    "file": "62741085abb00825a053"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/CDR2292qd_.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "db4a4eefea9ee1c0e01b"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/CTDT2293qd_.pdf": {
+    "status": "needs_ocr",
+    "pages": 74,
+    "file": "7797a3d7da08b1ebd138"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/4-Tien-trinh-hoc-tap-chuan_Ths-TTDC.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "3c81a537cad65655bba9"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2339QD_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 5,
+    "file": "9ff6bc2baae04ce63f08"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/2340QD_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 21,
+    "file": "f50c36191f1112a17e14"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/4-Tien-trinh-DMST.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "27910cae8ae45d1efdda"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/1056qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 8,
+    "file": "f03e635d2abc199daca3"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/08/1058qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 34,
+    "file": "7b4e6bb211c14f8fd6d2"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1500qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 43,
+    "file": "c660910678d80517fb3d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1499qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 7,
+    "file": "d18d2430dbf9687a43fa"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1511qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 27,
+    "file": "ed91df19a6f86c93d2fc"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1510qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "eed6444ee059acf06129"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1452QD_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "1766aac86ed56a148708"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1453qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 30,
+    "file": "91c680219cb00f2fe353"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1451qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 30,
+    "file": "adea958dd849b788146d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1450qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "b805f2b51c5f83fb5d96"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1449qd_CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 24,
+    "file": "5718bb96e7f7496c38a2"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/05/1448qd_CDR.pdf": {
+    "status": "needs_ocr",
+    "pages": 6,
+    "file": "370d4b046110ae27e40a"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/979qd_Chuong-trinh-dao-tao.pdf": {
+    "status": "needs_ocr",
+    "pages": 48,
+    "file": "9cd307a5cb17b6e2fd68"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/898qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 26,
+    "file": "e3054e0790b43b50b837"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/1051-QD_Chuong-trinh-dao-tao.pdf": {
+    "status": "needs_ocr",
+    "pages": 50,
+    "file": "25867c7794be939def1d"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/1096qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 26,
+    "file": "9fbc08bcfd9b8d49a550"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/1756QD-HV-QD-ban-hanh-CTDT-nganh-TT-DPT.pdf": {
+    "status": "needs_ocr",
+    "pages": 42,
+    "file": "67d375b320910b746367"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/QD1072_Ban-hanh-CTDT.pdf": {
+    "status": "needs_ocr",
+    "pages": 34,
+    "file": "d2b9ea80cd36fa225f27"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/981QD-CTDT-CN-Ky-thuat-Dien-Dien-tu.pdf": {
+    "status": "needs_ocr",
+    "pages": 40,
+    "file": "1d806a4723826596c9e0"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/949qd_Chuong-trinh-dao-tao.pdf": {
+    "status": "needs_ocr",
+    "pages": 52,
+    "file": "0892a4f93cfab17223a7"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/04/1106qd.pdf": {
+    "status": "needs_ocr",
+    "pages": 37,
+    "file": "359151141c27c3ca442f"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/04/769QD_Chuong-trinh-dao-tao.pdf": {
+    "status": "needs_ocr",
+    "pages": 33,
+    "file": "be8362d6108a65915723"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/01/4.-Tien-trinh-hoc-chuan.pdf": {
+    "status": "text_extracted",
+    "pages": 1,
+    "file": "3aae1cdb452efc8ac113"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/13QD_Chuan-dau-ra.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "18f6699256a5606d3a08"
+  },
+  "https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/14QD_Chuong-trinh-dao-tao.pdf": {
+    "status": "needs_ocr",
+    "pages": 32,
+    "file": "fb4a05ff7be682fdca52"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/QD1192.-Thong-tin-TSDH-thuong-xuyen-1.pdf": {
+    "status": "needs_ocr",
+    "pages": 10,
+    "file": "4ff9380d1680246d346d"
+  },
+  "https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/QD1318.-Sua-doi-thong-tin-thuong-xuyen.pdf": {
+    "status": "needs_ocr",
+    "pages": 2,
+    "file": "68152bdb87f485b3f600"
+  }
+}

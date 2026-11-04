@@ -1,0 +1,125 @@
+{
+  "id": 5970,
+  "date": "2026-10-22T08:34:57",
+  "date_gmt": "2026-10-22T01:34:57",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5970"
+  },
+  "modified": "2026-10-22T10:20:27",
+  "modified_gmt": "2026-10-22T03:20:27",
+  "slug": "mau-van-bang-cua-hoc-vien-cong-nghe-buu-chinh-vien-thong",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/mau-van-bang-cua-hoc-vien-cong-nghe-buu-chinh-vien-thong/",
+  "title": {
+    "rendered": "Mẫu văn bằng của Học viện Công nghệ Bưu chính Viễn thông"
+  },
+  "content": {
+    "rendered": "<p>Các mẫu văn bằng của Học viện Công nghệ Bưu chính Viễn thông:</p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/VB-Tien-Si.pdf\">Mẫu văn bằng Tiến sĩ</a></p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/VB-Thac-Si.pdf\">Mẫu văn bằng Thạc sĩ</a></p>\n<p><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/10/VB-Dai-hoc.pdf\">Mẫu văn bằng Đại học</a></p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Các mẫu văn bằng của Học viện Công nghệ Bưu chính Viễn thông: Mẫu văn bằng Tiến sĩ Mẫu văn bằng Thạc sĩ Mẫu văn bằng Đại học &nbsp;</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5621,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13962
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5970",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-quy-che-quy-dinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5970",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5970"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5970/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5976,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5970/revisions/5976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/5621"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5970"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5970"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5970"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

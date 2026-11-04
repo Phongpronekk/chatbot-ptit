@@ -1,0 +1,100 @@
+{
+  "id": 410,
+  "date": "2024-08-07T15:41:24",
+  "date_gmt": "2024-08-07T08:41:24",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=410"
+  },
+  "modified": "2024-08-29T18:37:43",
+  "modified_gmt": "2024-08-29T11:37:43",
+  "slug": "goc-sinh-vien",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/tin-tuc/goc-sinh-vien/",
+  "title": {
+    "rendered": "Góc sinh viên"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"410\" class=\"elementor elementor-410\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d93f08d e-flex e-con-boxed e-con e-parent\" data-id=\"d93f08d\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4a73507 elementor-widget elementor-widget-gimont_elementor_blog\" data-id=\"4a73507\" data-element_type=\"widget\" data-widget_type=\"gimont_elementor_blog.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n\t\t\t\t\t\t\t<div class=\"search_and_filter\">\n\t\t\t\t\t<form id=\"search_posts\" name=\"search_posts\" autocomplete=\"off\">\n\t\t\t\t\t\t<div class=\"start_date\">\n\t\t\t\t\t\t\t<input type=\"text\"\n\t\t\t\t\t\t\t\tid=\"query_search\"\n\t\t\t\t\t\t\t\tclass=\"query_search\"\n\t\t\t\t\t\t\t\tplaceholder=\"Nhập thông tin tìm kiếm\"\n\t\t\t\t\t\t\t\tname=\"query_search\"\n\t\t\t\t\t\t\t\tvalue=\"\"\n\t\t\t\t\t\t\t/>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"start_date\">\n\t\t\t\t\t\t\t<select class=\"form-control select-style dropdown\" id=\"order\" name=\"order\" placeholder=\"Sắp xếp theo ...\">\n\t\t\t\t\t\t\t\t<option value=\"desc\">Sắp xếp theo ...</option>\n\t\t\t\t\t\t\t\t<option value=\"DESC\">Thời gian mới nhất</option>\n\t\t\t\t\t\t\t\t<option value=\"ASC\">Thời gian cũ nhất</option>\n\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<script>\n\t\t\t\t\t\t\t\tdocument.getElementById('order').value = \"desc\";\n\t\t\t\t\t\t\t</script>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t<div class=\"wrap-ovaev_submit\">\n\t\t\t\t\t\t\t<input class=\"second_font ovaev_submit\" type=\"submit\" value=\"Tìm kiếm\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<input type=\"hidden\" name=\"post_type\" value=\"posts\">\n\t\t\t\t\t</form>\n\t\t\t\t</div>\n            \n\t\t\t<ul class=\"ova-blog column_3 version_1 dao-tao-post\">\n\n\t\t\t  \t\n\t\t\t\t  \t<li class=\"item\">\n\n\t\t\t\t\t  \t<div class=\"media\">\n\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t<div class=\"box-img\">\n\t\t\t\t\t\t  \t\t<a href=\"https://daotao.ptit.edu.vn/lich-tra-sach-va-tai-khoan-hoc-truc-tuyen-ed-course-1-cho-khoa-2020-2/\" rel=\"bookmark\" title=\"Lịch trả sách và tài khoản học trực tuyến ED Course 1 cho khóa 2020\">\n\t\t\t\t\t\t\t\t  \t<img decoding=\"async\" src=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/thong-bao-ptit.jpg\" alt=\"Lịch trả sách và tài khoản học trực tuyến ED Course 1 cho khóa 2020\">\n\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t  \t<div class=\"post-category\">\n\t\t\t\t\t\t\t\t  \t<span class=\"category\">Góc sinh viên</span>           \n\t\t\t\t\t\t\t  \t</div>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t  \t<div class=\"content\">\n\t\t\t\t\t\t  \t<ul class=\"post-meta\">\n                                \t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t<li class=\"item-meta post-date\">\n\t\t\t\t\t\t\t\t\t  \t<span class=\"left date\">\n\t\t\t\t\t\t\t\t\t\t  \t<i class=\"fa fa-calendar\"></i>\n\t\t\t\t\t\t\t\t\t  \t</span>\n\t\t\t\t\t\t\t\t\t  \t<span class=\"right date\">\n\t\t\t\t\t\t\t\t\t\t  \t<span>16/03/2021</span>\n\t\t\t\t\t\t\t\t\t  \t</span>            \n\t\t\t\t\t\t\t\t  \t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t</ul>\n\t\t\t\t\t\t  \n\t\t\t\t\t\t  \t\t\t\t\t\t\t\t  \t<h2 class=\"post-title\">\n\t\t\t\t\t\t\t\t  \t<a href=\"https://daotao.ptit.edu.vn/lich-tra-sach-va-tai-khoan-hoc-truc-tuyen-ed-course-1-cho-khoa-2020-2/\" rel=\"bookmark\" title=\"Lịch trả sách và tài khoản học trực tuyến ED Course 1 cho khóa 2020\">\n\t\t\t\t\t\t\t\t\t\tLịch trả sách và tài khoản học trực tuyến ED Course 1 cho khóa 2020\t\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t\t  \t</h2>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\t\n\t\t\t  \t\n\t\t\t\t  \t<li class=\"item\">\n\n\t\t\t\t\t  \t<div class=\"media\">\n\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t<div class=\"box-img\">\n\t\t\t\t\t\t  \t\t<a href=\"https://daotao.ptit.edu.vn/nha-hang-qua-xinh-tham-gia-game-cua-hoc-vien/\" rel=\"bookmark\" title=\"NHÁ HÀNG QUÀ XINH THAM GIA GAME CỦA HỌC VIỆN\">\n\t\t\t\t\t\t\t\t  \t<img decoding=\"async\" src=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/thong-bao-ptit.jpg\" alt=\"NHÁ HÀNG QUÀ XINH THAM GIA GAME CỦA HỌC VIỆN\">\n\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t  \t<div class=\"post-category\">\n\t\t\t\t\t\t\t\t  \t<span class=\"category\">Góc sinh viên</span>           \n\t\t\t\t\t\t\t  \t</div>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t  \t<div class=\"content\">\n\t\t\t\t\t\t  \t<ul class=\"post-meta\">\n                                \t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t<li class=\"item-meta post-date\">\n\t\t\t\t\t\t\t\t\t  \t<span class=\"left date\">\n\t\t\t\t\t\t\t\t\t\t  \t<i class=\"fa fa-calendar\"></i>\n\t\t\t\t\t\t\t\t\t  \t</span>\n\t\t\t\t\t\t\t\t\t  \t<span class=\"right date\">\n\t\t\t\t\t\t\t\t\t\t  \t<span>03/07/2020</span>\n\t\t\t\t\t\t\t\t\t  \t</span>            \n\t\t\t\t\t\t\t\t  \t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t</ul>\n\t\t\t\t\t\t  \n\t\t\t\t\t\t  \t\t\t\t\t\t\t\t  \t<h2 class=\"post-title\">\n\t\t\t\t\t\t\t\t  \t<a href=\"https://daotao.ptit.edu.vn/nha-hang-qua-xinh-tham-gia-game-cua-hoc-vien/\" rel=\"bookmark\" title=\"NHÁ HÀNG QUÀ XINH THAM GIA GAME CỦA HỌC VIỆN\">\n\t\t\t\t\t\t\t\t\t\tNHÁ HÀNG QUÀ XINH THAM GIA GAME CỦA HỌC VIỆN\t\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t\t  \t</h2>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\t\n\t\t\t  \t\n\t\t\t\t  \t<li class=\"item\">\n\n\t\t\t\t\t  \t<div class=\"media\">\n\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t<div class=\"box-img\">\n\t\t\t\t\t\t  \t\t<a href=\"https://daotao.ptit.edu.vn/nam-sinh-hoc-vien-cong-nghe-buu-chinh-vien-thong-vo-dich/\" rel=\"bookmark\" title=\"Nam sinh học viện công nghệ bưu chính viễn thông vô địch\">\n\t\t\t\t\t\t\t\t  \t<img decoding=\"async\" src=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/3-668x502.png\" alt=\"Nam sinh học viện công nghệ bưu chính viễn thông vô địch\">\n\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t  \t<div class=\"post-category\">\n\t\t\t\t\t\t\t\t  \t<span class=\"category\">Góc sinh viên</span>           \n\t\t\t\t\t\t\t  \t</div>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t  \t<div class=\"content\">\n\t\t\t\t\t\t  \t<ul class=\"post-meta\">\n                                \t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t<li class=\"item-meta post-date\">\n\t\t\t\t\t\t\t\t\t  \t<span class=\"left date\">\n\t\t\t\t\t\t\t\t\t\t  \t<i class=\"fa fa-calendar\"></i>\n\t\t\t\t\t\t\t\t\t  \t</span>\n\t\t\t\t\t\t\t\t\t  \t<span class=\"right date\">\n\t\t\t\t\t\t\t\t\t\t  \t<span>01/07/2020</span>\n\t\t\t\t\t\t\t\t\t  \t</span>            \n\t\t\t\t\t\t\t\t  \t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t</ul>\n\t\t\t\t\t\t  \n\t\t\t\t\t\t  \t\t\t\t\t\t\t\t  \t<h2 class=\"post-title\">\n\t\t\t\t\t\t\t\t  \t<a href=\"https://daotao.ptit.edu.vn/nam-sinh-hoc-vien-cong-nghe-buu-chinh-vien-thong-vo-dich/\" rel=\"bookmark\" title=\"Nam sinh học viện công nghệ bưu chính viễn thông vô địch\">\n\t\t\t\t\t\t\t\t\t\tNam sinh học viện công nghệ bưu chính viễn thông vô địch\t\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t\t  \t</h2>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\t\n\t\t\t  \t\n\t\t\t\t  \t<li class=\"item\">\n\n\t\t\t\t\t  \t<div class=\"media\">\n\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t<div class=\"box-img\">\n\t\t\t\t\t\t  \t\t<a href=\"https://daotao.ptit.edu.vn/tieng-hat-sinh-vien-mua-12-co-gi-dac-biet/\" rel=\"bookmark\" title=\"Tiếng hát sinh viên mùa 12 có gì đặc biệt?\">\n\t\t\t\t\t\t\t\t  \t<img decoding=\"async\" src=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/fileUpload-1620725801484-tienghatsv-668x520.png\" alt=\"Tiếng hát sinh viên mùa 12 có gì đặc biệt?\">\n\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t  \t<div class=\"post-category\">\n\t\t\t\t\t\t\t\t  \t<span class=\"category\">Góc sinh viên</span>           \n\t\t\t\t\t\t\t  \t</div>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t  \t</div>\n\n\t\t\t\t\t  \t<div class=\"content\">\n\t\t\t\t\t\t  \t<ul class=\"post-meta\">\n                                \t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t<li class=\"item-meta post-date\">\n\t\t\t\t\t\t\t\t\t  \t<span class=\"left date\">\n\t\t\t\t\t\t\t\t\t\t  \t<i class=\"fa fa-calendar\"></i>\n\t\t\t\t\t\t\t\t\t  \t</span>\n\t\t\t\t\t\t\t\t\t  \t<span class=\"right date\">\n\t\t\t\t\t\t\t\t\t\t  \t<span>01/07/2020</span>\n\t\t\t\t\t\t\t\t\t  \t</span>            \n\t\t\t\t\t\t\t\t  \t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t</ul>\n\t\t\t\t\t\t  \n\t\t\t\t\t\t  \t\t\t\t\t\t\t\t  \t<h2 class=\"post-title\">\n\t\t\t\t\t\t\t\t  \t<a href=\"https://daotao.ptit.edu.vn/tieng-hat-sinh-vien-mua-12-co-gi-dac-biet/\" rel=\"bookmark\" title=\"Tiếng hát sinh viên mùa 12 có gì đặc biệt?\">\n\t\t\t\t\t\t\t\t\t\tTiếng hát sinh viên mùa 12 có gì đặc biệt?\t\t\t\t\t\t\t\t  \t</a>\n\t\t\t\t\t\t\t  \t</h2>\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\n\t\t\t\t\t\t  \t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\t\n\t\t\t  \t\t\t\t</ul>\n\t\t\t\t\t\t                <!-- Pagination -->\n                                \t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Sắp xếp theo &#8230;Thời gian mới nhấtThời gian cũ nhất Góc sinh viên 16/03/2021 Lịch trả sách và tài khoản học trực tuyến ED Course 1 cho khóa 2020 Góc sinh viên 03/07/2020 NHÁ HÀNG QUÀ XINH THAM GIA GAME CỦA HỌC VIỆN Góc sinh viên 01/07/2020 NAM SINH HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 8,
+  "featured_media": 0,
+  "parent": 385,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit_layout_page",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-410",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/410",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/8"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=410"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/410/revisions"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/385"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=410"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

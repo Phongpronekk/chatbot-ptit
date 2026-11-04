@@ -1,0 +1,378 @@
+### Trang 1
+
+Các học phần tự chọn 1.1:
+1. Phát triển phần mềm an toàn (2TC);
+2. An toàn hệ điều hành (2TC);
+3. Các kỹ thuật giấu tin (2TC).
+Các học phần tự chọn 1.2:
+1. Phân tích dữ liệu lớn cho ATTT (3TC);
+2. An toàn mạng nâng cao (3TC);
+3. Quản trị an toàn hệ thống (3TC).
+Thực tập  
+tốt 
+nghiệp 
+(6TC)
+HK 9
+(15TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC)
+Công nghệ 
+Blockchain (3TC)
+Kiểm thử xâm 
+nhập (3TC)
+Quản lý và đánh 
+giá ATTT (3TC)
+Cơ sở an toàn 
+thông tin (3TC)
+Giám sát an toàn 
+mạng (3TC)
+Hệ điều hành 
+Windows và 
+Linux/Unix (3TC)
+Kiểm thử xâm 
+nhập nâng cao 
+(3TC)
+Ứng dụng AI 
+trong ATTT (3TC)
+Lập trình Python 
+cho ATTT (3TC)
+Nhập môn trí tuệ 
+nhân tạo (3TC)
+Nhập lập trình và 
+ATTT (3TC)
+Học phần tự chọn 
+1.2 (3TC)
+Hợp ngữ và dịch 
+ngược (3TC)
+Mạng máy tính 
+(3TC)
+An toàn ứng dụng 
+web và CSDL 
+(3TC)
+Học phần tự chọn 
+2.1 (3TC)
+Nhập môn 
+DevOps (3TC)
+Kiến trúc máy tính 
+và HĐH (3TC)
+Mật mã học cơ sở 
+(3TC)
+Đại số (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Toán rời rạc 1 
+(3TC)
+Cơ sở dữ liệu 
+(3TC)
+Vật lý ứng dụng 
+(4TC)
+Giải tích 1 (3TC)
+HK 1
+(15TC)
+HK 2
+(19TC)
+HK 3
+(19TC)
+HK 4
+(18TC)
+HK 5
+(19TC)
+HK 6
+(20TC)
+HK 7
+(18TC)
+HK 8
+(18TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Lập trình web 
+(3TC)
+Học phần tự chọn 
+1.1 (2TC)
+Xác suất thống kê 
+(3TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Thực tập cơ sở 
+(4TC)
+Điều tra số (3TC)
+Phân tích mã độc 
+nâng cao (3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng, Định hướng nghiên cứu - ngành An toàn thông tin
+Công cụ toán cho 
+CNTT (2TC)
+Giám sát an toàn 
+mạng nâng cao 
+(3TC)
+Chuyên đề thạc sĩ 
+2 (3TC)
+Chuyên đề thạc sĩ 
+1 (3TC)
+Học phần tự chọn 
+2.1 (3TC)
+Học phần tự chọn 
+2.2 (2TC)
+Chuyên đề thạc sĩ 
+3 (3TC)
+Chuyên đề thạc sĩ 
+4 (3TC)
+02 Học phần tự 
+chọn 2.1 (6TC)
+Luận văn 
+tốt 
+nghiệp 
+(15TC)
+Phân tích mã độc 
+(3TC)
+Các học phần tự chọn 2.1:
+1. An toàn điện toán đám mây (3TC);
+2. An toàn IoT (3TC);
+3. Hạ tầng khóa công khai (3TC);
+4. Các giao thức an toàn và bảo mật (3TC);
+5. Tấn công và phòng thủ mạng (3TC);
+6. Ứng phó và xử lý sự cố bảo mật (3TC);
+7. Các chủ đề hiện đại trong ATTT (3TC);
+8. DevOps và DevSecOps (3TC).
+Các học phần tự chọn 2.2:
+1. Đảm bảo an toàn cho AI (2TC);
+2. An toàn web nâng cao (2TC);
+3. An toàn cơ sở dữ liệu nâng cao (2TC);
+4. Mật mã hậu lượng tử (2TC);
+5. Quản trị mạng (2TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(21TC)
+
+### Trang 2
+
+Các học phần tự chọn 1.1:
+1. Phát triển phần mềm an toàn (2TC);
+2. An toàn hệ điều hành (2TC);
+3. Các kỹ thuật giấu tin (2TC).
+Các học phần tự chọn 1.2:
+1. Phân tích dữ liệu lớn cho ATTT (3TC);
+2. An toàn mạng nâng cao (3TC);
+3. Quản trị an toàn hệ thống (3TC).
+Thực tập  
+tốt 
+nghiệp 
+(6TC)
+HK 9
+(18TC)
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+NCKH (2TC)
+Giải tích 2 (3TC)
+Công nghệ 
+Blockchain (3TC)
+Kiểm thử xâm 
+nhập (3TC)
+Quản lý và đánh 
+giá ATTT (3TC)
+Cơ sở an toàn 
+thông tin (3TC)
+Giám sát an toàn 
+mạng (3TC)
+Hệ điều hành 
+Windows và 
+Linux/Unix (3TC)
+Kiểm thử xâm 
+nhập nâng cao 
+(3TC)
+Ứng dụng AI 
+trong ATTT (3TC)
+Lập trình Python 
+cho ATTT (3TC)
+Nhập môn trí tuệ 
+nhân tạo (3TC)
+Nhập lập trình và 
+ATTT (3TC)
+Học phần tự chọn 
+1.2 (3TC)
+Hợp ngữ và dịch 
+ngược (3TC)
+Mạng máy tính 
+(3TC)
+An toàn ứng dụng 
+web và CSDL 
+(3TC)
+Học phần tự chọn 
+2.1 (3TC)
+Nhập môn 
+DevOps (3TC)
+Kiến trúc máy tính 
+và HĐH (3TC)
+Mật mã học cơ sở 
+(3TC)
+Đại số (3TC)
+Cấu trúc dữ liệu 
+và giải thuật 
+(3TC)
+Toán rời rạc 1 
+(3TC)
+Cơ sở dữ liệu 
+(3TC)
+Vật lý ứng dụng 
+(4TC)
+Giải tích 1 (3TC)
+HK 1
+(15TC)
+HK 2
+(19TC)
+HK 3
+(19TC)
+HK 4
+(18TC)
+HK 5
+(19TC)
+HK 6
+(20TC)
+HK 7
+(18TC)
+HK 8
+(19TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Lập trình web 
+(3TC)
+Học phần tự chọn 
+1.1 (2TC)
+Xác suất thống kê 
+(3TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+Thực tập cơ sở 
+(4TC)
+Điều tra số (3TC)
+Phân tích mã độc 
+nâng cao (3TC)
+TIẾN TRÌNH HỌC TẬP CHUẨN
+Chương trình Thạc sĩ tài năng, Định hướng ứng dụng - ngành An toàn thông tin
+Công cụ toán cho 
+CNTT (2TC)
+Giám sát an toàn 
+mạng nâng cao 
+(3TC)
+An toàn IoT (3TC)
+An toàn điện toán 
+đám mây (3TC)
+02 Học phần tự 
+chọn 2.1 (6TC)
+Học phần tự chọn 
+2.2 (2TC)
+Đảm bảo an toàn 
+cho AI (3TC)
+An toàn web nâng 
+cao (3TC)
+Các chủ đề hiện 
+đại trong ATTT 
+(3TC)
+Đề án tốt 
+nghiệp 
+(9TC)
+Phân tích mã độc 
+(3TC)
+Các học phần tự chọn 2.1:
+1. An toàn hệ thống thông tin (3TC);
+2. Quản lý, pháp luật và chính sách ATTT (3TC);
+3. Hạ tầng khóa công khai (3TC);
+4. Các giao thức an toàn và bảo mật (3TC);
+5. Ứng phó và xử lý sự cố bảo mật (3TC);
+6. DevOps và DevSecOps (3TC);
+7. Chuyên đề thạc sĩ 1 (3TC);
+8. Chuyên đề thạc sĩ 2 (3TC).
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Kiến thức đại cương
+Kiến thức KHTN&XH
+Kiến thức cơ sở
+Kiến thức chuyên ngành
+Kiến thức cơ sở (Thạc sĩ)
+Kiến thức chuyên ngành 
+(Thạc sĩ)
+Học phần tiên quyết
+Học phần trước sau
+Học phần tiên quyết
+Học phần trước sau
+HK 10
+(15TC)
+Tấn công và 
+phòng thủ mạng 
+(3TC)
+Học phần tự chọn 
+2.1 (3TC)
+Học phần tự chọn 
+2.2 (2TC)
+Các học phần tự chọn 2.2:
+1. Hệ điều hành mạng (2TC);
+2. Dữ liệu lớn (2TC);
+3. An toàn cơ sở dữ liệu nâng 
+cao (2TC);
+4. Mật mã hậu lượng tử (2TC);
+5. Quản trị mạng (2TC).

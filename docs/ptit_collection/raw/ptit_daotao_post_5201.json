@@ -1,0 +1,125 @@
+{
+  "id": 5201,
+  "date": "2026-07-07T09:27:54",
+  "date_gmt": "2026-07-07T02:27:54",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?p=5201"
+  },
+  "modified": "2026-07-07T09:28:28",
+  "modified_gmt": "2026-07-07T02:28:28",
+  "slug": "de-an-chuong-trinh-quan-tri-doi-moi-sang-tao-va-khoi-nghiep",
+  "status": "publish",
+  "type": "post",
+  "link": "https://daotao.ptit.edu.vn/de-an-chuong-trinh-quan-tri-doi-moi-sang-tao-va-khoi-nghiep/",
+  "title": {
+    "rendered": "Đề án chương trình Quản trị Đổi mới sáng tạo và khởi nghiệp"
+  },
+  "content": {
+    "rendered": "<div class=\"x_elementToProof\"> 1. Quyết định đề án chương trình  <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/1058qd_CTDT.pdf\"><em>(chi tiết k&egrave;m theo)</em></a></div>\n<p>2. Nội dung chương tr&igrave;nh đ&agrave;o tạo:</p>\n<ol start=\"1\" data-editing-info=\"{&quot;orderedStyleType&quot;:1,&quot;unorderedStyleType&quot;:1}\">\n<li>&#8211; Chuẩn đầu ra <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/1056qd_CDR.pdf\"><em>(xem tại đ&acirc;y)</em></a></li>\n<li>&#8211; Chương tr&igrave;nh đ&agrave;o tạo <em><a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/2-CTDT-QTDMSTKN-final.docx\">(xem tại đ&acirc;y)</a></em></li>\n<li>&#8211; Tiến trình ĐMST <a href=\"https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2026/07/4-Tien-trinh-DMST.pdf\"><em>(xem tại đ&acirc;y)</em></a></li>\n</ol>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>1. Quyết định đề án chương trình (chi tiết k&egrave;m theo) 2. Nội dung chương tr&igrave;nh đ&agrave;o tạo: &#8211; Chuẩn đầu ra (xem tại đ&acirc;y) &#8211; Chương tr&igrave;nh đ&agrave;o tạo (xem tại đ&acirc;y) &#8211; Tiến trình ĐMST (xem tại đ&acirc;y)</p>\n",
+    "protected": false
+  },
+  "author": 99,
+  "featured_media": 3215,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13958
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5201",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-dt_tin-tuc-chung"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5201",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/99"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=5201"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5201/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5207,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/posts/5201/revisions/5207"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/3215"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5201"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/categories?post=5201"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/tags?post=5201"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

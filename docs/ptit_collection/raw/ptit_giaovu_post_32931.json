@@ -1,0 +1,123 @@
+{
+  "id": 32931,
+  "date": "2025-10-07T17:52:58",
+  "date_gmt": "2025-10-07T10:52:58",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32931"
+  },
+  "modified": "2025-10-07T17:52:58",
+  "modified_gmt": "2025-10-07T10:52:58",
+  "slug": "ke-hoach-giang-day-va-hoc-tap-ngay-08-10-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/ke-hoach-giang-day-va-hoc-tap-ngay-08-10-2025/",
+  "title": {
+    "rendered": "Kế hoạch giảng dạy và học tập ngày 08/10/2025"
+  },
+  "content": {
+    "rendered": "<p><span class=\"text\">Kính gửi: Các lớp Sinh viên Cơ sở đào tạo phía Bắc </span></p>\n<p><span class=\"text\">Căn cứ theo dự báo thời tiết và thông báo từ cơ quan chức năng về địa bàn Hà Nội vẫn còn nhiều nơi ngập lụt. </span></p>\n<p><span class=\"text\">Để đảm bảo an toàn cho giảng viên, sinh viên và hoạt động giảng dạy &#8211; học tập không bị gián đoạn, Học viện quyết định tiếp tục tổ chức giảng dạy – học tập trực tuyến (online) thứ 4 ngày 08/10/2025 đối với sinh viên đại học chính quy trên các nền tảng MsTeams/Meet/Zoom/Trans. </span></p>\n<p><span class=\"text\">Đối với từng lớp cụ thể, Giảng viên sẽ có thông báo và thống nhất hình thức học với lớp. </span></p>\n<p><span class=\"text\">Trân trọng!</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi: Các lớp Sinh viên Cơ sở đào tạo phía Bắc Căn cứ theo dự báo thời tiết và thông báo từ cơ quan chức năng về địa bàn Hà Nội vẫn còn nhiều nơi ngập lụt. Để đảm bảo an toàn cho giảng viên, sinh viên và hoạt động giảng dạy &#8211; học [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 32451,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32931",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32931",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32931"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32931/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media/32451"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32931"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32931"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32931"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

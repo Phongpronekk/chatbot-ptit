@@ -1,0 +1,78 @@
+{
+  "id": 5755,
+  "date": "2026-10-08T12:00:12",
+  "date_gmt": "2026-10-08T05:00:12",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?post_type=chuong_trinh_dao_tao&#038;p=5755"
+  },
+  "modified": "2026-10-08T14:33:55",
+  "modified_gmt": "2026-10-08T07:33:55",
+  "slug": "chuong-trinh-thac-si-quan-tri-kinh-doanh-dinh-huong-cong-nghe-tai-chinh",
+  "status": "publish",
+  "type": "chuong_trinh_dao_tao",
+  "link": "https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-thac-si-quan-tri-kinh-doanh-dinh-huong-cong-nghe-tai-chinh/",
+  "title": {
+    "rendered": "Chương trình Thạc sĩ Quản trị kinh doanh định hướng Công nghệ tài chính"
+  },
+  "featured_media": 1859,
+  "template": "",
+  "he_dao_tao": [
+    14021
+  ],
+  "class_list": [
+    "post-5755",
+    "chuong_trinh_dao_tao",
+    "type-chuong_trinh_dao_tao",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "he_dao_tao-nhom-cac-nganh-chuong-trinh-dao-tao-sau-dai-hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao/5755",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/chuong_trinh_dao_tao"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/chuong_trinh_dao_tao"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media/1859"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=5755"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "he_dao_tao",
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/he_dao_tao?post=5755"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

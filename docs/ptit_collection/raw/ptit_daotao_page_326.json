@@ -1,0 +1,106 @@
+{
+  "id": 326,
+  "date": "2024-08-07T14:31:04",
+  "date_gmt": "2024-08-07T07:31:04",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=326"
+  },
+  "modified": "2026-06-16T23:38:26",
+  "modified_gmt": "2026-06-16T16:38:26",
+  "slug": "ba-cong-khai",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/gioi-thieu/ba-cong-khai/",
+  "title": {
+    "rendered": "Ba công khai"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"326\" class=\"elementor elementor-326\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3acc2b7 e-flex e-con-boxed e-con e-parent\" data-id=\"3acc2b7\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-063c203 elementor-widget elementor-widget-gimont_elementor_blog\" data-id=\"063c203\" data-element_type=\"widget\" data-widget_type=\"gimont_elementor_blog.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n\t\t\t\n\t\t\t<ul class=\"ova-blog column_2 version_2 v2_template_1\">\n\n\t\t\t  \t\t\t\t</ul>\n\t\t\t<div style=\"width: 100%; display: flex; flex-direction: column; align-items: center; gap: 30px\">\n    <img decoding=\"async\" src=\"/wp-content/images/empty-result.png\" width=\"200\"/>\n    <strong>Không có kết quả phù hợp !</strong>\n</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>05/11/2024 Thông báo: Về việc Công khai thông tin đào tạo năm học 2022-2023 30/07/2024 Công khai báo cáo thường niên 2023 15/10/2021 Ba công khai năm học năm 2021-2022 22/10/2020 Ba công khai năm học 2020 – 2021 22/11/2018 Ba công khai năm học 2018-2019 Le ressenti général après plusieurs visites sur rolletto.pro confirme [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 8,
+  "featured_media": 0,
+  "parent": 373,
+  "menu_order": 6,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit-sibling",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-326",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/326",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/8"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=326"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/326/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5124,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/326/revisions/5124"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/373"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=326"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

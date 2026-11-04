@@ -1,0 +1,125 @@
+{
+  "id": 33465,
+  "date": "2026-08-13T09:07:58",
+  "date_gmt": "2026-08-13T09:07:58",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33465"
+  },
+  "modified": "2026-09-15T09:09:37",
+  "modified_gmt": "2026-09-15T09:09:37",
+  "slug": "thong-bao-ve-viec-ban-hanh-muc-thu-cac-hoat-dong-ho-tro-dao-tao-cua-hoc-vien-cong-nghe-buu-chinh-vien-thong",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/08/13/thong-bao-ve-viec-ban-hanh-muc-thu-cac-hoat-dong-ho-tro-dao-tao-cua-hoc-vien-cong-nghe-buu-chinh-vien-thong/",
+  "title": {
+    "rendered": "Thông báo về việc ban hành mức thu các hoạt động hỗ trợ đào tạo của Học viện Công nghệ Bưu chính Viễn thông"
+  },
+  "content": {
+    "rendered": "<p>Ngày<strong> 11/8/2026, Học viện Công nghệ Bưu chính Viễn thông đã ban hành Quyết định số 2500/QĐ-HV về việc ban hành mức thu các hoạt động hỗ trợ đào tạo của Học viện Công nghệ Bưu chính Viễn thông.</strong></p>\n<p>Theo Quyết định, Học viện ban hành kèm theo mức thu đối với các hoạt động hỗ trợ đào tạo áp dụng trong toàn Học viện (chi tiết tại Phụ lục kèm theo Quyết định).<span class=\"Apple-converted-space\"><br />\n</span></p>\n<p>Các nội dung được quy định bao gồm mức thu đối với một số dịch vụ, hoạt động hỗ trợ đào tạo như: cấp bảng điểm theo yêu cầu, cấp lại thẻ học viên/sinh viên, cấp lại thẻ thư viện, cấp giấy xác nhận, cấp bản sao văn bằng, hồ sơ tuyển sinh và các khoản thu liên quan đến dịch vụ ký túc xá tại các cơ sở đào tạo của Học viện.</p>\n<p>Quyết định số 2500/QĐ-HV có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1132/QĐ-HV ngày 28/4/2026 về việc ban hành mức thu tạm thời các hoạt động hỗ trợ đào tạo của Học viện Công nghệ Bưu chính Viễn thông.<span class=\"Apple-converted-space\"><br />\n</span></p>\n<p>Học viện thông báo để các đơn vị, cán bộ, giảng viên, người học và các cá nhân có liên quan biết, thực hiện theo quy định.</p>\n<p><strong>Xem chi tiết Quyết định số 2500/QĐ-HV ngày 11/8/2026 tại: <a href=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/2026_2500_QD-muc-thu-ho-tro-dao-tao.pdf\">2026_2500_QD muc thu ho tro dao tao</a></strong></p>\n<p><span class=\"Apple-converted-space\"> </span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Ngày 11/8/2026, Học viện Công nghệ Bưu chính Viễn thông đã ban hành Quyết định số 2500/QĐ-HV về việc ban hành mức thu các hoạt động hỗ trợ đào tạo của Học viện Công nghệ Bưu chính Viễn thông. Theo Quyết định, Học viện ban hành kèm theo mức thu đối với các hoạt động [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 81,
+  "featured_media": 33369,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33465",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33465",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/81"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33465"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33465/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33468,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33465/revisions/33468"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33369"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33465"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33465"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33465"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

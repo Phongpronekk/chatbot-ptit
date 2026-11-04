@@ -1,0 +1,116 @@
+{
+  "id": 33154,
+  "date": "2026-01-10T10:13:47",
+  "date_gmt": "2026-01-10T03:13:47",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33154"
+  },
+  "modified": "2026-01-10T14:50:52",
+  "modified_gmt": "2026-01-10T07:50:52",
+  "slug": "ban-hanh-ke-hoach-giang-day-hoc-tap-hoc-ky-ii-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/ban-hanh-ke-hoach-giang-day-hoc-tap-hoc-ky-ii-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Ban hành Kế hoạch giảng dạy &#8211; hoc tập học kỳ II năm học 2025-2026"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Kế hoạch đào tạo năm học 2025-2026 của Học viện</p>\n<p>Căn cứ phân công giảng dạy của các Khoa/ Bộ môn. Căn cứ kết quả đăng kí môn học của sinh viên.<br />\nPhòng Giáo vụ thông báo ban hành Kế hoạch giảng dạy &#8211; học tập học kỳ II năm học 2025-2026. Đề nghị sinh viên nghiêm túc thực hiện các nội dung sau:<br />\n&#8211; Thời gian bắt đầu học kỳ: từ ngày 12/01/2026. Lưu ý: khóa 2022 khối ngành Kỹ thuật, khóa 2023 khối ngành Kinh tế &#8211; Báo chí &#8211; Truyền thông Đa phương tiện và khóa 2024 ngành Thiết kế Game sẽ học tại cơ sở đào tạo Ngọc Trục;<br />\n&#8211; Lịch giảng dạy của các lớp học phần tiếng Anh sẽ bắt đầu từ ngày 19/01/2026;<br />\n&#8211; Lịch giảng dạy của các lớp học vượt (lớp riêng) phòng Giáo vụ sẽ có thông báo chính thức trước ngày 15/01/2026.;<br />\n&#8211; Đối với các lớp sinh viên khóa 2025, dự kiến từ ngày 20/04/2026 sẽ có các đợt đi học Giáo dục Quốc phòng an ninh. Kế hoạch chi tiết phòng Giáo vụ sẽ thông báo sau.<br />\nPhòng Giáo vụ thông báo tới toàn thể sinh viên Cơ sở đào tạo phía Bắc được biết và thực hiện. Chi tiết lịch học sinh viên xem và cập nhật trên hệ thống QLĐT (https://qldt.ptit.edu.vn). Đề nghị Ban cán sự các lớp phổ biến cho sinh viên lớp mình nắm rõ và nghiêm túc thực hiện.<br />\nTrân trọng!</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Kế hoạch đào tạo năm học 2025-2026 của Học viện Căn cứ phân công giảng dạy của các Khoa/ Bộ môn. Căn cứ kết quả đăng kí môn học của sinh viên. Phòng Giáo vụ thông báo ban hành Kế hoạch giảng dạy &#8211; học tập học kỳ II năm học 2025-2026. Đề [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33154",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33154",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33154"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33154/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33154"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33154"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33154"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

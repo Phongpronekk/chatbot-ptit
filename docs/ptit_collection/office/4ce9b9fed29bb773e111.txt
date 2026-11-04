@@ -1,0 +1,114 @@
+### sheet1.xml
+A1: MA TRẬN LIÊN KẾT (RÚT GỌN) CÁC HỌC PHẦN VỚI CHUẨN ĐẦU RA
+THẠC SĨ TÀI NĂNG - NGÀNH KỸ THUẬT VIỄN THÔNG
+A3: TT | B3: TÊN HỌC PHẦN | C3: CHUẨN ĐẦU RA
+C4: PLO 1 | D4: PLO 2 | E4: PLO 3 | F4: PLO 4 | G4: PLO 5 | H4: PLO 6 | I4: PLO7
+A5: Phần kiến thức trình độ đại học
+A6: Kiến thức chung 
+A7: 1 | B7: Triết học Mác-Lênin  | I7: I(X)
+A8: 2 | B8: Kinh tế chính trị Mác-Lênin  | I8: I(X)
+A9: 3 | B9: Tư tưởng Hồ Chí Minh | I9: R(X)
+A10: 4 | B10: Chủ nghĩa xã hội khoa học | I10: I(Y)
+A11: 5 | B11: Lịch sử Đảng cộng sản Việt Nam | I11: R(Y)
+A12: 6 | B12: Tiếng Anh (Course 1)* | G12: I(X)
+A13: 7 | B13: Tiếng Anh (Course 2) | G13: I(X)
+A14: 8 | B14: Tiếng Anh (Course 3) | G14: R(X)
+A15: 9 | B15: Tiếng Anh (Course 3 Plus) | G15: R(X)
+A16: 10 | B16: Nhập môn Công nghệ số và Ứng dụng AI | G16: I(X)
+A17: Kiến thức khoa học tự nhiên và xã hội
+A18: 11 | B18: Giải tích 1 | C18: I(Y)
+A19: 12 | B19: Giải tích 2 | C19: I(Y)
+A20: 13 | B20: Đại số | C20: I(Y)
+A21: 14 | B21: Vật lý 1 và thí nghiệm | E21: I(X)
+A22: 15 | B22: Vật lý 2 và thí nghiệm | E22: I(X)
+A23: 16 | B23: Xác suất thống kê | C23: I(Y)
+A24: 17 | B24: Pháp luật và sở hữu trí tuệ | C24: I(Y)
+A25: Kiến thức cơ sở ngành
+A26: 18 | B26: Toán rời rạc | C26: R(X,A)
+A27: 19 | B27: Lý thuyết mạch  | C27: I(X) | E27: I(X)
+A28: 20 | B28: Linh kiện và mạch điện tử | C28: I(X) | D28: I(X)
+A29: 21 | B29: Điện tử số | C29: I(X) | D29: I(X)
+A30: 22 | B30: Kiến trúc máy tính và vi xử lý | F30: I(X,A)
+A31: 23 | B31: Hệ điều hành | C31: I(X,A) | H31: I(X,A)
+A32: 24 | B32: Tín hiệu và hệ thống | D32: I(X,A) | F32: I(X,A)
+A33: 25 | B33: Kỹ thuật lập trình | F33: I(X,A) | I33: I(X,A)
+A34: 26 | B34: Công nghệ phần mềm | E34: I(X,A) | H34: I(X,A)
+A35: 35 | B35: Lý thuyết truyền tin | F35: I(X,A)
+A36: 36 | B36: Kỹ thuật siêu cao tần | D36: I(X,A)
+A37: 37 | B37: Truyền sóng và anten | C37: R(X,A)
+A38: 38 | B38: Mô hình hoá và mô phỏng hệ thống truyền thông | E38: R(X,A)
+A39: 39 | B39: Cấu trúc dữ liệu và giải thuật | D39: R(X,A)
+A40: Kiến thức chuyên ngành
+A41: 40 | B41: Cơ sở dữ liệu | C41: R(X) | E41: R(X)
+A42: 41 | B42: Kỹ thuật mạng truyền thông | D42: R(X,A) | H42: R(X,A)
+A43: 42 | B43: Kỹ thuật thông tin quang | D43: R(X,A) | E43: R(X,A)
+A44: 43 | B44: Kỹ thuật thông tin vô tuyến | C44: R(X,A) | E44: R(X,A)
+A45: 44 | B45: Cơ sở học máy và trí tuệ nhân tạo | C45: R(X,A) | I45: R(X,A)
+A46: 45 | B46: An toàn mạng thông tin | C46: R(X, A) | E46: R(X, A)
+A47: 46 | B47: Tự chọn 1 | D47: R(X,A) | E47: R(X,A)
+A48: 47 | B48: Tự chọn 2 | C48: R(X,A)
+A49: 48 | B49: Tự chọn 3 | C49: R(X,A) | F49: R(X,A)
+A50: 49 | B50: Đồ án ngành | C50: R(X,A) | D50: R(X,A) | E50: R(X,A) | F50: R(X,A) | G50: R(X,A) | H50: R(X,A) | I50: R(X,A)
+A51: Học phần tự chọn
+A52: 46 | B52: Tự chọn CN1 (chọn 1/3 học phần)
+B53: Thông tin di động | D53: R(X,A) | E53: R(X,A)
+B54: Quản trị mạng | D54: R(X,A) | E54: R(X,A)
+B55: Hệ thống nhúng IoT | D55: R(X,A) | E55: R(X,A)
+A56: 47 | B56: Tự chọn CN2 (chọn 1/3 học phần)
+B57: Internet và các giao thức | C57: R(X,A)
+B58: Mạng truyền thông quang | C58: R(X,A)
+B59: Công nghệ vô tuyến thế hệ mới | C59: R(X,A)
+A60: 48 | B60: Tự chọn CN3 (chọn 1/3 học phần)
+B61: Dữ liệu lớn | C61: R(X,A) | F61: R(X,A)
+B62: Thông tin vệ tinh | C62: R(X,A) | F62: R(X,A)
+B63: Tự động hoá mạng | C63: R(X,A) | F63: R(X,A)
+A64: 50 | B64: Thực tập tốt nghiệp | C64: E(X, A) | D64: E(X, A) | E64: E(X, A) | F64: E(X, A) | G64: E(X, A) | H64: E(X, A) | I64: E(X, A)
+A65: Phần kiến thức trình độ thạc sĩ
+A66: Khối kiến thức cơ sở ngành
+A67: 51 | B67: Phương pháp nghiên cứu khoa học | G67: R(X, A) | H67: R(X, A) | I67: R(X, A)
+A68: 52 | B68: Công cụ toán cho điện tử - viễn thông | C68: E(X, A) | G68: R(X,A)
+A69: 53 | B69: Mạng định nghĩa bằng phần mềm và công nghệ ảo hoá | D69: R(X,A) | E69: E(X,A)
+A70: 54 | B70: Xử lý tín hiệu số nâng cao | C70: E(X, A) | D70: R(X, A)
+A71: 56 | B71: Chuyên đề thạc sĩ 1 | D71: E(X, A) | H71: R(X,A)
+A72: Khối kiến thức chuyên ngành
+A73: 57 | B73: Hệ thống thông minh | D73: E(X, A) | E73: E(X, A)
+A74: 58 | B74: Hệ thống IoT tiên tiến | C74: E(X, A) | D74: E(X, A)
+A75: 59 | B75: Học máy ứng dụng | D75: E(X, A) | G75: R(X,A)
+A76: Các học phần tự chọn (chọn 3/12, tổng số 9TC)
+A77: 60 | B77: Tự chọn 1 | D77: E(X, A) | E77: E(X, A)
+A78: 61 | B78: Tự chọn 2 | F78: R(X, A) | I78: R(X, A)
+A79: 62 | B79: Tự chọn 3 | C79: E(X, A) | F79: R(X, A)
+A80: Các chuyên đề nghiên cứu
+A81: 63 | B81: Chuyên đề thạc sĩ 2 | E81: E(X, A) | F81: E(X, A)
+A82: 64 | B82: Chuyên đề thạc sĩ 3 | F82: E(X, A) | G82: E(X, A)
+A83: 65 | B83: Chuyên đề thạc sĩ 4 | F83: E(X, A) | H83: E(X, A)
+A84: Tự chọn 1
+B85: Truyền thông lượng tử | D85: E(X, A) | E85: E(X, A)
+B86: Kỹ nghệ Web và API | D86: E(X, A) | E86: E(X, A)
+B87: Tối ưu tài nguyên mạng | D87: E(X, A) | E87: E(X, A)
+B88: An toàn hệ thống điện toán đám mây | D88: E(X, A) | E88: E(X, A)
+A89: Tự chọn 2
+B90: Phân tích dữ liệu trong viễn thông | F90: R(X, A) | I90: R(X, A)
+B91: Trí tuệ nhân tạo nâng cao trong viễn thông | F91: R(X, A) | I91: R(X, A)
+B92: Dữ liệu lớn nâng cao | F92: R(X, A) | I92: R(X, A)
+B93: Quản lý dự án và đổi mới sáng tạo | F93: R(X, A) | I93: R(X, A)
+A94: Tự chọn 3
+B95: Hệ thống truyền thông không gian và UAV | C95: E(X, A) | F95: R(X, A)
+B96: Truyền thông quang không dây | C96: E(X, A) | F96: R(X, A)
+B97: Kỹ thuật lập trình nâng cao | C97: E(X, A) | F97: R(X, A)
+B98: Hệ thống vô tuyến thông minh | C98: E(X, A) | F98: R(X, A)
+A99: Kiến thức tốt nghiệp
+A100: 66 | B100: Luận văn tốt nghiệp | C100: E(X, A) | D100: E(X, A) | E100: E(X, A) | F100: E(X, A) | G100: E(X, A) | H100: E(X, A) | I100: E(X, A)
+A101: Kỹ năng mềm (chọn 3/6, tổng số 3 TC)
+A102: 1 | B102: Kỹ năng thuyết trình | G102: R(X) | H102: I(X)
+A103: 2 | B103: Kỹ năng làm việc nhóm | G103: R(X) | H103: I(X)
+A104: 3 | B104: Kỹ năng đổi mới sáng tạo | G104: R(X) | H104: I(X)
+A105: 4 | B105: Kỹ năng tạo lập văn bản tiếng Việt | G105: R(X) | H105: I(X)
+A106: 5 | B106: Kỹ năng lập kế hoạch và tổ chức thực hiện công việc | G106: R(X) | H106: I(X)
+A107: 6 | B107: Kỹ năng giao tiếp | G107: R(X) | H107: I(X)
+A108: 7 | B108: Kỹ năng đổi mới sáng tạo | G108: R(X) | H108: I(X)
+A109: Ghi chú: 
+B110: I,R,E: mức độ đóng góp của học phần, tương ứng: Giới thiệu, cơ bản (I), Củng cố, phát triển thêm (R), Nâng cao, hoàn thiện (E)
+B111: X: đóng góp trực tiếp
+B112: Y: đóng góp gián tiếp
+B113: A: dùng để đo lường đóng góp vào PLO

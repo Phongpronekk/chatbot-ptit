@@ -1,0 +1,57 @@
+### sheet1.xml
+A1: KẾ HOẠCH & TIẾN TRÌNH HỌC TẬP 
+A2: NGÀNH QUẢN TRỊ KINH DOANH ĐỊNH HƯỚNG CÔNG NGHỆ TÀI CHÍNH
+A5: TT | B5: Tên môn học/học phần | C5: Số TC | D5: Học kỳ | F5: TT | G5: Tên môn học/học phần | H5: Số TC | I5: Học kỳ
+A6: 1 | B6: Triết học  | C6: 3 | D6: HK1 | F6: 1 | G6: Phương pháp nghiên cứu 
+khoa học | H6: 2 | I6: HK3
+A7: 2 | B7: Công cụ Toán cho Kinh doanh và Quản lý  | C7: 2 | D7: HK1 | F7: 2 | G7: Đổi mới sáng tạo và mô hình kinh doanh Fintech  | H7: 3 | I7: HK3
+A8: 3 | B8: Kinh tế học quản trị | C8: 3 | D8: HK1 | F8: 3 | G8: Ra quyết định tài chính dựa trên AI  | H8: 3 | I8: HK3
+A9: 4 | B9: Lãnh đạo và Hành vi tổ chức  | C9: 3 | D9: HK1 | F9: 4 | G9: Môn tự chọn 1 (chuyên ngành) | H9: 3 | I9: HK3
+A10: 5 | B10: Quản trị Marketing chiến lược  | C10: 3 | D10: HK1 | F10: 5 | G10: Môn tự chọn 2 (chuyên ngành) | H10: 3 | I10: HK3
+C12: 14 | H12: 14
+A14: TT | B14: Tên môn học/học phần | C14: Số TC | D14: Học kỳ | F14: TT | G14: Tên môn học/học phần | H14: Số TC | I14: Học kỳ
+A15: 6 | B15: Chiến lược kinh doanh nâng cao  | C15: 3 | D15: HK2 | F15: 1 | G15: Thực tập tốt nghiệp | H15: 8 | I15: HK4
+A16: 7 | B16: Quản trị tài chính chiến lược  | C16: 3 | D16: HK2 | F16: 2 | G16: Đề án tốt nghiệp | H16: 9 | I16: HK4
+A17: 8 | B17: Công nghệ tài chính  | C17: 3 | D17: HK2
+A18: 9 | B18: Phân tích dữ liệu và mô hình hoá dữ liệu  | C18: 3 | D18: HK2
+A19: 10 | B19: Quản trị nguồn nhân lực chiến lược | C19: 3 | D19: HK2
+C21: 15 | H21: 17
+G23: TỔNG CỘNG: | H23: 60
+B25: Các học phần tự chọn (Chuyên ngành)
+A26: 1 | B26: Tài chính phi tập trung | C26: 3
+A27: 2 | B27: Quản trị rủi ro và tài chính bền vững  | C27: 3
+A28: 3 | B28: Quản trị danh mục đầu tư  | C28: 3
+A29: 4 | B29: Tài chính định lượng  | C29: 3
+A30: 5 | B30: Tài chính số và ngân hàng số  | C30: 3
+A31: 6 | B31: Công nghệ pháp chế | C31: 3
+### sheet2.xml
+A1: DANH SÁCH CÁC MÔN HỌC TIÊN QUYẾT,MÔN HỌC TRƯỚC CỦA CHƯƠNG TRÌNH THẠC SỸ
+A2:  NGÀNH QUẢN TRỊ KINH DOANH ĐỊNH HƯỚNG CÔNG NGHỆ TÀI CHÍNH
+A4: TT | B4: Tên môn học/học phần | C4: Mã số
+môn học | D4: Số TC | E4: Năm học | I4: Môn tiên quyết  | J4: Môn học trước
+E5: Thứ nhất | G5: Thứ hai
+A6: 1 | B6: Triết học  | C6: BAS4101 | D6: 3 | E6: HK I
+A7: 2 | B7: Công cụ toán cho kinh doanh và quản lý  | C7: BAS4105 | D7: 2 | E7: HK I
+A8: 3 | B8: Kinh tế học quản trị | D8: 3 | E8: HK I
+A9: 4 | B9: Lãnh đạo và Hành vi tổ chức  | D9: 3 | E9: HK I
+A10: 5 | B10: Quản trị Marketing chiến lược  | D10: 3 | E10: HK I
+A11: 6 | B11: Chiến lược Kinh doanh nâng cao  | D11: 3 | F11: HK II
+A12: 7 | B12: Quản trị tài chính chiến lược  | D12: 3 | F12: HK II
+A13: 8 | B13: Phân tích dữ liệu và mô hình hoá dữ liệu  | D13: 3 | F13: HK II
+A14: 9 | B14: Công nghệ tài chính  | D14: 3 | F14: HK II
+A15: 10 | B15: Quản trị nhân sự chiến lược | D15: 3 | F15: HK II
+A16: 11 | B16: Phương pháp nghiên cứu khoa học | C16: IGF4101 | D16: 2 | G16: HK III
+A17: 12 | B17: Đổi mới sáng tạo và mô hình kinh doanh  Fintech  | D17: 3 | G17: HK III
+A18: 13 | B18: Ra quyết định tài chính dựa trên AI  | D18: 3 | G18: HK III
+A19: 14 | B19: Môn tự chọn 1 (chuyên ngành) | D19: 3 | G19: HK III
+A20: 15 | B20: Môn tự chọn 2 (chuyên ngành) | D20: 3 | G20: HK III
+A21: 16 | B21: Thực tập tốt nghiệp | D21: 8 | H21: HK IV | J21: Các môn từ Kỳ I đến kỳ III
+A22: 17 | B22: Khóa luận tốt nghiệp | D22: 9 | H22: HK IV | J22: Các môn từ Kỳ I đến kỳ III
+B23: TỔNG CỘNG: | D23: 60 | E23: 14 | F23: 15 | G23: 14 | H23: 17
+B25: Các học phần tự chọn (Chuyên ngành)
+A26: 1 | B26: Tài chính Phi tập trung | D26: 3
+A27: 2 | B27: Quản trị rủi ro và tài chính bền vững  | D27: 3
+A28: 3 | B28: Quản trị danh mục đầu tư  | D28: 3
+A29: 4 | B29: Tài chính định lượng  | D29: 3
+A30: 5 | B30: Tài chính số và ngân hàng số  | D30: 3
+A31: 6 | B31: Công nghệ pháp chế | D31: 3

@@ -1,0 +1,282 @@
+### Trang 1
+
+Thực tập và Đồ 
+án tốt nghiệp 
+(10TC)
+Kiến thức chung Kiến thức cơ sở ngành và ngành
+TIẾN TRÌNH HỌC TẬP THEO HỌC CHẾ TÍN CHỈ 
+Chương trình Quản trị Đổi mới sáng tạo và khởi nghiệp (ngành Quản trị kinh doanh) 
+ 
+TỔ HỢP HỌC PHẦN TỰ CHỌN:
+Tổ hợp kinh doanh và quản lý:
+1. Văn hóa KD và trách nhiệm XH của DN (3TC);
+2. Giao tiếp và đàm phán trong KD (3TC);
+3. Thương mại điện tử căn bản (3TC);
+4. Kinh doanh quốc tế (3TC);
+5. Quản trị vận hành (3TC).
+Tổ hợp công nghệ:
+1. Nhập môn học máy (3TC);
+2. Nhập môn học sâu (3TC);
+3. Phát triển TTNT (3TC);
+4. An toàn hệ thống thông tin KD (3TC);
+5. Ứng dụng TTNT trong KD (3TC).
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+luận NCKH (2TC)
+Lý thuyết xác 
+suất thống kê 
+(3TC)
+Quản trị rủi ro 
+khủng hoảng 
+(3TC)
+Phân tích dữ liệu 
+trong KD (3TC)
+Quản trị tài năng 
+(3TC)
+Kinh tế vi mô 1 
+(3TC)
+ƯD phân tích dữ 
+liệu trong đổi mới 
+SP (3TC)
+Quản trị công 
+nghệ và ĐMST 
+(3TC)
+Quản trị sản 
+phẩm (6TC)
+Học phần doanh 
+nghiệp (4TC)
+Nền tảng phát 
+triển TTNT (3TC)
+Kế toán cho kinh 
+doanh (3TC)
+Lập trình Python 
+cơ bản (3TC)
+Quản trị dự án 
+ĐMST&KN (3TC)
+Hành vi tổ chức 
+(3TC)
+Toán kinh tế 
+(3TC)
+Đổi mới mô hình 
+KD sáng tạo 
+(3TC)
+Tài chính khởi 
+nghiệp (3TC)
+Khởi nghiệp và 
+ĐMST (3TC)
+Nhập môn khoa 
+học dữ liệu (3TC)
+Tổ hợp học phần 
+tự chọn (6TC)
+Toán CC cho 
+khối kinh tế 
+(4TC)
+Kinh tế vĩ mô 1 
+(3TC)
+Tư duy thiết kế 
+và giải quyết VĐ 
+(3TC)
+Quản trị học 
+(3TC)
+Marketing căn 
+bản (3TC)
+Tâm lý quản lý 
+(2TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+HK 1
+(14TC)
+HK 2
+(17TC)
+HK 3
+(18TC)
+HK 4
+(18TC)
+HK 5
+(19TC)
+HK 6
+(16TC)
+HK 7
+(18TC)
+HK 8
+(10TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Kiến thức chuyên ngành Học phần tiên quyết
+Phân tích và thiết 
+kế HTTT quản lý 
+(3TC)
+Kiến thức KHTN/KHXH
+02 học phân tự 
+chọn (4TC)
+HỌC PHẦN TỰ CHỌN:
+1. Lãnh đạo và quản lý sự 
+thay đổi (2TC);
+2. E-marketing (2TC);
+3. Quản trị đa văn hóa 
+(2TC);
+4. Quản lý tài sản trí tuệ 
+(2TC);
+5. Quản trị ESG và phát 
+triển bền vững (2TC).
+Học phần Trước
+Thực tập và Đồ 
+án tốt nghiệp 
+(10TC)
+Kiến thức chung Kiến thức cơ sở ngành và ngành
+TIẾN TRÌNH HỌC TẬP THEO HỌC CHẾ TÍN CHỈ 
+Chương trình Quản trị Đổi mới sáng tạo và khởi nghiệp (ngành Quản trị kinh doanh) 
+ 
+TỔ HỢP HỌC PHẦN TỰ CHỌN:
+Tổ hợp kinh doanh và quản lý:
+1. Văn hóa KD và trách nhiệm XH của DN (3TC);
+2. Giao tiếp và đàm phán trong KD (3TC);
+3. Thương mại điện tử căn bản (3TC);
+4. Kinh doanh quốc tế (3TC);
+5. Quản trị vận hành (3TC).
+Tổ hợp công nghệ:
+1. Nhập môn học máy (3TC);
+2. Nhập môn học sâu (3TC);
+3. Phát triển TTNT (3TC);
+4. An toàn hệ thống thông tin KD (3TC);
+5. Ứng dụng TTNT trong KD (3TC).
+Triết học
+Mác-Lênin (3TC)
+Kinh tế chính trị
+Mác-Lênin (2TC)
+Chủ nghĩa xã hội 
+khoa học (2TC)
+Tư tưởng Hồ Chí 
+Minh (2TC)
+Tiếng Anh 
+Course 1 (4TC)
+Tiếng Anh 
+Course 2 (4TC)
+Tiếng Anh 
+Course 3 (4TC)
+Tiếng Anh 
+Course 3 Plus
+ (2TC)
+Nhập môn Công 
+nghệ số và ứng 
+dụng AI (2TC)
+Phương pháp 
+luận NCKH (2TC)
+Lý thuyết xác 
+suất thống kê 
+(3TC)
+Quản trị rủi ro 
+khủng hoảng 
+(3TC)
+Phân tích dữ liệu 
+trong KD (3TC)
+Quản trị tài năng 
+(3TC)
+Kinh tế vi mô 1 
+(3TC)
+ƯD phân tích dữ 
+liệu trong đổi mới 
+SP (3TC)
+Quản trị công 
+nghệ và ĐMST 
+(3TC)
+Quản trị sản 
+phẩm (6TC)
+Học phần doanh 
+nghiệp (4TC)
+Nền tảng phát 
+triển TTNT (3TC)
+Kế toán cho kinh 
+doanh (3TC)
+Lập trình Python 
+cơ bản (3TC)
+Quản trị dự án 
+ĐMST&KN (3TC)
+Hành vi tổ chức 
+(3TC)
+Toán kinh tế 
+(3TC)
+Đổi mới mô hình 
+KD sáng tạo 
+(3TC)
+Tài chính khởi 
+nghiệp (3TC)
+Khởi nghiệp và 
+ĐMST (3TC)
+Nhập môn khoa 
+học dữ liệu (3TC)
+Tổ hợp học phần 
+tự chọn (6TC)
+Toán CC cho 
+khối kinh tế 
+(4TC)
+Kinh tế vĩ mô 1 
+(3TC)
+Tư duy thiết kế 
+và giải quyết VĐ 
+(3TC)
+Quản trị học 
+(3TC)
+Marketing căn 
+bản (3TC)
+Tâm lý quản lý 
+(2TC)
+Pháp luật và sở 
+hữu trí tuệ (2TC)
+HK 1
+(14TC)
+HK 2
+(17TC)
+HK 3
+(18TC)
+HK 4
+(18TC)
+HK 5
+(19TC)
+HK 6
+(16TC)
+HK 7
+(18TC)
+HK 8
+(10TC)
+Lịch sử Đảng 
+Cộng sản Việt 
+Nam (2TC)
+Kiến thức chuyên ngành Học phần tiên quyết
+Phân tích và thiết 
+kế HTTT quản lý 
+(3TC)
+Kiến thức KHTN/KHXH
+02 học phân tự 
+chọn (4TC)
+HỌC PHẦN TỰ CHỌN:
+1. Lãnh đạo và quản lý sự 
+thay đổi (2TC);
+2. E-marketing (2TC);
+3. Quản trị đa văn hóa 
+(2TC);
+4. Quản lý tài sản trí tuệ 
+(2TC);
+5. Quản trị ESG và phát 
+triển bền vững (2TC).
+Học phần Trước

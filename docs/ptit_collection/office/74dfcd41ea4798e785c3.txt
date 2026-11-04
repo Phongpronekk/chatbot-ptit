@@ -1,0 +1,93 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ NGÀNH QUẢN LÝ KHOA HỌC VÀ CÔNG NGHỆ
+(Kèm theo Quyết định số       /QĐ-HV ngày    tháng    năm 2026 của Giám đốc Học viện)
+1. GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt): Quản lý Khoa học và Công nghệ
+- Tên ngành (tiếng Anh): Science and Technology Management
+- Trình độ đào tạo: Thạc sĩ  
+- Định hướng chương trình:Định hướng ứng dụng
+- Mã ngành đào tạo:8340412
+- Thời gian đào tạo: 1,5 - 2 năm
+- Hình thức đào tạo: Chính quy
+2. MỤC TIÊU ĐÀO TẠO
+2.1. Mục tiêu chung (Goals)
+Chương trình đào tạo Thạc sĩ ngành Quản lý Khoa học và Công nghệ (định hướng ứng dụng, chuyên sâu về quản lý công nghệ) của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo nguồn nhân lực trình độ cao có kiến thức chuyên sâu về quản lý khoa học và công nghệ, đổi mới sáng tạo; có năng lực quản lý công nghệ, gồm hoạch định chiến lược, tổ chức triển khai, đánh giá các hoạt động công nghệ, đổi mới sáng tạo và làm việc hiệu quả trong tổ chức/doanh nghiệp trong bối cảnh kinh tế số và hội nhập quốc tế.
+2.2. Mục tiêu cụ thể (Program Objectives - POs)
+PO1: Trang bị cho người học kiến thức chuyên sâu, liên ngành về kinh tế - quản lý, quản lý khoa học và công nghệ phục vụ cho phân tích các vấn đề phức tạp trong quản lý công nghệ và đổi mới sáng tạo của tổ chức/doanh nghiệp trong bối cảnh kinh tế số và hội nhập quốc tế.
+PO2: Phát triển năng lực lựa chọn, triển khai, quản lý và đánh giá các hoạt động nghiên cứu và phát triển (R&D), dự án công nghệ, chuyển giao công nghệ, thương mại hóa công nghệ, quản trị tài sản trí tuệ và các hoạt động đổi mới sáng tạo của tổ chức/doanh nghiệp.
+PO3: Phát triển năng lực phân tích, dự báo xu hướng công nghệ, ứng dụng các công nghệ số hiện đại như AI, Big Data và các công cụ hỗ trợ ra quyết định nhằm giải quyết các vấn đề thực tiễn về quản lý công nghệ và quản trị doanh nghiệp.
+PO4: Phát triển năng lực quản lý sự thay đổi, phối hợp đa ngành và xây dựng môi trường đổi mới sáng tạo; khả năng làm việc hiệu quả trong tổ chức/doanh nghiệp trên cơ sở nhận thức rõ về đạo đức nghề nghiệp, trách nhiệm xã hội và định hướng phát triển bền vững. 
+2.3. Vị trí làm việc sau tốt nghiệp
+Học viên tốt nghiệp chương trình thạc sĩ ngành Quản lý Khoa học và Công nghệ của Học viện Công nghệ Bưu chính Viễn thông có thể làm việc ở những vị trí công việc sau:
+Giám đốc công nghệ (CTO) trong các tập đoàn, doanh nghiệp lớn
+Giám đốc/chuyên viên quản lý công nghệ trong doanh nghiệp
+Giám đốc/chuyên viên đổi mới sáng tạo trong doanh nghiệp
+Chuyên viên quản lý dự án công nghệ và R&D trong doanh nghiệp
+Chuyên viên quản lý khoa học, công nghệ và đổi mới sáng tạo trong các cơ quan, tổ chức nhà nước
+Nhà sáng lập/điều hành doanh nghiệp khởi nghiệp trong lĩnh vực công nghệ và đổi mới sáng tạo
+Ngoài ra, sau khi tốt nghiệp chương trình Thạc sĩ Quản lý Khoa học và Công nghệ, người học có thể học tiếp lên trình độ Tiến sĩ ở trong nước và nước ngoài.
+3. CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (Program Learning Outcomes - PLOs)
+Các chuẩn đầu ra (PLOs), mức độ năng lực và các chỉ báo (PIs) của chương trình đào tạo thạc sĩ ngành Quản lý Khoa học và Công nghệ của Học viện Công nghệ Bưu chính Viễn thông là thước đo mức kiến thức, kỹ năng và thái độ tối thiểu mà người học đạt được khi tốt nghiệp. Cụ thể như dưới đây:
+Chuẩn đầu ra (PLOs)
+Mức độnăng lực
+Các chỉ báo (PIs)
+PLO1. Phân tích được các vấn đề phức tạp liên quan đến quản lý công nghệ, đổi mới sáng tạo, R&D và chuyển đổi số của doanh nghiệp trên cơ sở vận dụng kiến thức liên ngành về kinh tế - quản lý, quản lý công nghệ và đổi mới sáng tạo trong bối cảnh kinh tế số và hội nhập quốc tế.
+C4/P3
+PI1.1. Phân tích được hiện trạng công nghệ, năng lực công nghệ, hoạt động R&D và đổi mới sáng tạo của tổ chức/doanh nghiệp trên cơ sở tích hợp kiến thức về kinh tế - quản lý, quản lý công nghệ và chuyển đổi số.
+PI1.2. Phân tích được các yếu tố bên trong và bên ngoài ảnh hưởng đến chiến lược công nghệ, hoạt động R&D, đổi mới sáng tạo và chuyển đổi số của tổ chức/doanh nghiệp trong bối cảnh kinh tế số và hội nhập quốc tế.
+PLO2. Lựa chọn được các công cụ, phương pháp và mô hình phù hợp để quản trị công nghệ, quản lý tài sản trí tuệ, chuyển giao và thương mại hóa công nghệ nhằm nâng cao năng lực đổi mới sáng tạo và hiệu quả hoạt động của tổ chức/doanh nghiệp.
+C5/P4
+PI2.1. Đánh giá được hiện trạng công nghệ, nhu cầu đổi mới công nghệ, tài sản trí tuệ của tổ chức/doanh nghiệp làm cơ sở cho việc lựa chọn phương án quản lý công nghệ phù hợp.
+PI2.2. Lựa chọn được các công cụ, phương pháp và mô hình quản trị công nghệ, quản lý tài sản trí tuệ, chuyển giao và thương mại hóa công nghệ phù hợp với mục tiêu phát triển và điều kiện thực tiễn của tổ chức/doanh nghiệp.
+PLO3. Lập kế hoạch, tổ chức thực hiện và đánh giá được chiến lược công nghệ, chương trình/hoạt động R&D, đổi mới sáng tạo và dự án công nghệ nhằm nâng cao năng lực công nghệ và hiệu quả hoạt động của tổ chức/doanh nghiệp.
+C5/P3
+PI3.1. Lập kế hoạch chiến lược công nghệ, chương trình đổi mới sáng tạo, hoạt động R&D hoặc dự án công nghệ phù hợp với mục tiêu phát triển của tổ chức/doanh nghiệp.
+PI3.2. Xây dựng được phương án tổ chức và điều phối được nguồn lực để triển khai các hoạt động R&D, đổi mới sáng tạo và dự án công nghệ đáp ứng yêu cầu phát triển của tổ chức/doanh nghiệp.
+PI3.3. Đánh giá được hiệu quả thực hiện chiến lược công nghệ, hoạt động R&D, chương trình đổi mới sáng tạo và dự án công nghệ trên cơ sở các tiêu chí về công nghệ, tài chính, thị trường và tác động đối với tổ chức/doanh nghiệp.
+PLO4. Đề xuất được giải pháp, sáng kiến quản lý công nghệ, đổi mới sáng tạo và chuyển đổi số nhằm giải quyết các vấn đề thực tiễn và nâng cao năng lực cạnh tranh của tổ chức/doanh nghiệp.
+C5/P4
+PI4.1 Đề xuất được các giải pháp, sáng kiến quản lý công nghệ, đổi mới sáng tạo hoặc chuyển đổi số nhằm giải quyết các vấn đề thực tiễn của tổ chức/doanh nghiệp.
+PI4.2. Đánh giá được tính khả thi, hiệu quả và giá trị tạo ra của các giải pháp, sáng kiến quản lý công nghệ, đổi mới sáng tạo và chuyển đổi số trên các khía cạnh công nghệ, tài chính, thị trường và tổ chức.
+PLO5. Làm việc hiệu quả với các bên liên quan trong các hoạt động quản lý công nghệ, đổi mới sáng tạo và chuyển đổi số; ra quyết định trên cơ sở đạo đức nghề nghiệp, trách nhiệm xã hội và định hướng phát triển bền vững của tổ chức/doanh nghiệp.
+P4/A3
+PI5.1. Giao tiếp và phối hợp hiệu quả với các bên liên quan trong việc triển khai các hoạt động công nghệ, R&D, đổi mới sáng tạo và chuyển đổi số của tổ chức/doanh nghiệp.
+PI5.2. Ra quyết định trên cơ sở đạo đức nghề nghiệp, trách nhiệm xã hội và các nguyên tắc phát triển bền vững trong quản lý công nghệ và đổi mới sáng tạo của tổ chức/doanh nghiệp.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu thang cấp độ tư duy Bloom)
+4. MA TRẬN CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI MỤC TIÊU ĐÀO TẠO
+TT
+             Mục tiêu
+CĐR
+PO1
+PO2
+PO3
+PO4
+1
+PLO1
+X
+
+X
+
+2
+PLO2
+X
+X
+
+
+3
+PLO3
+X
+X
+
+X
+4
+PLO4
+X
+
+X
+
+5
+PLO5
+
+X
+
+X
+

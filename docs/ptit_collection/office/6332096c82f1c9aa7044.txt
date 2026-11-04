@@ -1,0 +1,110 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ 
+NGÀNH KỸ THUẬT ĐIỆN TỬ
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+- Tên ngành (tiếng Việt): Kỹ thuật Điện tử
+- Tên ngành (tiếng Anh): Electronic Engineering
+- Tên chương trình (tiếng Việt):Kỹ thuật Điện tử
+- Tên chương trình (tiếng Anh): Electronic Engineering
+- Trình độ đào tạo: Thạc sĩ
+- Mã CTĐT: 8.52.02.03
+- Thời gian đào tạo: 1,5 - 2 năm
+- Hình thức đào tạo: Chính quy
+2. MỤC TIÊU ĐÀO TẠO (Program Objective – POs)
+2.1. Mục tiêu chung
+Chương trình đào tạo trình độ Thạc sĩ ngành Kỹ thuật điện tử của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo nguồn nhân lực chất lượng cao, có kiến thức chuyên sâu, tư duy hệ thống, năng lực nghiên cứu, đổi mới sáng tạo và phát triển công nghệ trong lĩnh vực kỹ thuật điện tử; có khả năng giải quyết các vấn đề kỹ thuật phức tạp trong môi trường nghiên cứu, doanh nghiệp và hội nhập quốc tế; có phẩm chất đạo đức nghề nghiệp, trách nhiệm xã hội và năng lực học tập suốt đời.
+Chương trình được thiết kế theo hai định hướng đào tạo tách biệt, gồm:
+Định hướng nghiên cứu (Research-oriented track): tập trung phát triển năng lực nghiên cứu độc lập, tư duy học thuật, phân tích và giải quyết các vấn đề kỹ thuật chuyên sâu; phát triển công nghệ mới và thực hiện công bố khoa học theo quy định của Học viện trong lĩnh vực kỹ thuật điện tử.
+Định hướng ứng dụng (Application-oriented track): tập trung phát triển năng lực thiết kế, triển khai, tối ưu và quản lý các hệ thống điện tử tiên tiến; giải quyết các bài toán thực tiễn trong doanh nghiệp, cơ sở nghiên cứu và công nghiệp công nghệ cao thông qua hoạt động thực tập doanh nghiệp và đề án ứng dụng.
+2.2. Mục tiêu cụ thể (Program Objectives - POs) 
+2.2.1. Mục tiêu đào tạo
+PO1. Phát triển chuyên môn nghề nghiệp ở trình độ cao
+Vận dụng kiến thức chuyên sâu, liên ngành và công nghệ tiên tiến trong lĩnh vực kỹ thuật điện tử để thiết kế, phát triển, tích hợp, vận hành, tối ưu hoặc quản lý các hệ thống điện tử hiện đại, đáp ứng yêu cầu của doanh nghiệp, cơ sở nghiên cứu và cơ sở đào tạo.
+PO2. Phát triển năng lực nghiên cứu, đổi mới sáng tạo và giải quyết vấn đề kỹ thuật phức tạp
+Nghiên cứu độc lập, phân tích và giải quyết các vấn đề kỹ thuật phức tạp; đề xuất các giải pháp công nghệ mới; tham gia hoặc chủ trì các hoạt động nghiên cứu – phát triển (R&D), phát triển sản phẩm hoặc công bố kết quả nghiên cứu trong lĩnh vực kỹ thuật điện tử.
+PO3. Phát triển năng lực lãnh đạo kỹ thuật, hợp tác chuyên môn và thích ứng nghề nghiệp
+Làm việc hiệu quả trong môi trường chuyên nghiệp, đa ngành và quốc tế; có năng lực tổ chức, quản lý nhóm kỹ thuật hoặc dự án công nghệ; thích ứng với sự thay đổi nhanh của khoa học – công nghệ và nhu cầu của thị trường lao động.
+PO4. Phát triển phẩm chất nghề nghiệp, trách nhiệm xã hội và học tập suốt đời
+Tuân thủ đạo đức nghề nghiệp và chuẩn mực chuyên môn; có trách nhiệm xã hội; có năng lực tự học, tự nghiên cứu và tiếp tục phát triển chuyên môn ở trình độ cao hơn.
+2.2.2. Vị trí làm việc sau tốt nghiệp
+a) Đối với định hướng nghiên cứu
+Nghiên cứu viên, chuyên gia R&D trong lĩnh vực điện tử, vi mạch, bán dẫn, hệ thống nhúng, IoT và công nghệ cao;
+Cán bộ giảng dạy, nghiên cứu tại các trường đại học, viện nghiên cứu;
+Chuyên gia phát triển công nghệ hoặc tiếp tục học tập ở trình độ Tiến sĩ.
+b) Đối với định hướng ứng dụng
+Chuyên gia thiết kế, tích hợp, vận hành và tối ưu hệ thống điện tử, vi mạch, hệ thống nhúng, IoT và hệ thống thông minh;
+Chuyên gia kỹ thuật, quản lý kỹ thuật hoặc quản lý dự án công nghệ tại doanh nghiệp;
+Chuyên gia phát triển sản phẩm, chuyển giao công nghệ hoặc khởi nghiệp công nghệ.
+3. CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO (LOs)
+Các chuẩn đầu ra (Learning Outcomes – LOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các LO và PI kèm theo được thiết kế theo chuẩn kiểm định quốc tế, với mức kiến thức và kỹ năng tương đương bậc 7 trong Khung trình độ quốc gia Việt Nam. Cụ thể, các LO và PI của chương trình đào tạo cho như bảng sau:=
+Chuẩn đầu ra (LOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+LO1. Phân tích và giải quyết vấn đề kỹ thuật phức tạp trong lĩnh vực điện, điện tử bằng cách áp dụng các nguyên lý toán học, vật lý, khoa học và kỹ thuật.
+C4
+PI1.1. Phân tích vấn đề kỹ thuật phức tạp trong lĩnh vực điện, điện tử và xác định các tham số chính cần giải quyết. 
+PI1.2. Áp dụng các nguyên lý toán học, vật lý, khoa học và kỹ thuật để giải quyết vấn đề. 
+PI1.3. Đánh giá tính hợp lý của kết quả và lựa chọn phương án giải quyết phù hợp.
+LO2. Thiết kế hệ thống điện, điện tử đáp ứng một tập hợp các yêu cầu nhất định một cách hoàn chỉnh trong các ràng buộc kỹ thuật, kinh tế và môi trường.
+C6, P4
+PI2.1. Sử dụng thành thạo các công cụ kỹ thuật chuyên ngành trong lĩnh vực điện, điện tử, vi mạch bán dẫn phục vụ thiết kế. 
+PI2.2. Đánh giá các giải pháp thiết kế khả thi dựa trên các ràng buộc kỹ thuật, kinh tế và môi trường. 
+PI2.3. Thiết kế được hệ thống hoặc nguyên mẫu có hiệu suất và tham số đáp ứng các yêu cầu đặt ra.
+LO3. Đánh giá các hệ thống, thiết bị điện, điện tử, vi mạch bán dẫn; xây dựng thí nghiệm, thu thập và phân tích dữ liệu bằng các công cụ chuyên dụng để xác định giải pháp cho các vấn đề kỹ thuật liên quan.
+C5, P4
+PI3.1. Phân tích, giải thích được đặc điểm kỹ thuật và hiệu quả hoạt động của các hệ thống, thiết bị điện, điện tử, vi mạch bán dẫn. 
+PI3.2. Xây dựng kế hoạch thí nghiệm, sử dụng thành thạo các công cụ chuyên dụng để thu thập dữ liệu phục vụ đánh giá. 
+PI3.3. Phân tích kết quả thí nghiệm hoặc dữ liệu kỹ thuật để đưa ra kết luận chính xác và lựa chọn giải pháp khả thi.
+LO4. Trao đổi thông tin chính xác, hiệu quả và làm việc hiệu quả trong các nhóm đa ngành, biết cách hợp tác, tổ chức và điều phối để hoàn thành các dự án kỹ thuật phức tạp.
+P4, A4
+PI4.1. Xây dựng, trình bày và truyền đạt hiệu quả các tài liệu kỹ thuật và phi kỹ thuật phù hợp với đối tượng và ngữ cảnh. 
+PI4.2. Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng công nghệ số và ngoại ngữ. 
+PI4.3. Phối hợp, phân công, lập kế hoạch và điều phối công việc nhóm hiệu quả để hoàn thành nhiệm vụ chuyên môn.
+LO5. Nhận biết trách nhiệm và đạo đức nghề nghiệp thông qua việc phân tích tác động của các giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội để bảo đảm tính bền vững.
+C4, A3
+PI5.1. Nhận diện và tuân thủ các yêu cầu về đạo đức nghề nghiệp, pháp luật và trách nhiệm xã hội trong hoạt động chuyên môn. 
+PI5.2. Phân tích tác động của các giải pháp kỹ thuật đến xã hội, kinh tế, môi trường và tính bền vững. 
+PI5.3. Đề xuất hoặc lựa chọn cách tiếp cận chuyên môn phù hợp với yêu cầu phát triển bền vững trong bối cảnh toàn cầu.
+(C: miền kiến thức; P: miền kỹ năng, A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+4. MA TRẬN CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI MỤC TIÊU ĐÀO TẠO
+
+TT
+             Mục tiêu (PO)
+CĐR
+PO1
+PO2
+PO3
+PO4
+1
+LO1
+X
+X
+
+
+2
+LO2
+X
+X
+X
+
+3
+LO3
+X
+X
+
+
+4
+LO4
+
+
+X
+X
+5
+LO5
+
+
+
+X
+
+

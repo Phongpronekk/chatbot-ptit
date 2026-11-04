@@ -1,0 +1,116 @@
+{
+  "id": 32821,
+  "date": "2025-07-24T03:11:34",
+  "date_gmt": "2025-07-23T20:11:34",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32821"
+  },
+  "modified": "2025-09-08T03:14:51",
+  "modified_gmt": "2025-09-07T20:14:51",
+  "slug": "thay-doi-hoc-phan-hoc-ky-1-nam-hoc-2025-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/thay-doi-hoc-phan-hoc-ky-1-nam-hoc-2025-2026/",
+  "title": {
+    "rendered": "Thay đổi học phần học kỳ 1  năm học 2025-2026"
+  },
+  "content": {
+    "rendered": "<p><strong><em><u>Kính gửi:</u></em></strong><strong>     &#8211; Các lớp Sinh viên chuyên ngành Hệ thống thông tin – Ngành Công nghệ       </strong></p>\n<p><strong>                       thông tin hệ Chất lượng cao khoá 2022</strong></p>\n<p><strong>      &#8211; C</strong><strong>ác lớp Sinh viên ngành Điều khiển &amp; Tự động hoá khoá 2023</strong></p>\n<p><strong> </strong></p>\n<p>Theo đề nghị của các Khoa chuyên môn, Phòng Giáo vụ thông báo việc điều chỉnh môn học của các lớp sinh viên trên trong học kỳ 1 năm học 2025-2026 cụ thể như sau:</p>\n<ol>\n<li><strong>Nội dung hiệu chỉnh</strong><strong>:</strong></li>\n</ol>\n<p><strong>&#8211; Các lớp chuyên ngành HTTT &#8211; ngành CNTT chất lượng cao khoá 2022 (E22HTTT):</strong> Bổ sung thêm học phần INT1409_CLC – Chuyên đề Hệ thống thông tin (1 tín chỉ)</p>\n<p><strong>&#8211; Các lớp ngành Điều khiển và tự động hoá khoá 2023 (D23DK):</strong></p>\n<p>* Huỷ học phần ELE1347 &#8211; Thực tập cơ sở (4 tín chỉ), sẽ bố trí học tại học kỳ 2 năm học 2025-2026.</p>\n<p>* Bổ sung 2 học phần ELE1349 – Hệ thống điều khiển phi tuyến (2 tín chỉ) và học phần ELE1456 – Mạng truyền thông công nghiệp (2 tín chỉ)</p>\n<ol>\n<li><strong>Thực hiện</strong><strong>:</strong></li>\n</ol>\n<p><strong>Phòng Giáo vụ sẽ thực hiện việc điều chỉnh đăng ký cho các Sinh viên đã tham gia đăng ký học trong học kỳ 1 năm học 2025-2026</strong>: Đăng ký bổ sung học phần INT1409_CLC cho Sinh viên các lớp E22HTTT; Đăng ký bổ sung 2 học phần ELE1347, ELE1456 cũng như huỷ đăng ký học phần ELE1347 cho sinh viên các lớp D23DK.</p>\n<p>Đề nghị các sinh viên các lớp trên truy nhập hệ thống qldt để biết lịch học và thực hiện.</p>\n<p><strong>Trân trọng!</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Kính gửi:     &#8211; Các lớp Sinh viên chuyên ngành Hệ thống thông tin – Ngành Công nghệ                              thông tin hệ Chất lượng cao khoá 2022       &#8211; Các lớp Sinh viên ngành Điều khiển &amp; Tự động hoá khoá 2023   Theo đề nghị của các Khoa chuyên môn, Phòng Giáo vụ thông báo [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    4,
+    5,
+    6
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32821",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32821",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32821"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32821/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32821"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32821"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32821"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

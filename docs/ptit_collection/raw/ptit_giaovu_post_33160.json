@@ -1,0 +1,120 @@
+{
+  "id": 33160,
+  "date": "2026-01-14T11:16:19",
+  "date_gmt": "2026-01-14T04:16:19",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=33160"
+  },
+  "modified": "2026-01-14T11:16:19",
+  "modified_gmt": "2026-01-14T04:16:19",
+  "slug": "thong-bao-nop-bo-sung-ho-so-con-thieu-cua-sinh-vien-chuan-bi-tot-nghiep-he-chinh-quy-dai-hoc-khoa-2021-cac-nganh-kinh-te-va-ky-thuat",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/thong-bao-nop-bo-sung-ho-so-con-thieu-cua-sinh-vien-chuan-bi-tot-nghiep-he-chinh-quy-dai-hoc-khoa-2021-cac-nganh-kinh-te-va-ky-thuat/",
+  "title": {
+    "rendered": "Thông báo: Nộp bổ sung hồ sơ còn thiếu của sinh viên chuẩn bị tốt nghiệp hệ chính quy Đại học khóa 2021 các ngành kinh tế  và kỹ thuật"
+  },
+  "content": {
+    "rendered": "<p>Thực hiện quy định trong công tác quản lý, cấp phát văn bằng tốt nghiệp của Bộ Giáo dục &amp; Đào tạo và của Học viện. Căn cứ kế hoạch tốt nghiệp của các lớp Đại học chính quy khóa 2021 các ngành kỹ thuật và kinh tế, phòng Giáo vụ đã tiến hành xử lý, kiểm tra, rà soát thông tin cá nhân của sinh viên các lớp phục vụ việc xét, in, cấp phát văn bằng tốt nghiệp<em>. </em>Tuy nhiên<em>, </em>vẫn còn một số sinh viên chưa nộp đủ. Phòng Giáo vụ yêu cầu những sinh viên có tên trong danh sách thiếu hồ sơ (<em>file danh sách kèm theo</em>):</p>\n<p><strong>Nộp bổ sung giấy tờ còn thiếu (Bản sao văn bằng tốt nghiệp THPT, Giấy khai sinh)</strong></p>\n<p>Nộp về Phòng Giáo vụ (tại bộ phận một cửa) hoặc chuyển phát nhanh cho cô <em>Đỗ Thúy Hằng – Phòng Giáo vụ &#8211; Học viện Công nghệ Bưu chính Viễn Thông. Số 96A Trần Phú – Hà Đông – Hà Nội</em> trước ngày <strong><u>26/01/2026</u></strong>.</p>\n<p>Phòng Giáo vụ thông báo và yêu cầu sinh viên các lớp trên nghiêm túc thực hiện. Thông tin chi tiết đề nghị liên hệ Cô Đỗ Thúy  Hằng – Phòng Giáo vụ (Email: hangdt@ptit.edu.vn).</p>\n<p><strong>Trân trọng!</strong></p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/01/Tham-dinh-D21.xlsx\">DSSV thiếu hồ sơ</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thực hiện quy định trong công tác quản lý, cấp phát văn bằng tốt nghiệp của Bộ Giáo dục &amp; Đào tạo và của Học viện. Căn cứ kế hoạch tốt nghiệp của các lớp Đại học chính quy khóa 2021 các ngành kỹ thuật và kinh tế, phòng Giáo vụ đã tiến hành xử [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19,
+    4,
+    5,
+    6,
+    11
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33160",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-ke-hoach-xet-tot-nghiep-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi",
+    "category-thuc-tap-tot-nghiep"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33160",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=33160"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/33160/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=33160"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=33160"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=33160"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

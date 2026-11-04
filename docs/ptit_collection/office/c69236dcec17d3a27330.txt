@@ -1,0 +1,2373 @@
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+HỌC VIỆN CÔNG NGHỆ 
+BƯU CHÍNH VIỄN THÔNG
+4942511526800
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+7943851650900
+CHƯƠNG TRÌNH ĐÀO TẠO
+Tên chương trình (tiếng Việt): An toàn thông tin
+Tên chương trình (tiếng Anh):Information Security
+Ngành đào tạo (tiếng Việt): An toàn thông tin
+Ngành đào tạo (tiếng Anh): Information Security
+Trình độ đào tạo:   Thạc sĩ (Thạc sĩ tích hợp)
+Mã ngành:8480202
+Hình thức đào tạo:Chính quy
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+
+MỤC TIÊU  
+1.1. Mục tiêu chung 
+Chương trình đào tạo thạc sĩ tài năng ngành An toàn thông tin của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo người học có phẩm chất chính trị, đạo đức, sức khỏe; có kiến thức, kỹ năng thực hành nghề nghiệp; có năng lực học thuật vượt trội, khả năng nghiên cứu khoa học, tư duy sáng tạo; có tiềm năng trở thành chuyên gia, nhà nghiên cứu, đổi mới công nghệ trong lĩnh vực an toàn thông tin, công nghệ thông tin; có năng lực hội nhập quốc tế và tin thần học tập suốt đời; có khả năng thích nghi với môi trường làm việc đa ngành; có ý thức trách nhiệm nghề nghiệp, đáp ứng yêu cầu phát triển kinh tế, xã hội.
+Chương trình đào tạo thạc sĩ tài năng ngành An toàn thông tin nhằm cụ thể hóa tiêu chuẩn chung cho người tốt nghiệp trình độ đại học và thạc sĩ của Học viện đó là:
+ULO1 Tri thức – Sáng tạo – Khởi nghiệp (Subject Expertise – Innovation - Entrepreneurship):  Khả năng xác định, phân tích và giải quyết vấn đề trong lĩnh vực chuyên môn một cách hiệu quả trong bối cảnh nhất định bằng cách áp dụng các kiến thức và nguyên tắc liên quan, hướng tiếp cận đổi mới sáng tạo và các công nghệ tiên tiến có thể có, đồng thời xem xét các mục tiêu phát triển bền vững và cơ hội khởi nghiệp. 
+ULO2 Đạo đức – Trách nhiệm nghề nghiệp (Professional ethics - Reponsibilities): Khả năng vận dụng các nguyên tắc đạo đức và trách nhiệm nghề nghiệp trong thực hành nghề nghiệp, cũng như cân nhắc các yếu tố có ảnh hưởng ở cấp độ địa phương và toàn cầu. 
+ULO3  Giao tiếp – Hợp tác – Quản lý (Communication – Collaboration - Management): Khả năng giao tiếp và thực hiện công việc nhóm một cách hiệu quả nhằm đặt được các mục tiêu nghề nghiệp, cũng như quản lý các hoạt động chuyên môn dựa trên tư duy khởi nghiệp. 
+1.2 Mục tiêu cụ thể  
+Mục tiêu cụ thể của chương trình đào tạo thạc sĩ tài năng ngành An toàn thông tin của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo thạc sĩ An toàn thông tin có: 
+PO1.  Khả năng áp dụng kiến thức và kỹ năng của mình để đạt được thành công trong sự nghiệp và/hoặc theo học tập ở bậc sau đại học để lấy bằng tiến sĩ, hoặc các bằng cấp khác cao hơn;
+PO2. Khả năng tư duy, giải quyết vấn đề một cách sáng tạo, giao tiếp hiệu quả và hoạt động thành công trong các nhóm đa ngành đa dạng và toàn diện;
+PO3. Khả năng cư xử có đạo đức và trách nhiệm, sẽ luôn được cập nhật thông tin thông qua giáo dục liên tục và sẽ tham gia đầy đủ vào các hoạt động nghề nghiệp và xã hội; 
+PO4. Khả năng phát triển và áp dụng các lý thuyết và kỹ thuật, công nghệ bảo mật hiện đại và phù hợp để bảo vệ hạ tầng máy tính, mạng, dữ liệu, quy trình và người dùng khỏi các nguy cơ, tấn công và xâm nhập.
+CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (PLOs)
+Các chuẩn đầu ra (Learning Outcomes – PLOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các PLO và PI kèm theo được thiết kế theo chuẩn quốc tế, với mức mức kiến thức và kỹ năng tương đương bậc 7 trong Khung trình độ quốc gia Việt Nam. Cụ thể, các PLO và PI của chương trình đào tạo cho như bảng sau:
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1. Phân tích một bài toán phức tạp và áp dụng các kiến thức tính toán liên ngành để xác định các giải pháp giải quyết bài toán.
+C4/P3
+PI1.1. Phát biểu bài toán và các yêu cầu.
+PI1.2. Phân tích các giải pháp tính toán để giải quyết bài toán.
+PI1.3. Lựa chọn giải pháp phù hợp dựa trên các nguyên lý tính toán để giải quyết bài toán.
+PLO2. Giao tiếp hiệu quả và phù hợp trong nhiều bối cảnh khoa học và chuyên môn.
+C4/P3
+PI2.1. Thể hiện kỹ năng giao tiếp hiệu quả và phù hợp bằng văn bản trong nhiều bối cảnh khoa học và chuyên môn.
+PI2.2. Trình bày các vấn đề một cách hiệu quả và phù hợp sử dụng bài thuyết trình miệng trong nhiều bối cảnh bối cảnh khoa học và chuyên môn.
+PLO3. Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động bảo mật dựa trên các nguyên tắc pháp lý và đạo đức.
+C4/
+P3/A3
+PI3.1. Áp dụng chính xác các nguyên tắc pháp lý và đạo đức nghề nghiệp khi giải quyết các vấn đề có liên quan đến nghề nghiệp.
+PI3.2.Thể hiện đầy đủ nhận thức về tầm quan trọng của sự riêng tư và bảo mật trong quản lý dữ liệu.
+PLO4. Hoạt động hiệu quả với tư cách là thành viên hoặc lãnh đạo một nhóm tham gia vào các hoạt động phù hợp với chuyên môn.
+P3/A3
+PI4.1. Chủ động phối hợp, chia sẻ công việc trong một nhóm chuyên môn.
+PI4.2. Hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm chuyên môn.
+PLO5. Áp dụng các kỹ thuật, công nghệ và công cụ bảo mật để duy trì hoạt động của hệ thống khi xuất hiện các rủi ro và mối đe dọa an toàn thông tin.
+C4/P3
+PI5.1. Nhận dạng đầy đủ các rủi ro và các mối đe dọa bảo mật đối với hoạt động của hệ thống.
+PI5.2. Lựa chọn kỹ thuật, công nghệ và công cụ bảo mật phù hợp để khắc chế, và/hoặc giảm thiểu rủi ro và mối đe dọa đối với hệ thống.
+PI5.3. Triển khai kỹ thuật, công nghệ và công cụ đã lựa chọn khắc chế và/hoặc giảm thiểu rủi ro và mối đe dọa để duy trì hoạt động của hệ thống.
+PLO6. Thiết kế, triển khai và đánh giá mô hình/giải pháp/công cụ bảo mật cho hệ thống đáp ứng một tập hợp các yêu cầu xác định.
+C6/P4
+PI6.1. Đề xuất, thiết kế mô hình/giải pháp/công cụ bảo mật hệ thống theo một tập các yêu cầu xác định.
+PI6.2. Triển khai mô hình/giải pháp/công cụ bảo mật đã thiết kế.
+PI6.3. Đánh giá mô hình/giải pháp/công cụ bảo mật đã triển khai.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+KHỐI LƯỢNG KIẾN THỨC TOÀN KHÓA: 180 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+ĐỐI TƯỢNG TUYỂN SINH VÀ YÊU CẦU ĐẦU VÀO: 
+4.1 Đối tượng tuyển sinh là học sinh trung học phổ thông (THPT)
+Đối tượng dự tuyển đáp ứng quy định của Quy chế tuyển sinh trình độ đại học do Bộ Giáo dục & Đào tạo và Học viện ban hành và các yêu cầu sau đây:
+a) Xét tuyển thẳng với đối tượng sau: người học đã tốt nghiệp THPT hoặc trình độ tương đương, đồng thời đoạt giải Nhất, Nhì hoặc Ba trong kỳ thi học sinh giỏi quốc gia hoặc kỳ thi Olympic quốc tế các môn Toán, Vật lý, Hóa học, Tin học; thời điểm không quá 03 năm tính đến thời điểm xét tuyển thẳng;
+b) Đối với phương thức xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT, thí sinh phải đáp ứng các yêu cầu sau:
+- Thí sinh có tham dự kỳ thi tốt nghiệp THPT với một trong các tổ hợp môn xét tuyển là Toán, Lý, Hóa (A00); hoặc Toán, Lý, Anh (A01) hoặc Toán, Lý, Tin (X06) hoặc Toán, Tin, Anh (X26); 
+- Có tổng điểm xét tuyển nằm trong top 20% điểm xét tuyển cao nhất toàn quốc trong cùng tổ hợp;
+- Các yêu cầu khác theo Đề án tuyển sinh đại học chính quy hằng năm của Học viện.
+4.2 Đối tượng chuyển tiếp: là sinh viên đang học hoặc đã tốt nghiệp đại học chính quy ngành An toàn thông tin của Học viện Công nghệ Bưu chính Viễn thông và đáp ứng các yêu cầu sau:
+- Có điểm trung bình tích luỹ tính đến thời điểm đăng ký xét tuyển đạt 3,2 (theo thang điểm 4) hoặc tương đương trở lên.
+QUY TRÌNH ĐÀO TẠO, ĐIỀU KIỆN TỐT NGHIỆP
+5.1. Quy trình đào tạo
+Chương trình đào tạo được thực hiện trong 05 năm gồm 10 học kỳ, trong đó 9 học kỳ tích lũy kiến thức tại Học viện và 1 kỳ tốt nghiệp, bao gồm thực tập chuyên sâu tại cơ sở thực tập (phòng lab, tổ chức, doanh nghiệp) và làm luận văn hoặc đề án tốt nghiệp.
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+5.2. Điều kiện tốt nghiệp
+5.2.1. Các yêu cầu chung
+- Hoàn thành chương trình đào tạo với điểm học phần đạt từ 4,0 (theo thang điểm 10) trở lên đối với phần kiến thức trình độ đại học và đạt từ 5,5 (theo thang điểm 10) trở lên đối với phần kiến thức trình độ thạc sĩ trong thời gian quy định;
+- Bảo vệ thành công luận văn/đề án tốt nghiệp, đạt điểm từ 5,5/10 trở lên;
+- Có trình độ tiếng Anh đạt từ bậc 4 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương.
+5.2.2. Các yêu cầu theo thiên hướng tài năng
+Người học phải đạt được một trong các thiên hướng tài năng như sau:
+a) Thiên hướng tài năng về khoa học, cần đạt một trong các tiêu chí sau:
++) Tham gia các nhóm nghiên cứu thuộc lĩnh vực an toàn thông tin hoặc công nghệ thông tin và có công bố khoa học, trong đó là tác giả chính hoặc đồng tác giả của ít nhất một bài báo, hoặc báo cáo khoa học quốc tế uy tín (trong danh mục WoS/Scopus), có xác nhận về đóng góp chuyên môn.
++) Tham gia và hoàn thành các khoá học về phương pháp nghiên cứu, học thuật chuyên sâu và công cụ phân tích hiện đại, đồng thời có minh chứng về kết quả nghiên cứu thông qua báo cáo tại hội thảo có phản biện, sản phẩm nghiên cứu được ứng dụng – chuyển giao, hoặc được hội đồng chuyên môn đánh giá cao.
+b) Thiên hướng tài năng về công nghệ, cần đạt một trong các tiêu chí sau:
++) Tham gia các nhóm nghiên cứu phát triển sản phẩm, hoặc dự án nghiên cứu phát triển có tiềm năng ứng dụng thực tiễn hoặc thương mại hoá; là tác giả chính hoặc đồng tác giả của ít nhất một sáng chế hoặc giải pháp hữu ích đã được nộp đơn và chấp nhận hợp lệ.
++) Đóng vai trò chủ đạo trong việc triển khai và hiện thực hóa kết quả nghiên cứu, thông qua hoạt động chuyển giao công nghệ, ứng dụng tại doanh nghiệp, hoặc được ghi nhận tại các cuộc thi, hội thảo khoa học – công nghệ uy tín, đồng thời thể hiện năng lực đổi mới sáng tạo và khả năng thương mại hóa sản phẩm.
+c) Thiên hướng tài năng về kinh doanh, quản trị và lãnh đạo, cần đạt một trong các tiêu chí sau:
++) Tham gia và giữ vai trò nóng cốt trong các dự án thực tiễn như xây dựng kế hoạch kinh doanh, vận hành mô hình doanh nghiệp mô phỏng hoặc tư vấn chiến lược cho tổ chức; đồng thời chịu trách nhiệm chính hoặc đại diện trình bầy ít nhất một đề án kinh doanh xuất sắc tại các cuộc thi học thuật, khởi nghiệp hoặc đổi mới sáng tạo ở cấp quốc gia hoặc quốc tế.
++) Thể hiện tư duy quản trị chiến lược và năng lực quyết định trong môi trường phức tạp, thông qua việc xây dựng và triển khai các giải pháp sáng tạo, khả thi và thích ứng với bối cảnh thực tiễn; đồng thời chứng minh năng lực lãnh đạo và điều phối hiệu quả trong tập thể hoặc tổ chức.
+5.3 Kết thúc khóa học, sinh viên được công nhận tốt nghiệp và được cấp đồng thời 2 văn bằng là: Thạc sĩ ngành An toàn thông tin và Cử nhân ngành An toàn thông tin hệ chính quy khi đã hội tụ đủ các tiêu chuẩn theo quy chế đào tạo đại học, thạc sĩ theo học chế tín chỉ và các yêu cầu tốt nghiệp nêu trên.
+THANG ĐIỂM: Theo thang điểm tín chỉ
+6.1. Phần kiến thức trình độ đại học
+Điểm chữ (A, B, C, D, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các Học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+Không đạt
+Dưới 4,0
+F
+0,0
+Loại đạt không ghi mức (áp dụng cho các học phần đạt, không tính vào điểm trung bình học tập): Từ 5,0 điểm trở lên, điểm chữ là P
+6.2. Phần kiến thức trình độ thạc sĩ
+Thực hiện theo thang điểm tín chỉ, trong đó điểm chữ (A, B, C, F) và thang điểm 4 quy đổi tương ứng được sử dụng để đánh giá kết quả học tập chính thức. Thang điểm 10 được sử dụng để đánh giá điểm thành phần của các Học phần.
+Điểm đạt
+Thang điểm 10
+(điểm thành phần)
+Thang điểm 4
+
+
+Điểm chữ
+Điểm số
+
+Từ 9,0 đến 10,0
+A+
+4,0
+
+Từ 8,5 đến 8,9
+A
+3,7
+
+Từ 8,0 đến 8,4
+B+
+3,5
+
+Từ 7,0 đến 7,9
+B
+3,0
+
+Từ 6,5 đến 6,9
+C+
+2,5
+
+Từ 5,5 đến 6,4
+C
+2,0
+Không đạt
+Từ 5,0 đến 5,4
+D+
+1,5
+
+Từ 4,0 đến 4,9
+D
+1,0
+
+Dưới 4,0
+F
+0,0
+NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO
+7.1 Cấu trúc chương trình đào tạo
+STT
+Khối kiến thức
+Số tín chỉ
+A.
+Phần kiến thức trình độ đại học
+120
+1.
+Kiến thức giáo dục đại cương
+45
+1.1.
+Khối kiến thức chung
+27
+I.1.1.1
+Lý luận chính trị
+11
+I.1.1.2
+Tiếng Anh
+14
+I.1.1.3
+Tin học
+2
+1.2
+Khối kiến thức khoa học tự nhiên và xã hội
+18
+2.
+Kiến thức giáo dục chuyên nghiệp
+75
+2.1
+Khối kiến thức cơ sở
+43
+2.2
+Khối kiến thức chuyên ngành
+26
+2.3
+Thực tập tốt nghiệp
+6
+B.
+Phần kiến thức trình độ thạc sĩ
+60
+1.
+Khối kiến thức cơ sở ngành
+25
+2.
+Khối kiến thức chuyên ngành
+
+2.1
+Định hướng ứng dụng
+26
+2.2
+Định hướng nghiên cứu
+20
+3.
+Tốt nghiệp thạc sĩ
+
+3.1
+Định hướng ứng dụng (Đề án tốt nghiệp)
+9
+3.2
+Định hướng nghiên cứu (Luận văn tốt nghiệp)
+15
+Tổng cộng
+180
+7.2 Nội dung chương trình
+A. Phần kiến thức trình độ đại học
+7.2.1. Khối kiến thức chung
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+1
+Triết học Mác-Lênin
+BAS1150
+3
+x
+
+4
+
+2
+Kinh tế chính trị Mác- Lênin
+BAS1151
+2
+x
+
+5
+
+3
+Chủ nghĩa xã hội khoa học
+BAS1152
+2
+x
+
+6
+
+4
+Lịch sử Đảng cộng sản Việt Nam
+BAS1153
+2
+x
+
+8
+
+5
+Tư tưởng Hồ chí Minh
+BAS1122
+2
+x
+
+7
+
+6
+Tiếng Anh Course 1 (*)
+BAS1157
+4
+x
+
+2
+
+7
+Tiếng Anh Course 2
+BAS1158
+4
+x
+
+3
+BAS1157
+8
+Tiếng Anh Course 3
+BAS1159
+4
+x
+
+4
+BAS1158
+9
+Tiếng Anh Course 3 Plus
+BAS1160
+2
+x
+
+5
+BAS1159
+10
+Nhập môn Công nghệ số và Ứng dụng AI
+INT11205
+2
+x
+
+1
+
+
+Tổng:
+
+27
+
+
+
+
+
+Giáo dục thể chất và Giáo dục quốc phòng
+1
+Giáo dục thể chất 1
+BAS1106
+2
+x
+
+1
+
+2
+Giáo dục thể chất 2
+BAS1107 
+2
+x
+
+2
+
+3
+Giáo dục Quốc phòng
+BAS1105 
+7,5
+x
+
+1
+
+
+Kỹ năng mềm (3/7, tổng số TC: 3)
+1
+Kỹ năng thuyết trình
+SKD1101
+1
+
+x
+4,5,6
+
+2
+Kỹ năng làm việc nhóm
+SKD1102
+1
+
+x
+4,5,6
+
+3
+Kỹ năng tạo lập văn bản tiếng Việt
+SKD1103
+1
+
+x
+4,5,6
+
+4
+Kỹ năng lập kế hoạch và tổ chức thực hiện công việc 
+SKD1104
+1
+
+x
+4,5,6
+
+5
+Kỹ năng giao tiếp
+SKD1105
+1
+
+x
+4,5,6
+
+6
+Kỹ năng tư duy sáng tạo
+SKD1107
+1
+
+x
+4,5,6
+
+7
+Kỹ năng đổi mới sáng tạo
+SKD1111
+1
+
+x
+4,5,6
+
+(*) Điều kiện để đăng ký học phần tiếng Anh Course 1 trong chương trình là sinh viên phải đạt trình độ tiếng Anh từ 225 điểm theo bài thi TOEIC Placement Test trở lên; các sinh viên chưa đạt mức điểm trên sẽ phải hoàn thành học phần tiếng Anh bổ trợ Course 0 (mã BAS1156). Kế hoạch học tập Học phần tiếng Anh thực hiện theo chương trình chi tiết riêng.
+7.2.2. Kiến thức khoa học tự nhiên và xã hội
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+11
+Giải tích 1
+BAS1203
+3
+x
+
+1
+
+12
+Giải tích 2
+BAS1204
+3
+x
+
+2
+BAS1203 
+13
+Đại số
+BAS1201 
+3
+x
+
+1
+
+14
+Vật lý ứng dụng
+BAS1270
+4
+x
+
+1
+
+15
+Xác suất thống kê
+BAS1269
+3
+x
+
+3
+BAS1203 
+16
+Pháp luật và Sở hữu trí tuệ
+BSA12117
+2
+x
+
+4
+
+
+Tổng:
+
+18
+
+
+
+
+7.2.3 Khối kiến thức giáo dục chuyên nghiệp
+7.2.3.1. Kiến thức cơ sở
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+17
+Nhập môn lập trình và an toàn thông tin
+SEC1101
+3
+x
+
+1
+
+18
+Toán rời rạc 1
+INT1358
+3
+x
+
+2
+SEC1101
+19
+Cấu trúc dữ liệu và giải thuật
+INT1306
+3
+x
+
+3
+SEC1101
+20
+Cơ sở dữ liệu
+INT1313
+3
+x
+
+3
+SEC1101
+21
+Kiến trúc máy tính và hệ điều hành
+INT13204
+3
+x
+
+2
+INT11205
+22
+Python cho An toàn thông tin
+SEC1302
+3
+x
+
+3
+SEC1304
+23
+Hợp ngữ và dịch ngược
+SEC1303
+3
+x
+
+4
+INT13204
+24
+Mạng máy tính
+INT1336
+3
+x
+
+2
+INT11205
+25
+Nhập môn trí tuệ nhân tạo
+INT1341
+3
+x
+
+5
+SEC1302
+26
+Lập trình Web
+INT1434
+3
+x
+
+4
+SEC1101
+27
+Cơ sở an toàn thông tin
+SEC1304
+3
+x
+
+2
+SEC1101
+28
+Hệ điều hành Windows và Linux/Unix
+SEC1305
+3
+x
+
+3
+INT13204
+29
+Mật mã học cơ sở
+SEC1306
+3
+x
+
+4
+SEC1101
+30
+Thực tập cơ sở
+SEC1307
+4
+x
+
+5
+SEC1304
+
+Tổng:
+
+43 
+
+
+
+
+7.2.3.2. Kiến thức chuyên ngành
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+31
+Kiểm thử xâm nhập
+SEC1408
+3
+x
+
+6
+SEC1304
+32
+Quản lý và đánh giá an toàn thông tin
+SEC1410
+3
+x
+
+6
+SEC1304
+33
+An toàn ứng dụng web và cơ sở dữ liệu
+SEC1411
+3
+x
+
+5
+SEC1304
+34
+Phân tích mã độc
+SEC1414
+3
+x
+
+5
+SEC1303
+35
+Ứng dụng AI trong ATTT
+SEC1416
+3
+x
+
+6
+SEC1302
+36
+Giám sát an toàn mạng
+SEC1412
+3
+x
+
+6
+SEC1304
+37
+Nhập môn DevOps
+SEC1415
+3
+x
+
+6
+SEC1305
+
+Các học phần lựa chọn 1.1 (chọn 1/3 học phần, tổng số 2TC)
+38
+Phát triển phần mềm an toàn
+SEC1421
+2
+
+x
+5
+SEC1101
+39
+An toàn hệ điều hành
+SEC1422
+2
+
+x
+5
+SEC1304
+40
+Các kỹ thuật giấu tin
+SEC1423
+2
+
+x
+5
+SEC1306
+
+Các học phần lựa chọn 1.2 (chọn 1/3 học phần, tổng số 3TC)
+41
+An toàn mạng nâng cao
+SEC1413
+3
+
+x
+6
+SEC1304
+42
+Phân tích dữ liệu lớn cho ATTT
+SEC1417
+3
+
+x
+6
+SEC1302
+43
+Quản trị an toàn hệ thống
+SEC1429
+3
+
+x
+6
+SEC1305
+
+Tổng
+
+26
+
+
+
+
+
+Thực tập tốt nghiệp
+44
+Thực tập tốt nghiệp
+SEC1525
+6
+
+x
+10
+SEC1307
+
+Tổng phần kiến thức trình độ đại học 
+120
+
+
+
+
+B. Phần kiến thức trình độ thạc sĩ
+7.2.4. Kiến thức cơ sở
+7.2.4.1. Định hướng ứng dụng
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+45
+Phương pháp nghiên cứu khoa học
+SKD4112
+2
+x
+
+7
+
+46
+Công cụ toán cho công nghệ thông tin
+INT41218
+2
+x
+
+7
+
+47
+Công nghệ Blockchain
+SEC4344
+3
+x
+
+7
+SEC1306
+48
+An toàn điện toán đám mây
+SEC4345
+3
+x
+
+8
+SEC1304
+49
+An toàn IoT
+SEC4346
+3
+x
+
+8
+SEC1304
+
+Các học phần lựa chọn 2.1 (chọn 4/8 học phần, tổng số 12TC)
+52
+An toàn hệ thống thông tin
+SEC4342
+3
+
+x
+7-9
+SEC1304
+53
+Quản lý, pháp luật và chính sách ATTT
+SEC4343
+3
+
+x
+7-9
+SEC1304
+54
+Hạ tầng khoá công khai
+SEC4347
+3
+
+x
+7-9
+SEC1304
+55
+Các giao thức an toàn và bảo mật
+SEC4350
+3
+
+x
+7-9
+SEC1304
+56
+Ứng phó và xử lý sự cố bảo mật
+SEC4458
+3
+
+x
+7-9
+SEC1304
+57
+DevOps và DevSecOps
+SEC4349
+3
+
+x
+7-9
+SEC1304
+58
+Chuyên đề thạc sĩ 1
+SEC4351
+3
+
+x
+7-9
+
+59
+Chuyên đề thạc sĩ 2
+SEC4352
+3
+
+x
+7-9
+
+
+Tổng:
+
+25 
+
+
+
+
+7.2.4.2. Định hướng nghiên cứu
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+45
+Phương pháp nghiên cứu khoa học
+SKD4112
+2
+x
+
+7
+
+46
+Công cụ toán cho công nghệ thông tin
+INT41218
+2
+x
+
+7
+
+47
+Công nghệ Blockchain
+SEC4344
+3
+x
+
+7
+SEC1306
+48
+Chuyên đề thạc sĩ 1
+SEC4351
+3
+x
+
+8
+
+49
+Chuyên đề thạc sĩ 2
+SEC4352
+3
+x
+
+8
+
+
+Các học phần lựa chọn 2.1 (chọn 4/8 học phần, tổng số TC: 12)
+52
+An toàn điện toán đám mây
+SEC4345
+3
+
+x
+7-9
+SEC1304
+53
+An toàn cho IoT
+SEC4346
+3
+
+x
+7-9
+SEC1304
+54
+Hạ tầng khoá công khai
+SEC4347
+3
+
+x
+7-9
+SEC1304
+55
+Các giao thức an toàn và bảo mật
+SEC4350
+3
+
+x
+7-9
+SEC1304
+56
+Tấn công và phòng thủ mạng
+SEC4457
+3
+
+x
+7-9
+SEC1304
+57
+Ứng phó và xử lý sự cố bảo mật
+SEC4458
+3
+
+x
+7-9
+SEC1304
+58
+Các chủ đề hiện đại trong ATTT
+SEC4456
+3
+
+x
+7-9
+SEC1304
+59
+DevOps và DevSecOps
+SEC4349
+3
+
+x
+7-9
+SEC1304
+
+Tổng:
+
+25 
+
+
+
+
+7.2.5. Kiến thức chuyên ngành
+7.2.5.1. Định hướng ứng dụng
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+60
+Phân tích mã độc nâng cao
+SEC4453
+3
+x
+
+7
+SEC1414
+61
+Kiểm thử xâm nhập nâng cao
+SEC4454
+3
+x
+
+9
+SEC1408
+62
+Giám sát an toàn mạng nâng cao
+SEC4455
+3
+x
+
+8
+SEC1412
+63
+Các chủ đề hiện đại trong ATTT
+SEC4456
+3
+x
+
+9
+SEC1304
+64
+Điều tra số
+SEC4459
+3
+x
+
+7
+SEC1304
+65
+Tấn công và phòng thủ mạng
+SEC4457
+3
+x
+
+9
+SEC1304
+66
+Đảm bảo an toàn cho AI
+SEC4462
+2
+x
+
+9
+SEC1416
+67
+An toàn web nâng cao
+SEC4460
+2
+x
+
+9
+SEC1411
+
+Các học phần lựa chọn 2.2 (chọn 2/5 học phần, tổng số 4TC)
+68
+Hệ điều hành mạng
+INT44221
+2
+
+x
+8-9
+INT13204
+69
+Dữ liệu lớn
+INT44220
+2
+
+x
+8-9
+
+70
+An toàn cơ sở dữ liệu nâng cao
+SEC4461
+2
+
+x
+8-9
+SEC1411
+71
+Mật mã hậu lượng tử
+SEC4463
+2
+
+x
+8-9
+SEC1306
+72
+Quản trị mạng
+INT44219
+2
+
+x
+8-9
+SEC1304
+
+Tổng
+
+26
+
+
+
+
+7.2.5.2. Định hướng nghiên cứu
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc
+Tự chọn
+
+
+60
+Phân tích mã độc nâng cao
+SEC4453
+3
+x
+
+7
+SEC1414
+61
+Kiểm thử xâm nhập nâng cao
+SEC4454
+3
+x
+
+9
+SEC1408
+62
+Giám sát an toàn mạng nâng cao
+SEC4455
+3
+x
+
+8
+SEC1304
+63
+Điều tra số
+SEC4459
+3
+x
+
+7
+SEC1304
+64
+Chuyên đề thạc sĩ 3
+SEC4464
+3
+x
+
+9
+
+65
+Chuyên đề thạc sĩ 4
+SEC4465
+3
+x
+
+9
+
+
+Các học phần lựa chọn 2.2 (chọn 1/5 học phần, tổng số 2TC)
+65
+Đảm bảo an toàn cho AI
+SEC4462
+2
+
+x
+8-9
+SEC1416
+66
+An toàn web nâng cao
+SEC4460
+2
+
+x
+8-9
+SEC1411
+67
+An toàn cơ sở dữ liệu nâng cao
+SEC4461
+2
+
+x
+8-9
+SEC1411
+68
+Mật mã hậu lượng tử
+SEC4463
+2
+
+x
+8-9
+SEC1306
+69
+Quản trị mạng
+SEC44219
+2
+
+x
+8-9
+SEC1304
+
+Tổng
+
+20
+
+
+
+
+
+
+7.2.6. Tốt nghiệp
+TT
+Tên Học phần
+Mã số học phần
+Số tín chỉ
+Loại học  phần
+Học kỳ
+Mã số học phần tiên quyết
+
+
+
+
+Bắt buộc 
+Tự chọn
+
+
+70
+Đề án tốt nghiệp (định hướng ứng dụng)
+SEC4567
+9
+x
+
+10
+SKD4112
+71
+Luận văn tốt nghiệp (định hướng nghiên cứu)
+SEC4568
+15
+x
+
+10
+SKD4112
+
+Tổng phần kiến thức trình độ thạc sĩ 
+60
+
+
+
+
+
+TỔNG CỘNG
+180
+
+
+
+
+8. HƯỚNG DẪN TỔ CHỨC THỰC HIỆN CHƯƠNG TRÌNH
+8.1. Kế hoạch học tập chuẩn (Chi tiết kèm theo)
+8.2 Tiến trình học tập chuẩn (Chi tiết kèm theo)
+8.3. Danh sách các học phần tiên quyết, trước sau (Chi tiết kèm theo)
+8.4. Phương thức tổ chức đào tạo
+Trong danh mục các học phần của chương trình đào tạo, các học phần cốt lõi gồm các học phần cơ sở và chuyên ngành quan trọng được tổ chức dạy – học theo lớp riêng sử dụng phương pháp giảng dạy hiện đại, định hướng lấy người học làm trung tâm; một số học phần được giảng dạy song ngữ (tiếng Việt kết hợp tiếng Anh), tăng thời lượng tự học, thực hành, giao tiếp, hoạt động nhóm và sáng tạo.
+Ngoài các học phần chính thức trong chương trình đào tạo, sinh viên còn được tham gia các học phần tài năng, các học phần kỹ năng mềm, các chứng chỉ nghề nghiệp chuyên môn và các hoạt động ngoại khoá nhằm bổ sung và nâng cao kỹ năng chuyên môn cũng như kỹ năng. Chủ đề và số lượng các học phần này được xác định theo tình hình cập nhật xu hướng công nghệ, cũng như yêu cầu kiến thức – kỹ năng của thị trường lao động đối với người học tốt nghiệp.
+Chương trình đào tạo được tổ chức theo định hướng với các học phần cốt lõi và các học phần tài năng gắn với các LAB nghiên cứu dưới sự hướng dẫn của các giảng viên có trình độ chuyên môn cao. Cụ thể:
+Các học phần cốt lõi: Gồm các học phần cơ sở và chuyên ngành quan trọng được tổ chức dạy – học theo lớp riêng. Phương pháp giảng dạy được định hướng lấy người học làm trung tâm, áp dụng các phương pháp giảng dạy hiện đại như: Học tập dựa trên vấn đề, Học tập dựa trên dự án, Học tập dựa trên seminar chuyên đề, Học tập dựa trên nghiên cứu, có bổ sung các kiến thức chuyên sâu, một số học phần được giảng dạy song ngữ (tiếng Việt kết hợp tiếng Anh), tăng thời lượng tự học, thực hành, giao tiếp, hoạt động nhóm và sáng tạo. Phương pháp đánh giá theo năng lực người học, thực hiện liên tục trong suốt quá trình, đánh giá đa chiều, có phản biện học thuật, liên hệ với sản phẩm và môi trường thực tiễn. Danh mục các học phần cốt lõi như Phụ lục 1.1 kèm theo.
+Các học phần tài năng: Là các học phần đặc thù được thiết kế riêng trong khuôn khổ chương trình thạc sĩ tài năng nhằm nâng cao kiến thức, định hướng chuyên sâu, xây dựng nền tảng nghiên cứu và phát triển dự án, sản phẩm. Các học phần này được định hướng đến công nghệ an ninh mạng thông minh, đáp ứng nhu cầu nhân lực chất lượng cao cho thị trường ICT. Danh mục các học phần tài năng như Phụ lục 1.2 kèm theo.
+Các hoạt động ngoại khoá: Là hoạt động học thuật, kỹ năng hoặc giao lưu học hỏi được tổ chức ngoài khung thời khóa biểu chính khóa, tập trung vào các xu hướng công nghệ an ninh mạng thông minh và ứng dụng AI trong an ninh mạng, nhằm tăng cường kỹ năng toàn diện cho sinh viên của chương trình tài năng, tiếp cận công nghệ và kiến thức tiên tiến, môi trường làm việc và phát triển sau này. Danh mục các hoạt động ngoại khoá như Phụ lục 1.2 kèm theo.
+Các học phần kỹ năng mềm: Hỗ trợ bồi dưỡng năng lực khởi nghiệp trong lĩnh vực An toàn thông tin, tư duy đổi mới sáng tạo về công nghệ, kỹ năng lãnh đạo, giao tiếp chuyên nghiệp, và các kỹ năng mềm cần thiết khác. Các học phần này góp phần hình thành tư duy chiến lược và khả năng thích ứng trong môi trường liên ngành ICT. Danh mục các học phần kỹ năng mềm như Phụ lục 1.2 kèm theo.
+Các chứng chỉ chuyên môn nghề nghiệp: Gồm các chứng chỉ chuyên môn, nghiệp vụ do các cơ quan, tổ chức, doanh nghiệp có uy tín, hoạt động  trong lĩnh vực ATTT và CNTT ở trong nước và quốc tế cấp. Người học đạt được các chứng chỉ này có thể được xem xét quy đổi hoàn thành các học phần có nội dung tương đương. Danh mục các chứng chỉ chuyên môn, nghiệp vụ và bảng quy đổi tương được cho như Phụ lục 1.3 kèm theo.
+8.5. Phương pháp giảng dạy và kiểm tra đánh giá
+Phương pháp giảng dạy và kiểm tra đánh giá được thiết kế và cụ thể hoá trong đề cương chi tiết của từng học phần. Cụ thể, sau đây là phương pháp giảng dạy và kiểm tra đánh giá được thực hiện với các học phần cốt lõi:
+a. Các phương pháp giảng dạy
+- Học tập dựa trên vấn đề (Problem-based Learning): rèn luyện tư duy hệ thống, năng lực phân tích – tổng hợp – phản biện; phát triển kỹ năng làm việc nhóm và giao tiếp. 
+- Học tập dựa trên dự án (Project-based Learning): gắn kết lý thuyết – thực tiễn, phát triển năng lực giải quyết vấn đề thực tế , khởi nghiệp và sáng tạo.
+- Học tập dựa trên seminar chuyên đề (Seminar-based Learning): phát triển kỹ năng thuyết trình, tuy duy phản biện, năng lực lãnh đạo.
+- Học tập dựa trên nghiên cứu (Research-based Learning): chuyển vai trò của sinh viên từ người tiếp thu kiến thức thành người tạo ra tri thức mới.
+b. Các phương pháp đánh giá
+- Đánh giá dựa trên năng lực người học: chuyển trọng tâm từ đánh giá ghi nhớ kiến thức sang đánh giá năng lực phân tích, đánh giá và sáng tạo trong bối cảnh thực tiễn.
+- Tăng cường đánh giá quá trình học tập một cách thường xuyên, liên tục: khuyến khích nỗ lực học tập bền vững và phát triển năng lực tự học.
+- Đánh giá thông qua sản phẩm thực tế và năng lực tích hợp: đánh giá khả năng vận dụng, tổng hợp kiến thức, kỹ năng và phẩm chất của người học để giải quyết các vấn đề thực tiễn thông qua các sản phẩm thực tiễn thông qua các sản phẩm như: bài tập thiết kế, mô hình, báo cáo kỹ thuật, dự án liên ngành…
+- Đánh giá đa chiều, có phản biện học thuật: đánh giá các năng lực bậc cao, tuy duy phản biện, giao tiếp học thuật và khả năng điều chỉnh theo phản hồi.
+- Đánh giá trong môi trường thực tiễn: đánh giá toàn diện năng lực vận dụng kiến thức, khả năng thích ứng, làm việc nhóm, tự đánh giá và phát triển nghề nghiệp trong bối cảnh công việc thực tế tại doanh nghiệp, phòng thí nghiệm, hoặc cơ sở thực tập.
+9. MÔ TẢ TÓM TẮT CÁC HỌC PHẦN
+9.1. Các học phần của phần chương trình cử nhân
+9.1.1. Khối kiến thức chung
+Triết học Mác - Lênin
+- Mã học phần: BAS1150
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần được cấu trúc thành ba chương: Chương 1, trình bày những nét khái quát nhất về triết học, triết học Mác – Lênin, vai trò của triết học Mác – Lênin trong đời sống xã hội; Chương 2, trình bày những nội dung cơ bản của chủ nghĩa duy vật biện chứng, gồm vấn đề vật chất và ý thức, phép biện chứng duy vật, lý luận nhận thức của chủ nghĩa duy vật biện chứng; Chương 3, trình bày những nội dung cơ bản của chủ nghĩa duy vật lịch sử, gồm vấn đề hình thái kinh tế xã hội, giai cấp và dân tộc, nhà nước và cách mạng xã hội, triết học về con người. Với nội dung chính là nghiên cứu những quy luật vận động, phát triển chung nhất của tự nhiên, xã hội và tư duy, triết học Mác – Lê nin xây dựng thế giới quan và phương pháp luận chung nhất của nhận thức khoa học và thực tiễn cách mạng. Đây là điều kiện tiên quyết để nghiên cứu toàn bộ hệ thống lý luận của chủ nghĩa Mác-lênin, đồng thời là điều kiện tiên quyết để vận dụng nó một cách sáng tạo trong hoạt động nhận thức và hoạt động thực tiễn nhằm giải quyết những vấn đề mà đời sống xã hội của đất nước, của thời đại đang đặt ra.
+Kinh tế chính trị Mác - Lênin
+- Mã học phần: BAS1151
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần gồm 6 chương cung cấp cho người học những kiến thức về kinh tế chính trị Mác - Lênin trong bối cảnh phát triển kinh tế của đất nước và thế giới hiện nay như vấn đề về: đối tượng, phương pháp, chức năng của kinh tế chính trị Mác - Lênin, hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường, lý luận của C. Mác về giá trị thặng dư, tích lũy tư bản, các hình thức biểu hiện của giá trị thặng dư, cạnh tranh và độc quyền trong nền kinh tế thị trường, nền kinh tế thị trường định hướng xã hội chủ nghĩa và quan hệ lợi ích kinh tế ở Việt Nam, công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế của Việt Nam... Với yêu cầu cơ bản là đảm bảo tính hệ thống, khoa học cập nhật tri thức mới, gắn với thực tiễn.
+Chủ nghĩa xã hội khoa học
+- Mã học phần: BAS1152
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Ngoài chương 1 nhằm trình bày những vấn đề cơ bản có tính nhập môn về quá trình hình thành và phát triển của Chủ nghĩa xã hội khoa học và một số vấn đề chung của học phần, nội dung học phần được cấu trúc thành 6 chương: từ chương 2 đến chương 7 trình bày những nội dung cơ bản của Chủ nghĩa xã hội khoa học theo mục tiêu môn học, bao gồm những nội dung cơ bản về sứ mệnh lịch sử của giai cấp công nhân, về chủ nghĩa xã hội và con đường quá độ đi lên chủ nghĩa xã hội, về dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa, về cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội, về vấn đề dân tộc và tôn giáo trong thời kỳ quá độ đi lên chủ nghĩa xã hội, về vấn đề gia đình trong thời kỳ quá độ đi lên chủ nghĩa xã hội.
+Lịch sử Đảng cộng sản Việt Nam
+- Mã học phần: BAS1153
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần gồm 4 chương cung cấp cho người học những kiến thức về đối tượng, mục đích, nhiệm vụ, phương pháp nghiên cứu, học tập môn Lịch sử Đảng và những kiến thức cơ bản, cốt lõi, hệ thống về sự ra đời của Đảng (1920-1930), quá trình Đảng lãnh đạo cuộc đấu tranh giành chính quyền (1930-1940), lãnh đạo hai cuộc kháng chiến, hoàn thành giải phóng dân tộc, thống nhất đất nước (1945-1975), lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975-2018)... Qua đó khẳng định các thành công, nêu các hạn chế, tổng kết rút kinh nghiệm về sự lãnh đạo cách mạng của Đảng để giúp người học nâng cao nhận thức, niềm tin đối với Đảng và khả năng vận dụng kiến thức đã học vào thực tiễn công tác, góp phần xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
+Tư tưởng Hồ Chí Minh
+- Mã học phần: BAS1122
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Nội dung học phần được cấu trúc thành 6 chương, cung cấp cho sinh viên kiến thức cơ bản về khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh; về cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội; về Đảng Cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân; Tư tưởng Hồ Chí Minh về Đại đoàn kết toàn dân tộc và đoàn kết quốc tế; về văn hóa, đạo đức, con người.
+Tiếng Anh (Course 1)
+- Mã học phần: BAS1157
+- Số tín chỉ: 4
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 1) là chương trình học 4 kỹ năng kết hợp (đọc, nói, viết, nghe). Học phần cung cấp cho sinh viên những kiến thức cơ bản về:  Các hiện tượng ngữ pháp tiếng Anh dành cho người mới bắt đầu như động từ to be, thời hiện tại đơn, quá khứ đơn, quá khứ tiếp diễn, danh từ đếm được và không đếm được, tính từ và trạng từ đơn giản, các cấu trúc câu đơn,…; Những từ vựng được sử dụng trong các tình huống hàng ngày và để nói về các chủ đề quen thuộc của cuộc sống như mua sắm, sức khỏe, thể thao, ăn uống, gia đình, nơi ở, sở thích, kỳ nghỉ và du lịch ; Cách phát âm phụ âm, nguyên âm, từ và trọng âm từ, ngữ điệu câu trần thuật và câu hỏi. Các kỹ năng ngôn ngữ đọc, nghe, nói, viết với độ khó tương ứng Bậc 2 theo khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam (hay Bậc A2 theo khung tham chiếu Châu Âu).
+Tiếng Anh (Course 2)
+- Mã học phần: BAS1158
+- Số tín chỉ: 4
+- Học phần tiên quyết: BAS1157
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 2) được tiến hành theo mô hình học tập kết hợp: học tập trực tiếp kết hợp học tập trực tuyến.  Học phần này cung cấp cho sinh viên những kiến thức cơ bản về:  Các hiện tượng ngữ pháp tiếng Anh như quá khứ tiếp diễn, hiện tại hoàn thành, hiện tại hoàn thành tiếp diễn, các thì tương lai, sự hòa hợp giữa chủ ngữ và động từ, dạng của động từ, câu điều kiện, câu bị động, mệnh đề quan hệ. mệnh đề danh từ, mệnh đề tính ngữ, động từ khuyết thiếu; Những từ vựng được sử dụng trong các tình huống hàng ngày và thực hành hội thoại nói về các chủ đề quen thuộc của cuộc sống như ăn uống, đi mua sắm, du lịch, thời tiết, học tập, giáo dục, công việc, nghệ thuật và giải trí, các dịp đặc biệt, tiết kiệm năng lượng, ngân hàng, công nghệ thông tin… Các kỹ năng ngôn ngữ đọc, nghe, nói, viết với độ khó tương ứng Bậc 2 theo khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam, hay Bậc A2 theo khung tham chiếu Châu Âu). Luyện tập với các phần trong bài thi TOEIC quốc tế.
+Tiếng Anh (Course 3)
+- Mã học phần: BAS1159
+- Số tín chỉ: 4
+- Học phần tiên quyết: BAS1158
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 3) được tiến hành theo mô hình học tập kết hợp: học tập trực tiếp kết hợp học tập trực tuyến. Học phần này cung cấp cho sinh viên những kiến thức cơ bản về:  Các hiện tượng ngữ pháp tiếng Anh như hiện tại đơn, quá khứ đơn, hiện tại tiếp diễn, hiện tại hoàn thành, các mệnh đề tính từ và các trạng ngữ chỉ thời gian, nơi chốn cách viết câu mở đoạn và câu kết đoạn trong một đoạn văn và phát triển viết một đoạn văn hoàn chỉnh bao gồm câu chủ đề, các câu triển khai trong đoạn và câu kết đoạn; Những từ vựng được sử dụng trong các tình huống hàng ngày và thực hành hội thoại nói về các chủ đề quen thuộc của cuộc sống, các hoạt động cuối tuần, các loại phương tiện giao thông, làm thế nào để giữ sức khỏe, phim ảnh, du lịch... Các kỹ năng ngôn ngữ đọc, nghe, nói, viết với độ khó tương ứng Bậc 2 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, hay Bậc A2 theo khung tham chiếu Châu Âu; Cấu trúc của bài thi TOEIC quốc tế.
+Tiếng Anh (Course 3 Plus)
+- Mã học phần: BAS1160
+- Số tín chỉ: 2
+- Học phần tiên quyết: BAS1159
+- Tóm tắt nội dung: 
+Học phần Tiếng Anh (Course 3 Plus) được thực hiện theo định hướng luyện thi TOEIC. Học phần này được thiết kế với mục đích giúp sinh viên tạo được sự chuyển tiếp giữa việc nâng cao năng lực tiếng Anh với định hướng bài thi TOEIC. Các tài liệu bổ trợ trong học phần này được lựa chọn kỹ lưỡng, tạo được sự tương thích với 7 phần của bài thi.
+Nhập môn CÔNG NGHỆ SỐ và ỨNG DỤNG AI
+- Mã học phần: INT11205
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần này nằm trong khối kiến thức cơ bản, nhằm cung cấp cho người học các khái niệm cơ bản về công nghệ số và ứng dụng AI. Trang bị cho người học hiểu và có kĩ năng sử dụng các công cụ số và ứng dụng AI trong học tập và làm việc.
+Giáo dục thể chất 1
+- Mã học phần: BAS1106
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Nội dung học phần gồm 2 phần: (1) Phần lý thuyết: Mục đích, nhiệm vụ và yêu cầu của giáo dục thể chất đối với sinh viên; Cơ sở khoa học của việc tập luyện TDTT đối với sinh viên; các nguyên tắc và phương pháp giáo dục thể chất; các phương pháp bồi dưỡng các tố chất thể lực… và (2) Phần thực hành: thể dục, điền kinh và bóng chuyền.
+Giáo dục thể chất 2 
+- Mã học phần: BAS1107
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Nội dung học phần gồm 2 phần: (1) Phần lý thuyết: Lịch sử phát triển môn bóng rổ, tác dụng của tập luyện môn bóng rổ, một số điều luật và nguyên lý kỹ thuật cơ bản của môn bóng rổ; và (2) Phần thực hành: Thực hành các kỹ thuật cơ bản của bóng rổ, thi đấu và trọng tài bóng rổ.
+Giáo dục Quốc phòng 
+- Mã học phần: BAS1105
+- Số tín chỉ: 7,5
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần trang bị sinh viên các nội dung cơ bản về đường lối quân sự, công tác quốc phòng, công tác an ninh của Đảng, Nhà nước và những kỹ năng quân sự cần thiết. Nhằm đáp ứng yêu cầu xây dựng, củng cố lực lượng vũ trang nhân dân, sẵn sàng tham gia lực lượng dân quân tự vệ, dự bị động viên và làm nghĩa vụ quân sự, giữ gìn trật tự, an toàn xã hội, sẵn sàng bảo vệ Tổ quốc.
+9.1.2. Khối kiến thức khoa học tự nhiên và xã hội
+Giải tích 1  
+- Mã học phần: BAS1203
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức sau: Tập số và dãy số: Tập số thực và tập số phức, dãy số và giới hạn của dãy số; Phép tính vi phân của hàm số một biến số: Hàm số, giới hạn, liên tục, đạo hàm, vi phân, các định lý về giá trị trung bình  và các ứng dụng; Phép tính tích phân: Tích phân bất định, tích phân xác định và tích phân suy rộng, các ứng dụng của tích phân; Lý thuyết chuỗi: Chuỗi số, chuỗi số dương, chuỗi số có dấu bất kỳ, chuỗi hàm số, chuỗi lũy thừa và chuỗi Fourier.
+Giải tích 2
+- Mã học phần: BAS1204
+- Số tín chỉ: 3
+- Học phần tiên quyết:  BAS1203
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức sau: Phép tính vi phân của hàm nhiều biến; Tích phân của hàm nhiều biến: Tích phân phụ thuộc tham số. Tích phân bội. Tích phân đường, tích phân mặt và các ứng dụng; Phương trình và hệ phương trình vi phân.
+Đại số 
+- Mã học phần: BAS1201
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức sau: Suy diễn logic hình thức; Lý thuyết tập hợp, ánh xạ; Cấu trúc đại số Boole; Công cụ đại số tuyến tính, bao gồm không gian véc tơ, ma trận, định thức, hệ phương trình tuyến tính, ánh xạ tuyến tính, tích vô hướng không gian véc tơ Euclide và dạng toàn phương.
+Vật lý ứng dụng
+- Mã học phần: BAS1270
+- Số tín chỉ: 4
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần bao gồm: (1) Lý thuyết: Các kiến thức cơ bản về Cơ – Điện – Từ – Quang, với các nội dung chính: cơ học, điện trường tĩnh, từ trường không đổi, trường điện từ và sóng điện từ, quang học sóng, thuyết tương đối, quang học lượng tử, cơ học lượng tử, nguyên tử; và (2) Thực hành: bao gồm các bài thực hành về điện trường biến thiên theo thời gian, chuyển động của electron trong điện-từ trường, hiện tượng nhiễu xạ ánh sáng, hiện tượng quang điện.
+Xác suất thống kê 
+- Mã học phần: BAS1269
+- Số tín chỉ: 3
+- Học phần tiên quyết: BAS1203
+- Tóm tắt nội dung: 
+Học phần bao gồm: (1) Phần lý thuyết xác suất nghiên cứu tính quy luật của các hiện tượng ngẫu nhiên: Biến cố, xác suất của biến cố, các quy tắc tính xác suất. Biến ngẫu nhiên, véc tơ ngẫu nhiên. Các đặc trưng của biến ngẫu nhiên và véc tơ ngẫu nhiên. Luật số lớn và định lý giới hạn trung tâm; và (2) Phần toán thống kê: Cơ sở lý thuyết mẫu; Các bài toán ước lượng và kiểm định giả thiết thống kê.
+Pháp luật VÀ SỞ HỮU TRÍ TUỆ 
+- Mã học phần: BSA12117
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản về nhà nước và pháp luật nói chung, nhà nước và pháp luật Việt Nam; các quy định của những ngành luật cơ bản và sở hữu trí tuệ trong hệ thống pháp luật Việt Nam.
+9.1.3. Khối kiến thức cơ sở ngành
+Nhập môn LẬP TRÌNH và AN TOÀN THÔNG TIN
+- Mã học phần: SEC1101
+- Số tín chỉ: 3
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức khái quát về lập trình và ngôn ngữ lập trình; lập trình bằng ngôn ngữ C; cơ bản về lập trình bằng ngôn ngữ C++; các khối kiến thức chính trong an toàn thông tin; vị trí việc làm trong lĩnh vực an toàn thông tin; phần mềm, công cụ và ứng dụng cho an toàn thông tin; và những thách thức, xu hướng và tương lai của lĩnh vực an toàn thông tin.
+Toán rời rạc 1
+- Mã học phần: INT1358
+- Số tín chỉ: 3
+- Học phần tiên quyết: SEC1101
+- Tóm tắt nội dung: 
+Học phần giới thiệu cho sinh viên các khái niệm cơ bản về toán học rời rạc và các ứng dụng của nó trong khoa học máy tính và kỹ thuật. Các chủ đề nghiên cứu liên quan đến các vấn đề toán học rời rạc, bất cứ khi nào các đối tượng được đếm, khi các mối quan hệ giữa các tập hợp hữu hạn (hoặc đếm được) được nghiên cứu và khi các quy trình bao gồm một số lượng hữu hạn các bước được phân tích. Sinh viên sẽ tìm hiểu các cách tiếp cận khác nhau để giải quyết các bài toán đếm, liệt kê, tối ưu hóa và các bài toán còn tồn tại, và các ứng dụng của các bài toán này trong khoa học máy tính và kỹ thuật.
+Cấu trúc dữ liệu và giải thuật
+- Mã học phần: INT1306
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1101
+- Tóm tắt nội dung: 
+Học phần giới thiệu cho sinh viên những kiến thức cơ bản về thuật toán và cấu trúc dữ liệu. Đối với mỗi thuật toán, học phần cung cấp cho người học kiến thức về biểu diễn, đánh giá độ phức tạp, triển khai, đánh giá và ứng dụng. Đối với mỗi cấu trúc dữ liệu, học phần cung cấp cho người học các khái niệm, định nghĩa, biểu diễn, phép toán, triển khai và ứng dụng. Người học có thể sử dụng kiến thức đã học để giải quyết các vấn đề cụ thể của khoa học máy tính.
+Cơ sở dữ liệu
+- Mã học phần: INT1313
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1101
+- Tóm tắt nội dung: 
+Học phần giới thiệu các khái niệm cơ bản cần thiết cho việc thiết kế, sử dụng và triển khai các hệ thống cơ sở dữ liệu và ứng dụng cơ sở dữ liệu cho người học. Học phần tập trung vào mô hình hóa và thiết kế cơ sở dữ liệu, ngôn ngữ SQL và các dạng chuẩn. Bên cạnh đó, các bài luyện tập và các dự án cũng là một phần của học phần để giúp sinh viên cải thiện các kỹ năng thao tác cơ sở dữ liệu trong thế giới thực.
+Kiến trúc máy tính và hệ điều hành
+- Mã học phần: INT13204
+- Số tín chỉ: 3
+- Học phần tiên quyết:  INT11205
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản về kiến trúc máy tính và hệ điều hành, bao gồm giới thiệu về kiến trúc máy tính; CPU và tập lệnh; hệ thống bộ nhớ máy tính; hệ thống bus và thiết bị ngoại vi; kiến trúc máy tính tiên tiến; giới thiệu về hệ điều hành; và các dịch vụ cơ bản của hệ điều hành.
+Python cho An toàn thông tin
+- Mã học phần: SEC1302
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp kiến thức cơ bản về lập trình Python, bao gồm các chủ đề thiết yếu như cú pháp, cấu trúc điều khiển, kiểu dữ liệu, hàm, lập trình hướng đối tượng, xử lý tệp và quản lý ngoại lệ. Ngoài ra, học phần giới thiệu cho sinh viên các ứng dụng thực tế của Python trong bảo mật thông tin, bao gồm mật mã, quét mạng, đánh giá lỗ hổng và kiểm thử xâm nhập.
+Hợp ngữ và dịch ngược
+- Mã học phần: SEC1303
+- Số tín chỉ: 3
+- Học phần tiên quyết:  INT13204
+- Tóm tắt nội dung: 
+Học phần cung cấp: Kiến thức khái quát về vi xử lý, kiến trúc x86, tập lệnh cơ bản và mở rộng; Các kiến thức cơ bản về lập trình hợp ngữ, bao gồm cú pháp, các cấu trúc điều khiển, các kiểu dữ liệu, vào ra; Ứng dụng lập trình hợp ngữ trong một số bài toán cụ thể; Giới thiệu về dịch ngược, mối quan hệ giữa dịch ngược và hợp ngữ, các kỹ thuật và công cụ dịch ngược, ứng dụng dịch ngược trong một số bài toán cụ thể.
+Mạng máy tính
+- Mã học phần: INT1336
+- Số tín chỉ: 3
+- Học phần tiên quyết:  INT11205
+- Tóm tắt nội dung: 
+Học phần cung cấp kiến thức cơ bản về mạng máy tính và tập trung vào Internet. Bằng cách tiếp cận từ trên xuống của kiến trúc phân lớp của Internet, học phần cung cấp những kiến thức quan trọng giúp người học hiểu được các thành phần phức tạp của Internet có thể hoạt động với nhau như thế nào. Nội dung học phần được kết cấu gồm 5 chương như sau: Chương 1 giới thiệu các khái niệm cơ bản về mạng máy tính và Internet. Chương 2 trình bày kiến trúc ứng dụng mạng và một số ứng dụng phổ biến trên Internet. Chương 3 mô tả các dịch vụ tầng vận chuyển với 2 giao thức TCP và UDP. Chương 4 trình bày các mô hình dịch vụ tầng mạng với 2 nhiệm vụ quan trọng là định tuyến và chuyển tiếp. Và cuối cùng, chương 5 trình bày các dịch vụ của lớp liên kết và lớp vật lý, bao gồm nhiều liên kết truy cập và chuyển mạch trong mạng cục bộ. Nội dung bài tập và thực hành được cung cấp ở cuối mỗi chương, trong đó bao gồm các công cụ thực hành cũng như lập trình một số tình huống truyền thông đơn giản trên mạng.
+Nhập môn trí tuệ nhân tạo
+- Mã học phần: INT1341
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1302
+- Tóm tắt nội dung: 
+Học phần giới thiệu cho sinh viên về biểu diễn kiến thức cơ bản, tìm kiếm và giải quyết vấn đề, và các phương pháp học tập của trí tuệ nhân tạo (AI). Các phương pháp tìm kiếm và giải quyết vấn đề có thể áp dụng trong nhiều hệ thống công nghiệp, dân dụng, y tế, tài chính, rô bốt và thông tin. Sinh viên sẽ nghiên cứu các câu hỏi về hệ thống AI như: cách biểu diễn kiến thức, cách tạo hiệu quả các chuỗi hành động phù hợp và cách tìm kiếm giữa các giải pháp thay thế để tìm ra các giải pháp tối ưu hoặc gần tối ưu. Sinh viên cũng sẽ khám phá cách đối phó với sự không chắc chắn trên thế giới và cách học hỏi từ dữ liệu và kinh nghiệm.
+Lập trình Web
+- Mã học phần: INT1434
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1101
+- Tóm tắt nội dung: 
+Học phần cung cấp cho người học kiến thức/kỹ năng về phát triển ứng dụng web, bao gồm phía máy khách (HTML, CSS, JavaScript) cũng như phía máy chủ (Javascript). Sinh viên cũng sẽ quen thuộc với một số web framework, như NodeJS, Spring Boot, ReactJS.
+Cơ sở an toàn thông tin
+- Mã học phần: SEC1304
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1101
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên các khái niệm và nguyên tắc cơ bản về đảm bảo an toàn thông tin, an toàn máy tính, an toàn hệ thống thông tin và mạng; các nguy cơ và các lỗ hổng gây mất an toàn; các dạng tấn công, xâm nhập thường gặp; các dạng phần mềm độc hại; các giải pháp, kỹ thuật và công cụ phòng chống, đảm bảo an toàn thông tin, hệ thống và mạng; vấn đề quản lý ATTT, chính sách, pháp luật và đạo đức ATTT.
+Hệ điều hành Windows và Linux/Unix
+- Mã học phần: SEC1305
+- Số tín chỉ: 3
+- Học phần tiên quyết:  INT13204
+- Tóm tắt nội dung: 
+Học phần cung cấp kiến thức thiết yếu về hệ điều hành Microsoft Windows và Linux/Unix, bao gồm lịch sử, kiến trúc và giao diện của chúng, cũng như hệ thống tệp và quản lý lưu trữ. Học phần cũng bao gồm nội dung cài đặt và cấu hình hệ điều hành, quản lý quyền truy cập và người dùng, thiết lập dịch vụ mạng và triển khai bảo mật. Các chủ đề bổ sung bao gồm bảo trì hệ thống, sao lưu và phục hồi, khắc phục sự cố và giám sát hiệu suất hoạt động.
+Mật mã học cơ sở
+- Mã học phần: SEC1306
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1101
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản về mật mã học, bao gồm: vai trò, tầm quan trọng của mật mã; một số vấn đề cơ bản về toán học ứng dụng trong mật mã; các giải thuật mã hóa đối xứng và bất đối xứng thông dụng; các hàm băm phổ biến; một số ứng dụng thực tiễn của các giải thuật mã hóa; và các kỹ thuật quản lý và phân phối khóa mật mã.
+Thực tập cơ sở
+- Mã học phần: SEC1307
+- Số tín chỉ: 4
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần hỗ trợ sinh viên áp dụng các kiến thức cơ sở đã học vào giải quyết một số bài toán và vấn đề thực tế, nhằm rèn luyện kỹ năng phân tích, giải quyết vấn đề; Một số dạng bài toán cụ thể gồm: Quản trị hệ thống, Các công nghệ/kỹ thuật an toàn phổ biến, Rà quét, phân tích điểm yếu, lỗ hổng, Lập trình trong an toàn thông tin.
+9.1.4. Khối kiến thức chuyên ngành
+Kiểm thử xâm nhập
+- Mã học phần: SEC1408
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần trang bị các kiến thức cơ bản về kiểm thử xâm nhập, bao gồm các loại kiểm thử; xâm nhập, các bước thực hiện với lập kế hoạch, thực hiện và kết thúc kiểm thử; các kỹ thuật; kiểm thử xâm nhập hệ thống thông tin cùng công cụ hỗ trợ; các kiến thức chuyên sâu về kỹ thuật khai thác và phân tích lỗ hổng.
+Quản lý và đánh giá an toàn thông tin
+- Mã học phần: SEC1410
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cả nền tảng lý thuyết và hiểu biết thực tế về phát triển, triển khai và quản lý các biện pháp bảo mật thông tin để đáp ứng các yêu cầu của tổ chức và cơ quan quản lý. Chương trình giảng dạy bao gồm các tiêu chuẩn bảo mật quốc gia và quốc tế được công nhận rộng rãi, cùng với các quy định pháp lý có liên quan để đảm bảo tuân thủ và áp dụng hiệu quả các giải pháp bảo mật. Ngoài ra, học phần trang bị cho sinh viên kiến thức về đánh giá và thử nghiệm bảo mật, bao gồm các phương pháp thử nghiệm bảo mật, đánh giá rủi ro, phân tích kết quả thử nghiệm và kiểm toán bảo mật. Hơn nữa, sinh viên sẽ khám phá các nguyên tắc và biện pháp để đảm bảo hoạt động hệ thống an toàn, duy trì tính liên tục trong hoạt động doanh nghiệp và ứng phó hiệu quả với các sự cố bảo mật thông tin.
+An toàn ứng dụng web và cơ sở dữ liệu
+- Mã học phần: SEC1411
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức nền tảng và chuyên sâu về bảo mật cho các ứng dụng web và cơ sở dữ liệu bao (CSDL) gồm: Các yêu cầu bảo mật các ứng dụng Web; Các nguy cơ, điểm yếu và lỗ hổng bảo mật trong các ứng dụng Web; Các phương pháp tiếp cận bảo mật các ứng dụng Web; Các dạng tấn công lên các ứng dụng Web; Các biện pháp bảo mật máy chủ, ứng dụng web và trình duyệt web; Vấn đề bảo mật trong phát triển và triển khai  ứng dụng web; Các yêu cầu bảo mật CSDL, mô hình tổng quát bảo mật CSDL, các dạng tấn công thường gặp vào CSDL; Các cơ chế bảo mật CSDL;Vấn đề sao lưu, khôi phục dự phòng, kiểm toán và giám sát hoạt động của CSDL.
+Phân tích mã độc
+- Mã học phần: SEC1414
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1303
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản về phần mềm độc hại và các kỹ thuật phân tích phần mềm độc hại, bao gồm phân loại phần mềm độc hại, các hành vi phổ biến của phần mềm độc hại, các phương pháp phân tích tĩnh và động, các công cụ phân tích phần mềm độc hại và các ứng dụng của phân tích phần mềm độc hại trong an ninh mạng. Học phần cũng bao gồm các bài tập thực hành và phòng thí nghiệm để củng cố các khái niệm lý thuyết.
+Ứng dụng AI trong ATTT
+- Mã học phần: SEC1416
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1302
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản và nâng cao về trí tuệ nhân tạo (AI), học máy (ML), học sâu (DL) và ứng dụng ML & DL trong việc giải quyết các vấn đề về an toàn thông tin. Các chủ đề cụ thể của học phần này bao gồm tổng quan về AI, ML và DL; các mô hình học máy truyền thống, học sâu và học chuyển giao; các kỹ thuật tiền xử lý dữ liệu; các mô hình học máy truyền thống cho an toàn thông tin; các mô hình học sâu và học chuyển giao cho an toàn thông tin.
+Giám sát an toàn mạng
+- Mã học phần: SEC1412
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức nâng cao về giám sát an ninh mạng, bao gồm các thành phần hệ thống giám sát, thu thập dữ liệu và các kỹ thuật phát hiện xâm nhập. Học phần cũng bao gồm các kỹ thuật phát hiện dựa trên chữ ký và dựa trên bất thường, các công cụ bảo mật để phân tích mối đe dọa và tích hợp với cơ sở hạ tầng bảo mật. Thông qua các bài tập thực hành và các dự án nhóm, sinh viên sẽ có được các kỹ năng thực tế trong việc triển khai và quản lý các hệ thống giám sát mạng.
+Nhập môn DevOps
+- Mã học phần: SEC1415
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1305
+- Tóm tắt nội dung: 
+Học phần giới thiệu cho người học các khái niệm và thực hành thiết yếu của DevOps, chuẩn bị cho người học các vai trò trong tương lai trong ngành công nghệ. Đặc biệt, học phần cung cấp cho người học các công cụ và công nghệ chính được sử dụng trong môi trường DevOps, để có được kinh nghiệm thực tế với các đường ống tích hợp liên tục và triển khai liên tục (CI/CD); kiến trúc DevOps/ DevSecOps; và các thực hành phát triển an toàn.
+Phát triển phần mềm an toàn
+- Mã học phần: SEC1421
+- Số tín chỉ: 2
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho người học các nguyên tắc cơ bản về vòng đời phần mềm an toàn, cho phép người học áp dụng các nguyên tắc phát triển phần mềm an toàn. Học phần cũng bao gồm các ứng dụng và công cụ thực tế, cho phép người học trải nghiệm quy trình vòng đời phần mềm an toàn.
+Mật mã học nâng cao
+- Mã học phần: SEC1420
+- Số tín chỉ: 2
+- Học phần tiên quyết:  SEC1306
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức nâng cao về mật mã, bao gồm: một số giải thuật mã hóa bí mật và công khai tiên tiến, đánh giá mức độ an toàn các giải thuật mã hóa bí mật và công khai, các hệ mật trên cơ sở đường cong Elliptic. Ngoài ra, môn học cung cấp các kiến thức cơ bản và chuyên sâu về thám mã, bao gồm các giải thuật và kỹ thuật thám mã các hệ mật khóa đối xứng và bất đối xứng.
+An toàn hệ điều hành
+- Mã học phần: SEC1422
+- Số tín chỉ: 2
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản và nâng cao về đảm bảo an toàn cho hệ điều hành, bao gồm: Khái quát về an toàn hệ điều hành; Các cơ chế an toàn phần cứng; An toàn các dịch vụ cơ bản của hệ điều hành; Các mô hình an toàn; và vấn đề đánh giá an toàn hệ điều hành.
+Các kỹ thuật giấu tin
+- Mã học phần: SEC1423
+- Số tín chỉ: 2
+- Học phần tiên quyết: SEC1306
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản về giấu tin bao gồm:  khái niệm, vai trò, tầm quan trọng; đặc điểm của phương pháp giấu tin mật và thủy vân số; các phương pháp giấu tin trong môi trường ảnh, âm thanh, video; một số ứng dụng của kỹ thuật giấu tin trong thực tế.
+An toàn mạng NÂNG CAO
+- Mã học phần: SEC1413
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức nâng cao về các biện pháp bảo mật để bảo vệ thông tin và hệ thống mạng, bao gồm các kỹ thuật và công nghệ để đảm bảo an toàn mạng; các kỹ thuật để bảo mật thông tin được truyền, bảo mật cho hệ thống mạng; và bảo mật cho điện toán đám mây.
+Phân tích dữ liệu lớn cho ATTT
+- Mã học phần: SEC1417
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1302
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản và nâng cao về dữ liệu lớn và ứng dụng của nó trong việc giải quyết các thách thức về an toàn thông tin. Các chủ đề cụ thể của học phần này bao gồm các kỹ thuật phân tích dữ liệu lớn, đánh giá lỗ hổng, bảo mật di động, phát hiện bất thường, phát hiện xâm nhập, phân tích phần mềm độc hại, pháp y kỹ thuật số và sử dụng các công cụ dữ liệu lớn hiện đại cho an toàn mạng.
+Quản trị an toàn hệ thống
+- Mã học phần: SEC1429
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1305
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản về quản trị an toàn hệ thống, bao gồm: Khái quát về quản trị an toàn hệ thống; Kiểm soát an toàn hệ thống; Các kỹ thuật tăng cường an toàn; Đảm bảo an toàn vật lý; Quản lý và vận hành an toàn.
+Thực tập TỐT NGHIỆP
+- Mã học phần: SEC1525
+- Số tín chỉ: 6
+- Học phần tiên quyết: 
+- Tóm tắt nội dung: 
+Học phần giúp sinh viên vận dụng tổng hợp kiến thức và kỹ năng chuyên ngành An toàn thông tin đã được trang bị trong chương trình đào tạo để giải quyết các vấn đề thực tế tại doanh nghiệp, tổ chức hoặc đơn vị nghiên cứu. Thông qua quá trình thực tập, sinh viên được trải nghiệm môi trường làm việc thực tiễn, tham gia vào các hoạt động chuyên môn như giám sát an toàn thông tin, đánh giá an toàn hệ thống, xử lý sự cố, phân tích rủi ro và triển khai giải pháp bảo mật. Học phần tập trung rèn luyện năng lực phân tích, tư duy giải quyết vấn đề, kỹ năng nghề nghiệp và tác phong chuyên môn, đồng thời nâng cao khả năng tổng hợp, báo cáo và đánh giá kết quả công việc. Kết quả thực tập là nền tảng quan trọng để sinh viên hoàn thiện năng lực chuyên môn, phục vụ cho nghiên cứu tiếp theo hoặc đáp ứng yêu cầu công việc trong lĩnh vực ATTT sau khi tốt nghiệp.
+9.2. Các học phần của phần chương trình thạc sĩ
+9.2.1. Khối kiến thức cơ sở ngành
+Phương pháp nghiên cứu khoa học
+- Mã học phần: SKD4112
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên những kiến thức về các phương pháp tiến hành thực hiện các loại hình nghiên cứu như đề tài khoa học công nghệ các cấp, đề án/luận văn tốt nghiệp… một cách có hệ thống và có tính khoa học. Học phần được cấu trúc thành 6 chương: Tổng quan về khoa học và nghiên cứu khoa học; Trình tự logic của nghiên cứu khoa học; Xây dựng đề cương nghiên cứu khoa học; Phương pháp thu thập, xử lý thông tin; Viết báo cáo và trình bày kết quả nghiên cứu khoa học; Đánh giá công trình nghiên cứu khoa học.
+Công cụ toán cho công nghệ thông tin
+- Mã học phần: INT41218
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên những kiến thức cơ bản liên quan đến các phương pháp toán sử dụng trong công nghệ thông tin, bao gồm Máy Turing và phân lớp các bài toán; Tập mờ, tập thô và ứng dụng; Quá trình Markov và mô hình Markov ẩn; và Các phương pháp toán tối ưu.
+CÔNG NGHỆ Blockchain
+- Mã học phần: SEC4344
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1306
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên những kiến thức cơ bản về Blockchain, bao gồm: vai trò và tầm quan trọng của Blockchain; một số vấn đề toán học cơ bản ứng dụng trong Blockchain; một số kiến trúc, nguyên lý hoạt động và giao thức của Blockchain; các vấn đề về bảo mật thông tin cho Blockchain và một số ứng dụng thực tế của Blockchain.
+An toàn điện toán đám mây
+- Mã học phần: SEC4345
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản về đảm bảo an toàn cho điện toán đám mây, bao gồm: khái quát về điện toán đám mây và bảo mật đám mây; các mối đe dọa bảo mật đối với đám mây; bảo mật các tài nguyên tính toán, lưu trữ và mạng cho đám mây; vấn đề quản lý danh tính, truy cập, kiểm toán và mã hóa trên đám mây; vấn đề tuân thủ và quy định đối với đám mây.
+An toàn IoT
+- Mã học phần: SEC4346
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản về IoT và đảm bảo an toàn cho IoT, bao gồm: Khái quát về IoT; Các giao thức truyền thông trong IoT; Mô hình hóa nguy cơ trong mạng IoT; Các công nghệ đảm bảo an toàn cho mạng IoT; Xây dựng mạng IoT an toàn.
+An toàn hệ thống thông tin
+- Mã học phần: SEC4342
+- Số tín chỉ: 3
+- Học phần tiên quyết: SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản và chuyên sâu về đảm bảo an toàn cho hệ thống thông tin, bao gồm các nội dung: (1) Tổng quan về an toàn hệ thống thông tin; (2) Các điểm yếu, lỗ hổng tồn tại trong HTTT, các mối đe doạ và tấn công vào HTTT; (3) Các giải pháp đảm bảo an toàn HTTT; và (4) Quản lý vận hành và quản trị an toàn HTTT.
+Quản lý, pháp luật và chính sách ATTT
+- Mã học phần: SEC4343
+- Số tín chỉ: 3
+- Học phần tiên quyết: SEC1410
+- Tóm tắt nội dung: 
+Học phần cung cấp cả nền tảng lý thuyết và hiểu biết thực tế về phát triển, triển khai và quản lý các biện pháp bảo mật thông tin để đáp ứng các yêu cầu của tổ chức và cơ quan quản lý. Chương trình giảng dạy bao gồm các tiêu chuẩn bảo mật quốc gia và quốc tế được công nhận rộng rãi, cùng với các quy định về chính sách và pháp lý có liên quan để đảm bảo tuân thủ và áp dụng hiệu quả các giải pháp bảo mật. Ngoài ra, học phần trang bị cho học viên kiến thức về đánh giá và thử nghiệm bảo mật, bao gồm các phương pháp thử nghiệm bảo mật, đánh giá rủi ro, phân tích kết quả thử nghiệm và kiểm toán bảo mật. Hơn nữa, học viên sẽ khám phá các nguyên tắc và biện pháp để đảm bảo hoạt động hệ thống an toàn, duy trì tính liên tục trong hoạt động doanh nghiệp và ứng phó hiệu quả với các sự cố bảo mật thông tin.
+Hạ tầng khoá công khai
+- Mã học phần: SEC4347
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cơ bản và nâng cao về Hạ tầng khoá công khai - PKI (Public Key Infrastructure), bao gồm: Tổng quan về PKI và ứng dụng của PKI trong thực tế; Mã hóa khóa công khai; Chứng chỉ số khoá công khai; Cấu trúc và mô hình PKI; Triển khai và quản trị PKI; và Vấn đề chính sách và tuân thủ.
+Các giao thức an toàn và bảo mật
+- Mã học phần: SEC4350
+- Số tín chỉ: 3
+- Học phần tiên quyết: SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên kiến thức nâng cao về các giao thức bảo mật thông tin và đảm bảo an toàn cho hệ thống và mạng, bao gồm các chủ đề: (1) Tổng quan về các giao thức an toàn bảo mật; (2) các giao thức an toàn và bảo mật phổ biến; và (3) các vấn đề bảo mật cho giao thức an toàn và bảo mật.
+Chuyên đề THẠC SĨ 1
+- Mã học phần: SEC4351 
+- Số tín chỉ: 3
+- Học phần tiên quyết:
+- Tóm tắt nội dung: 
+Học phần tập trung nghiên cứu các vấn đề an toàn ở mức hệ điều hành và dịch vụ hệ thống, bao gồm hệ điều hành Windows và Linux – nền tảng cốt lõi của hầu hết các hệ thống CNTT hiện đại. Nội dung học phần tiếp cận theo hướng phân tích kiến trúc bảo mật, nhận diện lỗ hổng, tấn công – phòng thủ ở mức hệ thống, và các biện pháp đảm bảo an toàn như hardening, auditing, giám sát và phân tích log. Học viên học theo hình thức seminar – nghiên cứu theo nhóm – viết báo cáo học thuật, qua đó phát triển năng lực nghiên cứu, phân tích và đề xuất giải pháp, làm nền tảng cho luận văn thạc sĩ.
+Chuyên đề THẠC SĨ 2
+- Mã học phần: SEC4352
+- Số tín chỉ: 3
+- Học phần tiên quyết:
+- Tóm tắt nội dung: 
+Học phần tập trung nghiên cứu các mối đe dọa an ninh mạng và kỹ thuật tấn công mạng hiện đại, xuất phát từ các điểm yếu trong giao thức, kiến trúc và hệ thống mạng. Thay vì đào tạo kỹ năng tấn công thuần túy, học phần tiếp cận theo hướng phân tích bản chất kỹ thuật, mô phỏng tấn công có kiểm soát và xây dựng tư duy phòng thủ dựa trên hiểu biết sâu về tấn công. Học viên học theo hình thức seminar – nghiên cứu theo nhóm – viết báo cáo học thuật, qua đó phát triển năng lực nghiên cứu, phân tích và đề xuất giải pháp, làm nền tảng cho luận văn thạc sĩ.
+9.2.2. Khối kiến thức chuyên ngành
+Phân tích mã độc nâng cao
+- Mã học phần: SEC4453
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1414
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức nâng cao về phân tích mã độc, bao gồm: Tổng quan về mã độc và môi trường phân tích an toàn; Phân tích tĩnh nâng cao; Phân tích động nâng cao; Kỹ thuật phân tích mã độc được bảo vệ; Phân tích mạng và hạ tầng C&C; Dịch ngược nâng cao; Phân tích mã độc thực tế & Case Study; Phòng thủ & phát hiện nâng cao.
+Kiểm thử xâm nhập nâng cao
+- Mã học phần: SEC4454
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1408
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức nâng cao về kiểm thử xâm nhập, bao gồm: Giới thiệu và qui trình kiểm thử xâm nhập; Recon & OSINT nâng cao; Quét & fingerprinting mạng nâng cao; Khai thác hạ tầng & chaining exploit; Tấn công Active Directory (AD) nâng cao; Post-exploitation Windows & kỹ thuật ẩn mình; Linux / Cloud hậu khai thác; Kiểm thử ứng dụng web và API nâng cao; Mô phỏng Red Team và tấn công đối nghịch; Phát hiện và tăng cường an toàn.
+Giám sát an toàn mạng nâng cao
+- Mã học phần: SEC4455
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên kiến thức nâng cao về giám sát an toàn mạng, bao gồm các công nghệ giám sát thế hệ mới, bao gồm tường lửa thế hệ mới (NGFW), IDS/IPS tích hợp AI, các cơ chế xác thực và bảo vệ truy cập tiên tiến, cùng các phương pháp phát hiện mối đe dọa hiện đại dựa trên dữ liệu mạng. Học phần cũng đề cập đến các dạng tấn công mạng tiên tiến, mã độc và botnet hiện đại, các hình thức lạm dụng và tấn công liên quan đến mô hình AI trong môi trường mạng, cũng như kỹ thuật phát hiện, phân tích và phòng chống từ góc độ giám sát. Trọng tâm của học phần là phát hiện sớm, phân tích hành vi (Threat Intelligence và Hunting) và hỗ trợ ra quyết định trong SOC (bao gồm cả AI cho SOC).
+Các chủ đề hiện đại trong ATTT
+- Mã học phần: SEC4456
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho sinh viên kiến thức cập nhật về các các chủ đề hiện đại trong an toàn thông tin, như hệ thống tường lửa, IDS/IPS thế hệ mới có tích hợp AI, các hệ thống xác thực sinh trắc tiên tiến, các dạng tấn công vào các mô hình AI, các phương pháp tấn công và phòng thủ mạng tiên tiến, các hệ mật mã hiện đại và mật mã hậu lượng tử.
+điều tra số
+- Mã học phần: SEC4459
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp kiến thức cơ bản về pháp y kỹ thuật số, tập trung vào các thủ tục điều tra pháp y, thu thập dữ liệu, phân tích pháp y, xác thực và viết báo cáo. Học phần khám phá các kỹ thuật thu thập, phân tích và diễn giải bằng chứng kỹ thuật số từ nhiều nguồn khác nhau, bao gồm hệ điều hành, thiết bị di động, mạng và dịch vụ trực tuyến. Học phần cũng bao gồm các công cụ pháp y, kỹ thuật phục hồi dữ liệu, giải quyết các phương pháp ẩn dữ liệu và các biện pháp thực hành tốt nhất để ghi lại các phát hiện trong báo cáo cho các thủ tục tố tụng pháp lý.
+Đảm bảo an toàn cho AI
+- Mã học phần: SEC4462
+- Số tín chỉ: 2
+- Học phần tiên quyết: SEC1416
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên kiến thức cơ bản và nâng cao về các cuộc tấn công mô hình AI và các chiến lược phòng thủ của chúng, bao gồm các rủi ro và lỗ hổng của mô hình AI, các kỹ thuật tấn công đối nghịch và tấn công xâm phạm quyền riêng tư, cũng như các nguyên tắc và khung giải pháp nhằm đảm bảo AI an toàn, tin cậy và có trách nhiệm.
+An toàn web nâng cao
+- Mã học phần: SEC4460
+- Số tín chỉ: 2
+- Học phần tiên quyết:  SEC1411
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức chuyên sâu về bảo mật cho các website, ứng dụng web, bao gồm: (1) Tổng quan về an toàn web nâng cao; (2) Các dạng lỗ hổng và tấn công web nâng cao; và (3) Các giải pháp tăng cường bảo mật ứng dụng web.
+Hệ điều hành mạng
+- Mã học phần: INT44221
+- Số tín chỉ: 2
+- Học phần tiên quyết:  INT13204
+- Tóm tắt nội dung: 
+Học phần cung cấp cho người học các kiến thức cơ bản và chuyên sâu về hệ điều hành mạng và các dịch vụ của nó, bao gồm: Giới thiệu về Hệ điều hành mạng; Hệ thống file phân tán; Các cơ chế giao tiếp và điều độ các tiến trình phân tán; Thời gian và đồng bộ hoá thời gian trong hệ thống phân tán; Giới thiệu về công nghệ ảo hóa; Tổng quan về Điện toán đám mây.
+Dữ liệu lớn
+- Mã học phần: INT44220
+- Số tín chỉ: 2
+- Học phần tiên quyết:  
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên kiến thức cơ bản và chuyên sâu về dữ liệu lớn, bao gồm Tổng quan về dữ liệu lớn; Kiến trúc hệ thống dữ liệu lớn; Thu thập và tiền xử lý dữ liệu lớn; Lưu trữ dữ liệu lớn; Xử lý và phân tích dữ liệu lớn; Xử lý dữ liệu thời gian thực; Truy vấn, trực quan và khai thác dữ liệu; An toàn và bảo mật dữ liệu lớn; Xu hướng và triển vọng dữ liệu lớn.
+An toàn cơ sở dữ liệu nâng cao
+- Mã học phần: SEC4461
+- Số tín chỉ: 2
+- Học phần tiên quyết:  SEC1411
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức chuyên sâu về bảo mật cho cơ sở dữ liệu bao (CSDL) gồm: (1) Tổng quan về an toàn cơ sở dữ liệu; (2) Lỗ hổng và tấn công cơ sở dữ liệu nâng cao; và (3) Các giải pháp tăng cường bảo mật cơ sở dữ liệu.
+Mật mã hậu lượng tử
+- Mã học phần: SEC4463
+- Số tín chỉ: 2
+- Học phần tiên quyết: SEC1306
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức cơ bản và nâng cao về mật mã hậu lượng tử, bao gồm: (1) Các vấn đề cơ bản của mật mã hậu lượng tử; (2) Các thuật toán hậu lượng tử cơ bản; (3) Vấn đề triển khai mật mã hậu lượng tử trong thực tế.
+Tấn công và phòng thủ mạng
+- Mã học phần: SEC4457
+- Số tín chỉ: 3
+- Học phần tiên quyết: SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp các kiến thức chuyên sâu về các tấn công và phòng thủ mạng, tập trung vào mối quan hệ giữa tấn công và phòng thủ mạng, giúp học viên hiểu rõ cách thức kẻ tấn công khai thác lỗ hổng và cách hệ thống phòng thủ được thiết kế để ngăn chặn các mối đe dọa này. Nội dung học phần bao gồm các chủ đề: (1) các nguy cơ và lỗ hổng bảo mật trong giao thức, thiết bị và kiến trúc mạng; (2) các kỹ thuật tấn công mạng từ cơ bản đến tiên tiến; và (3) các giải pháp, mô hình và kiến trúc phòng thủ mạng hiện đại nhằm ngăn chặn và giảm thiểu tác động của tấn công mạng trong thực tế.
+Ứng phó và xử lý sự cố bảo mật
+- Mã học phần: SEC4458
+- Số tín chỉ: 3
+- Học phần tiên quyết: SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên những kiến thức cơ bản và nâng cao về ứng phó và xử lý sự cố bảo mật, bao gồm: Khái quát về sự cố bảo mật và ứng phó, xử lý sự cố; Các chiến lược ứng phó, khôi phục sau sự cố và đảm bảo hoạt động liên tục; Lập kế hoạch ứng phó, xử lý sự cố; Phát hiện và ứng phó sự cố; Khôi phục, bảo trì và điều tra sự cố.
+DevOps và DevSecOps
+- Mã học phần: SEC4349
+- Số tín chỉ: 3
+- Học phần tiên quyết:  SEC1304
+- Tóm tắt nội dung: 
+Học phần giới thiệu cho người học các khái niệm và thực hành thiết yếu và nâng cao của DevOps và DevSecOps, chuẩn bị cho người học các vai trò trong tương lai trong ngành công nghệ. Đặc biệt, học phần cung cấp cho người học các công cụ và công nghệ chính được sử dụng trong môi trường DevOps, để có được kinh nghiệm thực tế với các đường ống tích hợp liên tục và triển khai liên tục (CI/CD); kiến trúc DevOps và DevSecOps; và các thực hành phát triển an toàn. 
+Quản trị mạng
+- Mã học phần: INT44219
+- Số tín chỉ: 2
+- Học phần tiên quyết: SEC1304
+- Tóm tắt nội dung: 
+Học phần cung cấp cho học viên kiến thức cơ bản và chuyên sâu về quản trị hệ thống mạng, bao gồm Tổng quan về quản trị mạng; Kiến trúc mạng và thiết bị mạng; Địa chỉ mạng và dịch vụ mạng cơ bản; Hệ điều hành mạng và dịch vụ máy chủ; Quản trị và cấu hình mạng; Giám sát, vận hành và tối ưu mạng; An toàn và bảo mật mạng; và Tự động hóa và quản trị mạng hiện đại.
+Chuyên đề THẠC SĨ 3
+- Mã học phần: SEC4464
+- Số tín chỉ: 3
+- Học phần tiên quyết:
+- Tóm tắt nội dung: 
+Học phần tập trung nghiên cứu các mô hình, kiến trúc và công nghệ giám sát an toàn thông tin hiện đại, trong đó trọng tâm là Trung tâm vận hành an toàn thông tin (SOC), các nền tảng hỗ trợ như SIEM và SOAR và ứng dụng AI trong SOC. Học phần không đi sâu vào thao tác công cụ đơn lẻ, mà nhấn mạnh bản chất mô hình, phương pháp phát hiện, cơ chế phối hợp và đánh giá hiệu quả của các hệ thống giám sát – phát hiện – ứng phó sự cố trong môi trường CNTT hiện đại (enterprise, cloud, hybrid). Học viên học theo hình thức seminar – nghiên cứu theo nhóm – viết báo cáo học thuật, qua đó phát triển năng lực nghiên cứu, phân tích và đề xuất giải pháp, làm nền tảng cho luận văn thạc sĩ.
+Chuyên đề THẠC SĨ 4
+- Mã học phần: SEC4465
+- Số tín chỉ: 3
+- Học phần tiên quyết:
+- Tóm tắt nội dung: 
+Học phần tập trung nghiên cứu việc ứng dụng trí tuệ nhân tạo (AI), đặc biệt là học máy và học sâu, trong phát hiện và ngăn chặn tấn công xâm nhập đối với hệ thống mạng, máy chủ và ứng dụng. Khác với các học phần mang tính kỹ thuật thuần túy, môn chuyên đề này tiếp cận bài toán dưới góc độ mô hình, thuật toán, dữ liệu và đánh giá khoa học, nhấn mạnh các thách thức thực tế như dữ liệu lớn, mất cân bằng, concept drift, tấn công đối nghịch và khả năng giải thích mô hình. Học viên học theo hình thức seminar – nghiên cứu theo nhóm – viết báo cáo học thuật, qua đó phát triển năng lực nghiên cứu, phân tích và đề xuất giải pháp, làm nền tảng cho luận văn thạc sĩ.
+9.2.3. Khối kiến thức tốt nghiệp
+Đề án tốt nghiệp
+- Mã học phần: SEC4567
+- Số tín chỉ: 9
+- Học phần tiên quyết: SKD4112
+- Tóm tắt nội dung:
+Học phần Đề án tốt nghiệp thuộc nhánh định hướng ứng dụng của chương trình đào tạo. Thực hiện học phần này, học viên áp dụng các kiến thức, kỹ năng chuyên ngành đã học  và khả năng nghiên cứu để giải quyết trọn vẹn một vấn đề lý thuyết hoặc kết hợp thực hành có liên quan đến lĩnh vực ATTT nhằm nâng cao kỹ năng tư duy, phân tích và giải quyết vấn đề, gồm cả kỹ năng viết báo cáo và trình bày, demo kết quả nghiên cứu. Nội dung chính của học phần bao gồm: (1) Khảo sát các bài toán thực tế trong lĩnh vực ATTT, phân tích, lựa chọn đề tài đề án tốt nghiệp, xây dựng đề cương đề án tốt nghiệp; (2) Thiết kế, cài đặt, triển khai và đánh giá hiệu quả của giải pháp; và (3) Viết và trình bày, demo báo cáo đề án tốt nghiệp.
+LUẬN VĂN tốt nghiệp
+- Mã học phần: SEC4568
+- Số tín chỉ: 15
+- Học phần tiên quyết:  SKD4112
+- Tóm tắt nội dung:
+Học phần Luận văn tốt nghiệp thuộc nhánh định hướng nghiên cứu của chương trình đào tạo. Thực hiện học phần này, học viên áp dụng các kiến thức, kỹ năng chuyên ngành đã học  và khả năng nghiên cứu để giải quyết trọn vẹn một vấn đề lý thuyết hoặc kết hợp thực hành có liên quan đến lĩnh vực ATTT nhằm nâng cao kỹ năng tư duy, phân tích và giải quyết vấn đề, gồm cả kỹ năng viết báo cáo và trình bày, demo kết quả nghiên cứu. Kết quả của luận văn phải được công bố trên các tạp chí hoặc hội thảo chuyên ngành quốc tế uy tín (trong danh mục WoS/Scopus). Nội dung chính của học phần bao gồm: (1) Khảo sát các bài toán thực tế trong lĩnh vực ATTT, phân tích, lựa chọn đề tài luận văn tốt nghiệp, xây dựng đề cương luận văn tốt nghiệp; (2) Phát triển, thực nghiệm và đánh giá phương pháp, mô hình, giải pháp; và (3) Viết và trình bày, demo báo cáo luận văn tốt nghiệp và bài báo/báo cáo khoa học.
+10. MA TRẬN LIÊN KẾT CÁC HỌC PHẦN/HỌC PHẦN VỚI CHUẨN ĐẦU RA (Chi tiết như Phụ lục 2 kèm theo)
+
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+
+
+
+
+PGS.TS. Trần Quang Anh
+
+PHỤ LỤC 1.1. DANH MỤC CÁC HỌC PHẦN CỐT LÕI CỦA CHƯƠNG TRÌNH
+TT
+Mã và tên học phần
+Phương pháp giảng dạy
+Phương pháp đánh giá
+Học kỳ
+1
+INT1336-Mạng máy tính
+- Học tập dựa trên vấn đề;
+- Học tập dựa trên seminar chuyên đề;
+- Nâng cao và mở rộng: các mô hình và kiến trúc mạng tiên tiến
+- Đánh giá dựa trên năng lực người học; 
+2
+2
+SEC1304-Cơ sở an toàn thông tin
+- Học tập dựa trên vấn đề; 
+- Học tập dựa trên dự án;
+- Nâng cao và mở rộng: các giải pháp đảm bảo ATTT hiện đại
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+2
+3
+SEC1302-Python cho An toàn thông tin
+- Học tập dựa trên vấn đề; 
+- Học tập dựa trên seminar chuyên đề;
+- Nâng cao và mở rộng: ứng dụng Python để giải quyết các bài toán ATTT
+- Đánh giá dựa trên năng lực người học; 
+3
+4
+SEC1306-Mật mã học cơ sở
+- Học tập dựa trên vấn đề; 
+- Học tập dựa trên seminar chuyên đề;
+- Nâng cao và mở rộng: các giải thuật mật mã dựa trên đường cong elliptic
+- Đánh giá dựa trên năng lực người học; 
+
+4
+5
+SEC1303-Hợp ngữ và dịch ngược
+- Học tập dựa trên vấn đề; 
+- Học tập dựa trên seminar chuyên đề;
+- Nâng cao và mở rộng: Kết hợp các kỹ thuật hợp ngữ và dịch ngược cho bài toán phân tích mã
+- Đánh giá dựa trên năng lực người học; 
+
+5
+6
+SEC1411-An toàn ứng dụng Web và Cơ sở dữ liệu
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+5
+7
+SEC1408-Kiểm thử xâm nhập
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+8
+SEC1414-Phân tích mã độc
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+9
+SEC1410-Quản lý và đánh giá an toàn thông tin
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+10
+SEC1412-Giám sát an toàn mạng
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+11
+SEC1416-Ứng dụng AI trong ATTT
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+7
+12
+SEC4344- Công nghệ Blockchain
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+13
+SEC4345-An toàn điện toán đám mây
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+14
+SEC4346- An toàn cho IoT
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+15
+SEC4454-Kiểm thử xâm nhập nâng cao
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+16
+SEC4453-Phân tích mã độc nâng cao
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+17
+SEC4455-Giám sát an toàn mạng nâng cao
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+18
+SEC4456- Các chủ đề hiện đại trong ATTT
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+19
+SEC4459- Điều tra số
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+20
+SEC4462- Đảm bảo an toàn cho AI
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+21
+SEC4460-An toàn web nâng cao
+- Giảng dạy song ngữ;
+- Học tập dựa trên dự án;
+- Học tập dựa trên seminar chuyên đề
+- Đánh giá dựa trên năng lực người học; 
+- Dự án nhóm + bảo vệ
+6
+22
+SEC4351 - Chuyên đề thạc sĩ 1
+- Học tập dựa trên dự án;
+- Học tập dựa trên nghiên cứu.
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá đa chiều, có phản biện học thuật;
+- Dự án nhóm + bảo vệ
+8
+23
+SEC4352 - Chuyên đề thạc sĩ 2
+- Học tập dựa trên dự án;
+- Học tập dựa trên nghiên cứu.
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá đa chiều, có phản biện học thuật;
+- Dự án nhóm + bảo vệ
+8
+24
+SEC4464 - Chuyên đề thạc sĩ 3
+- Học tập dựa trên dự án;
+- Học tập dựa trên nghiên cứu.
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá đa chiều, có phản biện học thuật;
+- Dự án nhóm + bảo vệ
+9
+25
+SEC4465 - Chuyên đề thạc sĩ 4
+- Học tập dựa trên dự án;
+- Học tập dựa trên nghiên cứu.
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá đa chiều, có phản biện học thuật;
+- Dự án nhóm + bảo vệ
+9
+26
+SEC1525 – Thực tập tốt nghiệp
+- Học tập dựa trên dự án;
+- Học tập dựa trên trải nghiệm thực tế
+
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá trong môi trường thực tiễn.
+10
+27
+SEC4567 – Đề án tốt nghiệp
+- Học tập dựa trên dự án;
+- Học tập dựa trên nghiên cứu.
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá đa chiều, có phản biện học thuật;
+- Bảo vệ đề án.
+10
+28
+SEC4568 - Luận văn tốt nghiệp
+- Học tập dựa trên dự án;
+- Học tập dựa trên nghiên cứu.
+- Đánh giá dựa trên năng lực người học; 
+- Đánh giá đa chiều, có phản biện học thuật;
+- Bảo vệ luận văn.
+10
+
+
+PHỤ LỤC 1.2. DANH MỤC CÁC HỌC PHẦN TÀI NĂNG, HOẠT ĐỘNG NGOẠI KHOÁ VÀ KỸ NĂNG BỔ TRỢ
+
+TT
+Tên học phần
+Mô tả mục tiêu của học phần
+Thời gian đào tạo
+Đơn vị tổ chức
+I. HỌC PHẦN TÀI NĂNG (Đào tạo thông qua dự án tại các Lab.)
+
+Lập trình C/C++ nâng cao
+Cung cấp cho sinh viên các kiến thức và kỹ năng về lập trình nâng cao trong C/C++, bao gồm lớp, các kỹ thuật xử lý ngoại lệ, gỡ rối...
+Năm học thứ 1
+Lab ATTT, Lab Blockchain
+
+Lập trình Python nâng cao
+Cung cấp cho sinh viên các kiến thức và kỹ năng về lập trình nâng cao trong Python, bao gồm lớp, ứng dụng các thư viện AI, ML, DL trong giải quyết các bài toán ATTT.
+Năm học thứ 2
+Lab ATTT, Lab Blockchain
+
+
+Thuật toán nâng cao
+Cung cấp cho sinh viên các kiến thức về các thuật toán nâng cao  như: xử lí chuỗi, qui hoạch động & tối ưu, đồ thị, xác suất & ngẫu nhiên...
+Năm học thứ 2
+Lab ATTT, Lab Blockchain
+
+AI, ML/DL cơ bản
+Cung cấp cho sinh viên các kiến thức, khái niệm cơ bản về AI và ML, các ứng dụng và bài toán ML, phương pháp và kỹ thuật, qui trình giải các bài toán trong ML, các giải thuật ML cơ bản.
+Năm học thứ 2
+Lab ATTT
+
+Mật mã nâng cao
+Cung cấp cho sinh viên các kiến thức và kỹ năng về các hệ mật mã hiện đại như mật mã đường cong elliptic, edward, mật mã hậu lượng tử và ứng dụng
+Năm học thứ 2
+Lab Blockchain
+
+Công nghệ Blockchain
+Cung cấp cho sinh viên các kiến thức và kỹ năng về công nghệ Blockchain, phát triển ứng dụng và bảo mật Blockchain
+Năm học thứ 2
+Lab Blockchain
+
+AI, ML/DL nâng cao và ứng dụng trong ATTT
+Cung cấp cho sinh viên các kiến thức, khái niệm nâng cao về AI và ML, ứng dụng các giải thuật AI, ML, DL trong giải quyết các bài toán ATTT trong thực tế.
+Năm học thứ 3
+Lab ATTT
+
+Mô hình ngôn ngữ lớn và ứng dụng trong ATTT
+Trang bị cho sinh viên hiểu biết có chiều sâu về kiến trúc và cơ chế hoạt động của các mô hình ngôn ngữ lớn thế hệ hiện đại như GPT, LLaMA, đồng thời tập trung khai thác chúng như công cụ kỹ thuật ATTT. Sinh viên thực hành các kỹ thuật khai thác mô hình gồm truy xuất tăng cường ngữ cảnh (RAG), gọi hàm tự động (function calling) và tinh chỉnh mô hình theo miền chuyên biệt, từ đó xây dựng các trợ lý AI hỗ trợ công việc.
+Năm học thứ 3
+Lab ATTT, Lab Blockchain
+
+
+Smart Contract for Blockchain
+Cung cấp cho sinh viên các kiến thức và kỹ năng về xây dựng và triển khai hợp đồng thông minh cho Blockchain
+Năm học thứ 3
+Lab Blockchain
+
+Phát triển ứng dụng phi tập trung
+Cung cấp cho sinh viên các kiến thức và kỹ năng về xây dựng và triển khai ứng dụng phi tập trung trên nền tảng Blockchain
+Năm học thứ 3
+Lab Blockchain
+
+Thực hành an toàn thông tin nâng cao qua CTF
+Cung cấp cho sinh viên các kỹ năng về giải quyết các bài thực hành, các tình huống bảo mật qua bài tập CTF
+Năm học thứ 3
+Lab ATTT
+
+Thực hành kỹ thuật kiểm thử xâm nhập
+Cung cấp cho sinh viên các kỹ năng thực hành các kỹ thuật kiểm thử xâm nhập web, máy tính, mạng và thiết bị di động
+Năm học thứ 4
+Lab ATTT
+
+Kỹ thuật tấn công và khai thác nâng cao
+Cung cấp cho sinh viên các kỹ năng nâng cao về các kỹ thuật kiểm thử xâm nhập hệ thống và mạng
+Năm học thứ 4
+Lab ATTT
+
+Phân tích mã độc nâng cao
+Cung cấp cho sinh viên các kiến thức và kỹ năng về phân tích mã độc, bao gồm phân tích tĩnh và phân tích động nâng cao.
+Năm học thứ 4
+Lab ATTT
+
+SOC và giám sát an toàn mạng
+Cung cấp cho sinh viên các kiến thức và kỹ năng về kiến trúc, triển khai và thử nghiệm SOC và các hệ thống giám sát an toàn mạng
+Năm học thứ 4
+Lab ATTT
+
+Blueteam và phòng thủ nâng cao
+Cung cấp cho sinh viên các kiến thức và kỹ năng về kiến trúc, vận hành, triển khai và thử nghiệm các hệ thống phòng thủ, bảo vệ hệ thống
+Năm học thứ 4
+Lab ATTT
+
+Phát hiện và ứng phó sự cố
+Cung cấp cho sinh viên các kiến thức và kỹ năng về các phương pháp phát hiện và ứng phó, xử lý sự cố mất ATTT
+Năm học thứ 4
+Lab ATTT
+
+Thực hành điều tra số
+Cung cấp cho sinh viên các kỹ năng thực hành các kỹ thuật thu thập, phục hồi bằng chứng số, phân tích, tổng hợp dữ liệu để đưa ra kết luận điều tra số
+Năm học thứ 4
+Lab ATTT
+II. HOẠT ĐỘNG NGOẠI KHÓA
+
+Code camp (Trại lập trình)
+Cung cấp cho sinh viên môi trường học tập, đào tạo hoặc sự kiện thi đấu lập trình chuyên sâu, tập trung vào thực hành cường độ cao trong thời gian ngắn (vài ngày đến vài tháng). Mục tiêu là giúp sinh viên nhanh chóng nắm vững kỹ năng thực chiến, làm dự án, hoặc giải quyết bài toán công nghệ cụ thể theo yêu cầu doanh nghiệp.
+Từ năm học thứ nhất
+Lab ATTT, Lab Blockchain
+
+
+CTF
+Tham gia các cuộc thi CTF các cấp ở trong nước và quốc tế, gồm cả online và onsite
+Từ năm học thứ 2
+Lab ATTT
+
+AI Challenge ATTT
+Hoạt động thi giải bài toán thực tế từ doanh nghiệp (như Viettel, VNPT, FPT telecom, …): phát hiện xâm nhập, mã độc, lỗ hổng, bất thường mạng, ... Sinh viên đề xuất giải pháp giải quyết các bài toán thực tế của doanh nghiệp, có thể được hỗ trợ chuyên môn, thực hiện và nộp solution + thuyết trình. 
+Từ năm học thứ 2
+Lab ATTT, Lab Blockchain
+
+
+Trải nghiệm thăm quan doanh nghiệp
+Tổ chức cho sinh viên tham quan, học hỏi trực tiếp tại doanh nghiệp
+Từ năm học thứ 3
+Khoa ATTT
+
+Trại hè nghiên cứu về công nghệ ATTT hiện đại
+Sinh viên tham dự các workshop từ các chuyên gia đầu ngành trong lĩnh vực ICT/ATTT. Được cập nhật các công nghệ bảo mật tiên tiến đang triển khai để bảo vệ hệ thống mạng.
+Từ năm học thứ 3
+Khoa VT1
+
+Tham gia hội thảo, workshop, hội nghị khoa học chuyên ngành
+Sinh viên tham dự các workshop, hội thảo, hội nghị chuyên ngành, học tập từ các chuyên gia, học giả đầu ngành trong lĩnh vực ICT. Được học hỏi và bổ trợ kỹ năng thuyết trình khoa học, và cập nhật các kiến thưc, công nghệ tiên tiến
+Từ năm học thứ 3
+Khoa ATTT
+
+Dự án nghiên cứu AI và ứng dụng trong ATTT liên kết doanh nghiệp
+Sinh viên thực hiện đề tài nghiên cứu có định hướng ứng dụng thực tế dưới sự đồng hướng dẫn của giảng viên Khoa ATTT và kỹ sư nghiên cứu từ các đối tác doanh nghiệp công nghệ cao như Samsung hoặc FPT. Kết quả nghiên cứu được nộp dưới dạng bản thảo đăng ký sáng chế hoặc bài báo hội nghị quốc tế, đặt sinh viên vào đúng tiêu chuẩn đầu ra của một kỹ sư nghiên cứu chuyên nghiệp ngay từ bậc đại học.
+Từ năm học thứ 3
+Khoa ATTT
+III. HOẠT ĐỘNG KỸ NĂNG
+
+Câu lạc bộ đọc báo khoa học
+Tổ chức hỗ trợ sinh viên tạo lập thói quen đọc, tư duy phản biện và tăng cường khả năng đọc sách/báo khoa học, tăng cường khả năng tiếng Anh. Sinh viên họp hàng tuần, mỗi buổi đọc sâu 1 bài báo từ các hội nghị/tạp chí top đầu thế giới, viết review 1 trang theo chuẩn quốc tế.
+Từ năm học thứ 2
+Khoa ATTT
+
+Trải nghiệm nghiên cứu tại phòng thí nghiệm
+Hướng dẫn sinh viên toàn bộ quy trình tìm kiếm, chuẩn bị hồ sơ và thực hiện thực tập nghiên cứu tại phòng thí nghiệm trong nước và quốc tế. Sinh viên được trang bị kỹ năng tìm kiếm lab phù hợp qua Semantic Scholar và trang chủ giáo sư, viết email liên hệ thuyết phục, chuẩn bị CV nghiên cứu, bảng điểm và thư giới thiệu đúng chuẩn quốc tế. Sau khi hoàn thành thực tập, sinh viên trình bày kết quả và bài học thực tế trước bộ môn, tạo nguồn kinh nghiệm tham chiếu cho các thế hệ tiếp theo.
+Từ năm học thứ 2
+Khoa ATTT
+
+Tiếng Anh học thuật & giao tiếp quốc tế
+Sinh viên thực hành viết thư điện tử liên hệ giáo sư nước ngoài, soạn thảo bản mô tả mục tiêu học tập (Statement of Purpose) và bản trình bày định hướng nghiên cứu (Research Statement) theo đúng kỳ vọng của hội đồng tuyển sinh quốc tế. Kỹ năng nghe hiểu phản biện khoa học được luyện tập qua hình thức theo dõi và phân tích các bài trình bày thực tế tại hội nghị IEEE, từ đó làm quen với nhịp độ, cấu trúc lập luận và cách xử lý câu hỏi khó của diễn giả chuyên nghiệp. Học phần cũng hướng dẫn kỹ thuật xây dựng mối quan hệ học thuật tại hội nghị - cách tiếp cận tác giả bài báo, tham gia thảo luận poster và duy trì kết nối sau sự kiện. Sinh viên cũng có thể chuẩn bị hồ sơ học bổng hoàn chỉnh bao gồm CV nghiên cứu, thư giới thiệu và các tài liệu bổ trợ theo yêu cầu của từng quỹ học bổng lớn.
+Từ năm học thứ 2
+Khoa ATTT
+
+Kỹ năng nghiên cứu và viết báo cáo khoa học
+Cung cấp cho sinh viên kỹ năng nghiên cứu và viết các báo cáo khoa học theo các chuẩn mực và quy định 
+Từ năm học thứ 3
+Khoa ATTT
+
+Kỹ năng quản lí dự án công nghệ
+Cung cấp cho sinh viên kỹ năng lãnh đạo, quản lí, phối hợp, hợp tác trong các dự án lĩnh vực ICT
+Từ năm học thứ 3
+Khoa ATTT, Viện LĐQT-QL VN và Trung tâm ĐMST-KN
+
+Kỹ năng khởi nghiệp và đổi mới sáng tạo
+Cung cấp cho sinh viên kỹ năng khởi nghiệp và đổi mới sáng tạo trong lĩnh vực viễn thông
+Từ năm học thứ 3
+Khoa ATTT, Viện LĐQT-QL VN và Trung tâm ĐMST-KN
+
+Đạo đức nghiên cứu & liêm chính học thuật
+Trang bị cho sinh viên kiến thức cơ bản về đạo đức nghiên cứu và liêm chính học thuật, các quy tắc đạo đức nghiên cứu quốc tế, phát hiện và phòng tránh đạo văn, giả mạo dữ liệu (data fabrication); sử dụng AI hợp lệ trong nghiên cứu; phân tích các case study vi phạm đạo đức nổi tiếng.
+Từ năm học thứ 4
+Khoa ATTT
+
+PHỤ LỤC 1.3. DANH MỤC CÁC CHỨNG CHỈ NGHỀ NGHIỆP VÀ CÁC HỌC PHẦN ĐƯỢC CÔNG NHẬN QUY ĐỔI KẾT QUẢ HỌC TẬP
+
+TT
+Tên chứng chỉ/khóa học
+Đơn vị cấp
+Ghi chú
+
+CompTIA Security+
+CompTIA
+CompTIA Security+ là chứng chỉ an ninh mạng quốc tế uy tín, xác nhận kiến thức nền tảng về bảo mật hệ thống, quản lý rủi ro và ứng phó sự cố.
+
+Certified Ethical Hacker
+EC-Council
+CEH (Certified Ethical Hacker) là chứng chỉ quốc tế uy tín do EC-Council (Mỹ) cấp, xác nhận khả năng tư duy và thực hiện các kỹ thuật tấn công mạng của chuyên gia an ninh mạng (hacker mũ trắng) nhằm tìm ra, khắc phục lỗ hổng bảo mật, bảo vệ hệ thống trước tin tặc.
+
+AWS Certification
+Amazon
+AWS Certification là bộ chứng chỉ được cấp bởi Amazon đánh giá mức độ hiểu biết về Cloud (điện toán đám mây), cụ thể là các dịch vụ của Amazon Web Services (AWS)
+
+Google Data Analytics Professional Certificate
+Google
+Chứng chỉ của Google cung cấp về phân tích dữ liệu trên nền tảng coursera 
+
+Artificial Intelligence Fundamentals
+IBM
+Chứng chỉ miễn phí được thiết kế cho sinh viên đại học, yêu cầu hơn 10 giờ học và hiện có sẵn bằng nhiều ngôn ngữ.
+
+AWS Certified AI Practitioner
+Amazon
+Chứng chỉ AWS Certified AI Practitioner xác nhận kiến ​​thức chuyên môn về trí tuệ nhân tạo (AI), học máy (ML) và các khái niệm cũng như trường hợp sử dụng AI tạo sinh.
+
+CCNA (Cisco Certified Network Associate)
+Cisco
+Chứng chỉ mạng nền tảng được công nhận rộng rãi nhất thế giới. Bao phủ TCP/IP, IPv6, routing, switching, bảo mật cơ bản và tự động hóa mạng. Sinh viên học miễn phí qua Cisco Networking Academy + Packet Tracer.
+
+OSCP
+Offensive Security
+OSCP (Offensive Security Certified Professional) là chứng chỉ uy tín quốc tế dành cho chuyên gia an ninh mạng, tập trung vào kỹ năng kiểm thử xâm nhập (penetration testing) thực tế.
+
+Linux Foundation Certified System Administrator (LFCS)
+Linux Foundation
+Chứng chỉ thực hành Linux quan trọng cho kỹ sư ATTT làm việc với server, thiết bị mạng và hệ thống nhúng chạy Linux. Thi thực hành trực tiếp trên terminal.
+
+Blockchain Fundamentals Certificate
+ISACA
+Blockchain Fundamentals Certificate là chứng chỉ cơ bản về blockchain. Khóa học kết hợp giữa lý thuyết và thực hành trong môi trường phòng thí nghiệm ảo để nắm vững các nguyên tắc, mô hình và hạ tầng blockchain.
+
+Certified Blockchain Developer
+Blockchain Council/IPMAC
+Chứng chỉ Certified Blockchain Developer (CBD) là một chương trình đào tạo chuyên sâu do Blockchain Council cấp, giúp người học làm chủ các kỹ năng phát triển ứng dụng trên nền tảng công nghệ chuỗi khối.
+
+CompTIA CySA+
+CompTIA
+Là chứng chỉ quốc tế tập trung vào năng lực giám sát và phòng thủ an ninh mạng theo hướng Blue Team/SOC. Nội dung bao gồm phân tích nhật ký hệ thống, phát hiện xâm nhập, săn tìm mối đe dọa, quản lý lỗ hổng, ứng phó sự cố và sử dụng SIEM.
+
+CHFI
+EC-Council
+Là chứng chỉ về điều tra số và xử lý sự cố an ninh mạng do EC-Council cấp. Nội dung tập trung vào thu thập và bảo toàn chứng cứ số, phân tích nhật ký hệ thống, điều tra các cuộc tấn công mạng, phân tích mã độc cơ bản và truy vết hành vi xâm nhập.
+Các chứng chỉ chuyên môn nghề nghiệp được công nhận
+TT
+Chứng chỉ chuyên môn nghề nghiệp
+Học phần được công nhận quy đổi
+1
+CCNA (Cisco Certified Network Associate)
+Mạng máy tính - INT1336
+2
+CEH (Certified Ethical Hacker)
+Kiểm thử xâm nhập -SEC1408
+3
+ISACA - Blockchain Fundamentals Certificate
+Công nghệ Blockchain - SEC4344
+4
+OSCP (Offensive Security Certified Professional)
+Kiểm thử xâm nhập nâng cao - SEC4454
+5
+CompTIA Security+
+Cơ sở an toàn thông tin- SEC1304
+6
+AWS Certification
+An toàn điện toán đám mây - SEC4345
+7
+Linux Foundation Certified System Administrator (LFCS)
+Hệ điều hành Windows và Linux/Unix - SEC1305
+8
+OSCP - Offensive Security
+Kiểm thử xâm nhập nâng cao - SEC4454
+9
+CompTIA CySA+
+Giám sát an toàn mạng - SEC1412
+10
+EC-Council CHFI
+Điều tra số- SEC4459
+

@@ -1,0 +1,316 @@
+### sheet1.xml
+A1: CÁC HỌC PHẦN MỞ / KHÔNG MỞ CỦA ĐỢT HỌC LỚP RIÊNG KỲ 2 NĂM HỌC 2024-2025
+A3: * Lưu ý: Sinh viên học cải thiện điểm phải học đúng Mã học phần có trong Chương trình đào tạo của cá nhân, không được học thay bằng học phần khác
+A5: STT | B5: MÃ HỌC PHẦN | C5: TÊN HỌC PHẦN | D5: SỐ TÍN CHỈ | E5: DANH SÁCH HỌC PHẦN MỞ / KHÔNG MỞ | F5: LƯU Ý
+A6: 1 | B6: BAS1107 | C6: Giáo dục thể chất 2 | D6: 2 | E6: MỞ LỚP
+A7: 2 | B7: BAS1109 | C7: Lịch sử các học thuyết kinh tế | D7: 2 | E7: MỞ LỚP
+A8: 3 | B8: BAS1122 | C8: Tư tưởng Hồ Chí Minh | D8: 2 | E8: MỞ LỚP
+A9: 4 | B9: BAS1150 | C9: Triết học Mác - Lênin | D9: 3 | E9: MỞ LỚP
+A10: 5 | B10: BAS1151 | C10: Kinh tế chính trị Mác- Lênin | D10: 2 | E10: MỞ LỚP
+A11: 6 | B11: BAS1152 | C11: Chủ nghĩa xã hội khoa học | D11: 2 | E11: MỞ LỚP
+A12: 7 | B12: BAS1153 | C12: Lịch sử Đảng cộng sản Việt Nam | D12: 2 | E12: MỞ LỚP
+A13: 8 | B13: BAS1157 | C13: Tiếng Anh (Course 1) | D13: 4 | E13: MỞ LỚP
+A14: 9 | B14: BAS1158 | C14: Tiếng Anh (Course 2) | D14: 4 | E14: MỞ LỚP
+A15: 10 | B15: BAS1159 | C15: Tiếng Anh (Course 3) | D15: 4 | E15: MỞ LỚP
+A16: 11 | B16: BAS1160 | C16: Tiếng Anh (Course 3 Plus) | D16: 2 | E16: MỞ LỚP
+A17: 12 | B17: BAS1201 | C17: Đại số | D17: 3 | E17: MỞ LỚP
+A18: 13 | B18: BAS1201_CLC | C18: Đại số | D18: 3 | E18: MỞ LỚP
+A19: 14 | B19: BAS1203 | C19: Giải tích 1 | D19: 3 | E19: MỞ LỚP
+A20: 15 | B20: BAS1203_CLC | C20: Giải tích 1 | D20: 3 | E20: MỞ LỚP
+A21: 16 | B21: BAS1204 | C21: Giải tích 2 | D21: 3 | E21: MỞ LỚP
+A22: 17 | B22: BAS1204_CLC | C22: Giải tích 2 | D22: 3 | E22: MỞ LỚP
+A23: 18 | B23: BAS1210 | C23: Lý thuyết xác suất và thống kê | D23: 3 | E23: MỞ LỚP
+A24: 19 | B24: BAS1219 | C24: Toán cao cấp 1 | D24: 2 | E24: MỞ LỚP
+A25: 20 | B25: BAS1220 | C25: Toán cao cấp 2 | D25: 2 | E25: MỞ LỚP
+A26: 21 | B26: BAS1221 | C26: Toán kỹ thuật | D26: 3 | E26: MỞ LỚP
+A27: 22 | B27: BAS1224 | C27: Vật lý 1 và thí nghiệm | D27: 4 | E27: MỞ LỚP
+A28: 23 | B28: BAS1224_CLC | C28: Vật lý 1 và thí nghiệm | D28: 4 | E28: MỞ LỚP
+A29: 24 | B29: BAS1225 | C29: Vật lý 2 và thí nghiệm | D29: 4 | E29: MỞ LỚP
+A30: 25 | B30: BAS1226 | C30: Xác suất thống kê | D30: 2 | E30: MỞ LỚP
+A31: 26 | B31: BAS1226_CLC | C31: Xác suất thống kê | D31: 2 | E31: MỞ LỚP
+A32: 27 | B32: BAS1227 | C32: Vật lý 3 và thí nghiệm | D32: 4 | E32: MỞ LỚP
+A33: 28 | B33: BAS1269_CLC | C33: Xác suất thống kê | D33: 3 | E33: MỞ LỚP
+A34: 29 | B34: BSA1241 | C34: Toán kinh tế | D34: 3 | E34: MỞ LỚP
+A35: 30 | B35: BSA1309 | C35: Kinh tế lượng | D35: 3 | E35: MỞ LỚP
+A36: 31 | B36: BSA1310 | C36: Kinh tế vi mô 1 | D36: 3 | E36: MỞ LỚP
+A37: 32 | B37: BSA1311 | C37: Kinh tế vĩ mô 1 | D37: 3 | E37: MỞ LỚP
+A38: 33 | B38: BSA1314 | C38: Luật kinh doanh | D38: 2 | E38: MỞ LỚP
+A39: 34 | B39: BSA1320 | C39: Phân tích hoạt động kinh doanh | D39: 2 | E39: MỞ LỚP
+A40: 35 | B40: BSA1408 | C40: Xây dựng website thương mại điện tử | D40: 2 | E40: MỞ LỚP
+A41: 36 | B41: ELE1304 | C41: Cơ sở điều khiển tự động | D41: 3 | E41: MỞ LỚP
+A42: 37 | B42: ELE1305 | C42: Cơ sở đo lường điện tử | D42: 2 | E42: MỞ LỚP
+A43: 38 | B43: ELE1309 | C43: Điện tử số | D43: 3 | E43: MỞ LỚP
+A44: 39 | B44: ELE1309_CLC | C44: Điện tử số | D44: 3 | E44: MỞ LỚP
+A45: 40 | B45: ELE1310 | C45: Điện tử tương tự | D45: 3 | E45: MỞ LỚP
+A46: 41 | B46: ELE13100 | C46: Cấu kiện điện tử | D46: 3 | E46: MỞ LỚP
+A47: 42 | B47: ELE13101 | C47: Xử lý tín hiệu số | D47: 3 | E47: MỞ LỚP
+A48: 43 | B48: ELE13105 | C48: Linh kiện và mạch điện tử | D48: 3 | E48: MỞ LỚP
+A49: 44 | B49: ELE1317 | C49: Kỹ thuật vi xử lý | D49: 3 | E49: MỞ LỚP
+A50: 45 | B50: ELE1318 | C50: Lý thuyết mạch | D50: 3 | E50: MỞ LỚP
+A51: 46 | B51: ELE1319 | C51: Lý thuyết thông tin | D51: 3 | E51: MỞ LỚP
+A52: 47 | B52: ELE1320 | C52: Lý thuyết trường điện từ và siêu cao tần | D52: 3 | E52: MỞ LỚP
+A53: 48 | B53: ELE1330 | C53: Xử lý tín hiệu số | D53: 2 | E53: MỞ LỚP
+A54: 49 | B54: ELE1406 | C54: Cơ sở mật mã học | D54: 2 | E54: MỞ LỚP
+A55: 50 | B55: ELE14102 | C55: Mạng cảm biến | D55: 3 | E55: MỞ LỚP
+A56: 51 | B56: ELE1415 | C56: Hệ thống nhúng | D56: 3 | E56: MỞ LỚP
+A57: 52 | B57: ELE1422 | C57: Thị giác máy tính | D57: 2 | E57: MỞ LỚP
+A58: 53 | B58: ELE1426 | C58: Thiết kế logic số | D58: 3 | E58: MỞ LỚP
+A59: 54 | B59: ELE1431 | C59: Xử lý tín hiệu số thời gian thực | D59: 2 | E59: MỞ LỚP
+A60: 55 | B60: ELE1433 | C60: Kỹ thuật số | D60: 2 | E60: MỞ LỚP
+A61: 56 | B61: FIA1312 | C61: Kế toán tài chính 1 | D61: 3 | E61: MỞ LỚP
+A62: 57 | B62: FIA1324 | C62: Quản trị tài chính doanh nghiệp | D62: 3 | E62: MỞ LỚP
+A63: 58 | B63: FIA1327M | C63: Thanh toán quốc tế | D63: 2 | E63: MỞ LỚP
+A64: 59 | B64: FIA1401 | C64: ACCA | D64: 3 | E64: MỞ LỚP
+A65: 60 | B65: FIA1408 | C65: Kế toán ngân hàng thương mại | D65: 2 | E65: MỞ LỚP
+A66: 61 | B66: FIA1468 | C66: Phân tích tài chính doanh nghiệp | D66: 3 | E66: MỞ LỚP
+A67: 62 | B67: INT11117_CLC | C67: Nhập môn tin học và lập trình | D67: 3 | E67: MỞ LỚP
+A68: 63 | B68: INT1154 | C68: Tin học cơ sở 1 | D68: 2 | E68: MỞ LỚP
+A69: 64 | B69: INT1155 | C69: Tin học cơ sở 2 | D69: 2 | E69: MỞ LỚP
+A70: 65 | B70: INT1303 | C70: An toàn và bảo mật hệ thống thông tin | D70: 3 | E70: MỞ LỚP
+A71: 66 | B71: INT1306 | C71: Cấu trúc dữ liệu và giải thuật | D71: 3 | E71: MỞ LỚP
+A72: 67 | B72: INT1306_CLC | C72: Cấu trúc dữ liệu và giải thuật | D72: 3 | E72: MỞ LỚP
+A73: 68 | B73: INT1313 | C73: Cơ sở dữ liệu | D73: 3 | E73: MỞ LỚP
+A74: 69 | B74: INT1313_CLC | C74: Cơ sở dữ liệu | D74: 3 | E74: MỞ LỚP
+A75: 70 | B75: INT13145 | C75: Kiến trúc máy tính | D75: 3 | E75: MỞ LỚP
+A76: 71 | B76: INT13145_CLC | C76: Kiến trúc máy tính | D76: 3 | E76: MỞ LỚP
+A77: 72 | B77: INT13146 | C77: Xử lý ảnh | D77: 3 | E77: MỞ LỚP
+A78: 73 | B78: INT13162 | C78: Lập trình với Python | D78: 3 | E78: MỞ LỚP
+A79: 74 | B79: INT1319 | C79: Hệ điều hành | D79: 3 | E79: MỞ LỚP
+A80: 75 | B80: INT1319_CLC | C80: Hệ điều hành | D80: 3 | E80: MỞ LỚP
+A81: 76 | B81: INT1325 | C81: Kiến trúc máy tính và hệ điều hành | D81: 2 | E81: MỞ LỚP
+A82: 77 | B82: INT1330_CLC | C82: Kỹ thuật vi xử lý | D82: 3 | E82: MỞ LỚP
+A83: 78 | B83: INT1332 | C83: Lập trình hướng đối tượng | D83: 3 | E83: MỞ LỚP
+A84: 79 | B84: INT1332_CLC | C84: Lập trình hướng đối tượng | D84: 3 | E84: MỞ LỚP
+A85: 80 | B85: INT1336 | C85: Mạng máy tính | D85: 3 | E85: MỞ LỚP
+A86: 81 | B86: INT1339 | C86: Ngôn ngữ lập trình C++ | D86: 3 | E86: MỞ LỚP
+A87: 82 | B87: INT1339_CLC | C87: Ngôn ngữ lập trình C++ | D87: 3 | E87: MỞ LỚP
+A88: 83 | B88: INT1340 | C88: Nhập môn công nghệ phần mềm | D88: 3 | E88: MỞ LỚP
+A89: 84 | B89: INT1340_CLC | C89: Nhập môn CNPM | D89: 3 | E89: MỞ LỚP
+A90: 85 | B90: INT1341 | C90: Nhập môn trí tuệ nhân tạo | D90: 3 | E90: MỞ LỚP
+A91: 86 | B91: INT1342_CLC | C91: Phân tích và thiết kế HTTT | D91: 3 | E91: MỞ LỚP
+A92: 87 | B92: INT1342M | C92: Phân tích và thiết kế hệ thống thông tin | D92: 3 | E92: MỞ LỚP
+A93: 88 | B93: INT1358 | C93: Toán rời rạc 1 | D93: 3 | E93: MỞ LỚP
+A94: 89 | B94: INT1358_CLC | C94: Toán rời rạc 1 | D94: 3 | E94: MỞ LỚP
+A95: 90 | B95: INT1359 | C95: Toán rời rạc 2 | D95: 3 | E95: MỞ LỚP
+A96: 91 | B96: INT1359_CLC | C96: Toán rời rạc 2 | D96: 3 | E96: MỞ LỚP
+A97: 92 | B97: INT1404 | C97: Các hệ thống dựa trên tri thức | D97: 3 | E97: MỞ LỚP
+A98: 93 | B98: INT14119_CLC | C98: Lập trình Python | D98: 3 | E98: MỞ LỚP
+A99: 94 | B99: INT14135 | C99: Tiền số và công nghệ Blockchain | D99: 3 | E99: MỞ LỚP
+A100: 95 | B100: INT1414_CLC | C100: Cơ sở dữ liệu phân tán | D100: 2 | E100: MỞ LỚP
+A101: 96 | B101: INT14148 | C101: Cơ sở dữ liệu phân tán | D101: 3 | E101: MỞ LỚP
+A102: 97 | B102: INT14149 | C102: IoT và ứng dụng | D102: 3 | E102: MỞ LỚP
+A103: 98 | B103: INT14151 | C103: Phát triển các hệ thống thông minh | D103: 3 | E103: MỞ LỚP
+A104: 99 | B104: INT1422 | C104: Kho dữ liệu và khai phá dữ liệu | D104: 3 | E104: MỞ LỚP
+A105: 100 | B105: INT1427 | C105: Kiến trúc và thiết kế phần mềm | D105: 3 | E105: MỞ LỚP
+A106: 101 | B106: INT1433 | C106: Lập trình mạng | D106: 3 | E106: MỞ LỚP
+A107: 102 | B107: INT1433_CLC | C107: Lập trình mạng | D107: 3 | E107: MỞ LỚP
+A108: 103 | B108: INT1434 | C108: Lập trình Web | D108: 3 | E108: MỞ LỚP
+A109: 104 | B109: INT1434_CLC | C109: Lập trình web | D109: 3 | E109: MỞ LỚP
+A110: 105 | B110: INT1449 | C110: Phát triển ứng dụng cho các thiết bị di động | D110: 3 | E110: MỞ LỚP
+A111: 106 | B111: INT1449_CLC | C111: Phát triển ứng dụng cho các thiết bị di động | D111: 3 | E111: MỞ LỚP
+A112: 107 | B112: INT1450 | C112: Quản lý dự án phần mềm | D112: 2 | E112: MỞ LỚP
+A113: 108 | B113: INT1472_CLC | C113: Cơ sở an toàn thông tin | D113: 3 | E113: MỞ LỚP
+A114: 109 | B114: MUL13122 | C114: Kỹ thuật nhiếp ảnh | D114: 2 | E114: MỞ LỚP
+A115: 110 | B115: MUL13124 | C115: Dựng audio và video phi tuyến | D115: 3 | E115: MỞ LỚP
+A116: 111 | B116: MUL14134 | C116: Thiết kế hình động 1 | D116: 3 | E116: MỞ LỚP
+A117: 112 | B117: MUL1454 | C117: Thiết kế đồ họa 3D | D117: 3 | E117: MỞ LỚP
+A118: 113 | B118: OTC1301 | C118: Thực hành cơ sở | D118: 3 | E118: MỞ LỚP
+A119: 114 | B119: TEL1337 | C119: Toán rời rạc | D119: 3 | E119: MỞ LỚP
+A120: 115 | B120: TEL1338 | C120: Kiến trúc máy tính | D120: 2 | E120: MỞ LỚP
+A121: 116 | B121: TEL1340 | C121: Kỹ thuật lập trình | D121: 3 | E121: MỞ LỚP
+A122: 117 | B122: TEL1342 | C122: Cấu trúc dữ liệu và giải thuật | D122: 3 | E122: MỞ LỚP
+A123: 118 | B123: TEL1344 | C123: Lý thuyết truyền tin | D123: 3 | E123: MỞ LỚP
+A124: 119 | B124: TEL1345 | C124: Kỹ thuật siêu cao tần | D124: 3 | E124: MỞ LỚP
+A125: 120 | B125: TEL1368 | C125: Tín hiệu và Hệ thống | D125: 3 | E125: MỞ LỚP
+A126: 121 | B126: TEL1405 | C126: Kỹ thuật mạng truyền thông | D126: 3 | E126: MỞ LỚP
+A127: 122 | B127: TEL1406 | C127: Kỹ thuật thông tin quang | D127: 3 | E127: MỞ LỚP
+A128: 123 | B128: TEL1407 | C128: Kỹ thuật thông tin vô tuyến | D128: 3 | E128: MỞ LỚP
+A129: 124 | B129: TEL1412 | C129: Mô phỏng hệ thống truyền thông | D129: 2 | E129: MỞ LỚP
+A130: 125 | B130: TEL1415 | C130: Thông tin di động | D130: 3 | E130: MỞ LỚP
+A131: 126 | B131: TEL1421 | C131: Truyền sóng và anten | D131: 3 | E131: MỞ LỚP
+A132: 127 | B132: TEL1432 | C132: Thông tin vệ tinh | D132: 2 | E132: MỞ LỚP
+A133: 128 | B133: TEL1448 | C133: Lập trình hướng đối tượng | D133: 3 | E133: MỞ LỚP
+A134: 129 | B134: TEL1465 | C134: Quy hoạch và tối ưu mạng di động | D134: 3 | E134: MỞ LỚP
+A135: 130 | B135: TEL1469 | C135: Internet và các giao thức | D135: 3 | E135: MỞ LỚP
+A136: 131 | B136: BSA1305 | C136: Đạo đức kinh doanh và văn hóa doanh nghiệp | D136: 2 | E136: MỞ LỚP | F136: Môn học TTTN
+A137: 132 | B137: BSA1334 | C137: Quản trị thương hiệu | D137: 2 | E137: MỞ LỚP | F137: Môn học TTTN
+A138: 133 | B138: INT14103 | C138: Kỹ thuật lập trình hướng đối tượng | D138: 3 | E138: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành CNPM | F138: Môn học TTTN
+A139: 134 | B139: INT14104 | C139: Phân tích TK và đảm bảo chất lượng phần mềm | D139: 3 | E139: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành CNPM | F139: Môn học TTTN
+A140: 135 | B140: INT1498 | C140: Phát triển ứng dụng phân tán | D140: 3 | E140: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành HTTT | F140: Môn học TTTN
+A141: 136 | B141: INT1497M | C141: Phát triển các hệ thống dựa trên tri thức | D141: 3 | E141: Học thay thế cho môn Đồ án tốt nghiệp INT1478 cho sv chuyên ngành HTTT | F141: Môn học TTTN
+A142: 137 | B142: MUL1487 | C142: Phóng sự truyền hình | D142: 3 | F142: Môn học TTTN
+A143: 138 | B143: MUL1488 | C143: Báo mạng điện tử | D143: 3 | F143: Môn học TTTN
+A144: 139 | B144: ELE1498 | C144: Xử lý tín hiệu trong hệ thống truyền thông | D144: 3 | E144: Học thay thế cho môn Đồ án tốt nghiệp ELE1437 | F144: Môn học TTTN
+A145: 140 | B145: ELE1497 | C145: Xây dựng hệ thống số | D145: 3 | E145: Học thay thế cho môn Đồ án tốt nghiệp ELE1438 | F145: Môn học TTTN
+A146: 141 | B146: TEL1434M | C146: Công nghệ truy nhập quang băng rộng | D146: 3 | F146: Môn học TTTN
+A147: 142 | B147: BAS1111 | C147: Những nguyên lý cơ bản của Chủ nghĩa Mác Lênin 1 | D147: 2 | E147: Không mở lớp - thay thế bằng BAS1150
+A148: 143 | B148: BAS1112 | C148: Những nguyên lý cơ bản của Chủ nghĩa Mác Lênin 2 | D148: 3 | E148: Không mở lớp - thay thế bằng BAS1151
+A149: 144 | B149: BAS1102 | C149: Đường lối cách mạng của Đảng cộng sản Việt Nam | D149: 3 | E149: Không mở lớp - thay thế bằng BAS1153
+A150: 145 | B150: BAS1142 | C150: Tiếng Anh A12 | D150: 4 | E150: Không mở lớp - thay thế bằng BAS1157
+A151: 146 | B151: BAS1143 | C151: Tiếng Anh A21 | D151: 3 | E151: Không mở lớp - thay thế bằng BAS1158
+A152: 147 | B152: BAS1144 | C152: Tiếng Anh A22 | D152: 4 | E152: Không mở lớp - thay thế bằng BAS1159
+A153: 148 | B153: BAS1145 | C153: Tiếng Anh B11 | D153: 3 | E153: Không mở lớp - thay thế bằng BAS1159
+A154: 149 | B154: BAS1146 | C154: Tiếng Anh B12 | D154: 4 | E154: Không mở lớp - thay thế bằng BAS1160
+A155: 150 | B155: BAS1227_CLC | C155: Vật lý 3 và thí nghiệm | D155: 4 | E155: Không mở lớp - thay thế bằng BAS1227
+A156: 151 | B156: ELE1302 | C156: Cấu kiện điện tử | D156: 2 | E156: Không mở lớp - thay thế bằng ELE13105
+A157: 152 | B157: INT1323 | C157: Kiến trúc máy tính | D157: 2 | E157: Không mở lớp - thay thế bằng INT13145
+A158: 153 | B158: INT1328 | C158: Kỹ thuật đồ họa | D158: 2 | E158: Không mở lớp - thay thế bằng INT13162
+A159: 154 | B159: TEL1418 | C159: Tín hiệu và hệ thống | D159: 2 | E159: Không mở lớp - thay thế bằng TEL1368
+A160: 155 | B160: TEL1409 | C160: Internet và giao thức | D160: 2 | E160: Không mở lớp - thay thế bằng TEL1469
+A161: 156 | B161: FIA1422 | C161: Phân tích báo cáo tài chính doanh nghiệp | D161: 2 | E161: Không mở lớp - thay thế bằng FIA1468
+A162: 157 | B162: ELE14103 | C162: Chuyên đề xử lý tín hiệu và truyền thông | D162: 3 | E162: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F162: Sv làm Đơn xin xác nhận của Khoa về Môn học thay thế và nộp tại VP 1 cửa (ô số 1) trước 14/04/2025
+A163: 158 | B163: ELE1416 | C163: Kỹ thuật logic khả trình PLC | D163: 2 | E163: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F163: nt
+A164: 159 | B164: INT13108 | C164: Ngôn ngữ lập trình Java | D164: 3 | E164: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F164: nt
+A165: 160 | B165: INT13109 | C165: Lập trình hướng đối tượng với C++ | D165: 3 | E165: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F165: nt
+A166: 161 | B166: INT1491 | C166: Mật mã học nâng cao | D166: 2 | E166: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F166: nt
+A167: 162 | B167: MUL13102 | C167: Rủi ro và xử lý khủng hoảng truyền thông | D167: 2 | E167: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F167: nt
+A168: 163 | B168: MUL1392 | C168: Truyền thông: Lý thuyết và ứng dụng | D168: 2 | E168: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F168: nt
+A169: 164 | B169: MUL1393 | C169: Truyền thông xã hội | D169: 2 | E169: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F169: nt
+A170: 165 | B170: MUL1399 | C170: Phỏng vấn: Lý thuyết và thực hành | D170: 2 | E170: Không còn trong CTĐT, sinh viên liên hệ Khoa để xác nhận môn có thể học thay thế | F170: nt
+A171: 166 | B171: INT1405 | C171: Các hệ thống phân tán | D171: 3 | E171: Không mở lớp, Khoa không bố trí được Giảng viên
+A172: 167 | B172: INT1418 | C172: Hệ cơ sở dữ liệu đa phương tiện | D172: 3 | E172: Không mở lớp, Khoa không bố trí được Giảng viên
+A173: 168 | B173: MUL1429 | C173: Thiết kế web cơ bản | D173: 2 | E173: Không mở lớp
+A174: 169 | B174: INT1330 | C174: Kỹ thuật vi xử lý | D174: 3 | E174: Không mở lớp
+A175: 170 | B175: TEL1416 | C175: Thu phát vô tuyến | D175: 3 | E175: Không mở lớp
+A176: 171 | B176: INT13147 | C176: Thực tập cơ sở | D176: 3 | E176: Không mở lớp
+A177: 172 | B177: BAS1105M | C177: Giáo dục quốc phòng | D177: 7.5 | E177: Không mở lớp
+A178: 173 | B178: BAS1106 | C178: Giáo dục thể chất 1 | D178: 2 | E178: Không mở lớp
+A179: 174 | B179: BAS1107_CLC | C179: Giáo dục thể chất 2 | D179: 2 | E179: Không mở lớp
+A180: 175 | B180: BAS1156 | C180: Học phần tiếng anh bổ trợ (Course 0) | D180: 0 | E180: Không mở lớp
+A181: 176 | B181: BAS1163_CLC | C181: Tiếng Anh (Course 2_CLC) | D181: 8 | E181: Không mở lớp
+A182: 177 | B182: BAS1164_CLC | C182: Tiếng Anh (Course 3_CLC) | D182: 8 | E182: Không mở lớp
+A183: 178 | B183: BAS1269 | C183: Xác suất thống kê | D183: 3 | E183: Không mở lớp
+A184: 179 | B184: BAS1270 | C184: Vật lý ứng dụng | D184: 4 | E184: Không mở lớp
+A185: 180 | B185: BAS1270_CLC | C185: Vật lý ứng dụng | D185: 4 | E185: Không mở lớp
+A186: 181 | B186: BSA1221 | C186: Pháp luật đại cương | D186: 2 | E186: Không mở lớp
+A187: 182 | B187: BSA1236 | C187: Tâm lý quản lý | D187: 2 | E187: Không mở lớp
+A188: 183 | B188: BSA1311_CLC | C188: Kinh tế vĩ mô  | D188: 3 | E188: Không mở lớp
+A189: 184 | B189: BSA1328 | C189: Quản trị học | D189: 3 | E189: Không mở lớp
+A190: 185 | B190: BSA1333 | C190: Quản trị sản xuất | D190: 3 | E190: Không mở lớp
+A191: 186 | B191: BSA1335 | C191: Quản trị văn phòng | D191: 2 | E191: Không mở lớp
+A192: 187 | B192: BSA1338 | C192: Thống kê doanh nghiệp | D192: 3 | E192: Không mở lớp
+A193: 188 | B193: BSA1348 | C193: Nguyên lý thống kê kinh tế | D193: 3 | E193: Không mở lớp
+A194: 189 | B194: BSA1349 | C194: Quản lý dự án | D194: 2 | E194: Không mở lớp
+A195: 190 | B195: BSA1351 | C195: Logicstics căn bản | D195: 2 | E195: Không mở lớp
+A196: 191 | B196: BSA1354 | C196: Quản trị bán hàng và phân phối sản phẩm | D196: 2 | E196: Không mở lớp
+A197: 192 | B197: BSA1364 | C197: Quản trị dự án | D197: 2 | E197: Không mở lớp
+A198: 193 | B198: BSA1461 | C198: Thương mại di động | D198: 2 | E198: Không mở lớp
+A199: 194 | B199: BSA1473 | C199: Quản trị dự trữ | D199: 2 | E199: Không mở lớp
+A200: 195 | B200: ELE1308 | C200: Điện tử công suất | D200: 3 | E200: Không mở lớp
+A201: 196 | B201: ELE1386 | C201: Nhập môn kỹ thuật điện tử | D201: 2 | E201: Không mở lớp
+A202: 197 | B202: ELE1412 | C202: Đồ án thiết kế mạch điện tử | D202: 2 | E202: Không mở lớp
+A203: 198 | B203: ELE1414 | C203: Đồ án xử lý tín hiệu số | D203: 2 | E203: Không mở lớp
+A204: 199 | B204: ELE1423 | C204: Thiết kế hệ thống VLSI | D204: 2 | E204: Không mở lớp
+A205: 200 | B205: ELE1428 | C205: Truyền thông số | D205: 2 | E205: Không mở lớp
+A206: 201 | B206: ELE1432 | C206: Xử lý tiếng nói | D206: 3 | E206: Không mở lớp
+A207: 202 | B207: FIA1313 | C207: Kế toán tài chính 2 | D207: 3 | E207: Không mở lớp
+A208: 203 | B208: FIA1321 | C208: Nguyên lý kế toán | D208: 3 | E208: Không mở lớp
+A209: 204 | B209: FIA1325 | C209: Tài chính doanh nghiệp | D209: 3 | E209: Không mở lớp
+A210: 205 | B210: FIA1326 | C210: Tài chính tiền tệ | D210: 3 | E210: Không mở lớp
+A211: 206 | B211: FIA1332 | C211: Kế toán quản trị | D211: 3 | E211: Không mở lớp
+A212: 207 | B212: FIA1334 | C212: Kế toán quản trị | D212: 2 | E212: Không mở lớp
+A213: 208 | B213: FIA1342 | C213: Kế toán căn bản | D213: 2 | E213: Không mở lớp
+A214: 209 | B214: FIA1374 | C214: Xuất nhập khẩu và thanh toán quốc tế | D214: 3 | E214: Không mở lớp
+A215: 210 | B215: FIA1402 | C215: CFA | D215: 3 | E215: Không mở lớp
+A216: 211 | B216: FIA1404 | C216: Hệ thống thông tin kế toán | D216: 3 | E216: Không mở lớp
+A217: 212 | B217: FIA1405 | C217: Kế toán công | D217: 2 | E217: Không mở lớp
+A218: 213 | B218: FIA1406 | C218: Kế toán doanh nghiệp bảo hiểm | D218: 2 | E218: Không mở lớp
+A219: 214 | B219: FIA1409 | C219: Kế toán máy | D219: 2 | E219: Không mở lớp
+A220: 215 | B220: FIA1414 | C220: Kế toán tài chính 3 | D220: 2 | E220: Không mở lớp
+A221: 216 | B221: FIA1433 | C221: Thị trường chứng khoán | D221: 2 | E221: Không mở lớp
+A222: 217 | B222: FIA1440 | C222: Định giá doanh nghiệp | D222: 2 | E222: Không mở lớp
+A223: 218 | B223: FIA1441M | C223: Kế toán quản trị 2 | D223: 3 | E223: Không mở lớp
+A224: 219 | B224: FIA1444 | C224: Kế toán tài chính doanh nghiệp (theo chế độ kế toán Việt Nam) | D224: 2 | E224: Không mở lớp
+A225: 220 | B225: FIA1446 | C225: Ghi sổ kế toán và lập báo cáo tài chính | D225: 2 | E225: Không mở lớp
+A226: 221 | B226: FIA1464 | C226: Nghiệp vụ ngân hàng thương mại | D226: 3 | E226: Không mở lớp
+A227: 222 | B227: FIA1465 | C227: Đầu tư tài chính | D227: 3 | E227: Không mở lớp
+A228: 223 | B228: FIA1466 | C228: Quản trị rủi ro tài chính | D228: 3 | E228: Không mở lớp
+A229: 224 | B229: INT1156 | C229: Tin học cơ sở 3 | D229: 2 | E229: Không mở lớp
+A230: 225 | B230: INT13112 | C230: Nguyên lý lập trình (BU) | D230: 3 | E230: Không mở lớp
+A231: 226 | B231: INT13113 | C231: Nhập môn cơ sở dữ liệu | D231: 3 | E231: Không mở lớp
+A232: 227 | B232: INT13128 | C232: Cơ sở dữ liệu (Fintech) | D232: 3 | E232: Không mở lớp
+A233: 228 | B233: INT13129 | C233: Lập trình Python (Fintech) | D233: 3 | E233: Không mở lớp
+A234: 229 | B234: INT13132 | C234: Phân tích và thiết kế hệ thống thông tin quản lý (Fintech) | D234: 3 | E234: Không mở lớp
+A235: 230 | B235: INT13147_CLC | C235: Thực tập cơ sở | D235: 4 | E235: Không mở lớp
+A236: 231 | B236: INT1336_CLC | C236: Mạng máy tính | D236: 3 | E236: Không mở lớp
+A237: 232 | B237: INT1341_CLC | C237: Nhập môn trí tuệ nhân tạo | D237: 3 | E237: Không mở lớp
+A238: 233 | B238: INT1344 | C238: Mật mã học cơ sở | D238: 3 | E238: Không mở lớp
+A239: 234 | B239: INT1405_CLC | C239: Các hệ thống phân tán | D239: 3 | E239: Không mở lớp
+A240: 235 | B240: INT1408 | C240: Chuyên đề công nghệ phần mềm | D240: 1 | E240: Không mở lớp
+A241: 236 | B241: INT1409 | C241: Chuyên đề hệ thống thông tin | D241: 1 | E241: Không mở lớp
+A242: 237 | B242: INT14102 | C242: Các kỹ thuật giấu tin | D242: 2 | E242: Không mở lớp
+A243: 238 | B243: INT14105 | C243: An toàn ứng dụng web và cơ sở dữ liệu | D243: 3 | E243: Không mở lớp
+A244: 239 | B244: INT14107 | C244: Kiểm thử xâm nhập | D244: 3 | E244: Không mở lớp
+A245: 240 | B245: INT14120_CLC | C245: Nhập môn khoa học dữ liệu | D245: 3 | E245: Không mở lớp
+A246: 241 | B246: INT1414 | C246: Cơ sở dữ liệu phân tán | D246: 2 | E246: Không mở lớp
+A247: 242 | B247: INT14150 | C247: Nhập môn khoa học dữ liệu | D247: 3 | E247: Không mở lớp
+A248: 243 | B248: INT1416 | C248: Đảm bảo chất lượng phần mềm | D248: 3 | E248: Không mở lớp
+A249: 244 | B249: INT1416_CLC | C249: Đảm bảo chất lượng phần mềm | D249: 3 | E249: Không mở lớp
+A250: 245 | B250: INT14164 | C250: Phân tích mã độc | D250: 2 | E250: Không mở lớp
+A251: 246 | B251: INT1429M | C251: Kỹ thuật theo dõi và giám sát an toàn mạng | D251: 2 | E251: Không mở lớp
+A252: 247 | B252: INT1445 | C252: Phát triển hệ thống thông tin quản lý | D252: 3 | E252: Không mở lớp
+A253: 248 | B253: INT1446 | C253: Phát triển hệ thống thương mại điện tử | D253: 3 | E253: Không mở lớp
+A254: 249 | B254: INT1448 | C254: Phát triển phần mềm hướng dịch vụ | D254: 3 | E254: Không mở lớp
+A255: 250 | B255: INT1448_CLC | C255: Phát triển phần mềm hướng dịch vụ | D255: 3 | E255: Không mở lớp
+A256: 251 | B256: INT1450_CLC | C256: Quản lý dự án phần mềm | D256: 3 | E256: Không mở lớp
+A257: 252 | B257: INT1461 | C257: Xây dựng các hệ thống nhúng | D257: 3 | E257: Không mở lớp
+A258: 253 | B258: INT1472 | C258: Cơ sở an toàn thông tin | D258: 3 | E258: Không mở lớp
+A259: 254 | B259: INT1487 | C259: Hệ điều hành Windows và Linux/Unix | D259: 3 | E259: Không mở lớp
+A260: 255 | B260: MAR1314 | C260: Truyền thông marketing tích hợp | D260: 3 | E260: Không mở lớp
+A261: 256 | B261: MAR1322 | C261: Marketing căn bản | D261: 3 | E261: Không mở lớp
+A262: 257 | B262: MAR1323 | C262: Thương mại điện tử | D262: 2 | E262: Không mở lớp
+A263: 258 | B263: MAR1333 | C263: Internet và ứng dụng trong kinh doanh | D263: 3 | E263: Không mở lớp
+A264: 259 | B264: MAR1424 | C264: Quản trị Marketing | D264: 2 | E264: Không mở lớp
+A265: 260 | B265: MUL1238 | C265: Cơ sở tạo hình | D265: 3 | E265: Không mở lớp
+A266: 261 | B266: MUL1307 | C266: Xử lý và truyền thông đa phương tiện | D266: 2 | E266: Không mở lớp
+A267: 262 | B267: MUL13101 | C267: Báo chí điều tra | D267: 2 | E267: Không mở lớp
+A268: 263 | B268: MUL13108 | C268: Ngôn ngữ lập trình Java | D268: 3 | E268: Không mở lớp
+A269: 264 | B269: MUL13151 | C269: Thiết kế tương tác đa phương tiện | D269: 3 | E269: Không mở lớp
+A270: 265 | B270: MUL13152 | C270: Thiết kế web cơ bản | D270: 3 | E270: Không mở lớp
+A271: 266 | B271: MUL1320 | C271: Nhập môn đa phương tiện | D271: 2 | E271: Không mở lớp
+A272: 267 | B272: MUL1394 | C272: Truyền thông và dư luận xã hội | D272: 2 | E272: Không mở lớp
+A273: 268 | B273: MUL1396 | C273: Viết đa phương tiện | D273: 2 | E273: Không mở lớp
+A274: 269 | B274: MUL1397 | C274: Biên tập văn bản báo chí | D274: 2 | E274: Không mở lớp
+A275: 270 | B275: MUL1398 | C275: Nghệ thuật kể chuyện đa phương tiện | D275: 2 | E275: Không mở lớp
+A276: 271 | B276: MUL14106 | C276: Báo chí đa phương tiện | D276: 3 | E276: Không mở lớp
+A277: 272 | B277: MUL14108 | C277: Lý thuyết PR | D277: 2 | E277: Không mở lớp
+A278: 273 | B278: MUL14110 | C278: Quảng cáo đa phương tiện | D278: 2 | E278: Không mở lớp
+A279: 274 | B279: MUL14113 | C279: Ứng dụng đồ họa đa phương tiện | D279: 3 | E279: Không mở lớp
+A280: 275 | B280: MUL14115 | C280: Ứng dụng sản xuất audio và video | D280: 3 | E280: Không mở lớp
+A281: 276 | B281: MUL14116 | C281: Thực hành chuyên sâu | D281: 4 | E281: Không mở lớp
+A282: 277 | B282: MUL14125 | C282: Xử lý ảnh và video | D282: 3 | E282: Không mở lớp
+A283: 278 | B283: MUL14127 | C283: Thiết kế Game | D283: 3 | E283: Không mở lớp
+A284: 279 | B284: MUL14131 | C284: Luật xa gần | D284: 3 | E284: Không mở lớp
+A285: 280 | B285: MUL14132 | C285: Cơ sở tạo hình nâng cao | D285: 3 | E285: Không mở lớp
+A286: 281 | B286: MUL14136 | C286: Nghệ thuật đồ họa chữ (Typography) | D286: 3 | E286: Không mở lớp
+A287: 282 | B287: MUL14138 | C287: Thiết kế ấn phẩm điện tử 1 | D287: 3 | E287: Không mở lớp
+A288: 283 | B288: MUL14140 | C288: Thiết kế hình động 2 | D288: 3 | E288: Không mở lớp
+A289: 284 | B289: MUL14143 | C289: Mỹ học | D289: 3 | E289: Không mở lớp
+A290: 285 | B290: MUL14144 | C290: Kịch bản phân cảnh | D290: 3 | E290: Không mở lớp
+A291: 286 | B291: MUL14145 | C291: Thiết kế hình động 3D | D291: 3 | E291: Không mở lớp
+A292: 287 | B292: MUL1415 | C292: Kỹ xảo đa phương tiện | D292: 2 | E292: Không mở lớp
+A293: 288 | B293: MUL14153 | C293: Thiết kế ứng dụng trên đầu cuối di động | D293: 3 | E293: Không mở lớp
+A294: 289 | B294: MUL14155 | C294: Thiết kế giao diện người dùng | D294: 3 | E294: Không mở lớp
+A295: 290 | B295: MUL1423 | C295: Kịch bản đa phương tiện | D295: 2 | E295: Không mở lớp
+A296: 291 | B296: MUL1459 | C296: Thiết kế nhận diện thương hiệu | D296: 3 | E296: Không mở lớp
+A297: 292 | B297: SKD1101 | C297: Kỹ năng thuyết trình | D297: 1 | E297: Không mở lớp
+A298: 293 | B298: SKD1102 | C298: Kỹ năng làm việc nhóm | D298: 1 | E298: Không mở lớp
+A299: 294 | B299: SKD1103 | C299: Kỹ năng tạo lập Văn bản | D299: 1 | E299: Không mở lớp
+A300: 295 | B300: SKD1108 | C300: Phương pháp luận nghiên cứu khoa học | D300: 2 | E300: Không mở lớp
+A301: 296 | B301: TEL1339 | C301: Hệ điều hành | D301: 2 | E301: Không mở lớp
+A302: 297 | B302: TEL1341 | C302: Công nghệ phần mềm | D302: 3 | E302: Không mở lớp
+A303: 298 | B303: TEL1343 | C303: Cơ sở dữ liệu | D303: 3 | E303: Không mở lớp
+A304: 299 | B304: TEL1346 | C304: Mạng truyền thông quang | D304: 3 | E304: Không mở lớp
+A305: 300 | B305: TEL1393 | C305: Công nghệ phần mềm | D305: 2 | E305: Không mở lớp
+A306: 301 | B306: TEL1401 | C306: An toàn mạng thông tin | D306: 3 | E306: Không mở lớp
+A307: 302 | B307: TEL1401M | C307: An ninh mạng thông tin | D307: 3 | E307: Không mở lớp
+A308: 303 | B308: TEL1407C | C308: Cơ sở kỹ thuật thông tin vô tuyến | D308: 3 | E308: Không mở lớp
+A309: 304 | B309: TEL1447 | C309: Điện toán đám mây | D309: 2 | E309: Không mở lớp
+A310: 305 | B310: TEL1454 | C310: Lập trình nhúng | D310: 2 | E310: Không mở lớp
+A311: 306 | B311: TEL1455 | C311: Quản trị mạng | D311: 2 | E311: Không mở lớp
+A312: 307 | B312: TEL1457 | C312: Hệ thống nhúng IoT | D312: 3 | E312: Không mở lớp
+A313: 308 | B313: TEL1458 | C313: Mạng cảm biến không dây | D313: 3 | E313: Không mở lớp
+A314: 309 | B314: TEL1460 | C314: Lưu trữ và phân tích dữ liệu | D314: 3 | E314: Không mở lớp
+A315: 310 | B315: TEL1462 | C315: Kỹ thuật thu phát vô tuyến | D315: 3 | E315: Không mở lớp
+A316: 311 | B316: TEL1464 | C316: Các giải pháp và hệ thống IoT tiên tiến | D316: 2 | E316: Không mở lớp
+A317: 312 | B317: TEL1467 | C317: Hệ thống cảm biến | D317: 3 | E317: Không mở lớp

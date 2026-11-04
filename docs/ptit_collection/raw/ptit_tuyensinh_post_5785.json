@@ -1,0 +1,125 @@
+{
+  "id": 5785,
+  "date": "2026-07-30T16:59:37",
+  "date_gmt": "2026-07-30T09:59:37",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5785"
+  },
+  "modified": "2026-07-30T16:59:37",
+  "modified_gmt": "2026-07-30T09:59:37",
+  "slug": "quyet-dinh-cong-nhan-nghien-cuu-sinh-dot-1-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/quyet-dinh-cong-nhan-nghien-cuu-sinh-dot-1-nam-2026/",
+  "title": {
+    "rendered": "Quyết định Công nhận Nghiên cứu sinh đợt 1 năm 2026"
+  },
+  "content": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông trân trọng công bố quyết định 2244QĐ-HV ngày 24/07/2026 về việc Công nhận Nghiên cứu sinh đợt 1 năm 2026</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/07/2026.07.24.-QD2244-Cong-nhan-NCS-dot-1.2026-dang-mang.pdf\">2026.07.24. QD2244 Công nhận NCS dot 1.2026 dang mang</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Học viện Công nghệ Bưu chính Viễn thông trân trọng công bố quyết định 2244QĐ-HV ngày 24/07/2026 về việc Công nhận Nghiên cứu sinh đợt 1 năm 2026 2026.07.24. QD2244 Công nhận NCS dot 1.2026 dang mang</p>\n",
+    "protected": false
+  },
+  "author": 18,
+  "featured_media": 5787,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5785",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5785",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/18"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5785"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5785/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5788,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5785/revisions/5788"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/5787"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5785"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5785"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5785"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

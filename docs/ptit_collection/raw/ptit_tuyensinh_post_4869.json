@@ -1,0 +1,119 @@
+{
+  "id": 4869,
+  "date": "2025-12-29T08:48:25",
+  "date_gmt": "2025-12-29T01:48:25",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4869"
+  },
+  "modified": "2025-12-29T09:30:25",
+  "modified_gmt": "2025-12-29T02:30:25",
+  "slug": "4869-2",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/4869-2/",
+  "title": {
+    "rendered": "Thông báo điểm chuẩn trúng tuyển và quyết định về việc phê duyệt danh sách trúng tuyển trình độ tiến sĩ đợt 2 năm 2025"
+  },
+  "content": {
+    "rendered": "<p>Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/06/2021 của Bộ trưởng Bộ Giáo dục &amp; Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;</p>\n<p>Căn cứ Quyết định số 555/QĐ-HV ngày 22/04/2022 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc ban hành Quy định tuyển sinh và đào tạo trình độ tiến sĩ;</p>\n<p>Căn cứ kết quả cuộc họp ngày 26/12/2025 của Hội đồng xét tuyển nghiên cứu sinh đợt 2 năm 2025,</p>\n<p>Học viện Công nghệ Bưu chính Viễn thông trân trọng thông báo Điểm chuẩn trúng tuyển nghiên cứu sinh đợt 2 năm 2025 của Học viện như sau:</p>\n<p>Điểm trung bình cộng của điểm đánh giá hồ sơ và điểm báo cáo định hướng nghiên cứu đạt từ 56.6 điểm trở lên.</p>\n<p>Trân trọng thông báo!</p>\n<p><strong>ĐIỂM CHUẨN TRÚNG TUYỂN <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/12/TB1644-Diem-chuan-trung-tuyen-NCS-d2.2025.pdf\">TB1644 Diem chuan trung tuyen NCS d2.2025</a></strong></p>\n<p><strong>QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT </strong><strong>DANH SÁCH TRÚNG TUYỂN <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/12/QD3292-Phe-duyet-DS-trung-tuyen-NCS-d2.2025.pdf\">QD3292 Phe duyet DS trung tuyen NCS d2.2025</a></strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/06/2021 của Bộ trưởng Bộ Giáo dục &amp; Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ; Căn cứ Quyết định số 555/QĐ-HV ngày 22/04/2022 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc ban hành [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 4874,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4869",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4869",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4869"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4869/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4874"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4869"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4869"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4869"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": 32846,
+  "date": "2025-09-13T09:10:42",
+  "date_gmt": "2025-09-13T02:10:42",
+  "guid": {
+    "rendered": "https://giaovu.ptit.edu.vn/?p=32846"
+  },
+  "modified": "2025-09-13T09:10:42",
+  "modified_gmt": "2025-09-13T02:10:42",
+  "slug": "dang-ky-lam-do-an-tot-nghiep-cho-sinh-vien-khoa-2021-khoi-nganh-ky-thuat",
+  "status": "publish",
+  "type": "post",
+  "link": "https://giaovu.ptit.edu.vn/dang-ky-lam-do-an-tot-nghiep-cho-sinh-vien-khoa-2021-khoi-nganh-ky-thuat/",
+  "title": {
+    "rendered": "Đăng ký làm Đồ án tốt nghiệp cho sinh viên khóa 2021 khối ngành kỹ thuật"
+  },
+  "content": {
+    "rendered": "<p>Phòng Giáo vụ thông báo đến sinh viên khóa 2021 khối ngành kỹ thuật về việc đăng ký làm Đồ án tốt nghiệp (ĐATN) như sau:</p>\n<ol>\n<li><strong> Đối tượng:</strong></li>\n</ol>\n<ul>\n<li>Sinh viên đã hoàn thành Thực tập tốt nghiệp (TTTN) sẽ đăng ký làm ĐATN. (Toàn bộ sinh viên sẽ làm ĐATN, không tổ chức học các học phần thay thế tốt nghiệp)</li>\n</ul>\n<ol start=\"2\">\n<li><strong> Thời gian và hình thức đăng ký:</strong></li>\n</ol>\n<ul>\n<li>Sinh viên đăng ký ĐATN trực tuyến trên hệ thống QLĐT: <a href=\"https://qldt.ptit.edu.vn\">https://qldt.ptit.edu.vn</a></li>\n<li>Thời gian đăng ký: từ 12h00 ngày 13/09/2025 đến 24h00 ngày 16/09/2025.</li>\n</ul>\n<ol start=\"3\">\n<li><strong> Đăng ký đề tài và giảng viên hướng dẫn:</strong></li>\n</ol>\n<ul>\n<li>Sau khi hoàn tất đăng ký học phần ĐATN trên QLĐT, sinh viên liên hệ với Khoa chuyên môn để thực hiện đăng ký đề tài và giảng viên hướng dẫn.</li>\n</ul>\n<ol start=\"4\">\n<li><strong> Kiểm tra điểm TTTN:</strong></li>\n</ol>\n<p>&#8211; Sinh viên kiểm tra điều kiện đạt TTTN tại bảng điểm trong QLĐT (Điểm các học phần khác của học kỳ 2 đang được rà soát, sinh viên theo dõi để cập nhật kịp thời).</p>\n<p>&#8211; Nếu có thắc mắc về điểm TTTN, Sinh viên gửi email đến cô Hoàng Kim Cúc (hkcuc@ptit.edu.vn) trước 16h30 ngày 16/09/2025 để được giải quyết (chỉ chấp nhận email HV cấp).</p>\n<p>&#8211; Lưu ý: Các sinh viên khoá trước nợ học phần tốt nghiệp: Đăng ký lớp riêng được mở trong tháng 9-10/2025 (thông báo sau)</p>\n<p>Đề nghị các sinh viên thực hiện nghiêm túc theo đúng hướng dẫn trên.</p>\n<p><strong>Trân trọng thông báo./.</strong></p>\n<p><em><span style=\"text-decoration: underline\"><strong>Tải về:</strong></span></em></p>\n<p><a href=\"https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/09/Thong-bao-SV-du-DK-lam-Khoa-luan-TN-D21-Ky-thuat.doc\">Toàn văn thông báo + Phụ lục</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Phòng Giáo vụ thông báo đến sinh viên khóa 2021 khối ngành kỹ thuật về việc đăng ký làm Đồ án tốt nghiệp (ĐATN) như sau: Đối tượng: Sinh viên đã hoàn thành Thực tập tốt nghiệp (TTTN) sẽ đăng ký làm ĐATN. (Toàn bộ sinh viên sẽ làm ĐATN, không tổ chức học các [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 16,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": true,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    12,
+    4,
+    5,
+    6,
+    11
+  ],
+  "tags": [],
+  "class_list": [
+    "post-32846",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-ke-hoach-thuc-tap-tot-nghiep-vi",
+    "category-thong-bao",
+    "category-thong-bao-tu-hoc-vien-vi",
+    "category-thong-bao-tu-phonggv-vi",
+    "category-thuc-tap-tot-nghiep"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32846",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/users/16"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/comments?post=32846"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/posts/32846/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/media?parent=32846"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/categories?post=32846"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://giaovu.ptit.edu.vn/wp-json/wp/v2/tags?post=32846"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

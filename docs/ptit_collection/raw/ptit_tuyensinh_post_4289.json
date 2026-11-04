@@ -1,0 +1,123 @@
+{
+  "id": 4289,
+  "date": "2025-05-20T14:36:13",
+  "date_gmt": "2025-05-20T07:36:13",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4289"
+  },
+  "modified": "2026-04-09T13:42:37",
+  "modified_gmt": "2026-04-09T06:42:37",
+  "slug": "quy-che-tuyen-sinh-dai-hoc-chinh-quy-nam-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/quy-che-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/",
+  "title": {
+    "rendered": "Quy chế tuyển sinh đại học chính quy (ban hành năm 2025)"
+  },
+  "content": {
+    "rendered": "<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/VAN-BAN-HOP-NHAT-QUY-CHE-TUYEN-SINH-2025-BGD.pdf\">Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo xem tại đây</a></p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/05/2025.QD-511-Quy-che-tuyen-sinh-DHCQ-HVBC.pdf\">Quy chế tuyển sinh của Học viện Công nghệ Bưu chính Viễn thông xem tại đây</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo xem tại đây Quy chế tuyển sinh của Học viện Công nghệ Bưu chính Viễn thông xem tại đây</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 4351,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    5,
+    32,
+    33
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4289",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_tin_tuc_tuyen_sinh",
+    "category-tin-tuc-quy-che-quy-dinh",
+    "category-tin-tuc-tuyen-sinh"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4289"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4289/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4351"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4289"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4289"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4289"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

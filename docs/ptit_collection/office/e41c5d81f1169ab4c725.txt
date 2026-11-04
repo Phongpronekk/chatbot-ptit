@@ -1,0 +1,161 @@
+KHUNG CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ TÀI NĂNG (THẠC SĨ TÍCH HỢP) NGÀNH AN TOÀN THÔNG TIN
+(Kèm theo Quyết định số       /QĐ-HV ngày      tháng      năm 2026 của Giám đốc Học viện)
+
+1. GIỚI THIỆU CHƯƠNG TRÌNH ĐÀO TẠO
+Ngành đào tạo (tiếng Việt): An toàn thông tin
+Ngành đào tạo (tiếng Anh): Information Security
+Tên chương trình: An toàn thông tin
+Trình độ đào tạo:Thạc sĩ (Thạc sĩ tích hợp)
+Mã ngành:8480202
+Thời gian đào tạo:05 năm
+Hình thức đào tạo:  Chính quy
+2. MỤC TIÊU  
+2.1. Mục tiêu chung 
+Chương trình đào tạo thạc sĩ tài năng ngành An toàn thông tin của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo người học có phẩm chất chính trị, đạo đức, sức khỏe; có kiến thức, kỹ năng thực hành nghề nghiệp; có năng lực học thuật vượt trội, khả năng nghiên cứu khoa học, tư duy sáng tạo; có tiềm năng trở thành chuyên gia, nhà nghiên cứu, đổi mới công nghệ trong lĩnh vực an toàn thông tin, công nghệ thông tin; có năng lực hội nhập quốc tế và tin thần học tập suốt đời; có khả năng thích nghi với môi trường làm việc đa ngành; có ý thức trách nhiệm nghề nghiệp, đáp ứng yêu cầu phát triển kinh tế, xã hội.
+Chương trình đào tạo thạc sĩ tài năng ngành An toàn thông tin nhằm cụ thể hóa tiêu chuẩn chung cho người tốt nghiệp trình độ đại học và thạc sĩ của Học viện đó là:
+ULO1 Tri thức – Sáng tạo – Khởi nghiệp (Subject Expertise – Innovation - Entrepreneurship):  Khả năng xác định, phân tích và giải quyết vấn đề trong lĩnh vực chuyên môn một cách hiệu quả trong bối cảnh nhất định bằng cách áp dụng các kiến thức và nguyên tắc liên quan, hướng tiếp cận đổi mới sáng tạo và các công nghệ tiên tiến có thể có, đồng thời xem xét các mục tiêu phát triển bền vững và cơ hội khởi nghiệp. 
+ULO2 Đạo đức – Trách nhiệm nghề nghiệp (Professional ethics - Reponsibilities): Khả năng vận dụng các nguyên tắc đạo đức và trách nhiệm nghề nghiệp trong thực hành nghề nghiệp, cũng như cân nhắc các yếu tố có ảnh hưởng ở cấp độ địa phương và toàn cầu. 
+ULO3  Giao tiếp – Hợp tác – Quản lý (Communication – Collaboration - Management): Khả năng giao tiếp và thực hiện công việc nhóm một cách hiệu quả nhằm đặt được các mục tiêu nghề nghiệp, cũng như quản lý các hoạt động chuyên môn dựa trên tư duy khởi nghiệp. 
+2.2 Mục tiêu cụ thể  
+Mục tiêu cụ thể của chương trình đào tạo thạc sĩ tài năng ngành An toàn thông tin của Học viện Công nghệ Bưu chính Viễn thông nhằm đào tạo thạc sĩ An toàn thông tin có: 
+PO1.  Khả năng áp dụng kiến thức và kỹ năng của mình để đạt được thành công trong sự nghiệp và/hoặc theo học tập ở bậc sau đại học để lấy bằng tiến sĩ, hoặc các bằng cấp khác cao hơn;
+PO2. Khả năng tư duy, giải quyết vấn đề một cách sáng tạo, giao tiếp hiệu quả và hoạt động thành công trong các nhóm đa ngành đa dạng và toàn diện;
+PO3. Khả năng cư xử có đạo đức và trách nhiệm, sẽ luôn được cập nhật thông tin thông qua giáo dục liên tục và sẽ tham gia đầy đủ vào các hoạt động nghề nghiệp và xã hội; 
+PO4. Khả năng phát triển và áp dụng các lý thuyết và kỹ thuật, công nghệ bảo mật hiện đại và phù hợp để bảo vệ hạ tầng máy tính, mạng, dữ liệu, quy trình và người dùng khỏi các nguy cơ, tấn công và xâm nhập.
+2.3 Vị trí làm việc sau tốt nghiệp
+Sau khi tốt nghiệp, người học có thể đảm nhận tốt các vị trí và/hoặc công việc sau: 
+Chuyên gia kỹ thuật, quản lý, điều hành trong các lĩnh vực an toàn thông tin, công nghệ thông tin, hệ thống thông tin.
+Chuyên gia bảo mật mạng, máy chủ, hệ điều hành và cơ sở dữ liệu; chuyên viên phân tích, tư vấn, thiết kế hệ thống thông tin đảm bảo an toàn; chuyên viên kiểm tra, đánh giá an toàn thông tin cho mạng và hệ thống; chuyên viên rà quét lỗ hổng, điểm yếu; chuyên viên phân tích, điều tra số xử lý sự cố an toàn thông tin, an ninh mạng.
+Chuyên gia phát triển các ứng dụng đảm bảo an toàn thông tin cũng như các ứng dụng thông thường, ứng dụng cho blockchain.
+Nhà nghiên cứu, đổi mới công nghệ trong lĩnh vực an toàn thông tin, công nghệ thông tin, hệ thống thông tin tại các viện, trung tâm nghiên cứu đổi mới sáng tạo, các tập đoàn đầu ngành về an toàn thông tin, an ninh mạng.
+Giảng viên giảng dạy, nghiên cứu về an toàn thông tin, an ninh mạng, công nghệ thông tin, hệ thống thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo đại học.
+Học viên học tiếp lên trình độ tiến sĩ ở trong nước và nước ngoài.
+3. CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO (PLOs)
+Các chuẩn đầu ra (Learning Outcomes – PLOs) và các chỉ báo (Performance Indicator - PI) của chương trình đào tạo là thước đo mức kiến thức và kỹ năng tối thiểu mà người học cần đạt được khi tốt nghiệp. Các PLO và PI kèm theo được thiết kế theo chuẩn quốc tế, với mức mức kiến thức và kỹ năng tương đương bậc 7 trong Khung trình độ quốc gia Việt Nam. Cụ thể, các PLO và PI của chương trình đào tạo cho như bảng sau:
+Chuẩn đầu ra (PLOs)
+Mức độ năng lực
+Các chỉ báo (PIs)
+PLO1. Phân tích một bài toán phức tạp và áp dụng các kiến thức tính toán liên ngành để xác định các giải pháp giải quyết bài toán.
+C4/P3
+PI1.1. Phát biểu bài toán và các yêu cầu.
+PI1.2. Phân tích các giải pháp tính toán để giải quyết bài toán.
+PI1.3. Lựa chọn giải pháp phù hợp dựa trên các nguyên lý tính toán để giải quyết bài toán.
+PLO2. Giao tiếp hiệu quả và phù hợp trong nhiều bối cảnh khoa học và chuyên môn.
+C4/P3
+PI2.1. Thể hiện kỹ năng giao tiếp hiệu quả và phù hợp bằng văn bản trong nhiều bối cảnh khoa học và chuyên môn.
+PI2.2. Trình bày các vấn đề một cách hiệu quả và phù hợp sử dụng bài thuyết trình miệng trong nhiều bối cảnh bối cảnh khoa học và chuyên môn.
+PLO3. Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt trong hoạt động bảo mật dựa trên các nguyên tắc pháp lý và đạo đức.
+C4/
+P3/A3
+PI3.1. Áp dụng chính xác các nguyên tắc pháp lý và đạo đức nghề nghiệp khi giải quyết các vấn đề có liên quan đến nghề nghiệp.
+PI3.2.Thể hiện đầy đủ nhận thức về tầm quan trọng của sự riêng tư và bảo mật trong quản lý dữ liệu.
+PLO4. Hoạt động hiệu quả với tư cách là thành viên hoặc lãnh đạo một nhóm tham gia vào các hoạt động phù hợp với chuyên môn.
+P3/A3
+PI4.1. Chủ động phối hợp, chia sẻ công việc trong một nhóm chuyên môn.
+PI4.2. Hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm chuyên môn.
+PLO5. Áp dụng các kỹ thuật, công nghệ và công cụ bảo mật để duy trì hoạt động của hệ thống khi xuất hiện các rủi ro và mối đe dọa an toàn thông tin.
+C4/P3
+PI5.1. Nhận dạng đầy đủ các rủi ro và các mối đe dọa bảo mật đối với hoạt động của hệ thống.
+PI5.2. Lựa chọn kỹ thuật, công nghệ và công cụ bảo mật phù hợp để khắc chế, và/hoặc giảm thiểu rủi ro và mối đe dọa đối với hệ thống.
+PI5.3. Triển khai kỹ thuật, công nghệ và công cụ đã lựa chọn khắc chế và/hoặc giảm thiểu rủi ro và mối đe dọa để duy trì hoạt động của hệ thống.
+PLO6. Thiết kế, triển khai và đánh giá mô hình/giải pháp/công cụ bảo mật cho hệ thống đáp ứng một tập hợp các yêu cầu xác định.
+C6/P4
+PI6.1. Đề xuất, thiết kế mô hình/giải pháp/công cụ bảo mật hệ thống theo một tập các yêu cầu xác định.
+PI6.2. Triển khai mô hình/giải pháp/công cụ bảo mật đã thiết kế.
+PI6.3. Đánh giá mô hình/giải pháp/công cụ bảo mật đã triển khai.
+(C: miền kiến thức; P: miền kỹ năng; A: miền thái độ; Các mức độ năng lực được xác định trên cơ sở tham chiếu Thang cấp độ tư duy Bloom)
+4. MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI MỤC TIÊU ĐÀO TẠO 
+Chuẩn đầu ra
+Mục tiêu cụ thể của CTĐT
+
+PO1
+PO2
+PO3
+PO4
+PLO1
+H
+
+
+M
+PLO2
+L
+H
+
+
+PLO3
+L
+
+H
+
+PLO4
+L
+H
+M
+
+PLO5
+L
+
+
+H
+PLO6
+L
+
+
+H
+Ghi chú: L (Low – thấp), M (Medium – trung bình), H (High – cao).
+5. MA TRẬN LIÊN KẾT CHUẨN ĐẦU RA CỦA CHƯƠNG TRÌNH ĐÀO TẠO VỚI PHẨM CHẤT NGƯỜI TỐT NGHIỆP VÀ CHUẨN ĐẦU RA CỦA CƠ SỞ GIÁO DỤC
+Ma trận liên kết chuẩn đầu ra của chương trình đào tạo (PLO) với phẩm chất người tốt nghiệp (GA) và chuẩn cơ sở giáo dục (ULO) được thể hiện chi tiết trong Bảng 1 kèm theo.
+6. ĐỐI SÁNH CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO THẠC SĨ TÀI NĂNG CỦA HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG VỚI CÁC CHUẨN ĐẦU RA CỦA ABET
+Các yêu cầu của chuẩn ABET với chương trình đào tạo tính toán trình độ thạc sĩ, ngành An toàn thông tin tại địa chỉ: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-computing-programs-2026-2027/ 
+Criterion MS3. Student Outcomes (ABET)
+Chuẩn đầu ra CTĐT Thạc sĩ tài năng của 
+Học viện Công nghệ Bưu chính Viễn thông
+
+PLO1
+PLO2
+PLO3
+PLO4
+PLO5
+PLO6
+1. Analyze a complex problem and apply principles of computing and other relevant disciplines to elaborate solutions to it.
+X
+
+
+
+
+
+2. Design, implement, and evaluate a computing-based solution to meet a given set of requirements in the context of the program’s discipline
+
+
+
+
+X
+X
+3. Communicate effectively in a variety of professional contexts
+
+X
+
+
+
+
+4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+
+
+X
+
+
+
+5. Function effectively as a member and leader of a team engaged in activities appropriate to the program’s discipline.
+
+
+
+X
+
+
+6. Apply security principles and practices to maintain operations in the presence of risks and threats.
+
+
+
+
+X
+

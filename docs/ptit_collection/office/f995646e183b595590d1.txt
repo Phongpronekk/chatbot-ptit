@@ -1,0 +1,60 @@
+### sheet1.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH KỸ THUẬT ĐIỆN TỬ - ĐỊNH HƯỚNG ỨNG DỤNG
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | F4: TT | G4: Tên môn học/học phần | H4: Số TC | I4: Học kỳ
+A5: 1 | B5: Triết học  | C5: 3 | D5: HK1 | F5: 1 | G5: Hệ thống nhúng và Công nghệ IoT tiên tiến  | H5: 3 | I5: HK3
+A6: 2 | B6: Phương pháp nghiên cứu khoa học  | C6: 2 | D6: HK1 | F6: 2 | G6: 03 Học phần tự chọn chuyên ngành (B) | H6: 9 | I6: HK3
+A7: 3 | B7: Công cụ toán cho điện tử viễn thông  | C7: 3 | D7: HK1 | F7: 3 | G7: 02 Học phần tự chọn chuyên ngành (C) | H7: 4 | I7: HK3
+A8: 4 | B8: Truyền thông số nâng cao  | C8: 3 | D8: HK1
+A9: 5 | B9: Xử lý tín hiệu số nâng cao | C9: 3 | D9: HK1
+C11: 14 | H11: 16
+A13: 6 | B13: Các chủ đề điện tử hiện đại | C13: 3 | D13: HK2 | F13: 7 | G13: Thực tập tốt nghiệp | H13: 6 | I13: HK4
+A14: 7 | B14: Quản lý dự án, đổi mới sáng tạo  | C14: 3 | D14: HK2 | F14: 8 | G14: Đề án tốt nghiệp | H14: 9 | I14: HK4
+A15: 8 | B15: Xử lý đa phương tiện  | C15: 3 | D15: HK2
+A16: 9 | B16: 02 Học phần tự chọn Cơ sở ngành (A) | C16: 6 | D16: HK2
+C18: 15 | H18: 15
+G20: TỔNG CỘNG: | H20: 60
+A22: A | B22: Các học phần tự chọn cơ sở ngành | F22: B | G22: Các học phần tự chọn chuyên ngành
+A23: 1 | B23: Kỹ thuật rô bốt và điều khiển thông minh  | C23: 3 | F23: 1 | G23: Công nghệ plasma trong chế tạo bán dẫn | H23: 3
+A24: 2 | B24: Quy trình sản xuất điện tử, vi mạch bán dẫn  | C24: 3 | F24: 2 | G24: Công nghệ màng mỏng và khoa học nano tiên tiến | H24: 3
+A25: 3 | B25: Máy tính lượng tử  | C25: 3 | F25: 3 | G25: Học sâu và ứng dụng trong xử lý tín hiệu | H25: 3
+A26: 4 | B26: Công nghệ MEMS/NEMS  | C26: 3 | F26: 4 | G26: Thiết kế hệ thống VLSI tiên tiến | H26: 3
+A27: 5 | B27: Công nghệ AIoT  | C27: 3 | F27: 5 | G27: Thị giác máy tính nâng cao | H27: 3
+F28: 6 | G28: Điện tử công nghiệp | H28: 3
+F29: 7 | G29: Ứng dụng AI trong Điện tử | H29: 3
+F30: 8 | G30: Chuyên đề điện tử y sinh | H30: 3
+F31: C | G31: Các học phần tự chọn chuyên ngành
+F32: 1 | G32: Kiểm tra và xác minh IC tiên tiến  | H32: 2
+F33: 2 | G33: Vật liệu và công nghệ bán dẫn tiên tiến  | H33: 2
+F34: 3 | G34: Công nghệ đóng gói vi mạch tiên tiến  | H34: 2
+F35: 4 | G35: Học sâu và thiết kế ngược cho vi mạch tích hợp  | H35: 2
+### sheet2.xml
+A1: KẾ HOẠCH HỌC TẬP CHUẨN
+A2: THẠC SĨ NGÀNH KỸ THUẬT ĐIỆN TỬ - ĐỊNH HƯỚNG NGHIÊN CỨU
+A4: TT | B4: Tên môn học/học phần | C4: Số TC | D4: Học kỳ | F4: TT | G4: Tên môn học/học phần | H4: Số TC | I4: Học kỳ
+A5: 1 | B5: Triết học  | C5: 3 | D5: HK1 | F5: 1 | G5: Chuyên đề nghiên cứu 4  | H5: 3 | I5: HK3
+A6: 2 | B6: Phương pháp nghiên cứu khoa học  | C6: 2 | D6: HK1 | F6: 2 | G6: 03 Học phần tự chọn chuyên ngành (B) | H6: 9 | I6: HK3
+A7: 3 | B7: Công cụ toán cho điện tử viễn thông  | C7: 3 | D7: HK1 | F7: 3 | G7: 02 Học phần tự chọn chuyên ngành (C) | H7: 4 | I7: HK3
+A8: 4 | B8: Truyền thông số nâng cao  | C8: 3 | D8: HK1
+A9: 5 | B9: Xử lý tín hiệu số nâng cao | C9: 3 | D9: HK1
+C11: 14 | H11: 16
+A13: 6 | B13: Chuyên đề nghiên cứu 1  | C13: 3 | D13: HK2 | F13: 6 | G13: Luận văn tốt nghiệp | H13: 15 | I13: HK4
+A14: 7 | B14: Chuyên đề nghiên cứu 2  | C14: 3 | D14: HK2
+A15: 8 | B15: Chuyên đề nghiên cứu 3  | C15: 3 | D15: HK2
+A16: 9 | B16: 02 Học phần tự chọn Cơ sở ngành (A) | C16: 6 | D16: HK2
+C20: 15 | H20: 15
+G22: TỔNG CỘNG CTĐT: | H22: 60
+A24: A | B24: Các học phần tự chọn cơ sở ngành | F24: B | G24: Các học phần tự chọn chuyên ngành
+A25: 1 | B25: Kỹ thuật rô bốt và điều khiển thông minh  | C25: 3 | F25: 1 | G25: Học sâu và ứng dụng trong xử lý tín hiệu | H25: 3
+A26: 2 | B26: Quy trình sản xuất điện tử, vi mạch bán dẫn  | C26: 3 | F26: 2 | G26: Hệ thống nhúng và Công nghệ IoT tiên tiến | H26: 3
+A27: 3 | B27: Máy tính lượng tử  | C27: 3 | F27: 3 | G27: Quản lý dự án và đổi mới sáng tạo | H27: 3
+A28: 4 | B28: Công nghệ MEMS/NEMS  | C28: 3 | F28: 4 | G28: Thiết kế hệ thống VLSI tiên tiến | H28: 3
+A29: 5 | B29: Công nghệ AIoT  | C29: 3 | F29: 5 | G29: Các chủ đề điện tử hiện đại | H29: 3
+F30: 6 | G30: Chuyên đề điện tử y sinh | H30: 3
+F31: 7 | G31: Xử lý đa phương tiện | H31: 3
+F32: 8 | G32: Ứng dụng AI trong Điện tử | H32: 3
+F33: C | G33: Các học phần tự chọn chuyên ngành
+F34: 1 | G34: Kiểm tra và xác minh IC tiên tiến  | H34: 2
+F35: 2 | G35: Vật liệu và công nghệ bán dẫn tiên tiến  | H35: 2
+F36: 3 | G36: Học sâu và thiết kế ngược cho vi mạch tích hợp  | H36: 2
+F37: 4 | G37: Công nghệ đóng gói vi mạch tiên tiến  | H37: 2

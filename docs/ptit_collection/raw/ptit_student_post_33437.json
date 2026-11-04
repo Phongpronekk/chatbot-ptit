@@ -1,0 +1,127 @@
+{
+  "id": 33437,
+  "date": "2026-09-04T06:34:15",
+  "date_gmt": "2026-09-04T06:34:15",
+  "guid": {
+    "rendered": "https://student.ptit.edu.vn/?p=33437"
+  },
+  "modified": "2026-09-04T08:20:08",
+  "modified_gmt": "2026-09-04T08:20:08",
+  "slug": "thong-bao-ket-qua-xet-tuyen-bo-sung-chuong-trinh-thac-si-tich-hop-tai-nang-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://student.ptit.edu.vn/2026/09/04/thong-bao-ket-qua-xet-tuyen-bo-sung-chuong-trinh-thac-si-tich-hop-tai-nang-nam-2026/",
+  "title": {
+    "rendered": "Thông báo Kết quả xét tuyển bổ sung chương trình Thạc sĩ tích hợp tài năng năm 2026"
+  },
+  "content": {
+    "rendered": "<p>&#8211; Căn cứ Quy chế các Quy chế, Quy định của Bộ Giáo dục &amp; Đào tạo và của Học viện.</p>\n<p>&#8211; Căn cứ hồ sơ xét tuyển bổ sung chương trình Thạc sĩ tích hợp tài năng năm 2026.</p>\n<p style=\"text-align: left\">Học viện Công nghệ Bưu chính Viễn thông thông báo kết quả xét tuyển bổ sung chương trình Thạc sĩ tích hợp tài năng năm 2026, cụ thể như sau:</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-33441 size-large\" src=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/diem-chuan-1024x576.jpg\" alt=\"\" width=\"1024\" height=\"576\" srcset=\"https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/diem-chuan-1024x576.jpg 1024w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/diem-chuan-300x169.jpg 300w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/diem-chuan-768x432.jpg 768w, https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/diem-chuan.jpg 1280w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></p>\n<p><em><u>Ghi chú: </u></em><em>Mức điểm trúng tuyển là tổng điểm 3 bài thi/môn thi (môn thi) tốt nghiệp THPT với thang điểm 30 theo tổ hợp xét tuyển (cao nhất trong các tổ hợp A00, A01, X06, X26) cộng với điểm ưu tiên đối tượng, khu vực theo quy định (nếu có). Mức chênh lệch điểm xét tuyển giữa các tổ hợp là không điểm. Thí sinh thuộc diện ưu tiên theo đối tượng và khu vực (nếu có) được cộng điểm theo quy định.</em></p>\n<p>Học viện Công nghệ Bưu chính Viễn thông thông báo để sinh viên biết và thực hiện. Kết quả xét tuyển được Học viện gửi email thông báo tới các sinh viên đã đăng ký (địa chỉ email Học viện cấp). Các thắc mắc có liên quan, sinh viên liên hệ qua email <a href=\"mailto:tainang@ptit.edu.vn\">tainang@ptit.edu.vn</a>, điện thoại: 0912.453.327 để được giải đáp.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>&#8211; Căn cứ Quy chế các Quy chế, Quy định của Bộ Giáo dục &amp; Đào tạo và của Học viện. &#8211; Căn cứ hồ sơ xét tuyển bổ sung chương trình Thạc sĩ tích hợp tài năng năm 2026. Học viện Công nghệ Bưu chính Viễn thông thông báo kết quả xét tuyển bổ [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 32,
+  "featured_media": 33443,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    19,
+    17
+  ],
+  "tags": [],
+  "class_list": [
+    "post-33437",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-thong-bao",
+    "category-tin-tuc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33437",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/users/32"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/comments?post=33437"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33437/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 33444,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/posts/33437/revisions/33444"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media/33443"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/media?parent=33437"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/categories?post=33437"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://student.ptit.edu.vn/wp-json/wp/v2/tags?post=33437"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 4694,
+  "date": "2025-08-05T14:45:44",
+  "date_gmt": "2025-08-05T07:45:44",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4694"
+  },
+  "modified": "2025-08-05T14:48:10",
+  "modified_gmt": "2025-08-05T07:48:10",
+  "slug": "thong-bao-diem-chuan-trung-tuyen-nghien-cuu-sinh-dot-1-nam-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-diem-chuan-trung-tuyen-nghien-cuu-sinh-dot-1-nam-2025/",
+  "title": {
+    "rendered": "Thông báo Điểm chuẩn trúng tuyển nghiên cứu sinh đợt 1 năm 2025"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: justify\"><span style=\"color: #000000\">Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/06/2021 của Bộ trưởng Bộ Giáo dục &amp; Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;</span></p>\n<p style=\"text-align: justify\"><span style=\"color: #000000\">Căn cứ Quyết định số 555/QĐ-HV ngày 22/04/2022 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc ban hành Quy định tuyển sinh và đào tạo trình độ tiến sĩ;</span></p>\n<p style=\"text-align: justify\"><span style=\"color: #000000\">Căn cứ kết quả cuộc họp ngày 05/08/2025 của Hội đồng xét tuyển nghiên cứu sinh đợt 1 năm 2025,</span></p>\n<p style=\"text-align: justify\"><span style=\"color: #000000\">Học viện Công nghệ Bưu chính Viễn thông trân trọng thông báo Điểm chuẩn trúng tuyển nghiên cứu sinh đợt 1 năm 2025 của Học viện như sau:</span></p>\n<p style=\"text-align: justify\"><span style=\"color: #000000\"><strong>Điểm trung bình cộng của điểm đánh giá hồ sơ và điểm báo cáo định hướng nghiên cứu đạt từ 50.0 điểm trở lên.</strong></span></p>\n<p style=\"text-align: justify\"><span style=\"color: #000000\">Trân trọng thông báo!</span></p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/08/SDaotao_45825080516390.pdf\">SDaotao_45825080516390</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/06/2021 của Bộ trưởng Bộ Giáo dục &amp; Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ; Căn cứ Quyết định số 555/QĐ-HV ngày 22/04/2022 của Giám đốc Học viện Công nghệ Bưu chính Viễn thông về việc ban hành [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 4696,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    25
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4694",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_sau_dai_hoc"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4694",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4694"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4694/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4696"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4694"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4694"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4694"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

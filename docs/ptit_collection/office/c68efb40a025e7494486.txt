@@ -1,0 +1,191 @@
+### sheet1.xml
+A1: DANH SÁCH CÁC MÔN HỌC TIÊN QUYẾT, HỌC TRƯỚC TRƯỚC
+A2: THẠC SĨ TÀI NĂNG, ĐỊNH HƯỚNG NGHIÊN CỨU - NGÀNH AN TOÀN THÔNG TIN
+A4: TT | B4: Tên môn học/học phần | C4: Mã số môn học | D4: Số TC | E4: Năm học | O4: Môn 
+tiên quyết | P4: Môn 
+học trước
+E5: Năm 
+thứ nhất | G5: Năm 
+thứ hai | I5: Năm 
+thứ ba | K5: Năm 
+thứ tư | M5: Năm 
+thứ năm
+A6: 1 | B6: Đại số | C6: BAS1201 | D6: 3 | E6: HK1
+A7: 2 | B7: Giải tích 1 | C7: BAS1203 | D7: 3 | E7: HK1
+A8: 3 | B8: Nhập môn lập trình và ATTT | C8: SEC1101 | D8: 3 | E8: HK1
+A9: 4 | B9: Vật lý ứng dụng | C9: BAS1270 | D9: 4 | E9: HK1
+A10: 5 | B10: Nhập môn Công nghệ số và Ứng dụng AI | C10: INT11205 | D10: 2 | E10: HK1
+A11: 6 | B11: Tiếng Anh (Course 1) | C11: BAS1157 | D11: 4 | F11: HK2
+A12: 7 | B12: Giải tích 2 | C12: BAS1204 | D12: 3 | F12: HK2 | O12: Giải tích 1 | P12: Đại số
+A13: 8 | B13: Toán rời rạc 1 | C13: INT1358 | D13: 3 | F13: HK2 | O13: Nhập môn lập trình và ATTT
+A14: 9 | B14: Mạng máy tính | C14: INT1336 | D14: 3 | F14: HK2 | O14: Nhập môn Công nghệ số và Ứng dụng AI
+A15: 10 | B15: Kiến trúc máy tính và hệ điều hành | C15: INT13204 | D15: 3 | F15: HK2 | O15: Nhập môn Công nghệ số và Ứng dụng AI
+A16: 11 | B16: Cơ sở an toàn thông tin | C16: SEC1304 | D16: 3 | F16: HK2 | O16: Nhập môn lập trình và ATTT
+A17: 12 | B17: Tiếng Anh (Course 2) | C17: BAS1158 | D17: 4 | G17: HK3 | P17: Tiếng Anh (Course 1)
+A18: 13 | B18: Xác suất thống kê | C18: BAS1269 | D18: 3 | G18: HK3 | P18: Giải tích 1
+A19: 14 | B19: Cấu trúc dữ liệu và giải thuật | C19: INT1306 | D19: 3 | G19: HK3 | O19: Nhập môn lập trình và ATTT
+A20: 15 | B20: Cơ sở dữ liệu | C20: INT1313 | D20: 3 | G20: HK3 | O20: Nhập môn lập trình và ATTT
+A21: 16 | B21: Hệ điều hành Windows và Linux/Unix | C21: SEC1305 | D21: 3 | G21: HK3 | O21: Kiến trúc máy tính và hệ điều hành
+A22: 17 | B22: Python cho An toàn thông tin | C22: SEC1302 | D22: 3 | G22: HK3 | O22: Cơ sở An toàn thông tin
+A23: 18 | B23: Triết học Mác Lênin | C23: BAS1150 | D23: 3 | H23: HK4
+A24: 19 | B24: Tiếng Anh (Course 3) | C24: BAS1159 | D24: 4 | H24: HK4 | P24: Tiếng Anh (Course 2)
+A25: 20 | B25: Lập trình Web | C25: INT1434 | D25: 3 | H25: HK4 | O25: Nhập môn lập trình và ATTT
+A26: 21 | B26: Mật mã học cơ sở | C26: SEC1306 | D26: 3 | H26: HK4 | O26: Nhập môn lập trình và ATTT
+A27: 22 | B27: Hợp ngữ và dịch ngược | C27: SEC1303 | D27: 3 | H27: HK4 | O27: Kiến trúc máy tính và hệ điều hành
+A28: 23 | B28: Pháp luật và sở hữu trí tuệ | C28: BSA12117 | D28: 2 | H28: HK4
+A29: 24 | B29: Kinh tế chính trị Mác Lênin | C29: BAS1151 | D29: 2 | I29: HK5
+A30: 25 | B30: Tiếng Anh (Course 3 Plus) | C30: BAS1160 | D30: 2 | I30: HK5 | P30: Tiếng Anh (Course 3)
+A31: 26 | B31: Nhập môn trí tuệ nhân tạo | C31: INT1341 | D31: 3 | I31: HK5 | O31: Python cho An toàn thông tin
+A32: 27 | B32: Phân tích mã độc | C32: SEC1414 | D32: 3 | I32: HK5 | O32: Hợp ngữ và dịch ngược
+A33: 28 | B33: An toàn ứng dụng web và cơ sở dữ liệu | C33: SEC1411 | D33: 3 | I33: HK5 | O33: Cơ sở An toàn thông tin
+A34: 29 | B34: Thực tập cơ sở | C34: SEC1307 | D34: 4 | I34: HK5 | O34: Cơ sở An toàn thông tin | P34: Mật mã học cơ sở, Hệ điều hành Windows và Linux/Unix
+A35: 30 | B35: Học phần tự chọn 1.1 | D35: 2 | I35: HK5
+A36: 31 | B36: Chủ nghĩa xã hội khoa học | C36: BAS1152 | D36: 2 | J36: HK6
+A37: 32 | B37: Kiểm thử xâm nhập | C37: SEC1408 | D37: 3 | J37: HK6 | O37: Cơ sở An toàn thông tin
+A38: 33 | B38: Quản lý và đánh giá an toàn thông tin | C38: SEC1410 | D38: 3 | J38: HK6 | O38: Cơ sở An toàn thông tin
+A39: 34 | B39: Giám sát an toàn mạng | C39: SEC1412 | D39: 3 | J39: HK6 | O39: Cơ sở An toàn thông tin
+A40: 35 | B40: Ứng dụng AI trong ATTT | C40: SEC1416 | D40: 3 | J40: HK6 | O40: Python cho An toàn thông tin | P40: Nhập môn trí tuệ nhân tạo
+A41: 36 | B41: Nhập môn DevOps | C41: SEC1415 | D41: 3 | J41: HK6 | O41: Hệ điều hành Windows và Linux/Unix
+A42: 37 | B42: Học phần tự chọn 1.2 | D42: 3 | J42: HK6
+A43: 38 | B43: Tư tưởng Hồ Chí Minh | C43: BAS1122 | D43: 2 | K43: HK7
+A44: 39 | B44: Phương pháp nghiên cứu khoa học | C44: SKD4112 | D44: 2 | K44: HK7
+A45: 40 | B45: Công cụ toán cho công nghệ thông tin | C45: INT41218 | D45: 2 | K45: HK7
+A46: 41 | B46: Công nghệ Blockchain | C46: SEC4344 | D46: 3 | K46: HK7 | O46: Mật mã học cơ sở
+A47: 42 | B47: Phân tích mã độc nâng cao | C47: SEC4453 | D47: 3 | K47: HK7 | O47: Phân tích mã độc
+A48: 43 | B48: Điều tra số | C48: SEC4459 | D48: 3 | K48: HK7 | O48: Cơ sở An toàn thông tin
+A49: 44 | B49: Học phần tự chọn 2.1 | D49: 3 | K49: HK7
+A50: 45 | B50: Lịch sử Đảng cộng sản VN | C50: BAS1153 | D50: 2 | L50: HK8
+A51: 46 | B51: Giám sát an toàn mạng nâng cao | C51: SEC4455 | D51: 3 | L51: HK8 | O51: Giám sát an toàn mạng
+A52: 47 | B52: Chuyên đề thạc sĩ 1 | C52: SEC4351 | D52: 3 | L52: HK8
+A53: 48 | B53: Chuyên đề thạc sĩ 2 | C53: SEC4352 | D53: 3 | L53: HK8
+A54: 49 | B54: Học phần tự chọn 2.1 | D54: 3 | L54: HK8
+A55: 50 | B55: Học phần tự chọn 2.2 | D55: 2 | L55: HK8
+A56: 51 | B56: Kiểm thử xâm nhập nâng cao | C56: SEC4454 | D56: 3 | M56: HK9 | O56: Kiểm thử xâm nhập
+A57: 52 | B57: Chuyên đề thạc sĩ 3 | C57: SEC4464 | D57: 3 | M57: HK9
+A58: 53 | B58: Chuyên đề thạc sĩ 4 | C58: SEC4465 | D58: 3 | M58: HK9
+A59: 54 | B59: Học phần tự chọn 2.1 | D59: 3 | M59: HK9
+A60: 55 | B60: Học phần tự chọn 2.1 | D60: 3 | M60: HK9
+A61: 56 | B61: Thực tập tốt nghiệp | C61: SEC1525 | D61: 6 | N61: HK10 | O61: Thực tập cơ sở
+A62: 57 | B62: Luận văn tốt nghiệp | C62: SEC4568 | D62: 15 | N62: HK10
+B63: TỔNG CỘNG | D63: 180 | E63: 15 | F63: 19 | G63: 19 | H63: 18 | I63: 19 | J63: 20 | K63: 18 | L63: 16 | M63: 15 | N63: 21
+B65: CÁC HỌC PHẦN TỰ CHỌN
+B66: Các môn tự chọn 1.1
+A67: 1 | B67: Phát triển phần mềm an toàn | C67: SEC1421 | D67: 2 | P67: Nhập môn lập trình và ATTT
+A68: 2 | B68: An toàn hệ điều hành | C68: SEC1422 | D68: 2 | P68: Cơ sở An toàn thông tin
+A69: 3 | B69: Các kỹ thuật giấu tin | C69: SEC1423 | D69: 2 | P69: Mật mã học cơ sở
+B70: Các môn tự chọn 1.2
+A71: 1 | B71: Phân tích dữ liệu lớn cho ATTT | C71: SEC1417 | D71: 3 | P71: Nhập môn trí tuệ nhân tạo
+A72: 2 | B72: An toàn mạng nâng cao | C72: SEC1413 | D72: 3 | P72: Cơ sở An toàn thông tin
+A73: 3 | B73: Quản trị an toàn hệ thống | C73: SEC1429 | D73: 3 | P73: Hệ điều hành Windows và Linux/Unix
+B74: Các môn tự chọn 2.1
+A75: 1 | B75: An toàn điện toán đám mây | C75: SEC4345 | D75: 3 | P75: Cơ sở An toàn thông tin
+A76: 2 | B76: An toàn IoT | C76: SEC4346 | D76: 3 | P76: Cơ sở An toàn thông tin
+A77: 3 | B77: Hạ tầng khoá công khai | C77: SEC4347 | D77: 3 | P77: Cơ sở An toàn thông tin
+A78: 4 | B78: Các giao thức an toàn và bảo mật | C78: SEC4350 | D78: 3 | P78: Cơ sở An toàn thông tin
+A79: 5 | B79: Tấn công và phòng thủ mạng | C79: SEC4457 | D79: 3 | P79: Cơ sở An toàn thông tin
+A80: 6 | B80: Ứng phó và xử lý sự cố bảo mật | C80: SEC4458 | D80: 3 | P80: Cơ sở An toàn thông tin
+A81: 7 | B81: Các chủ đề hiện đại trong ATTT | C81: SEC4456 | D81: 3 | P81: Cơ sở An toàn thông tin
+A82: 8 | B82: DevOps và DevSecOps | C82: SEC4349 | D82: 3 | P82: Cơ sở An toàn thông tin
+B83: Các môn tự chọn 2.2
+A84: 1 | B84: Đảm bảo an toàn cho AI | C84: SEC4462 | D84: 2 | P84: Ứng dụng AI trong ATTT
+A85: 2 | B85: An toàn web nâng cao | C85: SEC4460 | D85: 2 | P85: An toàn ứng dụng web và cơ sở dữ liệu
+A86: 3 | B86: An toàn cơ sở dữ liệu nâng cao | C86: SEC4461 | D86: 2 | P86: An toàn ứng dụng web và cơ sở dữ liệu
+A87: 4 | B87: Mật mã hậu lượng tử | C87: SEC4463 | D87: 2 | P87: Mật mã học cơ sở
+A88: 5 | B88: Quản trị mạng | C88: SEC44219 | D88: 2 | P88: Cơ sở An toàn thông tin
+### sheet2.xml
+A1: DANH SÁCH CÁC MÔN HỌC TIÊN QUYẾT, HỌC TRƯỚC TRƯỚC
+A2: THẠC SĨ TÀI NĂNG, NGÀNH AN TOÀN THÔNG TIN - ĐỊNH HƯỚNG ỨNG DỤNG
+A4: TT | B4: Tên môn học/học phần | C4: Mã số môn học | D4: Số TC | E4: Năm học | O4: Môn 
+tiên quyết | P4: Môn 
+học trước
+E5: Năm 
+thứ nhất | G5: Năm 
+thứ hai | I5: Năm 
+thứ ba | K5: Năm 
+thứ tư | M5: Năm 
+thứ năm
+A6: 1 | B6: Đại số | C6: BAS1201 | D6: 3 | E6: HK1
+A7: 2 | B7: Giải tích 1 | C7: BAS1203 | D7: 3 | E7: HK1
+A8: 3 | B8: Nhập môn lập trình và ATTT | C8: SEC1101 | D8: 3 | E8: HK1
+A9: 4 | B9: Vật lý ứng dụng | C9: BAS1270 | D9: 4 | E9: HK1
+A10: 5 | B10: Nhập môn Công nghệ số và Ứng dụng AI | C10: INT11205 | D10: 2 | E10: HK1
+A11: 6 | B11: Tiếng Anh (Course 1) | C11: BAS1157 | D11: 4 | F11: HK2
+A12: 7 | B12: Giải tích 2 | C12: BAS1204 | D12: 3 | F12: HK2 | O12: Giải tích 1 | P12: Đại số
+A13: 8 | B13: Toán rời rạc 1 | C13: INT1358 | D13: 3 | F13: HK2 | O13: Nhập môn lập trình và ATTT
+A14: 9 | B14: Mạng máy tính | C14: INT1336 | D14: 3 | F14: HK2 | O14: Nhập môn Công nghệ số và Ứng dụng AI
+A15: 10 | B15: Kiến trúc máy tính và hệ điều hành | C15: INT13204 | D15: 3 | F15: HK2 | O15: Nhập môn Công nghệ số và Ứng dụng AI
+A16: 11 | B16: Cơ sở an toàn thông tin | C16: SEC1304 | D16: 3 | F16: HK2 | O16: Nhập môn lập trình và ATTT
+A17: 12 | B17: Tiếng Anh (Course 2) | C17: BAS1158 | D17: 4 | G17: HK3 | P17: Tiếng Anh (Course 1)
+A18: 13 | B18: Xác suất thống kê | C18: BAS1269 | D18: 3 | G18: HK3 | P18: Giải tích 1
+A19: 14 | B19: Cấu trúc dữ liệu và giải thuật | C19: INT1306 | D19: 3 | G19: HK3 | O19: Nhập môn lập trình và ATTT
+A20: 15 | B20: Cơ sở dữ liệu | C20: INT1313 | D20: 3 | G20: HK3 | O20: Nhập môn lập trình và ATTT
+A21: 16 | B21: Hệ điều hành Windows và Linux/Unix | C21: SEC1305 | D21: 3 | G21: HK3 | O21: Kiến trúc máy tính và hệ điều hành
+A22: 17 | B22: Python cho An toàn thông tin | C22: SEC1302 | D22: 3 | G22: HK3 | O22: Cơ sở An toàn thông tin
+A23: 18 | B23: Triết học Mác Lênin | C23: BAS1150 | D23: 3 | H23: HK4
+A24: 19 | B24: Tiếng Anh (Course 3) | C24: BAS1159 | D24: 4 | H24: HK4 | P24: Tiếng Anh (Course 2)
+A25: 20 | B25: Lập trình Web | C25: INT1434 | D25: 3 | H25: HK4 | O25: Nhập môn lập trình và ATTT
+A26: 21 | B26: Mật mã học cơ sở | C26: SEC1306 | D26: 3 | H26: HK4 | O26: Nhập môn lập trình và ATTT
+A27: 22 | B27: Hợp ngữ và dịch ngược | C27: SEC1303 | D27: 3 | H27: HK4 | O27: Kiến trúc máy tính và hệ điều hành
+A28: 23 | B28: Pháp luật và sở hữu trí tuệ | C28: BSA12117 | D28: 2 | H28: HK4
+A29: 24 | B29: Kinh tế chính trị Mác Lênin | C29: BAS1151 | D29: 2 | I29: HK5
+A30: 25 | B30: Tiếng Anh (Course 3 Plus) | C30: BAS1160 | D30: 2 | I30: HK5 | P30: Tiếng Anh (Course 3)
+A31: 26 | B31: Nhập môn trí tuệ nhân tạo | C31: INT1341 | D31: 3 | I31: HK5 | O31: Python cho An toàn thông tin
+A32: 27 | B32: Phân tích mã độc | C32: SEC1414 | D32: 3 | I32: HK5 | O32: Hợp ngữ và dịch ngược
+A33: 28 | B33: An toàn ứng dụng web và cơ sở dữ liệu | C33: SEC1411 | D33: 3 | I33: HK5 | O33: Cơ sở An toàn thông tin
+A34: 29 | B34: Thực tập cơ sở | C34: SEC1307 | D34: 4 | I34: HK5 | O34: Cơ sở An toàn thông tin | P34: Mật mã học cơ sở, Hệ điều hành Windows và Linux/Unix
+A35: 30 | B35: Học phần tự chọn 1.1 | D35: 2 | I35: HK5
+A36: 31 | B36: Chủ nghĩa xã hội khoa học | C36: BAS1152 | D36: 2 | J36: HK6
+A37: 32 | B37: Kiểm thử xâm nhập | C37: SEC1408 | D37: 3 | J37: HK6 | O37: Cơ sở An toàn thông tin
+A38: 33 | B38: Quản lý và đánh giá an toàn thông tin | C38: SEC1410 | D38: 3 | J38: HK6 | O38: Cơ sở An toàn thông tin
+A39: 34 | B39: Giám sát an toàn mạng | C39: SEC1412 | D39: 3 | J39: HK6 | O39: Cơ sở An toàn thông tin
+A40: 35 | B40: Ứng dụng AI trong ATTT | C40: SEC1416 | D40: 3 | J40: HK6 | O40: Python cho An toàn thông tin | P40: Nhập môn trí tuệ nhân tạo
+A41: 36 | B41: Nhập môn DevOps | C41: SEC1415 | D41: 3 | J41: HK6 | O41: Hệ điều hành Windows và Linux/Unix
+A42: 37 | B42: Học phần tự chọn 1.2 | D42: 3 | J42: HK6
+A43: 38 | B43: Tư tưởng Hồ Chí Minh | C43: BAS1122 | D43: 2 | K43: HK7
+A44: 39 | B44: Phương pháp nghiên cứu khoa học | C44: SKD4112 | D44: 2 | K44: HK7
+A45: 40 | B45: Công cụ toán cho công nghệ thông tin | C45: INT41218 | D45: 2 | K45: HK7
+A46: 41 | B46: Công nghệ Blockchain | C46: SEC4344 | D46: 3 | K46: HK7 | O46: Mật mã học cơ sở
+A47: 42 | B47: Phân tích mã độc nâng cao | C47: SEC4453 | D47: 3 | K47: HK7 | O47: Phân tích mã độc
+A48: 43 | B48: Điều tra số | C48: SEC4459 | D48: 3 | K48: HK7 | O48: Cơ sở An toàn thông tin
+A49: 44 | B49: Học phần tự chọn 2.1 | D49: 3 | K49: HK7
+A50: 45 | B50: Lịch sử Đảng cộng sản VN | C50: BAS1153 | D50: 2 | L50: HK8
+A51: 46 | B51: Giám sát an toàn mạng nâng cao | C51: SEC4455 | D51: 3 | L51: HK8 | O51: Giám sát an toàn mạng
+A52: 47 | B52: An toàn điện toán đám mây | C52: SEC4345 | D52: 3 | L52: HK8 | O52: Cơ sở An toàn thông tin
+A53: 48 | B53: An toàn IoT | C53: SEC4346 | D53: 3 | L53: HK8 | O53: Cơ sở An toàn thông tin
+A54: 49 | B54: Học phần tự chọn 2.1 | D54: 3 | L54: HK8
+A55: 50 | B55: Học phần tự chọn 2.1 | D55: 3 | L55: HK8
+A56: 51 | B56: Học phần tự chọn 2.2 | D56: 2 | L56: HK8
+A57: 52 | B57: Kiểm thử xâm nhập nâng cao | C57: SEC4454 | D57: 3 | M57: HK9 | O57: Kiểm thử xâm nhập
+A58: 53 | B58: Các chủ đề hiện đại trong ATTT | C58: SEC4456 | D58: 3 | M58: HK9 | O58: Cơ sở An toàn thông tin
+A59: 54 | B59: Đảm bảo an toàn cho AI | C59: SEC4462 | D59: 2 | M59: HK9 | O59: Ứng dụng AI trong ATTT
+A60: 55 | B60: An toàn web nâng cao | C60: SEC4460 | D60: 2 | M60: HK9 | O60: An toàn ứng dụng web và cơ sở dữ liệu
+A61: 56 | B61: Tấn công và phòng thủ mạng | C61: SEC4457 | D61: 3 | M61: HK9 | O61: Cơ sở An toàn thông tin
+A62: 57 | B62: Học phần tự chọn 2.1 | D62: 3 | M62: HK9
+A63: 58 | B63: Học phần tự chọn 2.2 | D63: 2 | M63: HK9
+A64: 59 | B64: Thực tập tốt nghiệp | C64: SEC1525 | D64: 6 | N64: HK10 | O64: Thực tập cơ sở
+A65: 60 | B65: Đề án tốt nghiệp | C65: SEC4567 | D65: 9 | N65: HK10
+B66: TỔNG CỘNG | D66: 180 | E66: 15 | F66: 19 | G66: 19 | H66: 18 | I66: 19 | J66: 20 | K66: 18 | L66: 19 | M66: 18 | N66: 15
+B68: CÁC HỌC PHẦN TỰ CHỌN
+B69: Các môn tự chọn 1.1
+A70: 1 | B70: Phát triển phần mềm an toàn | C70: SEC1421 | D70: 2 | P70: Nhập môn lập trình và ATTT
+A71: 2 | B71: An toàn hệ điều hành | C71: SEC1422 | D71: 2 | P71: Cơ sở An toàn thông tin
+A72: 3 | B72: Các kỹ thuật giấu tin | C72: SEC1423 | D72: 2 | P72: Mật mã học cơ sở
+B73: Các môn tự chọn 1.2
+A74: 1 | B74: Phân tích dữ liệu lớn cho ATTT | C74: SEC1417 | D74: 3 | P74: Nhập môn trí tuệ nhân tạo
+A75: 2 | B75: An toàn mạng nâng cao | C75: SEC1413 | D75: 3 | P75: Cơ sở An toàn thông tin
+A76: 3 | B76: Quản trị an toàn hệ thống | C76: SEC1429 | D76: 3 | P76: Hệ điều hành Windows và Linux/Unix
+B77: Các môn tự chọn 2.1
+A78: 1 | B78: An toàn hệ thống thông tin | C78: SEC4342 | D78: 3 | P78: Cơ sở An toàn thông tin
+A79: 2 | B79: Quản lý, pháp luật và chính sách ATTT | C79: SEC4343 | D79: 3 | P79: Cơ sở An toàn thông tin
+A80: 3 | B80: Hạ tầng khoá công khai | C80: SEC4347 | D80: 3 | P80: Cơ sở An toàn thông tin
+A81: 4 | B81: Các giao thức an toàn và bảo mật | C81: SEC4350 | D81: 3 | P81: Cơ sở An toàn thông tin
+A82: 5 | B82: DevOps và DevSecOps | C82: SEC4349 | D82: 3 | P82: Cơ sở An toàn thông tin
+A83: 6 | B83: Ứng phó và xử lý sự cố bảo mật | C83: SEC4458 | D83: 3 | P83: Cơ sở An toàn thông tin
+A84: 7 | B84: Chuyên đề thạc sĩ 1 | C84: SEC4351 | D84: 3
+A85: 8 | B85: Chuyên đề thạc sĩ 2 | C85: SEC4352 | D85: 3
+B86: Các môn tự chọn 2.2
+A87: 1 | B87: Hệ điều hành mạng | C87: INT44221 | D87: 2 | P87: Kiến trúc máy tính và hệ điều hành
+A88: 2 | B88: Dữ liệu lớn | C88: INT44220 | D88: 2
+A89: 3 | B89: An toàn cơ sở dữ liệu nâng cao | C89: SEC4461 | D89: 2 | P89: An toàn ứng dụng web và cơ sở dữ liệu
+A90: 4 | B90: Mật mã hậu lượng tử | C90: SEC4463 | D90: 2 | P90: Mật mã học cơ sở
+A91: 5 | B91: Quản trị mạng | C91: SEC44219 | D91: 2 | P91: Cơ sở An toàn thông tin

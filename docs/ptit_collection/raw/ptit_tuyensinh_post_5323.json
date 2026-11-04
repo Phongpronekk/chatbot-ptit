@@ -1,0 +1,119 @@
+{
+  "id": 5323,
+  "date": "2026-04-23T09:43:24",
+  "date_gmt": "2026-04-23T02:43:24",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=5323"
+  },
+  "modified": "2026-04-23T09:43:24",
+  "modified_gmt": "2026-04-23T02:43:24",
+  "slug": "thong-bao-diem-chuan-xet-trung-tuyen-dai-hoc-va-phe-duyet-danh-sach-thi-sinh-trung-tuyen-dai-hoc-theo-hinh-thuc-gdtx-dot-1-nam-2026",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-diem-chuan-xet-trung-tuyen-dai-hoc-va-phe-duyet-danh-sach-thi-sinh-trung-tuyen-dai-hoc-theo-hinh-thuc-gdtx-dot-1-nam-2026/",
+  "title": {
+    "rendered": "Thông báo điểm chuẩn xét trúng tuyển đại học và Phê duyệt danh sách thí sinh trúng tuyển Đại học theo hình thức GDTX đợt 1 năm 2026"
+  },
+  "content": {
+    "rendered": "<ol>\n<li>Thông báo điểm chuẩn xét trúng tuyển ĐH theo hình thức GDTX đợt 1 năm 2026. Chi tiết file đính kèm <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/tb-398.pdf\">tb 398</a></li>\n<li>Quyết định phê duyệt danh sách thí sinh trúng tuyển vào ĐH từ xa đợt 1 năm 2026. Phương thức xét tuyển: Dựa vào kết quả học tập 03 năm THPT. Chi tiết file đính kèm <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/qd-1023.pdf\">qd 1023</a>.</li>\n<li>Quyết định phê duyệt danh sách thí sinh trúng tuyển vào ĐH từ xa đợt 1 năm 2026. Phương thức xét tuyển: Xét tuyển thẳng. Chi tiết file đính kèm <a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2026/04/qd-1024.pdf\">qd 1024</a></li>\n</ol>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Thông báo điểm chuẩn xét trúng tuyển ĐH theo hình thức GDTX đợt 1 năm 2026. Chi tiết file đính kèm tb 398 Quyết định phê duyệt danh sách thí sinh trúng tuyển vào ĐH từ xa đợt 1 năm 2026. Phương thức xét tuyển: Dựa vào kết quả học tập 03 năm THPT. Chi [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 83,
+  "featured_media": 4940,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    26
+  ],
+  "tags": [],
+  "class_list": [
+    "post-5323",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_khac"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5323",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/83"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=5323"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/5323/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4940"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=5323"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=5323"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=5323"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 4588,
+  "date": "2025-06-23T10:26:40",
+  "date_gmt": "2025-06-23T03:26:40",
+  "guid": {
+    "rendered": "https://tuyensinh.ptit.edu.vn/?p=4588"
+  },
+  "modified": "2025-06-23T10:26:40",
+  "modified_gmt": "2025-06-23T03:26:40",
+  "slug": "thong-bao-diem-chuan-xet-trung-tuyen-va-quyet-dinh-phe-duyet-danh-sach-thi-sinh-trung-tuyen-dai-hoc-theo-hinh-thuc-giao-duc-tu-xa-dot-3-nam-2025",
+  "status": "publish",
+  "type": "post",
+  "link": "https://tuyensinh.ptit.edu.vn/thong-bao-diem-chuan-xet-trung-tuyen-va-quyet-dinh-phe-duyet-danh-sach-thi-sinh-trung-tuyen-dai-hoc-theo-hinh-thuc-giao-duc-tu-xa-dot-3-nam-2025/",
+  "title": {
+    "rendered": "Thông báo điểm chuẩn xét trúng tuyển và Quyết định phê duyệt danh sách thí sinh trúng tuyển Đại học theo hình thức Giáo dục từ xa đợt 3 năm 2025"
+  },
+  "content": {
+    "rendered": "<p>1. Thông báo điểm chuẩn xét trúng tuyển Đại học theo hình thức Giáo dục từ xa đợt 3 năm 2025 (file đính kèm)</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/TB-508-1.pdf\">TB 508 (1)</a></p>\n<p>2. Quyết định phê duyệt Danh sách thí sinh trúng tuyển Đại học theo hình thức Giáo dục từ xa đợt 3 năm 2025. Phương thức xét tuyển: Dựa vào kết quả học tập 03 năm THPT (File đính kèm)</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/1027qd.pdf\">1027qd</a></p>\n<p>3. Quyết định phê duyệt Danh sách thí sinh trúng tuyển Đại học theo hình thức Giáo dục từ xa đợt 3 năm 2025. Phương thức xét tuyển: Xét tuyển thẳng (File đính kèm)</p>\n<p><a href=\"https://tuyensinh.ptit.edu.vn/wp-content/uploads/sites/4/2025/06/1028qd.pdf\">1028qd</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>1. Thông báo điểm chuẩn xét trúng tuyển Đại học theo hình thức Giáo dục từ xa đợt 3 năm 2025 (file đính kèm) TB 508 (1) 2. Quyết định phê duyệt Danh sách thí sinh trúng tuyển Đại học theo hình thức Giáo dục từ xa đợt 3 năm 2025. Phương thức xét tuyển: [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 17,
+  "featured_media": 4144,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    26
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4588",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ts_dao_tao_thong_bao_tuyen_sinh_khac"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4588",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/users/17"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/comments?post=4588"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/posts/4588/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media/4144"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/media?parent=4588"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/categories?post=4588"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://tuyensinh.ptit.edu.vn/wp-json/wp/v2/tags?post=4588"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

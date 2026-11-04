@@ -1,0 +1,580 @@
+### Trang 1
+
+ 
+ 
+ 
+    
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HƯỚNG DẪN  
+NHẬP HỌC TRỰC TUYẾN (ONLINE) 
+ĐẠI HỌC CHÍNH QUY NĂM 2026 CỦA HỌC VIỆN  
+CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 
+CƠ SỞ ĐÀO TẠO PHÍA BẮC (BVH) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội, tháng 8 năm 2026 
+ 
+  
+
+### Trang 2
+
+ 
+1 
+ 
+MỤC LỤC 
+ 
+LỜI NÓI ĐẦU ................................................................................................. 2 
+I. THÔNG TIN VỀ THỦ TỤC NHẬP HỌC ........................................................ 4 
+1. Đối tượng: ................................................................................................... 4 
+2. Thời gian thực hiện nhập học trực tuyến: ...................................................... 4 
+3. Hồ sơ nhập học gồm có: ............................................................................... 4 
+4. Phương thức thực hiện thủ tục nhập học: ...................................................... 4 
+II. HƯỚNG DẪN LÀM THỦ TỤC NHẬP HỌC TRỰC TUYẾN (ONLINE) ............ 5 
+1. Đăng nhập hệ thống xét tuyển ..................................................................... 6 
+2. Khai hồ sơ Lý lịch sinh viên ........................................................................... 8 
+3. Thông tin Hướng dẫn thủ tục nhập học ......................................................... 9 
+4. Rà soát và nộp hồ sơ ..................................................................................11 
+5. Thanh toán kinh phí nhập học .....................................................................14 
+6. Đăng ký kiểm tra trình độ Tiếng Anh đầu vào . Error! Bookmark not defined. 
+III. HƯỚNG DẪN THANH TOÁN KINH PHÍ NHẬP HỌC .................................18 
+ 
+ 
+ 
+  
+
+### Trang 3
+
+ 
+2 
+ 
+LỜI NÓI ĐẦU 
+ 
+ 
+Học viện Công nghệ Bưu chính Viễn thông – trường đại học công lập trực 
+thuộc Bộ Khoa học và Công ngh ệ, gồm Cơ sở đào tạo tại Hà Nội và Cơ sở tại 
+Thành phố Hồ Chí Minh và các Viện nghiên cứu khoa học – chuyển giao công 
+nghệ. Học viện thực hiện sứ mạng sáng tạo và chuyển giao tri thức cho xã hội 
+thông qua việc gắn kết các hoạt động giáo dục – đào tạo nguồn nhân lực chất 
+lượng cao, nghiên cứu phát triển và chuyển giao khoa học công nghệ, tri thức 
+mới trong lĩnh vực thông tin và truyền thông đáp ứng thực tiễn phát triển và hội 
+nhập quốc tế của đất nước. 
+Học viện Công nghệ Bưu chính Viễn thông không ngừng nâng cao chất 
+lượng, phát triển quy mô đào tạo và mở rộng hoạt động nghiên c ứu; tăng 
+cường hợp tác với các cơ quan tổ chức, cá nhân trong và ngoài nước góp phần 
+đào tạo nên những giá trị tri thức mới của Việt Nam, với đội ngũ chuyên nghiệp 
+tâm huyết, đủ bản lĩnh và năng lực hội nhập quốc tế. 
+Năm 2026, Học viện Công nghệ Bưu chính Viễn thông dự kiến tuyển sinh 
+sinh viên ở hai (02) Cơ sở đào tạo tại Hà Nội và Thành phố Hồ Chí Minh vào 
+học các ngành, chương trình đào tạo:  
+(1) Nhóm các ngành, chương trình Kỹ thuật trọng điểm: Công nghệ 
+thông tin; Khoa học máy tính, Công nghệ thông tin CLC, An toàn thông 
+tin, An toàn thông tin CLC, Thạc sĩ tài năng Khoa học máy tính, Thạc 
+sĩ tài năng  Hệ thống thông tin , Thạc sĩ tài năng  An toàn thông tin , 
+Thạc sĩ tài năng  Kỹ thuật viễn thông, Thạc sĩ tài năng  Kỹ thuật điện 
+tử, Trí tuệ nhân tạo; Công nghệ thông tin Việt Nhật, Công nghệ thông 
+tin (định hướng ứng dụng), Kỹ thuật Điện tử viễn thông, Kỹ thuật dữ 
+liệu, Trí tuệ nhân tạo vạn vật (AIoT), Kỹ thuật Truyền thông Hàng 
+không vũ trụ, Công nghệ vi mạch bán dẫn, Kỹ thuật Điều khiển và tự 
+động hóa, UAV và Robot di động tự hành, Công nghệ Kỹ thuật Điện, 
+điện tử. 
+(2) Nhóm các ngành, chương trình Báo chí và Truyền thông: Báo chí, 
+Công nghệ đa phương ti ện, Công ngh ệ công nghiệp văn hóa (đ ịnh 
+hướng điện ảnh), Thiết kế đồ họa game, Thiết kế và phát triển Game, 
+Truyền thông đa phương tiện, Truyền thông đa phương tiện CLC. 
+(3) Nhóm các ngành, chương trình Kinh tế và Quản lý: Quản trị kinh 
+doanh, Logistics và qu ản trị chuỗi cung ứng, Logistics trong kinh t ế 
+tầm thấp, Thương mại điện tử, Quản trị Đổi mới sáng t ạo và kh ởi 
+
+### Trang 4
+
+ 
+3 
+ 
+nghiệp, Marketing, Marketing CLC, Quan hệ công chúng, Kế toán, Kế 
+toán CLC, Công nghệ tài chính (Fintech). 
+(4) Nhóm các chương trình Chất lượng cao: Công nghệ thông tin; An 
+toàn thông tin; K ế toán (chuẩn qu ốc t ế ACCA); Truyền thông đa 
+phương tiện; Marketing. 
+ Tài liệu hướng dẫn nhập học trực tuyến (nhập học online) này nhằm giúp 
+thí sinh dễ dàng, thuận lợi trong quá trình làm thủ tục nhập học vào H ọc viện 
+Công nghệ Bưu chính Viễn thông. 
+BAN CHỈ ĐẠO TUYỂN SINH 
+  
+
+### Trang 5
+
+ 
+4 
+ 
+I. THÔNG TIN VỀ THỦ TỤC NHẬP HỌC 
+1. Đối tượng: Các thí sinh đã trúng tuyển mà H ọc viện đã công b ố và đã 
+hoàn thành việc xác nhận nhập học. 
+2. Thời gian thực hiện nhập học  trực tuyến : Bắt đầu từ ngày 
+14/8/2026 đến hết ngày 21/8/2026. 
+3. Hồ sơ nhập học gồm có: 
+- Bản sao hợp lệ Học bạ Trung học phổ thông. 
+- Bản sao hợp lệ Bằng tốt nghiệp trung học phổ thông hoặc Giấy chứng nhận tốt 
+nghiệp trung học phổ thông tạm thời (đối với học sinh tốt nghiệp năm 2026 nếu 
+chưa được cấp Bằng tốt nghiệp trung học phổ thông). 
+- Bản sao hợp lệ Giấy khai sinh. 
+- Bản sao hợp lệ các giấy tờ pháp lý minh chứng đối tượng ưu tiên được hưởng 
+(nếu có).  
+- Bản sao hợp lệ Giấy chứng nhận học sinh giỏi các cấp, Chứng chỉ SAT/ACT, 
+Chứng chỉ tiếng Anh qu ốc tế IELTS/TOEFL (Đối với các thí sinh trúng tuy ển 
+theo các phương thức xét tuyển 1, 2 và 4). 
+- Lý lịch sinh viên, có dán ảnh, đóng dấu giáp lai và xác nhận của UBND phường, 
+xã nơi cư trú  (Lý lịch sinh viên in trực tiếp từ hệ thống tuyển sinh tr ực tuyến 
+của Học viện). 
+- Giấy chuyển sinh ho ạt Đảng (nếu là đ ảng viên) v ề Đảng bộ Bộ Khoa học và 
+Công nghệ;  giấy chuyển sinh hoạt Đoàn (nếu là đoàn viên) về Đoàn Thanh niên 
+Cộng sản Hồ Chí Minh của Học viện Công nghệ Bưu chính Viễn thông. 
+- Giấy giới thiệu di chuyển đăng ký nghĩa vụ quân sự (đối với Nam giới) do Ban 
+chỉ huy quân sự Phường/ Xã nơi đăng ký h ộ khẩu thường trú cấp nộp về  Học 
+viện Công nghệ Bưu chính Viễn thông (có thể nộp sau khi nhập học). 
+- 6 ảnh cỡ 3x4, chụp trong vòng 6 tháng trở lại đây (ghi họ tên và ngày sinh vào 
+mặt sau). 
+- Giấy khám sức khỏe (nếu có) 
+4. Phương thức thực hiện thủ tục nhập học: 
+- Bước 1: Thí sinh thực hiện Nhập học trực tuyến (online) trên hệ 
+thống xét tuy ển tr ực tuy ến c ủa H ọc vi ện t ại đ ịa ch ỉ 
+https://xettuyen.ptit.edu.vn và hoàn thành đóng kinh phí nhập học 
+bằng hình thức trực tuyến (theo hướng dẫn trên hệ thống), hoàn thành 
+trước 23h59 ngày 21/8/2026. 
+
+### Trang 6
+
+ 
+5 
+ 
+- Bước 2: Thí sinh In Lý lịch sinh viên từ hệ thống xét tuyển, xin xác 
+nhận của UBND xã, phường nơi thí sinh đang cư trú t ại địa phương và 
+chuẩn bị các giấy tờ theo hướng dẫn để nhập học trực tiếp tại Học 
+viện. 
+5. Thời gian thực hiện nhập học trực tiếp và nộp hồ sơ nhập học: Ngày 
+22, 23 và 24 tháng 8 năm 2026. Cụ thể: 
+a) Ngày 22 tháng 8 năm 2026: 
+- Hội trường nhà A2: 
+o Sáng từ 7h30 đến 12h00: Ngành/ Chương trình Công nghệ thông 
+tin; Khoa học máy tính 
+o Chiều từ 13h30 đến 17h00:  Ngành/ Chương trình Công nghệ thông 
+tin CLC, An toàn thông tin, An toàn thông tin CLC 
+- Phòng học 101-A2: 
+o Sáng từ 7h30 đến 12h00:  Ngành/ Chương trình Thạc sĩ tài năng 
+Khoa học máy tính, Thạc sĩ tài năng Hệ thống thông tin, Thạc 
+sĩ tài năng An toàn thông tin, Thạc sĩ tài năng  Kỹ thuật viễn 
+thông, Thạc sĩ tài năng  Kỹ thuật điện tử, Các chương trình 
+liên kết quốc tế 
+o Chiều từ 13h30 đến 17h00:  Ngành/ Chương trình Trí tuệ nhân tạo; 
+Công nghệ thông tin Việt Nhật 
+b) Ngày 23 tháng 8 năm 2026: 
+- Hội trường nhà A2: 
+o Sáng từ 7h30 đến 12h00: Ngành/ Chương trình Công nghệ thông 
+tin (định hướng ứng dụng), Marketing, Marketing CLC, Quan 
+hệ công chúng 
+o Chiều từ 13h30 đến 17h00:  Ngành/ Chương trình Kỹ thuật Điện tử 
+viễn thông, Kỹ thuật dữ liệu, Trí tuệ nhân tạo vạn vật (AIoT), 
+Kỹ thuật Truyền thông Hàng không vũ trụ 
+- Phòng học 101-A2: 
+o Sáng từ 7h30 đến 12h00:  Ngành/ Chương trình Công nghệ vi mạch 
+bán dẫn, Kỹ thuật Điều khiển và tự động hóa, UAV và Robot 
+di động tự hành 
+o Chiều từ 13h30 đ ến 17h00 :  Ngành/ Chương trình Công ngh ệ Kỹ 
+thuật Điện, điện tử 
+c) Ngày 24 tháng 8 năm 2026: 
+- Hội trường nhà A2: 
+
+### Trang 7
+
+ 
+6 
+ 
+o Sáng t ừ 7h30 đến 12h00 : Ngành/ Chương trình Công ngh ệ đa 
+phương tiện, Công ngh ệ công nghi ệp văn hóa (đ ịnh hướng 
+điện ảnh), Thiết kế đồ họa game, Thiết kế và phát triển Game, 
+Truyền thông đa phương ti ện, Truyền thông đa phương ti ện 
+CLC 
+o Chiều từ 13h30 đến 17h00:  Ngành/ Chương trình Báo chí, Quản trị 
+Đổi mới sáng tạo và khởi nghiệp, Kế toán, Kế toán CLC, Công 
+nghệ tài chính (Fintech) 
+- Phòng học 101-A2: 
+o Sáng t ừ 7h30 đ ến 12h00 :  Ngành/ Chương trình Quản tr ị kinh 
+doanh, Logistics và quản trị chuỗi cung ứng, Logistics trong 
+kinh tế tầm thấp 
+o Chiều từ 13h30 đến 17h00:  Ngành/ Chương trình Thương mại điện 
+tử 
+II. HƯỚNG DẪN LÀM THỦ TỤC NHẬP HỌC TRỰC TUYẾN (ONLINE) 
+Sau khi Xác nhận nhập học trên Hệ thống tuyển sinh của Bộ Giáo dục & Đào tạo, 
+thí sinh thực hiện thủ tục nhập học trực tuyển theo hướng dẫn sau đây: 
+- Thí sinh thực hiện làm thủ tục nhập học trực tuyến trên hệ thống xét tuyển của 
+Học viện tại địa chỉ https://xettuyen.ptit.edu.vn; 
+- Các thao tác thực hiện làm thủ tục nhập học trực tuyến như sau: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Đăng nhập hệ thống xét tuyển 
+ 
+ 
+Thí sinh truy c ập hệ thống xét tuyển tuyến trực tuyến của Học viện tại địa chỉ 
+https://xettuyen.ptit.edu.vn 
+Đăng nhập tài khoản trên hệ thống xét tuyển trực tuyến của Học viện 
+Công nghệ Bưu chính Viễn thông 
+Đăng nhập trang Xét tuyển trực tuyến của Học viện 
+Bước 1: Khai Lý lịch sinh viên 
+Bước 2: Thông tin Hướng dẫn làm thủ tục nhập học 
+Bước 3: Thông tin tài khoản ngân hàng 
+Bước 4: Rà soát và nộp hồ sơ 
+
+### Trang 8
+
+ 
+7 
+ 
+Thí sinh đăng nhập bằng tài khoản: 
+➢ Tài khoản là CMND/CCCD của thí sinh (số CMND/CCCD đã sử dụng trên hệ 
+thống tuyển sinh của Bộ Giáo dục & Đào tạo); 
+➢ Mật khẩu mặc định là thông tin ngày tháng năm sinh của thí sinh theo định 
+dạng DDMMYYYY. 
+ 
+ 
+Đăng nhập thành công, màn hình hiển thị trang chủ.  
+ 
+
+
+### Trang 9
+
+ 
+8 
+ 
+Thí sinh ch ọn mục Nhập học trực tuyến để thực hiện khai báo nh ập học => 
+Màn hình thực hiện khai báo hiển thị:  
+ 
+2. Khai hồ sơ Lý lịch sinh viên 
+ 
+ 
+- Thí sinh nhập đầy đủ các thông tin Lý lịch sinh viên như hiển thị trên màn hình; 
+ 
+- Thí sinh lưu ý nhập thông tin thẻ BHYT theo hướng dẫn: Hướng dẫn tra cứu BHYT.docx 
+Lưu ý: Sinh viên là con bộ đội được cấp mã số thẻ BHYT theo bố/mẹ cần điền bổ sung 
+(Mẫu TK01-TS) và nộp lại tại đây 
+Bước 1: Khai Lý lịch sinh viên  
+ 
+
+### Trang 10
+
+ 
+9 
+ 
+ 
+Lưu ý: Các thông tin nào không có, thí sinh có thể bỏ qua (vd: vợ/chồng, con ...) hoặc có 
+thể thêm/bớt thông tin (vd: anh/chị em ruột). 
+Sau khi th ực hiện khai báo đ ầy đủ các trường thông tin (*) b ắt buộc, thí sinh ấn nút 
+Bước 2/4 để lưu thông tin khai báo ở Bước 1 và chuyển sang bước khai báo tiếp theo. 
+ 
+3. Thông tin Hướng dẫn thủ tục nhập học 
+ 
+Sau khi khai báo thông tin lý l ịch, thí sinh chuy ển sang Bước 2: Hưỡng dẫn thủ tục 
+nhập học. 
+Thí sinh theo dõi các thông tin của thủ tục nhập học: 
+• Thông tin chung 
+• Danh sách giấy tờ cần nộp 
+ 
+• Danh sách kinh phí cần nộp: 
+Bước 2: Thông tin Hướng dẫn thủ tục nhập học 
+ 
+
+### Trang 11
+
+ 
+10 
+ 
+ 
+và chọn Bước 3/4 để chuyển sang Bước 3 
+ 
+4. Thông tin tài khoản ngân hàng 
+ 
+ 
+- Thí sinh chọn Bước 3 ở bên trên màn hình 
+ 
+- Nếu Đã có tài khoản ngân hàng. Thí sinh tích chọn Đã có tài khoản ngân 
+hàng và nhập thông tin: 
+o Số tài khoản 
+o Tên chủ tài khoản 
+o Tên ngân hàng 
+- Nếu Chưa có tài khoản ngân hàng, thí sinh thực hiện đăng ký tài khoản 
+Bước 3: Thông tin tài khoản ngân hàng 
+ 
+
+### Trang 12
+
+ 
+11 
+ 
+ 
+- Thí sinh có thể chọn các ngân hàng muốn mở tài khoản trong các ngân hàng sau 
+ 
+5. Rà soát và nộp hồ sơ 
+ 
+-  
+- Thí sinh chọn Bước 4 ở bên trên màn hình 
+ 
+Thông tin hồ sơ nhập học của thí sinh hiển thị, thí sinh thực hiện rà soát thông tin: 
+Bước 4: Rà soát và nộp hồ sơ 
+ 
+
+### Trang 13
+
+ 
+12 
+ 
+ 
+ 
+❖ Chỉnh sửa hồ sơ nhập học 
+Thí sinh có thể thực hiện chỉnh sửa lại hồ sơ nếu có thông tin sai, thí sinh ấn nút Chỉnh 
+sửa hồ sơ => Thí sinh được đưa quay trở về bước 1 
+ 
+❖ Khóa hồ sơ nhập học: 
+Sau khi kiểm tra chắc chắn các thông tin hồ sơ, thí sinh chọn Khóa hồ sơ để hoàn tất 
+việc khai hồ sơ nhập học trực tuyến. 
+ 
+
+
+### Trang 14
+
+ 
+13 
+ 
+Lưu ý: Thí sinh chưa bắt buộc Khóa hồ sơ ngay lập tức mà có thể thực hiện cập 
+nhật thông tin hồ sơ và Khóa hồ sơ trước hạn 
+Chọn Xác nhận để thực hiện khóa hồ sơ  
+ 
+Hồ sơ nhập học được khóa thành công. Màn hình hiển thị: 
+ 
+Thí sinh có thể In lý lịch sinh viên để nộp về nhà trường 
+
+
+### Trang 15
+
+ 
+14 
+ 
+ 
+Các thí sinh đăng ký tài khoản ngân hàng có thể In biểu mẫu mở thẻ 
+ 
+6. Thanh toán kinh phí nhập học 
+Sau khi thực hiện khóa hồ sơ, thí sinh chọn Xem thông tin thanh toán để thực hiện 
+thanh toán lệ phí nhập học: 
+
+
+### Trang 16
+
+ 
+15 
+ 
+ 
+Màn hình hiển thị: 
+
+
+### Trang 17
+
+ 
+16 
+ 
+ 
+Thí sinh nộp kinh phí theo hướng dẫn trên màn hình 
+Thí sinh có thể sử dụng phương thức thanh toán bằng qua mã QR thanh toán hoặc qua 
+mã định danh thanh toán: 
+❖ Thanh toán bằng mã QR: thí sinh sử dụng chức năng quét mã QR thanh toán 
+trên ứng dụng ngân hàng (smart banking) của bất kỳ ngân hàng nào đ ể thanh 
+toán. 
+❖ Thanh toán qua mã định danh thanh toán: 
+
+
+### Trang 18
+
+ 
+17 
+ 
+- Nếu sinh viên sử dụng tài khoản BIDV thì mã thanh toán là: 030*****28 
+- Nếu sinh viên s ử dụng tài kho ản Ngân hàng khác thì mã thanh toán là: 
+96***********28 
+Thí sinh có thể xem hướng dẫn chi tiết ở mục C 
+Lưu ý: Sinh viên vui lòng thanh toán chính xác số tiền yêu cầu (không làm tròn) 
+để hệ thống ghi nhận giao dịch là hợp lệ 
+Hoá đơn điện tử 
+Sau khi thanh toán thành công, trong vòng 1 đến 2 ngày làm việc, học viện sẽ gửi 
+thông tin hoá đơn điện tử về email của this sinh. Thí sinh chọn Tra cứu để xem thông 
+tin hoá đơn.  
+ 
+Hệ thống hiển thị thông tin hoá đơn điện tử. 
+
+
+### Trang 19
+
+ 
+18 
+ 
+ 
+Thí sinh có thể tải về máy  hoặc in trực tiếp . 
+ 
+III. HƯỚNG DẪN THANH TOÁN KINH PHÍ NHẬP HỌC 
+A. THANH TOÁN BẰNG MÃ THANH TOÁN (MÃ ĐỊNH DANH) VÀ MÃ QR 
+Sau khi thí sinh thực hiện đăng ký nhập học thành công, hệ thống sẽ hiển thị thông 
+tin thanh toán kinh phí nhập học của thí sinh để thực hiện nộp kinh phí như hình dưới: 
+(Mã thanh toán này chính là số tài khoản thụ hưởng) 
+- Mã thanh toán cho BIDV: nhập số này vào phần mã khách hàng nếu người dùng 
+sử dụng ngân hàng BIDV 
+- Mã thanh toán cho ngân hàng khác : nhập số này vào ph ần số tài khoản thụ 
+hưởng nếu người dùng sử dụng ngân hàng khác BIDV 
+- Mã QR: Quét mã QR để hiển thị thông tin thanh toán liên ngân hàng với các ngân 
+hàng khác BIDV 
+
+
+### Trang 20
+
+ 
+19 
+ 
+ 
+1. Thanh toán bằng Quét mã QR  
+ 
+ 
+
+
+### Trang 21
+
+ 
+20 
+ 
+ 
+ 
+2. Thanh toán bằng smart-banking của BIDV đối với người dùng BIDV 
+ 
+ 
+
+
+### Trang 22
+
+ 
+21 
+ 
+ 
+ 
+4.3. Thanh toán bằng smart-banking của các ngân hàng khác đối với người không 
+dùng BIDV 
+ 
+
+
+### Trang 23
+
+ 
+22 
+ 
+ 
+ 
+4. Thanh toán bằng tiền mặt tại quầy giao dịch của các ngân hàng  
+ 
+
+
+### Trang 24
+
+ 
+23 
+ 
+ 
+ 
+ 
+B. CỔNG THANH TOÁN TRỰC TUYẾN CỦA HỌC VIỆN 
+Nhằm hỗ trợ và tạo điều kiện cho thí sinh, phụ huynh có thể tra cứu thông tin cần 
+thanh toán, thực hiện thanh toán trực tuyến bằng mã QR thanh toán và kiểm tra kết quả 
+giao dịch thanh toán tr ực tiếp trên c ổng thanh toán mà không c ần đăng nh ập vào tài 
+khoản xét tuyển, thí sinh có thể sử dụng Cổng thanh toán trực tuyến của Học viện vào 
+sử dụng tại địa chỉ https://congthanhtoan.ptit.edu.vn.  
+Cổng thanh toán tr ực tuyến sẽ hỗ trợ thí sinh, ph ụ huynh theo dõi các n ội dung 
+thanh toán của thí sinh trong suốt quá trình học tập. 
+
+
+### Trang 25
+
+ 
+24 
+ 
+ 
+1. Tra cứu thông tin thanh toán: 
+Thí sinh hoặc phụ huynh có thể sử dụng số báo danh, số CCCD/CMND, mã thanh 
+toán định danh (có trên tài khoản xét tuyển), mã sinh viên ... để tra cứu các thông 
+tin cần thanh toán cũng như kết quả giao dịch thanh toán. 
+  
+2. Thực hiện thanh toán hoặc kiểm tra kết quả giao dịch: 
+Thí sinh, phụ huynh có thể thực hiện giao dịch thanh toán bằng mã QR thanh toán 
+thông qua quét mã QR trên ứng dụng Smart Banking của các Ngân hàng hoặc kiểm 
+tra kết quả giao dịch thanh toán. 
+
+
+### Trang 26
+
+ 
+25 
+ 
+  
+ Các thao thác thanh toán như hướng dẫn tại mục C 
+KÊNH THÔNG TIN HỖ TRỢ: 
+1. Fanpage tuyển sinh của Học viện: 
+https://www.facebook.com/ptittuyensinh 
+2. Email tuyển sinh: tuyensinh@ptit.edu.vn 
+3. Hotline: 024.33528122, 024.33512252 
+4. Zalo PTIT: Học viện Công nghệ Bưu chính Viễn thông (ID 
+1260203497642986925) 
+ 
+MỘT LẦN NỮA, CHÀO MỪNG CÁC EM ĐÃ CHÍNH THỨC BƯỚC VÀO 
+NGÔI NHÀ CHUNG MỚI VÀ TRỞ THÀNH PTITER! 
+ 

@@ -1,9 +1,14 @@
 # Môi trường ảo
 .venv/
 BE/storage/
+BE/chroma_db/
 
-# Vector DB (tạo lại được bằng cách chạy rag_demo.py)
+# Chỉ mục demo cũ; backend hiện dùng BE/chroma_db/
 chroma_db/
+
+# File trung gian tự sinh khi thu thập và kiểm thử
+/docs/ptit_2026_five_files/staged/
+/BE/tmp*/
 
 # API key
 .env

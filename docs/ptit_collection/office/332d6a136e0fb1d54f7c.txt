@@ -1,0 +1,63 @@
+### sheet1.xml
+A1: TT | B1: Ngành | C1: Khoá | D1: Khối lớp | E1: Mã môn học | F1: Tên môn học | G1: TC | H1: Truocsau | I1: Tienquyet | J1: SV đăng ký | L1: Ghi chú
+A2: 1 | B2: CNTT | C2: 2025 | D2: D25CN | J2: 0
+A3: 1b | B3: CNTT | C3: 2024 | D3: D24CN | E3: INT1319 | F3: Hệ điều hành | G3: 3 | J3: 116 | K3: D24CNINT1319 | L3: Mở lớp riêng học vượt
+A4: 1b | B4: CNTT | C4: 2024 | D4: D24CN | E4: SKD1108 | F4: Phương pháp luận NCKH | G4: 2 | J4: 116 | K4: D24CNSKD1108 | L4: Mở lớp riêng học vượt
+A5: 2 | B5: Khoa học máy tính | C5: 2025 | D5: D25KH | E5: INT1358 | F5: Toán rời rạc 1 | G5: 3 | J5: 34 | K5: D25KHINT1358 | L5: Mở lớp riêng học vượt
+A6: 3 | B6: CNTT - CLC | C6: 2025 | D6: E25CN | E6: INT1358_CLC | F6: Toán rời rạc 1 | G6: 3 | J6: 44 | K6: E25CNINT1358_CLC | L6: Mở lớp riêng học vượt
+A7: 4 | B7: CNTT Việt Nhật | C7: 2025 | D7: D25VN | E7: INT1358 | F7: Toán rời rạc 1 | G7: 3 | J7: 5 | K7: D25VNINT1358 | L7: Mở lớp riêng học vượt
+A8: 5 | B8: Trí tuệ nhân tạo | C8: 2025 | D8: D25TN | E8: ELE1309 | F8: Điện tử số | G8: 3 | J8: 43 | K8: D25TNELE1309 | L8: Mở lớp riêng học vượt
+A9: 6 | B9: An toàn thông tin | C9: 2024 | D9: D24AT | E9: INT1332 | F9: Lập trình hướng đối tượng | G9: 3 | I9: INT1339 | J9: 49 | K9: D24ATINT1332 | L9: Mở lớp riêng học vượt
+A10: 6b | B10: An toàn thông tin | C10: 2025 | D10: D25AT | E10: BAS1269 | F10: Xác xuất thống kê | G10: 3 | I10: BAS1203 | J10: 17 | K10: D25ATBAS1269 | L10: Học ghép cùng D22,23,24
+A11: 7 | B11: ATTT-CLC | C11: 2025 | D11: E25AT | E11: INT13204_CLC | F11: Kiến trúc máy tính và hệ điều hành | G11: 3 | I11: SEC1101_CLC | J11: 8 | K11: E25ATINT13204_CLC | L11: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A12: 8 | B12: Marketing | C12: 2024 | D12: D24MR | E12: BAS1153 | F12: Lịch sử Đảng cộng sản Việt Nam | G12: 2 | J12: 42 | K12: D24MRBAS1153 | L12: Mở lớp riêng học vượt
+A13: 8 | B13: Marketing | C13: 2024 | D13: D24MR | E13: BSA1309 | F13: Kinh tế lượng | G13: 3 | J13: 42 | K13: D24MRBSA1309 | L13: Mở lớp riêng học vượt
+A14: 8b | B14: Marketing | C14: 2025 | D14: D25MR | E14: BSA1328 | F14: Quản trị học | G14: 3 | J14: 23 | K14: D25MRBSA1328 | L14: Mở lớp riêng học vượt
+A15: 8b | B15: Marketing | C15: 2025 | D15: D25MR | E15: MAR1424 | F15: Quản trị Marketing | G15: 2 | I15: MAR1322 | J15: 23 | K15: D25MRMAR1424 | L15: Mở lớp riêng học vượt
+A16: 9 | B16: Marketing - CLC | C16: 2024 | D16: E24MR | E16: MAR1329_CLC | F16: Quản trị bán hàng | G16: 2 | I16: MAR1353_CLC | J16: 2 | K16: E24MRMAR1329_CLC | L16: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A17: 9 | B17: Marketing - CLC | C17: 2024 | D17: E24MR | E17: MAR1425_CLC | F17: Marketing dịch vụ | G17: 2 | I17: MAR1353_CLC | J17: 2 | K17: E24MRMAR1425_CLC | L17: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A18: 9 | B18: Marketing - CLC | C18: 2024 | D18: E24MR | E18: MAR1466_CLC | F18: Marketing số | G18: 3 | I18: MAR1353_CLC | J18: 2 | K18: E24MRMAR1466_CLC | L18: Học ghép cùng D22,23,24
+A19: 9b | B19: Marketing - CLC | C19: 2025 | D19: E25MR | E19: FIA1388_CLC | F19: Kế toán quản trị phục vụ việc ra quyết định | G19: 3 | J19: 14 | K19: E25MRFIA1388_CLC | L19: Mở lớp riêng học vượt
+A20: 10 | B20: Quan hệ công chúng | C20: 2024 | D20: D24QC | E20: MAR1328 | F20: Quản trị thương hiệu | G20: 2 | I20: MAR1322 | J20: 3 | K20: D24QCMAR1328 | L20: Học ghép lưu ý MAR1328 lớp D23MR học tại Ngọc Trục
+A21: 10 | B21: Quan hệ công chúng | C21: 2024 | D21: D24QC | E21: MAR1484 | F21: Lập kế hoạch quan hệ công chúng | G21: 3 | I21: MAR1322 | J21: 3 | K21: D24QCMAR1484 | L21: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A22: 10 | B22: Quan hệ công chúng | C22: 2024 | D22: D24QC | E22: MUL14207 | F22: Truyền thông chính sách | G22: 2 | J22: 3 | K22: D24QCMUL14207 | L22: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A23: 10b | B23: Quan hệ công chúng | C23: 2025 | D23: D25QC | E23: MUL13118 | F23: Pháp luật và đạo đức truyền thông | G23: 2 | J23: 10 | K23: D25QCMUL13118 | L23: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A24: 10b | B24: Quan hệ công chúng | C24: 2025 | D24: D25QC | E24: MAR1466 | F24: Marketing số | G24: 3 | I24: MAR1322 | J24: 10 | K24: D25QCMAR1466 | L24: Học ghép cùng D22,23,24
+A25: 11 | B25: Thương mại điện tử | C25: 2024 | D25: D24TM | E25: FIA1389 | F25: Kế toán cho kinh doanh | G25: 3 | I25: BSA1386 | J25: 18 | K25: D24TMFIA1389 | L25: Mở lớp riêng học vượt
+A26: 11 | B26: Thương mại điện tử | C26: 2024 | D26: D24TM | E26: BSA1354 | F26: Quản trị bán hàng và phân phối sản phẩm | G26: 2 | I26: BSA1386 | J26: 18 | K26: D24TMBSA1354 | L26: Mở lớp riêng học vượt
+A27: 11b | B27: Thương mại điện tử | C27: 2025 | D27: D25TM | E27: BSA1328 | F27: Quản trị học | G27: 3 | J27: 2 | K27: D25TMBSA1328 | L27: Học ghép cùng D22,23,24
+A28: 12 | B28: Logicsstic | C28: 2025 | D28: D25LQ | E28: BSA1236 | F28: Tâm lý quản lý | G28: 2 | J28: 8 | K28: D25LQBSA1236 | L28: Học ghép cùng D22,23,24
+A29: 13 | B29: Quản trị kinh doanh | C29: 2024 | D29: D24QT | E29: BSA1338 | F29: Thống kê doanh nghiệp | G29: 3 | H29: BSA1310; BSA1311 | J29: 24 | K29: D24QTBSA1338 | L29: Mở lớp riêng học vượt
+A30: 13 | B30: Quản trị kinh doanh | C30: 2024 | D30: D24QT | E30: SKD1108 | F30: Phương pháp luận NCKH | G30: 2 | J30: 24 | K30: D24QTSKD1108 | L30: Mở lớp riêng học vượt
+A31: 13b | B31: Quản trị kinh doanh | C31: 2025 | D31: D25QT | E31: BSA1241 | F31: Toán kinh tế | G31: 3 | H31: BAS1267 | J31: 5 | K31: D25QTBSA1241 | L31: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A32: 14 | B32: KT-CLC | C32: 2024 | D32: E24KT | E32: FIA1392_CLC | F32: Kế toán doanh nghiệp Việt Nam | G32: 3 | H32: FIA1321_CLC | J32: 3 | K32: E24KTFIA1392_CLC | L32: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A33: 14 | B33: KT-CLC | C33: 2024 | D33: E24KT | E33: FIA1485_CLC | F33: Hệ thống thông tin kế toán | G33: 2 | H33: FIA1321_CLC | J33: 3 | K33: E24KTFIA1485_CLC | L33: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A34: 14 | B34: KT-CLC | C34: 2024 | D34: E24KT | E34: BAS1153 | F34: Lịch sử Đảng CSVN | G34: 2 | J34: 3 | K34: E24KTBAS1153 | L34: Học ghép cùng D22,23,24
+A35: 15 | B35: CN Tài chính | C35: 2024 | D35: D24TC | E35: FIA14114 | F35: Phân tích và lập kế hoạch tài chính | G35: 3 | H35: FIA1325 | J35: 21 | K35: D24TCFIA14114 | L35: Mở lớp riêng học vượt
+A36: 15 | B36: CN Tài chính | C36: 2024 | D36: D24TC | E36: INT14150 | F36: Nhập môn Khoa học dữ liệu | G36: 3 | J36: 21 | K36: D24TCINT14150 | L36: Mở lớp riêng học vượt
+A37: 15b | B37: CN Tài chính | C37: 2025 | D37: D25TC | E37: INT13129 | F37: Lập trình Python (Fintech) | G37: 3 | H37: FIA1321 | J37: 3 | K37: D25TCINT13129 | L37: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A38: 16 | B38: Kế toán | C38: 2024 | D38: D24KT | E38: FIA1315 | F38: Kiểm toán căn bản | G38: 3 | J38: 14 | K38: D24KTFIA1315 | L38: Học ghép cùng D22,23,24
+A39: 16 | B39: Kế toán | C39: 2024 | D39: D24KT | E39: FIA1468 | F39: Phân tích tài chính doanh nghiệp | G39: 3 | J39: 14 | K39: D24KTFIA1468 | L39: Học ghép cùng D22,23,24
+A40: 16b | B40: Kế toán | C40: 2025 | D40: D25KT | E40: SKD1108 | F40: Phương pháp luận NCKH | G40: 2 | J40: 4 | K40: D25KTSKD1108 | L40: Học ghép cùng D22,23,24
+A41: 17 | B41: Vi mạch bán dẫn | C41: 2025 | D41: D25VM | E41: ELE13141 | F41: Cơ học lượng tử | G41: 3 | J41: 5 | K41: D25VMELE13141 | L41: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A42: 18 | B42: Điện tử | C42: 2024 | D42: D24DT | E42: INT13185 | F42: Cấu trúc dữ liệu và giải thuật | G42: 3 | H42: INT1155 | J42: 15 | K42: D24DTINT13185 | L42: Học ghép cùng D22,23,24
+A43: 18b | B43: Điện tử | C43: 2025 | D43: D25DT | E43: BAS1150 | F43: Triết học Mác Lê Nin | G43: 3 | J43: 17 | K43: D25DTBAS1150 | L43: Học ghép cùng D22,23,24
+A44: 19 | B44: Điều khiển & TĐH | C44: 2025 | D44: D25DK | E44: BAS1150 | F44: Triết học Mác Lê Nin | G44: 3 | J44: 0 | K44: D25DKBAS1150
+A45: 20 | B45: Công nghệ đa PT | C45: 2025 | D45: D25PT | E45: MUL1314 | F45: Kỹ thuật quay phim | G45: 3 | J45: 4 | K45: D25PTMUL1314 | L45: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A46: 21 | B46: Truyền thông đa PT | C46: 2025 | D46: D25TT | E46: MUL1423 | F46: Kịch bản đa phương tiện | G46: 2 | J46: 2 | K46: D25TTMUL1423 | L46: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A47: 22 | B47: Kỹ thuật dữ liệu | C47: 2025 | D47: D25KD | E47: BAS1224 | F47: Vật lý 1 và thí nghiệm | G47: 4 | J47: 0 | K47: D25KDBAS1224
+A48: 23 | B48: Viễn thông | C48: 2024 | D48: D24VT | E48: ELE1317 | F48: Kỹ thuật vi xử lý | G48: 3 | J48: 16 | K48: D24VTELE1317 | L48: Học ghép cùng D22,23,24
+A49: 23 | B49: Viễn thông | C49: 2024 | D49: D24VT | E49: TEL1338 | F49: Kiến trúc máy tính | G49: 2 | J49: 16 | K49: D24VTTEL1338 | L49: Mở lớp riêng học vượt
+A50: 23b | B50: Viễn thông | C50: 2025 | D50: D25VT | E50: ELE13105 | F50: Linh kiện và mạch điện tử | G50: 3 | J50: 14 | K50: D25VTELE13105 | L50: Mở lớp riêng học vượt
+A51: 24 | B51: Game | C51: 2025 | D51: D25GA | E51: MUL13150 | F51: Thiết kế đồ hoạ | G51: 3 | J51: 3 | K51: D25GAMUL13150 | L51: Học ghép cùng D22,23,24
+A52: 24 | B52: Game | C52: 2025 | D52: D25GA | E52: CDI1408 | F52: Thiết kế câu chuyện Game | G52: 2 | J52: 3 | K52: D25GACDI1408 | L52: Học ghép cùng D22,23,24
+A53: 25 | B53: Tuyền thông ĐPT - CLC | C53: 2025 | D53: E25TT | E53: MUL1426_CLC | F53: Thiết kế đồ hoạ cơ bản | G53: 3 | J53: 9 | K53: E25TTMUL1426_CLC | L53: Không tổ chức (chưa có lớp nào học, ít SV đăng ký)
+A54: 26 | B54: Báo chí | C54: 2025 | D54: D25BC | E54: MUL13171 | F54: Nhiếp ảnh báo chí | G54: 3 | J54: 1 | K54: D25BCMUL13171 | L54: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A55: 26b | B55: Báo chí | C55: 2024 | D55: D24BC | E55: MUL13166 | F55: Báo chí và phương tiện truyền thông XH | G55: 2 | J55: 1 | K55: D24BCMUL13166 | L55: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A56: 26b | B56: Báo chí | C56: 2024 | D56: D24BC | E56: MUL14188 | F56: Dẫn chương trình | G56: 2 | H56: MUL14187 | J56: 1 | K56: D24BCMUL14188 | L56: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A57: 26b | B57: Báo chí | C57: 2024 | D57: D24BC | E57: MUL14185 | F57: Báo chí và dư luận xã hội | G57: 2 | H57: MUL12159 | J57: 1 | K57: D24BCMUL14185 | L57: Không tổ chức (đã học vào kì 251, ít SV đăng ký)
+A58: 27 | B58: Trí tuệ nhân tạo vanh vật AIoT | C58: 2025 | D58: D25TV | J58: 0 | K58: D25TV
+A59: 28 | B59: Cử nhân CNTT | C59: 2024 | D59: D24CCN | E59: INT1449 | F59: Phát triển ứng dụng cho các thiết bị di động | G59: 3 | J59: 4 | K59: D24CCNINT1449 | L59: Học ghép cùng D22,23,24
+A60: 28 | B60: Cử nhân CNTT | C60: 2024 | D60: D24CCN | E60: INT1306 | F60: Cấu trúc dữ liệu và giải thuật | G60: 3 | J60: 4 | K60: D24CCNINT1306 | L60: Học ghép cùng D22,23,24
+A61: 28b | B61: Cử nhân CNTT | C61: 2025 | D61: D25CCN | J61: 0 | K61: D25CCN
+J62: 912

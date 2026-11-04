@@ -1,0 +1,100 @@
+{
+  "id": 373,
+  "date": "2024-08-07T15:12:22",
+  "date_gmt": "2024-08-07T08:12:22",
+  "guid": {
+    "rendered": "https://daotao.ptit.edu.vn/?page_id=373"
+  },
+  "modified": "2026-06-16T23:38:26",
+  "modified_gmt": "2026-06-16T16:38:26",
+  "slug": "gioi-thieu",
+  "status": "publish",
+  "type": "page",
+  "link": "https://daotao.ptit.edu.vn/gioi-thieu/",
+  "title": {
+    "rendered": "Giới thiệu"
+  },
+  "content": {
+    "rendered": "<div style=\"position: fixed;top: -4568px;left: -4039px\">\n<p>À l&#8217;évidence, <a href='https://crazytime-1casino.com'>crazy time casino</a> fait partie de ces projets qui privilégient le long terme à la prospection rapide. Les passionnés de mécaniques Megaways disposent d&#8217;une vaste sélection ajoutée à la sélection avec une régularité plaisante. La latence du live casino reste contenue sur la version mobile, ce qui surprend agréablement. Les délais de connexion à une table libre restent généralement très brefs. Les éléments interactifs réagissent instantanément aux clics et aux interactions tactiles. Le programme de fidélité capitalise les mises pour les convertir en avantages tangibles à plus long terme. Les utilisateurs VIP bénéficient d&#8217;un manager dédié avec un canal prioritaire. Les virements SEPA instantanés simplifient considérablement les flux internes à l&#8217;Union européenne. La cohérence du projet s&#8217;observe à toutes les échelles et finit par convaincre durablement.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>À l&#8217;évidence, crazy time casino fait partie de ces projets qui privilégient le long terme à la prospection rapide. Les passionnés de mécaniques Megaways disposent d&#8217;une vaste sélection ajoutée à la sélection avec une régularité plaisante. La latence du live casino reste contenue sur la version mobile, ce qui surprend agréablement. Les délais de connexion [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 8,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "ptit_layout_page",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-373",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/373",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/users/8"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/comments?post=373"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/373/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5125,
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/pages/373/revisions/5125"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://daotao.ptit.edu.vn/wp-json/wp/v2/media?parent=373"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
