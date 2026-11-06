@@ -2,9 +2,9 @@
 import re
 
 if __package__:
-    from .search_text import TERMS, fold, normalize_query
+    from .search_text import TERMS, fold, normalize_query, is_greeting
 else:
-    from search_text import TERMS, fold, normalize_query
+    from search_text import TERMS, fold, normalize_query, is_greeting
 
 
 def route_message(question, scope='auto', attachment_ids=(), document_ids=(), history=()):
@@ -12,8 +12,15 @@ def route_message(question, scope='auto', attachment_ids=(), document_ids=(), hi
         return 'documents'
     if scope != 'auto':
         return scope
+    if is_greeting(question):
+        return 'knowledge'
     query = fold(normalize_query(question)).strip(' .!?')
-    if re.search(r'\b(kho (du lieu|ptit)|nguon (chinh thuc|ptit)|bo qua file|khong (hoi|dung) file|cau hoi moi)\b', query):
+    if re.search(
+        r'\b(kho (?:du lieu|ptit)|nguon (?:chinh thuc|ptit)|'
+        r'bo qua (?:(?:het|tat ca)\s+)?(?:cac\s+)?(?:file|tep|tai lieu)|'
+        r'quen (?:(?:het|tat ca)\s+)?(?:cac\s+)?(?:file|tep|tai lieu)|'
+        r'khong (?:hoi|dung)\s+(?:file|tep|tai lieu)|'
+        r'cau hoi moi)\b', query):
         return 'knowledge'
     explicit_file = re.search(
         r'\b((trong|theo|tu|cua|ve|doc|tom tat|tong hop) (file|tep|tai lieu|bang tinh)|'
@@ -32,11 +39,13 @@ def route_message(question, scope='auto', attachment_ids=(), document_ids=(), hi
     # A new PTIT subject, including a bare "ktx", starts a knowledge query even
     # when the uploaded report happens to mention that same word.
     for full, aliases in TERMS:
+        if full in ("sinh viên", "giảng viên chủ nhiệm", "đăng ký", "điểm trung bình tích lũy", "lịch thi"):
+            continue
         if any(re.search(r'(?<!\w)' + re.escape(fold(name)) + r'(?!\w)', query) for name in [full, *aliases]):
             return 'knowledge'
     if recent_file_answer and re.search(
         r'^(tom tat|tong hop|tong quan|noi dung chinh|so sanh|liet ke|con |vay |the |'
-        r'what about|dieu kien|gpa|so tien|muc ho tro|han nop|yeu cau|giai thich|chi tiet|tiep )', query):
+        r'what about|dieu kien|diem trung binh|gpa|so tien|muc ho tro|han nop|yeu cau|giai thich|chi tiet|tiep )', query):
         return 'documents'
     return 'knowledge'
 

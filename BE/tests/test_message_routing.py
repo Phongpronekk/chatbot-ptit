@@ -13,6 +13,11 @@ class RoutingTests(unittest.TestCase):
     def route(self, question, **kwargs):
         return route_message(question, document_ids=['report'], history=self.history, **kwargs)
 
+    def test_greeting_routes_to_knowledge(self):
+        for greeting in ('chào', 'chao', 'xin chào', 'chào bạn', 'hello', 'hi', 'hey bot', 'alo'):
+            with self.subTest(greeting=greeting):
+                self.assertEqual(self.route(greeting), 'knowledge')
+
     def test_new_ptit_subject_is_not_trapped_in_the_uploaded_report(self):
         for question in ('ktx', 'KÝ TÚC XÁ', 'ky tuc xa nam nay', 'KTX năm nay bao nhiêu tiền?',
                          'học phí', 'BHYT', 'câu lạc bộ', 'thư viện', 'Đăng ký học phần',

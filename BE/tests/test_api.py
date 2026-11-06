@@ -1,5 +1,7 @@
 import os
 import tempfile
+import threading
+import time
 import unittest
 from pathlib import Path
 from unittest.mock import patch
@@ -136,6 +138,18 @@ class ApiTests(unittest.TestCase):
         self.assertEqual(self.client.get("/api/conversations/invalid").status_code, 422)
         self.assertEqual(self.client.get(f"/api/conversations/{uuid4()}").status_code, 404)
 
+    def test_greeting_messages_reply_promptly(self):
+        for greeting in ("chào", "chào bạn", "hello", "hi", "xin chào"):
+            identifier = self.create()
+            response = self.send(identifier, greeting)
+            self.assertEqual(response.status_code, 200)
+            answer = response.json()["messages"][1]
+            self.assertEqual(answer["mode"], "llm")
+            self.assertEqual(answer["sources"], [])
+            self.assertIn("Chào bạn!", answer["text"])
+            self.assertIn("PTIT", answer["text"])
+            self.assertIn("Quy chế", answer["text"])
+
     def test_retry_does_not_duplicate_messages(self):
         identifier, request_id = self.create(), str(uuid4())
         self.assertEqual(self.send(identifier, request_id=request_id).status_code, 200)
@@ -197,6 +211,35 @@ class ApiTests(unittest.TestCase):
             self.assertFalse(self.client.get("/api/health").json()["llm_configured"])
             self.assertEqual(self.send(self.create()).status_code, 503)
             client.assert_not_called()
+
+
+    def test_concurrent_messages_across_conversations(self):
+        c1 = self.create()
+        c2 = self.create()
+        results = {}
+
+        def slow_answer(question, *args, **kwargs):
+            time.sleep(0.4)
+            return f"Answer for {question}", "llm", []
+
+        def worker(cid, q):
+            results[cid] = self.send(cid, q)
+
+        with patch.object(self.app.state.knowledge, "answer", side_effect=slow_answer):
+            t0 = time.time()
+            th1 = threading.Thread(target=worker, args=(c1, "Question 1"))
+            th2 = threading.Thread(target=worker, args=(c2, "Question 2"))
+            th1.start()
+            th2.start()
+            th1.join()
+            th2.join()
+            elapsed = time.time() - t0
+
+        self.assertEqual(results[c1].status_code, 200)
+        self.assertEqual(results[c2].status_code, 200)
+        self.assertIn("Question 1", results[c1].json()["messages"][1]["text"])
+        self.assertIn("Question 2", results[c2].json()["messages"][1]["text"])
+        self.assertLess(elapsed, 0.75)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,8 @@
+import json
 import logging
 import os
+import re
+import secrets
 import asyncio
 from collections import Counter
 import time
@@ -11,6 +14,7 @@ import httpx
 
 from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse
 from starlette.concurrency import run_in_threadpool
 from starlette.datastructures import UploadFile
 from starlette.formparsers import MultiPartParser, MultiPartException
@@ -19,24 +23,23 @@ from dotenv import load_dotenv
 # The backend's .env is the authoritative configuration, independent of cwd.
 load_dotenv(Path(__file__).resolve().parent / ".env", override=True, encoding="utf-8-sig")
 
-from dotenv import load_dotenv
-
-# Load các biến từ file .env vào môi trường
-load_dotenv()
-
 if __package__:
     from .database import Database
     from .attachments import DocumentMemory, DocumentError, MAX_FILE_BYTES, extract_document, clean_filename
     from .knowledge import Knowledge
     from .message_routing import route_message, file_history
-    from .schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch, Attachment
+    from .schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch, Attachment, FeedbackIn
+    from .search_text import is_greeting, greeting_response, fold, normalize_query
+    from .mongo_store import is_mongo_configured, check_mongo_connection, sync_source_documents, get_source_documents
 else:
     # `uvicorn main:app` / `python main.py` from inside BE.
     from database import Database
     from attachments import DocumentMemory, DocumentError, MAX_FILE_BYTES, extract_document, clean_filename
     from knowledge import Knowledge
     from message_routing import route_message, file_history
-    from schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch, Attachment
+    from schemas import Conversation, ConversationSummary, SendMessage, Source, RagSearch, Attachment, FeedbackIn
+    from search_text import is_greeting, greeting_response, fold, normalize_query
+    from mongo_store import is_mongo_configured, check_mongo_connection, sync_source_documents, get_source_documents
 
 ROOT = Path(__file__).resolve().parents[1]
 logger = logging.getLogger(__name__)
@@ -96,9 +99,9 @@ def retrieval_disabled() -> bool:
 
 
 def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_store=None) -> FastAPI:
-    database = Database(db_path or Path(os.getenv("CHAT_DB_PATH", str(ROOT / "BE/storage/chat.sqlite3"))))
+    database = Database(db_path, use_mongo=(db_path is None))
     knowledge = Knowledge(data_dir or Path(os.getenv("DATA_DIR", str(ROOT / "data"))), rag_store=rag_store)
-    documents = DocumentMemory()
+    documents = DocumentMemory(use_mongo=(db_path is None))
 
     async def expire_documents():
         while True:
@@ -112,6 +115,15 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
             logger.warning("DIRECT_OLLAMA_CHAT enabled: skipping knowledge.prepare() and indexing")
         else:
             knowledge.prepare()
+        provider = os.getenv("LLM_PROVIDER", "ollama").strip().lower()
+        key_var = "GOOGLE_API_KEY" if provider == "google" else ("ANTHROPIC_API_KEY" if provider == "anthropic" else None)
+        if key_var and not os.getenv(key_var, "").strip():
+            logger.warning("LLM API key '%s' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.", key_var)
+        if db_path is None and is_mongo_configured():
+            try:
+                sync_source_documents()
+            except Exception as exc:
+                logger.warning("MongoDB auto-sync error on startup: %s", exc)
         cleanup_task = asyncio.create_task(expire_documents())
         try:
             yield
@@ -129,7 +141,7 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
     app.state.documents = documents
     origins = [item.strip() for item in os.getenv("CORS_ORIGINS", "http://localhost:5173,http://127.0.0.1:5173,http://127.0.0.1:5174").split(",") if item.strip()]
     app.add_middleware(CORSMiddleware, allow_origins=origins, allow_credentials=True,
-                       allow_methods=["GET", "POST", "DELETE"], allow_headers=["Content-Type"])
+                       allow_methods=["GET", "POST", "PUT", "DELETE"], allow_headers=["Content-Type", "X-Admin-Token"])
 
     @app.middleware("http")
     async def browser_session(request: Request, call_next):
@@ -163,6 +175,7 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
                 "embedding_model": knowledge.rag_store.model_name if active_vector else None,
                 "indexed_chunks": knowledge.rag_store.manifest['chunk_count'] if active_vector else 0,
                 "search_strategy": 'disabled' if direct_ollama_enabled() else 'hybrid' if active_vector and os.getenv('RETRIEVAL_HYBRID', 'true').lower() in ('true', '1', 'yes') else 'vector' if active_vector else 'bm25',
+                "mongodb_configured": is_mongo_configured(),
                 'retrieval_warning': knowledge.last_retrieval_error}
 
     @app.get("/api/knowledge/sources")
@@ -173,6 +186,28 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
             return knowledge.sources()
         except (ValueError, OSError):
             raise HTTPException(503, "Kho dữ liệu chưa sẵn sàng")
+
+    @app.get("/api/mongodb/status", tags=["MongoDB"], summary="Kiểm tra kết nối MongoDB Atlas")
+    def mongo_status_endpoint():
+        """Xem trạng thái kết nối MongoDB Atlas và số lượng tài liệu nguồn đã lưu."""
+        return check_mongo_connection()
+
+    @app.post("/api/mongodb/sync", tags=["MongoDB"], summary="Đồng bộ các file nguồn lên MongoDB Atlas")
+    def mongo_sync_endpoint():
+        """Đồng bộ toàn bộ các bản dữ liệu nguồn (data/*.md) lên MongoDB Atlas."""
+        if not is_mongo_configured():
+            raise HTTPException(400, "Chưa cấu hình MONGODB_URI trong BE/.env")
+        result = sync_source_documents()
+        if not result.get("success"):
+            raise HTTPException(502, f"Không thể đồng bộ lên MongoDB: {result.get('message')}")
+        return result
+
+    @app.get("/api/mongodb/sources", tags=["MongoDB"], summary="Xem danh sách tài liệu nguồn trong MongoDB Atlas")
+    def mongo_list_sources():
+        """Xem danh sách các bản dữ liệu nguồn đang lưu trữ trong MongoDB Atlas."""
+        if not is_mongo_configured():
+            raise HTTPException(400, "Chưa cấu hình MONGODB_URI trong BE/.env")
+        return get_source_documents()
 
     @app.get('/api/rag/status', tags=['RAG'], summary='Xem cấu hình và chỉ mục RAG')
     def rag_status():
@@ -359,7 +394,11 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
         scope = route_message(payload.message, payload.retrieval_scope, attachment_ids,
                               document_ids, current['messages'])
         if scope == 'documents' and not document_ids:
-            raise HTTPException(410, 'Không có file còn hiệu lực để trả lời. Hãy đính kèm hoặc tải lại file.')
+            folded_msg = fold(normalize_query(payload.message))
+            is_explicit = bool(re.search(r'\b((trong|theo|tu|cua|ve|doc|tom tat|tong hop)\s+(file|tep|tai lieu|bang tinh)|(file|tep|tai lieu|bang tinh)\s+(nay|do|tren|vua|da (gui|tai))|pdf|docx|xlsx|excel|word)\b', folded_msg))
+            if is_explicit or payload.retrieval_scope == 'documents':
+                raise HTTPException(410, 'Không có file còn hiệu lực để trả lời. Hãy đính kèm hoặc tải lại file.')
+            scope = 'knowledge'
         try:
             if scope == 'documents':
                 history = file_history(current['messages'], document_ids)
@@ -369,9 +408,10 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
                     history=history, uploaded=True)
             elif direct_ollama_enabled():
                 answer, mode, sources = ask_ollama_direct(payload.message), "llm", []
+            elif is_greeting(payload.message):
+                answer, mode, sources = greeting_response(), "llm", []
             else:
-
-                answer, mode, sources = knowledge.answer(payload.message)
+                answer, mode, sources = knowledge.answer(payload.message, history=current['messages'])
             # Validate response before persisting a complete turn atomically.
             sources = [Source.model_validate(source).model_dump() for source in sources]
         except DocumentError as exc:
@@ -386,6 +426,102 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
         result = normalize_conversation_modes(conversation)
         result['documents'] = documents.list(request.state.owner, str(identifier))
         return result
+
+    @app.post("/api/conversations/{identifier}/messages/stream")
+    def stream_message(identifier: UUID, payload: SendMessage, request: Request):
+        owner = request.state.owner
+        conv_id = str(identifier)
+        current = require_conversation(identifier, request)
+        request_id = str(payload.request_id)
+        if database.has_request(conv_id, request_id):
+            existing = require_conversation(identifier, request)
+            def replay_stream():
+                yield f"event: done\ndata: {json.dumps(existing, ensure_ascii=False)}\n\n"
+            return StreamingResponse(replay_stream(), media_type="text/event-stream")
+
+        document_ids = list(dict.fromkeys(str(item) for item in payload.document_ids))
+        attachment_ids = list(dict.fromkeys(str(item) for item in payload.attachment_ids))
+        if not set(attachment_ids).issubset(document_ids):
+            raise HTTPException(422, 'File đính kèm phải nằm trong danh sách file dùng để trả lời.')
+        available = {doc['id']: doc for doc in current['documents']}
+        if any(item not in available for item in attachment_ids):
+            raise HTTPException(410, 'File đính kèm đã hết hạn hoặc không thuộc cuộc trò chuyện này. Hãy tải lại file.')
+        attachments = [{key: available[item][key] for key in ('id', 'filename', 'size')}
+                       for item in attachment_ids]
+        scope = route_message(payload.message, payload.retrieval_scope, attachment_ids,
+                              document_ids, current['messages'])
+        if scope == 'documents' and not document_ids:
+            folded_msg = fold(normalize_query(payload.message))
+            is_explicit = bool(re.search(r'\b((trong|theo|tu|cua|ve|doc|tom tat|tong hop)\s+(file|tep|tai lieu|bang tinh)|(file|tep|tai lieu|bang tinh)\s+(nay|do|tren|vua|da (gui|tai))|pdf|docx|xlsx|excel|word)\b', folded_msg))
+            if is_explicit or payload.retrieval_scope == 'documents':
+                raise HTTPException(410, 'Không có file còn hiệu lực để trả lời. Hãy đính kèm hoặc tải lại file.')
+            scope = 'knowledge'
+
+        def event_stream():
+            try:
+                if scope == 'documents':
+                    history = file_history(current['messages'], document_ids)
+                    sources = documents.retrieve(owner, conv_id, document_ids, payload.message, history)
+                    generator = knowledge.stream_answer_from_sources(payload.message, sources, history=history, uploaded=True)
+                elif direct_ollama_enabled():
+                    ans = ask_ollama_direct(payload.message)
+                    generator = iter([("delta", ans), ("result", (ans, "llm", []))])
+                elif is_greeting(payload.message):
+                    ans = greeting_response()
+                    generator = iter([("delta", ans), ("result", (ans, "llm", []))])
+                else:
+                    generator = knowledge.stream_answer(payload.message, history=current['messages'])
+
+                final_result = None
+                for event_type, data in generator:
+                    if event_type == "delta":
+                        yield f"event: delta\ndata: {json.dumps({'text': data}, ensure_ascii=False)}\n\n"
+                    elif event_type == "result":
+                        final_result = data
+
+                if final_result is None:
+                    raise RuntimeError("Không nhận được kết quả từ luồng trả lời")
+                answer, mode, raw_sources = final_result
+                validated_sources = [Source.model_validate(s).model_dump() for s in raw_sources]
+                conversation = database.save_turn(conv_id, owner, request_id,
+                                                  payload.message, answer, mode, validated_sources, attachments=attachments)
+                if conversation is None:
+                    yield f"event: error\ndata: {json.dumps({'detail': 'Cuộc trò chuyện đã bị xóa'}, ensure_ascii=False)}\n\n"
+                    return
+                result = normalize_conversation_modes(conversation)
+                result['documents'] = documents.list(owner, conv_id)
+                yield f"event: done\ndata: {json.dumps(result, ensure_ascii=False)}\n\n"
+            except DocumentError as exc:
+                yield f"event: error\ndata: {json.dumps({'detail': str(exc), 'status': exc.status}, ensure_ascii=False)}\n\n"
+            except Exception as exc:
+                logger.exception("Lỗi khi stream tin nhắn (%s): %s", type(exc).__name__, exc)
+                yield f"event: error\ndata: {json.dumps({'detail': 'Dịch vụ trả lời chưa sẵn sàng. Vui lòng kiểm tra dữ liệu/cấu hình LLM hoặc thử lại sau.'}, ensure_ascii=False)}\n\n"
+
+        return StreamingResponse(event_stream(), media_type="text/event-stream")
+
+    @app.put("/api/messages/{message_id}/feedback", status_code=204, tags=["Feedback"])
+    def submit_feedback(message_id: UUID, payload: FeedbackIn, request: Request):
+        if not database.save_feedback(str(message_id), request.state.owner, payload.rating, payload.comment):
+            raise HTTPException(404, "Không tìm thấy tin nhắn để đánh giá")
+        return Response(status_code=204)
+
+    @app.get("/api/mongodb/feedback", tags=["MongoDB", "Feedback"], summary="Xem danh sách đánh giá Like/Dislike trong MongoDB")
+    def list_feedback_endpoint(rating: int | None = None, limit: int = 50):
+        """Xem danh sách câu hỏi, câu trả lời và đánh giá 👍 (1) / 👎 (-1) đã lưu trên MongoDB."""
+        return database.list_feedback(rating=rating, limit=min(max(limit, 1), 200))
+
+    @app.post("/api/admin/reindex", tags=["Admin"], summary="Cập nhật lại chỉ mục RAG nóng không cần khởi động lại")
+    def admin_reindex(request: Request):
+        expected = os.getenv("ADMIN_TOKEN", "").strip()
+        provided = request.headers.get("X-Admin-Token", "").strip()
+        if not expected or not secrets.compare_digest(provided, expected):
+            raise HTTPException(403, "Không có quyền thực hiện thao tác quản trị")
+        try:
+            knowledge.reload()
+            return {"status": "ok", "source_count": len(knowledge.sources()), "retrieval": knowledge.mode}
+        except Exception as exc:
+            logger.exception("Không thể reindex kho dữ liệu")
+            raise HTTPException(503, f"Không thể cập nhật chỉ mục: {exc}")
 
     return app
 

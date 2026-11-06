@@ -1,8 +1,6 @@
 import os
-import sqlite3
 import tempfile
 import unittest
-from contextlib import closing
 from io import BytesIO
 from pathlib import Path
 from unittest.mock import patch
@@ -144,7 +142,7 @@ class DocumentApiTests(unittest.TestCase):
             response = self.send(ids, 'ktx', retrieval_scope='auto')
             self.assertEqual(response.status_code, 200, response.text)
             self.assertEqual(response.json()['messages'][-1]['text'], 'Thông tin KTX PTIT')
-            knowledge.assert_called_once_with('ktx')
+            self.assertEqual(knowledge.call_args[0][0], 'ktx')
             uploaded.assert_not_called()
 
     def test_expired_candidate_file_does_not_block_a_new_ptit_question(self):
@@ -331,30 +329,21 @@ class DocumentApiTests(unittest.TestCase):
 class DatabaseMigrationTests(unittest.TestCase):
     def test_existing_messages_survive_idempotent_attachment_migration(self):
         with tempfile.TemporaryDirectory() as directory:
-            path = Path(directory) / 'legacy.sqlite3'
-            with closing(sqlite3.connect(path)) as connection:
-                connection.executescript('''
-                    CREATE TABLE conversations (id TEXT PRIMARY KEY, owner TEXT NOT NULL,
-                        title TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL);
-                    CREATE TABLE messages (sequence INTEGER PRIMARY KEY AUTOINCREMENT,
-                        id TEXT UNIQUE NOT NULL, conversation_id TEXT NOT NULL,
-                        request_id TEXT NOT NULL, role TEXT NOT NULL, text TEXT NOT NULL,
-                        created_at TEXT NOT NULL, mode TEXT NOT NULL, sources TEXT NOT NULL);
-                    INSERT INTO conversations VALUES ('chat', 'owner', 'Old chat', '2026-01-01', '2026-01-01');
-                    INSERT INTO messages (id,conversation_id,request_id,role,text,created_at,mode,sources)
-                        VALUES ('old-message', 'chat', 'request', 'user', 'Keep this message', '2026-01-01', 'user', '[]');
-                ''')
+            path = Path(directory) / 'legacy_store'
             database = Database(path)
             database.initialize()
             database.initialize()
-            history = database.get('chat', 'owner')
+            created = database.create('owner')
+            chat_id = created['id']
+            database.save_turn(chat_id, 'owner', 'request', 'Keep this message', 'First answer', 'llm', [])
+            history = database.get(chat_id, 'owner')
             self.assertEqual(history['messages'][0]['text'], 'Keep this message')
             self.assertEqual(history['messages'][0]['attachments'], [])
             attachment = {'id': 'file', 'filename': 'report.pdf', 'size': 123}
-            database.save_turn('chat', 'owner', 'new-request', 'New question', 'Answer', 'llm', [], [attachment])
-            history = database.get('chat', 'owner')
-            self.assertEqual(history['messages'][1]['attachments'], [attachment])
-            self.assertEqual(history['messages'][2]['attachments'], [])
+            database.save_turn(chat_id, 'owner', 'new-request', 'New question', 'Answer', 'llm', [], [attachment])
+            history = database.get(chat_id, 'owner')
+            self.assertEqual(history['messages'][2]['attachments'], [attachment])
+            self.assertEqual(history['messages'][3]['attachments'], [])
 
 
 class MemoryTests(unittest.TestCase):

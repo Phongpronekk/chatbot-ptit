@@ -244,7 +244,7 @@ class RagStore:
             # false positives. Keep high-confidence semantic paraphrases available.
             overlap = query_terms.intersection(terms(candidate['metadata'].get('title', '') + ' ' + candidate['metadata']['_content']))
             coverage = len(overlap) / max(len(query_terms), 1)
-            supported = coverage >= (1. if len(query_terms) <= 5 else .4)
+            supported = coverage >= (0.6 if len(query_terms) <= 5 else .4)
             margin = float(os.getenv('RAG_SEMANTIC_ONLY_MARGIN', '.08'))
             vector_ok = score is not None and score >= threshold and (not hybrid or supported or score >= threshold + margin)
             accepted = vector_ok or lexical_ok

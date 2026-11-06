@@ -1,9 +1,46 @@
 import unittest
 import unicodedata
-from BE.search_text import canonical, normalize_query, terms, fold, KeywordIndex
+from BE.search_text import canonical, normalize_query, terms, fold, KeywordIndex, is_greeting, greeting_response
 
 
 class SearchTextTests(unittest.TestCase):
+    def test_greeting_detection(self):
+        positives = [
+            'chao', 'chào', 'Chào', 'CHÀO', 'chào!', 'chào bạn', 'chao ban', 'chào bot', 'chao bot',
+            'xin chào', 'xin chao', 'Xin chào bạn', 'dạ chào bạn', 'chào bạn nhé', 'chào bạn nha',
+            'chào bạn ạ', 'chào nhé', 'chào nha', 'chào bot ơi', 'chào em', 'chào anh', 'chào chị',
+            'chào buổi sáng', 'chào buổi chiều', 'chào buổi tối',
+            'hello', 'Hello', 'HELLO', 'hello!', 'hello bot', 'hello bạn', 'helo', 'hế lô',
+            'hi', 'Hi', 'HI', 'hi!', 'hi bot', 'hi bạn', 'hii', 'hiii', 'hey', 'hey bot',
+            'alo', 'a lô', 'alo bot', 'alo bot ơi', 'good morning', 'good afternoon', 'good evening',
+            'Chào bạn! 😊', 'Hello bot 👋', 'Hi! 🌟', 'chào bạn nhé ạ :))', 'alo bot ơi!!!',
+            'chao ban ^_^', 'hello <3', '  !! CHÀO BẠN :D  ', 'xin chào ạ ^^',
+            'dạ em chào thầy ạ', 'dạ em chào cô', 'chào ad nhé', 'hello admin', 'hey there'
+        ]
+        for greeting in positives:
+            with self.subTest(greeting=greeting):
+                self.assertTrue(is_greeting(greeting), f"Failed to recognize greeting: {greeting}")
+
+        negatives = [
+            'chào bạn, KTX B2 phí bao nhiêu?',
+            'chào bot, cho mình hỏi về học phí',
+            'hello bot, thủ tục đăng ký học phần thế nào?',
+            'hi, bảo hiểm y tế nộp khi nào?',
+            'chào tân sinh viên là ngày nào?',
+            'ngày hội chào tân sinh viên',
+            'thư viện chào đón tân sinh viên',
+            'cháo gà',
+            'KTX',
+            'bảo hiểm y tế',
+            'tôi muốn hỏi về học bổng'
+        ]
+        for non_greeting in negatives:
+            with self.subTest(non_greeting=non_greeting):
+                self.assertFalse(is_greeting(non_greeting), f"Mistakenly recognized as greeting: {non_greeting}")
+
+        self.assertIn("Chào bạn!", greeting_response())
+        self.assertIn("PTIT", greeting_response())
+
     def test_whitespace_and_unicode(self):
         self.assertEqual(normalize_query('  bảo\thiểm  y\n tế '), 'bảo hiểm y tế')
         self.assertEqual(canonical(unicodedata.normalize('NFD', 'BẢO HIỂM Y TẾ')), 'bảo hiểm y tế')

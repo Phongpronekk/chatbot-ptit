@@ -186,3 +186,67 @@ test('invalid selections leave existing drafts intact and never upload', () => {
   assert.ok(store.error)
   assert.deepEqual(calls, [])
 })
+
+test('can switch conversations and send questions concurrently', async () => {
+  let finishA, finishB
+  api.get = async id => conversation(id)
+  api.send = async (id, text, requestId, documentIds, attachmentIds, scope) => {
+    calls.push(['send', id, text])
+    return new Promise(resolve => {
+      const resolver = () => resolve({
+        id, title: text, created_at: timestamp, updated_at: timestamp,
+        messages: [
+          { id: crypto.randomUUID(), role: 'user', text, created_at: timestamp, mode: 'user', sources: [], attachments: [] },
+          { id: crypto.randomUUID(), role: 'assistant', text: `Answer for ${text}`, created_at: timestamp, mode: 'llm', sources: [], attachments: [] },
+        ],
+        documents: [],
+      })
+      if (id === 'chat-a') finishA = resolver
+      else finishB = resolver
+    })
+  }
+
+  // Start sending in chat-a
+  assert.equal(store.activeId, 'chat-a')
+  const opA = store.send('Question A')
+  assert.equal(store.isSending('chat-a'), true)
+  assert.equal(store.sending, true)
+
+  // Switch to chat-b while chat-a is still sending
+  await store.select('chat-b')
+  assert.equal(store.activeId, 'chat-b')
+  // For chat-b, it is not sending yet
+  assert.equal(store.sending, false)
+  assert.equal(store.busy, false)
+  assert.equal(store.isSending('chat-a'), true)
+  assert.equal(store.isSending('chat-b'), false)
+
+  // Start sending in chat-b as well
+  const opB = store.send('Question B')
+  assert.equal(store.isSending('chat-b'), true)
+  assert.equal(store.sending, true)
+
+  // Both are sending at the same time
+  assert.equal(store.isSending('chat-a'), true)
+  assert.equal(store.isSending('chat-b'), true)
+
+  // Chat A finishes in the background
+  finishA()
+  await opA
+  assert.equal(store.isSending('chat-a'), false)
+  // Active is still chat-b and chat-b is still sending
+  assert.equal(store.activeId, 'chat-b')
+  assert.equal(store.isSending('chat-b'), true)
+
+  // Chat B finishes
+  finishB()
+  await opB
+  assert.equal(store.isSending('chat-b'), false)
+  assert.equal(store.active.messages[1].text, 'Answer for Question B')
+
+  // Switch back to chat-a: should have chat-a's completed answer
+  await store.select('chat-a')
+  assert.equal(store.activeId, 'chat-a')
+  assert.equal(store.active.messages[1].text, 'Answer for Question A')
+})
+

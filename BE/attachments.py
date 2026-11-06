@@ -13,8 +13,20 @@ from zipfile import ZipFile
 
 if __package__:
     from .search_text import KeywordIndex, fold
+    from .mongo_store import (
+        is_mongo_configured,
+        save_temp_attachment,
+        get_temp_attachments_for_conversation,
+        delete_temp_attachments,
+    )
 else:
     from search_text import KeywordIndex, fold
+    from mongo_store import (
+        is_mongo_configured,
+        save_temp_attachment,
+        get_temp_attachments_for_conversation,
+        delete_temp_attachments,
+    )
 
 MAX_FILE_BYTES = 10 * 1024 * 1024
 MAX_TEXT_CHARS = 500_000
@@ -183,23 +195,63 @@ class StoredDocument:
 
 
 class DocumentMemory:
-    def __init__(self):
+    def __init__(self, use_mongo: bool = False):
         self._documents: dict[str, StoredDocument] = {}
+        self._removed_ids: set[str] = set()
+        self._hydrated_conversations: set[tuple[str, str]] = set()
+        self._use_mongo = use_mongo
         self._lock = RLock()
+
+    def _mongo_enabled(self) -> bool:
+        return self._use_mongo and is_mongo_configured() and monotonic() != float('inf')
+
+    def _hydrate_from_mongo(self, owner: str, conversation: str, force: bool = False) -> None:
+        if not self._mongo_enabled():
+            return
+        key = (owner, conversation)
+        if not force and key in self._hydrated_conversations:
+            return
+        self._hydrated_conversations.add(key)
+        now_utc = datetime.now(timezone.utc)
+        remote_docs = get_temp_attachments_for_conversation(owner, conversation)
+        for item in remote_docs:
+            identifier = str(item.get('_id', ''))
+            if not identifier or identifier in self._documents or identifier in self._removed_ids:
+                continue
+            expires_at = item.get('expires_at')
+            if isinstance(expires_at, datetime):
+                if expires_at.tzinfo is None:
+                    expires_at = expires_at.replace(tzinfo=timezone.utc)
+                remaining = (expires_at - now_utc).total_seconds()
+            else:
+                remaining = float(TTL_SECONDS)
+            if remaining <= 0:
+                continue
+            self._documents[identifier] = StoredDocument(
+                owner=owner,
+                conversation=conversation,
+                metadata=dict(item.get('metadata', {})),
+                chunks=list(item.get('chunks', [])),
+                deadline=monotonic() + remaining,
+            )
 
     def cleanup(self):
         with self._lock:
             expired = [identifier for identifier, doc in self._documents.items() if doc.deadline <= monotonic()]
             for identifier in expired:
+                self._removed_ids.add(identifier)
                 del self._documents[identifier]
 
     def clear(self):
         with self._lock:
             self._documents.clear()
+            self._removed_ids.clear()
+            self._hydrated_conversations.clear()
 
     def list(self, owner: str, conversation: str):
         with self._lock:
             self.cleanup()
+            self._hydrate_from_mongo(owner, conversation)
             return [dict(doc.metadata) for doc in self._documents.values()
                     if doc.owner == owner and doc.conversation == conversation]
 
@@ -215,12 +267,15 @@ class DocumentMemory:
                     doc.metadata['characters'] for doc in self._documents.values()) > 10_000_000:
                 raise DocumentError('Bộ nhớ tài liệu đang đầy. Vui lòng thử lại sau.', 503)
             timestamp = datetime.now(timezone.utc)
+            expires_at_dt = timestamp + timedelta(seconds=TTL_SECONDS)
             identifier = str(uuid4())
             metadata = {'id': identifier, 'filename': clean_filename(filename), 'size': size,
                         'characters': characters, 'chunk_count': len(chunks),
                         'created_at': timestamp.isoformat(),
-                        'expires_at': (timestamp + timedelta(seconds=TTL_SECONDS)).isoformat()}
+                        'expires_at': expires_at_dt.isoformat()}
             self._documents[identifier] = StoredDocument(owner, conversation, metadata, chunks, monotonic() + TTL_SECONDS)
+            if self._mongo_enabled():
+                save_temp_attachment(identifier, owner, conversation, metadata, chunks, timestamp, expires_at_dt)
             return dict(metadata)
 
     def delete(self, owner: str, conversation: str, identifier: str | None = None):
@@ -230,12 +285,18 @@ class DocumentMemory:
                            if doc.owner == owner and doc.conversation == conversation
                            and (identifier is None or key == identifier)]
             for key in identifiers:
+                self._removed_ids.add(key)
                 del self._documents[key]
-            return bool(identifiers)
+            deleted_remote = 0
+            if self._mongo_enabled() and (identifiers or identifier is not None or (owner, conversation) not in self._hydrated_conversations):
+                deleted_remote = delete_temp_attachments(owner, conversation, identifier)
+            return bool(identifiers) or deleted_remote > 0
 
     def retrieve(self, owner: str, conversation: str, identifiers: list[str], question: str, history=None):
         with self._lock:
             self.cleanup()
+            if any(identifier not in self._documents for identifier in identifiers):
+                self._hydrate_from_mongo(owner, conversation)
             documents = [self._documents.get(identifier) for identifier in identifiers]
             if any(doc is None or doc.owner != owner or doc.conversation != conversation for doc in documents):
                 raise DocumentError('File đã hết hạn, bị xóa hoặc không thuộc cuộc trò chuyện này. Hãy tải lại file.', 410)

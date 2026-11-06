@@ -37,6 +37,12 @@ class Message(BaseModel):
     mode: Literal["user", "retrieval_only", "llm"]
     sources: list[Source] = Field(default_factory=list)
     attachments: list[MessageAttachment] = Field(default_factory=list)
+    feedback: Literal[-1, 1] | None = None
+
+
+class FeedbackIn(BaseModel):
+    rating: Literal[-1, 1]
+    comment: str | None = Field(default=None, max_length=500)
 
 
 class ConversationSummary(BaseModel):

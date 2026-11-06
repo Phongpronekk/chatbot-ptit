@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import type { Message, Source } from '../chat.types'
 import { renderMarkdown } from '../chat.markdown'
 const props = defineProps<{ message: Message }>()
+const emit = defineEmits<{ (e: 'feedback', messageId: string, rating: 1 | -1): void }>()
 const sourceGroups = computed(() => {
   const groups = new Map<string, { source: Source; refs: { source: Source; index: number }[] }>()
   props.message.sources.forEach((source, index) => {
@@ -56,7 +57,29 @@ function time(value: string) {
           <a v-if="safeUrl(group.source.source_url)" :href="safeUrl(group.source.source_url)" target="_blank" rel="noopener noreferrer">Xem nguồn chính thức ↗</a>
         </details>
       </div>
-      <span class="message-time">{{ message.pending ? 'Đang gửi…' : time(message.created_at) }}<template v-if="message.role === 'assistant'"> · {{ message.mode === 'llm' ? 'Trả lời từ tài liệu' : 'Trích xuất tài liệu' }}</template></span>
+      <div class="message-footer">
+        <span class="message-time">{{ message.pending ? 'Đang gửi…' : time(message.created_at) }}<template v-if="message.role === 'assistant'"> · {{ message.mode === 'llm' ? 'Trả lời từ tài liệu' : 'Trích xuất tài liệu' }}</template></span>
+        <div v-if="message.role === 'assistant' && !message.pending" class="feedback-buttons" role="group" aria-label="Đánh giá câu trả lời">
+          <button
+            type="button"
+            class="feedback-btn"
+            :class="{ active: message.feedback === 1 }"
+            :aria-pressed="message.feedback === 1"
+            title="Hữu ích"
+            aria-label="Hữu ích"
+            @click="emit('feedback', message.id, 1)"
+          >👍</button>
+          <button
+            type="button"
+            class="feedback-btn"
+            :class="{ active: message.feedback === -1 }"
+            :aria-pressed="message.feedback === -1"
+            title="Chưa chính xác"
+            aria-label="Chưa chính xác"
+            @click="emit('feedback', message.id, -1)"
+          >👎</button>
+        </div>
+      </div>
     </div>
   </article>
 </template>

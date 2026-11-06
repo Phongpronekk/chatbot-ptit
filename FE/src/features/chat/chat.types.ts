@@ -26,6 +26,7 @@ export interface Message {
   sources: Source[]
   attachments: MessageAttachment[]
   pending?: boolean
+  feedback?: 1 | -1 | null
 }
 export interface MessageAttachment {
   id: string
