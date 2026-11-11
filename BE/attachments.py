@@ -4,6 +4,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from io import BytesIO
+import logging
 from pathlib import PurePosixPath
 import re
 from threading import RLock
@@ -27,6 +28,8 @@ else:
         get_temp_attachments_for_conversation,
         delete_temp_attachments,
     )
+
+logger = logging.getLogger(__name__)
 
 MAX_FILE_BYTES = 10 * 1024 * 1024
 MAX_TEXT_CHARS = 500_000
@@ -155,6 +158,9 @@ def extract_document(filename: str, data: bytes) -> list[dict]:
                 workbook.release_resources()
     except DocumentError:
         raise
+    except ImportError as exc:
+        logger.exception('Không nạp được thư viện đọc định dạng %s', extension)
+        raise DocumentError(f'Máy chủ chưa có thư viện đọc file {extension}.', 503) from exc
     except Exception as exc:
         raise DocumentError('Không đọc được file. File có thể bị hỏng, có mật khẩu hoặc sai định dạng.') from exc
     if not parts:

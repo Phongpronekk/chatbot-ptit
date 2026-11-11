@@ -15,6 +15,7 @@ import httpx
 from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
+from starlette import formparsers
 from starlette.concurrency import run_in_threadpool
 from starlette.datastructures import UploadFile
 from starlette.formparsers import MultiPartParser, MultiPartException
@@ -312,6 +313,9 @@ def create_app(db_path: Path | None = None, data_dir: Path | None = None, rag_st
         require_conversation(identifier, request)
         if not request.headers.get('content-type', '').lower().startswith('multipart/form-data'):
             raise HTTPException(415, 'Gửi file bằng multipart/form-data, trường file.')
+        if formparsers.multipart is None:
+            logger.error('Thiếu python-multipart trong môi trường backend')
+            raise HTTPException(503, 'Máy chủ chưa cài thư viện tiếp nhận file tải lên.')
         # Bound the entire multipart body before parsing; do not spool originals to disk.
         limit = MAX_FILE_BYTES + 64 * 1024
         try:

@@ -72,3 +72,22 @@ test('user text is kept literal even when assistant text supports Markdown', asy
   assert.match(html, /\*\*literal\*\*/)
   assert.doesNotMatch(html, /<script>/)
 })
+
+test('answers link cited files, named attachments and bare URLs', () => {
+  const pdf = 'https://daotao.ptit.edu.vn/1-Chuan-dau-ra.pdf'
+  const page = 'https://daotao.ptit.edu.vn/de-an/'
+  const form = 'https://daotao.ptit.edu.vn/Mau%20don.docx'
+  const tick = String.fromCharCode(96)
+  const html = renderMarkdown('Xem ' + tick + '1-Chuan-dau-ra.pdf' + tick + ' [1], Mau don.docx [2] và https://ptit.edu.vn/. File la.pdf.',
+    [{ source_url: pdf, content: '' }, { source_url: page, content: '[Mẫu đơn](' + form + ')' }])
+  assert.match(html, /href="[^"]*1-Chuan-dau-ra\.pdf"[^>]*><code>1-Chuan-dau-ra\.pdf<\/code><\/a>/)
+  assert.match(html, /href="[^"]*Mau%20don\.docx"[^>]*>Mau don\.docx<\/a>/)
+  assert.match(html, /href="[^"]*\/de-an\/"[^>]*>\[2\]<\/a>/)
+  assert.match(html, /href="https:\/\/ptit\.edu\.vn\/"/)
+  assert.doesNotMatch(html, /href="[^"]*la\.pdf/)
+  const ambiguous = renderMarkdown('Xem ' + tick + '1-Chuan-dau-ra.pdf' + tick + '.', [
+    { source_url: pdf, content: '' },
+    { source_url: 'https://example.org/1-Chuan-dau-ra.pdf', content: '' },
+  ])
+  assert.doesNotMatch(ambiguous, /<a /)
+})

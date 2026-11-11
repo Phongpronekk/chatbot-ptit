@@ -13,7 +13,7 @@ const sourceGroups = computed(() => {
   })
   return [...groups.values()]
 })
-const answerHtml = computed(() => renderMarkdown(props.message.text))
+const answerHtml = computed(() => renderMarkdown(props.message.text, props.message.sources))
 function safeUrl(value: string) {
   try {
     const url = new URL(value)

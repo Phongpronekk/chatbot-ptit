@@ -74,7 +74,7 @@ def terms(text):
     text = fold(canonical(text))
     text = re.sub(
         r'\b(?:bao nhieu|nhu the nao|lam the nao|co cach nao|danh sach|thong tin(?: ve)?|quy dinh(?: ve)?|'
-        r'the nao|ra sao|thi sao|co nhung|neu ten|ke ten|liet ke|tat ca|toan bo|quan trong|dang co|hien co)\b',
+        r'the nao|ra sao|thi sao|luc nao|co nhung|neu ten|ke ten|liet ke|tat ca|toan bo|quan trong|dang co|hien co)\b',
         ' ',
         text,
     )
