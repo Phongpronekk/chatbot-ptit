@@ -1,0 +1,1249 @@
+{
+  "config": {
+    "retrieval_backend": "lexical",
+    "limit": 3,
+    "chunk_size": 400,
+    "chunk_overlap": 60
+  },
+  "records": [
+    {
+      "id": "RAG-001",
+      "category": "có dấu",
+      "question": "Lệ phí nội trú KTX học kỳ II năm học 2025-2026 là bao nhiêu?",
+      "evidence": [
+        {
+          "source_file": "ktx.md",
+          "expected_strings": [
+            "250.000"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-v-v-bo-tri-sinh-vien-o-noi-tru-trong-thoi-gian-nghi-he-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027",
+          "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**",
+          "note": "2026-06-18 · Đăng ngày 2026-06-18. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-18",
+          "score": 13.32563,
+          "score_type": "bm25",
+          "lexical_score": 13.32563
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+          "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**",
+          "note": "2026-01-30 · Đăng ngày 2026-01-30. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-30",
+          "score": 14.718,
+          "score_type": "bm25",
+          "lexical_score": 14.718
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+          "content": "– Chuẩn bị hồ sơ ở nội trú gồm: CCCD, thẻ sinh viên (bản phô tô); 02 ảnh 4×6 chụp kiểu chân dung để nộp khi làm thủ tục nhận phòng.\n\n– Nộp lệ phí bằng hình thức chuyển khoản qua tài khoản của Học viện tại bộ phận một cửa với số tiền: 285.000 \\*04 = 1.140.000 đồng.\n\n– Sau khi nộp lệ phí, sinh viên đến phòng 104 – KTX B1 xuất trình biên lai thu lệ phí (kèm các hồ sơ ở nội trú) và nhận phòng ở.",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 20.19051,
+          "score_type": "bm25",
+          "lexical_score": 20.19051
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-002",
+      "category": "không dấu",
+      "question": "KTX hoc ky II 2025-2026 le phi noi tru bao nhieu?",
+      "evidence": [
+        {
+          "source_file": "ktx.md",
+          "expected_strings": [
+            "250.000"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-v-v-bo-tri-sinh-vien-o-noi-tru-trong-thoi-gian-nghi-he-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027",
+          "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**",
+          "note": "2026-06-18 · Đăng ngày 2026-06-18. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-18",
+          "score": 12.95199,
+          "score_type": "bm25",
+          "lexical_score": 12.95199
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+          "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**",
+          "note": "2026-01-30 · Đăng ngày 2026-01-30. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-30",
+          "score": 14.718,
+          "score_type": "bm25",
+          "lexical_score": 14.718
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+          "content": "– Chuẩn bị hồ sơ ở nội trú gồm: CCCD, thẻ sinh viên (bản phô tô); 02 ảnh 4×6 chụp kiểu chân dung để nộp khi làm thủ tục nhận phòng.\n\n– Nộp lệ phí bằng hình thức chuyển khoản qua tài khoản của Học viện tại bộ phận một cửa với số tiền: 285.000 \\*04 = 1.140.000 đồng.\n\n– Sau khi nộp lệ phí, sinh viên đến phòng 104 – KTX B1 xuất trình biên lai thu lệ phí (kèm các hồ sơ ở nội trú) và nhận phòng ở.",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 20.19051,
+          "score_type": "bm25",
+          "lexical_score": 20.19051
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-003",
+      "category": "viết tắt/lỗi nhẹ",
+      "question": "Ktxx B5 dang ky bo sung thang 9/2026 co bao nhieu cho?",
+      "evidence": [
+        {
+          "source_file": "ktx.md",
+          "expected_strings": [
+            "120 chỗ"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-v-v-bo-tri-sinh-vien-o-noi-tru-trong-thoi-gian-nghi-he-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027",
+          "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**",
+          "note": "2026-06-18 · Đăng ngày 2026-06-18. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-18",
+          "score": 16.00312,
+          "score_type": "bm25",
+          "lexical_score": 16.00312
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+          "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**",
+          "note": "2026-01-30 · Đăng ngày 2026-01-30. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-30",
+          "score": 16.02664,
+          "score_type": "bm25",
+          "lexical_score": 16.02664
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+          "content": "1. **Đối tượng:** Sinh viên hệ đại học chính quy các khóa từ 2024 đến 2026. Riêng khóa 2023 trở về trước chỉ tiếp nhận sinh viên có hoàn cảnh khó khăn, hộ nghèo theo quy định.\n2. **Địa điểm bố trí và số chỗ ở**\n\n2.1. Địa điểm: Ký túc xá (KTX) B5, Cơ sở Đào tạo Hà Đông.\n\n2.2. Số chỗ ở nội trú: 120 chỗ.\n\n3. **Thời gian và lệ phí ở nội trú**",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 24.98496,
+          "score_type": "bm25",
+          "lexical_score": 24.98496
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-004",
+      "category": "có dấu",
+      "question": "Nghỉ hè 2026 KTX lệ phí bao nhiêu và thời gian ở nội trú?",
+      "evidence": [
+        {
+          "source_file": "ktx.md",
+          "expected_strings": [
+            "285.000",
+            "11/7/2026"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-v-v-bo-tri-sinh-vien-o-noi-tru-trong-thoi-gian-nghi-he-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027",
+          "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**",
+          "note": "2026-06-18 · Đăng ngày 2026-06-18. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-18",
+          "score": 22.39096,
+          "score_type": "bm25",
+          "lexical_score": 22.39096
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+          "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**",
+          "note": "2026-01-30 · Đăng ngày 2026-01-30. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-30",
+          "score": 16.89511,
+          "score_type": "bm25",
+          "lexical_score": 16.89511
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+          "content": "1. **Đối tượng:** Sinh viên hệ đại học chính quy các khóa từ 2024 đến 2026. Riêng khóa 2023 trở về trước chỉ tiếp nhận sinh viên có hoàn cảnh khó khăn, hộ nghèo theo quy định.\n2. **Địa điểm bố trí và số chỗ ở**\n\n2.1. Địa điểm: Ký túc xá (KTX) B5, Cơ sở Đào tạo Hà Đông.\n\n2.2. Số chỗ ở nội trú: 120 chỗ.\n\n3. **Thời gian và lệ phí ở nội trú**",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 22.70933,
+          "score_type": "bm25",
+          "lexical_score": 22.70933
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-005",
+      "category": "nhiều ý",
+      "question": "Đăng ký bổ sung KTX tháng 9/2026 cần hồ sơ gì và nộp bao nhiêu tiền?",
+      "evidence": [
+        {
+          "source_file": "ktx.md",
+          "expected_strings": [
+            "CCCD",
+            "1.140.000"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-bo-sung-o-noi-tru-tai-cac-ktx-co-so-dao-tao-ha-dong-thang-9-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)",
+          "content": "– Chuẩn bị hồ sơ ở nội trú gồm: CCCD, thẻ sinh viên (bản phô tô); 02 ảnh 4×6 chụp kiểu chân dung để nộp khi làm thủ tục nhận phòng.\n\n– Nộp lệ phí bằng hình thức chuyển khoản qua tài khoản của Học viện tại bộ phận một cửa với số tiền: 285.000 \\*04 = 1.140.000 đồng.\n\n– Sau khi nộp lệ phí, sinh viên đến phòng 104 – KTX B1 xuất trình biên lai thu lệ phí (kèm các hồ sơ ở nội trú) và nhận phòng ở.",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 26.74162,
+          "score_type": "bm25",
+          "lexical_score": 26.74162
+        },
+        {
+          "source_file": "ktx.md",
+          "source_url": "https://giaovu.ptit.edu.vn/dang-ky-o-noi-tru-tai-ky-tuc-xa-co-so-dao-tao-ha-dong-thang-1-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Ký túc xá",
+          "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)",
+          "content": "4.2. Số chỗ ở nội trú: 200 chỗ.\n\n5. **Lệ phí** **nội trú**: 250.000 đồng/SV/tháng (chưa bao gồm phí tiền điện phụ trội) và nộp lệ phí KTX trong 05 tháng (SV khóa 2025 có 01 tháng đi học giáo dục quốc phòng, không ở Học viện).\n6. **6****.** **Quy trình** **đăng ký** **ở nội trú**",
+          "note": "2026-01-30 · Đăng ngày 2026-01-30. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-30",
+          "score": 18.28737,
+          "score_type": "bm25",
+          "lexical_score": 18.28737
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-ve-viec-thu-ho-so-xet-mien-giam-hoc-phi-va-ho-tro-chi-phi-hoc-tap-hoc-ky-2-nam-hoc-2025-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo về việc thu hồ sơ xét miễn, giảm học phí và hỗ trợ chi phí học tập Học kỳ 2 năm học 2025 – 2026",
+          "content": "– Các sinh viên tạm ngừng học quay trở lại học tập (theo đúng quy đinh) từ học kỳ 2 năm học 2025 – 2026 ngoài việc nộp hồ sơ đầy đủ cần nộp bổ sung thêm Quyết định tiếp tục học.",
+          "note": "2026-02-09 · Đăng ngày 2026-02-09. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-02-09",
+          "score": 15.92897,
+          "score_type": "bm25",
+          "lexical_score": 15.92897
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-006",
+      "category": "có dấu",
+      "question": "BHYT bổ sung tháng 1 năm 2026 số tiền phải đóng là bao nhiêu?",
+      "evidence": [
+        {
+          "source_file": "quy_che_chung.md",
+          "expected_strings": [
+            "631.800"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+          "content": "3. Sinh viên thuộc nhóm đối tượng nêu trên thực hiện việc đóng BHYT, sinh viên thực hiện theo hướng dẫn sau:\n\n3.1. Kỳ đóng BHYT: BHYT SV đóng theo năm tài chính trên cơ sở nối hạn thẻ BHYT đang có nhằm bảo đảm quyền lợi tham gia BHYT sinh viên liên tục.\n\n3.2. Mức thu:\n\nThẻ BHYT có giá trị sử dụng từ 01/01/2026 đến 31/12/2026.\n\nSố tiền phải đóng: 12 tháng x 52.650 đồng/tháng = 631.800 đồng.",
+          "note": "2026-01-06 · Đăng ngày 2026-01-06. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-06",
+          "score": 29.90174,
+          "score_type": "bm25",
+          "lexical_score": 29.90174
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-ve-mot-so-cong-viec-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo: Về một số công việc sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 18.24883,
+          "score_type": "bm25",
+          "lexical_score": 18.24883
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://student.ptit.edu.vn/2026/08/28/thong-bao-mot-so-cong-viec-tan-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo một số công việc tân sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn student.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 18.16892,
+          "score_type": "bm25",
+          "lexical_score": 18.16892
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-007",
+      "category": "không dấu",
+      "question": "BHYT dot bo sung thang 1/2026 thu tu ngay nao?",
+      "evidence": [
+        {
+          "source_file": "quy_che_chung.md",
+          "expected_strings": [
+            "06/01/2026",
+            "12/01/2026"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+          "content": "3. Sinh viên thuộc nhóm đối tượng nêu trên thực hiện việc đóng BHYT, sinh viên thực hiện theo hướng dẫn sau:\n\n3.1. Kỳ đóng BHYT: BHYT SV đóng theo năm tài chính trên cơ sở nối hạn thẻ BHYT đang có nhằm bảo đảm quyền lợi tham gia BHYT sinh viên liên tục.\n\n3.2. Mức thu:\n\nThẻ BHYT có giá trị sử dụng từ 01/01/2026 đến 31/12/2026.\n\nSố tiền phải đóng: 12 tháng x 52.650 đồng/tháng = 631.800 đồng.",
+          "note": "2026-01-06 · Đăng ngày 2026-01-06. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-06",
+          "score": 24.68562,
+          "score_type": "bm25",
+          "lexical_score": 24.68562
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-ve-mot-so-cong-viec-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo: Về một số công việc sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "* Hoặc từ ngày 14/9/2026 tại Văn phòng một cửa (ô phòng Chính trị & CTSV).\n\n5. **Rà soát thông tin bảo hiểm y tế bắt buộc**\n\n– Sinh viên chưa khai báo thông tin bảo hiểm y tế, sinh viên khai sai thông tin sẽ thực hiện bổ sung, điều chỉnh thông tin sau khi Học viện rà soát sau.",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 18.38867,
+          "score_type": "bm25",
+          "lexical_score": 18.38867
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://student.ptit.edu.vn/2026/08/28/thong-bao-mot-so-cong-viec-tan-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo một số công việc tân sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "* Hoặc từ ngày 14/9/2026 tại Văn phòng một cửa (ô phòng Chính trị & CTSV).\n\n5. **Rà soát thông tin bảo hiểm y tế bắt buộc**\n\n– Sinh viên chưa khai báo thông tin bảo hiểm y tế, sinh viên khai sai thông tin sẽ thực hiện bổ sung, điều chỉnh thông tin sau khi Học viện rà soát sau.",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn student.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 18.28878,
+          "score_type": "bm25",
+          "lexical_score": 18.28878
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-008",
+      "category": "viết tắt",
+      "question": "SV nộp BHYT đợt bổ sung qua PTIT S-Link thế nào?",
+      "evidence": [
+        {
+          "source_file": "quy_che_chung.md",
+          "expected_strings": [
+            "PTIT S-Link"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+          "content": "(Sáu trăm ba mươi mốt nghìn tám trăm đồng)\n\n3.3. Thời gian thu: **Từ ngày 06/01/2026 – 12/01/2026.**\n\n3.4. Hình thức thu: Học viện triển khai thu phí BHYT của sinh viên qua hệ thống mã thanh toán định danh ***(Sinh viên sử dụng tài khoản PTIT S-Link của cá nhân để khai thông tin và nộp tiền; chọn mục tiện ích, đăng ký Bảo hiểm y tế đợt bổ sung).***\n\n4. Một số yêu cầu và lưu ý:",
+          "note": "2026-01-06 · Đăng ngày 2026-01-06. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-06",
+          "score": 29.21244,
+          "score_type": "bm25",
+          "lexical_score": 29.21244
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-ve-mot-so-cong-viec-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo: Về một số công việc sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 18.44709,
+          "score_type": "bm25",
+          "lexical_score": 18.44709
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://student.ptit.edu.vn/2026/08/28/thong-bao-mot-so-cong-viec-tan-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo một số công việc tân sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn student.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 18.36831,
+          "score_type": "bm25",
+          "lexical_score": 18.36831
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-009",
+      "category": "có dấu",
+      "question": "Thư viện phục vụ dịp hè 2026 buổi sáng từ mấy giờ?",
+      "evidence": [
+        {
+          "source_file": "thu_vien.md",
+          "expected_strings": [
+            "8h00",
+            "11h30"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện PTIT thông báo lịch phục vụ bạn đọc trong dịp hè năm 2026",
+          "content": "**Thời gian phục vụ: Từ thứ Hai đến thứ Sáu hằng tuần**\n\n* **Buổi sáng:** Từ 8h00 đến 11h30.\n* **Buổi chiều:** Từ 13h30 đến 16h30.\n\nThư viện PTIT trân trọng thông báo để giảng viên, sinh viên chủ động sắp xếp thời gian đến đọc sách, khai thác tài liệu và sử dụng các nguồn học liệu phục vụ học tập, giảng dạy, nghiên cứu.",
+          "note": "2026-06-29 · Đăng ngày 2026-06-29. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-29",
+          "score": 30.0271,
+          "score_type": "bm25",
+          "lexical_score": 30.0271
+        },
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện PTIT thông báo lịch phục vụ bạn đọc trong dịp hè năm 2026",
+          "content": "Ngày đăng: 2026-06-29  \nNguồn: https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/\n\nNhằm đáp ứng nhu cầu học tập, tra cứu tài liệu và nghiên cứu của giảng viên, sinh viên trong dịp hè, Thư viện Học viện Công nghệ Bưu chính Viễn thông tiếp tục mở cửa phục vụ bạn đọc từ ngày 1/7/2026 theo lịch cụ thể như sau:",
+          "note": "2026-06-29 · Đăng ngày 2026-06-29. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-29",
+          "score": 23.69849,
+          "score_type": "bm25",
+          "lexical_score": 23.69849
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-010",
+      "category": "không dấu",
+      "question": "Thu vien he 2026 buoi chieu mo cua luc nao?",
+      "evidence": [
+        {
+          "source_file": "thu_vien.md",
+          "expected_strings": [
+            "13h30",
+            "16h30"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-ptit-thong-bao-lich-phuc-vu-ban-doc-trong-dip-he-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện PTIT thông báo lịch phục vụ bạn đọc trong dịp hè năm 2026",
+          "content": "**Thời gian phục vụ: Từ thứ Hai đến thứ Sáu hằng tuần**\n\n* **Buổi sáng:** Từ 8h00 đến 11h30.\n* **Buổi chiều:** Từ 13h30 đến 16h30.\n\nThư viện PTIT trân trọng thông báo để giảng viên, sinh viên chủ động sắp xếp thời gian đến đọc sách, khai thác tài liệu và sử dụng các nguồn học liệu phục vụ học tập, giảng dạy, nghiên cứu.",
+          "note": "2026-06-29 · Đăng ngày 2026-06-29. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-29",
+          "score": 14.02983,
+          "score_type": "bm25",
+          "lexical_score": 14.02983
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/ptit-job-fair-2026-ngay-hoi-gian-hang-tuyen-dung-thu-hut-hang-nghin-sinh-vien-mo-rong-co-hoi-viec-lam-trong-linh-vuc-cong-nghe/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "PTIT Job Fair 2026: Ngày hội gian hàng tuyển dụng thu hút hàng nghìn sinh viên, mở rộng cơ hội việc làm trong lĩnh vực công nghệ",
+          "content": "Sự đa dạng về lĩnh vực tuyển dụng không chỉ mở rộng lựa chọn nghề nghiệp cho sinh viên mà còn phản ánh nhu cầu ngày càng cao đối với nguồn nhân lực công nghệ trong kỷ nguyên số.\n\nKhông gian trải nghiệm và kết nối đa chiều",
+          "note": "2026-04-23 · Đăng ngày 2026-04-23. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-23",
+          "score": 11.67436,
+          "score_type": "bm25",
+          "lexical_score": 11.67436
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://daotao.ptit.edu.vn/thong-bao-cap-bang-tot-nghiep-dot-1-thang-4-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo Cấp bằng tốt nghiệp – Đợt 1 Tháng 4 năm 2026",
+          "content": "Danh sách Học viên và sinh viên được cấp bằng tốt nghiệp công bố tại mục **Tin tức** trên cổng thông tin điện tử của Học viện tại địa chỉ: **https://daotao.ptit.edu.vn//**\n\n***Học viện thông báo và đề nghị:***\n\n* Sinh viên của cơ sở đào tạo phía Bắc không đến nhận bằng theo kế hoạch, hoàn hiện các thủ tục và nhận bằng tại phòng Phát bằng, tầng 2 nhà A1 vào các buổi chiều thứ 3, 5, 6 hàng tuần.",
+          "note": "2026-04-23 · Đăng ngày 2026-04-23. Nguồn daotao.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-23",
+          "score": 10.28602,
+          "score_type": "bm25",
+          "lexical_score": 10.28602
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-011",
+      "category": "có dấu",
+      "question": "Giáo trình Tổ chức sản xuất Podcast do ai viết?",
+      "evidence": [
+        {
+          "source_file": "thu_vien.md",
+          "expected_strings": [
+            "Tổ chức sản xuất Podcast",
+            "Lê Thị Hằng"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-hoc-vien-cong-nghe-buu-chinh-vien-thong-bo-sung-5-giao-trinh-moi-phuc-vu-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện Học viện Công nghệ Bưu chính Viễn thông bổ sung 5 giáo trình mới phục vụ năm học 2026–2027",
+          "content": "**5 giáo trình mới được giới thiệu gồm:**\n\n1. *Giáo trình Tổ chức sản xuất Podcast* – Tác giả: Lê Thị Hằng.\n2. *Giáo trình Học tăng cường và ứng dụng* – Tác giả: Phạm Văn Cường.\n3. *Giáo trình Internet và giao thức* – Tác giả: Hoàng Trọng Minh.\n4. *Giáo trình Thị giác máy tính* – Tác giả: Phạm Văn Cường.\n5. *Giáo trình Quản trị học* – Tác giả: Trần Thị Thập.",
+          "note": "2026-08-09 · Đăng ngày 2026-08-09. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-09",
+          "score": 21.53045,
+          "score_type": "bm25",
+          "lexical_score": 21.53045
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/vien-kinh-te-buu-dien-thong-bao-tuyen-dung-nhan-su-nam-2026-dot-1/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "Viện Kinh tế Bưu điện thông báo tuyển dụng nhân sự năm 2026 (Đợt 1) / 2. Mô tả công việc",
+          "content": "* Nghiên cứu, phân tích, đề xuất ý tưởng và phát triển các sản phẩm, dịch vụ trong lĩnh vực được giao;\n* Xây dựng đề cương, thuyết minh sản phẩm, dịch vụ phục vụ hoạt động hợp tác, chuyển giao;\n* Thực hiện nghiên cứu định lượng, định tính; khảo sát, thu thập và xử lý dữ liệu phục vụ nghiên cứu;\n* Tổ chức hội thảo, tọa đàm, lấy ý kiến chuyên gia để hoàn thiện sản phẩm;",
+          "note": "2026-08-03 · Đăng ngày 2026-08-03. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-03",
+          "score": 13.79645,
+          "score_type": "bm25",
+          "lexical_score": 13.79645
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/hiep-hoi-thuong-mai-dien-tu-viet-nam-trao-5-suat-hoc-bong-danh-cho-sinh-vien-xuat-sac/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Hiệp hội Thương mại điện tử Việt Nam trao 5 suất học bổng dành cho sinh viên xuất sắc",
+          "content": "**Ngày 10/3/2026, tại Học viện Công nghệ Bưu chính Viễn thông (PTIT), Học viện đã phối hợp với Hiệp hội Thương mại điện tử Việt Nam (VECOM) tổ chức chương trình trao học bổng cho 05 sinh viên xuất sắc tiêu biểu thuộc ngành Quản trị kinh doanh và Thương mại điện tử.**",
+          "note": "2026-03-11 · Đăng ngày 2026-03-11. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-03-11",
+          "score": 12.70179,
+          "score_type": "bm25",
+          "lexical_score": 12.70179
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-012",
+      "category": "nhiều ý",
+      "question": "Thư viện bổ sung giáo trình Thị giác máy tính và Internet ở đâu để mượn?",
+      "evidence": [
+        {
+          "source_file": "thu_vien.md",
+          "expected_strings": [
+            "Phòng Mượn"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-hoc-vien-cong-nghe-buu-chinh-vien-thong-cap-nhat-giao-trinh-moi-ve-thi-giac-may-tinh-va-internet/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện Học viện Công nghệ Bưu chính Viễn thông cập nhật giáo trình mới về Thị giác máy tính và Internet",
+          "content": "Ngày đăng: 2026-06-06  \nNguồn: https://lib.ptit.edu.vn/thu-vien-hoc-vien-cong-nghe-buu-chinh-vien-thong-cap-nhat-giao-trinh-moi-ve-thi-giac-may-tinh-va-internet/\n\nThư viện Học viện Công nghệ Bưu chính Viễn thông vừa bổ sung hai giáo trình thuộc lĩnh vực Công nghệ thông tin và Điện tử viễn thông, phục vụ nhu cầu học tập, tra cứu tài liệu và nghiên cứu của sinh viên.\n\n**Hai giáo trình mới gồm:**",
+          "note": "2026-06-06 · Đăng ngày 2026-06-06. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-06",
+          "score": 34.08716,
+          "score_type": "bm25",
+          "lexical_score": 34.08716
+        },
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-hoc-vien-cong-nghe-buu-chinh-vien-thong-bo-sung-5-giao-trinh-moi-phuc-vu-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện Học viện Công nghệ Bưu chính Viễn thông bổ sung 5 giáo trình mới phục vụ năm học 2026–2027",
+          "content": "**5 giáo trình mới được giới thiệu gồm:**\n\n1. *Giáo trình Tổ chức sản xuất Podcast* – Tác giả: Lê Thị Hằng.\n2. *Giáo trình Học tăng cường và ứng dụng* – Tác giả: Phạm Văn Cường.\n3. *Giáo trình Internet và giao thức* – Tác giả: Hoàng Trọng Minh.\n4. *Giáo trình Thị giác máy tính* – Tác giả: Phạm Văn Cường.\n5. *Giáo trình Quản trị học* – Tác giả: Trần Thị Thập.",
+          "note": "2026-08-09 · Đăng ngày 2026-08-09. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-09",
+          "score": 27.49016,
+          "score_type": "bm25",
+          "lexical_score": 27.49016
+        },
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/thu-vien-hoc-vien-cong-nghe-buu-chinh-vien-thong-gioi-thieu-giao-trinh-moi-nganh-dien-tu-vien-thong/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Thư viện Học viện Công nghệ Bưu chính Viễn thông giới thiệu giáo trình mới ngành Điện tử viễn thông",
+          "content": "Hiện nay, các giáo trình đã có tại **phòng đọc, phòng mượn và trên nền tảng Thư viện số của Học viện**, phục vụ bạn đọc miễn phí.\n\nSinh viên và bạn đọc quan tâm có thể đến Thư viện PTIT, mang theo thẻ sinh viên để tra cứu, đọc và mượn sách. Hãy khám phá những tài liệu mới để bổ sung nguồn tri thức, củng cố kiến thức chuyên ngành và nuôi dưỡng niềm say mê học tập, nghiên cứu.",
+          "note": "2026-01-14 · Đăng ngày 2026-01-14. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-14",
+          "score": 19.07363,
+          "score_type": "bm25",
+          "lexical_score": 19.07363
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-013",
+      "category": "có dấu",
+      "question": "Tân sinh viên D26 đăng nhập thư viện số PTIT ở địa chỉ nào?",
+      "evidence": [
+        {
+          "source_file": "thu_vien.md",
+          "expected_strings": [
+            "dlib.ptit.edu.vn"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "clb.md",
+          "source_url": "https://ptit.edu.vn/ky-thi-lap-trinh-icpc-ptit-2026-thu-hut-216-doi-sinh-vien/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Câu lạc bộ (CLB)",
+          "title": "Kỳ thi lập trình ICPC – PTIT 2026 thu hút 216 đội sinh viên",
+          "content": "Đáng chú ý, kỳ thi năm nay có gần 30 tân sinh viên D26 tham gia tập luyện từ trước thời điểm xác nhận nhập học. Trong số đó, 14 sinh viên D26 đã góp mặt tại vòng chung kết và 6 sinh viên đạt giải",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 17.96556,
+          "score_type": "bm25",
+          "lexical_score": 17.96556
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://student.ptit.edu.vn/2026/08/28/thong-bao-mot-so-cong-viec-tan-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo một số công việc tân sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn student.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 17.2673,
+          "score_type": "bm25",
+          "lexical_score": 17.2673
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://giaovu.ptit.edu.vn/thong-bao-ve-mot-so-cong-viec-sinh-vien-can-hoan-thanh-sau-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Thông báo: Về một số công việc sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027",
+          "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**",
+          "note": "2026-08-28 · Đăng ngày 2026-08-28. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-28",
+          "score": 15.86337,
+          "score_type": "bm25",
+          "lexical_score": 15.86337
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-014",
+      "category": "viết tắt",
+      "question": "CLB Thư viện PTIT có tên viết tắt là gì?",
+      "evidence": [
+        {
+          "source_file": "clb.md",
+          "expected_strings": [
+            "ILC"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "clb.md",
+          "source_url": "https://lib.ptit.edu.vn/doan-thanh-nien-hoc-vien-cong-nghe-buu-chinh-vien-thong-tong-ket-cong-tac-nam-2025-trien-khai-nhiem-vu-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Câu lạc bộ (CLB)",
+          "title": "Đoàn Thanh niên Học viện Công nghệ Bưu chính Viễn thông tổng kết công tác năm 2025, triển khai nhiệm vụ năm 2026",
+          "content": "Đồng hành cùng phong trào thanh niên, Thư viện PTIT tiếp tục phát huy vai trò là không gian tri thức, góp phần thúc đẩy học tập, nghiên cứu và xây dựng văn hóa đọc trong sinh viên. Câu lạc bộ Thư viện PTIT (ILC) cũng tích cực kết nối sinh viên với các hoạt động thư viện, lan tỏa tinh thần học tập chủ động và sáng tạo trong cộng đồng Học viện.",
+          "note": "2026-01-09 · Đăng ngày 2026-01-09. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-09",
+          "score": 12.34948,
+          "score_type": "bm25",
+          "lexical_score": 12.34948
+        },
+        {
+          "source_file": "thu_vien.md",
+          "source_url": "https://lib.ptit.edu.vn/huong-dan-quy-trinh-su-dung-thu-vien-so-ptit-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thư viện",
+          "title": "Hướng dẫn Quy trình sử dụng Thư viện số PTIT 2026",
+          "content": "Bước 2: Đăng nhập tài khoản.\n\nBước 3: Tìm tài liệu theo Bộ sưu tập/ Tác giả/ Tên tài liệu… (lưu ý để trong dấu “ngoặc kép” để tìm tài liệu sát hơn với yêu cầu)\n\nBước 4: Vào mục xem trực tuyến để xem tài liệu.\n\nĐẶC BIỆT – Bạn đọc là Tân sinh viên D26 đã được tạo và phân quyền truy cập theo nhóm quyền của Sinh viên trên hệ thống của Thư viện số PTIT",
+          "note": "2026-09-04 · Đăng ngày 2026-09-04. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-04",
+          "score": 7.71233,
+          "score_type": "bm25",
+          "lexical_score": 7.71233
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-ve-viec-mua-bhyt-cho-sinh-vien-he-dai-hoc-chinh-quy-trong-nam-2026-khoa-2022-2023-2024-dot-bo-sung/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)",
+          "content": "(Sáu trăm ba mươi mốt nghìn tám trăm đồng)\n\n3.3. Thời gian thu: **Từ ngày 06/01/2026 – 12/01/2026.**\n\n3.4. Hình thức thu: Học viện triển khai thu phí BHYT của sinh viên qua hệ thống mã thanh toán định danh ***(Sinh viên sử dụng tài khoản PTIT S-Link của cá nhân để khai thông tin và nộp tiền; chọn mục tiện ích, đăng ký Bảo hiểm y tế đợt bổ sung).***\n\n4. Một số yêu cầu và lưu ý:",
+          "note": "2026-01-06 · Đăng ngày 2026-01-06. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-06",
+          "score": 7.58144,
+          "score_type": "bm25",
+          "lexical_score": 7.58144
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-015",
+      "category": "viết tắt/lỗi nhẹ",
+      "question": "Clbb thu vien PTIT ket noi sinh vien voi hoat dong gi?",
+      "evidence": [
+        {
+          "source_file": "clb.md",
+          "expected_strings": [
+            "ILC"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "clb.md",
+          "source_url": "https://lib.ptit.edu.vn/doan-thanh-nien-hoc-vien-cong-nghe-buu-chinh-vien-thong-tong-ket-cong-tac-nam-2025-trien-khai-nhiem-vu-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Câu lạc bộ (CLB)",
+          "title": "Đoàn Thanh niên Học viện Công nghệ Bưu chính Viễn thông tổng kết công tác năm 2025, triển khai nhiệm vụ năm 2026",
+          "content": "Đồng hành cùng phong trào thanh niên, Thư viện PTIT tiếp tục phát huy vai trò là không gian tri thức, góp phần thúc đẩy học tập, nghiên cứu và xây dựng văn hóa đọc trong sinh viên. Câu lạc bộ Thư viện PTIT (ILC) cũng tích cực kết nối sinh viên với các hoạt động thư viện, lan tỏa tinh thần học tập chủ động và sáng tạo trong cộng đồng Học viện.",
+          "note": "2026-01-09 · Đăng ngày 2026-01-09. Nguồn lib.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-01-09",
+          "score": 19.65067,
+          "score_type": "bm25",
+          "lexical_score": 19.65067
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/hoc-vien-cong-nghe-buu-chinh-vien-thong-khai-mac-tuan-sinh-hoat-cong-dan-sinh-vien-danh-cho-tan-sinh-vien-khoa-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Học viện Công nghệ Bưu chính Viễn thông khai mạc Tuần sinh hoạt công dân – sinh viên dành cho tân sinh viên khóa 2026",
+          "content": "Bên cạnh đó, chương trình còn giới thiệu các cơ hội tham gia nghiên cứu khoa học, đổi mới sáng tạo, khởi nghiệp; hoạt động Đoàn Thanh niên, câu lạc bộ và phong trào sinh viên; trang bị kiến thức về pháp luật, an ninh, an toàn, phòng tránh lừa đảo trên không gian mạng; đồng thời bồi dưỡng nhận thức chính trị, đạo đức, lối sống và trách nhiệm công dân cho sinh viên.",
+          "note": "2026-08-25 · Đăng ngày 2026-08-25. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-25",
+          "score": 14.77923,
+          "score_type": "bm25",
+          "lexical_score": 14.77923
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://student.ptit.edu.vn/2026/08/12/hoc-vien-cong-nghe-buu-chinh-vien-thong-ban-hanh-quyet-dinh-sua-doi-bo-sung-muc-thu-hoc-phi-va-thu-hoat-dong-dao-tao-khac-nam-hoc-2026-2027/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Học viện Công nghệ Bưu chính Viễn thông ban hành Quyết định sửa đổi, bổ sung mức thu học phí và thu hoạt động đào tạo khác năm học 2026-2027",
+          "content": "Theo Quyết định, Học viện thực hiện điều chỉnh, bổ sung một số nội dung liên quan đến mức thu học phí và thu hoạt động đào tạo khác áp dụng từ năm học 2026-2027. \n\nXem toàn văn Quyết định số 2499/QĐ-HV tại đây: [2026\\_2499\\_QD bo sung muc thu 2026-2027](https://student.ptit.edu.vn/wp-content/uploads/sites/29/2026/09/2026_2499_QD-bo-sung-muc-thu-2026-2027.pdf)",
+          "note": "2026-08-12 · Đăng ngày 2026-08-12. Nguồn student.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-12",
+          "score": 11.86084,
+          "score_type": "bm25",
+          "lexical_score": 11.86084
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-016",
+      "category": "nhiều ý",
+      "question": "ICPC PTIT 2026 thu hút bao nhiêu đội và sinh viên?",
+      "evidence": [
+        {
+          "source_file": "clb.md",
+          "expected_strings": [
+            "216 đội",
+            "648 sinh viên"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "clb.md",
+          "source_url": "https://ptit.edu.vn/ky-thi-lap-trinh-icpc-ptit-2026-thu-hut-216-doi-sinh-vien/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Câu lạc bộ (CLB)",
+          "title": "Kỳ thi lập trình ICPC – PTIT 2026 thu hút 216 đội sinh viên",
+          "content": "Ngày đăng: 2026-09-16  \nNguồn: https://ptit.edu.vn/ky-thi-lap-trinh-icpc-ptit-2026-thu-hut-216-doi-sinh-vien/\n\n***Kỳ thi lập trình ICPC – PTIT năm 2026 thu hút 216 đội với 648 sinh viên tham gia, tiếp tục khẳng định sức hút của sân chơi lập trình và phong trào rèn luyện tư duy thuật toán trong cộng đồng sinh viên Học viện Công nghệ Bưu chính Viễn thông (PTIT).***",
+          "note": "2026-09-16 · Đăng ngày 2026-09-16. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-09-16",
+          "score": 19.78275,
+          "score_type": "bm25",
+          "lexical_score": 19.78275
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/ptit-job-fair-2026-ngay-hoi-gian-hang-tuyen-dung-thu-hut-hang-nghin-sinh-vien-mo-rong-co-hoi-viec-lam-trong-linh-vuc-cong-nghe/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "PTIT Job Fair 2026: Ngày hội gian hàng tuyển dụng thu hút hàng nghìn sinh viên, mở rộng cơ hội việc làm trong lĩnh vực công nghệ",
+          "content": "**Ngày 23/04/2026, Học viện Công nghệ Bưu chính Viễn thông (PTIT) đã tổ chức Ngày hội gian hàng tuyển dụng – hoạt động trọng tâm trong khuôn khổ PTIT Job Fair 2026. Sự kiện thu hút  gần 3.000 lượt sinh viên tham gia, tạo nên không gian kết nối sôi động giữa sinh viên và cộng đồng doanh nghiệp.**",
+          "note": "2026-04-23 · Đăng ngày 2026-04-23. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-23",
+          "score": 8.99428,
+          "score_type": "bm25",
+          "lexical_score": 8.99428
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/ptit-2026-chinh-sach-hoc-bong-khung-chien-luoc-dai-han-thu-hut-va-nuoi-duong-nhan-tai-cong-nghe/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "PTIT 2026: Chính sách học bổng “khủng” – chiến lược dài hạn thu hút và nuôi dưỡng nhân tài công nghệ",
+          "content": "***Tiếp nối định hướng thu hút, bồi dưỡng và trọng dụng nhân tài đã được triển khai từ năm 2024, năm học 2026, Học viện Công nghệ Bưu chính Viễn thông (PTIT) tiếp tục công bố chính sách học bổng với nhiều ưu đãi vượt trội, đa dạng và ngày càng hoàn thiện",
+          "note": "2026-05-04 · Đăng ngày 2026-05-04. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-05-04",
+          "score": 8.81906,
+          "score_type": "bm25",
+          "lexical_score": 8.81906
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-017",
+      "category": "có dấu",
+      "question": "PTIT Job Fair 2026 có bao nhiêu doanh nghiệp và cơ hội việc làm thực tập?",
+      "evidence": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "expected_strings": [
+            "50 doanh nghiệp"
+          ],
+          "expected_any_strings": [
+            [
+              "1.000",
+              "1000"
+            ]
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://student.ptit.edu.vn/2026/04/16/ptit-job-fair-2026-ket-noi-doanh-nghiep-mo-rong-co-hoi-nghe-nghiep-trong-ky-nguyen-so/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "PTIT JOB FAIR 2026 – Kết nối doanh nghiệp, mở rộng cơ hội nghề nghiệp trong kỷ nguyên số",
+          "content": "*Các doanh nghiệp tham gia PTIT JOB FAIR 2026*\n\nSự kiện quy tụ mạng lưới các doanh nghiệp, tập đoàn công nghệ hàng đầu trong nước và quốc tế, mang đến hàng trăm cơ hội việc làm và thực tập hấp dẫn cho sinh viên. Đây cũng là dịp để sinh viên tiếp cận trực tiếp với nhà tuyển dụng, tìm hiểu nhu cầu thị trường lao động và định hướng phát triển nghề nghiệp phù hợp.",
+          "note": "2026-04-16 · Đăng ngày 2026-04-16. Nguồn student.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-16",
+          "score": 24.87514,
+          "score_type": "bm25",
+          "lexical_score": 24.87514
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/ptit-job-fair-2026-ket-noi-doanh-nghiep-mo-rong-co-hoi-nghe-nghiep-trong-ky-nguyen-so/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "PTIT JOB FAIR 2026 – Quy tụ hơn 50 doanh nghiệp và tập đoàn công nghệ, mở rộng cơ hội nghề nghiệp cho sinh viên trong kỷ nguyên số",
+          "content": "Các doanh nghiệp tham gia PTIT JOB FAIR 2026\n\nSự kiện năm nay quy tụ hơn 50 doanh nghiệp và tập đoàn công nghệ hàng đầu trong nước và quốc tế, mang đến hàng hơn 1000 cơ hội việc làm và thực tập hấp dẫn cho sinh viên. Đây cũng là dịp để sinh viên tiếp cận trực tiếp với nhà tuyển dụng, tìm hiểu nhu cầu thị trường lao động và định hướng phát triển nghề nghiệp phù hợp.",
+          "note": "2026-04-16 · Đăng ngày 2026-04-16. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-16",
+          "score": 24.03339,
+          "score_type": "bm25",
+          "lexical_score": 24.03339
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/khai-mac-ptit-job-fair-2026-mo-rong-co-hoi-nghe-nghiep-cho-sinh-vien-trong-ky-nguyen-so/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "Khai mạc PTIT Job Fair 2026: Mở rộng cơ hội nghề nghiệp cho sinh viên trong kỷ nguyên số",
+          "content": ". Bên cạnh đó, sinh viên còn có cơ hội tham gia **tư vấn 1–1 với đại diện doanh nghiệp**, qua đó nhận được những góp ý cụ thể và thiết thực cho quá trình chuẩn bị thực tập và việc làm.",
+          "note": "2026-04-22 · Đăng ngày 2026-04-22. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-22",
+          "score": 22.89565,
+          "score_type": "bm25",
+          "lexical_score": 22.89565
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-018",
+      "category": "có dấu",
+      "question": "VDB thông báo tuyển dụng bao nhiêu cán bộ Trung tâm công nghệ thông tin?",
+      "evidence": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "expected_strings": [
+            "07 cán bộ"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-tuyen-dung-cac-vi-tri-tai-trung-tam-cong-nghe-thong-tin-vdb/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "THÔNG BÁO TUYỂN DỤNG CÁC VỊ TRÍ TẠI TRUNG TÂM CÔNG NGHỆ THÔNG TIN VDB",
+          "content": "3. Địa điểm làm việc\n\n25A Cát Linh, phường Ô Chợ Dừa, thành phố Hà Nội hoặc 185A Giảng Võ, phường Ô Chợ Dừa, thành phố Hà Nội.\n\n4. Phương thức tuyển dụng: Theo quy định tại Quy chế tuyển dụng cán bộ của VDB.\n\n5. Mức lương và thời gian làm việc: Theo quy định của VDB\n\n6. Hồ sơ đăng ký dự tuyển:",
+          "note": "2026-05-15 · Đăng ngày 2026-05-15. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-05-15",
+          "score": 22.17868,
+          "score_type": "bm25",
+          "lexical_score": 22.17868
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026 / IV. Đăng ký ứng tuyển",
+          "content": "Học viện Công nghệ Bưu chính Viễn thông trân trọng thông báo để sinh viên quan tâm đăng ký tham gia chương trình.",
+          "note": "2026-06-19 · Đăng ngày 2026-06-19. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-19",
+          "score": 10.52187,
+          "score_type": "bm25",
+          "lexical_score": 10.52187
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/ptit-job-fair-2026-ngay-hoi-gian-hang-tuyen-dung-thu-hut-hang-nghin-sinh-vien-mo-rong-co-hoi-viec-lam-trong-linh-vuc-cong-nghe/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "PTIT Job Fair 2026: Ngày hội gian hàng tuyển dụng thu hút hàng nghìn sinh viên, mở rộng cơ hội việc làm trong lĩnh vực công nghệ",
+          "content": "**Ngày 23/04/2026, Học viện Công nghệ Bưu chính Viễn thông (PTIT) đã tổ chức Ngày hội gian hàng tuyển dụng – hoạt động trọng tâm trong khuôn khổ PTIT Job Fair 2026. Sự kiện thu hút  gần 3.000 lượt sinh viên tham gia, tạo nên không gian kết nối sôi động giữa sinh viên và cộng đồng doanh nghiệp.**",
+          "note": "2026-04-23 · Đăng ngày 2026-04-23. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-23",
+          "score": 9.32314,
+          "score_type": "bm25",
+          "lexical_score": 9.32314
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-019",
+      "category": "không dấu",
+      "question": "Vietcombank sinh vien tai nang thuc tap han cuoi nop ho so?",
+      "evidence": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "expected_strings": [
+            "30/6/2026"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": true,
+      "hit3": true,
+      "passed": true,
+      "retrieved": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026 / III. Thời gian nhận hồ sơ",
+          "content": "* **Hạn cuối nhận hồ sơ: ngày 30/6/2026.**",
+          "note": "2026-06-19 · Đăng ngày 2026-06-19. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-19",
+          "score": 25.39019,
+          "score_type": "bm25",
+          "lexical_score": 25.39019
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026 / I. Vị trí thực tập",
+          "content": "Thực tập có hỗ trợ tài chính tại các đơn vị thuộc:\n\n* Khối Công nghệ thông tin và Chuyển đổi số;\n* Khối Dữ liệu của Vietcombank.",
+          "note": "2026-06-19 · Đăng ngày 2026-06-19. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-19",
+          "score": 17.07767,
+          "score_type": "bm25",
+          "lexical_score": 17.07767
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026",
+          "content": "Ngày đăng: 2026-06-19  \nNguồn: https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/\n\nNhằm đáp ứng nhu cầu phát triển nguồn nhân lực chất lượng cao, Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) triển khai chương trình tuyển dụng **Sinh viên tài năng thực tập tại Trụ sở chính Vietcombank năm 2026**.",
+          "note": "2026-06-19 · Đăng ngày 2026-06-19. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-06-19",
+          "score": 16.20424,
+          "score_type": "bm25",
+          "lexical_score": 16.20424
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-020",
+      "category": "nhiều ý",
+      "question": "Thực tập Vietcombank hạn nhận hồ sơ và thư viện hè mở cửa sáng lúc nào?",
+      "evidence": [
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "expected_strings": [
+            "30/6/2026"
+          ]
+        },
+        {
+          "source_file": "thu_vien.md",
+          "expected_strings": [
+            "8h00",
+            "11h30"
+          ]
+        }
+      ],
+      "negative": false,
+      "hit1": false,
+      "hit3": false,
+      "passed": false,
+      "retrieved": [
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://ptit.edu.vn/hoc-bong-panasonic-2026-chinh-thuc-mo-don-nang-buoc-nhan-tai-vuon-toi-tuong-lai/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Học bổng Panasonic 2026 chính thức mở đơn: Nâng bước nhân tài – Vươn tới tương lai",
+          "content": "Bước sang năm thứ 23 đồng hành cùng sinh viên Việt Nam, học bổng Panasonic không chỉ là sự hỗ trợ về tài chính mà còn là bệ phóng giúp sinh viên nâng cao năng lực, mở rộng cơ hội và tự tin chinh phục tương lai.",
+          "note": "2026-04-09 · Đăng ngày 2026-04-09. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-09",
+          "score": 15.76447,
+          "score_type": "bm25",
+          "lexical_score": 15.76447
+        },
+        {
+          "source_file": "quy_che_chung.md",
+          "source_url": "https://giaovu.ptit.edu.vn/tiep-nhan-ho-so-xet-cong-nhan-ket-qua-hoc-tap-va-chuyen-doi-diem-thi-chung-chi-acca-va-diem-cac-mon-thi-acca-toan-cau-sang-cac-hoc-phan-tuong-ung-thuoc-chuong-trinh-dao-tao-nganh-ke-toan-va-ke-toan/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Quy chế chung",
+          "title": "Tiếp nhận hồ sơ xét công nhận kết quả học tập và chuyển đổi điểm thi  chứng chỉ ACCA và điểm các môn thi ACCA toàn cầu sang các học phần tương ứng thuộc chương trình đào tạo ngành Kế toán và Kế toán  chất lượng cao – ACCA",
+          "content": "Học viện thông báo kế hoạch tiếp nhận hồ sơ xét công nhận kết quả học tập và chuyển đổi điểm cho sinh viên hệ Đại học chính quy ngành Kế toán và Kế toán chất lượng cao – ACCA, cơ sở đào tạo Hà Nội như sau:\n\n1. **Đối tượng, hình thức, thời gian tiếp nhận hồ sơ:**\n2. ***Đối tượng:***",
+          "note": "2026-08-07 · Đăng ngày 2026-08-07. Nguồn giaovu.ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-08-07",
+          "score": 12.29463,
+          "score_type": "bm25",
+          "lexical_score": 12.29463
+        },
+        {
+          "source_file": "thuc_tap_viec_lam.md",
+          "source_url": "https://ptit.edu.vn/ptit-job-fair-2026-ngay-hoi-gian-hang-tuyen-dung-thu-hut-hang-nghin-sinh-vien-mo-rong-co-hoi-viec-lam-trong-linh-vuc-cong-nghe/",
+          "fetched_date": "2026-10-29",
+          "topic_group": "Thực tập / Việc làm",
+          "title": "PTIT Job Fair 2026: Ngày hội gian hàng tuyển dụng thu hút hàng nghìn sinh viên, mở rộng cơ hội việc làm trong lĩnh vực công nghệ",
+          "content": "Thông qua hoạt động tiếp nhận hồ sơ, phỏng vấn nhanh và tư vấn trực tiếp tại gian hàng, sinh viên có cơ hội tiếp cận quy trình tuyển dụng thực tế, đồng thời chủ động kết nối với doanh nghiệp, qua đó rút ngắn khoảng cách giữa đào tạo và môi trường làm việc chuyên nghiệp.\n\nHơn 1.000 cơ hội việc làm và thực tập trong các lĩnh vực mũi nhọn",
+          "note": "2026-04-23 · Đăng ngày 2026-04-23. Nguồn ptit.edu.vn. Chưa xác minh văn bản thay thế; tệp/ảnh đính kèm chưa trích nội dung.",
+          "publish_date": "2026-04-23",
+          "score": 9.21458,
+          "score_type": "bm25",
+          "lexical_score": 9.21458
+        }
+      ],
+      "answer_sources": null
+    },
+    {
+      "id": "RAG-021",
+      "category": "ngoài phạm vi",
+      "question": "quasar supernova astrophysics",
+      "evidence": [],
+      "expected_sources": [],
+      "negative": true,
+      "hit1": null,
+      "hit3": null,
+      "passed": true,
+      "retrieved": [],
+      "answer_sources": []
+    },
+    {
+      "id": "RAG-022",
+      "category": "ngoài phạm vi",
+      "question": "Giá bitcoin hôm nay bao nhiêu?",
+      "evidence": [],
+      "expected_sources": [],
+      "negative": true,
+      "hit1": null,
+      "hit3": null,
+      "passed": true,
+      "retrieved": [],
+      "answer_sources": []
+    },
+    {
+      "id": "RAG-023",
+      "category": "ngoài phạm vi",
+      "question": "Cách làm bánh pizza hải sản?",
+      "evidence": [],
+      "expected_sources": [],
+      "negative": true,
+      "hit1": null,
+      "hit3": null,
+      "passed": true,
+      "retrieved": [],
+      "answer_sources": []
+    },
+    {
+      "id": "RAG-024",
+      "category": "ngoài phạm vi",
+      "question": "Thời tiết ngày mai tại Paris?",
+      "evidence": [],
+      "expected_sources": [],
+      "negative": true,
+      "hit1": null,
+      "hit3": null,
+      "passed": true,
+      "retrieved": [],
+      "answer_sources": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+
+ RUN  v4.1.12 D:/chatbot-ptit/FE
+
+ ❯ tests/qa/chat.store.test.ts (8 tests | 1 failed) 40ms
+     ✓ FE-STORE-001 | Nhóm lịch sử theo ranh giới nửa đêm Asia/Ho_Chi_Minh 23ms
+     ✓ FE-STORE-002 | Tự tạo hội thoại rồi gửi nội dung đã trim 4ms
+     ✓ FE-STORE-003 | Retry văn bản sau lỗi dùng lại request_id; đổi câu dùng UUID mới 2ms
+     ✓ FE-STORE-004 | Gửi thành công rồi lặp nội dung là một lượt mới 1ms
+     ✓ FE-STORE-005 | Đang tải thì chặn gửi, chọn và tạo hội thoại 1ms
+     ✓ FE-STORE-006 | Đang gửi thì chặn gửi trùng và xóa cùng hội thoại 1ms
+     ✓ FE-STORE-007 | Nội dung rỗng hoặc toàn khoảng trắng không tạo hội thoại 1ms
+     × FE-STORE-008 | Hai lần gửi khi chưa có hội thoại phải chỉ tạo một hội thoại 6ms
+ ✓ tests/qa/ChatInput.test.ts (6 tests) 68ms
+ ✓ tests/qa/MessageBubble.test.ts (4 tests) 100ms
+ ✓ tests/qa/chat.service.test.ts (8 tests) 14ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/qa/chat.store.test.ts > Chat store offline QA > FE-STORE-008 | Hai lần gửi khi chưa có hội thoại phải chỉ tạo một hội thoại
+AssertionError: expected 2 to be 1 // Object.is equality
+
+- Expected
++ Received
+
+- 1
++ 2
+
+ ❯ tests/qa/chat.store.test.ts:120:21
+    118|     pending.resolve(conversation())
+    119|     await Promise.all([first, second])
+    120|     expect(creates).toBe(1)
+       |                     ^
+    121|     expect(chatApi.send).toHaveBeenCalledTimes(1)
+    122|   })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed | 3 passed (4)
+      Tests  1 failed | 25 passed (26)
+   Start at  18:07:07
+   Duration  8.71s (transform 482ms, setup 0ms, import 968ms, tests 221ms, environment 6.08s)
+
+JSON report written to D:/chatbot-ptit/BE/tests/qa_results/fe_results.json

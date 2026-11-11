@@ -1,0 +1,28 @@
+{
+  "created_at_utc7": "11/11/2026 18:16:21 UTC+7",
+  "counts": {
+    "Pass": 192,
+    "Fail": 12,
+    "Chưa chạy": 1
+  },
+  "total": 205,
+  "be": {
+    "testsRun": 164,
+    "failures": 11,
+    "errors": 0,
+    "skipped": 1
+  },
+  "rag": {
+    "positive": 20,
+    "hit1": 10,
+    "hit3": 13,
+    "negative": 4
+  },
+  "sources_sha256": {
+    "clb.md": "87a0c08d73bdac8f8633012fca6a5d52eecc2f6f49dbfb02f04dd5ca520aa10f",
+    "ktx.md": "57a45a7f41cd94f0f1bbacf2d36ad7b945344c763bfc12f5eb71d5a813b5f102",
+    "quy_che_chung.md": "21d6a359acd91b6c14d0e1a47c9f659f428de9f85e4cc687350341613c953cf3",
+    "thu_vien.md": "2f5536d65869faa7f0851b63ef863a3a5c376923ff1cf84eb435e730080d6b95",
+    "thuc_tap_viec_lam.md": "aefa441eca657b5a10254b708c54200a1a437fb5bb81ba377fd8dcf3408a4c93"
+  }
+}

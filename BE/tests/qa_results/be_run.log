@@ -1,0 +1,504 @@
+test_cloud_model_is_rejected_in_local_provider (test_api.ApiTests.test_cloud_model_is_rejected_in_local_provider) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+Không thể trả lời tin nhắn (ValueError): Chọn model local thay vì model -cloud
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\main.py", line 414, in send_message
+    answer, mode, sources = knowledge.answer(payload.message, history=current['messages'])
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\chatbot-ptit\BE\knowledge.py", line 585, in answer
+    return self.answer_from_sources(question, sources, history=history, broad_overview=broad_overview)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\chatbot-ptit\BE\knowledge.py", line 649, in answer_from_sources
+    raise ValueError("Chọn model local thay vì model -cloud")
+ValueError: Chọn model local thay vì model -cloud
+ok
+test_concurrent_messages_across_conversations (test_api.ApiTests.test_concurrent_messages_across_conversations) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_cookie_is_httponly (test_api.ApiTests.test_cookie_is_httponly) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_create_send_reload_and_delete (test_api.ApiTests.test_create_send_reload_and_delete) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_direct_ollama_test_mode_remains_available (test_api.ApiTests.test_direct_ollama_test_mode_remains_available) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+DIRECT_OLLAMA_CHAT enabled: skipping knowledge.prepare() and indexing
+ok
+test_empty_database_and_source_health (test_api.ApiTests.test_empty_database_and_source_health) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_greeting_messages_reply_promptly (test_api.ApiTests.test_greeting_messages_reply_promptly) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_invalid_messages_and_ids (test_api.ApiTests.test_invalid_messages_and_ids) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_legacy_general_mode_is_normalized_without_mutation (test_api.ApiTests.test_legacy_general_mode_is_normalized_without_mutation) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_metadata_retains_multiline_notes (test_api.ApiTests.test_metadata_retains_multiline_notes) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_no_match_is_not_fabricated (test_api.ApiTests.test_no_match_is_not_fabricated) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_ollama_answer_is_saved_without_api_keys (test_api.ApiTests.test_ollama_answer_is_saved_without_api_keys) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_ollama_failure_does_not_save_turn (test_api.ApiTests.test_ollama_failure_does_not_save_turn) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+Không thể trả lời tin nhắn (RuntimeError): Không gọi được Ollama. Kiểm tra Ollama đang chạy và model đã được tải.
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\knowledge.py", line 660, in answer_from_sources
+    response = client.post(f"{url}/api/chat", json={
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1124, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1128, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1183, in _execute_mock_call
+    raise effect
+httpx.ConnectError: offline
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\main.py", line 414, in send_message
+    answer, mode, sources = knowledge.answer(payload.message, history=current['messages'])
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\chatbot-ptit\BE\knowledge.py", line 585, in answer
+    return self.answer_from_sources(question, sources, history=history, broad_overview=broad_overview)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\chatbot-ptit\BE\knowledge.py", line 668, in answer_from_sources
+    raise RuntimeError("Không gọi được Ollama. Kiểm tra Ollama đang chạy và model đã được tải.") from exc
+RuntimeError: Không gọi được Ollama. Kiểm tra Ollama đang chạy và model đã được tải.
+ok
+test_other_browser_cannot_read_write_delete (test_api.ApiTests.test_other_browser_cannot_read_write_delete) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_persists_across_application_restart (test_api.ApiTests.test_persists_across_application_restart) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_rag_search_does_not_generate_or_save_messages (test_api.ApiTests.test_rag_search_does_not_generate_or_save_messages) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_rag_status_exposes_configuration_without_credentials (test_api.ApiTests.test_rag_status_exposes_configuration_without_credentials) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_retry_does_not_duplicate_messages (test_api.ApiTests.test_retry_does_not_duplicate_messages) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_service_failure_does_not_save_partial_turn (test_api.ApiTests.test_service_failure_does_not_save_partial_turn) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+Không thể trả lời tin nhắn (RuntimeError): test outage
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\main.py", line 414, in send_message
+    answer, mode, sources = knowledge.answer(payload.message, history=current['messages'])
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1124, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1128, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1183, in _execute_mock_call
+    raise effect
+RuntimeError: test outage
+ok
+test_cors_preflight_allowed_origin (test_api_extra.ApiExtraTests.test_cors_preflight_allowed_origin) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_cors_preflight_disallowed_origin (test_api_extra.ApiExtraTests.test_cors_preflight_disallowed_origin) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_cors_preflight_rejects_unapproved_method_and_header (test_api_extra.ApiExtraTests.test_cors_preflight_rejects_unapproved_method_and_header) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_invalid_data_degrades_health_and_unavailable_sources (test_api_extra.ApiExtraTests.test_invalid_data_degrades_health_and_unavailable_sources) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_invalid_generated_sources_preserve_prior_turn_and_allow_same_id_retry (test_api_extra.ApiExtraTests.test_invalid_generated_sources_preserve_prior_turn_and_allow_same_id_retry) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+Không thể trả lời tin nhắn (ValidationError): 6 validation errors for Source
+source_url
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+fetched_date
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+topic_group
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+title
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+content
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+score
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\main.py", line 416, in send_message
+    sources = [Source.model_validate(source).model_dump() for source in sources]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\chatbot-ptit\BE\main.py", line 416, in <listcomp>
+    sources = [Source.model_validate(source).model_dump() for source in sources]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\chatbot-ptit\.venv\Lib\site-packages\pydantic\main.py", line 790, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 6 validation errors for Source
+source_url
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+fetched_date
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+topic_group
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+title
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+content
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+score
+  Field required [type=missing, input_value={'source_file': 'ktx.md'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ok
+test_malformed_cookie_is_rotated_without_access_to_previous_owner (test_api_extra.ApiExtraTests.test_malformed_cookie_is_rotated_without_access_to_previous_owner) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_missing_conversation_post_and_delete_do_not_generate (test_api_extra.ApiExtraTests.test_missing_conversation_post_and_delete_do_not_generate) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_request_uuid_missing_fields_types_and_malformed_json (test_api_extra.ApiExtraTests.test_request_uuid_missing_fields_types_and_malformed_json) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_retry_uses_saved_turn_even_if_generator_is_now_unavailable (test_api_extra.ApiExtraTests.test_retry_uses_saved_turn_even_if_generator_is_now_unavailable) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_uppercase_uuid_cookie_is_normalized_without_losing_owner (test_api_extra.ApiExtraTests.test_uppercase_uuid_cookie_is_normalized_without_losing_owner) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_valid_length_boundaries_and_trimming_before_storage (test_api_extra.ApiExtraTests.test_valid_length_boundaries_and_trimming_before_storage) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_delete_cascades_messages_and_feedback_without_touching_other_conversation (test_database.DatabaseExtraTests.test_delete_cascades_messages_and_feedback_without_touching_other_conversation) ... ok
+test_direct_crud_and_missing_conversation (test_database.DatabaseExtraTests.test_direct_crud_and_missing_conversation) ... ok
+test_duplicate_request_does_not_overwrite_original_or_timestamp (test_database.DatabaseExtraTests.test_duplicate_request_does_not_overwrite_original_or_timestamp) ... ok
+test_failure_before_insert_keeps_store_unchanged (test_database.DatabaseExtraTests.test_failure_before_insert_keeps_store_unchanged) ... ok
+test_failure_on_assistant_insert_rolls_back_entire_memory_turn (test_database.DatabaseExtraTests.test_failure_on_assistant_insert_rolls_back_entire_memory_turn) ... FAIL
+test_list_sorting_and_tie_breaker (test_database.DatabaseExtraTests.test_list_sorting_and_tie_breaker) ... ok
+test_message_sequence_does_not_depend_on_timestamp (test_database.DatabaseExtraTests.test_message_sequence_does_not_depend_on_timestamp) ... ok
+test_mongo_partial_write_is_atomic_under_second_insert_failure (test_database.DatabaseExtraTests.test_mongo_partial_write_is_atomic_under_second_insert_failure) ... Lỗi lưu lượt hội thoại lên MongoDB: injected mongo second insert failure
+FAIL
+test_same_request_is_independent_between_conversations (test_database.DatabaseExtraTests.test_same_request_is_independent_between_conversations) ... ok
+test_sources_and_attachments_are_defensive_copies (test_database.DatabaseExtraTests.test_sources_and_attachments_are_defensive_copies) ... ok
+test_storage_owner_checks_reject_mutation (test_database.DatabaseExtraTests.test_storage_owner_checks_reject_mutation) ... ok
+test_unicode_title_boundary_and_first_question_only (test_database.DatabaseExtraTests.test_unicode_title_boundary_and_first_question_only) ... ok
+test_existing_messages_survive_idempotent_attachment_migration (test_documents.DatabaseMigrationTests.test_existing_messages_survive_idempotent_attachment_migration) ... ok
+test_attachment_ids_must_be_in_scope_and_belong_to_conversation (test_documents.DocumentApiTests.test_attachment_ids_must_be_in_scope_and_belong_to_conversation) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_auto_ktx_after_file_summary_uses_ptit_even_if_the_file_mentions_ktx (test_documents.DocumentApiTests.test_auto_ktx_after_file_summary_uses_ptit_even_if_the_file_mentions_ktx) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_expiration_and_delete_conversation_clear_memory (test_documents.DocumentApiTests.test_expiration_and_delete_conversation_clear_memory) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_expired_candidate_file_does_not_block_a_new_ptit_question (test_documents.DocumentApiTests.test_expired_candidate_file_does_not_block_a_new_ptit_question) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_expired_file_card_remains_in_history (test_documents.DocumentApiTests.test_expired_file_card_remains_in_history) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_explicit_file_request_after_ptit_question_keeps_only_file_history (test_documents.DocumentApiTests.test_explicit_file_request_after_ptit_question_keeps_only_file_history) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_explicit_file_request_without_file_is_actionable (test_documents.DocumentApiTests.test_explicit_file_request_without_file_is_actionable) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_invalid_uploads_are_not_remembered (test_documents.DocumentApiTests.test_invalid_uploads_are_not_remembered) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_llm_failure_and_retry_do_not_save_partial_or_duplicate_turns (test_documents.DocumentApiTests.test_llm_failure_and_retry_do_not_save_partial_or_duplicate_turns) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+Không thể trả lời tin nhắn (RuntimeError): offline
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\main.py", line 407, in send_message
+    answer, mode, sources = knowledge.answer_from_sources(payload.message, sources,
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1124, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1128, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1183, in _execute_mock_call
+    raise effect
+RuntimeError: offline
+ok
+test_llm_prompt_includes_file_and_follow_up_history_even_in_direct_mode (test_documents.DocumentApiTests.test_llm_prompt_includes_file_and_follow_up_history_even_in_direct_mode) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_new_attachments_belong_to_user_message_and_follow_ups_do_not_repeat_them (test_documents.DocumentApiTests.test_new_attachments_belong_to_user_message_and_follow_ups_do_not_repeat_them) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_original_over_one_mb_stays_in_ram (test_documents.DocumentApiTests.test_original_over_one_mb_stays_in_ram) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_oversize_stream_and_file_count_are_bounded (test_documents.DocumentApiTests.test_oversize_stream_and_file_count_are_bounded) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_pdf_and_excel_upload (test_documents.DocumentApiTests.test_pdf_and_excel_upload) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_restarting_keeps_chat_but_discards_uploads (test_documents.DocumentApiTests.test_restarting_keeps_chat_but_discards_uploads) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_scope_isolated_by_browser_and_conversation (test_documents.DocumentApiTests.test_scope_isolated_by_browser_and_conversation) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_upload_ask_list_remove_and_missing_file (test_documents.DocumentApiTests.test_upload_ask_list_remove_and_missing_file) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_docx_reads_paragraphs_and_tables (test_documents.ExtractionTests.test_docx_reads_paragraphs_and_tables) ... ok
+test_excel_keeps_sheet_row_headers_and_formula (test_documents.ExtractionTests.test_excel_keeps_sheet_row_headers_and_formula) ... ok
+test_invalid_empty_unsupported_password_scan_and_large_files (test_documents.ExtractionTests.test_invalid_empty_unsupported_password_scan_and_large_files) ... ok
+test_office_expansion_and_text_limits (test_documents.ExtractionTests.test_office_expansion_and_text_limits) ... ok
+test_pdf_preserves_page_and_text (test_documents.ExtractionTests.test_pdf_preserves_page_and_text) ... ok
+test_summary_samples_all_selected_files (test_documents.MemoryTests.test_summary_samples_all_selected_files) ... ok
+test_answer_rejects_empty_document_directory (test_knowledge.KnowledgeExtraTests.test_answer_rejects_empty_document_directory) ... ok
+test_anthropic_mock_generates_text_with_original_sources (test_knowledge.KnowledgeExtraTests.test_anthropic_mock_generates_text_with_original_sources) ... ok
+test_cloud_invoke_failure_falls_back_to_sources (test_knowledge.KnowledgeExtraTests.test_cloud_invoke_failure_falls_back_to_sources) ... LLM gọi thất bại (RuntimeError): injected provider outage. Tự động chuyển sang chế độ tra cứu tài liệu.
+ok
+test_cloud_key_requires_model_name (test_knowledge.KnowledgeExtraTests.test_cloud_key_requires_model_name) ... ok
+test_empty_llm_content_variants_raise_runtime_error (test_knowledge.KnowledgeExtraTests.test_empty_llm_content_variants_raise_runtime_error) ... ok
+test_empty_whitespace_and_punctuation_have_no_terms (test_knowledge.KnowledgeExtraTests.test_empty_whitespace_and_punctuation_have_no_terms) ... ok
+test_explicit_retrieval_limits_are_respected (test_knowledge.KnowledgeExtraTests.test_explicit_retrieval_limits_are_respected) ... ok
+test_frontmatter_accepts_bom_crlf_and_yaml_date (test_knowledge.KnowledgeExtraTests.test_frontmatter_accepts_bom_crlf_and_yaml_date) ... ok
+test_frontmatter_list_is_rejected (test_knowledge.KnowledgeExtraTests.test_frontmatter_list_is_rejected) ... ok
+test_google_mock_joins_list_blocks_and_ignores_missing_text (test_knowledge.KnowledgeExtraTests.test_google_mock_joins_list_blocks_and_ignores_missing_text) ... ok
+test_heading_hierarchy_and_sibling_reset (test_knowledge.KnowledgeExtraTests.test_heading_hierarchy_and_sibling_reset) ... ok
+test_heading_only_sections_do_not_create_empty_chunks (test_knowledge.KnowledgeExtraTests.test_heading_only_sections_do_not_create_empty_chunks) ... ok
+test_invalid_fetched_date_is_rejected (test_knowledge.KnowledgeExtraTests.test_invalid_fetched_date_is_rejected) ... FAIL
+test_malformed_yaml_is_reported_as_value_error (test_knowledge.KnowledgeExtraTests.test_malformed_yaml_is_reported_as_value_error) ... ok
+test_mapping_source_url_is_invalid_metadata (test_knowledge.KnowledgeExtraTests.test_mapping_source_url_is_invalid_metadata) ... FAIL
+test_missing_frontmatter_raises_value_error (test_knowledge.KnowledgeExtraTests.test_missing_frontmatter_raises_value_error) ... ok
+test_missing_or_whitespace_keys_return_retrieval_sources (test_knowledge.KnowledgeExtraTests.test_missing_or_whitespace_keys_return_retrieval_sources) ... ok
+test_no_match_short_circuits_generation (test_knowledge.KnowledgeExtraTests.test_no_match_short_circuits_generation) ... ok
+test_required_metadata_rejects_missing_and_empty_values (test_knowledge.KnowledgeExtraTests.test_required_metadata_rejects_missing_and_empty_values) ... ok
+test_stopword_only_question_has_no_terms (test_knowledge.KnowledgeExtraTests.test_stopword_only_question_has_no_terms) ... ok
+test_terms_fold_d_stroke_and_accents_with_repeated_tokens (test_knowledge.KnowledgeExtraTests.test_terms_fold_d_stroke_and_accents_with_repeated_tokens) ... ok
+test_unsupported_provider_is_rejected (test_knowledge.KnowledgeExtraTests.test_unsupported_provider_is_rejected) ... ok
+test_explicit_file_and_related_follow_up_queries (test_message_routing.RoutingTests.test_explicit_file_and_related_follow_up_queries) ... ok
+test_explicit_scope_overrides_auto_and_new_uploads_use_the_attached_file (test_message_routing.RoutingTests.test_explicit_scope_overrides_auto_and_new_uploads_use_the_attached_file) ... ok
+test_greeting_routes_to_knowledge (test_message_routing.RoutingTests.test_greeting_routes_to_knowledge) ... ok
+test_new_ptit_subject_is_not_trapped_in_the_uploaded_report (test_message_routing.RoutingTests.test_new_ptit_subject_is_not_trapped_in_the_uploaded_report) ... ok
+test_summary_does_not_jump_back_to_a_file_after_a_ptit_turn (test_message_routing.RoutingTests.test_summary_does_not_jump_back_to_a_file_after_a_ptit_turn) ... ok
+test_api_mongo_endpoints (test_mongo.MongoStoreTests.test_api_mongo_endpoints) ... LLM API key 'ANTHROPIC_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_database_mongo_conversations_messages_and_feedback (test_mongo.MongoStoreTests.test_database_mongo_conversations_messages_and_feedback) ... ok
+test_mock_sync_and_connection (test_mongo.MongoStoreTests.test_mock_sync_and_connection) ... ok
+test_parse_source_file (test_mongo.MongoStoreTests.test_parse_source_file) ... ok
+test_temp_attachments_mongo_persist_and_hydrate (test_mongo.MongoStoreTests.test_temp_attachments_mongo_persist_and_hydrate) ... ok
+test_unconfigured_by_default (test_mongo.MongoStoreTests.test_unconfigured_by_default) ... ok
+test_conversational_challenge_follow_up_keeps_context (test_multi_turn.MultiTurnContextTests.test_conversational_challenge_follow_up_keeps_context) ... ok
+test_dynamic_topic_catalog_discovers_all_files (test_multi_turn.MultiTurnContextTests.test_dynamic_topic_catalog_discovers_all_files) ... ok
+test_exclusion_and_broad_topic_switch_ngoai_ktx (test_multi_turn.MultiTurnContextTests.test_exclusion_and_broad_topic_switch_ngoai_ktx) ... ok
+test_exclusion_with_specific_new_topic (test_multi_turn.MultiTurnContextTests.test_exclusion_with_specific_new_topic) ... ok
+test_follow_up_retrieves_correct_context_from_data (test_multi_turn.MultiTurnContextTests.test_follow_up_retrieves_correct_context_from_data) ... ok
+test_implicit_topic_switch_excludes_previous_turn_source (test_multi_turn.MultiTurnContextTests.test_implicit_topic_switch_excludes_previous_turn_source) ... ok
+test_independent_query_with_domain_term_is_not_contaminated (test_multi_turn.MultiTurnContextTests.test_independent_query_with_domain_term_is_not_contaminated) ... ok
+test_standalone_question_expands_follow_up_cues (test_multi_turn.MultiTurnContextTests.test_standalone_question_expands_follow_up_cues) ... ok
+test_standalone_question_expands_short_implicit_query (test_multi_turn.MultiTurnContextTests.test_standalone_question_expands_short_implicit_query) ... ok
+test_subtopic_exclusion_within_same_topic_does_not_exclude_target_file (test_multi_turn.MultiTurnContextTests.test_subtopic_exclusion_within_same_topic_does_not_exclude_target_file) ... ok
+test_admin_reindex_hot_reload (test_phase3.Phase3Tests.test_admin_reindex_hot_reload) ... LLM API key 'GOOGLE_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_feedback_like_dislike_and_ownership (test_phase3.Phase3Tests.test_feedback_like_dislike_and_ownership) ... LLM API key 'GOOGLE_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+LLM API key 'GOOGLE_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_sse_stream_endpoint_saves_turn_and_emits_deltas (test_phase3.Phase3Tests.test_sse_stream_endpoint_saves_turn_and_emits_deltas) ... LLM API key 'GOOGLE_API_KEY' chưa được cấu hình. Hệ thống sẽ hoạt động ở chế độ retrieval_only.
+ok
+test_benign_text_is_preserved (test_prompt_injection.PromptInjectionTests.test_benign_text_is_preserved) ... ok
+test_closing_tag_is_neutralized (test_prompt_injection.PromptInjectionTests.test_closing_tag_is_neutralized) ... ok
+test_nonce_tagged_variations_are_neutralized (test_prompt_injection.PromptInjectionTests.test_nonce_tagged_variations_are_neutralized) ... ok
+test_rag_001_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_001_evidence_in_top_three) ... FAIL
+test_rag_002_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_002_evidence_in_top_three) ... FAIL
+test_rag_003_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_003_evidence_in_top_three) ... ok
+test_rag_004_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_004_evidence_in_top_three) ... FAIL
+test_rag_005_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_005_evidence_in_top_three) ... ok
+test_rag_006_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_006_evidence_in_top_three) ... ok
+test_rag_007_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_007_evidence_in_top_three) ... FAIL
+test_rag_008_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_008_evidence_in_top_three) ... ok
+test_rag_009_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_009_evidence_in_top_three) ... ok
+test_rag_010_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_010_evidence_in_top_three) ... ok
+test_rag_011_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_011_evidence_in_top_three) ... ok
+test_rag_012_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_012_evidence_in_top_three) ... ok
+test_rag_013_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_013_evidence_in_top_three) ... FAIL
+test_rag_014_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_014_evidence_in_top_three) ... ok
+test_rag_015_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_015_evidence_in_top_three) ... ok
+test_rag_016_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_016_evidence_in_top_three) ... ok
+test_rag_017_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_017_evidence_in_top_three) ... ok
+test_rag_018_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_018_evidence_in_top_three) ... FAIL
+test_rag_019_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_019_evidence_in_top_three) ... ok
+test_rag_020_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_020_evidence_in_top_three) ... FAIL
+test_rag_021_out_of_scope (test_rag_quality.RagQualityTests.test_rag_021_out_of_scope) ... ok
+test_rag_022_out_of_scope (test_rag_quality.RagQualityTests.test_rag_022_out_of_scope) ... ok
+test_rag_023_out_of_scope (test_rag_quality.RagQualityTests.test_rag_023_out_of_scope) ... ok
+test_rag_024_out_of_scope (test_rag_quality.RagQualityTests.test_rag_024_out_of_scope) ... ok
+test_article_metadata_does_not_leak_between_articles (test_retrieval.RetrievalTests.test_article_metadata_does_not_leak_between_articles) ... ok
+test_failed_rebuild_preserves_active_collection (test_retrieval.RetrievalTests.test_failed_rebuild_preserves_active_collection) ... ok
+test_hybrid_does_not_use_weak_partial_keyword_overlap (test_retrieval.RetrievalTests.test_hybrid_does_not_use_weak_partial_keyword_overlap) ... ok
+test_hybrid_ranks_agreement_and_limits_results (test_retrieval.RetrievalTests.test_hybrid_ranks_agreement_and_limits_results) ... ok
+test_hybrid_recovers_full_term_and_acronym_below_vector_threshold (test_retrieval.RetrievalTests.test_hybrid_recovers_full_term_and_acronym_below_vector_threshold) ... ok
+test_idempotent_persistent_index_and_cosine_score (test_retrieval.RetrievalTests.test_idempotent_persistent_index_and_cosine_score) ... ok
+test_lexical_mode_shares_alias_and_accent_normalization (test_retrieval.RetrievalTests.test_lexical_mode_shares_alias_and_accent_normalization) ... ok
+test_plain_note_colon_is_read_without_modifying_data (test_retrieval.RetrievalTests.test_plain_note_colon_is_read_without_modifying_data) ... ok
+test_recursive_chunking_preserves_tail_and_metadata (test_retrieval.RetrievalTests.test_recursive_chunking_preserves_tail_and_metadata) ... ok
+test_source_requirements_update_and_remove_document (test_retrieval.RetrievalTests.test_source_requirements_update_and_remove_document) ... ok
+test_threshold_filters_every_result (test_retrieval.RetrievalTests.test_threshold_filters_every_result) ... ok
+test_vector_error_falls_back_but_empty_result_does_not (test_retrieval.RetrievalTests.test_vector_error_falls_back_but_empty_result_does_not) ... Vector search lỗi; dùng lexical
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\knowledge.py", line 516, in retrieve
+    raw_results = self.rag_store.search(query, fetch_limit, trace=trace)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1124, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1128, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py", line 1183, in _execute_mock_call
+    raise effect
+RuntimeError: test vector outage
+ok
+test_clb_name_queries_include_ilc_article (test_retrieval_short_queries.ShortQueryAndAbbreviationTests.test_clb_name_queries_include_ilc_article) ... ok
+test_ktx_buildings_query_returns_all_three_buildings_b1_b2_b5 (test_retrieval_short_queries.ShortQueryAndAbbreviationTests.test_ktx_buildings_query_returns_all_three_buildings_b1_b2_b5) ... ok
+test_short_queries_find_relevant_sources (test_retrieval_short_queries.ShortQueryAndAbbreviationTests.test_short_queries_find_relevant_sources) ... ok
+test_student_abbreviations_expansion (test_retrieval_short_queries.ShortQueryAndAbbreviationTests.test_student_abbreviations_expansion) ... ok
+test_unrelated_queries_are_rejected (test_retrieval_short_queries.ShortQueryAndAbbreviationTests.test_unrelated_queries_are_rejected) ... ok
+test_aliases_work_both_ways_across_domains (test_search_text.SearchTextTests.test_aliases_work_both_ways_across_domains) ... ok
+test_boundaries_negation_numbers_and_ambiguous_alias (test_search_text.SearchTextTests.test_boundaries_negation_numbers_and_ambiguous_alias) ... ok
+test_greeting_detection (test_search_text.SearchTextTests.test_greeting_detection) ... ok
+test_unlisted_accented_phrase_can_match_without_accents (test_search_text.SearchTextTests.test_unlisted_accented_phrase_can_match_without_accents) ... ok
+test_whitespace_and_unicode (test_search_text.SearchTextTests.test_whitespace_and_unicode) ... ok
+test_backend_env_overrides_inherited_provider (test_startup.StartupTests.test_backend_env_overrides_inherited_provider) ... skipped 'Chưa chạy: test cũ yêu cầu nạp BE/.env thật; QA cách ly toàn bộ khóa và cấu hình thật.'
+test_uvicorn_import_from_backend_directory (test_startup.StartupTests.test_uvicorn_import_from_backend_directory) ... ok
+test_uvicorn_import_from_project_root (test_startup.StartupTests.test_uvicorn_import_from_project_root) ... ok
+
+======================================================================
+FAIL: test_failure_on_assistant_insert_rolls_back_entire_memory_turn (test_database.DatabaseExtraTests.test_failure_on_assistant_insert_rolls_back_entire_memory_turn)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_database.py", line 128, in test_failure_on_assistant_insert_rolls_back_entire_memory_turn
+    self.assertEqual(after, before, self.observed)
+AssertionError: {'id'[168 chars]s': [{'id': '176db2f3-cc17-497f-b7c0-8169f6426[164 chars]ne}]} != {'id'[168 chars]s': []}
+  {'created_at': '2026-11-11T00:00:00+00:00',
+   'id': 'd27ac9ad-71ed-4d59-a2d3-c958deaccd1b',
++  'messages': [],
+-  'messages': [{'attachments': [],
+-                'created_at': '2026-11-11T11:09:50.238311+00:00',
+-                'feedback': None,
+-                'id': '176db2f3-cc17-497f-b7c0-8169f6426960',
+-                'mode': 'user',
+-                'role': 'user',
+-                'sources': [],
+-                'text': 'Câu hỏi kiểm thử'}],
+   'title': 'Cuộc trò chuyện mới',
+   'updated_at': '2026-11-11T00:00:00+00:00'} : Trước lỗi: 0; sau lỗi: 1 tin nhắn.
+
+======================================================================
+FAIL: test_mongo_partial_write_is_atomic_under_second_insert_failure (test_database.DatabaseExtraTests.test_mongo_partial_write_is_atomic_under_second_insert_failure)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_database.py", line 149, in test_mongo_partial_write_is_atomic_under_second_insert_failure
+    self.assertEqual(inserted, [], self.observed)
+AssertionError: Lists differ: [{'_id': '636dde31-9dba-48cb-b57f-84dfb011[325 chars]one}] != []
+
+First list contains 1 additional elements.
+First extra element 0:
+{'_id': '636dde31-9dba-48cb-b57f-84dfb0114ed8', 'id': '636dde31-9dba-48cb-b57f-84dfb0114ed8', 'sequence': 1, 'conversation_id': 'b8498b14-735b-4116-b8c0-7fb2272a1eb7', 'request_id': 'bd928f8a-1566-4476-a5b5-287ae12ded76', 'role': 'user', 'text': 'hỏi', 'created_at': '2026-11-11T11:09:50.238311+00:00', 'mode': 'user', 'sources': [], 'attachments': [], 'feedback': None}
+
++ []
+- [{'_id': '636dde31-9dba-48cb-b57f-84dfb0114ed8',
+-   'attachments': [],
+-   'conversation_id': 'b8498b14-735b-4116-b8c0-7fb2272a1eb7',
+-   'created_at': '2026-11-11T11:09:50.238311+00:00',
+-   'feedback': None,
+-   'id': '636dde31-9dba-48cb-b57f-84dfb0114ed8',
+-   'mode': 'user',
+-   'request_id': 'bd928f8a-1566-4476-a5b5-287ae12ded76',
+-   'role': 'user',
+-   'sequence': 1,
+-   'sources': [],
+-   'text': 'hỏi'}] : Collection mock còn 1 tin nhắn: ['user'].
+
+======================================================================
+FAIL: test_invalid_fetched_date_is_rejected (test_knowledge.KnowledgeExtraTests.test_invalid_fetched_date_is_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_knowledge.py", line 105, in test_invalid_fetched_date_is_rejected
+    with self.assertRaises(ValueError):
+AssertionError: ValueError not raised
+
+======================================================================
+FAIL: test_mapping_source_url_is_invalid_metadata (test_knowledge.KnowledgeExtraTests.test_mapping_source_url_is_invalid_metadata)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_knowledge.py", line 100, in test_mapping_source_url_is_invalid_metadata
+    with self.assertRaises(ValueError):
+AssertionError: ValueError not raised
+
+======================================================================
+FAIL: test_rag_001_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_001_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "ktx.md", "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027", "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**"}, {"file": "ktx.md", "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)", "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**"}, {"file": "ktx.md", "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)", "content": "– Chuẩn bị hồ sơ ở nội trú gồm: CCCD, thẻ sinh viên (bản phô tô); 02 ảnh 4×6 chụp kiểu chân dung để nộp khi làm thủ tục nhận phòng.\n\n– Nộp lệ phí bằng hình thức chuyển khoản qua tài khoản của Học viện tại bộ phận một cửa với số tiền: 285.000 \\*04 = 1.140.000 đồng.\n\n– Sau khi nộp lệ phí, sinh viên đến phòng 104 – KTX B1 xuất trình biên lai thu lệ phí (kèm các hồ sơ ở nội trú) và nhận phòng ở."}]}
+
+======================================================================
+FAIL: test_rag_002_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_002_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "ktx.md", "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027", "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**"}, {"file": "ktx.md", "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)", "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**"}, {"file": "ktx.md", "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)", "content": "– Chuẩn bị hồ sơ ở nội trú gồm: CCCD, thẻ sinh viên (bản phô tô); 02 ảnh 4×6 chụp kiểu chân dung để nộp khi làm thủ tục nhận phòng.\n\n– Nộp lệ phí bằng hình thức chuyển khoản qua tài khoản của Học viện tại bộ phận một cửa với số tiền: 285.000 \\*04 = 1.140.000 đồng.\n\n– Sau khi nộp lệ phí, sinh viên đến phòng 104 – KTX B1 xuất trình biên lai thu lệ phí (kèm các hồ sơ ở nội trú) và nhận phòng ở."}]}
+
+======================================================================
+FAIL: test_rag_004_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_004_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "ktx.md", "title": "Thông báo: V/v bố trí sinh viên ở nội trú  trong thời gian nghỉ hè, năm học 2026 – 2027", "content": "Căn cứ kế hoạch sửa chữa cơ sở vật chất, trang thiết bị tại các ký túc xá B1, B2, B5 trong thời gian sinh viên nghỉ hè để đảm bảo các điều kiện phục vụ tốt cho nhu cầu sinh hoạt, học tập và rèn luyện của sinh viên nội trú tại các KTX, Trung tâm Dịch vụ xin thông báo nội dung cụ thể như sau:\n\n1. **Nguyên tắc bố trí sinh viên ở nội trú trong thời gian hè**"}, {"file": "ktx.md", "title": "Đăng ký ở nội trú tại ký túc xá Cơ sở Đào tạo Hà Đông (tháng 1/2026)", "content": "1. **1****.** **Đối tượng****:** Sinh viên hệ đại học chính quy các khóa từ 2022 đến 2025.\n2. **Thời gian ở nội trú**:\n\n2.1. SV các khóa 2022-2024: 05 tháng, từ ngày 24/02/2026 đến ngày 24/7/2026.\n\n2.2. SV khóa 2025: 06 tháng, từ ngày 24/02/2026 đến ngày 24/8/2026.\n\n3. **Địa điểm ở nội trú**: KTX B2 và B5, Cơ sở Đào tạo Hà Đông.\n4. **Điều kiện và s****ố chỗ ở nội trú****:**"}, {"file": "ktx.md", "title": "Đăng ký bổ sung ở nội trú tại các KTX Cơ sở Đào tạo Hà Đông (tháng 9/2026)", "content": "1. **Đối tượng:** Sinh viên hệ đại học chính quy các khóa từ 2024 đến 2026. Riêng khóa 2023 trở về trước chỉ tiếp nhận sinh viên có hoàn cảnh khó khăn, hộ nghèo theo quy định.\n2. **Địa điểm bố trí và số chỗ ở**\n\n2.1. Địa điểm: Ký túc xá (KTX) B5, Cơ sở Đào tạo Hà Đông.\n\n2.2. Số chỗ ở nội trú: 120 chỗ.\n\n3. **Thời gian và lệ phí ở nội trú**"}]}
+
+======================================================================
+FAIL: test_rag_007_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_007_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "quy_che_chung.md", "title": "THÔNG BÁO  Về việc mua BHYT cho sinh viên hệ đại học chính quy trong năm 2026  Khóa 2022, 2023, 2024 (đợt bổ sung)", "content": "3. Sinh viên thuộc nhóm đối tượng nêu trên thực hiện việc đóng BHYT, sinh viên thực hiện theo hướng dẫn sau:\n\n3.1. Kỳ đóng BHYT: BHYT SV đóng theo năm tài chính trên cơ sở nối hạn thẻ BHYT đang có nhằm bảo đảm quyền lợi tham gia BHYT sinh viên liên tục.\n\n3.2. Mức thu:\n\nThẻ BHYT có giá trị sử dụng từ 01/01/2026 đến 31/12/2026.\n\nSố tiền phải đóng: 12 tháng x 52.650 đồng/tháng = 631.800 đồng."}, {"file": "quy_che_chung.md", "title": "Thông báo: Về một số công việc sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027", "content": "* Hoặc từ ngày 14/9/2026 tại Văn phòng một cửa (ô phòng Chính trị & CTSV).\n\n5. **Rà soát thông tin bảo hiểm y tế bắt buộc**\n\n– Sinh viên chưa khai báo thông tin bảo hiểm y tế, sinh viên khai sai thông tin sẽ thực hiện bổ sung, điều chỉnh thông tin sau khi Học viện rà soát sau."}, {"file": "quy_che_chung.md", "title": "Thông báo một số công việc tân sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027", "content": "* Hoặc từ ngày 14/9/2026 tại Văn phòng một cửa (ô phòng Chính trị & CTSV).\n\n5. **Rà soát thông tin bảo hiểm y tế bắt buộc**\n\n– Sinh viên chưa khai báo thông tin bảo hiểm y tế, sinh viên khai sai thông tin sẽ thực hiện bổ sung, điều chỉnh thông tin sau khi Học viện rà soát sau."}]}
+
+======================================================================
+FAIL: test_rag_013_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_013_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "clb.md", "title": "Kỳ thi lập trình ICPC – PTIT 2026 thu hút 216 đội sinh viên", "content": "Đáng chú ý, kỳ thi năm nay có gần 30 tân sinh viên D26 tham gia tập luyện từ trước thời điểm xác nhận nhập học. Trong số đó, 14 sinh viên D26 đã góp mặt tại vòng chung kết và 6 sinh viên đạt giải"}, {"file": "quy_che_chung.md", "title": "Thông báo một số công việc tân sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027", "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**"}, {"file": "quy_che_chung.md", "title": "Thông báo: Về một số công việc sinh viên cần hoàn thành sau Tuần sinh hoạt công dân – sinh viên đầu khóa năm học 2026–2027", "content": "– Sinh viên thuộc diện con bộ đội (mã thẻ BHYT có ký hiệu TQ) và những sinh viên chưa nhớ mã số thẻ BHYT, điền thông tin chưa chính xác khi khai báo nhập học online, chưa khai mẫu TK01-TS cần bổ sung thông tin theo hướng dẫn tại mục Y tế trong Cẩm nang đầu khóa dành cho Tân sinh viên D26 tại địa chỉ <https://tsv.ptit.edu.vn/>.\n\n6. **Chuyển sinh hoạt Đảng**"}]}
+
+======================================================================
+FAIL: test_rag_018_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_018_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "thuc_tap_viec_lam.md", "title": "THÔNG BÁO TUYỂN DỤNG CÁC VỊ TRÍ TẠI TRUNG TÂM CÔNG NGHỆ THÔNG TIN VDB", "content": "3. Địa điểm làm việc\n\n25A Cát Linh, phường Ô Chợ Dừa, thành phố Hà Nội hoặc 185A Giảng Võ, phường Ô Chợ Dừa, thành phố Hà Nội.\n\n4. Phương thức tuyển dụng: Theo quy định tại Quy chế tuyển dụng cán bộ của VDB.\n\n5. Mức lương và thời gian làm việc: Theo quy định của VDB\n\n6. Hồ sơ đăng ký dự tuyển:"}, {"file": "thuc_tap_viec_lam.md", "title": "Thông báo tuyển dụng thực tập sinh tài năng tại Trụ sở chính Vietcombank năm 2026 / IV. Đăng ký ứng tuyển", "content": "Học viện Công nghệ Bưu chính Viễn thông trân trọng thông báo để sinh viên quan tâm đăng ký tham gia chương trình."}, {"file": "thuc_tap_viec_lam.md", "title": "PTIT Job Fair 2026: Ngày hội gian hàng tuyển dụng thu hút hàng nghìn sinh viên, mở rộng cơ hội việc làm trong lĩnh vực công nghệ", "content": "**Ngày 23/04/2026, Học viện Công nghệ Bưu chính Viễn thông (PTIT) đã tổ chức Ngày hội gian hàng tuyển dụng – hoạt động trọng tâm trong khuôn khổ PTIT Job Fair 2026. Sự kiện thu hút  gần 3.000 lượt sinh viên tham gia, tạo nên không gian kết nối sôi động giữa sinh viên và cộng đồng doanh nghiệp.**"}]}
+
+======================================================================
+FAIL: test_rag_020_evidence_in_top_three (test_rag_quality.RagQualityTests.test_rag_020_evidence_in_top_three)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\chatbot-ptit\BE\tests\test_rag_quality.py", line 79, in test
+    self.assertTrue(passed, self.observed)
+AssertionError: False is not true : {"hit@1": false, "hit@3": false, "top3": [{"file": "quy_che_chung.md", "title": "Học bổng Panasonic 2026 chính thức mở đơn: Nâng bước nhân tài – Vươn tới tương lai", "content": "Bước sang năm thứ 23 đồng hành cùng sinh viên Việt Nam, học bổng Panasonic không chỉ là sự hỗ trợ về tài chính mà còn là bệ phóng giúp sinh viên nâng cao năng lực, mở rộng cơ hội và tự tin chinh phục tương lai."}, {"file": "quy_che_chung.md", "title": "Tiếp nhận hồ sơ xét công nhận kết quả học tập và chuyển đổi điểm thi  chứng chỉ ACCA và điểm các môn thi ACCA toàn cầu sang các học phần tương ứng thuộc chương trình đào tạo ngành Kế toán và Kế toán  chất lượng cao – ACCA", "content": "Học viện thông báo kế hoạch tiếp nhận hồ sơ xét công nhận kết quả học tập và chuyển đổi điểm cho sinh viên hệ Đại học chính quy ngành Kế toán và Kế toán chất lượng cao – ACCA, cơ sở đào tạo Hà Nội như sau:\n\n1. **Đối tượng, hình thức, thời gian tiếp nhận hồ sơ:**\n2. ***Đối tượng:***"}, {"file": "thuc_tap_viec_lam.md", "title": "PTIT Job Fair 2026: Ngày hội gian hàng tuyển dụng thu hút hàng nghìn sinh viên, mở rộng cơ hội việc làm trong lĩnh vực công nghệ", "content": "Thông qua hoạt động tiếp nhận hồ sơ, phỏng vấn nhanh và tư vấn trực tiếp tại gian hàng, sinh viên có cơ hội tiếp cận quy trình tuyển dụng thực tế, đồng thời chủ động kết nối với doanh nghiệp, qua đó rút ngắn khoảng cách giữa đào tạo và môi trường làm việc chuyên nghiệp.\n\nHơn 1.000 cơ hội việc làm và thực tập trong các lĩnh vực mũi nhọn"}]}
+
+----------------------------------------------------------------------
+Ran 164 tests in 17.028s
+
+FAILED (failures=11, skipped=1)
+
+RAG GOLDEN SET | file + substring evidence (case-insensitive) | lexical | top-3
+ID       | hit@1 | hit@3 | sources(top-3) | question
+RAG-001  | False | False | ktx.md,ktx.md,ktx.md | Lệ phí nội trú KTX học kỳ II năm học 2025-2026 là bao nhiêu?
+RAG-002  | False | False | ktx.md,ktx.md,ktx.md | KTX hoc ky II 2025-2026 le phi noi tru bao nhieu?
+RAG-003  | False | True  | ktx.md,ktx.md,ktx.md | Ktxx B5 dang ky bo sung thang 9/2026 co bao nhieu cho?
+RAG-004  | False | False | ktx.md,ktx.md,ktx.md | Nghỉ hè 2026 KTX lệ phí bao nhiêu và thời gian ở nội trú?
+RAG-005  | True  | True  | ktx.md,ktx.md,quy_che_chung.md | Đăng ký bổ sung KTX tháng 9/2026 cần hồ sơ gì và nộp bao nhiêu tiền?
+RAG-006  | True  | True  | quy_che_chung.md,quy_che_chung.md,quy_che_chung.md | BHYT bổ sung tháng 1 năm 2026 số tiền phải đóng là bao nhiêu?
+RAG-007  | False | False | quy_che_chung.md,quy_che_chung.md,quy_che_chung.md | BHYT dot bo sung thang 1/2026 thu tu ngay nao?
+RAG-008  | True  | True  | quy_che_chung.md,quy_che_chung.md,quy_che_chung.md | SV nộp BHYT đợt bổ sung qua PTIT S-Link thế nào?
+RAG-009  | True  | True  | thu_vien.md,thu_vien.md | Thư viện phục vụ dịp hè 2026 buổi sáng từ mấy giờ?
+RAG-010  | True  | True  | thu_vien.md,thuc_tap_viec_lam.md,quy_che_chung.md | Thu vien he 2026 buoi chieu mo cua luc nao?
+RAG-011  | True  | True  | thu_vien.md,thuc_tap_viec_lam.md,quy_che_chung.md | Giáo trình Tổ chức sản xuất Podcast do ai viết?
+RAG-012  | False | True  | thu_vien.md,thu_vien.md,thu_vien.md | Thư viện bổ sung giáo trình Thị giác máy tính và Internet ở đâu để mượn?
+RAG-013  | False | False | clb.md,quy_che_chung.md,quy_che_chung.md | Tân sinh viên D26 đăng nhập thư viện số PTIT ở địa chỉ nào?
+RAG-014  | True  | True  | clb.md,thu_vien.md,quy_che_chung.md | CLB Thư viện PTIT có tên viết tắt là gì?
+RAG-015  | True  | True  | clb.md,quy_che_chung.md,quy_che_chung.md | Clbb thu vien PTIT ket noi sinh vien voi hoat dong gi?
+RAG-016  | True  | True  | clb.md,thuc_tap_viec_lam.md,quy_che_chung.md | ICPC PTIT 2026 thu hút bao nhiêu đội và sinh viên?
+RAG-017  | False | True  | thuc_tap_viec_lam.md,thuc_tap_viec_lam.md,thuc_tap_viec_lam.md | PTIT Job Fair 2026 có bao nhiêu doanh nghiệp và cơ hội việc làm thực tập?
+RAG-018  | False | False | thuc_tap_viec_lam.md,thuc_tap_viec_lam.md,thuc_tap_viec_lam.md | VDB thông báo tuyển dụng bao nhiêu cán bộ Trung tâm công nghệ thông tin?
+RAG-019  | True  | True  | thuc_tap_viec_lam.md,thuc_tap_viec_lam.md,thuc_tap_viec_lam.md | Vietcombank sinh vien tai nang thuc tap han cuoi nop ho so?
+RAG-020  | False | False | quy_che_chung.md,quy_che_chung.md,thuc_tap_viec_lam.md | Thực tập Vietcombank hạn nhận hồ sơ và thư viện hè mở cửa sáng lúc nào?
+RAG-021  | None  | None  | (empty) | quasar supernova astrophysics
+RAG-022  | None  | None  | (empty) | Giá bitcoin hôm nay bao nhiêu?
+RAG-023  | None  | None  | (empty) | Cách làm bánh pizza hải sản?
+RAG-024  | None  | None  | (empty) | Thời tiết ngày mai tại Paris?
+hit@1 = 10/20; hit@3 = 13/20
+Out-of-scope empty sources = 4/4
