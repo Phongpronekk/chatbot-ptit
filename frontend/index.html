@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf8f6">
+  <title>PTIT Chat · Tra cứu sinh viên</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">P</span>
+        <div><strong>PTIT Chat</strong><span>Trợ lý sinh viên</span></div>
+      </div>
+      <button class="new-chat" id="new-chat" type="button"><span aria-hidden="true">＋</span> Cuộc trò chuyện mới</button>
+      <div class="recent">
+        <h2>Câu hỏi gần đây</h2>
+        <p id="empty-history">Chưa có câu hỏi.</p>
+        <ul id="history"></ul>
+      </div>
+      <div class="sidebar-foot">Ngành CNTT · Cơ sở phía Bắc</div>
+    </aside>
+    <main class="main">
+      <header class="topbar">
+        <div><span class="mobile-brand">PTIT Chat · </span>Tra cứu sinh viên</div>
+        <div id="status" class="status" role="status">Đang tải kho tài liệu</div>
+        <button class="mobile-new" id="mobile-new" type="button" aria-label="Cuộc trò chuyện mới">＋</button>
+      </header>
+      <div class="viewport" id="viewport">
+        <section class="welcome content-width" id="welcome">
+          <div class="welcome-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+          <h1>Bạn cần tra cứu gì?</h1>
+          <p>Hỏi về chương trình học, thủ tục và thông báo học vụ tại PTIT.</p>
+          <div class="suggestions">
+            <button class="suggestion" type="button" data-question="CNTT khóa 2025 có bao nhiêu tín chỉ?">
+              <span class="topic">Đào tạo</span>
+              <span>CNTT khóa 2025 có bao nhiêu tín chỉ?</span>
+              <span class="arrow" aria-hidden="true">↗</span>
+            </button>
+            <button class="suggestion" type="button" data-question="Mất thẻ sinh viên thì làm lại như thế nào?">
+              <span class="topic">Thủ tục</span>
+              <span>Mất thẻ sinh viên thì làm lại như thế nào?</span>
+              <span class="arrow" aria-hidden="true">↗</span>
+            </button>
+            <button class="suggestion" type="button" data-question="Học phí học lại lớp riêng kỳ I 2025–2026 môn INT1313 là bao nhiêu?">
+              <span class="topic">Học phí</span>
+              <span>Học lại lớp riêng môn INT1313 đóng bao nhiêu?</span>
+              <span class="arrow" aria-hidden="true">↗</span>
+            </button>
+          </div>
+        </section>
+        <section class="messages content-width" id="messages" role="log" aria-label="Cuộc trò chuyện" aria-live="polite" hidden></section>
+      </div>
+      <footer class="composer">
+        <div class="content-width">
+          <form id="chat-form">
+            <label for="question" class="sr-only">Câu hỏi</label>
+            <input id="question" name="question" placeholder="Nhập câu hỏi của bạn…" maxlength="500" autocomplete="off" required>
+            <button class="send" id="send" type="submit" aria-label="Gửi câu hỏi">↑</button>
+          </form>
+          <p>Kiểm tra kỳ học và phạm vi áp dụng trong tài liệu được dẫn.</p>
+        </div>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
