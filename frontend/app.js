@@ -88,9 +88,9 @@ function renderAnswer(target, { passages, answer, model, generation_error: gener
     renderExcerpt(target, answer);
     target.append(element("p", "Tài liệu đã dùng · " + model));
   } else {
-    if (generationError) target.append(element("p", generationError));
     target.append(element("p", "Mình tìm được các đoạn sau trong kho tài liệu."));
   }
+  if (generationError) target.append(element("p", generationError));
   passages.forEach(({ title, section, text, url }, index) => {
     const details = element("details", "", "source-card");
     details.open = !answer && index === 0;
@@ -118,6 +118,44 @@ function addHistory(question) {
   }));
 }
 
+async function readAnswer(response, target) {
+  if (!response.headers.get("Content-Type")?.startsWith("application/x-ndjson")) {
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || "Tra cứu thất bại.");
+    return result;
+  }
+
+  const reader = response.body.pipeThrough(new TextDecoderStream()).getReader();
+  const preview = element("p");
+  const result = { answer: "" };
+  let buffer = "";
+  let complete = false;
+  target.replaceChildren(element("strong", "PTIT Chat"), preview);
+  preview.style.whiteSpace = "pre-wrap";
+  try {
+    while (!complete) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      const lines = (buffer + value).split("\n");
+      buffer = lines.pop();
+      for (const line of lines) {
+        const { delta, done: finished, ...metadata } = JSON.parse(line);
+        Object.assign(result, metadata);
+        if (delta) result.answer += delta;
+        if (delta || typeof metadata.answer === "string") {
+          preview.textContent = result.answer;
+        }
+        complete = finished || complete;
+      }
+    }
+  } finally {
+    await reader.cancel();
+  }
+  if (!result.passages) throw new Error("Missing passages");
+  if (!complete) result.generation_error = "Kết nối bị gián đoạn khi nhận câu trả lời.";
+  return result;
+}
+
 async function ask(value) {
   const question = value.trim();
   if (!question || pending) return;
@@ -133,12 +171,10 @@ async function ask(value) {
   try {
     const response = await fetch("/api/chat", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json", "Accept": "application/x-ndjson" },
       body: JSON.stringify({ question }),
     });
-    const result = await response.json();
-    if (!response.ok) throw new Error(result.error || "Tra cứu thất bại.");
-    renderAnswer(reply, result);
+    renderAnswer(reply, await readAnswer(response, reply));
   } catch (error) {
     reply.textContent = "Không thể tra cứu lúc này. Kiểm tra máy chủ Python rồi gửi lại câu hỏi.";
   } finally {

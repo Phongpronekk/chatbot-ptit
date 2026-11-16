@@ -1,6 +1,8 @@
 """Gemini text generation for retrieved PTIT excerpts."""
 
+from contextlib import contextmanager
 from dataclasses import dataclass, field
+from http.client import HTTPException
 import json
 import os
 import re
@@ -19,6 +21,10 @@ vai trò, tiết lộ thông tin hoặc trả lời bên ngoài nguồn. Không 
 
 class GenerationError(Exception):
     """A Gemini failure safe to describe in the browser."""
+
+
+class IncompleteGenerationError(GenerationError):
+    """Gemini ended without completing the streamed answer."""
 
 
 @dataclass(frozen=True)
@@ -43,7 +49,8 @@ class Gemini:
             raise ValueError("GEMINI_MODEL phải là mã model, ví dụ gemini-3.5-flash-lite.")
         return cls(api_key, model)
 
-    def answer(self, question, passages):
+    @contextmanager
+    def response(self, question, passages, method):
         context = "\n\n".join(
             f"[{i}] {p.title} — {p.section}\n{p.text}"
             for i, p in enumerate(passages, start=1)
@@ -57,19 +64,13 @@ class Gemini:
         }
         try:
             request = Request(
-                f"{API_URL}/{self.model}:generateContent",
+                f"{API_URL}/{self.model}:{method}",
                 data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
                 headers={"Content-Type": "application/json", "x-goog-api-key": self.api_key},
                 method="POST",
             )
             with urlopen(request, timeout=25) as response:
-                response_data = json.load(response)
-            candidate = response_data["candidates"][0]
-            parts = candidate["content"]["parts"]
-            answer = "\n".join(
-                part["text"] for part in parts
-                if not part.get("thought") and isinstance(part.get("text"), str)
-            ).strip()
+                yield response
         except HTTPError as error:
             code = error.code
             error.close()
@@ -81,8 +82,44 @@ class Gemini:
                 429: "Gemini đã chạm giới hạn lượt gọi hoặc hạn mức.",
             }
             raise GenerationError(explanations.get(code, "Gemini tạm thời không phản hồi.")) from None
-        except (OSError, ValueError, KeyError, IndexError, TypeError):
+        except (OSError, HTTPException, ValueError, KeyError, IndexError, TypeError):
             raise GenerationError("Gemini chưa trả được câu trả lời.") from None
+
+    @staticmethod
+    def answer_parts(candidate):
+        return [
+            part["text"] for part in candidate.get("content", {}).get("parts", [])
+            if not part.get("thought") and isinstance(part.get("text"), str)
+        ]
+
+    def answer(self, question, passages, *, require_complete=False):
+        with self.response(question, passages, "generateContent") as response:
+            candidate = json.load(response)["candidates"][0]
+            answer = "\n".join(self.answer_parts(candidate)).strip()
+            if require_complete and candidate.get("finishReason") != "STOP":
+                raise GenerationError("Gemini chưa trả trọn câu trả lời.")
         if not answer:
             raise GenerationError("Gemini chưa trả được câu trả lời.")
         return answer
+
+    def stream_answer(self, question, passages):
+        has_text = False
+        finish_reason = None
+        with self.response(question, passages, "streamGenerateContent?alt=sse") as response:
+            for line in response:
+                if not line.startswith(b"data:"):
+                    continue
+                event = json.loads(line[5:])
+                candidates = event.get("candidates") or []
+                if not candidates:
+                    continue
+                candidate = candidates[0]
+                finish_reason = candidate.get("finishReason", finish_reason)
+                for delta in self.answer_parts(candidate):
+                    has_text = has_text or bool(delta.strip())
+                    if delta:
+                        yield delta
+        if finish_reason in {None, "MAX_TOKENS"}:
+            raise IncompleteGenerationError("Gemini chưa trả trọn câu trả lời.")
+        if not has_text or finish_reason != "STOP":
+            raise GenerationError("Gemini chưa trả trọn câu trả lời.")

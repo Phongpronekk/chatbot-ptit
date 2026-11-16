@@ -1,6 +1,7 @@
 """Serve the PTIT chatbot demo and its local retrieval API."""
 
 import argparse
+from contextlib import closing, suppress
 from dataclasses import asdict
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -8,7 +9,7 @@ import json
 from pathlib import Path
 from urllib.parse import urlsplit
 
-from gemini import Gemini, GenerationError
+from gemini import Gemini, GenerationError, IncompleteGenerationError
 from retrieval import KnowledgeBase
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,6 +41,7 @@ class Handler(BaseHTTPRequestHandler):
             generator = self.server.generator
             self.send_json(HTTPStatus.OK, {
                 "documents": self.server.index.document_count,
+                "retrieval": getattr(self.server, "retrieval_mode", "keyword"),
                 "model": generator.model if generator else None,
             })
             return
@@ -71,6 +73,10 @@ class Handler(BaseHTTPRequestHandler):
         passages = self.server.index.search(question)
         result = {"passages": [asdict(passage) for passage in passages]}
         generator = self.server.generator
+        if generator and passages and self.headers.get("Accept") == "application/x-ndjson":
+            with suppress(ConnectionError):
+                self.stream_answer(question, passages, result, generator)
+            return
         if generator and passages:
             try:
                 result["answer"] = generator.answer(question, passages)
@@ -79,12 +85,53 @@ class Handler(BaseHTTPRequestHandler):
                 result["generation_error"] = str(error)
         self.send_json(HTTPStatus.OK, result)
 
+    def stream_answer(self, question, passages, result, generator):
+        self.send_response(HTTPStatus.OK)
+        self.send_header("Content-Type", "application/x-ndjson; charset=utf-8")
+        self.send_header("Cache-Control", "no-store")
+        self.send_header("X-Content-Type-Options", "nosniff")
+        self.send_header("Connection", "close")
+        self.close_connection = True
+        self.end_headers()
+
+        def send_event(event):
+            self.wfile.write((json.dumps(event, ensure_ascii=False) + "\n").encode("utf-8"))
+            self.wfile.flush()
+
+        try:
+            send_event({**result, "model": generator.model})
+            with closing(generator.stream_answer(question, passages)) as stream:
+                for delta in stream:
+                    send_event({"delta": delta})
+        except IncompleteGenerationError:
+            try:
+                answer = generator.answer(question, passages, require_complete=True)
+            except GenerationError as error:
+                send_event({"generation_error": str(error), "done": True})
+            else:
+                send_event({"answer": answer, "done": True})
+        except GenerationError as error:
+            send_event({"generation_error": str(error), "done": True})
+        else:
+            send_event({"done": True})
+
 
 def main():
     parser = argparse.ArgumentParser(description="PTIT chatbot demo")
     parser.add_argument("--port", type=int, default=8000)
+    parser.add_argument("--keyword-only", action="store_true")
     args = parser.parse_args()
     index = KnowledgeBase(ROOT / "knowledge_base")
+    mode = "keyword"
+    vector_directory = ROOT / ".chroma"
+    if not args.keyword_only and (vector_directory / "chroma.sqlite3").is_file():
+        try:
+            from vector_search import HybridSearch, VectorSearch
+            vector = VectorSearch(vector_directory)
+        except (ImportError, OSError, ValueError) as error:
+            parser.error(f"Cannot open vector index: {error}. Try --keyword-only.")
+        index = HybridSearch(index, vector)
+        mode = "hybrid"
     try:
         generator = Gemini.from_config(ROOT / ".env")
     except ValueError as error:
@@ -92,7 +139,9 @@ def main():
     with ThreadingHTTPServer(("127.0.0.1", args.port), Handler) as server:
         server.index = index
         server.generator = generator
-        print(f"PTIT chatbot | {index.document_count} tai lieu | http://127.0.0.1:{server.server_port}", flush=True)
+        server.retrieval_mode = mode
+        print(f"PTIT chatbot | {index.document_count} tai lieu | {mode} | "
+              f"http://127.0.0.1:{server.server_port}", flush=True)
         try:
             server.serve_forever()
         except KeyboardInterrupt:

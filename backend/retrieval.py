@@ -88,8 +88,9 @@ class KnowledgeBase:
         self.mean_length = sum(self.lengths) / max(len(self.vectors), 1) or 1
 
     def search(self, question):
-        query = set(tokens(question))
         words = " ".join(re.findall(r"[a-z0-9]+", fold(question)))
+        words = re.sub(r"\blam roi the\b", "mat the", words)
+        query = set(tokens(words))
         expanded = {
             word for phrase, alternative in ALIASES
             if f" {phrase} " in f" {words} "

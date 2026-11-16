@@ -50,4 +50,19 @@ Backend và frontend có thư mục riêng, dùng chung một tiến trình và 
 - Mất thẻ sinh viên thì làm lại như thế nào?
 - Học phí học lại lớp riêng kỳ I môn INT1313 là bao nhiêu?
 
-Demo dùng truy xuất từ khóa có chuẩn hóa dấu tiếng Việt và trích đoạn từ tài liệu. Nó chạy cục bộ, không cần cài thư viện hoặc cấu hình API key. Khi bật Gemini, mô hình tổng hợp câu trả lời sau bước tìm theo từ khóa. Các câu hỏi về thông báo theo đợt nên kèm học kỳ và năm học.
+Chế độ truy xuất từ khóa có chuẩn hóa dấu tiếng Việt và trích đoạn từ tài liệu. Chế độ này chạy cục bộ và có thể trả trích đoạn khi chưa có API key Gemini. Các câu hỏi về thông báo theo đợt nên kèm học kỳ và năm học.
+
+
+## Thử truy xuất theo vector
+
+Tại thư mục dự án, chạy:
+
+~~~powershell
+python -m pip install -r backend/requirements-vector.txt
+python -X utf8 backend/build_vector_index.py --build
+python -X utf8 backend/build_vector_index.py --query "Em làm rơi thẻ, xin thẻ mới ở đâu?"
+~~~
+
+Lần đầu cần Internet để tải model embedding. Script lưu chỉ mục Chroma vào **.chroma/** và in ba kết quả gần nhất kèm nguồn. Chạy lại **--build** sau khi cập nhật kho Markdown. Khởi động lại server sau khi lập chỉ mục để bật truy xuất kết hợp. API ưu tiên tối đa hai đoạn theo từ khóa và bổ sung đoạn theo vector, tối đa ba mục. **GET /api/status** trả **retrieval: hybrid** khi kho vector đang được dùng. Dùng **--keyword-only** hoặc chạy khi chưa có kho Chroma để tra cứu từ khóa.
+
+Khi Gemini được bật, giao diện hiển thị câu trả lời theo từng phần. Client API có thể yêu cầu luồng NDJSON bằng header **Accept: application/x-ndjson**. Mặc định **POST /api/chat** trả JSON.
