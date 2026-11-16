@@ -56,7 +56,20 @@
       </div>
       <footer class="composer">
         <div class="content-width">
+          <div class="attachment-options" id="attachment-options" role="group" aria-label="Tệp cho câu hỏi tiếp theo" hidden>
+            <div id="attachment-name" class="attachment-name"></div>
+            <div class="attachment-actions">
+              <button id="reuse-file" type="button" aria-pressed="false">Dùng lại tệp</button>
+              <button id="replace-file" type="button">Tải tệp mới</button>
+              <button id="skip-file" type="button" aria-pressed="false">Không dùng tệp</button>
+            </div>
+          </div>
+          <div class="attachment-status" id="attachment-status" role="status"></div>
           <form id="chat-form">
+            <input id="upload-input" type="file" accept=".docx,.pdf,.md,.markdown,.xlsx,.xls" hidden>
+            <button class="upload" id="upload" type="button" aria-label="Tải tệp" title="Tải tệp DOCX, PDF, Markdown hoặc Excel (tối đa 10 MB)">
+              <svg aria-hidden="true" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m21 11.5-8.3 8.3a5.5 5.5 0 0 1-7.8-7.8l9-9a3.5 3.5 0 0 1 5 5l-9 9a1.5 1.5 0 0 1-2.1-2.1l8.3-8.3"/></svg>
+            </button>
             <label for="question" class="sr-only">Câu hỏi</label>
             <input id="question" name="question" placeholder="Nhập câu hỏi của bạn…" maxlength="500" autocomplete="off" required>
             <button class="send" id="send" type="submit" aria-label="Gửi câu hỏi">↑</button>

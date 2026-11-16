@@ -58,7 +58,7 @@ Chế độ truy xuất từ khóa có chuẩn hóa dấu tiếng Việt và tr�
 Tại thư mục dự án, chạy:
 
 ~~~powershell
-python -m pip install -r backend/requirements-vector.txt
+python -m pip install -r requirements.txt
 python -X utf8 backend/build_vector_index.py --build
 python -X utf8 backend/build_vector_index.py --query "Em làm rơi thẻ, xin thẻ mới ở đâu?"
 ~~~
@@ -66,3 +66,17 @@ python -X utf8 backend/build_vector_index.py --query "Em làm rơi thẻ, xin th
 Lần đầu cần Internet để tải model embedding. Script lưu chỉ mục Chroma vào **.chroma/** và in ba kết quả gần nhất kèm nguồn. Chạy lại **--build** sau khi cập nhật kho Markdown. Khởi động lại server sau khi lập chỉ mục để bật truy xuất kết hợp. API ưu tiên tối đa hai đoạn theo từ khóa và bổ sung đoạn theo vector, tối đa ba mục. **GET /api/status** trả **retrieval: hybrid** khi kho vector đang được dùng. Dùng **--keyword-only** hoặc chạy khi chưa có kho Chroma để tra cứu từ khóa.
 
 Khi Gemini được bật, giao diện hiển thị câu trả lời theo từng phần. Client API có thể yêu cầu luồng NDJSON bằng header **Accept: application/x-ndjson**. Mặc định **POST /api/chat** trả JSON.
+
+## Hỏi về tệp tải lên
+
+Cài thư viện đọc DOCX, PDF và Excel, sau đó khởi động lại máy chủ:
+
+~~~powershell
+python -m pip install -r requirements.txt
+~~~
+
+Bấm nút kẹp giấy cạnh ô câu hỏi để tải **.docx**, **.pdf**, **.md**, **.markdown**, **.xlsx** hoặc **.xls**. Mỗi tệp hỗ trợ tối đa 10 MB và 500.000 ký tự sau khi trích xuất. PDF cần có lớp văn bản. Markdown dùng mã hóa UTF-8. Với Excel, hệ thống đọc dữ liệu trong các trang tính, gồm giá trị công thức đã lưu nếu có.
+
+Tệp vừa tải tự được chọn cho câu hỏi đầu tiên. Với mỗi câu hỏi kế tiếp, chọn **Dùng lại tệp**, **Tải tệp mới** hoặc **Không dùng tệp**. Khi dùng tệp, hệ thống tìm các đoạn liên quan trong tệp và hiển thị nguồn theo mục, trang hoặc dòng dữ liệu. Khi không dùng tệp, hệ thống tra cứu kho PTIT. Nếu bật Gemini, câu hỏi và trích đoạn đã tìm được sẽ được gửi đến Gemini để tổng hợp câu trả lời.
+
+Chỉ mục tệp nằm trong bộ nhớ máy chủ và hết hạn sau hai giờ không dùng, khi khởi động lại máy chủ hoặc khi bộ nhớ tạm cần thay chỉ mục cũ. Cuộc trò chuyện mới bắt đầu với lựa chọn tệp trống.

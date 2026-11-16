@@ -11,7 +11,8 @@ from urllib.request import Request, urlopen
 
 DEFAULT_MODEL = "gemini-3.5-flash-lite"
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models"
-INSTRUCTION = """Bạn là trợ lý tra cứu cho sinh viên PTIT. Trả lời bằng tiếng Việt, ngắn gọn,
+INSTRUCTION = """Bạn là trợ lý tra cứu thông tin PTIT và các tài liệu người dùng tải lên.
+Trả lời bằng tiếng Việt, ngắn gọn,
 chỉ dựa trên các trích đoạn được cung cấp. Trích dẫn theo số [1], [2], [3] cho các
 thông tin lấy từ nguồn tương ứng. Giữ đúng khóa, cơ sở, học kỳ, năm học và đơn vị.
 Nếu câu hỏi thiếu phạm vi hoặc trích đoạn không đủ, nói rõ và yêu cầu bổ sung.

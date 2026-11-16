@@ -25,6 +25,8 @@ ALIASES = (
     ("do an", "tot nghiep"),
 )
 
+FILE_STOP_WORDS = STOP_WORDS | {"file", "tep", "lieu", "nay", "thong", "tin"}
+
 
 def fold(text):
     decomposed = unicodedata.normalize("NFD", text.lower().replace("đ", "d"))
@@ -45,14 +47,17 @@ class Passage:
 
 
 def load_document(path):
-    raw = path.read_text(encoding="utf-8-sig")
+    yield from markdown_passages(path.read_text(encoding="utf-8-sig"), path.stem)
+
+
+def markdown_passages(raw, default_title):
     frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n", raw, flags=re.S)
     metadata = frontmatter[1] if frontmatter else ""
     source = re.search(r'^source_url: "(https://[^"\s]+)"$', metadata, re.M)
     url = source[1] if source else ""
     body = raw[frontmatter.end():] if frontmatter else raw
     title_match = re.search(r"^# (.+)$", body, re.M)
-    title = title_match[1] if title_match else path.stem
+    title = title_match[1] if title_match else default_title
     sections = re.split(r"^#{2,6} (.+)$", body, flags=re.M)
     content = [(title, re.sub(r"^# .+\n?", "", sections[0], flags=re.M))]
     content.extend(zip(sections[1::2], sections[2::2]))
@@ -71,17 +76,18 @@ def load_document(path):
             yield Passage(title, section, table, url)
 
 
-class KnowledgeBase:
-    def __init__(self, directory: Path):
-        paths = sorted(directory.glob("*.md"))
-        self.document_count = len(paths)
-        self.passages = [passage for path in paths for passage in load_document(path)]
+class KeywordIndex:
+    def __init__(self, passages, *, ptit=False):
+        self.passages = list(passages)
+        self.ptit = ptit
         self.vectors = []
         self.frequency = Counter()
+        tokenize = tokens if ptit else file_tokens
         for passage in self.passages:
-            vector = Counter(tokens(passage.text))
-            vector.update(tokens(passage.title))
-            vector.update(tokens(passage.section) * 2)
+            vector = Counter(tokenize(passage.text))
+            if ptit:
+                vector.update(tokens(passage.title))
+            vector.update(tokenize(passage.section) * 2)
             self.vectors.append(vector)
             self.frequency.update(vector.keys())
         self.lengths = [sum(vector.values()) for vector in self.vectors]
@@ -89,11 +95,13 @@ class KnowledgeBase:
 
     def search(self, question):
         words = " ".join(re.findall(r"[a-z0-9]+", fold(question)))
-        words = re.sub(r"\blam roi the\b", "mat the", words)
-        query = set(tokens(words))
+        if self.ptit:
+            words = re.sub(r"\blam roi the\b", "mat the", words)
+        # Keep single-digit identifiers and amounts when searching private files.
+        query = set(tokens(words) if self.ptit else file_tokens(question))
         expanded = {
             word for phrase, alternative in ALIASES
-            if f" {phrase} " in f" {words} "
+            if self.ptit and f" {phrase} " in f" {words} "
             for word in tokens(alternative)
         }
         weights = {word: 0.45 for word in expanded - query}
@@ -105,33 +113,17 @@ class KnowledgeBase:
         ranked = []
         for passage, vector, length in zip(self.passages, self.vectors, self.lengths):
             hits = query.intersection(vector)
-            if len(hits) < min(2, len(query)) or not hits:
+            if len(hits) < (min(2, len(query)) if self.ptit else 1) or not hits:
                 continue
             normalizer = 1.4 * (0.35 + 0.65 * length / self.mean_length)
             score = sum(weights[word] * idf[word] * (2.4 * vector[word])
                         / (vector[word] + normalizer)
                         for word in idf.keys() & vector.keys())
-            # Prefer literal document headings and exact course codes.
-            scope = fold(f"{passage.title} {passage.section}")
-            section = fold(passage.section)
-            if any(phrase in words for phrase in ("khi nao", "thoi han", "han nop",
-                                                  "han dang ky", "lich dang ky")):
-                if any(phrase in section for phrase in ("lich", "thoi gian", "han nop")):
-                    score += 4.0
-            for phrase in ("so tin chi", "cap lai the", "lop rieng", "lop ghep",
-                           "chat luong cao", "dinh huong ung dung", "hoc vuot", "ky phu"):
-                if phrase in words and phrase in scope:
-                    score += 1.8
-            if "bao nhieu tin chi" in words and "so tin chi" in scope:
-                score += 9.0
-            if "mat the" in words and "cap lai the" in scope:
-                score += 1.8
-            if any(any(c.isdigit() for c in word) and any(c.isalpha() for c in word)
-                   and word in vector for word in query):
-                score += 4.0
+            if self.ptit:
+                score += ptit_boost(passage, words, hits)
             ranked.append((score, passage))
         ranked.sort(key=lambda candidate: candidate[0], reverse=True)
-        if not ranked or ranked[0][0] < 2.4:
+        if not ranked or (self.ptit and ranked[0][0] < 2.4):
             return []
 
         results = []
@@ -145,3 +137,36 @@ class KnowledgeBase:
             if len(results) == 3:
                 break
         return results
+
+
+def file_tokens(text):
+    return [word for word in re.findall(r"[^\W_]+", fold(text))
+            if word not in FILE_STOP_WORDS and (len(word) > 1 or word.isdigit())]
+
+
+def ptit_boost(passage, words, hits):
+    scope = fold(f"{passage.title} {passage.section}")
+    section = fold(passage.section)
+    score = 0.0
+    if any(phrase in words for phrase in ("khi nao", "thoi han", "han nop",
+                                          "han dang ky", "lich dang ky")):
+        if any(phrase in section for phrase in ("lich", "thoi gian", "han nop")):
+            score += 4.0
+    for phrase in ("so tin chi", "cap lai the", "lop rieng", "lop ghep",
+                   "chat luong cao", "dinh huong ung dung", "hoc vuot", "ky phu"):
+        if phrase in words and phrase in scope:
+            score += 1.8
+    if "bao nhieu tin chi" in words and "so tin chi" in scope:
+        score += 9.0
+    if "mat the" in words and "cap lai the" in scope:
+        score += 1.8
+    if any(any(c.isdigit() for c in word) and any(c.isalpha() for c in word) for word in hits):
+        score += 4.0
+    return score
+
+
+class KnowledgeBase(KeywordIndex):
+    def __init__(self, directory: Path):
+        paths = sorted(directory.glob("*.md"))
+        self.document_count = len(paths)
+        super().__init__((passage for path in paths for passage in load_document(path)), ptit=True)

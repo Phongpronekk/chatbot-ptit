@@ -3,6 +3,14 @@
 const form = document.querySelector("#chat-form");
 const input = document.querySelector("#question");
 const send = document.querySelector("#send");
+const fileInput = document.querySelector("#upload-input");
+const upload = document.querySelector("#upload");
+const attachmentOptions = document.querySelector("#attachment-options");
+const attachmentName = document.querySelector("#attachment-name");
+const attachmentStatus = document.querySelector("#attachment-status");
+const reuseFile = document.querySelector("#reuse-file");
+const replaceFile = document.querySelector("#replace-file");
+const skipFile = document.querySelector("#skip-file");
 const status = document.querySelector("#status");
 const viewport = document.querySelector("#viewport");
 const welcome = document.querySelector("#welcome");
@@ -10,12 +18,67 @@ const messages = document.querySelector("#messages");
 const history = document.querySelector("#history");
 const recent = [];
 let pending = false;
+let uploading = false;
+let latestFile = null;
+let fileChoice = null;
 
 function element(tag, text, className) {
   const node = document.createElement(tag);
   if (text) node.textContent = text;
   if (className) node.className = className;
   return node;
+}
+
+function updateComposer() {
+  const busy = pending || uploading;
+  for (const button of [send, upload, reuseFile, replaceFile, skipFile]) button.disabled = busy;
+  attachmentOptions.hidden = latestFile === null;
+  attachmentName.textContent = latestFile?.name ?? "";
+  attachmentName.title = attachmentName.textContent;
+  reuseFile.setAttribute("aria-pressed", String(latestFile !== null && fileChoice === "use"));
+  skipFile.setAttribute("aria-pressed", String(fileChoice === "skip"));
+}
+
+function chooseFile(choice) {
+  fileChoice = choice;
+  attachmentStatus.textContent = "";
+  updateComposer();
+  input.focus();
+}
+
+async function uploadFile(file) {
+  if (!file || pending || uploading) return;
+  if (file.size === 0 || file.size > 10 * 1024 * 1024) {
+    attachmentStatus.textContent = "Tệp phải có nội dung và dung lượng không quá 10 MB.";
+    return;
+  }
+  uploading = true;
+  attachmentStatus.textContent = "Đang đọc và lập chỉ mục tệp…";
+  updateComposer();
+  try {
+    const response = await fetch("/api/uploads", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/octet-stream",
+        "X-Upload-Name": encodeURIComponent(file.name),
+      },
+      body: file,
+    });
+    const result = await response.json();
+    if (!response.ok) {
+      attachmentStatus.textContent = result.error || "Không tải được tệp. Hãy thử lại.";
+      return;
+    }
+    latestFile = result;
+    fileChoice = "use";
+    attachmentStatus.textContent = "Tệp đã sẵn sàng cho câu hỏi tiếp theo.";
+    input.focus();
+  } catch {
+    attachmentStatus.textContent = "Không tải được tệp. Kiểm tra kết nối máy chủ rồi thử lại.";
+  } finally {
+    uploading = false;
+    updateComposer();
+  }
 }
 
 function sourceLink(label, url) {
@@ -77,24 +140,28 @@ function renderExcerpt(parent, text) {
   }
 }
 
-function renderAnswer(target, { passages, answer, model, generation_error: generationError }) {
+function renderAnswer(target, { passages, answer, model, document: filename, generation_error: generationError }) {
   const heading = element("strong", "PTIT Chat");
   target.replaceChildren(heading);
   if (!passages.length) {
-    target.append(element("p", "Chưa tìm thấy đoạn phù hợp. Hãy thử tên học phần, mã môn hoặc thêm học kỳ và năm học."));
+    target.append(element("p", filename
+      ? "Chưa tìm thấy đoạn phù hợp trong " + filename + ". Hãy thử cụm từ hoặc tên mục có trong tệp."
+      : "Chưa tìm thấy đoạn phù hợp. Hãy thử tên học phần, mã môn hoặc thêm học kỳ và năm học."));
     return;
   }
   if (answer) {
     renderExcerpt(target, answer);
-    target.append(element("p", "Tài liệu đã dùng · " + model));
+//    target.append(element("p", "Tài liệu đã dùng · " + model));
   } else {
-    target.append(element("p", "Mình tìm được các đoạn sau trong kho tài liệu."));
+    target.append(element("p", filename
+      ? "Mình tìm được các đoạn sau trong " + filename + "."
+      : "Mình tìm được các đoạn sau trong kho tài liệu."));
   }
   if (generationError) target.append(element("p", generationError));
   passages.forEach(({ title, section, text, url }, index) => {
     const details = element("details", "", "source-card");
     details.open = !answer && index === 0;
-    details.append(element("summary", "[" + (index + 1) + "] " + section));
+    details.append(element("summary", "[" + (index + 1) + "] " + (filename ? title + " · " : "") + section));
     renderExcerpt(details, text);
     if (/^https:\/\//.test(url)) details.append(sourceLink(title + " ↗", url));
     target.append(details);
@@ -121,7 +188,12 @@ function addHistory(question) {
 async function readAnswer(response, target) {
   if (!response.headers.get("Content-Type")?.startsWith("application/x-ndjson")) {
     const result = await response.json();
-    if (!response.ok) throw new Error(result.error || "Tra cứu thất bại.");
+    if (!response.ok) {
+      throw Object.assign(new Error("Tra cứu thất bại"), {
+        code: result.code,
+        userMessage: result.error,
+      });
+    }
     return result;
   }
 
@@ -158,44 +230,76 @@ async function readAnswer(response, target) {
 
 async function ask(value) {
   const question = value.trim();
-  if (!question || pending) return;
+  if (!question || pending || uploading) return;
+  if (latestFile && fileChoice === null) {
+    input.value = question;
+    attachmentStatus.textContent = "Chọn cách dùng tệp cho câu hỏi này.";
+    reuseFile.focus();
+    return;
+  }
+  const attachedFile = fileChoice === "use" ? latestFile : null;
   pending = true;
-  send.disabled = true;
+  fileChoice = null;
+  attachmentStatus.textContent = "";
+  updateComposer();
   input.value = "";
   addHistory(question);
   welcome.hidden = true;
   messages.hidden = false;
-  const reply = element("article", "Đang tìm trong kho tài liệu…", "message answer");
-  messages.append(element("div", question, "message user-message"), reply);
+  const userMessage = element("div", question, "message user-message");
+  if (attachedFile) userMessage.append(element("span", attachedFile.name, "message-attachment"));
+  const reply = element("article", attachedFile
+    ? "Đang tìm trong " + attachedFile.name + "…"
+    : "Đang tìm trong kho tài liệu…", "message answer");
+  messages.append(userMessage, reply);
   viewport.scrollTop = viewport.scrollHeight;
   try {
     const response = await fetch("/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json", "Accept": "application/x-ndjson" },
-      body: JSON.stringify({ question }),
+      body: JSON.stringify({ question, upload_id: attachedFile?.upload_id }),
     });
     renderAnswer(reply, await readAnswer(response, reply));
   } catch (error) {
-    reply.textContent = "Không thể tra cứu lúc này. Kiểm tra máy chủ Python rồi gửi lại câu hỏi.";
+    if (error.code === "upload_unavailable") {
+      latestFile = null;
+      if (!input.value) input.value = question;
+      input.focus();
+    }
+    reply.textContent = error.userMessage
+      || "Không thể tra cứu lúc này. Kiểm tra máy chủ Python rồi gửi lại câu hỏi.";
   } finally {
-    send.disabled = false;
     pending = false;
+    updateComposer();
     reply.scrollIntoView({ block: "start" });
   }
 }
 
 function newChat() {
-  if (pending) return;
+  if (pending || uploading) return;
   messages.replaceChildren();
   messages.hidden = true;
   welcome.hidden = false;
   input.value = "";
+  latestFile = null;
+  fileChoice = null;
+  attachmentStatus.textContent = "";
+  updateComposer();
   input.focus();
 }
 
 form.addEventListener("submit", event => {
   event.preventDefault();
   ask(input.value);
+});
+upload.addEventListener("click", () => fileInput.click());
+replaceFile.addEventListener("click", () => fileInput.click());
+reuseFile.addEventListener("click", () => chooseFile("use"));
+skipFile.addEventListener("click", () => chooseFile("skip"));
+fileInput.addEventListener("change", () => {
+  const [file] = fileInput.files;
+  fileInput.value = "";
+  uploadFile(file);
 });
 document.addEventListener("click", event => {
   const button = event.target.closest("button[data-question]");

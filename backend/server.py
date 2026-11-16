@@ -7,10 +7,11 @@ from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import json
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import unquote, urlsplit
 
 from gemini import Gemini, GenerationError, IncompleteGenerationError
 from retrieval import KnowledgeBase
+from uploads import MAX_UPLOAD_BYTES, UploadError, UploadStore, index_upload
 
 ROOT = Path(__file__).resolve().parent.parent
 FRONTEND = ROOT / "frontend"
@@ -28,6 +29,8 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header("Content-Type", content_type)
         self.send_header("Content-Length", str(len(data)))
         self.send_header("X-Content-Type-Options", "nosniff")
+        if content_type.startswith("application/json"):
+            self.send_header("Cache-Control", "no-store")
         self.end_headers()
         self.wfile.write(data)
 
@@ -52,9 +55,44 @@ class Handler(BaseHTTPRequestHandler):
         self.send_json(HTTPStatus.NOT_FOUND, {"error": "Không tìm thấy địa chỉ."})
 
     def do_POST(self):
-        if urlsplit(self.path).path != "/api/chat":
+        path = urlsplit(self.path).path
+        if path == "/api/uploads":
+            self.upload_document()
+        elif path == "/api/chat":
+            self.chat()
+        else:
             self.send_json(HTTPStatus.NOT_FOUND, {"error": "Không tìm thấy địa chỉ."})
+
+    def upload_document(self):
+        if self.headers.get_content_type() != "application/octet-stream":
+            self.send_json(HTTPStatus.UNSUPPORTED_MEDIA_TYPE, {"error": "Cần gửi nội dung tệp."})
             return
+        try:
+            size = int(self.headers.get("Content-Length", "0"))
+        except ValueError:
+            size = 0
+        if size > MAX_UPLOAD_BYTES:
+            self.send_json(HTTPStatus.REQUEST_ENTITY_TOO_LARGE, {"error": "Tệp vượt quá 10 MB."})
+            return
+        if size <= 0:
+            self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Tệp chưa có nội dung."})
+            return
+        try:
+            name = unquote(self.headers.get("X-Upload-Name", ""), errors="strict")
+            data = self.rfile.read(size)
+            if len(data) != size:
+                raise UploadError("Chưa nhận đủ dữ liệu của tệp. Hãy tải lại.")
+            document = index_upload(name, data)
+        except UnicodeError:
+            self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Tên tệp không hợp lệ."})
+            return
+        except UploadError as error:
+            self.send_json(HTTPStatus.UNPROCESSABLE_ENTITY, {"error": str(error)})
+            return
+        upload_id = self.server.uploads.add(document)
+        self.send_json(HTTPStatus.CREATED, {"upload_id": upload_id, "name": document.name})
+
+    def chat(self):
         if self.headers.get_content_type() != "application/json":
             self.send_json(HTTPStatus.UNSUPPORTED_MEDIA_TYPE, {"error": "Cần gửi dữ liệu JSON."})
             return
@@ -69,9 +107,23 @@ class Handler(BaseHTTPRequestHandler):
         except (ValueError, UnicodeError):
             self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Nhập câu hỏi từ 1 đến 500 ký tự."})
             return
+        upload_id = payload.get("upload_id")
+        if upload_id is not None and (not isinstance(upload_id, str) or len(upload_id) != 32):
+            self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Mã tệp không hợp lệ."})
+            return
+        document = self.server.uploads.get(upload_id) if upload_id is not None else None
+        if upload_id is not None and document is None:
+            self.send_json(HTTPStatus.NOT_FOUND, {
+                "error": "Tệp không còn sẵn sàng. Hãy tải lại tệp hoặc chọn không dùng tệp.",
+                "code": "upload_unavailable",
+            })
+            return
         question = question.strip()
-        passages = self.server.index.search(question)
+        index = document if document is not None else self.server.index
+        passages = index.search(question)
         result = {"passages": [asdict(passage) for passage in passages]}
+        if document is not None:
+            result["document"] = document.name
         generator = self.server.generator
         if generator and passages and self.headers.get("Accept") == "application/x-ndjson":
             with suppress(ConnectionError):
@@ -138,6 +190,7 @@ def main():
         parser.error(str(error))
     with ThreadingHTTPServer(("127.0.0.1", args.port), Handler) as server:
         server.index = index
+        server.uploads = UploadStore()
         server.generator = generator
         server.retrieval_mode = mode
         print(f"PTIT chatbot | {index.document_count} tai lieu | {mode} | "
