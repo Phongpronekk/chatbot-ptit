@@ -30,3 +30,9 @@ Sinh viên có hoàn cảnh khó khăn hoặc trường hợp đặc biệt có 
 Phương thức thu của đợt này là chuyển khoản qua mã QR động trên PTIT SLink. Sinh viên có thắc mắc về công nợ học phí liên hệ Phòng Tài chính Kế toán theo số **024.331.13166** ghi trong thông báo.
 
 [PDF gốc của PTIT](https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/10/TB-thu-HP-hoc-lai-lop-ghep-ky-I-nam-25-26.pdf) · [PTIT SLink](https://slink.ptit.edu.vn)
+
+## Mẫu đơn xin hoãn hoặc chậm nộp học phí (Phụ lục 1, trang PDF 3)
+
+Mẫu M.32b/GDMC gửi Học viện và Phòng Tài chính Kế toán. Đơn ghi thông tin sinh viên, lớp, khóa, mã sinh viên, địa chỉ, kỳ và năm học, số tiền, lý do, giấy tờ kèm theo, thời gian xin hoãn và ngày cam kết nộp. Mẫu có phần xác nhận của chính quyền địa phương, ý kiến gia đình và chữ ký người làm đơn.
+
+Ghi chú trong mẫu yêu cầu lập **2 bản**, gửi bộ phận thu học phí trong **15 ngày kể từ khi bắt đầu kỳ học**. Phòng Tài chính Kế toán xác nhận và trả lại 1 bản để theo dõi. Đây là mẫu đính kèm thông báo kỳ I 2025–2026, nên tra thông báo của đúng đợt để xác nhận thủ tục tương ứng.

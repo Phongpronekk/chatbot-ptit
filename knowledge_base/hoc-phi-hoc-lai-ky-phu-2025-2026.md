@@ -2,7 +2,7 @@
 document_id: "ptit-hoc-phi-hoc-lai-ky-phu-2025-2026"
 source_url: "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/07/TB-THU-HOC-LAI-KY-PHU-NAM-25-26.pdf"
 issued_date: "2026-07-16"
-coverage: "summary_and_selected_fee_rows"
+coverage: "summary_and_all_fee_codes_selected_columns"
 ---
 
 # Học phí học lại kỳ phụ hè năm học 2025–2026
@@ -111,3 +111,101 @@ Bảng giữ các dòng mã INT và một số học phần nền tảng, cùng 
 | SKD1108 | Phương pháp luận nghiên cứu khoa học | 1,3 | 1.482.000 | — |
 
 [Nguồn PTIT](https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2026/07/TB-THU-HOC-LAI-KY-PHU-NAM-25-26.pdf)
+
+## Các dòng còn lại của bảng mức thu trong Phụ lục 1
+
+Đối chiếu với các bảng ở trên để xem toàn bộ mã môn theo phụ lục. Các bảng giữ hai cột ngành kỹ thuật và CNTT CLC (cột nguồn gộp CNTT, ATTT CLC). Dấu “—” biểu thị ô trống trong nguồn.
+
+### Dòng bổ sung ở trang PDF 3
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT, ATTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| BAS1210 | Lý thuyết xác suất và thống kê | 1 | 1.140.000 | — |
+| BAS1219 | Toán cao cấp 1 | 1,3 | 1.482.000 | — |
+| BAS1220 | Toán cao cấp 2 | 1,3 | 1.482.000 | — |
+| BAS1221 | Toán kỹ thuật | 1,5 | 1.710.000 | — |
+| BAS1224 | Vật lý 1 và thí nghiệm | 1 | 1.140.000 | — |
+| BAS1224_CLC | Vật lý 1 và thí nghiệm | 1,3 | — | 2.210.000 |
+| BAS1225 | Vật lý 2 và thí nghiệm | 1,5 | 1.710.000 | — |
+| BAS1226 | Xác suất thống kê | 1 | 1.140.000 | — |
+| BAS1266 | Lý thuyết xác suất | 1,1 | 1.254.000 | — |
+| BAS1267_CLC | Toán cao cấp cho kinh tế | 1,3 | — | 2.210.000 |
+
+### Dòng bổ sung ở trang PDF 4
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT, ATTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| BSA1221 | Pháp luật đại cương | 1,1 | 1.254.000 | — |
+| BSA1309_CLC | Kinh tế lượng | 1,5 | — | 2.550.000 |
+| BSA1310 | Kinh tế vi mô 1 | 1 | 1.140.000 | — |
+| BSA1314 | Luật kinh doanh | 1 | 1.140.000 | — |
+| BSA1325 | Quản trị chiến lược | 1,5 | 1.710.000 | — |
+| BSA1328 | Quản trị học | 1,3 | 1.482.000 | — |
+| BSA1333 | Quản trị sản xuất | 1,3 | 1.482.000 | — |
+| BSA1348 | Nguyên lý thống kê kinh tế | 1,1 | 1.254.000 | — |
+| BSA1351 | Logistics căn bản | 1,3 | 1.482.000 | — |
+| DAE1301 | Nhập môn Kỹ thuật dữ liệu | 1,5 | 1.710.000 | — |
+| ELE1304 | Cơ sở điều khiển tự động | 1,5 | 1.710.000 | — |
+| ELE1308 | Điện tử công suất | 1,5 | 1.710.000 | — |
+| ELE1310 | Điện tử tương tự | 1,5 | 1.710.000 | — |
+| ELE13100 | Cấu kiện điện tử | 1 | 1.140.000 | — |
+| ELE13101 | Xử lý tín hiệu số | 1 | 1.140.000 | — |
+| ELE13105 | Linh kiện và mạch điện tử | 1 | 1.140.000 | — |
+| ELE1317 | Kỹ thuật vi xử lý | 1,1 | 1.254.000 | — |
+| ELE1318 | Lý thuyết mạch | 1,5 | 1.710.000 | — |
+| ELE1320 | Lý thuyết trường điện từ và siêu cao tần | 1,3 | 1.482.000 | — |
+| ELE1330 | Xử lý tín hiệu số | 1,1 | 1.254.000 | — |
+| ELE1342 | Mạch điện | 1,5 | 1.710.000 | — |
+| ELE1386 | Nhập môn kỹ thuật điện tử | 1,5 | 1.710.000 | — |
+| ELE1406 | Cơ sở mật mã học | 1,5 | 1.710.000 | — |
+| ELE14102 | Mạng cảm biến | 1,5 | 1.710.000 | — |
+| ELE1415 | Hệ thống nhúng | 1,3 | 1.482.000 | — |
+| ELE1426 | Thiết kế logic số | 1,5 | 1.710.000 | — |
+| ELE1433 | Kỹ thuật số | 1 | 1.140.000 | — |
+| FIA1324 | Quản trị tài chính doanh nghiệp | 1,1 | 1.254.000 | — |
+
+### Dòng bổ sung ở trang PDF 5
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT, ATTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| FIA1325 | Tài chính doanh nghiệp | 1,5 | 1.710.000 | — |
+| FIA1326 | Tài chính tiền tệ | 1,5 | 1.710.000 | — |
+| FIA1374 | Xuất nhập khẩu và thanh toán quốc tế | 1,3 | 1.482.000 | — |
+| FIA1389 | Kế toán cho kinh doanh | 1,3 | 1.482.000 | — |
+| FIA1440 | Định giá doanh nghiệp | 1,5 | 1.710.000 | — |
+
+### Dòng bổ sung ở trang PDF 6
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT, ATTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| MUL13122 | Kỹ thuật nhiếp ảnh | 1,5 | 1.710.000 | — |
+| MUL13124 | Dựng audio video phi tuyến | 1,5 | 1.710.000 | — |
+| MUL13152 | Thiết kế web cơ bản | 1,5 | 1.710.000 | — |
+| MUL14134 | Thiết kế hình động 1 | 1,5 | 1.710.000 | — |
+| MUL14140 | Thiết kế hình động 2 | 1,5 | 1.710.000 | — |
+| MUL14141 | Đồ án thiết kế sản phẩm đa phương tiện | 1,5 | 1.710.000 | — |
+| MUL1482 | Thực hành chuyên sâu | 1,5 | 1.710.000 | — |
+| OTC1301 | Thực hành cơ sở | 1,3 | 1.482.000 | — |
+| TEL1337 | Toán rời rạc | 1,1 | 1.254.000 | — |
+| TEL1340 | Kỹ thuật lập trình | 1,1 | 1.254.000 | — |
+| TEL1342 | Cấu trúc dữ liệu và giải thuật | 1,1 | 1.254.000 | — |
+| TEL1343 | Cơ sở dữ liệu | 1,5 | 1.710.000 | — |
+| TEL1344 | Lý thuyết truyền tin | 1,3 | 1.482.000 | — |
+| TEL1345 | Kỹ thuật siêu cao tần | 1 | 1.140.000 | — |
+| TEL1368 | Tín hiệu và hệ thống | 1,1 | 1.254.000 | — |
+| TEL1401 | An toàn mạng thông tin | 1,5 | 1.710.000 | — |
+| TEL1405 | Kỹ thuật mạng truyền thông | 1 | 1.140.000 | — |
+| TEL1406 | Kỹ thuật thông tin quang | 1,3 | 1.482.000 | — |
+| TEL1407 | Kỹ thuật thông tin vô tuyến | 1 | 1.140.000 | — |
+| TEL1412 | Mô phỏng hệ thống truyền thông | 1,5 | 1.710.000 | — |
+| TEL1415 | Thông tin di động | 1 | 1.140.000 | — |
+| TEL1421 | Truyền sóng và anten | 1,3 | 1.482.000 | — |
+
+### Dòng bổ sung ở trang PDF 7
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT, ATTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| TEL1432 | Thông tin vệ tinh | 1,5 | 1.710.000 | — |
+| TEL1448 | Lập trình hướng đối tượng | 1 | 1.140.000 | — |
+| TEL1458 | Mạng cảm biến không dây | 1,5 | 1.710.000 | — |
+| TEL1469 | Internet và các giao thức | 1,5 | 1.710.000 | — |

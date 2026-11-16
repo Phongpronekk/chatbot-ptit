@@ -2,7 +2,7 @@
 document_id: "ptit-hoc-phi-lop-ghep-dot-2-lop-rieng-ky-1-2025-2026"
 source_url: "https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/11/TB-Hoc-lai-lop-rieng-ky-1-nam-hoc-25-26-hoc-phi-hoc-lai-lop-ghep-dot-2.pdf"
 issued_date: "2025-11-14"
-coverage: "summary_and_selected_fee_rows"
+coverage: "summary_and_all_fee_codes_selected_columns"
 ---
 
 # Học phí kỳ I 2025–2026 đợt 2 và học lại lớp riêng
@@ -75,3 +75,63 @@ Bảng dưới đây giữ các dòng mã INT và một số học phần nền 
 | INT1499M | Chuyên đề an toàn phần mềm | 1,5 | 1.710.000 | 2.550.000 |
 
 [Nguồn PTIT](https://giaovu.ptit.edu.vn/wp-content/uploads/sites/13/2025/11/TB-Hoc-lai-lop-rieng-ky-1-nam-hoc-25-26-hoc-phi-hoc-lai-lop-ghep-dot-2.pdf)
+
+## Các dòng còn lại của bảng mức thu trong Phụ lục 1
+
+Đối chiếu với các bảng ở trên để xem toàn bộ mã môn theo phụ lục. Các bảng giữ hai cột ngành kỹ thuật và CNTT CLC. Dấu “—” biểu thị ô trống trong nguồn.
+
+### Dòng bổ sung ở trang PDF 3
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| BAS1220 | Toán cao cấp 2 | 1,3 | 1.482.000 | 2.210.000 |
+| BAS1221 | Toán kỹ thuật | 1,5 | 1.710.000 | 2.550.000 |
+| BAS1224 | Vật lý 1 và thí nghiệm | 1,1 | 1.254.000 | 1.870.000 |
+| BAS1225 | Vật lý 2 và thí nghiệm | 1,5 | 1.710.000 | 2.550.000 |
+| BAS1226 | Xác suất thống kê | 1,1 | 1.254.000 | 1.870.000 |
+| BAS1227 | Vật lý 3 và thí nghiệm | 1,5 | 1.710.000 | 2.550.000 |
+| BSA1221 | Pháp luật đại cương | 1,3 | 1.482.000 | 2.210.000 |
+| ELE1304 | Cơ sở điều khiển tự động | 1,3 | 1.482.000 | 2.210.000 |
+| ELE1310 | Điện tử tương tự | 1,3 | 1.482.000 | 2.210.000 |
+| ELE13101 | Xử lý tín hiệu số | 1,3 | 1.482.000 | 2.210.000 |
+| ELE13105 | Linh kiện và mạch điện tử | 1,5 | 1.710.000 | 2.550.000 |
+| ELE1317 | Kỹ thuật vi xử lý | 1,3 | 1.482.000 | 2.210.000 |
+| ELE1318 | Lý thuyết mạch | 1,5 | 1.710.000 | 2.550.000 |
+| ELE1320 | Lý thuyết trường điện từ và siêu cao tần | 1,5 | 1.710.000 | 2.550.000 |
+| ELE1414 | Đồ án xử lý tín hiệu số | 1,5 | 1.710.000 | 2.550.000 |
+| ELE1415 | Hệ thống nhúng | 1,3 | 1.482.000 | 2.210.000 |
+| ELE1423 | Thiết kế hệ thống VLSI | 1,3 | 1.482.000 | 2.210.000 |
+| ELE1428 | Truyền thông số | 1,5 | 1.710.000 | 2.550.000 |
+| ELE1433 | Kỹ thuật số | 1,3 | 1.482.000 | 2.210.000 |
+
+### Dòng bổ sung ở trang PDF 4
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| MUL14146 | Kỹ thuật lập trình ứng dụng đa phương tiện | 1,5 | 1.710.000 | 2.550.000 |
+| MUL1484 | Thiết kế và tổ chức sản xuất sản phẩm đa phương tiện | 1,5 | 1.710.000 | 2.550.000 |
+| MUL1485 | Thiết kế đồ họa nâng cao | 1,5 | 1.710.000 | 2.550.000 |
+| MUL1486 | Thiết kế hoạt hình nâng cao | 1,5 | 1.710.000 | 2.550.000 |
+| OTC1301 | Thực hành cơ sở | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1337 | Toán rời rạc | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1340 | Kỹ thuật lập trình | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1342 | Cấu trúc dữ liệu và giải thuật | 1 | 1.140.000 | 1.700.000 |
+| TEL1344 | Lý thuyết truyền tin | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1345 | Kỹ thuật siêu cao tần | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1368 | Tín hiệu và hệ thống | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1405 | Kỹ thuật mạng truyền thông | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1406 | Kỹ thuật thông tin quang | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1407 | Kỹ thuật thông tin vô tuyến | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1412 | Mô phỏng hệ thống truyền thông | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1415 | Thông tin di động | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1432 | Thông tin vệ tinh | 1,5 | 1.710.000 | 2.550.000 |
+
+### Dòng bổ sung ở trang PDF 5
+
+| Mã môn | Học phần | Hệ số | Ngành kỹ thuật (đồng) | CNTT CLC (đồng) |
+| --- | --- | ---: | ---: | ---: |
+| TEL1447 | Điện toán đám mây | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1448 | Lập trình hướng đối tượng | 1 | 1.140.000 | 1.700.000 |
+| TEL1458 | Mạng cảm biến không dây | 1,5 | 1.710.000 | 2.550.000 |
+| TEL1462 | Kỹ thuật thu phát vô tuyến | 1,3 | 1.482.000 | 2.210.000 |
+| TEL1465 | Quy hoạch và tối ưu mạng di động | 1,5 | 1.710.000 | 2.550.000 |

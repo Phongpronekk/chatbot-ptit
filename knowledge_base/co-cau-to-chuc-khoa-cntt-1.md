@@ -17,3 +17,9 @@ Khoa CNTT 1 có ba bộ môn **Công nghệ phần mềm**, **Hệ thống thôn
 | Phó trưởng khoa phụ trách nghiên cứu, hợp tác và phong trào sinh viên | PGS.TS. Nguyễn Trọng Khánh |
 
 [Nguồn PTIT](https://it.ptit.edu.vn/gioi-thieu/co-cau-to-chuc/)
+
+## Đối chiếu thông tin lãnh đạo
+
+Trang cơ cấu và trang đội ngũ giảng viên chưa đồng nhất về chức danh Trưởng Khoa. Trang cơ cấu ghi TS. Nguyễn Duy Phương, còn trang đội ngũ ghi PGS.TS. Phạm Văn Cường và ghi TS. Nguyễn Duy Phương là nguyên Trưởng Khoa. Khi cần xác nhận người đang giữ chức vụ, liên hệ Văn phòng Khoa.
+
+[Danh bạ Khoa CNTT 1](https://it.ptit.edu.vn/doi-ngu-giang-vien/)
