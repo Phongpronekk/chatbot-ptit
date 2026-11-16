@@ -168,7 +168,17 @@ class UploadedDocument:
         self.name = name
         self.index = KeywordIndex(passages)
 
-    def search(self, question):
+    def search(self, question, *, required_phrase=None):
+        if required_phrase:
+            words = list(map(re.escape, fold(required_phrase).split()))
+            if PurePath(self.name).suffix.lower() in {".xls", ".xlsx"}:
+                # Excel may store the family and given names in separate cells.
+                phrase = r"(?:[^\S\r\n]+|[^\S\r\n]*\|[^\S\r\n]*)".join(words)
+                exact = re.compile(rf"(?:^dong \d+:|\|)[^\S\r\n]*{phrase}[^\S\r\n]*(?=\||$)", re.M)
+            else:
+                phrase = r"[^\S\r\n]+".join(words)
+                exact = re.compile(rf"(?<!\w){phrase}(?!\w)")
+            return self.index.search(question, required_match=lambda text: exact.search(fold(text)))
         # A general summary may have no keywords in common with the document.
         text = " ".join(fold(question).split()).rstrip(" ?!.")
         subject = r"(?:tai lieu|tep|file)(?: nay)?"

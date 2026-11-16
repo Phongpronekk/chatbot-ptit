@@ -67,6 +67,12 @@ Lần đầu cần Internet để tải model embedding. Script lưu chỉ mục
 
 Khi Gemini được bật, giao diện hiển thị câu trả lời theo từng phần. Client API có thể yêu cầu luồng NDJSON bằng header **Accept: application/x-ndjson**. Mặc định **POST /api/chat** trả JSON.
 
+## Hỏi tiếp theo ngữ cảnh
+
+Bạn có thể hỏi “CNTT khóa 2025 có bao nhiêu tín chỉ?” rồi hỏi “Thế khóa 2024 thì sao?”. Khi nhận diện câu hỏi tiếp nối, máy chủ gửi tối đa ba lượt gần nhất và câu hỏi hiện tại cho Gemini để viết lại trước khi truy xuất RAG. Khi hỏi tiếp về “bạn ý” hoặc “bạn ấy” trong tệp, máy chủ có thể lấy tên từ câu hỏi trước và tìm theo họ tên đầy đủ ngay trong tệp. Giao diện giữ nguyên câu hỏi bạn đã nhập. Nếu máy chủ chưa xác định được người được nhắc đến và Gemini không viết lại được câu hỏi, máy chủ tìm theo câu hỏi gốc.
+
+Lịch sử dùng để viết lại bắt đầu lại khi mở cuộc trò chuyện mới hoặc chuyển nguồn tra cứu giữa kho PTIT và một tệp, hay giữa hai tệp. Client gọi API trực tiếp có thể gửi trường tùy chọn **history**, gồm tối đa ba đối tượng **{"question":"...", "answer":"..."}** từ cũ đến mới thuộc cùng nguồn. Kết quả có trường **resolved_question** khi câu hỏi được viết lại.
+
 ## Hỏi về tệp tải lên
 
 Cài thư viện đọc DOCX, PDF và Excel, sau đó khởi động lại máy chủ:

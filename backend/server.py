@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from conversation import MAX_QUESTION_CHARS, is_follow_up, read_history, resolve_person_reference
 from gemini import Gemini, GenerationError, IncompleteGenerationError
 from retrieval import KnowledgeBase
 from uploads import MAX_UPLOAD_BYTES, UploadError, UploadStore, index_upload
@@ -20,7 +21,7 @@ STATIC = {
     "/styles.css": ("styles.css", "text/css; charset=utf-8"),
     "/app.js": ("app.js", "text/javascript; charset=utf-8"),
 }
-MAX_BODY = 16_384
+MAX_BODY = 32_768
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -102,10 +103,15 @@ class Handler(BaseHTTPRequestHandler):
                 raise ValueError
             payload = json.loads(self.rfile.read(size))
             question = payload.get("question", "") if isinstance(payload, dict) else ""
-            if not isinstance(question, str) or not 0 < len(question.strip()) <= 500:
+            if not isinstance(question, str) or not 0 < len(question.strip()) <= MAX_QUESTION_CHARS:
                 raise ValueError
         except (ValueError, UnicodeError):
             self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Nhập câu hỏi từ 1 đến 500 ký tự."})
+            return
+        try:
+            history = read_history(payload.get("history", []))
+        except ValueError:
+            self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Lịch sử câu hỏi không hợp lệ."})
             return
         upload_id = payload.get("upload_id")
         if upload_id is not None and (not isinstance(upload_id, str) or len(upload_id) != 32):
@@ -119,12 +125,29 @@ class Handler(BaseHTTPRequestHandler):
             })
             return
         question = question.strip()
-        index = document if document is not None else self.server.index
-        passages = index.search(question)
+        original_question = question
+        generator = self.server.generator
+        passages = []
+        context_person = None
+        if document and (person := resolve_person_reference(question, history)):
+            resolved, name = person
+            passages = document.search(resolved, required_phrase=name)
+            if passages:
+                question = resolved
+                context_person = name
+        if not passages:
+            if generator and history and is_follow_up(question):
+                with suppress(GenerationError):
+                    question = generator.rewrite_question(question, history)
+            index = document if document is not None else self.server.index
+            passages = index.search(question)
         result = {"passages": [asdict(passage) for passage in passages]}
+        if question != original_question:
+            result["resolved_question"] = question
+        if context_person is not None:
+            result["context_person"] = context_person
         if document is not None:
             result["document"] = document.name
-        generator = self.server.generator
         if generator and passages and self.headers.get("Accept") == "application/x-ndjson":
             with suppress(ConnectionError):
                 self.stream_answer(question, passages, result, generator)

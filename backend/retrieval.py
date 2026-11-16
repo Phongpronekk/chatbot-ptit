@@ -93,7 +93,7 @@ class KeywordIndex:
         self.lengths = [sum(vector.values()) for vector in self.vectors]
         self.mean_length = sum(self.lengths) / max(len(self.vectors), 1) or 1
 
-    def search(self, question):
+    def search(self, question, *, required_match=None):
         words = " ".join(re.findall(r"[a-z0-9]+", fold(question)))
         if self.ptit:
             words = re.sub(r"\blam roi the\b", "mat the", words)
@@ -113,7 +113,10 @@ class KeywordIndex:
         ranked = []
         for passage, vector, length in zip(self.passages, self.vectors, self.lengths):
             hits = query.intersection(vector)
-            if len(hits) < (min(2, len(query)) if self.ptit else 1) or not hits:
+            if required_match:
+                if not required_match(passage.text):
+                    continue
+            elif len(hits) < (min(2, len(query)) if self.ptit else 1) or not hits:
                 continue
             normalizer = 1.4 * (0.35 + 0.65 * length / self.mean_length)
             score = sum(weights[word] * idf[word] * (2.4 * vector[word])
@@ -130,7 +133,7 @@ class KeywordIndex:
         origins = set()
         for score, passage in ranked:
             origin = (passage.title, passage.section)
-            if origin in origins or score < ranked[0][0] * 0.62:
+            if origin in origins or (not required_match and score < ranked[0][0] * 0.62):
                 continue
             origins.add(origin)
             results.append(passage)

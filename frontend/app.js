@@ -17,6 +17,8 @@ const welcome = document.querySelector("#welcome");
 const messages = document.querySelector("#messages");
 const history = document.querySelector("#history");
 const recent = [];
+const contextTurns = [];
+let contextUploadId = null;
 let pending = false;
 let uploading = false;
 let latestFile = null;
@@ -238,6 +240,11 @@ async function ask(value) {
     return;
   }
   const attachedFile = fileChoice === "use" ? latestFile : null;
+  const uploadId = attachedFile?.upload_id ?? null;
+  if (contextUploadId !== uploadId) {
+    contextTurns.length = 0;
+    contextUploadId = uploadId;
+  }
   pending = true;
   fileChoice = null;
   attachmentStatus.textContent = "";
@@ -257,9 +264,17 @@ async function ask(value) {
     const response = await fetch("/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json", "Accept": "application/x-ndjson" },
-      body: JSON.stringify({ question, upload_id: attachedFile?.upload_id }),
+      body: JSON.stringify({ question, upload_id: uploadId, history: contextTurns }),
     });
-    renderAnswer(reply, await readAnswer(response, reply));
+    const result = await readAnswer(response, reply);
+    renderAnswer(reply, result);
+    const answer = result.generation_error ? "" : result.answer ?? "";
+    contextTurns.push({
+      question: result.resolved_question ?? question,
+      answer: Array.from(answer).slice(0, 700).join(""),
+      person: result.context_person,
+    });
+    if (contextTurns.length > 3) contextTurns.shift();
   } catch (error) {
     if (error.code === "upload_unavailable") {
       latestFile = null;
@@ -283,6 +298,8 @@ function newChat() {
   input.value = "";
   latestFile = null;
   fileChoice = null;
+  contextTurns.length = 0;
+  contextUploadId = null;
   attachmentStatus.textContent = "";
   updateComposer();
   input.focus();
