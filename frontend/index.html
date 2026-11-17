@@ -16,11 +16,9 @@
         <div><strong>PTIT Chat</strong><span>Trợ lý sinh viên</span></div>
       </div>
       <button class="new-chat" id="new-chat" type="button"><span aria-hidden="true">＋</span> Cuộc trò chuyện mới</button>
-      <div class="recent">
-        <h2>Câu hỏi gần đây</h2>
-        <p id="empty-history">Chưa có câu hỏi.</p>
-        <ul id="history"></ul>
-      </div>
+      <nav class="conversations" aria-label="Các cuộc trò chuyện">
+        <ul id="conversations"></ul>
+      </nav>
       <div class="sidebar-foot">Ngành CNTT · Cơ sở phía Bắc</div>
     </aside>
     <main class="main">
@@ -56,6 +54,7 @@
       </div>
       <footer class="composer">
         <div class="content-width">
+          <div class="chat-notice" id="chat-notice" role="status" aria-live="polite" hidden></div>
           <div class="attachment-options" id="attachment-options" role="group" aria-label="Tệp cho câu hỏi tiếp theo" hidden>
             <div id="attachment-name" class="attachment-name"></div>
             <div class="attachment-actions">

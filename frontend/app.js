@@ -15,8 +15,11 @@ const status = document.querySelector("#status");
 const viewport = document.querySelector("#viewport");
 const welcome = document.querySelector("#welcome");
 const messages = document.querySelector("#messages");
-const history = document.querySelector("#history");
-const recent = [];
+const conversationList = document.querySelector("#conversations");
+const chatNotice = document.querySelector("#chat-notice");
+const conversations = [];
+let activeConversation = null;
+let noticeTimer;
 const contextTurns = [];
 let contextUploadId = null;
 let pending = false;
@@ -31,9 +34,44 @@ function element(tag, text, className) {
   return node;
 }
 
+function showNotice(text, kind = "success") {
+  clearTimeout(noticeTimer);
+  chatNotice.textContent = text;
+  chatNotice.dataset.kind = kind;
+  chatNotice.hidden = !text;
+  if (text) noticeTimer = setTimeout(() => { chatNotice.hidden = true; }, kind === "error" ? 8000 : 4500);
+}
+
+function createConversation() {
+  const conversation = {
+    title: "Cuộc trò chuyện mới", firstQuestion: null, state: "new",
+    nodes: [], turns: [], contextUploadId: null, latestFile: null,
+    fileChoice: null, draft: "", attachmentStatus: "", scrollTop: 0,
+  };
+  conversations.unshift(conversation);
+  return conversation;
+}
+
+function setConversationState(state) {
+  activeConversation.state = state;
+  renderConversations();
+}
+
+function loadingIndicator(text) {
+  const indicator = element("div", "", "reply-loading");
+  indicator.setAttribute("role", "status");
+  const spinner = element("span", "", "spinner");
+  spinner.setAttribute("aria-hidden", "true");
+  indicator.append(spinner, element("span", text));
+  return indicator;
+}
+
 function updateComposer() {
   const busy = pending || uploading;
   for (const button of [send, upload, reuseFile, replaceFile, skipFile]) button.disabled = busy;
+  for (const button of document.querySelectorAll(".conversation-button, .conversation-delete, #new-chat, #mobile-new")) button.disabled = busy;
+  send.classList.toggle("is-loading", pending);
+  send.setAttribute("aria-label", pending ? "Đang nhận câu trả lời" : "Gửi câu hỏi");
   attachmentOptions.hidden = latestFile === null;
   attachmentName.textContent = latestFile?.name ?? "";
   attachmentName.title = attachmentName.textContent;
@@ -159,7 +197,11 @@ function renderAnswer(target, { passages, answer, model, document: filename, gen
       ? "Mình tìm được các đoạn sau trong " + filename + "."
       : "Mình tìm được các đoạn sau trong kho tài liệu."));
   }
-  if (generationError) target.append(element("p", generationError));
+  if (generationError) {
+    const warning = element("p", generationError, "reply-error");
+    warning.setAttribute("role", "alert");
+    target.append(warning);
+  }
   passages.forEach(({ title, section, text, url }, index) => {
     const details = element("details", "", "source-card");
     details.open = !answer && index === 0;
@@ -170,21 +212,80 @@ function renderAnswer(target, { passages, answer, model, document: filename, gen
   });
 }
 
-function addHistory(question) {
-  const previous = recent.indexOf(question);
-  if (previous >= 0) recent.splice(previous, 1);
-  recent.unshift(question);
-  if (recent.length > 8) recent.pop();
-  document.querySelector("#empty-history").hidden = true;
-  history.replaceChildren(...recent.map(item => {
-    const entry = element("li");
-    const button = element("button", item, "history-button");
+function renderConversations() {
+  conversationList.replaceChildren(...conversations.map(conversation => {
+    const entry = element("li", "", "conversation-item");
+    entry.classList.toggle("active", conversation === activeConversation);
+    const button = element("button", "", "conversation-button");
+    button.dataset.state = conversation.state;
+    button.append(element("span", conversation.title, "conversation-title"));
     button.type = "button";
-    button.dataset.question = item;
-    button.title = item;
-    entry.append(button);
+    button.title = conversation.title;
+    button.disabled = pending || uploading;
+    if (conversation === activeConversation) button.setAttribute("aria-current", "true");
+    button.addEventListener("click", () => openConversation(conversation));
+    const remove = element("button", "×", "conversation-delete");
+    remove.type = "button";
+    remove.title = "Xóa cuộc trò chuyện";
+    remove.setAttribute("aria-label", "Xóa cuộc trò chuyện: " + conversation.title);
+    remove.disabled = pending || uploading;
+    remove.addEventListener("click", () => deleteConversation(conversation));
+    entry.append(button, remove);
     return entry;
   }));
+}
+
+function deleteConversation(conversation) {
+  if (pending || uploading) return;
+  const index = conversations.indexOf(conversation);
+  if (index < 0) return;
+  conversations.splice(index, 1);
+  if (conversation === activeConversation) {
+    activeConversation = null;
+    const next = conversations[index] ?? conversations[index - 1];
+    if (next) {
+      openConversation(next);
+    } else {
+      resetChatView();
+    }
+  }
+  renderConversations();
+  updateComposer();
+  showNotice("Đã xóa cuộc trò chuyện.");
+}
+
+function saveConversation() {
+  if (!activeConversation) return;
+  Object.assign(activeConversation, {
+    nodes: Array.from(messages.childNodes),
+    turns: [...contextTurns],
+    contextUploadId,
+    latestFile,
+    fileChoice,
+    draft: input.value,
+    attachmentStatus: attachmentStatus.textContent,
+    scrollTop: viewport.scrollTop,
+  });
+}
+
+function openConversation(conversation) {
+  if (pending || uploading || conversation === activeConversation) return;
+  saveConversation();
+  activeConversation = conversation;
+  messages.replaceChildren(...conversation.nodes);
+  messages.hidden = conversation.nodes.length === 0;
+  welcome.hidden = !messages.hidden;
+  contextTurns.splice(0, contextTurns.length, ...conversation.turns);
+  contextUploadId = conversation.contextUploadId;
+  latestFile = conversation.latestFile;
+  fileChoice = conversation.fileChoice;
+  input.value = conversation.draft;
+  attachmentStatus.textContent = conversation.attachmentStatus;
+  showNotice("");
+  renderConversations();
+  updateComposer();
+  viewport.scrollTop = conversation.scrollTop;
+  input.focus();
 }
 
 async function readAnswer(response, target) {
@@ -201,10 +302,12 @@ async function readAnswer(response, target) {
 
   const reader = response.body.pipeThrough(new TextDecoderStream()).getReader();
   const preview = element("p");
+  preview.hidden = true;
+  const loading = loadingIndicator("Đang soạn câu trả lời…");
   const result = { answer: "" };
   let buffer = "";
   let complete = false;
-  target.replaceChildren(element("strong", "PTIT Chat"), preview);
+  target.replaceChildren(element("strong", "PTIT Chat"), loading, preview);
   preview.style.whiteSpace = "pre-wrap";
   try {
     while (!complete) {
@@ -217,6 +320,11 @@ async function readAnswer(response, target) {
         Object.assign(result, metadata);
         if (delta) result.answer += delta;
         if (delta || typeof metadata.answer === "string") {
+          if (preview.hidden) {
+            preview.hidden = false;
+            loading.remove();
+            setConversationState("streaming");
+          }
           preview.textContent = result.answer;
         }
         complete = finished || complete;
@@ -246,18 +354,28 @@ async function ask(value) {
     contextUploadId = uploadId;
   }
   pending = true;
+  showNotice("");
   fileChoice = null;
   attachmentStatus.textContent = "";
   updateComposer();
   input.value = "";
-  addHistory(question);
+  if (!activeConversation) {
+    activeConversation = createConversation();
+  }
+  if (activeConversation.firstQuestion === null) {
+    activeConversation.firstQuestion = question;
+    activeConversation.title = question;
+  }
+  setConversationState("loading");
   welcome.hidden = true;
   messages.hidden = false;
   const userMessage = element("div", question, "message user-message");
   if (attachedFile) userMessage.append(element("span", attachedFile.name, "message-attachment"));
-  const reply = element("article", attachedFile
+  const reply = element("article", "", "message answer");
+  reply.setAttribute("aria-busy", "true");
+  reply.append(element("strong", "PTIT Chat"), loadingIndicator(attachedFile
     ? "Đang tìm trong " + attachedFile.name + "…"
-    : "Đang tìm trong kho tài liệu…", "message answer");
+    : "Đang tìm trong kho tài liệu…"));
   messages.append(userMessage, reply);
   viewport.scrollTop = viewport.scrollHeight;
   try {
@@ -268,6 +386,16 @@ async function ask(value) {
     });
     const result = await readAnswer(response, reply);
     renderAnswer(reply, result);
+    if (result.generation_error) {
+      setConversationState("error");
+      showNotice("Câu trả lời gặp sự cố. Xem thông báo trong cuộc trò chuyện.", "error");
+    } else if (!result.passages.length) {
+      setConversationState("empty");
+      showNotice("Chưa tìm thấy tài liệu phù hợp. Bạn thử bổ sung thông tin cho câu hỏi nhé.", "info");
+    } else {
+      setConversationState("done");
+      showNotice("Đã trả lời câu hỏi của bạn.");
+    }
     const answer = result.generation_error ? "" : result.answer ?? "";
     contextTurns.push({
       question: result.resolved_question ?? question,
@@ -283,7 +411,12 @@ async function ask(value) {
     }
     reply.textContent = error.userMessage
       || "Không thể tra cứu lúc này. Kiểm tra máy chủ Python rồi gửi lại câu hỏi.";
+    reply.classList.add("reply-error");
+    reply.setAttribute("role", "alert");
+    setConversationState("error");
+    showNotice("Không thể nhận câu trả lời. Bạn vui lòng thử lại.", "error");
   } finally {
+    reply.setAttribute("aria-busy", "false");
     pending = false;
     updateComposer();
     reply.scrollIntoView({ block: "start" });
@@ -292,6 +425,16 @@ async function ask(value) {
 
 function newChat() {
   if (pending || uploading) return;
+  saveConversation();
+  activeConversation = createConversation();
+  resetChatView();
+  renderConversations();
+  updateComposer();
+  showNotice("Đã tạo cuộc trò chuyện mới.");
+  input.focus();
+}
+
+function resetChatView() {
   messages.replaceChildren();
   messages.hidden = true;
   welcome.hidden = false;
@@ -301,7 +444,7 @@ function newChat() {
   contextTurns.length = 0;
   contextUploadId = null;
   attachmentStatus.textContent = "";
-  updateComposer();
+  viewport.scrollTop = 0;
   input.focus();
 }
 

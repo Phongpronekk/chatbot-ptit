@@ -24,12 +24,20 @@ button:disabled { opacity: .55; cursor: wait; }
 .brand div span { display: block; color: var(--muted); font-size: 12px; margin-top: 3px; }
 .new-chat { background: var(--paper); color: var(--red-dark); border: 1px solid #e8d8d9; border-radius: 9px; min-height: 44px; text-align: left; padding: 8px 10px; font-weight: 600; font-size: 13px; }
 .new-chat span { margin-right: 4px; font-size: 16px; }
-.new-chat:hover, .history-button:hover { background: #fae9eb; }
-.recent h2 { margin: 0 0 11px 5px; font-size: 13px; color: #4c434b; }
-.recent p, .sidebar-foot { font-size: 12px; color: var(--muted); margin: 0 5px; }
+.new-chat:hover, .conversation-button:hover { background: #fae9eb; }
+.conversations { min-height: 0; overflow-y: auto; }
+.sidebar-foot { font-size: 12px; color: var(--muted); margin: 0 5px; }
 .sidebar-foot { margin-top: auto; padding-top: 16px; border-top: 1px solid #e8deda; }
-#history { list-style: none; padding: 0; margin: 0; }
-.history-button { width: 100%; text-align: left; background: transparent; color: #4e414b; border: 0; border-radius: 7px; padding: 8px 5px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-size: 12px; }
+#conversations { list-style: none; padding: 0; margin: 0; }
+.conversation-item { display: grid; grid-template-columns: minmax(0, 1fr) 28px; align-items: center; border-radius: 7px; margin-bottom: 3px; padding-right: 3px; }
+.conversation-item.active { background: #f5e3e7; }
+.conversation-button { width: 100%; min-width: 0; text-align: left; background: transparent; color: #4e414b; border: 0; border-radius: 7px; padding: 9px 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-size: 12px; }
+.conversation-delete { display: grid; place-items: center; width: 28px; height: 28px; padding: 0; border: 0; border-radius: 6px; color: var(--muted); background: transparent; font-size: 20px; line-height: 1; }
+.conversation-delete:hover:not(:disabled) { background: #efd0d8; color: var(--red-dark); }
+.conversation-button[aria-current="true"] { background: #f5e3e7; color: var(--red-dark); font-weight: 600; }
+.conversation-title { display: block; overflow: hidden; text-overflow: ellipsis; }
+.conversation-button:disabled { opacity: 1; }
+.sidebar { height: 100dvh; }
 .main { display: grid; height: 100dvh; min-height: 360px; grid-template-rows: auto minmax(0, 1fr) auto; }
 .topbar { border-bottom: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0 26px; min-height: 64px; font-size: 14px; font-weight: 600; }
 .mobile-brand { display: none; }
@@ -64,6 +72,17 @@ button:disabled { opacity: .55; cursor: wait; }
 .message-attachment { display: block; margin-top: 6px; font-size: 12px; opacity: .8; overflow-wrap: anywhere; }
 .send { width: 39px; height: 39px; border: 0; border-radius: 9px; background: var(--red); color: white; font-size: 23px; line-height: 1; }
 .send:hover { background: var(--red-dark); }
+.send.is-loading { display: grid; place-items: center; font-size: 0; }
+.send.is-loading::after { content: ""; width: 15px; height: 15px; border: 2px solid #ffffff70; border-top-color: white; border-radius: 50%; animation: spin .8s linear infinite; }
+.spinner { display: inline-block; flex-shrink: 0; width: 17px; height: 17px; border: 2px solid #e7c6ce; border-top-color: var(--red); border-radius: 50%; animation: spin .8s linear infinite; }
+.reply-loading { display: flex; align-items: center; gap: 9px; min-height: 38px; color: var(--muted); }
+.chat-notice { margin-bottom: 10px; padding: 10px 12px; border: 1px solid #cfe1d5; border-radius: 9px; background: #f0f7f2; color: #2d6140; font-size: 12px; line-height: 1.5; }
+.chat-notice[data-kind="info"] { background: #f5f2ef; border-color: var(--line); color: var(--muted); }
+.chat-notice[data-kind="error"], .reply-error { color: var(--red-dark); background: #fff0f2; border: 1px solid #edc8d0; border-radius: 9px; padding: 10px 12px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .spinner, .send.is-loading::after { animation: none; }
+}
 .composer p { margin: 9px 0 2px; color: var(--muted); text-align: center; font-size: 11px; }
 .messages { display: flex; flex-direction: column; gap: 19px; }
 .message { overflow-wrap: anywhere; font-size: 14px; line-height: 1.62; }
