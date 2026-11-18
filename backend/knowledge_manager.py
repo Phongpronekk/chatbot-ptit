@@ -107,6 +107,10 @@ class KnowledgeManager:
             self.server.index.document_count = new_kb.document_count
         else:
             self.server.index = new_kb
+        if hasattr(self.server.index, "clear_cache"):
+            self.server.index.clear_cache()
+        if hasattr(self.server.index, "clear_cache"):
+            self.server.index.clear_cache()
 
         return {
             "filename": md_filename,
@@ -135,6 +139,10 @@ class KnowledgeManager:
             self.server.index.document_count = new_kb.document_count
         else:
             self.server.index = new_kb
+        if hasattr(self.server.index, "clear_cache"):
+            self.server.index.clear_cache()
+        if hasattr(self.server.index, "clear_cache"):
+            self.server.index.clear_cache()
 
         return {"deleted": safe_name, "total_documents": self.server.index.document_count}
 
@@ -151,5 +159,7 @@ class KnowledgeManager:
             self.server.index.document_count = new_kb.document_count
         else:
             self.server.index = new_kb
+        if hasattr(self.server.index, "clear_cache"):
+            self.server.index.clear_cache()
 
         return {"total_chunks": total_chunks, "total_documents": self.server.index.document_count}

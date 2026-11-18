@@ -1,5 +1,7 @@
 """Combine keyword and vector retrieval for chat."""
 
+from collections import OrderedDict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from threading import Lock
 
@@ -132,33 +134,64 @@ class VectorSearch:
 
 
 class HybridSearch:
-    def __init__(self, keyword, vector=None):
+    def __init__(self, keyword, vector=None, cache_size=128):
         self.keyword = keyword
         self.vector = vector
         self.document_count = keyword.document_count
+        self.cache = OrderedDict()
+        self.cache_size = cache_size
+        self.cache_lock = Lock()
+
+    def clear_cache(self):
+        with self.cache_lock:
+            self.cache.clear()
 
     def search(self, question):
-        keywords = self.keyword.search(question)
+        clean_q = question.strip()
+        with self.cache_lock:
+            if clean_q in self.cache:
+                self.cache.move_to_end(clean_q)
+                return list(self.cache[clean_q])
+
+        keywords = []
         semantic = []
+
         if self.vector and self.vector.collection.count() > 0:
-            try:
-                matches = self.vector.query([question])
-                if matches and matches.get("documents") and matches["documents"][0]:
-                    semantic = [
-                        Passage(
-                            text=text,
-                            title=metadata.get("title", ""),
-                            section=metadata.get("section", ""),
-                            url=metadata.get("url", ""),
-                        )
-                        for text, metadata in zip(matches["documents"][0], matches["metadatas"][0])
-                    ]
-            except Exception as e:
-                print(f"Loi tim kiem vector: {e}", flush=True)
+            with ThreadPoolExecutor(max_workers=2) as executor:
+                kw_future = executor.submit(self.keyword.search, question)
+                vec_future = executor.submit(self._search_vector, question)
+                keywords = kw_future.result()
+                semantic = vec_future.result()
+        else:
+            keywords = self.keyword.search(question)
 
         results = {}
         for passage in keywords[:2] + semantic[:1] + keywords[2:] + semantic[1:]:
             results.setdefault((passage.title, passage.section), passage)
             if len(results) == 3:
                 break
-        return list(results.values())
+        res = list(results.values())
+
+        with self.cache_lock:
+            self.cache[clean_q] = res
+            if len(self.cache) > self.cache_size:
+                self.cache.popitem(last=False)
+
+        return res
+
+    def _search_vector(self, question):
+        try:
+            matches = self.vector.query([question])
+            if matches and matches.get("documents") and matches["documents"][0]:
+                return [
+                    Passage(
+                        text=text,
+                        title=metadata.get("title", ""),
+                        section=metadata.get("section", ""),
+                        url=metadata.get("url", ""),
+                    )
+                    for text, metadata in zip(matches["documents"][0], matches["metadatas"][0])
+                ]
+        except Exception as e:
+            print(f"Lỗi tìm kiếm vector: {e}", flush=True)
+        return []

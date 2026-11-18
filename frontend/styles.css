@@ -87,6 +87,19 @@ button:disabled { opacity: .55; cursor: wait; }
 .send.is-loading::after { content: ""; width: 15px; height: 15px; border: 2px solid #ffffff70; border-top-color: white; border-radius: 50%; animation: spin .8s linear infinite; }
 .spinner { display: inline-block; flex-shrink: 0; width: 17px; height: 17px; border: 2px solid #e7c6ce; border-top-color: var(--red); border-radius: 50%; animation: spin .8s linear infinite; }
 .reply-loading { display: flex; align-items: center; gap: 9px; min-height: 38px; color: var(--muted); }
+.streaming-cursor::after {
+  content: "▌";
+  display: inline-block;
+  margin-left: 2px;
+  color: var(--red);
+  font-weight: bold;
+  vertical-align: baseline;
+  animation: cursor-blink 0.8s step-end infinite;
+}
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
 .chat-notice { margin-bottom: 10px; padding: 10px 12px; border: 1px solid #cfe1d5; border-radius: 9px; background: #f0f7f2; color: #2d6140; font-size: 12px; line-height: 1.5; }
 .chat-notice[data-kind="info"] { background: #f5f2ef; border-color: var(--line); color: var(--muted); }
 .chat-notice[data-kind="error"], .reply-error { color: var(--red-dark); background: #fff0f2; border: 1px solid #edc8d0; border-radius: 9px; padding: 10px 12px; }

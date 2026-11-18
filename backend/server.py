@@ -8,6 +8,7 @@ from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import json
 from pathlib import Path
+import threading
 from urllib.parse import unquote, urlsplit
 
 from conversation import MAX_QUESTION_CHARS, is_follow_up, read_history, resolve_person_reference
@@ -417,20 +418,28 @@ class Handler(BaseHTTPRequestHandler):
                 question = resolved
                 context_person = name
         if not passages:
-            if generator and history and is_follow_up(question):
-                with suppress(GenerationError):
-                    question = generator.rewrite_question(question, history)
             index = document if document is not None else self.server.index
-            passages = index.search(question)
+            if history and is_follow_up(question):
+                # Try combined local search first (< 20ms instead of 2-3s Gemini rewrite API call)
+                prev_q = history[-1].get("question", "")
+                combined_q = f"{prev_q} {question}".strip()
+                passages = index.search(combined_q)
+                if passages:
+                    question = combined_q
+                elif generator:
+                    with suppress(GenerationError):
+                        question = generator.rewrite_question(question, history)
+                        passages = index.search(question)
+            if not passages:
+                passages = index.search(question)
 
-        # Save user question to DB if user & conversation_id
+        # Save user question to DB in background
         if user and conversation_id:
-            self.server.history.add_message(
-                user["user_id"],
-                conversation_id,
-                "user",
-                original_question,
-            )
+            threading.Thread(
+                target=self.server.history.add_message,
+                args=(user["user_id"], conversation_id, "user", original_question),
+                daemon=True,
+            ).start()
 
         result = {"passages": [asdict(passage) for passage in passages]}
         if question != original_question:
@@ -451,14 +460,18 @@ class Handler(BaseHTTPRequestHandler):
                 result["answer"] = answer
                 result["model"] = generator.model
                 if user and conversation_id:
-                    self.server.history.add_message(
-                        user["user_id"],
-                        conversation_id,
-                        "bot",
-                        answer,
-                        passages=[asdict(p) for p in passages],
-                        model=generator.model,
-                    )
+                    threading.Thread(
+                        target=self.server.history.add_message,
+                        args=(
+                            user["user_id"],
+                            conversation_id,
+                            "bot",
+                            answer,
+                            [asdict(p) for p in passages],
+                            generator.model,
+                        ),
+                        daemon=True,
+                    ).start()
             except GenerationError as error:
                 result["generation_error"] = str(error)
         elif not passages and generator:
@@ -466,13 +479,17 @@ class Handler(BaseHTTPRequestHandler):
             answer = "Không tìm thấy thông tin phù hợp trong kho tài liệu hiện tại."
             result["answer"] = answer
             if user and conversation_id:
-                self.server.history.add_message(
-                    user["user_id"],
-                    conversation_id,
-                    "bot",
-                    answer,
-                    passages=[],
-                )
+                threading.Thread(
+                    target=self.server.history.add_message,
+                    args=(
+                        user["user_id"],
+                        conversation_id,
+                        "bot",
+                        answer,
+                        [],
+                    ),
+                    daemon=True,
+                ).start()
 
         self.send_json(HTTPStatus.OK, result)
 
@@ -512,14 +529,18 @@ class Handler(BaseHTTPRequestHandler):
         finally:
             full_text = "".join(collected_answer).strip()
             if full_text and user and conversation_id:
-                self.server.history.add_message(
-                    user["user_id"],
-                    conversation_id,
-                    "bot",
-                    full_text,
-                    passages=[asdict(p) for p in passages],
-                    model=generator.model,
-                )
+                threading.Thread(
+                    target=self.server.history.add_message,
+                    args=(
+                        user["user_id"],
+                        conversation_id,
+                        "bot",
+                        full_text,
+                        [asdict(p) for p in passages],
+                        generator.model,
+                    ),
+                    daemon=True,
+                ).start()
 
 
 def main():

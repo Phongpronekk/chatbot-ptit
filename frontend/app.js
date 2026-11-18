@@ -640,10 +640,11 @@ async function readAnswer(response, target) {
   const reader = response.body.pipeThrough(new TextDecoderStream()).getReader();
   const preview = element("p");
   preview.hidden = true;
-  const loading = loadingIndicator("Đang soạn câu trả lời…");
+  const loading = loadingIndicator("Đang tra cứu dữ liệu…");
   const result = { answer: "" };
   let buffer = "";
   let complete = false;
+  let hasShownSources = false;
   target.replaceChildren(element("strong", "PTIT Chat"), loading, preview);
   preview.style.whiteSpace = "pre-wrap";
   try {
@@ -653,21 +654,35 @@ async function readAnswer(response, target) {
       const lines = (buffer + value).split("\n");
       buffer = lines.pop();
       for (const line of lines) {
+        if (!line.trim()) continue;
         const { delta, done: finished, ...metadata } = JSON.parse(line);
         Object.assign(result, metadata);
+        if (metadata.passages && !hasShownSources) {
+          hasShownSources = true;
+          const statusSpan = loading.querySelector("span:last-child");
+          if (statusSpan) {
+            const count = metadata.passages.length;
+            statusSpan.textContent = count > 0
+              ? `Đã tìm thấy ${count} tài liệu liên quan · Đang tạo câu trả lời…`
+              : "Đang phân tích và tạo câu trả lời…";
+          }
+        }
         if (delta) result.answer += delta;
         if (delta || typeof metadata.answer === "string") {
           if (preview.hidden) {
             preview.hidden = false;
             loading.remove();
+            preview.classList.add("streaming-cursor");
             setConversationState("streaming");
           }
           preview.textContent = result.answer;
+          viewport.scrollTop = viewport.scrollHeight;
         }
         complete = finished || complete;
       }
     }
   } finally {
+    preview.classList.remove("streaming-cursor");
     await reader.cancel();
   }
   if (!result.passages) throw new Error("Missing passages");
