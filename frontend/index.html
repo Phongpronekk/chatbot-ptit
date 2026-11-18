@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#faf8f6">
   <title>PTIT Chat · Tra cứu sinh viên</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
   <link rel="stylesheet" href="/styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
   <script src="/app.js" defer></script>
 </head>
 <body>
@@ -25,7 +27,33 @@
       <header class="topbar">
         <div><span class="mobile-brand">PTIT Chat · </span>Tra cứu sinh viên</div>
         <div id="status" class="status" role="status">Đang tải kho tài liệu</div>
-        <button class="mobile-new" id="mobile-new" type="button" aria-label="Cuộc trò chuyện mới">＋</button>
+
+        <!-- User Account Panel – góc trên bên phải -->
+        <div class="topbar-user" id="user-panel">
+          <!-- Đã đăng nhập -->
+          <div id="user-logged-in" class="topbar-user-info" hidden>
+            <span class="user-avatar" id="user-avatar">👤</span>
+            <div class="user-names">
+              <strong id="user-name-display">Người dùng</strong>
+              <span id="user-role-badge" class="role-badge">Sinh viên</span>
+            </div>
+            <div class="topbar-user-actions">
+              <a id="admin-link-btn" href="/admin" class="admin-nav-btn" hidden>⚙ Admin</a>
+              <button id="logout-btn" type="button" class="btn-logout">Đăng xuất</button>
+            </div>
+          </div>
+          <!-- Chưa đăng nhập -->
+          <div id="user-logged-out">
+            <button id="open-auth-modal" type="button" class="btn-auth-topbar">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+              Đăng nhập
+            </button>
+          </div>
+        </div>
+
+        <div class="topbar-actions">
+          <button class="mobile-new" id="mobile-new" type="button" aria-label="Cuộc trò chuyện mới">＋</button>
+        </div>
       </header>
       <div class="viewport" id="viewport">
         <section class="welcome content-width" id="welcome">
@@ -71,12 +99,49 @@
             </button>
             <label for="question" class="sr-only">Câu hỏi</label>
             <input id="question" name="question" placeholder="Nhập câu hỏi của bạn…" maxlength="500" autocomplete="off" required>
+            <button class="mic" id="mic" type="button" aria-label="Ghi âm câu hỏi" title="Ghi âm giọng nói (không cần nhập text)">
+              <svg aria-hidden="true" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="8" y1="22" x2="16" y2="22"/></svg>
+            </button>
             <button class="send" id="send" type="submit" aria-label="Gửi câu hỏi">↑</button>
           </form>
           <p>Kiểm tra kỳ học và phạm vi áp dụng trong tài liệu được dẫn.</p>
         </div>
       </footer>
     </main>
+  </div>
+
+  <!-- Auth Modal Dialog -->
+  <div id="auth-modal" class="modal-backdrop" hidden>
+    <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="auth-modal-title">
+      <button id="close-auth-modal" class="modal-close" type="button" aria-label="Đóng">&times;</button>
+      <div class="modal-tabs">
+        <button id="tab-login" class="modal-tab active" type="button">Đăng nhập</button>
+        <button id="tab-register" class="modal-tab" type="button">Đăng ký</button>
+      </div>
+      <div id="auth-alert" class="auth-alert" hidden></div>
+      
+      <form id="auth-form">
+        <div class="form-group">
+          <label for="auth-username">Tên đăng nhập</label>
+          <input id="auth-username" required autocomplete="username" placeholder="Nhập tên đăng nhập...">
+        </div>
+        <div class="form-group">
+          <label for="auth-password">Mật khẩu</label>
+          <input id="auth-password" type="password" required autocomplete="current-password" placeholder="Nhập mật khẩu...">
+        </div>
+        <div id="role-select-group" class="form-group" hidden>
+          <label for="auth-role">Vai trò tài khoản</label>
+          <select id="auth-role">
+            <option value="user">Sinh viên / Người dùng</option>
+            <option value="admin">Quản trị viên (Admin)</option>
+          </select>
+        </div>
+        <button id="auth-submit-btn" type="submit" class="auth-submit-btn">Đăng nhập</button>
+      </form>
+      <div class="auth-hint">
+        <small>Tài khoản Quản trị viên mặc định: <strong>admin</strong> / <strong>admin123</strong></small>
+      </div>
+    </div>
   </div>
 </body>
 </html>

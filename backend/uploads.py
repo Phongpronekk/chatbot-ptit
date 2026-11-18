@@ -11,6 +11,7 @@ from time import monotonic
 from zipfile import ZipFile
 
 from retrieval import KeywordIndex, Passage, fold, markdown_passages
+from math_formatting import extract_docx_cell, extract_docx_paragraph, format_math_text
 
 MAX_UPLOAD_BYTES = 10 * 1024 * 1024
 MAX_EXTRACTED_CHARS = 500_000
@@ -32,6 +33,7 @@ def markdown_sections(data):
         raise UploadError("Tệp Markdown phải là văn bản UTF-8.")
     if len(text) > MAX_EXTRACTED_CHARS:
         raise UploadError("Tệp có quá nhiều nội dung để lập chỉ mục.")
+    text = format_math_text(text)
     sections = list(markdown_passages(text, "Nội dung"))
     if not sections:
         yield "Nội dung", text
@@ -46,7 +48,8 @@ def pdf_sections(data):
         if reader.is_encrypted:
             raise UploadError("Hãy bỏ mật khẩu của tệp PDF rồi tải lại.")
         for number, page in enumerate(reader.pages, start=1):
-            yield f"Trang {number}", page.extract_text() or ""
+            raw_text = page.extract_text() or ""
+            yield f"Trang {number}", format_math_text(raw_text)
 
 
 def docx_sections(data):
@@ -57,10 +60,12 @@ def docx_sections(data):
         for block in container.iter_inner_content():
             if isinstance(block, Table):
                 for row in block.rows:
-                    yield None, " | ".join(cell.text.replace("\n", " ") for cell in row.cells)
+                    row_text = " | ".join(format_math_text(extract_docx_cell(cell)) for cell in row.cells)
+                    yield None, row_text
             else:
                 style = block.style.style_id if block.style is not None else ""
-                yield block.text if style.startswith("Heading") else None, block.text
+                p_text = format_math_text(extract_docx_paragraph(block))
+                yield p_text if style.startswith("Heading") else None, p_text
 
     section = "Nội dung"
     lines = []
@@ -87,7 +92,7 @@ def sheet_sections(name, values):
     for number, row in enumerate(values, start=1):
         if number > MAX_SHEET_ROWS:
             raise UploadError("Mỗi trang tính được hỗ trợ tối đa 100.000 dòng.")
-        cells = ["" if cell is None else " ".join(str(cell).split()) for cell in row]
+        cells = ["" if cell is None else format_math_text(" ".join(str(cell).split())) for cell in row]
         while cells and not cells[-1]:
             cells.pop()
         if not cells:

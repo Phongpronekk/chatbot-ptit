@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf8f6">
+  <title>PTIT Admin · Quản trị tài liệu & Embedding</title>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/admin.css">
+</head>
+<body class="admin-body">
+  <header class="admin-topbar">
+    <div class="admin-topbar-left">
+      <a href="/" class="admin-back-btn" title="Quay lại giao diện chat">← Về trang Chat</a>
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">P</span>
+        <div><strong>PTIT Admin</strong><span>Quản trị tri thức RAG & Embedding</span></div>
+      </div>
+    </div>
+    <div class="admin-topbar-right">
+      <div id="admin-user-info" class="user-badge">Đang xác thực...</div>
+      <button id="admin-logout-btn" class="admin-logout-btn" type="button">Đăng xuất</button>
+    </div>
+  </header>
+
+  <main class="admin-container">
+    <div class="admin-header">
+      <h1>Hệ thống Quản trị Tài liệu & Vector Embedding</h1>
+      <p>Tải lên tài liệu học vụ mới, tự động tách đoạn và nhúng vector (embedding) vào hệ thống tra cứu RAG tức thì mà không cần khởi động lại máy chủ.</p>
+    </div>
+
+    <!-- Status cards -->
+    <section class="admin-stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Tổng tài liệu Knowledge Base</div>
+        <div id="stat-doc-count" class="stat-value">...</div>
+        <div class="stat-desc">Tài liệu Markdown chuẩn hóa</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Chế độ Tra cứu</div>
+        <div id="stat-mode" class="stat-value">...</div>
+        <div class="stat-desc">Kết hợp Keyword (BM25) & Vector Search</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Mô hình Embedding</div>
+        <div id="stat-embedding-model" class="stat-value-sm">...</div>
+        <div class="stat-desc">Sentence Transformers / Chroma DB</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Mô hình Ngôn ngữ (LLM)</div>
+        <div id="stat-llm" class="stat-value-sm">...</div>
+        <div class="stat-desc">Google Gemini</div>
+      </div>
+    </section>
+
+    <div class="admin-alert" id="admin-alert" hidden></div>
+
+    <!-- Upload & Actions -->
+    <section class="admin-section-grid">
+      <div class="admin-card">
+        <div class="admin-card-head">
+          <h2>Tải lên tài liệu mới</h2>
+          <span class="badge">Hỗ trợ .md, .txt, .pdf, .docx</span>
+        </div>
+        <p class="card-hint">Tài liệu sau khi tải sẽ được chuyển đổi thành Markdown trong <code>knowledge_base/</code>, chia chunk và tính toán vector embedding ngay lập tức.</p>
+        
+        <form id="admin-upload-form" class="upload-zone">
+          <input id="admin-file-input" type="file" accept=".md,.markdown,.txt,.pdf,.docx" hidden>
+          <div id="drop-area" class="drop-area">
+            <svg class="drop-icon" viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="17 8 12 3 7 8"></polyline>
+              <line x1="12" y1="3" x2="12" y2="15"></line>
+            </svg>
+            <p>Kéo thả tệp vào đây hoặc <button id="choose-file-btn" type="button" class="btn-text">chọn từ máy tính</button></p>
+            <span id="selected-file-name" class="selected-file-name"></span>
+          </div>
+          <button id="submit-upload-btn" type="submit" class="admin-btn primary" disabled>Tải lên và Lập chỉ mục Vector</button>
+        </form>
+      </div>
+
+      <div class="admin-card">
+        <div class="admin-card-head">
+          <h2>Bảo trì Chỉ mục</h2>
+          <span class="badge">ChromaDB Sync</span>
+        </div>
+        <p class="card-hint">Nếu bạn vừa chỉnh sửa file thủ công trong thư mục <code>knowledge_base/</code>, hãy chạy Lập lại chỉ mục để làm mới toàn bộ vector.</p>
+        <div class="maintenance-box">
+          <button id="reindex-all-btn" type="button" class="admin-btn secondary">Lập lại chỉ mục toàn bộ (Re-index All)</button>
+          <div id="reindex-status" class="reindex-status"></div>
+        </div>
+
+        <div class="quick-test-box">
+          <h3>Thử nghiệm truy vấn nhanh</h3>
+          <p class="card-hint">Kiểm tra kết quả embedding trực tiếp từ kho tri thức hiện tại.</p>
+          <div class="quick-test-input-group">
+            <input id="quick-test-input" placeholder="Ví dụ: Quy định nộp học phí kỳ II..." maxlength="300">
+            <button id="quick-test-btn" type="button" class="admin-btn secondary">Thử tìm</button>
+          </div>
+          <div id="quick-test-results" class="quick-test-results" hidden></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Document List Table -->
+    <section class="admin-card full-width">
+      <div class="admin-card-head">
+        <h2>Danh sách tài liệu trong Knowledge Base (<span id="doc-table-count">0</span>)</h2>
+        <input id="doc-search-filter" class="search-input" placeholder="Lọc theo tên tài liệu...">
+      </div>
+
+      <div class="table-responsive">
+        <table class="doc-table">
+          <thead>
+            <tr>
+              <th>Tiêu đề tài liệu</th>
+              <th>Tên tệp</th>
+              <th>Số đoạn (Chunks)</th>
+              <th>Dung lượng</th>
+              <th>Cập nhật lần cuối</th>
+              <th class="text-right">Hành động</th>
+            </tr>
+          </thead>
+          <tbody id="doc-table-body">
+            <tr><td colspan="6" class="text-center">Đang nạp danh sách tài liệu...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="/admin.js" defer></script>
+</body>
+</html>

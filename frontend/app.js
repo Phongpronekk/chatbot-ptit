@@ -3,6 +3,7 @@
 const form = document.querySelector("#chat-form");
 const input = document.querySelector("#question");
 const send = document.querySelector("#send");
+const mic = document.querySelector("#mic");
 const fileInput = document.querySelector("#upload-input");
 const upload = document.querySelector("#upload");
 const attachmentOptions = document.querySelector("#attachment-options");
@@ -17,6 +18,33 @@ const welcome = document.querySelector("#welcome");
 const messages = document.querySelector("#messages");
 const conversationList = document.querySelector("#conversations");
 const chatNotice = document.querySelector("#chat-notice");
+const defaultPlaceholder = input.getAttribute("placeholder") || "Nhập câu hỏi của bạn…";
+
+// User and Auth Elements  (topbar – góc trên bên phải)
+const userLoggedIn = document.querySelector("#user-logged-in");
+const userLoggedOut = document.querySelector("#user-logged-out");
+const userNameDisplay = document.querySelector("#user-name-display");
+const userAvatar = document.querySelector("#user-avatar");
+const userRoleBadge = document.querySelector("#user-role-badge");
+const adminLinkBtn = document.querySelector("#admin-link-btn");
+const logoutBtn = document.querySelector("#logout-btn");
+const openAuthModal = document.querySelector("#open-auth-modal");
+
+const authModal = document.querySelector("#auth-modal");
+const closeAuthModal = document.querySelector("#close-auth-modal");
+const tabLogin = document.querySelector("#tab-login");
+const tabRegister = document.querySelector("#tab-register");
+const authAlert = document.querySelector("#auth-alert");
+const authForm = document.querySelector("#auth-form");
+const authUsername = document.querySelector("#auth-username");
+const authPassword = document.querySelector("#auth-password");
+const roleSelectGroup = document.querySelector("#role-select-group");
+const authRole = document.querySelector("#auth-role");
+const authSubmitBtn = document.querySelector("#auth-submit-btn");
+
+let currentUser = null;
+let authMode = "login";
+
 const conversations = [];
 let activeConversation = null;
 let noticeTimer;
@@ -26,6 +54,12 @@ let pending = false;
 let uploading = false;
 let latestFile = null;
 let fileChoice = null;
+let mediaRecorder = null;
+let audioChunks = [];
+let mediaStream = null;
+let isRecording = false;
+let isTranscribing = false;
+let transcriptPrefix = "";
 
 function element(tag, text, className) {
   const node = document.createElement(tag);
@@ -42,15 +76,81 @@ function showNotice(text, kind = "success") {
   if (text) noticeTimer = setTimeout(() => { chatNotice.hidden = true; }, kind === "error" ? 8000 : 4500);
 }
 
-function createConversation() {
+function createConversation(id = null, title = "Cuộc trò chuyện mới") {
+  const convId = id || "conv-" + Date.now() + "-" + Math.random().toString(36).slice(2, 8);
   const conversation = {
-    title: "Cuộc trò chuyện mới", firstQuestion: null, state: "new",
+    id: convId,
+    title: title, firstQuestion: null, state: "new",
     nodes: [], turns: [], contextUploadId: null, latestFile: null,
     fileChoice: null, draft: "", attachmentStatus: "", scrollTop: 0,
+    hasDbMessages: false,
   };
   conversations.unshift(conversation);
+  if (currentUser) {
+    fetch("/api/conversations", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id: convId, title: title }),
+    }).catch(() => {});
+  }
   return conversation;
 }
+
+function renderMessagesFromData(messagesList) {
+  const nodes = [];
+  messagesList.forEach((msg) => {
+    if (msg.sender === "user") {
+      const u = element("div", msg.text, "message user-message");
+      nodes.push(u);
+    } else {
+      const r = element("article", "", "message answer");
+      renderAnswer(r, {
+        passages: msg.passages || [],
+        answer: msg.text,
+        model: msg.model,
+      });
+      nodes.push(r);
+    }
+  });
+  return nodes;
+}
+
+async function fetchUserConversations() {
+  if (!currentUser) return;
+  try {
+    const res = await fetch("/api/conversations");
+    if (!res.ok) return;
+    const data = await res.json();
+    const dbConvs = data.conversations || [];
+    conversations.splice(0, conversations.length);
+    dbConvs.forEach((c) => {
+      conversations.push({
+        id: c.id,
+        title: c.title,
+        firstQuestion: c.title,
+        state: "done",
+        nodes: [],
+        turns: [],
+        contextUploadId: null,
+        latestFile: null,
+        fileChoice: null,
+        draft: "",
+        attachmentStatus: "",
+        scrollTop: 0,
+        hasDbMessages: true,
+      });
+    });
+    if (conversations.length > 0) {
+      await openConversation(conversations[0]);
+    } else {
+      resetChatView();
+      renderConversations();
+    }
+  } catch (e) {
+    console.error("Lỗi nạp cuộc trò chuyện:", e);
+  }
+}
+
 
 function setConversationState(state) {
   activeConversation.state = state;
@@ -66,9 +166,184 @@ function loadingIndicator(text) {
   return indicator;
 }
 
+function getSupportedAudioMimeType() {
+  if (typeof MediaRecorder === "undefined") return "";
+  const candidates = [
+    "audio/webm;codecs=opus",
+    "audio/webm",
+    "audio/mp4",
+    "audio/ogg;codecs=opus",
+    "audio/wav",
+  ];
+  for (const candidate of candidates) {
+    if (MediaRecorder.isTypeSupported(candidate)) return candidate;
+  }
+  return "";
+}
+
+function cleanupRecordingUI() {
+  isRecording = false;
+  mic.classList.remove("is-recording");
+  if (!isTranscribing) {
+    mic.classList.remove("is-transcribing");
+    mic.setAttribute("aria-label", "Ghi âm câu hỏi");
+    mic.title = "Ghi âm giọng nói (không cần nhập text)";
+    input.placeholder = defaultPlaceholder;
+  }
+  updateComposer();
+}
+
+function cancelRecording() {
+  if (mediaStream) {
+    mediaStream.getTracks().forEach(track => track.stop());
+    mediaStream = null;
+  }
+  if (mediaRecorder && mediaRecorder.state !== "inactive") {
+    mediaRecorder.onstop = null;
+    try { mediaRecorder.stop(); } catch {}
+  }
+  mediaRecorder = null;
+  audioChunks = [];
+  cleanupRecordingUI();
+}
+
+async function sendAudioForTranscription(audioBlob) {
+  isTranscribing = true;
+  cleanupRecordingUI();
+  mic.classList.add("is-transcribing");
+  mic.setAttribute("aria-label", "Đang chuyển giọng nói thành văn bản…");
+  mic.title = "Đang chuyển giọng nói thành văn bản…";
+  input.placeholder = "Đang chuyển giọng nói thành văn bản…";
+  showNotice("Đang xử lý và chuyển giọng nói thành văn bản…", "info");
+
+  try {
+    const response = await fetch("/api/transcribe", {
+      method: "POST",
+      headers: {
+        "Content-Type": audioBlob.type || "audio/webm",
+      },
+      body: audioBlob,
+    });
+    const result = await response.json();
+    if (!response.ok) {
+      showNotice(result.error || "Không thể nhận diện giọng nói lúc này.", "error");
+      return;
+    }
+    const transcribed = (result.text || "").trim();
+    if (transcribed) {
+      input.value = (transcriptPrefix + transcribed).trimStart();
+      input.scrollLeft = input.scrollWidth;
+      input.dispatchEvent(new Event("input", { bubbles: true }));
+      showNotice("Đã nhận diện giọng nói xong.");
+      input.focus();
+    } else {
+      showNotice("Không nghe rõ câu hỏi. Bạn hãy thử ghi âm lại nhé.", "info");
+    }
+  } catch (error) {
+    console.error("Lỗi gửi dữ liệu âm thanh:", error);
+    showNotice("Mất kết nối máy chủ khi chuyển giọng nói thành văn bản.", "error");
+  } finally {
+    isTranscribing = false;
+    mic.classList.remove("is-transcribing");
+    input.placeholder = defaultPlaceholder;
+    updateComposer();
+  }
+}
+
+function stopRecording() {
+  if (!isRecording && !mediaRecorder) return;
+  isRecording = false;
+  if (mediaRecorder && mediaRecorder.state !== "inactive") {
+    try {
+      mediaRecorder.stop();
+    } catch {
+      cleanupRecordingUI();
+    }
+  } else {
+    cleanupRecordingUI();
+  }
+}
+
+async function startRecording() {
+  if (pending || uploading || isTranscribing) return;
+  if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia || typeof MediaRecorder === "undefined") {
+    showNotice("Trình duyệt không hỗ trợ MediaRecorder hoặc trang chưa mở qua localhost/HTTPS.", "error");
+    return;
+  }
+
+  transcriptPrefix = input.value ? (input.value.trim() + " ") : "";
+
+  try {
+    mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    audioChunks = [];
+
+    const mimeType = getSupportedAudioMimeType();
+    const options = mimeType ? { mimeType } : {};
+    mediaRecorder = new MediaRecorder(mediaStream, options);
+
+    mediaRecorder.ondataavailable = event => {
+      if (event.data && event.data.size > 0) {
+        audioChunks.push(event.data);
+      }
+    };
+
+    mediaRecorder.onstop = async () => {
+      if (mediaStream) {
+        mediaStream.getTracks().forEach(track => track.stop());
+        mediaStream = null;
+      }
+
+      if (audioChunks.length === 0) {
+        cleanupRecordingUI();
+        return;
+      }
+
+      const recordedType = mediaRecorder?.mimeType || mimeType || "audio/webm";
+      const audioBlob = new Blob(audioChunks, { type: recordedType });
+      audioChunks = [];
+
+      if (audioBlob.size < 600) {
+        cleanupRecordingUI();
+        showNotice("Thời gian nói quá ngắn. Vui lòng thử nói lại câu hỏi.", "info");
+        return;
+      }
+
+      await sendAudioForTranscription(audioBlob);
+    };
+
+    mediaRecorder.start(250);
+    isRecording = true;
+    mic.classList.add("is-recording");
+    mic.setAttribute("aria-label", "Dừng ghi âm và nhận diện");
+    mic.title = "Dừng ghi âm và nhận diện (nhấn vào đây khi nói xong)";
+    input.placeholder = "Đang ghi âm… Nhấn lại vào mic khi bạn nói xong.";
+    showNotice("Đang ghi âm… Hãy nói câu hỏi rồi nhấn lại vào mic.", "info");
+  } catch (err) {
+    console.error("Lỗi microphone:", err);
+    if (err.name === "NotAllowedError" || err.name === "PermissionDeniedError") {
+      showNotice("Vui lòng cho phép quyền truy cập micro trong trình duyệt để ghi âm.", "error");
+    } else if (err.name === "NotFoundError" || err.name === "DevicesNotFoundError") {
+      showNotice("Không tìm thấy micro trên thiết bị của bạn.", "error");
+    } else {
+      showNotice("Không thể bắt đầu ghi âm: " + (err.message || err.name), "error");
+    }
+    cancelRecording();
+  }
+}
+
+function toggleRecording() {
+  if (isTranscribing) return;
+  if (isRecording) {
+    stopRecording();
+  } else {
+    startRecording();
+  }
+}
+
 function updateComposer() {
-  const busy = pending || uploading;
-  for (const button of [send, upload, reuseFile, replaceFile, skipFile]) button.disabled = busy;
+  const busy = pending || uploading || isTranscribing;
+  if (busy && isRecording) cancelRecording();
+  for (const button of [send, mic, upload, reuseFile, replaceFile, skipFile]) button.disabled = busy;
   for (const button of document.querySelectorAll(".conversation-button, .conversation-delete, #new-chat, #mobile-new")) button.disabled = busy;
   send.classList.toggle("is-loading", pending);
   send.setAttribute("aria-label", pending ? "Đang nhận câu trả lời" : "Gửi câu hỏi");
@@ -129,13 +404,49 @@ function sourceLink(label, url) {
   return anchor;
 }
 
+function renderMathSpan(latex, isBlock = false) {
+  const span = document.createElement(isBlock ? "div" : "span");
+  span.className = isBlock ? "math-block" : "math-inline";
+  if (typeof window.katex !== "undefined") {
+    try {
+      span.innerHTML = window.katex.renderToString(latex, {
+        displayMode: isBlock,
+        throwOnError: false,
+      });
+      return span;
+    } catch (e) {
+      console.warn("KaTeX render error:", e);
+    }
+  }
+  span.textContent = (isBlock ? "$$" : "$") + latex + (isBlock ? "$$" : "$");
+  return span;
+}
+
+function citationBadge(num) {
+  const badge = element("span", "[" + num + "]", "citation-badge");
+  badge.setAttribute("aria-label", "Nguồn " + num);
+  return badge;
+}
+
 function appendInline(parent, text) {
-  const markup = /\*\*([^*]+)\*\*|\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|\x60([^\x60]+)\x60/g;
+  const markup = /\$\$([\s\S]+?)\$\$|\\\[([\s\S]+?)\\\]|\$([^\$\n]+?)\$|\\\(([\s\S]+?)\\\)|\*\*([^*]+)\*\*|\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|\[(\d+)\]|\x60([^\x60]+)\x60/g;
   let offset = 0;
   for (const match of text.matchAll(markup)) {
     parent.append(text.slice(offset, match.index));
-    const [, bold, label, url, code] = match;
-    parent.append(bold ? element("strong", bold) : url ? sourceLink(label, url) : element("code", code));
+    const [, disp1, disp2, in1, in2, bold, label, url, cite, code] = match;
+    if (disp1 || disp2) {
+      parent.append(renderMathSpan(disp1 || disp2, true));
+    } else if (in1 || in2) {
+      parent.append(renderMathSpan(in1 || in2, false));
+    } else if (bold) {
+      parent.append(element("strong", bold));
+    } else if (url) {
+      parent.append(sourceLink(label, url));
+    } else if (cite) {
+      parent.append(citationBadge(cite));
+    } else if (code) {
+      parent.append(element("code", code));
+    }
     offset = match.index + match[0].length;
   }
   parent.append(text.slice(offset));
@@ -169,6 +480,12 @@ function renderExcerpt(parent, text) {
       const start = index;
       while (index < lines.length && lines[index].trim().startsWith("|")) index++;
       parent.append(renderTable(lines.slice(start, index)));
+      continue;
+    }
+    if (line.startsWith("$$") && line.endsWith("$$") && line.length > 4) {
+      const mathContent = line.slice(2, -2).trim();
+      parent.append(renderMathSpan(mathContent, true));
+      index++;
       continue;
     }
     if (line) {
@@ -236,9 +553,13 @@ function renderConversations() {
 }
 
 function deleteConversation(conversation) {
-  if (pending || uploading) return;
+  if (pending || uploading || isTranscribing) return;
+  cancelRecording();
   const index = conversations.indexOf(conversation);
   if (index < 0) return;
+  if (currentUser && conversation.id) {
+    fetch(`/api/conversations/${conversation.id}`, { method: "DELETE" }).catch(() => {});
+  }
   conversations.splice(index, 1);
   if (conversation === activeConversation) {
     activeConversation = null;
@@ -268,10 +589,26 @@ function saveConversation() {
   });
 }
 
-function openConversation(conversation) {
-  if (pending || uploading || conversation === activeConversation) return;
+async function openConversation(conversation) {
+  if (pending || uploading || isTranscribing || conversation === activeConversation) return;
+  cancelRecording();
   saveConversation();
   activeConversation = conversation;
+
+  if (currentUser && conversation.id && conversation.nodes.length === 0 && conversation.hasDbMessages) {
+    try {
+      const res = await fetch(`/api/conversations/${conversation.id}`);
+      if (res.ok) {
+        const data = await res.json();
+        if (data.messages && data.messages.length > 0) {
+          conversation.nodes = renderMessagesFromData(data.messages);
+        }
+      }
+    } catch (e) {
+      console.error("Lỗi khi tải tin nhắn:", e);
+    }
+  }
+
   messages.replaceChildren(...conversation.nodes);
   messages.hidden = conversation.nodes.length === 0;
   welcome.hidden = !messages.hidden;
@@ -339,6 +676,7 @@ async function readAnswer(response, target) {
 }
 
 async function ask(value) {
+  cancelRecording();
   const question = value.trim();
   if (!question || pending || uploading) return;
   if (latestFile && fileChoice === null) {
@@ -365,6 +703,13 @@ async function ask(value) {
   if (activeConversation.firstQuestion === null) {
     activeConversation.firstQuestion = question;
     activeConversation.title = question;
+    if (currentUser && activeConversation.id) {
+      fetch(`/api/conversations/${activeConversation.id}`, {
+        method: "PATCH",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ title: question }),
+      }).catch(() => {});
+    }
   }
   setConversationState("loading");
   welcome.hidden = true;
@@ -382,7 +727,12 @@ async function ask(value) {
     const response = await fetch("/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json", "Accept": "application/x-ndjson" },
-      body: JSON.stringify({ question, upload_id: uploadId, history: contextTurns }),
+      body: JSON.stringify({
+        question,
+        upload_id: uploadId,
+        history: contextTurns,
+        conversation_id: activeConversation ? activeConversation.id : undefined,
+      }),
     });
     const result = await readAnswer(response, reply);
     renderAnswer(reply, result);
@@ -424,7 +774,8 @@ async function ask(value) {
 }
 
 function newChat() {
-  if (pending || uploading) return;
+  if (pending || uploading || isTranscribing) return;
+  cancelRecording();
   saveConversation();
   activeConversation = createConversation();
   resetChatView();
@@ -435,6 +786,7 @@ function newChat() {
 }
 
 function resetChatView() {
+  cancelRecording();
   messages.replaceChildren();
   messages.hidden = true;
   welcome.hidden = false;
@@ -450,8 +802,14 @@ function resetChatView() {
 
 form.addEventListener("submit", event => {
   event.preventDefault();
+  if (isTranscribing) return;
+  if (isRecording) {
+    stopRecording();
+    return;
+  }
   ask(input.value);
 });
+mic.addEventListener("click", toggleRecording);
 upload.addEventListener("click", () => fileInput.click());
 replaceFile.addEventListener("click", () => fileInput.click());
 reuseFile.addEventListener("click", () => chooseFile("use"));
@@ -468,6 +826,118 @@ document.addEventListener("click", event => {
 document.querySelector("#new-chat").addEventListener("click", newChat);
 document.querySelector("#mobile-new").addEventListener("click", newChat);
 
+// --- User Auth & Modal Functions ---
+
+function updateUserUI(user) {
+  currentUser = user;
+  if (user) {
+    userLoggedIn.hidden = false;
+    userLoggedOut.hidden = true;
+    userNameDisplay.textContent = user.username;
+    userAvatar.textContent = user.username.charAt(0).toUpperCase();
+    userRoleBadge.textContent = user.role === "admin" ? "Quản trị viên" : "Sinh viên";
+    userRoleBadge.classList.toggle("admin", user.role === "admin");
+    adminLinkBtn.hidden = user.role !== "admin";
+  } else {
+    userLoggedIn.hidden = true;
+    userLoggedOut.hidden = false;
+    adminLinkBtn.hidden = true;
+  }
+}
+
+function openModal(mode = "login") {
+  setAuthTab(mode);
+  authAlert.hidden = true;
+  authUsername.value = "";
+  authPassword.value = "";
+  authModal.hidden = false;
+  authUsername.focus();
+}
+
+function setAuthTab(mode) {
+  authMode = mode;
+  tabLogin.classList.toggle("active", mode === "login");
+  tabRegister.classList.toggle("active", mode === "register");
+  roleSelectGroup.hidden = mode === "login";
+  authSubmitBtn.textContent = mode === "login" ? "Đăng nhập" : "Đăng ký";
+  authAlert.hidden = true;
+}
+
+async function handleAuthSubmit(e) {
+  e.preventDefault();
+  const username = authUsername.value.trim();
+  const password = authPassword.value;
+  const role = authRole.value;
+
+  authAlert.hidden = true;
+  authSubmitBtn.disabled = true;
+
+  const url = authMode === "login" ? "/api/auth/login" : "/api/auth/register";
+  const body = authMode === "login" ? { username, password } : { username, password, role };
+
+  try {
+    const res = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      authAlert.textContent = data.error || "Thao tác thất bại.";
+      authAlert.className = "auth-alert error";
+      authAlert.hidden = false;
+      return;
+    }
+
+    updateUserUI(data.user);
+    authModal.hidden = true;
+    showNotice(authMode === "login" ? `Chào mừng trở lại, ${data.user.username}!` : `Đăng ký thành công tài khoản ${data.user.username}!`);
+    await fetchUserConversations();
+  } catch (err) {
+    authAlert.textContent = "Không thể kết nối đến máy chủ.";
+    authAlert.className = "auth-alert error";
+    authAlert.hidden = false;
+  } finally {
+    authSubmitBtn.disabled = false;
+  }
+}
+
+async function handleLogout() {
+  try {
+    await fetch("/api/auth/logout", { method: "POST" });
+  } finally {
+    updateUserUI(null);
+    conversations.splice(0, conversations.length);
+    activeConversation = null;
+    resetChatView();
+    renderConversations();
+    showNotice("Đã đăng xuất khỏi tài khoản.");
+  }
+}
+
+async function checkCurrentUser() {
+  try {
+    const res = await fetch("/api/auth/me");
+    if (res.ok) {
+      const data = await res.json();
+      updateUserUI(data.user);
+      await fetchUserConversations();
+    } else {
+      updateUserUI(null);
+    }
+  } catch (err) {
+    updateUserUI(null);
+  }
+}
+
+openAuthModal?.addEventListener("click", () => openModal("login"));
+closeAuthModal?.addEventListener("click", () => { authModal.hidden = true; });
+authModal?.addEventListener("click", (e) => { if (e.target === authModal) authModal.hidden = true; });
+tabLogin?.addEventListener("click", () => setAuthTab("login"));
+tabRegister?.addEventListener("click", () => setAuthTab("register"));
+authForm?.addEventListener("submit", handleAuthSubmit);
+logoutBtn?.addEventListener("click", handleLogout);
+
 fetch("/api/status")
   .then(response => {
     if (!response.ok) throw new Error("Status unavailable");
@@ -479,3 +949,7 @@ fetch("/api/status")
     status.classList.toggle("ready", documents > 0);
   })
   .catch(() => { status.textContent = "Mất kết nối máy chủ"; });
+
+// Check login status on page boot
+checkCurrentUser();
+
