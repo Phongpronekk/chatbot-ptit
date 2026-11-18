@@ -7,18 +7,17 @@ from datetime import datetime
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import json
-import logging
 from pathlib import Path
 import threading
 from time import perf_counter
 from urllib.parse import unquote, urlsplit
 
 from conversation import (
-    MAX_QUESTION_CHARS, is_follow_up, is_greeting_only, is_immediate_summary, passage_id, read_history,
-    resolve_person_reference,
+    MAX_QUESTION_CHARS, compact_answer_history, is_greeting_only, passage_id, read_history,
+    resolve_local_context, resolve_person_reference,
 )
 from database import AuthStore, HistoryStore
-from gemini import ContextResolution, Gemini, GenerationError, IncompleteGenerationError
+from gemini import Gemini, GenerationError, IncompleteGenerationError
 from knowledge_manager import KnowledgeManager
 from retrieval import KnowledgeBase
 from uploads import MAX_UPLOAD_BYTES, UploadError, UploadStore, index_upload, is_document_overview
@@ -40,7 +39,6 @@ STATIC = {
 ADMIN_PAGES = {"/admin", "/admin/accounts"}
 MAX_BODY = 10 * 1024 * 1024  # 10 MB for admin uploads
 MAX_CHAT_BODY = 131_072
-LOGGER = logging.getLogger(__name__)
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -130,6 +128,8 @@ class Handler(BaseHTTPRequestHandler):
                 "retrieval": getattr(self.server, "retrieval_mode", "keyword"),
                 "embedding_model": vs.model_name if vs else None,
                 "model": generator.model if generator else None,
+                "context_mode": "local",
+                "max_generation_calls": 1,
             })
             return
 
@@ -484,9 +484,13 @@ class Handler(BaseHTTPRequestHandler):
                 "code": "upload_unavailable",
             })
             return
+        generation_metrics = {"context_mode": "local", "max_calls": 1, "calls": []}
+
         def clarify(answer, *, error=None):
             result = {"intent": "clarification", "answer": answer,
                       "passages": [], "source_ids": []}
+            if generation_metrics:
+                result["generation_metrics"] = generation_metrics
             if error:
                 result["context_error"] = error
             if document is not None:
@@ -502,30 +506,14 @@ class Handler(BaseHTTPRequestHandler):
         answer_history = []
         person = resolve_person_reference(question, history) if document else None
         context_started = perf_counter()
-        if generator and history and operation != "document_overview":
-            previous = history[-1]
-            try:
-                if (is_immediate_summary(question) and previous.get("source_ids")
-                        and not previous.get("answer_truncated")
-                        and previous.get("intent") != "clarification"):
-                    resolution = ContextResolution(
-                        "transform", question, history_index=len(history) - 1,
-                    )
-                else:
-                    resolution = generator.resolve_context(question, history)
-            except GenerationError as error:
-                LOGGER.warning("Context resolution failed after %.0f ms: %s",
-                               (perf_counter() - context_started) * 1000, error)
-                clarify(
-                    "Mình chưa làm rõ được ngữ cảnh. Bạn hãy gửi lại câu hỏi "
-                    "kèm chủ đề, đối tượng hoặc tên người đang nhắc tới nhé.",
-                    error=str(error),
-                )
-                return
+        if operation != "document_overview":
+            resolution = resolve_local_context(question, history)
             if resolution.intent == "clarification":
                 clarify(resolution.clarification)
                 return
             question = resolution.question
+            if resolution.uses_history:
+                answer_history = compact_answer_history(history)
             if resolution.intent == "transform":
                 target = history[resolution.history_index]
                 if target.get("intent") == "clarification" or target.get("answer_truncated"):
@@ -545,19 +533,30 @@ class Handler(BaseHTTPRequestHandler):
                 operation = "transform"
         search_started = perf_counter()
         if operation in {"question", "document_overview"}:
-            if person and (not generator or question == person[0]):
+            if person and question == person[0]:
                 resolved, name = person
                 passages = document.search(resolved, required_phrase=name)
                 if passages:
                     question = resolved
                     context_person = name
             if not passages:
-                if history and not generator and operation == "question" and is_follow_up(question):
-                    clarify("Mình chưa làm rõ được câu hỏi tiếp nối. Bạn hãy ghi đầy đủ "
-                            "chủ đề, đối tượng hoặc tên người muốn tra cứu nhé.",
-                            error="Chưa bật Gemini để xử lý ngữ cảnh.")
-                    return
-                passages = index.search(question)
+                # Exact person searches must never fall back to a different person's row.
+                queries = [question]
+                if question != original_question and not person:
+                    queries.append(original_question)
+                if operation == "document_overview":
+                    passages = index.search(question)
+                elif not person:
+                    seen = set()
+                    for query in queries:
+                        for passage in index.search(query):
+                            key = passage_id(passage)
+                            if key not in seen:
+                                seen.add(key)
+                                passages.append(passage)
+                        if len(passages) >= 6:
+                            break
+                    passages = passages[:6]
         timing = (
             f"context;dur={(search_started - context_started) * 1000:.1f}, "
             f"retrieval;dur={(perf_counter() - search_started) * 1000:.1f}"
@@ -582,15 +581,19 @@ class Handler(BaseHTTPRequestHandler):
 
         if generator and passages and self.headers.get("Accept") == "application/x-ndjson":
             with suppress(ConnectionError):
-                self.stream_answer(question, passages, result, generator,
+                self.stream_answer(original_question, passages, result, generator,
                                    history=answer_history, operation=operation,
-                                   user=user, conversation_id=conversation_id, timing=timing)
+                                   retrieval_question=question if question != original_question else None,
+                                   user=user, conversation_id=conversation_id, timing=timing,
+                                   metrics=generation_metrics)
             return
 
         if generator and passages:
             try:
-                answer = generator.answer(question, passages, history=answer_history,
-                                          operation=operation, require_complete=True)
+                answer = generator.answer(original_question, passages, history=answer_history,
+                                          retrieval_question=question if question != original_question else None,
+                                          operation=operation, require_complete=True,
+                                          metrics=generation_metrics)
                 result["answer"] = answer
                 result["model"] = generator.model
                 if user and conversation_id:
@@ -625,10 +628,14 @@ class Handler(BaseHTTPRequestHandler):
                     daemon=True,
                 ).start()
 
+        if generation_metrics:
+            result["generation_metrics"] = generation_metrics
         self.send_json(HTTPStatus.OK, result, headers={"Server-Timing": timing})
 
     def stream_answer(self, question, passages, result, generator, *, history=(),
-                      operation="question", user=None, conversation_id=None, timing):
+                      operation="question", retrieval_question=None, user=None,
+                      conversation_id=None, timing, metrics=None):
+        metrics = metrics if metrics is not None else {}
         self.send_response(HTTPStatus.OK)
         self.send_header("Content-Type", "application/x-ndjson; charset=utf-8")
         self.send_header("Cache-Control", "no-store")
@@ -647,24 +654,17 @@ class Handler(BaseHTTPRequestHandler):
         try:
             send_event({**result, "model": generator.model})
             with closing(generator.stream_answer(question, passages, history=history,
-                                                 operation=operation)) as stream:
+                                                 operation=operation, retrieval_question=retrieval_question,
+                                                 metrics=metrics)) as stream:
                 for delta in stream:
                     collected_answer.append(delta)
                     send_event({"delta": delta})
-        except IncompleteGenerationError:
-            try:
-                answer = generator.answer(question, passages, history=history, operation=operation,
-                                          require_complete=True)
-                collected_answer = [answer]
-            except GenerationError as error:
-                send_event({"generation_error": str(error), "done": True})
-            else:
-                send_event({"answer": answer, "done": True})
         except GenerationError as error:
-            send_event({"generation_error": str(error), "done": True})
+            send_event({"generation_error": str(error), "done": True,
+                        "incomplete": isinstance(error, IncompleteGenerationError),
+                        "generation_metrics": metrics})
         else:
-            send_event({"done": True})
-        finally:
+            send_event({"done": True, "generation_metrics": metrics})
             full_text = "".join(collected_answer).strip()
             if full_text and user and conversation_id:
                 threading.Thread(
@@ -723,6 +723,9 @@ def main():
             server.serve_forever()
         except KeyboardInterrupt:
             pass
+        finally:
+            if generator is not None:
+                generator.close()
 
 
 if __name__ == "__main__":

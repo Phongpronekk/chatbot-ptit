@@ -41,9 +41,15 @@ Bạn có thể thử ba câu hỏi sau.
 
 Nếu kết quả quá rộng, hãy thêm mã học phần, khóa tuyển sinh, học kỳ hoặc năm học. Với thông báo theo đợt, ngày tháng trong câu hỏi giúp phân biệt các thông báo cùng chủ đề.
 
-Để thử hỏi tiếp theo ngữ cảnh khi đã bật Gemini, gửi “CNTT khóa 2025 có bao nhiêu tín chỉ?” rồi hỏi “Thế khóa 2024 thì sao?” trong cùng cuộc trò chuyện. Hệ thống có thể dùng tối đa ba lượt gần nhất cùng nguồn để hiểu câu hỏi tiếp nối. Nếu bạn đang chạy tra cứu từ khóa và câu hỏi tiếp nối trả về kết quả chưa đúng, hãy viết đầy đủ chủ đề, ví dụ “CNTT khóa 2024 có bao nhiêu tín chỉ?”.
+Để thử hỏi tiếp theo ngữ cảnh, gửi “Thủ tục cấp lại thẻ sinh viên như thế nào?” rồi hỏi “Cần giấy tờ gì?” trong cùng cuộc trò chuyện. Backend chuẩn bị ngữ cảnh và truy vấn cục bộ, sau đó gọi Gemini **tối đa một lần cho mỗi câu hỏi văn bản** để tạo đáp án. Câu độc lập giữ nguyên chủ đề mới; câu tiếp nối thông dụng được bổ sung chủ đề trước khi tìm nguồn. Khi người dùng đổi khóa hoặc năm học, điều kiện mới thay điều kiện cũ trong truy vấn. “Tóm tắt lại” hoặc “Giải thích thêm” dùng câu trả lời và các nguồn đã kiểm tra của lượt được nhắc đến.
+
+Hệ thống giữ tối đa **6 lượt gần nhất**, tối đa **10.000 ký tự mỗi câu trả lời** và **24.000 ký tự cho tổng câu hỏi/câu trả lời trong ngữ cảnh**. Khi vượt giới hạn tổng, các lượt cũ nhất được bỏ trước. Với câu tiếp nối thông thường, prompt chỉ gửi tối đa hai lượt liên quan gần nhất, giới hạn 1.200 ký tự mỗi đáp án và đánh dấu phần bị cắt. Khi tóm tắt hoặc diễn đạt lại, prompt giữ đầy đủ lượt được chọn; lượt vốn đã bị cắt sẽ được yêu cầu hỏi lại. Nguồn của lượt trước được giữ bằng mã tham chiếu và kiểm tra lại trong kho tài liệu hoặc tệp đang dùng. Lịch sử chỉ là gợi ý ngữ cảnh; thông tin học vụ phải dựa trên các trích đoạn nguồn hiện tại.
+
+Các tham chiếu người hoặc đối tượng quá mơ hồ được hỏi lại cục bộ. Các cách diễn đạt phức tạp ngoài quy tắc có thể cần người dùng ghi câu hỏi đầy đủ. Khi chưa bật Gemini, phần chuẩn bị truy vấn vẫn hoạt động và kết quả là các trích đoạn tìm được. Nếu Gemini hoặc streaming gặp lỗi, backend trả thông báo lỗi và **không tự gọi lại**, kể cả khi chạm giới hạn token. Phần đáp án chưa hoàn tất không được lưu thành tin nhắn bot hoàn chỉnh trong CSDL. Trạng thái `/api/status` có `context_mode: "local"`, `max_generation_calls: 1`; trường `generation_metrics.calls` của kết quả cho biết số lượt gọi thực tế.
 
 Nút **Cuộc trò chuyện mới** đặt lại nội dung đang hiển thị, ngữ cảnh và lựa chọn tệp. Bạn có thể bấm một câu trong **Câu hỏi gần đây** để gửi lại. Tải lại trang sẽ làm mất lịch sử của tab đó.
+
+Tin nhắn chỉ có lời chào như “Xin chào”, “chao ban a” hoặc “Hi!” nhận câu trả lời “Chào bạn!”, không tìm tài liệu hay gọi Gemini. Tin nhắn có cả lời chào và câu hỏi như “Chào bạn, học phí kỳ này bao nhiêu?” vẫn được tra cứu bình thường. Lượt chào không được dùng làm ngữ cảnh viết lại câu hỏi và giữ nguyên lựa chọn tệp, ngữ cảnh tra cứu trước đó.
 
 ## 3. Bật Gemini để nhận câu trả lời tổng hợp
 
@@ -82,7 +88,7 @@ python -m venv .venv
 1. Trên giao diện, bấm **biểu tượng kẹp giấy** cạnh ô nhập câu hỏi và chọn tệp. Định dạng hỗ trợ gồm `.docx`, `.pdf`, `.md`, `.markdown`, `.xlsx` và `.xls`.
 2. Đợi thông báo **Tệp đã sẵn sàng cho câu hỏi tiếp theo.** Tệp vừa tải được tự chọn cho câu hỏi đầu tiên.
 3. Nhập câu hỏi có từ khóa xuất hiện trong tên mục, tiêu đề cột hoặc nội dung tệp. Ví dụ, nếu tệp Excel có cột “Mã học phần” và “Học phí”, bạn có thể hỏi “Học phí của mã học phần INT1313 trong bảng là bao nhiêu?”. Gửi câu hỏi và mở mục nguồn để xem phần, trang hoặc dòng dữ liệu được dùng.
-4. Trước mỗi câu hỏi tiếp theo, chọn **Dùng lại tệp** để hỏi tiếp về tệp đó, **Tải tệp mới** để đổi tài liệu hoặc **Không dùng tệp** để quay về tra cứu kho PTIT. Đổi nguồn tra cứu sẽ bắt đầu lại ngữ cảnh.
+4. Tệp đầu tiên được chọn mặc định và tiếp tục dùng cho các câu hỏi sau. Dùng danh sách **Tệp sử dụng** để chọn tệp đã tải hoặc **Không dùng tệp** để tra cứu kho PTIT. Nút **Tải tệp mới** thêm tệp vào danh sách. Đổi nguồn tra cứu sẽ bắt đầu lại ngữ cảnh.
 
 Mỗi tệp được hỗ trợ tối đa **10 MB** và **500.000 ký tự** sau khi trích xuất. PDF cần có lớp văn bản có thể chọn hoặc sao chép. Với Excel, hệ thống đọc giá trị công thức đã lưu nếu có. Nếu tệp hết hạn sau hai giờ không dùng hoặc trở nên không khả dụng sau khi khởi động lại máy chủ, hãy tải lại tệp.
 
@@ -133,4 +139,17 @@ Khi sửa tài liệu trong `knowledge_base/`, hãy khởi động lại máy ch
 | [`requirements.txt`](requirements.txt) | Thư viện đọc tệp và tìm kiếm vector. |
 | [`.env.example`](.env.example) | Mẫu cấu hình Gemini. |
 
-Giao diện dùng `GET /api/status` để xem số tài liệu, chế độ tra cứu và model đã cấu hình, `POST /api/uploads` để tải tệp và `POST /api/chat` để gửi câu hỏi. API chat nhận JSON có trường `question`, cùng các trường tùy chọn `upload_id` và `history`. Trường `history` chứa tối đa ba lượt cùng nguồn theo thứ tự từ cũ đến mới, mỗi lượt có `question` và `answer`. API mặc định trả JSON. Client có thể gửi header `Accept: application/x-ndjson` để nhận câu trả lời theo luồng khi Gemini được bật và có trích đoạn phù hợp.
+Giao diện dùng `GET /api/status` để xem số tài liệu, chế độ tra cứu và model đã cấu hình, `POST /api/uploads` để tải tệp và `POST /api/chat` để gửi câu hỏi. API chat nhận JSON có trường `question`, cùng các trường tùy chọn `upload_id` và `history`. Trường `history` chứa tối đa sáu lượt cùng nguồn theo thứ tự từ cũ đến mới, mỗi lượt có `question` và `answer`; có thể kèm `intent` (`question`, `transform`, `clarification`), `source_ids`, `person` và cờ `answer_truncated`. Phản hồi tra cứu có `source_ids` theo đúng thứ tự `passages`; gửi lại các mã này trong lượt lịch sử tương ứng để hỗ trợ tóm tắt hoặc giải thích nguồn cũ. Client không cần gửi lại nội dung trích đoạn. API giới hạn thân yêu cầu ở 128 KiB. API mặc định trả JSON. Client có thể gửi header `Accept: application/x-ndjson` để nhận câu trả lời theo luồng khi Gemini được bật và có trích đoạn phù hợp.
+
+Với lời chào thuần túy, API luôn trả JSON `{"intent":"greeting","answer":"Chào bạn!","passages":[]}`, kể cả khi client yêu cầu NDJSON.
+
+Khi cần làm rõ, API trả JSON với `intent: clarification`, câu hỏi bổ sung trong `answer`, `passages: []` và `source_ids: []`. Trường `context_error` xuất hiện nếu bước làm rõ lỗi; frontend hiển thị câu hỏi bổ sung thay cho thông báo thiếu tài liệu. Lượt làm rõ được giữ để câu tiếp theo như “Đúng rồi” có thể xác nhận chủ đề, nhưng không được dùng làm nguồn thông tin học vụ. Câu trả lời sinh lỗi hoặc luồng bị ngắt không được lưu vào ngữ cảnh.
+
+## Kiểm thử
+
+Các kiểm thử dùng mô phỏng HTTP/Gemini và DOM, không gọi API thật hoặc cần cài thêm thư viện:
+
+~~~powershell
+python -X utf8 -m unittest discover -s backend -p 'test_*.py' -v
+node --test frontend/test_context.cjs
+~~~

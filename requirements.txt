@@ -1,3 +1,6 @@
+# Gemini connection pooling (keyword-only mode also works without this package)
+httpx>=0.28,<1
+
 # Document uploads
 pypdf>=6.10,<8
 python-docx>=1.2,<2
