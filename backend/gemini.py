@@ -54,7 +54,7 @@ Câu hỏi đã độc lập hoặc đổi chủ đề rõ ràng phải giữ ng
 "history_index":0}: yêu cầu tóm tắt, giải thích hoặc diễn đạt lại một câu trả lời
 cũ. history_index là chỉ số nguyên bắt đầu từ 0 của lượt phù hợp trong mảng history.
 Ưu tiên lượt gần nhất, trừ khi người dùng chỉ rõ lượt khác. Chỉ chọn lượt có nguồn
-trong source_ids, không có answer_truncated=true và không có intent=clarification.
+theo has_sources=true, không có answer_truncated=true và không có intent=clarification.
 Có thể chọn lượt chỉ có trích đoạn nguồn dù trường answer rỗng.
 3. {"intent":"clarification","clarification":"câu hỏi làm rõ cho người dùng"}:
 không đủ ngữ cảnh, có nhiều đối tượng phù hợp hoặc lượt cần diễn đạt bị thiếu/cắt.
@@ -168,16 +168,21 @@ class Gemini:
 
         try:
             yield response
+        except (OSError, HTTPException) as exc:
+            raise GenerationError(f"Kết nối tới Gemini bị gián đoạn: {exc}") from None
         finally:
             response.close()
 
     @contextmanager
-    def response(self, prompt, method, *, instruction=INSTRUCTION, max_tokens=2048, timeout=25):
+    def response(self, prompt, method, *, instruction=INSTRUCTION, max_tokens=2048, timeout=25,
+                 response_mime_type=None):
         payload = {
             "systemInstruction": {"parts": [{"text": instruction}]},
             "contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"maxOutputTokens": max_tokens},
         }
+        if response_mime_type:
+            payload["generationConfig"]["responseMimeType"] = response_mime_type
         with self.raw_response(payload, method, timeout=timeout) as response:
             yield response
 
@@ -251,10 +256,19 @@ class Gemini:
         return answer
 
     def resolve_context(self, question, history):
-        prompt = json.dumps({"history": history, "question": question}, ensure_ascii=False)
+        context = []
+        for turn in history:
+            entry = dict(turn)
+            entry["has_sources"] = bool(entry.pop("source_ids", []))
+            context.append(entry)
+        prompt = json.dumps({"history": context, "question": question}, ensure_ascii=False)
         with self.response(prompt, "generateContent", instruction=CONTEXT_INSTRUCTION,
-                           max_tokens=1024, timeout=12) as response:
-            candidate = json.load(response)["candidates"][0]
+                           max_tokens=1024, timeout=12,
+                           response_mime_type="application/json") as response:
+            try:
+                candidate = json.load(response)["candidates"][0]
+            except (IndexError, KeyError, TypeError, ValueError):
+                raise GenerationError("Gemini không trả ngữ cảnh hợp lệ.") from None
             if candidate.get("finishReason") != "STOP":
                 raise GenerationError("Gemini chưa xử lý xong ngữ cảnh.")
             text = "".join(self.answer_parts(candidate)).strip()

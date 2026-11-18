@@ -36,6 +36,11 @@ def is_greeting_only(question):
     return GREETING.fullmatch(text) is not None
 
 
+def is_immediate_summary(question):
+    text = " ".join(re.findall(r"\w+", fold(question)))
+    return text in {"tom tat lai", "rut gon lai", "viet ngan gon lai"}
+
+
 def passage_id(passage):
     """Refer to an original source without sending its text back from the browser."""
     data = json.dumps(asdict(passage), ensure_ascii=False, sort_keys=True)

@@ -10,14 +10,15 @@ import json
 import logging
 from pathlib import Path
 import threading
+from time import perf_counter
 from urllib.parse import unquote, urlsplit
 
 from conversation import (
-    MAX_QUESTION_CHARS, is_follow_up, is_greeting_only, passage_id, read_history,
+    MAX_QUESTION_CHARS, is_follow_up, is_greeting_only, is_immediate_summary, passage_id, read_history,
     resolve_person_reference,
 )
 from database import AuthStore, HistoryStore
-from gemini import Gemini, GenerationError, IncompleteGenerationError
+from gemini import ContextResolution, Gemini, GenerationError, IncompleteGenerationError
 from knowledge_manager import KnowledgeManager
 from retrieval import KnowledgeBase
 from uploads import MAX_UPLOAD_BYTES, UploadError, UploadStore, index_upload, is_document_overview
@@ -498,23 +499,29 @@ class Handler(BaseHTTPRequestHandler):
         passages = []
         context_person = None
         operation = "document_overview" if document and is_document_overview(question) else "question"
-        answer_history = history
+        answer_history = []
         person = resolve_person_reference(question, history) if document else None
+        context_started = perf_counter()
         if generator and history and operation != "document_overview":
-            for attempt in range(2):
-                try:
-                    resolution = generator.resolve_context(question, history)
-                except GenerationError as error:
-                    LOGGER.warning("Context resolution failed (attempt %d/2): %s", attempt + 1, error)
-                    if attempt == 1:
-                        clarify(
-                            "Mình chưa làm rõ được ngữ cảnh. Bạn hãy gửi lại câu hỏi "
-                            "kèm chủ đề, đối tượng hoặc tên người đang nhắc tới nhé.",
-                            error=str(error),
-                        )
-                        return
+            previous = history[-1]
+            try:
+                if (is_immediate_summary(question) and previous.get("source_ids")
+                        and not previous.get("answer_truncated")
+                        and previous.get("intent") != "clarification"):
+                    resolution = ContextResolution(
+                        "transform", question, history_index=len(history) - 1,
+                    )
                 else:
-                    break
+                    resolution = generator.resolve_context(question, history)
+            except GenerationError as error:
+                LOGGER.warning("Context resolution failed after %.0f ms: %s",
+                               (perf_counter() - context_started) * 1000, error)
+                clarify(
+                    "Mình chưa làm rõ được ngữ cảnh. Bạn hãy gửi lại câu hỏi "
+                    "kèm chủ đề, đối tượng hoặc tên người đang nhắc tới nhé.",
+                    error=str(error),
+                )
+                return
             if resolution.intent == "clarification":
                 clarify(resolution.clarification)
                 return
@@ -536,6 +543,7 @@ class Handler(BaseHTTPRequestHandler):
                 passages = [available[key] for key in source_ids]
                 answer_history = [target]
                 operation = "transform"
+        search_started = perf_counter()
         if operation in {"question", "document_overview"}:
             if person and (not generator or question == person[0]):
                 resolved, name = person
@@ -550,6 +558,10 @@ class Handler(BaseHTTPRequestHandler):
                             error="Chưa bật Gemini để xử lý ngữ cảnh.")
                     return
                 passages = index.search(question)
+        timing = (
+            f"context;dur={(search_started - context_started) * 1000:.1f}, "
+            f"retrieval;dur={(perf_counter() - search_started) * 1000:.1f}"
+        )
         # Save user question to DB in background
         if user and conversation_id:
             threading.Thread(
@@ -572,7 +584,7 @@ class Handler(BaseHTTPRequestHandler):
             with suppress(ConnectionError):
                 self.stream_answer(question, passages, result, generator,
                                    history=answer_history, operation=operation,
-                                   user=user, conversation_id=conversation_id)
+                                   user=user, conversation_id=conversation_id, timing=timing)
             return
 
         if generator and passages:
@@ -613,14 +625,15 @@ class Handler(BaseHTTPRequestHandler):
                     daemon=True,
                 ).start()
 
-        self.send_json(HTTPStatus.OK, result)
+        self.send_json(HTTPStatus.OK, result, headers={"Server-Timing": timing})
 
     def stream_answer(self, question, passages, result, generator, *, history=(),
-                      operation="question", user=None, conversation_id=None):
+                      operation="question", user=None, conversation_id=None, timing):
         self.send_response(HTTPStatus.OK)
         self.send_header("Content-Type", "application/x-ndjson; charset=utf-8")
         self.send_header("Cache-Control", "no-store")
         self.send_header("X-Content-Type-Options", "nosniff")
+        self.send_header("Server-Timing", timing)
         self.send_header("Connection", "close")
         self.close_connection = True
         self.end_headers()

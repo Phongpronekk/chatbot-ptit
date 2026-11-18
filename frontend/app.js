@@ -457,7 +457,9 @@ function appendInline(parent, text) {
     } else if (in1 || in2) {
       parent.append(renderMathSpan(in1 || in2, false));
     } else if (bold) {
-      parent.append(element("strong", bold));
+      const strong = element("strong");
+      appendInline(strong, bold);
+      parent.append(strong);
     } else if (url) {
       parent.append(sourceLink(label, url));
     } else if (cite) {
@@ -515,7 +517,17 @@ function renderExcerpt(parent, text) {
   }
 }
 
-function renderAnswer(target, { passages, answer, intent, model, document: filename, generation_error: generationError }) {
+function renderSources(passages, filename) {
+  return passages.map(({ title, section, text, url }, index) => {
+    const details = element("details", "", "source-card");
+    details.append(element("summary", "[" + (index + 1) + "] " + (filename ? title + " · " : "") + section));
+    renderExcerpt(details, text);
+    if (/^https:\/\//.test(url)) details.append(sourceLink(title + " ↗", url));
+    return details;
+  });
+}
+
+function renderAnswer(target, { passages, answer, intent, model, document: filename, generation_error: generationError }, sourceCards) {
   const heading = element("strong", "PTIT Chat");
   target.replaceChildren(heading);
   if (intent === "greeting" || intent === "clarification") {
@@ -541,14 +553,9 @@ function renderAnswer(target, { passages, answer, intent, model, document: filen
     warning.setAttribute("role", "alert");
     target.append(warning);
   }
-  passages.forEach(({ title, section, text, url }, index) => {
-    const details = element("details", "", "source-card");
-    details.open = !answer && index === 0;
-    details.append(element("summary", "[" + (index + 1) + "] " + (filename ? title + " · " : "") + section));
-    renderExcerpt(details, text);
-    if (/^https:\/\//.test(url)) details.append(sourceLink(title + " ↗", url));
-    target.append(details);
-  });
+  const sources = sourceCards?.length ? sourceCards : renderSources(passages, filename);
+  if (!answer && sources.length) sources[0].open = true;
+  target.append(...sources);
 }
 
 function renderConversations() {
@@ -683,12 +690,10 @@ async function readAnswer(response, target) {
         Object.assign(result, metadata);
         if (metadata.passages && !hasShownSources) {
           hasShownSources = true;
+          target.append(...renderSources(metadata.passages, metadata.document));
           const statusSpan = loading.querySelector("span:last-child");
           if (statusSpan) {
-            const count = metadata.passages.length;
-            statusSpan.textContent = count > 0
-              ? `Đã tìm thấy ${count} tài liệu liên quan · Đang tạo câu trả lời…`
-              : "Đang phân tích và tạo câu trả lời…";
+            statusSpan.textContent = "Đang phân tích và tạo câu trả lời…";
           }
         }
         if (delta) result.answer += delta;
@@ -803,7 +808,7 @@ async function ask(value) {
       }),
     });
     const result = await readAnswer(response, reply);
-    renderAnswer(reply, result);
+    renderAnswer(reply, result, reply.querySelectorAll(":scope > .source-card"));
     if (result.intent === "greeting") {
       setConversationState("done");
       return;
