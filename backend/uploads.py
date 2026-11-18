@@ -11,6 +11,7 @@ from time import monotonic
 from zipfile import ZipFile
 
 from retrieval import KeywordIndex, Passage, fold, markdown_passages
+from conversation import MAX_SOURCE_IDS
 from math_formatting import extract_docx_cell, extract_docx_paragraph, format_math_text
 
 MAX_UPLOAD_BYTES = 10 * 1024 * 1024
@@ -19,6 +20,7 @@ MAX_ARCHIVE_BYTES = 40 * 1024 * 1024
 MAX_SHEET_ROWS = 100_000
 CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 140
+MAX_OVERVIEW_PASSAGES = MAX_SOURCE_IDS
 UPLOAD_TTL = 2 * 60 * 60
 MAX_STORED_UPLOADS = 32
 
@@ -168,6 +170,19 @@ def chunks(text):
         yield text
 
 
+def is_document_overview(question):
+    text = " ".join(fold(question).split()).strip(" ?!.")
+    action = r"(?:tom tat(?: va phan tich)?|phan tich(?: va tom tat)?|tong hop|tong quan|danh gia)"
+    subject = r"(?:tai lieu|tep|file)(?: nay)?"
+    return bool(
+        re.fullmatch(
+            rf"(?:hay |giup toi )?{action}(?: (?:noi dung(?: chinh)?(?: cua)?(?: {subject})?|{subject}))?"
+            r"(?: (?:giup toi|voi))?", text,
+        )
+        or re.fullmatch(rf"(?:noi dung(?: chinh)? cua {subject} la gi|{subject} noi ve gi)", text)
+    )
+
+
 class UploadedDocument:
     def __init__(self, name, passages):
         self.name = name
@@ -184,16 +199,13 @@ class UploadedDocument:
                 phrase = r"[^\S\r\n]+".join(words)
                 exact = re.compile(rf"(?<!\w){phrase}(?!\w)")
             return self.index.search(question, required_match=lambda text: exact.search(fold(text)))
-        # A general summary may have no keywords in common with the document.
-        text = " ".join(fold(question).split()).rstrip(" ?!.")
-        subject = r"(?:tai lieu|tep|file)(?: nay)?"
-        if (
-            re.fullmatch(rf"(?:hay |giup toi )?(?:tom tat|tong quan)(?: (?:noi dung )?"
-                         rf"{subject})?(?: (?:giup toi|voi))?", text)
-            or re.fullmatch(rf"(?:noi dung(?: chinh)? cua {subject} la gi|{subject} noi ve gi)", text)
-        ):
+        # Whole-document requests need coverage across the file, including its ending.
+        if is_document_overview(question):
             passages = self.index.passages
-            positions = sorted({0, (len(passages) - 1) // 2, len(passages) - 1})
+            if len(passages) <= MAX_OVERVIEW_PASSAGES:
+                return list(passages)
+            positions = [round(i * (len(passages) - 1) / (MAX_OVERVIEW_PASSAGES - 1))
+                         for i in range(MAX_OVERVIEW_PASSAGES)]
             return [passages[position] for position in positions]
         return self.index.search(question)
 

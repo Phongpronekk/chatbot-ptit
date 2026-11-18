@@ -4,17 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#faf8f6">
-  <title>PTIT Admin · Quản trị tài liệu & Embedding</title>
+  <title>PTIT Admin · Tài liệu</title>
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/admin.css">
 </head>
-<body class="admin-body">
+<body class="admin-body admin-documents">
   <header class="admin-topbar">
     <div class="admin-topbar-left">
-      <a href="/" class="admin-back-btn" title="Quay lại giao diện chat">← Về trang Chat</a>
       <div class="brand">
         <span class="brand-mark" aria-hidden="true">P</span>
-        <div><strong>PTIT Admin</strong><span>Quản trị tri thức RAG & Embedding</span></div>
+        <div><strong>PTIT Admin</strong><span>Quản trị hệ thống</span></div>
       </div>
     </div>
     <div class="admin-topbar-right">
@@ -24,10 +23,11 @@
   </header>
 
   <main class="admin-container">
-    <div class="admin-header">
-      <h1>Hệ thống Quản trị Tài liệu & Vector Embedding</h1>
-      <p>Tải lên tài liệu học vụ mới, tự động tách đoạn và nhúng vector (embedding) vào hệ thống tra cứu RAG tức thì mà không cần khởi động lại máy chủ.</p>
-    </div>
+    <nav class="admin-nav" aria-label="Các mục quản trị">
+      <a href="/admin" aria-current="page">Tài liệu</a>
+      <a href="/admin/accounts">Tài khoản</a>
+    </nav>
+    <h1 class="admin-page-title">Quản lý tài liệu</h1>
 
     <!-- Status cards -->
     <section class="admin-stats-grid">
@@ -89,16 +89,6 @@
           <button id="reindex-all-btn" type="button" class="admin-btn secondary">Lập lại chỉ mục toàn bộ (Re-index All)</button>
           <div id="reindex-status" class="reindex-status"></div>
         </div>
-
-        <div class="quick-test-box">
-          <h3>Thử nghiệm truy vấn nhanh</h3>
-          <p class="card-hint">Kiểm tra kết quả embedding trực tiếp từ kho tri thức hiện tại.</p>
-          <div class="quick-test-input-group">
-            <input id="quick-test-input" placeholder="Ví dụ: Quy định nộp học phí kỳ II..." maxlength="300">
-            <button id="quick-test-btn" type="button" class="admin-btn secondary">Thử tìm</button>
-          </div>
-          <div id="quick-test-results" class="quick-test-results" hidden></div>
-        </div>
       </div>
     </section>
 
@@ -110,7 +100,7 @@
       </div>
 
       <div class="table-responsive">
-        <table class="doc-table">
+        <table class="admin-table">
           <thead>
             <tr>
               <th>Tiêu đề tài liệu</th>
@@ -129,6 +119,6 @@
     </section>
   </main>
 
-  <script src="/admin.js" defer></script>
+  <script src="/admin.js" type="module"></script>
 </body>
 </html>

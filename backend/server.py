@@ -7,16 +7,20 @@ from datetime import datetime
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import json
+import logging
 from pathlib import Path
 import threading
 from urllib.parse import unquote, urlsplit
 
-from conversation import MAX_QUESTION_CHARS, is_follow_up, read_history, resolve_person_reference
+from conversation import (
+    MAX_QUESTION_CHARS, is_follow_up, is_greeting_only, passage_id, read_history,
+    resolve_person_reference,
+)
 from database import AuthStore, HistoryStore
 from gemini import Gemini, GenerationError, IncompleteGenerationError
 from knowledge_manager import KnowledgeManager
 from retrieval import KnowledgeBase
-from uploads import MAX_UPLOAD_BYTES, UploadError, UploadStore, index_upload
+from uploads import MAX_UPLOAD_BYTES, UploadError, UploadStore, index_upload, is_document_overview
 
 ROOT = Path(__file__).resolve().parent.parent
 FRONTEND = ROOT / "frontend"
@@ -26,10 +30,16 @@ STATIC = {
     "/app.js": ("app.js", "text/javascript; charset=utf-8"),
     "/admin": ("admin.html", "text/html; charset=utf-8"),
     "/admin.html": ("admin.html", "text/html; charset=utf-8"),
+    "/admin/accounts": ("admin-accounts.html", "text/html; charset=utf-8"),
     "/admin.css": ("admin.css", "text/css; charset=utf-8"),
     "/admin.js": ("admin.js", "text/javascript; charset=utf-8"),
+    "/admin-accounts.js": ("admin-accounts.js", "text/javascript; charset=utf-8"),
+    "/admin-session.js": ("admin-session.js", "text/javascript; charset=utf-8"),
 }
+ADMIN_PAGES = {"/admin", "/admin/accounts"}
 MAX_BODY = 10 * 1024 * 1024  # 10 MB for admin uploads
+MAX_CHAT_BODY = 131_072
+LOGGER = logging.getLogger(__name__)
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -83,6 +93,25 @@ class Handler(BaseHTTPRequestHandler):
             return None
         return user
 
+    def allow_chat(self, user):
+        if user and user["role"] == "admin":
+            self.close_connection = True
+            # Windows can reset the connection before delivering the response if the body remains unread.
+            with suppress(ValueError, OSError):
+                size = int(self.headers.get("Content-Length", "0"))
+                if 0 < size <= MAX_BODY:
+                    self.connection.settimeout(1)
+                    self.rfile.read(size)
+            self.send_json(HTTPStatus.FORBIDDEN, {"error": "Tài khoản quản trị chỉ có quyền quản lý."})
+            return False
+        return True
+
+    def require_chat_user(self):
+        user = self.require_auth()
+        if user and self.allow_chat(user):
+            return user
+        return None
+
     def read_json_body(self):
         size = int(self.headers.get("Content-Length", "0"))
         if not 0 < size <= 65536:
@@ -112,7 +141,7 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         if path == "/api/conversations":
-            user = self.require_auth()
+            user = self.require_chat_user()
             if not user:
                 return
             convs = self.server.history.get_conversations(user["user_id"])
@@ -120,7 +149,7 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         if path.startswith("/api/conversations/"):
-            user = self.require_auth()
+            user = self.require_chat_user()
             if not user:
                 return
             conv_id = path.split("/api/conversations/", 1)[1]
@@ -146,8 +175,18 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         if path in STATIC:
+            headers = None
+            if path in ADMIN_PAGES or path in {"/", "/admin.html"}:
+                headers = {"Cache-Control": "no-store"}
+                user = self.get_current_user()
+                destination = "/"
+                if user and user["role"] == "admin":
+                    destination = path if path in ADMIN_PAGES else "/admin"
+                if destination != path:
+                    self.send_bytes(HTTPStatus.FOUND, b"", "text/plain", {**headers, "Location": destination})
+                    return
             file, media_type = STATIC[path]
-            self.send_bytes(HTTPStatus.OK, (FRONTEND / file).read_bytes(), media_type)
+            self.send_bytes(HTTPStatus.OK, (FRONTEND / file).read_bytes(), media_type, headers=headers)
             return
 
         self.send_json(HTTPStatus.NOT_FOUND, {"error": "Không tìm thấy địa chỉ."})
@@ -177,8 +216,11 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_DELETE(self):
         path = urlsplit(self.path).path
+        if path.startswith("/api/admin/users/"):
+            self.admin_change_user(path, delete=True)
+            return
         if path.startswith("/api/conversations/"):
-            user = self.require_auth()
+            user = self.require_chat_user()
             if not user:
                 return
             conv_id = path.split("/api/conversations/", 1)[1]
@@ -201,8 +243,11 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_PATCH(self):
         path = urlsplit(self.path).path
+        if path.startswith("/api/admin/users/"):
+            self.admin_change_user(path)
+            return
         if path.startswith("/api/conversations/"):
-            user = self.require_auth()
+            user = self.require_chat_user()
             if not user:
                 return
             conv_id = path.split("/api/conversations/", 1)[1]
@@ -225,8 +270,9 @@ class Handler(BaseHTTPRequestHandler):
             data = self.read_json_body()
             username = data.get("username", "")
             password = data.get("password", "")
-            role = data.get("role", "user")
-            user = self.server.auth.register_user(username, password, role=role)
+            if data.get("role", "user") != "user":
+                raise ValueError("Đăng ký chỉ dành cho tài khoản người dùng.")
+            user = self.server.auth.register_user(username, password)
             token = self.server.auth.create_session(user["id"], user["username"], user["role"])
             cookie = f"session_token={token}; Path=/; SameSite=Lax; Max-Age=604800"
             self.send_json(HTTPStatus.CREATED, {"user": user, "token": token}, headers={"Set-Cookie": cookie})
@@ -244,7 +290,7 @@ class Handler(BaseHTTPRequestHandler):
             if not user:
                 self.send_json(HTTPStatus.UNAUTHORIZED, {"error": "Tài khoản hoặc mật khẩu không chính xác."})
                 return
-            token = self.server.auth.create_session(user["id"], user["username"], user["role"])
+            token = self.server.auth.create_session(user["id"], user["username"], user["role"], password=password)
             cookie = f"session_token={token}; Path=/; SameSite=Lax; Max-Age=604800"
             self.send_json(HTTPStatus.OK, {"user": user, "token": token}, headers={"Set-Cookie": cookie})
         except Exception as e:
@@ -258,7 +304,7 @@ class Handler(BaseHTTPRequestHandler):
         self.send_json(HTTPStatus.OK, {"message": "Đã đăng xuất."}, headers={"Set-Cookie": cookie})
 
     def create_conversation(self):
-        user = self.require_auth()
+        user = self.require_chat_user()
         if not user:
             return
         try:
@@ -273,6 +319,25 @@ class Handler(BaseHTTPRequestHandler):
             self.send_json(HTTPStatus.BAD_REQUEST, {"error": str(e)})
 
     # --- Admin Handlers ---
+
+    def admin_change_user(self, path, *, delete=False):
+        if not self.require_admin():
+            return
+        try:
+            user_id = path.removeprefix("/api/admin/users/")
+            if not user_id.isascii() or not user_id.isdigit():
+                raise LookupError("Không tìm thấy tài khoản.")
+            if delete:
+                self.server.auth.delete_user(int(user_id))
+            else:
+                self.server.auth.update_user(int(user_id), self.read_json_body())
+            self.send_json(HTTPStatus.OK, {"success": True})
+        except PermissionError as error:
+            self.send_json(HTTPStatus.FORBIDDEN, {"error": str(error)})
+        except LookupError as error:
+            self.send_json(HTTPStatus.NOT_FOUND, {"error": str(error)})
+        except (ValueError, UnicodeError) as error:
+            self.send_json(HTTPStatus.BAD_REQUEST, {"error": str(error)})
 
     def admin_upload_document(self):
         if not self.require_admin():
@@ -304,6 +369,8 @@ class Handler(BaseHTTPRequestHandler):
     # --- Existing Chat & Upload Functions ---
 
     def transcribe_audio(self):
+        if not self.allow_chat(self.get_current_user()):
+            return
         generator = self.server.generator
         if not generator:
             with suppress(Exception):
@@ -343,6 +410,8 @@ class Handler(BaseHTTPRequestHandler):
             self.send_json(HTTPStatus.INTERNAL_SERVER_ERROR, {"error": "Không thể nhận diện giọng nói lúc này."})
 
     def upload_document(self):
+        if not self.allow_chat(self.get_current_user()):
+            return
         if self.headers.get_content_type() != "application/octet-stream":
             self.send_json(HTTPStatus.UNSUPPORTED_MEDIA_TYPE, {"error": "Cần gửi nội dung tệp."})
             return
@@ -372,12 +441,15 @@ class Handler(BaseHTTPRequestHandler):
         self.send_json(HTTPStatus.CREATED, {"upload_id": upload_id, "name": document.name})
 
     def chat(self):
+        user = self.get_current_user()
+        if not self.allow_chat(user):
+            return
         if self.headers.get_content_type() != "application/json":
             self.send_json(HTTPStatus.UNSUPPORTED_MEDIA_TYPE, {"error": "Cần gửi dữ liệu JSON."})
             return
         try:
             size = int(self.headers.get("Content-Length", "0"))
-            if not 0 < size <= 65536:
+            if not 0 < size <= MAX_CHAT_BODY:
                 raise ValueError
             payload = json.loads(self.rfile.read(size))
             question = payload.get("question", "") if isinstance(payload, dict) else ""
@@ -393,11 +465,16 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         conversation_id = payload.get("conversation_id")
-        user = self.get_current_user()
 
         upload_id = payload.get("upload_id")
         if upload_id is not None and (not isinstance(upload_id, str) or len(upload_id) != 32):
             self.send_json(HTTPStatus.BAD_REQUEST, {"error": "Mã tệp không hợp lệ."})
+            return
+        question = question.strip()
+        if is_greeting_only(question):
+            self.send_json(HTTPStatus.OK, {
+                "intent": "greeting", "answer": "Chào bạn!", "passages": [],
+            })
             return
         document = self.server.uploads.get(upload_id) if upload_id is not None else None
         if upload_id is not None and document is None:
@@ -406,33 +483,73 @@ class Handler(BaseHTTPRequestHandler):
                 "code": "upload_unavailable",
             })
             return
-        question = question.strip()
+        def clarify(answer, *, error=None):
+            result = {"intent": "clarification", "answer": answer,
+                      "passages": [], "source_ids": []}
+            if error:
+                result["context_error"] = error
+            if document is not None:
+                result["document"] = document.name
+            self.send_json(HTTPStatus.OK, result)
+
         original_question = question
         generator = self.server.generator
+        index = document if document is not None else self.server.index
         passages = []
         context_person = None
-        if document and (person := resolve_person_reference(question, history)):
-            resolved, name = person
-            passages = document.search(resolved, required_phrase=name)
-            if passages:
-                question = resolved
-                context_person = name
-        if not passages:
-            index = document if document is not None else self.server.index
-            if history and is_follow_up(question):
-                # Try combined local search first (< 20ms instead of 2-3s Gemini rewrite API call)
-                prev_q = history[-1].get("question", "")
-                combined_q = f"{prev_q} {question}".strip()
-                passages = index.search(combined_q)
+        operation = "document_overview" if document and is_document_overview(question) else "question"
+        answer_history = history
+        person = resolve_person_reference(question, history) if document else None
+        if generator and history and operation != "document_overview":
+            for attempt in range(2):
+                try:
+                    resolution = generator.resolve_context(question, history)
+                except GenerationError as error:
+                    LOGGER.warning("Context resolution failed (attempt %d/2): %s", attempt + 1, error)
+                    if attempt == 1:
+                        clarify(
+                            "Mình chưa làm rõ được ngữ cảnh. Bạn hãy gửi lại câu hỏi "
+                            "kèm chủ đề, đối tượng hoặc tên người đang nhắc tới nhé.",
+                            error=str(error),
+                        )
+                        return
+                else:
+                    break
+            if resolution.intent == "clarification":
+                clarify(resolution.clarification)
+                return
+            question = resolution.question
+            if resolution.intent == "transform":
+                target = history[resolution.history_index]
+                if target.get("intent") == "clarification" or target.get("answer_truncated"):
+                    clarify("Lượt đó chưa có câu trả lời đầy đủ để tóm tắt hoặc giải thích. "
+                            "Bạn hãy gửi lại câu hỏi gốc nhé.")
+                    return
+                # Resolve IDs only against the active corpus/file; never trust browser source text.
+                source_index = document.index if document is not None else getattr(index, "keyword", index)
+                available = {passage_id(passage): passage for passage in source_index.passages}
+                source_ids = target.get("source_ids", [])
+                if not source_ids or any(key not in available for key in source_ids):
+                    clarify("Mình chưa có đủ nguồn của lượt đó để tóm tắt hoặc giải thích. "
+                            "Bạn hãy gửi lại câu hỏi đầy đủ để mình tra cứu nhé.")
+                    return
+                passages = [available[key] for key in source_ids]
+                answer_history = [target]
+                operation = "transform"
+        if operation in {"question", "document_overview"}:
+            if person and (not generator or question == person[0]):
+                resolved, name = person
+                passages = document.search(resolved, required_phrase=name)
                 if passages:
-                    question = combined_q
-                elif generator:
-                    with suppress(GenerationError):
-                        question = generator.rewrite_question(question, history)
-                        passages = index.search(question)
+                    question = resolved
+                    context_person = name
             if not passages:
+                if history and not generator and operation == "question" and is_follow_up(question):
+                    clarify("Mình chưa làm rõ được câu hỏi tiếp nối. Bạn hãy ghi đầy đủ "
+                            "chủ đề, đối tượng hoặc tên người muốn tra cứu nhé.",
+                            error="Chưa bật Gemini để xử lý ngữ cảnh.")
+                    return
                 passages = index.search(question)
-
         # Save user question to DB in background
         if user and conversation_id:
             threading.Thread(
@@ -441,7 +558,9 @@ class Handler(BaseHTTPRequestHandler):
                 daemon=True,
             ).start()
 
-        result = {"passages": [asdict(passage) for passage in passages]}
+        result = {"intent": "question" if operation == "document_overview" else operation,
+                  "passages": [asdict(passage) for passage in passages],
+                  "source_ids": [passage_id(passage) for passage in passages]}
         if question != original_question:
             result["resolved_question"] = question
         if context_person is not None:
@@ -451,12 +570,15 @@ class Handler(BaseHTTPRequestHandler):
 
         if generator and passages and self.headers.get("Accept") == "application/x-ndjson":
             with suppress(ConnectionError):
-                self.stream_answer(question, passages, result, generator, user=user, conversation_id=conversation_id)
+                self.stream_answer(question, passages, result, generator,
+                                   history=answer_history, operation=operation,
+                                   user=user, conversation_id=conversation_id)
             return
 
         if generator and passages:
             try:
-                answer = generator.answer(question, passages)
+                answer = generator.answer(question, passages, history=answer_history,
+                                          operation=operation, require_complete=True)
                 result["answer"] = answer
                 result["model"] = generator.model
                 if user and conversation_id:
@@ -493,7 +615,8 @@ class Handler(BaseHTTPRequestHandler):
 
         self.send_json(HTTPStatus.OK, result)
 
-    def stream_answer(self, question, passages, result, generator, user=None, conversation_id=None):
+    def stream_answer(self, question, passages, result, generator, *, history=(),
+                      operation="question", user=None, conversation_id=None):
         self.send_response(HTTPStatus.OK)
         self.send_header("Content-Type", "application/x-ndjson; charset=utf-8")
         self.send_header("Cache-Control", "no-store")
@@ -510,13 +633,15 @@ class Handler(BaseHTTPRequestHandler):
 
         try:
             send_event({**result, "model": generator.model})
-            with closing(generator.stream_answer(question, passages)) as stream:
+            with closing(generator.stream_answer(question, passages, history=history,
+                                                 operation=operation)) as stream:
                 for delta in stream:
                     collected_answer.append(delta)
                     send_event({"delta": delta})
         except IncompleteGenerationError:
             try:
-                answer = generator.answer(question, passages, require_complete=True)
+                answer = generator.answer(question, passages, history=history, operation=operation,
+                                          require_complete=True)
                 collected_answer = [answer]
             except GenerationError as error:
                 send_event({"generation_error": str(error), "done": True})

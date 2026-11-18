@@ -1,7 +1,5 @@
-"use strict";
+import { checkAdminSession } from "./admin-session.js";
 
-const userInfo = document.querySelector("#admin-user-info");
-const logoutBtn = document.querySelector("#admin-logout-btn");
 const statDocCount = document.querySelector("#stat-doc-count");
 const statMode = document.querySelector("#stat-mode");
 const statEmbeddingModel = document.querySelector("#stat-embedding-model");
@@ -17,10 +15,6 @@ const uploadForm = document.querySelector("#admin-upload-form");
 
 const reindexAllBtn = document.querySelector("#reindex-all-btn");
 const reindexStatus = document.querySelector("#reindex-status");
-
-const quickTestInput = document.querySelector("#quick-test-input");
-const quickTestBtn = document.querySelector("#quick-test-btn");
-const quickTestResults = document.querySelector("#quick-test-results");
 
 const docTableBody = document.querySelector("#doc-table-body");
 const docTableCount = document.querySelector("#doc-table-count");
@@ -44,25 +38,6 @@ function formatBytes(bytes) {
   const sizes = ["B", "KB", "MB", "GB"];
   const i = Math.floor(Math.log(bytes) / Math.log(k));
   return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + " " + sizes[i];
-}
-
-async function checkAuth() {
-  try {
-    const res = await fetch("/api/auth/me");
-    if (!res.ok) {
-      window.location.href = "/";
-      return;
-    }
-    const data = await res.json();
-    if (data.user.role !== "admin") {
-      alert("Bạn không có quyền quản trị viên. Chuyển về trang chat.");
-      window.location.href = "/";
-      return;
-    }
-    userInfo.textContent = `Quản trị viên: ${data.user.username}`;
-  } catch (err) {
-    window.location.href = "/";
-  }
 }
 
 async function loadStatus() {
@@ -264,66 +239,6 @@ docSearchFilter.addEventListener("input", (e) => {
   renderDocuments(filtered);
 });
 
-// Quick Test Search
-quickTestBtn.addEventListener("click", async () => {
-  const q = quickTestInput.value.trim();
-  if (!q) return;
-
-  quickTestBtn.disabled = true;
-  quickTestBtn.textContent = "Đang tìm...";
-  quickTestResults.hidden = false;
-  quickTestResults.innerHTML = "Đang truy vấn vector và trích xuất ngữ cảnh...";
-
-  try {
-    const res = await fetch("/api/chat", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: jsonBody({ question: q }),
-    });
-    const data = await res.json();
-    if (res.ok) {
-      if (!data.passages || data.passages.length === 0) {
-        quickTestResults.innerHTML = `<em>Không tìm thấy đoạn văn nào phù hợp. Câu trả lời:</em><br><p>${escapeHtml(data.answer || "Không có câu trả lời.")}</p>`;
-      } else {
-        let html = `<strong>Tìm thấy ${data.passages.length} đoạn liên quan:</strong>`;
-        data.passages.forEach((p, idx) => {
-          html += `
-            <div class="test-passage-item">
-              <div class="test-passage-title">${idx + 1}. ${escapeHtml(p.title)} · ${escapeHtml(p.section)}</div>
-              <div>${escapeHtml(p.text.slice(0, 160))}...</div>
-            </div>
-          `;
-        });
-        if (data.answer) {
-          html += `<div style="margin-top: 10px; padding-top: 8px; border-top: 1px dashed #d1d5db;"><strong>Câu trả lời AI:</strong><br>${escapeHtml(data.answer)}</div>`;
-        }
-        quickTestResults.innerHTML = html;
-      }
-    } else {
-      quickTestResults.innerHTML = `<span style="color: #dc2626;">Lỗi: ${escapeHtml(data.error || "Lỗi truy vấn")}</span>`;
-    }
-  } catch (err) {
-    quickTestResults.innerHTML = `<span style="color: #dc2626;">Lỗi kết nối khi kiểm tra</span>`;
-  } finally {
-    quickTestBtn.disabled = false;
-    quickTestBtn.textContent = "Thử tìm";
-  }
-});
-
-function jsonBody(obj) {
-  return JSON.stringify(obj);
+if (await checkAdminSession()) {
+  await Promise.all([loadStatus(), loadDocuments()]);
 }
-
-// Logout
-logoutBtn.addEventListener("click", async () => {
-  try {
-    await fetch("/api/auth/logout", { method: "POST" });
-  } finally {
-    window.location.href = "/";
-  }
-});
-
-// Initial boot
-checkAuth();
-loadStatus();
-loadDocuments();

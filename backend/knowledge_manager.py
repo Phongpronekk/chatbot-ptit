@@ -7,7 +7,7 @@ import re
 import unicodedata
 
 from retrieval import KnowledgeBase, Passage, load_document, markdown_passages
-from uploads import docx_sections, pdf_sections, sheet_sections
+from uploads import chunks, docx_sections, pdf_sections, sheet_sections
 
 ROOT = Path(__file__).resolve().parent.parent
 KB_DIR = ROOT / "knowledge_base"
@@ -20,6 +20,19 @@ def sanitize_filename(name: str) -> str:
     if not name.endswith(".md"):
         name = Path(name).stem + ".md"
     return name
+
+
+def repair_fragmented_pdf_text(text):
+    """Join extraction fragments when PDF spaces survive on separate lines."""
+    lines = text.splitlines()
+    fragments = [line.strip() for line in lines if line.strip()]
+    if len(fragments) < 40:
+        return text
+    short_fragments = sum(len(fragment) <= 2 for fragment in fragments)
+    space_lines = sum(bool(line) and not line.strip() for line in lines)
+    if short_fragments / len(fragments) >= 0.6 and space_lines / len(lines) >= 0.15:
+        return "".join(lines).strip()
+    return text
 
 
 def document_to_markdown(filename: str, data: bytes) -> str:
@@ -42,9 +55,10 @@ def document_to_markdown(filename: str, data: bytes) -> str:
         sections = list(pdf_sections(data))
         lines = [f"# {title}\n"]
         for section, text in sections:
-            clean_text = text.strip()
-            if clean_text:
-                lines.append(f"## {section}\n\n{clean_text}\n")
+            clean_text = repair_fragmented_pdf_text(text).strip()
+            for number, chunk in enumerate(chunks(clean_text), start=1):
+                label = section if number == 1 else f"{section} · phần {number}"
+                lines.append(f"## {label}\n\n{chunk}\n")
         return "\n".join(lines)
 
     if ext == ".docx":

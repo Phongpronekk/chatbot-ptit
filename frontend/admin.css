@@ -9,6 +9,27 @@
   min-height: 100vh;
 }
 
+.admin-documents {
+  overflow-y: auto;
+}
+
+@media (max-width: 600px) {
+  .admin-documents .admin-topbar,
+  .admin-documents .admin-card-head {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .admin-documents .admin-topbar {
+    position: static;
+  }
+
+  .admin-documents .search-input {
+    min-width: 0;
+    width: 100%;
+  }
+}
+
 .admin-topbar {
   display: flex;
   justify-content: space-between;
@@ -26,25 +47,6 @@
   display: flex;
   align-items: center;
   gap: 20px;
-}
-
-.admin-back-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  color: #dc2626;
-  font-weight: 500;
-  text-decoration: none;
-  padding: 6px 12px;
-  border-radius: 6px;
-  background: #fef2f2;
-  font-size: 14px;
-  transition: all 0.2s;
-}
-
-.admin-back-btn:hover {
-  background: #fee2e2;
-  color: #b91c1c;
 }
 
 .admin-topbar-right {
@@ -85,17 +87,38 @@
   padding: 30px 20px 60px;
 }
 
-.admin-header h1 {
-  font-size: 26px;
-  margin: 0 0 8px 0;
-  color: #111827;
+.admin-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
 }
 
-.admin-header p {
-  color: #6b7280;
-  margin: 0 0 24px 0;
-  font-size: 15px;
-  line-height: 1.5;
+.admin-nav a {
+  color: #991b1b;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 8px 12px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.admin-nav a:hover {
+  background: #fef2f2;
+}
+
+.admin-nav a[aria-current="page"] {
+  color: #fff;
+  background: #b91c1c;
+  border-color: #b91c1c;
+}
+
+.admin-page-title {
+  margin: 0 0 18px;
+  color: #111827;
+  font-size: 26px;
 }
 
 /* Stats Grid */
@@ -295,60 +318,20 @@
 }
 
 /* Maintenance box */
-.maintenance-box {
-  margin-bottom: 24px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid #f3f4f6;
-}
-
 .reindex-status {
   font-size: 13px;
   margin-top: 8px;
   color: #4b5563;
 }
 
-/* Quick test */
-.quick-test-box h3 {
-  font-size: 15px;
-  margin: 0 0 4px 0;
-}
-
-.quick-test-input-group {
-  display: flex;
-  gap: 8px;
-}
-
-.quick-test-input-group input {
-  flex: 1;
-  padding: 8px 12px;
-  border: 1px solid #d1d5db;
-  border-radius: 6px;
-  font-size: 14px;
-}
-
-.quick-test-results {
-  margin-top: 12px;
-  background: #fafafa;
-  border: 1px solid #e5e7eb;
-  border-radius: 6px;
-  padding: 12px;
+.admin-panel-status {
+  margin: 12px 0 0;
+  color: #4b5563;
   font-size: 13px;
-  max-height: 220px;
-  overflow-y: auto;
 }
 
-.test-passage-item {
-  padding: 6px 0;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-.test-passage-item:last-child {
-  border-bottom: none;
-}
-
-.test-passage-title {
-  font-weight: 600;
-  color: #dc2626;
+.admin-panel-status:empty {
+  margin: 0;
 }
 
 /* Alerts */
@@ -385,14 +368,14 @@
   margin-top: 12px;
 }
 
-.doc-table {
+.admin-table {
   width: 100%;
   border-collapse: collapse;
   text-align: left;
   font-size: 14px;
 }
 
-.doc-table th {
+.admin-table th {
   background: #f9fafb;
   padding: 10px 12px;
   font-weight: 600;
@@ -400,13 +383,13 @@
   border-bottom: 1px solid #e5e7eb;
 }
 
-.doc-table td {
+.admin-table td {
   padding: 12px;
   border-bottom: 1px solid #f3f4f6;
   color: #1f2937;
 }
 
-.doc-table tr:hover {
+.admin-table tr:hover {
   background: #fafafa;
 }
 
@@ -416,4 +399,54 @@
 
 .text-center {
   text-align: center;
+}
+
+.account-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.account-actions .admin-btn {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.account-dialog {
+  width: min(440px, calc(100vw - 32px));
+  max-height: calc(100dvh - 32px);
+  overflow-y: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.account-dialog::backdrop {
+  background: rgb(0 0 0 / 35%);
+}
+
+.account-dialog h2 {
+  margin: 0 0 18px;
+  font-size: 20px;
+}
+
+.account-dialog label {
+  display: block;
+  margin: 12px 0 6px;
+}
+
+.account-dialog input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+}
+
+.account-dialog p {
+  font-size: 13px;
+  color: #4b5563;
+}
+
+#account-edit-error {
+  color: #b91c1c;
 }
