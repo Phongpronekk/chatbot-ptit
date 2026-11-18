@@ -35,10 +35,9 @@
             <span class="user-avatar" id="user-avatar">👤</span>
             <div class="user-names">
               <strong id="user-name-display">Người dùng</strong>
-              <span id="user-role-badge" class="role-badge">Sinh viên</span>
+              <span class="role-badge">Sinh viên</span>
             </div>
             <div class="topbar-user-actions">
-              <a id="admin-link-btn" href="/admin" class="admin-nav-btn" hidden>⚙ Admin</a>
               <button id="logout-btn" type="button" class="btn-logout">Đăng xuất</button>
             </div>
           </div>
@@ -84,11 +83,10 @@
         <div class="content-width">
           <div class="chat-notice" id="chat-notice" role="status" aria-live="polite" hidden></div>
           <div class="attachment-options" id="attachment-options" role="group" aria-label="Tệp cho câu hỏi tiếp theo" hidden>
-            <div id="attachment-name" class="attachment-name"></div>
             <div class="attachment-actions">
-              <button id="reuse-file" type="button" aria-pressed="false">Dùng lại tệp</button>
+              <label for="attachment-file">Tệp sử dụng</label>
+              <select id="attachment-file" aria-label="Chọn tệp dùng để trả lời"></select>
               <button id="replace-file" type="button">Tải tệp mới</button>
-              <button id="skip-file" type="button" aria-pressed="false">Không dùng tệp</button>
             </div>
           </div>
           <div class="attachment-status" id="attachment-status" role="status"></div>
@@ -129,18 +127,8 @@
           <label for="auth-password">Mật khẩu</label>
           <input id="auth-password" type="password" required autocomplete="current-password" placeholder="Nhập mật khẩu...">
         </div>
-        <div id="role-select-group" class="form-group" hidden>
-          <label for="auth-role">Vai trò tài khoản</label>
-          <select id="auth-role">
-            <option value="user">Sinh viên / Người dùng</option>
-            <option value="admin">Quản trị viên (Admin)</option>
-          </select>
-        </div>
         <button id="auth-submit-btn" type="submit" class="auth-submit-btn">Đăng nhập</button>
       </form>
-      <div class="auth-hint">
-        <small>Tài khoản Quản trị viên mặc định: <strong>admin</strong> / <strong>admin123</strong></small>
-      </div>
     </div>
   </div>
 </body>

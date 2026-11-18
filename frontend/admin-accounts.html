@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf8f6">
+  <title>PTIT Admin · Tài khoản</title>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/admin.css">
+</head>
+<body class="admin-body">
+  <header class="admin-topbar">
+    <div class="admin-topbar-left">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">P</span>
+        <div><strong>PTIT Admin</strong><span>Quản trị hệ thống</span></div>
+      </div>
+    </div>
+    <div class="admin-topbar-right">
+      <div id="admin-user-info" class="user-badge">Đang xác thực…</div>
+      <button id="admin-logout-btn" class="admin-logout-btn" type="button">Đăng xuất</button>
+    </div>
+  </header>
+
+  <main class="admin-container">
+    <nav class="admin-nav" aria-label="Các mục quản trị">
+      <a href="/admin">Tài liệu</a>
+      <a href="/admin/accounts" aria-current="page">Tài khoản</a>
+    </nav>
+    <h1 class="admin-page-title">Quản lý tài khoản</h1>
+
+    <section class="admin-card" aria-label="Danh sách tài khoản">
+      <p id="account-status" class="admin-panel-status" role="status">Đang tải tài khoản…</p>
+      <div class="table-responsive" id="account-list" hidden>
+        <table class="admin-table">
+          <thead>
+            <tr><th scope="col">Tên đăng nhập</th><th scope="col">Vai trò</th><th scope="col">Trạng thái</th><th scope="col">Ngày tạo</th><th scope="col">Thao tác</th></tr>
+          </thead>
+          <tbody id="account-table-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="account-editor" class="account-dialog" aria-labelledby="account-editor-title">
+    <form id="account-edit-form">
+      <h2 id="account-editor-title">Sửa tài khoản</h2>
+      <label for="account-username">Tên đăng nhập</label>
+      <input id="account-username" name="username" required minlength="3" maxlength="50" autocomplete="off">
+      <label for="account-password">Mật khẩu mới</label>
+      <input id="account-password" name="password" type="password" minlength="6" autocomplete="new-password" aria-describedby="password-hint">
+      <p id="password-hint">Để trống nếu bạn muốn giữ mật khẩu hiện tại. Sau khi lưu, người dùng cần đăng nhập lại.</p>
+      <p id="account-edit-error" role="alert"></p>
+      <div class="account-actions">
+        <button type="button" class="admin-btn secondary" id="cancel-account-edit">Hủy</button>
+        <button type="submit" class="admin-btn primary">Lưu thay đổi</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="/admin-accounts.js" type="module"></script>
+</body>
+</html>

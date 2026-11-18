@@ -7,11 +7,9 @@ const mic = document.querySelector("#mic");
 const fileInput = document.querySelector("#upload-input");
 const upload = document.querySelector("#upload");
 const attachmentOptions = document.querySelector("#attachment-options");
-const attachmentName = document.querySelector("#attachment-name");
+const attachmentFile = document.querySelector("#attachment-file");
 const attachmentStatus = document.querySelector("#attachment-status");
-const reuseFile = document.querySelector("#reuse-file");
 const replaceFile = document.querySelector("#replace-file");
-const skipFile = document.querySelector("#skip-file");
 const status = document.querySelector("#status");
 const viewport = document.querySelector("#viewport");
 const welcome = document.querySelector("#welcome");
@@ -25,8 +23,6 @@ const userLoggedIn = document.querySelector("#user-logged-in");
 const userLoggedOut = document.querySelector("#user-logged-out");
 const userNameDisplay = document.querySelector("#user-name-display");
 const userAvatar = document.querySelector("#user-avatar");
-const userRoleBadge = document.querySelector("#user-role-badge");
-const adminLinkBtn = document.querySelector("#admin-link-btn");
 const logoutBtn = document.querySelector("#logout-btn");
 const openAuthModal = document.querySelector("#open-auth-modal");
 
@@ -38,8 +34,6 @@ const authAlert = document.querySelector("#auth-alert");
 const authForm = document.querySelector("#auth-form");
 const authUsername = document.querySelector("#auth-username");
 const authPassword = document.querySelector("#auth-password");
-const roleSelectGroup = document.querySelector("#role-select-group");
-const authRole = document.querySelector("#auth-role");
 const authSubmitBtn = document.querySelector("#auth-submit-btn");
 
 let currentUser = null;
@@ -49,10 +43,14 @@ const conversations = [];
 let activeConversation = null;
 let noticeTimer;
 const contextTurns = [];
+const MAX_HISTORY_TURNS = 6;
+const MAX_HISTORY_ANSWER_CHARS = 10000;
+const MAX_HISTORY_CHARS = 24000;
 let contextUploadId = null;
 let pending = false;
 let uploading = false;
 let latestFile = null;
+let uploadedFiles = [];
 let fileChoice = null;
 let mediaRecorder = null;
 let audioChunks = [];
@@ -343,19 +341,36 @@ function toggleRecording() {
 function updateComposer() {
   const busy = pending || uploading || isTranscribing;
   if (busy && isRecording) cancelRecording();
-  for (const button of [send, mic, upload, reuseFile, replaceFile, skipFile]) button.disabled = busy;
+  for (const button of [send, mic, upload, attachmentFile, replaceFile]) button.disabled = busy;
   for (const button of document.querySelectorAll(".conversation-button, .conversation-delete, #new-chat, #mobile-new")) button.disabled = busy;
   send.classList.toggle("is-loading", pending);
   send.setAttribute("aria-label", pending ? "Đang nhận câu trả lời" : "Gửi câu hỏi");
-  attachmentOptions.hidden = latestFile === null;
-  attachmentName.textContent = latestFile?.name ?? "";
-  attachmentName.title = attachmentName.textContent;
-  reuseFile.setAttribute("aria-pressed", String(latestFile !== null && fileChoice === "use"));
-  skipFile.setAttribute("aria-pressed", String(fileChoice === "skip"));
+  if (latestFile && !uploadedFiles.some(file => file.upload_id === latestFile.upload_id)) {
+    uploadedFiles.push(latestFile);
+  }
+  attachmentOptions.hidden = uploadedFiles.length === 0;
+  const options = uploadedFiles.map(file => {
+    const option = element("option", file.name);
+    option.value = file.upload_id;
+    return option;
+  });
+  const skipOption = element("option", "Không dùng tệp");
+  skipOption.value = "skip";
+  attachmentFile.replaceChildren(...options, skipOption);
+  attachmentFile.value = fileChoice === "skip" ? "skip" : latestFile?.upload_id ?? "skip";
+  attachmentFile.title = fileChoice === "skip" ? "Không dùng tệp" : latestFile?.name ?? "";
 }
 
-function chooseFile(choice) {
-  fileChoice = choice;
+function chooseFile(value) {
+  if (pending || uploading || isTranscribing) return;
+  if (value === "skip") {
+    fileChoice = "skip";
+  } else {
+    const file = uploadedFiles.find(file => file.upload_id === value);
+    if (!file) return;
+    latestFile = file;
+    fileChoice = "use";
+  }
   attachmentStatus.textContent = "";
   updateComposer();
   input.focus();
@@ -384,9 +399,12 @@ async function uploadFile(file) {
       attachmentStatus.textContent = result.error || "Không tải được tệp. Hãy thử lại.";
       return;
     }
-    latestFile = result;
-    fileChoice = "use";
-    attachmentStatus.textContent = "Tệp đã sẵn sàng cho câu hỏi tiếp theo.";
+    uploadedFiles.push(result);
+    if (uploadedFiles.length === 1) {
+      latestFile = result;
+      fileChoice = "use";
+    }
+    attachmentStatus.textContent = "Đã tải tệp. Tệp đang chọn sẽ được dùng cho các câu hỏi tiếp theo.";
     input.focus();
   } catch {
     attachmentStatus.textContent = "Không tải được tệp. Kiểm tra kết nối máy chủ rồi thử lại.";
@@ -497,9 +515,13 @@ function renderExcerpt(parent, text) {
   }
 }
 
-function renderAnswer(target, { passages, answer, model, document: filename, generation_error: generationError }) {
+function renderAnswer(target, { passages, answer, intent, model, document: filename, generation_error: generationError }) {
   const heading = element("strong", "PTIT Chat");
   target.replaceChildren(heading);
+  if (intent === "greeting" || intent === "clarification") {
+    target.append(element("p", answer));
+    return;
+  }
   if (!passages.length) {
     target.append(element("p", filename
       ? "Chưa tìm thấy đoạn phù hợp trong " + filename + ". Hãy thử cụm từ hoặc tên mục có trong tệp."
@@ -582,6 +604,7 @@ function saveConversation() {
     turns: [...contextTurns],
     contextUploadId,
     latestFile,
+    uploadedFiles: [...uploadedFiles],
     fileChoice,
     draft: input.value,
     attachmentStatus: attachmentStatus.textContent,
@@ -615,6 +638,7 @@ async function openConversation(conversation) {
   contextTurns.splice(0, contextTurns.length, ...conversation.turns);
   contextUploadId = conversation.contextUploadId;
   latestFile = conversation.latestFile;
+  uploadedFiles = [...(conversation.uploadedFiles ?? (latestFile ? [latestFile] : []))];
   fileChoice = conversation.fileChoice;
   input.value = conversation.draft;
   attachmentStatus.textContent = conversation.attachmentStatus;
@@ -690,26 +714,53 @@ async function readAnswer(response, target) {
   return result;
 }
 
+function isGreetingOnly(question) {
+  // Keep this in sync with conversation.is_greeting_only; the backend routes the request.
+  const text = question.toLowerCase().replaceAll("đ", "d").normalize("NFD")
+    .replace(/\p{M}/gu, "").replace(/[^\p{L}\p{N}_\s]/gu, " ")
+    .trim().replace(/\s+/g, " ");
+  return /^(?:(?:xin )?chao|hello|hi|hey)(?: (?:ban|bot|chatbot|ptit(?: chat)?|ad|admin|anh|chi|thay|co))?(?: (?:a|nhe|nha))?$/.test(text);
+}
+
+function rememberTurn(question, result) {
+  if (result.generation_error || result.intent === "greeting") return;
+  const characters = Array.from(result.answer ?? "");
+  contextTurns.push({
+    question: result.resolved_question ?? question,
+    answer: characters.slice(0, MAX_HISTORY_ANSWER_CHARS).join(""),
+    source_ids: result.intent !== "clarification" && Array.isArray(result.source_ids)
+      ? [...result.source_ids] : [],
+    intent: result.intent ?? "question",
+    person: result.context_person,
+    ...(characters.length > MAX_HISTORY_ANSWER_CHARS ? { answer_truncated: true } : {}),
+  });
+  let size = contextTurns.reduce((total, turn) =>
+    total + Array.from(turn.question).length + Array.from(turn.answer).length, 0);
+  while (contextTurns.length > MAX_HISTORY_TURNS || size > MAX_HISTORY_CHARS) {
+    const removed = contextTurns.shift();
+    size -= Array.from(removed.question).length + Array.from(removed.answer).length;
+  }
+}
+
 async function ask(value) {
   cancelRecording();
   const question = value.trim();
   if (!question || pending || uploading) return;
-  if (latestFile && fileChoice === null) {
-    input.value = question;
-    attachmentStatus.textContent = "Chọn cách dùng tệp cho câu hỏi này.";
-    reuseFile.focus();
-    return;
+  const greetingOnly = isGreetingOnly(question);
+  if (!greetingOnly && latestFile && fileChoice === null) {
+    fileChoice = "use";
   }
-  const attachedFile = fileChoice === "use" ? latestFile : null;
+  const attachedFile = !greetingOnly && fileChoice === "use" ? latestFile : null;
   const uploadId = attachedFile?.upload_id ?? null;
-  if (contextUploadId !== uploadId) {
+  if (!greetingOnly && contextUploadId !== uploadId) {
     contextTurns.length = 0;
     contextUploadId = uploadId;
   }
   pending = true;
   showNotice("");
-  fileChoice = null;
-  attachmentStatus.textContent = "";
+  if (!greetingOnly) {
+    attachmentStatus.textContent = "";
+  }
   updateComposer();
   input.value = "";
   if (!activeConversation) {
@@ -733,7 +784,9 @@ async function ask(value) {
   if (attachedFile) userMessage.append(element("span", attachedFile.name, "message-attachment"));
   const reply = element("article", "", "message answer");
   reply.setAttribute("aria-busy", "true");
-  reply.append(element("strong", "PTIT Chat"), loadingIndicator(attachedFile
+  reply.append(element("strong", "PTIT Chat"), loadingIndicator(greetingOnly
+    ? "Đang phản hồi…"
+    : attachedFile
     ? "Đang tìm trong " + attachedFile.name + "…"
     : "Đang tìm trong kho tài liệu…"));
   messages.append(userMessage, reply);
@@ -751,9 +804,16 @@ async function ask(value) {
     });
     const result = await readAnswer(response, reply);
     renderAnswer(reply, result);
+    if (result.intent === "greeting") {
+      setConversationState("done");
+      return;
+    }
     if (result.generation_error) {
       setConversationState("error");
       showNotice("Câu trả lời gặp sự cố. Xem thông báo trong cuộc trò chuyện.", "error");
+    } else if (result.intent === "clarification") {
+      setConversationState("done");
+      showNotice("Bạn bổ sung thông tin để mình hiểu đúng câu hỏi nhé.", "info");
     } else if (!result.passages.length) {
       setConversationState("empty");
       showNotice("Chưa tìm thấy tài liệu phù hợp. Bạn thử bổ sung thông tin cho câu hỏi nhé.", "info");
@@ -761,16 +821,12 @@ async function ask(value) {
       setConversationState("done");
       showNotice("Đã trả lời câu hỏi của bạn.");
     }
-    const answer = result.generation_error ? "" : result.answer ?? "";
-    contextTurns.push({
-      question: result.resolved_question ?? question,
-      answer: Array.from(answer).slice(0, 700).join(""),
-      person: result.context_person,
-    });
-    if (contextTurns.length > 3) contextTurns.shift();
+    rememberTurn(question, result);
   } catch (error) {
     if (error.code === "upload_unavailable") {
-      latestFile = null;
+      uploadedFiles = uploadedFiles.filter(file => file.upload_id !== uploadId);
+      latestFile = uploadedFiles[0] ?? null;
+      fileChoice = latestFile ? "use" : null;
       if (!input.value) input.value = question;
       input.focus();
     }
@@ -784,7 +840,7 @@ async function ask(value) {
     reply.setAttribute("aria-busy", "false");
     pending = false;
     updateComposer();
-    reply.scrollIntoView({ block: "start" });
+    viewport.scrollTop = viewport.scrollHeight;
   }
 }
 
@@ -807,6 +863,7 @@ function resetChatView() {
   welcome.hidden = false;
   input.value = "";
   latestFile = null;
+  uploadedFiles = [];
   fileChoice = null;
   contextTurns.length = 0;
   contextUploadId = null;
@@ -827,8 +884,7 @@ form.addEventListener("submit", event => {
 mic.addEventListener("click", toggleRecording);
 upload.addEventListener("click", () => fileInput.click());
 replaceFile.addEventListener("click", () => fileInput.click());
-reuseFile.addEventListener("click", () => chooseFile("use"));
-skipFile.addEventListener("click", () => chooseFile("skip"));
+attachmentFile.addEventListener("change", () => chooseFile(attachmentFile.value));
 fileInput.addEventListener("change", () => {
   const [file] = fileInput.files;
   fileInput.value = "";
@@ -850,13 +906,9 @@ function updateUserUI(user) {
     userLoggedOut.hidden = true;
     userNameDisplay.textContent = user.username;
     userAvatar.textContent = user.username.charAt(0).toUpperCase();
-    userRoleBadge.textContent = user.role === "admin" ? "Quản trị viên" : "Sinh viên";
-    userRoleBadge.classList.toggle("admin", user.role === "admin");
-    adminLinkBtn.hidden = user.role !== "admin";
   } else {
     userLoggedIn.hidden = true;
     userLoggedOut.hidden = false;
-    adminLinkBtn.hidden = true;
   }
 }
 
@@ -873,7 +925,7 @@ function setAuthTab(mode) {
   authMode = mode;
   tabLogin.classList.toggle("active", mode === "login");
   tabRegister.classList.toggle("active", mode === "register");
-  roleSelectGroup.hidden = mode === "login";
+  authPassword.autocomplete = mode === "login" ? "current-password" : "new-password";
   authSubmitBtn.textContent = mode === "login" ? "Đăng nhập" : "Đăng ký";
   authAlert.hidden = true;
 }
@@ -882,19 +934,17 @@ async function handleAuthSubmit(e) {
   e.preventDefault();
   const username = authUsername.value.trim();
   const password = authPassword.value;
-  const role = authRole.value;
 
   authAlert.hidden = true;
   authSubmitBtn.disabled = true;
 
   const url = authMode === "login" ? "/api/auth/login" : "/api/auth/register";
-  const body = authMode === "login" ? { username, password } : { username, password, role };
 
   try {
     const res = await fetch(url, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(body),
+      body: JSON.stringify({ username, password }),
     });
     const data = await res.json();
     if (!res.ok) {
@@ -904,6 +954,10 @@ async function handleAuthSubmit(e) {
       return;
     }
 
+    if (data.user.role === "admin") {
+      window.location.replace("/admin");
+      return;
+    }
     updateUserUI(data.user);
     authModal.hidden = true;
     showNotice(authMode === "login" ? `Chào mừng trở lại, ${data.user.username}!` : `Đăng ký thành công tài khoản ${data.user.username}!`);
@@ -935,6 +989,10 @@ async function checkCurrentUser() {
     const res = await fetch("/api/auth/me");
     if (res.ok) {
       const data = await res.json();
+      if (data.user.role === "admin") {
+        window.location.replace("/admin");
+        return;
+      }
       updateUserUI(data.user);
       await fetchUserConversations();
     } else {
